@@ -1,0 +1,52 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Wed Jun  2 12:39:14 PDT 2021
+# Last Modified: Wed Jun  2 12:39:17 PDT 2021
+# Filename:      humdrum-chopin-first-editions/bin/makeMidi
+# Syntax:        perl 5
+# vim:           ts=3
+#
+# Description:   Convert Humdrum files in kern directory into MIDI files in midi directory.
+#                Run this program from the Makefile in the parent directory:
+#                    make midi
+#
+
+use strict;
+
+my $targetdir = "midi";
+
+my $hum2mid = `which hum2mid`;
+die "Cannot find hum2mid.  Install it before running this program.\n" if $hum2mid =~ /^\s*$/;
+chomp $hum2mid;
+
+`mkdir -p $targetdir`;
+
+my @humdrumFiles = glob("kern/*.krn");
+foreach my $file (@humdrumFiles) {
+	convertFile($file);
+}
+
+exit(0);
+
+
+###########################################################################
+
+
+##############################
+##
+## convertFile --
+##
+
+sub convertFile {
+	my ($file) = @_;
+	my $base = $file;
+	$base =~ s/.*\///;
+	$base =~ s/\.krn$//;
+	my $output = "$targetdir/$base.mid";
+	print STDERR "Converting $file ...\n";
+	`$hum2mid $file -o $output`;
+}
+
+
+

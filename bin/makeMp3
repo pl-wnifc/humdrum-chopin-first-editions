@@ -1,0 +1,57 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Wed Jun  2 12:44:17 PDT 2021
+# Last Modified: Wed Jun  2 12:44:22 PDT 2021
+# Filename:      humdrum-chopin-first-editions/bin/makeMp3
+# Syntax:        perl 5
+# vim:           ts=3
+#
+# Description:   Convert Humdrum files in kern directory into MP3 files in midi directory.
+#                Run this program from the Makefile in the parent directory:
+#                    make mp3
+#
+
+use strict;
+
+my $targetdir = "mp3";
+
+chomp (my $timidity = `which timidity`);
+chomp (my $lame = `which lame`);
+die "Cannot find timidity command\n" if $timidity =~ /^\s*$/;
+die "Cannot find lame command\n" if $lame =~ /^\s*$/;
+
+die "Run 'make midi' before trying to create MP3 files." if !-d "midi";
+
+`mkdir -p $targetdir`;
+
+my @midiFiles = glob("midi/*.mid");
+
+die "Run 'make midi' before trying to create MP3 files." if @midiFiles == 0;
+
+foreach my $file (@midiFiles) {
+	convertFile($file);
+}
+
+exit(0);
+
+
+###########################################################################
+
+
+##############################
+##
+## convertFile --
+##
+
+sub convertFile {
+	my ($file) = @_;
+	my $base = $file;
+	$base =~ s/.*\///;
+	$base =~ s/\.midi?$//;
+	my $output = "$targetdir/$base.mp3";
+	print STDERR "Converting $file ...\n";
+	`$timidity $file -m60000 --preserve-silence -Ow -o - 2> /dev/null | $lame - -b 64 $output 2> /dev/null`;
+}
+
+

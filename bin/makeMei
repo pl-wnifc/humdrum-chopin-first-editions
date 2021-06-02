@@ -1,0 +1,52 @@
+#!/usr/bin/perl
+#
+# Programmer:    Craig Stuart Sapp <craig.stanford.edu>
+# Creation Date: Wed Jun  2 12:22:24 PDT 2021
+# Last Modified: Wed Jun  2 12:36:54 PDT 2021
+# Filename:      humdrum-chopin-first-editions/bin/makeMei
+# Syntax:        perl 5
+# vim:           ts=3
+#
+# Description:   Convert Humdrum files in kern directory into MEI files in mei directory.
+#                Run this program from the Makefile in the parent directory:
+#                    make mei
+#
+
+use strict;
+
+my $targetdir = "mei";
+
+my $verovio = `which verovio`;
+die "Cannot find verovio.  Install it before running this program.\n" if $verovio =~ /^\s*$/;
+chomp $verovio;
+
+`mkdir -p $targetdir`;
+
+my @humdrumFiles = glob("kern/*.krn");
+foreach my $file (@humdrumFiles) {
+	convertFile($file);
+}
+
+exit(0);
+
+
+###########################################################################
+
+
+##############################
+##
+## convertFile --
+##
+
+sub convertFile {
+	my ($file) = @_;
+	my $base = $file;
+	$base =~ s/.*\///;
+	$base =~ s/\.krn$//;
+	my $output = "$targetdir/$base.mei";
+	print STDERR "Converting $file ...\n";
+	`$verovio $file -atmei -o $output`;
+}
+
+
+
