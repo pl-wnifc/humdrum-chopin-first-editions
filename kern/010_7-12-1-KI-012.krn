@@ -1,0 +1,1695 @@
+!!!!SEGMENT: 010_7-12-1-KI-012.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Etude No. 12.
+!!!OPS: Op. 10
+!!!PTL: Douze Grandes Études pour le Pianoforte
+!!!PPR: Kistner
+!!!PPP: Leipzig
+!!!NIFC-rismID: 1001001262
+!!!NIFC-shelfmark: PL-Wbfc 2439/n
+!!!OMD: ALLEGRO CON FUOCO.
+!!!OMD: ([quarter] = 160.)
+**kern	**fing	**kern	**fing	**dynam
+*part1	*	*part1	*	*part1
+*I"No. 12.	*	*I"No. 12.	*	*
+*staff2	*	*staff1	*	*
+*clefF4	*	*clefG2	*	*
+*k[b-e-a-]	*	*k[b-e-a-]	*	*
+*c:	*	*c:	*	*
+*M4/4	*	*M4/4	*	*
+*MM160	*	*MM160	*	*
+*met(c)	*	*met(c)	*	*
+=1	=1	=1	=1	=1
+!	!	!LO:TX:b:i:t=legatissimo.	!	!
+!LO:TX:b:t=P:palcowanie nad nutami:problem	!	!	!	!
+!	!	!	!	!LO:DY:rj
+8re>	.	2bbn^> 2gg^> 2ff^> 2dd^> 2bn^>/	.	f
+(<16a->LL	2	.	.	.
+16g>JJ	1	.	.	.
+16f>^>LL	2	.	.	.
+16d>	4	.	.	.
+16e->	3	.	.	.
+16d>JJ	1	.	.	.
+16Bn^>LL	2	2r	.	.
+16G	4	.	.	.
+16A-	3	.	.	.
+16GJJ	1	.	.	.
+16F^>LL	.	.	.	.
+16D	.	.	.	.
+16E-	.	.	.	.
+16DJJ	.	.	.	.
+=2	=2	=2	=2	=2
+16BBn^>LL	.	2r	.	.
+16GG	.	.	.	.
+16AA-	.	.	.	.
+16GGJJ	.	.	.	.
+16FF^>LL	.	.	.	.
+16DD	.	.	.	.
+16EE-	.	.	.	.
+16DDJJ	.	.	.	.
+16CC^>LL	2	4r	.	.
+16GGG	5	.	.	.
+16CC	.	.	.	.
+16GGGJJ	.	.	.	.
+16CC^>LL	.	8.aa-L 8.ff 8.ee- 8.a-	.	>
+16GGG	.	.	.	.
+16CC	.	.	.	.
+16GGGJJ)	.	16ggJk 16g	.	]
+=3	=3	=3	=3	=3
+8BBBn'<	.	2ddd/ 2gg/ 2ff/ 2dd/	.	f
+(<16a->LL	.	.	.	.
+16g>JJ	.	.	.	.
+16f>^>LL	.	.	.	.
+16d>	.	.	.	.
+16e->	.	.	.	.
+16d>JJ	.	.	.	.
+16Bn^>LL	.	2r	.	.
+16G	.	.	.	.
+16A-	.	.	.	.
+16GJJ	.	.	.	.
+16F^>LL	.	.	.	.
+16D	.	.	.	.
+16E-	.	.	.	.
+16DJJ	.	.	.	.
+!!LO:LB:g=original
+=4	=4	=4	=4	=4
+16BBn^>LL	.	2r	.	.
+16GG	.	.	.	.
+16AA-	.	.	.	.
+16GGJJ	.	.	.	.
+16FF^>LL	.	.	.	.
+16DD	.	.	.	.
+16EE-	.	.	.	.
+16DDJJ	.	.	.	.
+16CC^>LL	.	4r	.	.
+16GGG	.	.	.	.
+16CC	.	.	.	.
+16GGGJJ	.	.	.	.
+16CC^>LL	.	8.aa-L 8.ff 8.ee- 8.a-	.	>
+16GGG	.	.	.	.
+16CC	.	.	.	.
+16GGGJJ)	.	16ggJk 16g	.	]
+=5	=5	=5	=5	=5
+8BBBn	.	8fff 8ddd 8gg 8ff	.	.
+*clefG2	*	*	*	*
+!LO:TX:b:t=P:w źródle w taktach 5,6,7,8,9 dodatkowe palcowanie dopisane ołówkiem:problem	!	!LO:TX:b:i:t=con fuoco.	!	!
+16aa-LL	.	16aaa-^<LL	4	.
+16ggJJ	.	16gggJJ	3	.
+!	!	!LO:TX:t=P:problem:diminuendolike accent	!	!
+16ffLL	.	16fff^<LL	2	.
+16dd	.	16ddd	1	.
+16ee-	.	16eee-	4	.
+16ddJJ	.	16dddJJ	3	.
+!	!	!LO:TX:t=P:problem:diminuendolike accent	!	!
+16bnLL	.	16bbn^<LL	2	.
+16g	.	16gg	1	.
+16a-	.	16aa-	4	.
+16gJJ	.	16ggJJ	.	.
+!	!	!LO:TX:t=P:problem:diminuendolike accent	!	!
+16fLL	.	16ff^<LL	.	.
+16d	.	16dd	.	.
+16e-	.	16ee-	.	.
+16dJJ	.	16ddJJ	.	.
+*clefF4	*	*	*	*
+=6	=6	=6	=6	=6
+16BnLL	.	16bn^<LL	.	.
+16G	.	16g	.	.
+16A-	.	16a-	.	.
+16GJJ	.	16gJJ	.	.
+16FLL	.	16f^<LL	.	.
+16D	.	16d	.	.
+16E-	.	16e-	.	.
+16DJJ	.	16dJJ	.	.
+16BBn\LL	.	16B<^>LL	.	.
+16GG	.	16G<	.	.
+16AA-	.	16A-<	.	.
+16GGJJ	.	16G<JJ	.	.
+16FF\LL	.	16F<^>LL	.	.
+16DD	.	16D<	.	.
+16EE-	.	16E-<	.	.
+16DDJJ	.	16D<JJ	.	.
+!!LO:LB:g=original
+=7	=7	=7	=7	=7
+*	*^	*	*	*
+16CCLL	.	.	(>16C<LL	.	.
+16BBBn\	.	.	16BBn<	.	.
+16GG	.	1	16G<	4	.
+16FFJJ	.	.	16F<JJ	.	.
+16EE-LL	.	.	16E-<LL	.	.
+16DD\	.	.	16D<	.	.
+16EE-	.	2	16E-<	4	.
+16DDJJ	.	.	16D<JJ	.	.
+16CCLL	.	.	16C<LL	.	<
+16BBB\	.	.	16BB<	.	.
+16BB-X	.	1	16B-X<	4	.
+16AA-JJ	.	.	16A-<JJ	.	.
+16GGLL	.	.	16G<LL	.	.
+16FF\	.	.	16F<	.	.
+16GG	.	.	16G<	.	.
+16FFJJ	.	.	16F<JJ	.	.
+*	*v	*v	*	*	*
+=8	=8	=8	=8	=8
+16EE-LL	.	16E-<LL	.	.
+16DD\	.	16D<	.	.
+16E-	.	16e-	.	.
+16DJJ	.	16dJJ	.	.
+16CLL	.	16cLL	.	.
+16BBn\	.	16Bn	.	.
+16C	.	16c	.	.
+16BBJJ	.	16BJJ	.	.
+16AA-LL	.	16A-<LL	.	.
+16GG	.	16G<	.	.
+16AA-\	.	16A-<	.	.
+16GGJJ	.	16G<JJ	.	.
+16FFLL	.	16F<LL	.	.
+16EE-\	.	16E-<	.	.
+16FF	.	16F<	.	.
+16EE-JJ	.	16E-<JJ)	.	.
+=9	=9	=9	=9	=9
+(>16CC\LL	.	8C<	.	.
+16GG	2	.	.	.
+16C	1	8r	.	.
+16DJJ	4	.	.	.
+!	!	!	!	!LO:HP:b=2
+16E-LL	3	4rb	.	<
+16G	2	.	.	.
+16c	1	.	.	.
+16dJJ	3	.	.	[[
+!	!	!	!	!LO:HP:b=2
+16e-LL	2	2rb	.	>
+16d	.	.	.	.
+16c	.	.	.	.
+16GJJ	.	.	.	]
+16E-\LL	.	.	.	.
+16D	.	.	.	.
+16C	.	.	.	.
+16GGJJ)	.	.	.	.
+!!LO:LB:g=original
+=10	=10	=10	=10	=10
+*	*	*	*	*^
+(<16CCLL	5	2r	.	.	.
+!	!	!	!	!LO:HP:b=2	!
+16GG	2	.	.	<	.
+16C	1	.	.	.	.
+16DJJ	3	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16E-LL	2	.	.	>	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	.	.	]	.
+(<16CCLL	.	8r	.	.	.
+!	!	!	!	!LO:HP:b=2	!
+16GG	.	.	.	<	.
+16C	.	16r	.	.	f
+16DJJ	.	16cccKL 16cc	.	[	<
+!	!	!	!	!LO:HP:b=2	!
+16E-LL	.	8.ddd 8.dd	.	>	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	16eee-Jk 16ee-	.	]	[
+*	*	*	*	*v	*v
+=11	=11	=11	=11	=11
+*	*	*	*	*^
+!	!	!	!	!LO:HP:b=2	!
+(>16CCLL	.	2eee- 2ee-	.	<	.
+16GG	.	.	.	.	.
+16C	.	.	.	.	.
+16DJJ	.	.	.	.	.
+16E-LL	.	.	.	.	.
+16G	.	.	.	.	.
+16c	.	.	.	.	.
+16dJJ	.	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16e-LL	.	8r	.	>	.
+16d	.	.	.	.	.
+16c	.	16r	.	.	p
+16GJJ	.	16ggKL 16ee- 16cc 16g	.	.	<
+16E-LL	.	8.gg 8.ee- 8.cc 8.g	.	.	.
+16D\	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	16ggJk 16ee- 16cc 16g	.	]	[
+=12	=12	=12	=12	=12	=12
+!	!	!LO:TX:a:t=P:łuk także od 2a- do 8g:problem	!	!	!
+!	!	!LO:S:s=1:note:problem:note-level slur	!	!	!
+!	!	!LO:S:s=4:note:problem:note-level slur	!	!	!
+(<16CCLL	.	(>2aa-\ [>2ee-\ [>2cc\ (>2a-\	.	.	.
+!	!	!	!	!LO:HP:b=2	!
+16GG	.	.	.	<	>
+16C	.	.	.	.	.
+16DJJ	.	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16E-LL	.	.	.	>	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	.	.	]	]
+!	!	!LO:S:s=1:note:problem:note-level slur	!	!	!
+!	!	!LO:S:s=4:note:problem:note-level slur	!	!	!
+(<16CCLL	.	8gg) 8ee-] 8cc] 8g)	.	.	.
+!	!	!	!	!LO:HP:b=2	!
+16GG	.	.	.	<	.
+16C	.	16r	.	.	f
+16DJJ	.	(>16cccKL 16cc	.	[	<
+!	!	!	!	!LO:HP:b=2	!
+16E-LL	.	8.ddd 8.dd	.	>	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	16eee-Jk 16ee-	.	]	[
+!!LO:LB:g=original
+=13	=13	=13	=13	=13	=13
+!	!	!	!	!LO:HP:b=2	!
+(>16CCLL	.	2eee- 2ee-)	.	<	.
+16GG	.	.	.	.	.
+16C	.	.	.	.	.
+16DJJ	.	.	.	.	.
+16E-LL	.	.	.	.	.
+16G	.	.	.	.	.
+16c	.	.	.	.	.
+16dJJ	.	.	.	[[	.
+!	!	!	!	!LO:HP:b=2	!
+16e-LL	.	8r	.	>	.
+16d	.	.	.	.	.
+16c	.	16r	.	.	.
+16GJJ	.	16ggKL 16ee- 16cc 16g	.	.	<
+16E-LL	.	8.gg 8.ee- 8.cc 8.g	.	.	.
+16D	.	.	.	.	.
+16C	.	.	.	]	.
+16GGJJ)	.	16ggJk 16ee- 16cc 16g	.	.	[
+*	*	*	*	*v	*v
+=14	=14	=14	=14	=14
+!	!	!LO:TX:a:i:t=ten.	!	!
+(<16CCLL	.	1aan 1ee- 1cc 1an	.	fz
+16FF#X	.	.	.	.
+16C	.	.	.	.
+16DJJ	.	.	.	.
+16E-LL	.	.	.	.
+16D	.	.	.	.
+16C	.	.	.	.
+16FF#JJ)	.	.	.	.
+(<16CCLL	.	.	.	.
+16FF#	.	.	.	.
+16C	.	.	.	.
+16DJJ	.	.	.	.
+16E-LL	.	.	.	.
+16D	.	.	.	.
+16C	.	.	.	.
+16FF#JJ)	.	.	.	.
+=15	=15	=15	=15	=15
+*	*^	*	*	*
+(>16BBBnLL	.	.	8ddd 8aanX 8dd	.	.
+!	!	!	!	!	!LO:HP:b=2
+16BBn	.	1	.	.	<
+16D	.	4	8r	.	.
+16GJJ	.	2	.	.	[
+16dLL	.	1	4gg^> 4dd^> 4g^>	.	.
+16G	.	.	.	.	.
+16D	.	.	.	.	.
+16BBJJ)	.	.	.	.	.
+(>16BBB-XLL	.	.	8r	.	.
+16BB-X	.	.	.	.	.
+16D-X	.	.	16r	.	.
+16GJJ	.	.	16ggKL 16dd-X 16g	.	.
+16d-XLL	.	.	8.aa-X^> 8.dd-^> 8.a-^>	.	.
+16G	.	.	.	.	.
+16D-	.	.	.	.	.
+16BB-JJ)	.	.	16ggJk 16dd- 16g	.	.
+*	*v	*v	*	*	*
+!!LO:LB:g=original
+=16	=16	=16	=16	=16
+(>16AAAnLL	.	(>8ggL 8cc 8g	.	.
+16AAn	.	.	.	.
+16C	.	16cccJk 16cc)	.	.
+16FJJ	.	16r	.	.
+16cLL	.	4ff^> 4cc^> 4f^>	.	.
+16F	.	.	.	.
+16C	.	.	.	.
+16AAJJ)	.	.	.	.
+(>16AAA-XLL	.	8r	.	.
+16AA-X	.	.	.	.
+16C	.	16r	.	.
+16FJJ	.	16ffKL 16cc 16f	.	.
+16cLL	.	8.gg^> 8.cc^> 8.g^>	.	.
+16F	.	.	.	.
+16C	.	.	.	.
+16AA-JJ)	.	16ffJk 16cc 16f	.	.
+=17	=17	=17	=17	=17
+*	*^	*	*	*
+(>16GGGLL	.	5	[>2.een^< [>2.cc^< [<2.en^<	.	.
+!	!	!	!	!	!LO:HP:b=2
+16GG	.	1	.	.	<
+16C	.	3	.	.	.
+16BBnJJ	.	4	.	.	.
+16D-XLL	.	2	.	.	.
+16C	.	4	.	.	.
+16Dn	.	1	.	.	.
+16C#XJJ	.	3	.	.	.
+16E-LL	2	.	.	.	.
+16D	4	.	.	.	.
+16En	1	.	.	.	.
+16D#XJJ	3	.	.	.	.
+16FLL	.	.	8.eeL] 8.cc] 8.e]	.	.
+16E	.	.	.	.	.
+16G-X	.	.	.	.	.
+16FJJ)	.	.	16ee-X^<Jk 16e-X^<	.	[
+*	*v	*v	*	*	*
+=18	=18	=18	=18	=18
+*	*	*^	*	*
+(>16GLL	.	2bn	(>4ee- (<4e-	.	.
+16F#X	.	.	.	.	.
+16A-	.	.	.	.	.
+16GJJ	.	.	.	.	.
+16B-LL	.	.	4dd) 4d)	.	.
+16A-	.	.	.	.	.
+16G	.	.	.	.	.
+16FnJJ	.	.	.	.	.
+16E-LL/	.	2r	2ryy	.	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16BBnJJ	.	.	.	.	.
+16AA-LL/	.	.	.	.	.
+16GG	.	.	.	.	.
+16FF	.	.	.	.	.
+16DDJJ)	.	.	.	.	.
+*	*	*v	*v	*	*
+!!LO:PB:g=original
+=19	=19	=19	=19	=19
+(>16CCLL	.	1r	.	.
+!	!	!	!	!LO:HP:b=2
+16GG	.	.	.	<
+16C	.	.	.	.
+16DJJ	.	.	.	.
+16E-LL	.	.	.	.
+16G	.	.	.	.
+16c	.	.	.	.
+16dJJ	.	.	.	[
+!	!	!	!	!LO:HP:b=2
+16e-LL	.	.	.	>
+16d	.	.	.	.
+16c	.	.	.	.
+16GJJ	.	.	.	.
+16E-LL	.	.	.	]
+16D\	.	.	.	.
+16C	.	.	.	.
+16GGJJ)	.	.	.	.
+=20	=20	=20	=20	=20
+*	*	*	*	*^
+(<16CCLL	.	2r	.	.	.
+!	!	!	!	!LO:HP:b=2	!
+16GG	.	.	.	<	.
+16C	.	.	.	.	.
+16DJJ	.	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16E-LL	.	.	.	>	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	.	.	]	.
+(<16CCLL	.	8r	.	.	.
+!	!	!	!	!LO:HP:b=2	!
+16GG	.	.	.	<	.
+16C	.	16r	.	.	p
+!	!	!LO:N:vis=8	!	!	!
+16DJJ	.	16cccKL 16cc	.	[	<
+!	!	!	!	!LO:HP:b=2	!
+16E-LL	.	8.ddd 8.dd	.	>	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	16eee-Jk 16ee-	.	]	[
+=21	=21	=21	=21	=21	=21
+(>16CCLL	.	2eee- 2ee-	.	.	.
+!	!	!	!	!LO:HP:b=2	!
+16GG	.	.	.	<	.
+16C	.	.	.	.	.
+16DJJ	.	.	.	.	.
+16E-LL	.	.	.	.	.
+16G	.	.	.	.	.
+16c	.	.	.	.	.
+16dJJ	.	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16e-LL	.	8r	.	>	.
+16d	.	.	.	.	.
+16c	.	16r	.	.	.
+16GJJ	.	16ggKL 16ee- 16cc 16g	.	.	<
+16E-LL	.	8.gg 8.ee- 8.cc 8.g	.	]	.
+16D\	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	16ggJk 16ee- 16cc 16g	.	.	[
+!!LO:LB:g=original
+=22	=22	=22	=22	=22	=22
+(<16CCLL	.	(>2aa-\ [>2ee-\ [<2cc\ (<2a-\	.	]	.
+!	!	!	!	!LO:HP:b=2	!
+16GG	.	.	.	<	.
+16C	.	.	.	.	.
+16DJJ	.	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16E-LL	.	.	.	>	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	.	.	]	.
+!	!	!LO:TX:t=P:problem:akcent skierowany w drugą stronę	!	!	!
+(<16CCLL	.	8gg^<) 8ee-] 8cc] 8g)	.	.	.
+!	!	!	!	!LO:HP:b=2	!
+16GG	.	.	.	<	.
+16C	.	16r	.	.	.
+16DJJ	.	(>16cccKL 16cc	.	[	<
+!	!	!	!	!LO:HP:b=2	!
+16E-LL	.	8.ddd 8.dd	.	>	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	16eee-Jk 16ee-	.	]	.
+=23	=23	=23	=23	=23	=23
+(>16CCLL	.	2eee- 2ee-)	.	.	fz
+!	!	!	!	!LO:HP:b=2	!
+16GG	.	.	.	<	.
+16C	.	.	.	.	.
+16DJJ	.	.	.	.	.
+16E-LL	.	.	.	.	.
+16G	.	.	.	.	.
+16c	.	.	.	.	.
+16dJJ	.	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16e-LL	.	8r	.	>	.
+16d	.	.	.	.	.
+16c	.	16r	.	.	.
+16GJJ	.	(>16ggKL 16ee- 16cc 16g	.	.	<
+16E-LL	.	8.gg 8.ee- 8.cc 8.g	.	.	.
+16D	.	.	.	.	.
+16C	.	.	.	]	.
+16GGJJ)	.	16ggJk 16ee- 16cc 16g	.	.	[
+*	*	*	*	*v	*v
+=24	=24	=24	=24	=24
+!	!	!LO:TX:a:i:t=ten.	!	!
+(<16CCLL	.	1aan 1ff 1ee- 1an)	.	fz
+!	!	!	!	!LO:HP:b=2
+16FF	.	.	.	<
+16C	.	.	.	.
+16DJJ	.	.	.	[[
+!	!	!	!	!LO:HP:b=2
+16E-LL	.	.	.	>
+16D	.	.	.	.
+16C	.	.	.	.
+16FFJJ)	.	.	.	]
+(<16CCLL	.	.	.	.
+!	!	!	!	!LO:HP:b=2
+16FF	.	.	.	<
+16C	.	.	.	.
+16DJJ	.	.	.	[[
+!	!	!	!	!LO:HP:b=2
+16E-LL	.	.	.	>
+16D	.	.	.	.
+16C	.	.	.	.
+16FFJJ)	.	.	.	]
+!!LO:LB:g=original
+=25	=25	=25	=25	=25
+(>16DDn\LL	5	4.bb- 4.ff 4.b-	.	.
+16BB-	3	.	.	.
+16C-X	2	.	.	.
+16BB-JJ	.	.	.	.
+16B-LL	.	.	.	.
+16BB-	.	.	.	.
+16C-	.	4bb- 4ff 4b-	.	.
+16BB-JJ)	.	.	.	.
+(>16EE-\LL	.	.	.	.
+16BB-	.	.	.	<
+16C-	.	4bb- 4gg 4b-	.	.
+16BB-JJ	.	.	.	.
+16B-LL	.	.	.	.
+16BB-	.	.	.	.
+16C-	.	[>8bbn [>8gg [<8bn	.	.
+16BB-JJ)	.	.	.	.
+=26	=26	=26	=26	=26
+(>16EEn\LL	.	8bbnX] 8gg] 8bnX]	.	.
+16BB-	.	.	.	.
+16Cn	.	4ccc 4bb-X 4gg 4cc	.	.
+16BB-JJ	.	.	.	.
+16B-LL	.	.	.	.
+16BB-	.	.	.	.
+16C	.	4ccc#X 4bb- 4cc#X	.	.
+16BB-JJ)	.	.	.	.
+(>16FF\LL	.	.	.	.
+16BB-	3	.	.	.
+!	!	!LO:TX:b:i:t=stretto.	!	!
+16B-	.	8dddL 8bb- 8dd	.	.
+16BB-JJ)	.	.	.	.
+(>16GG-X\LL	.	8eee- 8bb- 8ee-	.	.
+16BB-	.	.	.	.
+16B-	.	8eeenJ 8bb- 8een	.	.
+16BB-JJ)	.	.	.	.
+=27	=27	=27	=27	=27
+*	*	*^	*	*
+*	*^	*	*	*	*
+16FFLL	.	.	2ryy	2fff 2ddd 2bb- 2ff	.	.
+16BB-\	.	.	.	.	.	.
+!	!	!	!	!	!	!LO:HP:b=2
+16D	.	.	.	.	.	<
+16FJJ	1	.	.	.	.	.
+16B-LL	3	.	.	.	.	.
+16d	2	.	.	.	.	.
+!LO:TX:t=P:problem:palcowanie nad nutami	!	!	!	!	!	!
+16g>	1	.	.	.	.	.
+16f>JJ	2	.	.	.	.	[
+!	!	!	!	!	!	!LO:HP:b=2
+!	!	!	!LO:S:s=1:note:problem:note-level slur	!	!	!
+16f>LL	.	1	(>4ddd 4bb- 4ff 4dd	4ryy	.	>
+16d>	.	.	.	.	.	.
+16B-	.	.	.	.	.	.
+16GJJ	.	.	.	.	.	]
+16F\LL	1	.	8.dddL	4aan 4ff 4ee-	.	>
+16E-	.	.	.	.	.	.
+16C	.	.	.	.	.	.
+16FFJJ	1	.	16cccJk)	.	.	]
+*	*v	*v	*	*	*	*
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=28	=28	=28	=28	=28
+16BBB-'<	.	8bb- 8ff 8dd	.	.
+(<16D-XLL	1	.	.	.
+16C	.	8r	.	.
+16C-XJJ	.	.	.	.
+16BB-LL	4	4r	.	.
+16Cn	1	.	.	.
+16C-X	.	.	.	.
+16BB-JJ	.	.	.	.
+16AAnLL	4	2r	.	.
+16C-	1	.	.	.
+16BB-	.	.	.	.
+16AAJJ	.	.	.	.
+16GG#XLL	4	.	.	.
+16BB-	1	.	.	.
+16AA	.	.	.	.
+16GG#JJ)	3	.	.	.
+=29	=29	=29	=29	=29
+!	!	!	!	!LO:DY:rj
+8GGG#X	5	2.bbn 2.gg#X 2.dd#X 2.bn	.	f
+(>16FF##XLL	5	.	.	.
+16GG#XJJ	.	.	.	.
+16BBnLL	.	.	.	.
+16D#X	1	.	.	.
+16AA#X	5	.	.	.
+16BBJJ	.	.	.	.
+16D#LL	.	.	.	.
+16G#X	1	.	.	.
+16C##X	5	.	.	.
+16D#JJ	.	.	.	.
+16G#LL	.	8.dd#XL 8.bn 8.g#X 8.d#X	.	<
+16Bn	1	.	.	.
+16F##X	.	.	.	.
+16G#JJ)	1	16ee#XJk 16e#X	.	[
+!!LO:LB:g=original
+=30	=30	=30	=30	=30
+16DD#X'<	.	2.ff#X 2.dd#X 2.a#X 2.f#X	.	.
+(>16d#XLL	1	.	.	.
+16E#X	5	.	.	.
+16F#XJJ)	.	.	.	.
+(>16A#XLL	.	.	.	.
+16d#	1	.	.	.
+16C##X	5	.	.	.
+16D#JJ	.	.	.	.
+16F#\LL	.	.	.	.
+16A#	1	.	.	.
+16GG##X	.	.	.	.
+16AA#XJJ	.	.	.	.
+16D#\LL	.	8.ff#L 8.f#	.	.
+16F#	1	.	.	.
+16EE#X	.	.	.	.
+16FF#JJ)	1	16gg#XJk 16g#X	.	.
+=31	=31	=31	=31	=31
+8FFF	5	2.aan 2.ff#X 2.cc#X 2.an	.	.
+(>16EE#XLL	5	.	.	.
+16FF#XJJ	.	.	.	.
+16AAnLL	.	.	.	.
+16C#X	1	.	.	.
+16GG#X	5	.	.	.
+16AAJJ	.	.	.	.
+16C#LL	.	.	.	.
+16F#	1	.	.	.
+16BB#X\	.	.	.	.
+16C#JJ	.	.	.	.
+16F#LL	.	8.cc#XL 8.an 8.f# 8.c#	.	<
+16An	1	.	.	.
+16E#X\	.	.	.	.
+16F#JJ)	1	16dd#XJk 16d#X	.	[[
+!!LO:LB:g=original
+=32	=32	=32	=32	=32
+16CC#X	5	2.een 2.cc#X 2.g#X 2.en	.	.
+(>16c#XLL	1	.	.	.
+16D#X	.	.	.	.
+16EnJJ	.	.	.	.
+16G#XLL	.	.	.	.
+16c#	.	.	.	.
+16BB#X	.	.	.	.
+16C#XJJ	.	.	.	.
+16ELL	.	.	.	.
+16G#	.	.	.	.
+16FF##X	.	.	.	.
+16GG#JJ	.	.	.	.
+16C#LL	.	8.ee/L 8.e/	.	<
+16E	1	.	.	.
+16DD#X	.	.	.	.
+16EEnJJ)	2	16ff#XJk 16f#X	.	[[
+=33	=33	=33	=33	=33
+16BBB#X'<	.	2.gg#X 2.ff#X 2.dd#X 2.g#X	.	.
+(>16d#XLL	1	.	.	.
+16F##X	.	.	.	.
+16G#XJJ	.	.	.	.
+16AnLL	1	.	.	.
+16G#	.	.	.	.
+!LO:N:acc=n#	!	!	!	!
+16F#X	.	.	.	.
+16EnJJ	1	.	.	.
+16D#XLL	.	.	.	.
+16C#X	.	.	.	.
+16BB#X	1	.	.	.
+16AAnJJ	.	.	.	.
+16FF##XLL	3	8.gg#L 8.ff# 8.dd# 8.g#	.	<
+16GG#X	2	.	.	.
+16DD#X	.	.	.	.
+16GG#JJ)	.	16aa#XJk 16a#X	.	[
+!!LO:PB:g=original
+=34	=34	=34	=34	=34
+*	*	*	*	*^
+16DDn	.	4ccc-X 4aa- 4ffn 4cc-X	.	.	.
+16fnLL	1	.	.	.	.
+16An	.	.	.	.	.
+16B-XJJ	.	.	.	.	.
+.	.	.	.	.	<
+!	!	!	!	!LO:HP:b=2	!
+16c-XLL	1	2bb- 2aa- 2ff 2b-	.	>	.
+16B-	.	.	.	.	.
+16A-X	.	.	.	.	.
+16G-XJJ	.	.	.	.	.
+16FLL	1	.	.	.	.
+16E-	.	.	.	.	.
+16D	1	.	.	.	.
+16C-XJJ	.	.	.	.	.
+16AAnLL	3	(>8.bb-L 8.aa-X 8.ff 8.b-	.	.	<
+16BB-	2	.	.	.	.
+16FF	.	.	.	]	.
+16BB-JJ	.	16cccnJk 16ccn	.	.	[
+*	*	*	*	*v	*v
+=35	=35	=35	=35	=35
+16EEn'<	.	4ddd-X 4bb- 4gg 4dd-X	.	]
+!LO:TX:a:t=P:w źródle nad nutą 16g jest kropka przypominająca staccato:problem	!	!	!	!
+(>16gLL	.	.	.	.
+16Bn	.	.	.	.
+16cJJ	.	.	.	.
+16d-XLL	2	4ccc 4bb- 4gg 4cc)	.	.
+16c	1	.	.	.
+16B-X	.	.	.	.
+16A-JJ	.	.	.	.
+16GLL	1	2r	.	.
+16F	.	.	.	.
+16En	.	.	.	.
+16GJJ	1	.	.	.
+16FLL	.	.	.	.
+16E	.	.	.	.
+16D-X	.	.	.	.
+16CJJ)	1	.	.	.
+!!LO:LB:g=original
+=36	=36	=36	=36	=36
+*	*^	*	*	*
+(>16BBnLL	.	.	1rdd	.	.
+16C	.	.	.	.	.
+16D-X	.	.	.	.	.
+16CJJ	.	1	.	.	.
+16BB-XLL	.	.	.	.	.
+16AA-	.	.	.	.	.
+16GG	1	.	.	.	.
+16FFJJ	.	.	.	.	.
+16EEnLL	.	.	.	.	.
+16DD-X	.	.	.	.	.
+16CC	1	.	.	.	.
+16BBBnJJ	.	.	.	.	.
+16CCLL	1	.	.	.	.
+16BBB-X	.	.	.	.	.
+16AAA-	.	.	.	.	.
+16GGGJJ)	.	.	.	.	.
+*	*v	*v	*	*	*
+=37	=37	=37	=37	=37
+!	!	!LO:TX:t=P:dim. poniżej ff:problem	!	!
+16FFFLL	5	(>2aaa- 2fff 2ccc 2aa-	.	ff >
+16CC	2	.	.	.
+16FF	1	.	.	]
+16GGJJ	4	.	.	.
+16AA-LL	3	.	.	.
+16C	2	.	.	.
+16F	1	.	.	.
+16GJJ	4	.	.	.
+!	!	!	!	!LO:HP:b=2
+16A-LL	3	4fff 4ccc 4ff	.	<
+16c	.	.	.	.
+16f>	.	.	.	.
+16g>JJ	.	.	.	[
+16a->LL	.	4ccc/ 4ff/ 4cc/	.	>
+16g>	.	.	.	.
+16f>	.	.	.	.
+16c>JJ	.	.	.	]
+=38	=38	=38	=38	=38
+*	*^	*	*	*
+16d-X>LL	.	.	2bb-/ [>2ff/ 2b-/	.	.
+16f>	.	.	.	.	.
+16d->	.	.	.	.	.
+16A-JJ	4	.	.	.	.
+16FLL	.	1	.	.	.
+16D-	.	2	.	.	.
+16AA-	.	.	.	.	.
+16FFJJ	.	.	.	.	.
+16DD-XLL	2	.	4aa-/ 4ff/] 4a-/)	.	]
+16AAA-	.	.	.	.	.
+16DD-	.	.	.	.	.
+16FFJJ	.	.	.	.	.
+16DD-LL	.	.	4r	.	.
+16AAA-	.	.	.	.	.
+16DD-	.	.	.	.	.
+16FFJJ	.	.	.	.	.
+*	*v	*v	*	*	*
+!!LO:LB:g=original
+=39	=39	=39	=39	=39
+16FFFLL	.	(>2aaa- 2fff 2ccc 2aa-	.	.
+16CC	.	.	.	.
+16FF	.	.	.	.
+16GGJJ	.	.	.	.
+16AA-LL	.	.	.	.
+16C	.	.	.	.
+16F	.	.	.	.
+16GJJ	.	.	.	.
+16A-LL	.	4fff 4ccc 4ff	.	.
+16c	.	.	.	.
+16f>	.	.	.	.
+16g>JJ	.	.	.	.
+16a->LL	.	4ccc/ 4ff/ 4cc/	.	.
+16g>	.	.	.	.
+16f>	.	.	.	.
+16c>JJ	.	.	.	.
+=40	=40	=40	=40	=40
+*	*^	*	*	*
+!LO:TX:b:t=P:palcowanie bezpośrednio pod belką:problem	!	!	!	!	!
+16d>LL	.	2	2.ccc/ 2.ff/ 2.cc/)	.	.
+16f>	.	1	.	.	.
+16d>	.	2	.	.	.
+16c>JJ	.	3	.	.	.
+16A-LL	4	.	.	.	.
+16F	1	.	.	.	.
+16D	.	.	.	.	.
+16CJJ	.	.	.	.	.
+16AA-/LL	.	.	.	.	.
+16FF	.	.	.	.	.
+16DD	.	.	.	.	.
+16CCJJ	.	.	.	.	.
+16AAA-LL	5	.	8.bbnL 8.ff 8.bn	.	<
+16CC	.	.	.	.	.
+16DD	.	.	.	.	.
+16AA-JJ	.	.	16cccJk 16cc	.	[
+*	*v	*v	*	*	*
+=41	=41	=41	=41	=41
+8GG 8GGG	.	2ddd 2bbn 2ff 2dd	.	ff
+(>16a->^<LL	.	.	.	.
+16g>JJ	.	.	.	.
+16f>LL	.	.	.	.
+16d>	.	.	.	.
+16e->	.	.	.	.
+16d>JJ)	.	.	.	.
+(>16Bn^>LL	.	2r	.	.
+16G	.	.	.	.
+16A-	.	.	.	.
+16GJJ	.	.	.	.
+!LO:TX:b:t=P:diminuendolike accent:problem	!	!	!	!
+16F^>LL	.	.	.	.
+16D	.	.	.	.
+16E-	.	.	.	.
+16DJJ	.	.	.	.
+!!LO:LB:g=original
+=42	=42	=42	=42	=42
+16BBn^>LL	.	2r	.	.
+16GG	.	.	.	.
+16AA-	.	.	.	.
+16GGJJ	.	.	.	.
+16FF^>LL	.	.	.	.
+16DD	.	.	.	.
+16EE-	.	.	.	.
+16DDJJ	.	.	.	.
+16CC^>LL	.	4ryy	.	.
+16GGG	.	.	.	.
+16CC	.	.	.	.
+16GGGJJ	.	.	.	.
+16CC^>LL	.	8.aa-L 8.ff 8.ee- 8.a-	.	.
+16GGG	.	.	.	.
+16CC	.	.	.	.
+16GGGJJ)	.	16ggJk 16g	.	.
+=43	=43	=43	=43	=43
+8BBBn	.	2fff 2ddd 2gg 2ff	.	.
+!	!	!	!	!LO:DY:rj
+(<16a->^<LL	.	.	.	f
+16g>JJ	.	.	.	.
+16f>^<LL	.	.	.	.
+16d>	.	.	.	.
+16e->	.	.	.	.
+16d>JJ	.	.	.	.
+16Bn^>LL	.	2r	.	.
+16G	.	.	.	.
+16A-	.	.	.	.
+16GJJ	.	.	.	.
+16F^>LL	.	.	.	.
+16D	.	.	.	.
+16E-	.	.	.	.
+16DJJ	.	.	.	.
+=44	=44	=44	=44	=44
+16BBnLL	.	2r	.	.
+16GG	.	.	.	.
+16AA-	.	.	.	.
+16GGJJ	.	.	.	.
+16FFLL	.	.	.	.
+16DD	.	.	.	.
+16EE-	.	.	.	.
+16DDJJ	.	.	.	.
+16CCLL	.	4r	.	.
+16GGG	.	.	.	.
+16CC	.	.	.	.
+16GGGJJ	.	.	.	.
+16CCLL	.	8.aa-L 8.ff 8.ee- 8.a-	.	.
+16GGG	.	.	.	.
+16CC	.	.	.	.
+16GGGJJ)	.	(>16ggJk 16g	.	.
+!!LO:LB:g=original
+=45	=45	=45	=45	=45
+8BBn	.	8ggg'> 8ddd'> 8gg'> 8ff'>)	.	f
+*clefG2	*	*	*	*
+(<16aa-LL	.	16aaa-LL	.	.
+16ggJJ	.	16gggJJ	.	.
+16ffLL	.	16fffLL	.	.
+16dd	.	16ddd	.	.
+16ee-	.	16eee-	.	.
+16ddJJ	.	16dddJJ	.	.
+16bnLL	.	16bbnLL	.	.
+16g	.	16gg	.	.
+16a-	.	16aa-	.	.
+16gJJ	.	16ggJJ	.	.
+16fLL	.	16ffLL	.	.
+16d	.	16dd	.	.
+16e-	.	16ee-	.	.
+16dJJ	.	16ddJJ	.	.
+*clefF4	*	*	*	*
+=46	=46	=46	=46	=46
+16BnLL	.	16bnLL	.	.
+16G	.	16g	.	.
+16A-	.	16a-	.	.
+16GJJ	.	16gJJ	.	.
+16FLL	.	16fLL	.	.
+16D	.	16d	.	.
+16E-	.	16e-	.	.
+16DJJ	.	16dJJ	.	.
+16BBn\LL	.	16B<LL	.	.
+16GG	.	16G<	.	.
+16AA-	.	16A-<	.	.
+16GGJJ	.	16G<JJ	.	.
+16FF\LL	.	16F<LL	.	.
+16DD	.	16D<	.	.
+16EE-	.	16E-<	.	.
+16DDJJ)	.	16D<JJ	.	.
+!!LO:LB:g=original
+=47	=47	=47	=47	=47
+16CC\LL	.	(>16C<LL	.	.
+16BBBn	.	16BBn<	.	.
+16GG	.	16G<	.	.
+16FFJJ	.	16F<JJ	.	.
+16EE-LL	.	16E-<LL	.	.
+16DD\	.	16D<	.	.
+16EE-	.	16E-<	.	.
+16DDJJ	.	16D<JJ)	.	.
+16CCLL	.	(>16C<LL	.	.
+16BBBn\	.	16BBn<	.	.
+16BB-X	.	16B-X<	.	.
+16AA-JJ	.	16A-<JJ	.	.
+16GG\LL	.	16G<LL	.	.
+16FF	.	16F<	.	.
+16GG	.	16G<	.	.
+16FFJJ	.	16F<JJ)	.	.
+=48	=48	=48	=48	=48
+16EE-LL	.	(>16E-<LL	.	.
+16DD\	.	16D<	.	.
+16E-	.	16e-	.	.
+16DJJ	.	16dJJ	.	.
+16C\LL	.	16c<LL	.	.
+16BBn	.	16Bn<	.	.
+16C	.	16c<	.	.
+16BBJJ	.	16B<JJ	.	.
+16AA-\LL	.	16A-<LL	.	.
+16GG	.	16G<	.	.
+16AA-	.	16A-<	.	.
+16GGJJ	.	16G<JJ	.	.
+16FF\LL	.	16F<LL	.	.
+16EE-	.	16E-<	.	.
+16FF	.	16F<	.	.
+16EE-JJ	.	16E-<JJ)	.	.
+=49	=49	=49	=49	=49
+(>16CC\LL	.	8C<	.	.
+16GG	.	.	.	.
+16C	.	8r	.	.
+16DJJ	.	.	.	.
+16E-\LL	.	4r	.	.
+16G	.	.	.	.
+16c	.	.	.	.
+16dJJ	.	.	.	.
+16e-LL	.	2r	.	.
+16d	.	.	.	.
+16c	.	.	.	.
+16GJJ	.	.	.	.
+16E-\LL	.	.	.	.
+16D	.	.	.	.
+16C	.	.	.	.
+16GGJJ)	.	.	.	.
+!!LO:PB:g=original
+=50	=50	=50	=50	=50
+(<16CCLL	.	2r	.	.
+!	!	!	!	!LO:HP:b=2
+16GG	.	.	.	<
+16C	.	.	.	.
+16DJJ	.	.	.	[
+!	!	!	!	!LO:HP:b=2
+16E-LL	.	.	.	>
+16D	.	.	.	.
+16C	.	.	.	.
+16GGJJ)	.	.	.	]
+(<16CCLL	.	8r	.	.
+!	!	!	!	!LO:HP:b=2
+16GG	.	.	.	<
+16C	.	16r	.	.
+16DJJ	.	16ccc 16cc	.	[
+!	!	!	!	!LO:HP:b=2
+!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+16E-LL	.	(>12ccc#XL 12cc#X	.	>
+16D	.	.	.	.
+.	.	12.ddd 12.dd	.	.
+16C	.	.	.	.
+16GGJJ)	.	.	.	]
+.	.	24eee-Jk 24ee-)	.	.
+=51	=51	=51	=51	=51
+*	*	*	*	*^
+!	!	!	!	!LO:HP:b=2	!
+(>16CCLL	.	2eee- 2ee-	.	<	.
+16GG	.	.	.	.	.
+16C	.	.	.	.	.
+16DJJ	.	.	.	.	.
+16E-LL	.	.	.	.	.
+16G	.	.	.	.	.
+16c	.	.	.	.	.
+16dJJ	.	.	.	[[	.
+!	!	!	!	!LO:HP:b=2	!
+16e-LL	.	8r	.	>	.
+16d	.	.	.	.	.
+*	*	*	*	*	*above
+16c	.	16r	.	.	p
+16GJJ	.	16ggKL 16ee- 16cc 16g	.	.	<
+16E-\LL	.	8.gg 8.ee- 8.cc 8.g	.	.	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	16ggJk 16ee- 16cc 16g	.	]	[
+*	*	*	*	*	*below
+=52	=52	=52	=52	=52	=52
+(<16CCLL	.	(>2aa- [>2ee- [>2cc (<2a-	.	.	.
+!	!	!	!	!LO:HP:b=2	!
+16GG	.	.	.	<	.
+16C	.	.	.	.	.
+16DJJ	.	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16E-LL	.	.	.	>	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	.	.	]	.
+!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!
+(<16CCLL	.	(>12gg) 12ee-] 12cc] 12g)	.	.	.
+!	!	!	!	!LO:HP:b=2	!
+16GG	.	.	.	<	.
+.	.	12bbnL 12bn	.	.	.
+16C	.	.	.	.	.
+.	.	12cccJ 12cc	.	.	.
+16DJJ	.	.	.	[	f
+!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!
+!	!	!	!	!LO:HP:b=2	!
+16E-LL	.	12ccc#XL 12cc#X	.	>	<
+16D	.	.	.	.	.
+.	.	12ddd 12dd)	.	.	.
+16C	.	.	.	.	.
+.	.	24rdd	.	.	.
+16GGJJ)	.	.	.	]	.
+.	.	24eee-Jk 24ee-	.	.	[[
+!!LO:LB:g=original
+=53	=53	=53	=53	=53	=53
+!	!	!	!	!LO:HP:b=2	!
+16CCLL	.	2eee- 2ee-	.	<	.
+16GG	.	.	.	.	.
+16C	.	.	.	.	.
+16DJJ	.	.	.	.	.
+16E-LL	.	.	.	.	.
+16G	.	.	.	.	.
+16c	.	.	.	.	.
+16dJJ	.	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16e-LL	.	8r	.	>	.
+16d	.	.	.	.	.
+16c	.	16r	.	.	p >
+16GJJ	.	16ggKL 16ee- 16cc 16g	.	.	.
+16E-LL	.	8.gg 8.ee- 8.cc 8.g	.	.	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ	.	16ggJk 16ee- 16cc 16g	.	]	]
+*	*	*	*	*v	*v
+=54	=54	=54	=54	=54
+*	*^	*	*	*
+(<16CCLL	.	5	(>1aan 1ee- 1cc 1an	.	fz
+16FF#X	.	2	.	.	.
+16C	.	1	.	.	.
+16DJJ	.	3	.	.	.
+16E-LL	.	2	.	.	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16FF#JJ)	.	.	.	.	.
+(<16CCLL	.	.	.	.	.
+16FF#	.	.	.	.	.
+16C	.	.	.	.	.
+16DJJ	.	.	.	.	.
+16E-LL	.	.	.	.	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16FF#JJ)	.	.	.	.	.
+*	*v	*v	*	*	*
+=55	=55	=55	=55	=55
+*	*^	*	*	*
+(<16BBBnLL	.	5	8ddd'>: 8aa'>: 8dd'>: 8an'>:)	.	.
+16BBn	.	1	.	.	.
+16D	.	4	8r	.	.
+16GJJ	.	2	.	.	.
+16dLL	1	.	4gg^> 4dd^> 4g^>	.	.
+16G	.	.	.	.	.
+16D	.	.	.	.	.
+16BBJJ)	.	.	.	.	.
+!	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+(<16BBB-XLL	.	5	(>12r	.	.
+16BB-	.	1	.	.	.
+.	.	.	12ggL 12dd-X 12g	.	.
+16D-X	.	.	.	.	.
+.	.	.	12ggJ 12dd- 12g)	.	.
+16GJJ	.	.	.	.	.
+!	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+16d-LL	.	.	(>12ggL 12dd- 12g	.	.
+16G	.	.	.	.	.
+.	.	.	12aa- 12dd- 12a-	.	.
+16D-	.	.	.	.	.
+.	.	.	24rdd	.	.
+16BB-JJ)	.	.	.	.	.
+.	.	.	24ggJk 24dd- 24g)	.	.
+*	*v	*v	*	*	*
+!!LO:LB:g=original
+=56	=56	=56	=56	=56
+(>16AAAnLL	.	(>16ggLL 16ccn 16g	.	.
+16AAn	.	16cccJJ 16cc)	.	.
+16C	.	8r	.	.
+16FJJ	.	.	.	.
+16cLL	.	4ff^> 4cc^> 4f^>	.	.
+16F	.	.	.	.
+16C	.	.	.	.
+16AAJJ)	.	.	.	.
+!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+(>16AAA-XLL	.	(>12r	.	.
+16AA-X	.	.	.	.
+.	.	12ffL 12cc 12f	.	.
+16C	.	.	.	.
+.	.	12ffJ 12cc 12f	.	.
+16FJJ	.	.	.	.
+*	*	*	*	*above
+16cLL	.	16eenLL 16cc 16en	.	<
+16F	.	16ff 16cc 16f	.	.
+16C	.	16gg 16cc 16g)	.	[
+16AA-JJ)	.	32r	.	.
+*	*	*	*	*below
+.	.	32ffJJk 32cc 32f	.	.
+=57	=57	=57	=57	=57
+*	*	*^	*	*
+(>16GGGLL	.	4een/ 4cc/ 4en/	4ryy	.	.
+16GG	.	.	.	.	.
+16C	.	.	.	.	.
+16BBnJJ	.	.	.	.	.
+16D-XLL	.	[>2ee-X/ [<2e-X/	2.cc/	.	.
+16C	.	.	.	.	.
+16Dn	.	.	.	.	.
+16C#XJJ	.	.	.	.	.
+16E-LL	.	.	.	.	.
+16D	.	.	.	.	.
+16En	.	.	.	.	.
+16D#XJJ	.	.	.	.	.
+16FLL	.	8.ee-/L] 8.e-/]	.	.	.
+16E	.	.	.	.	.
+16G-X	.	.	.	.	.
+16FJJ)	.	16ee-Jk 16e-	.	.	.
+!!LO:LB:g=original
+=58	=58	=58	=58	=58	=58
+16GLL	.	2bn	(<(>4ee- 4e-	.	.
+16F#X	.	.	.	.	>
+16A-	.	.	.	.	.
+16GJJ	.	.	.	.	.
+16B-LL	.	.	4dd 4d))	.	.
+16A-	.	.	.	.	.
+16G	.	.	.	.	.
+16FnJJ	.	.	.	.	.
+16E-LL	.	2r	2ryy	.	.
+16D\	.	.	.	.	.
+16C	.	.	.	.	.
+16BBnJJ	.	.	.	.	.
+16AA-LL	.	.	.	.	.
+16GG	.	.	.	.	.
+16FF	.	.	.	.	]
+16DDJJ	.	.	.	.	.
+*	*	*v	*v	*	*
+=59	=59	=59	=59	=59
+(>16CCLL	.	1rdd	.	.
+!	!	!	!	!LO:HP:b=2
+16GG	.	.	.	<
+16C	.	.	.	.
+16DJJ	.	.	.	.
+16E-LL	.	.	.	.
+16G	.	.	.	.
+16c	.	.	.	.
+16dJJ	.	.	.	[
+!	!	!	!	!LO:HP:b=2
+16e-LL	.	.	.	>
+16d	.	.	.	.
+16c	.	.	.	.
+16GJJ	.	.	.	.
+16E-\LL	.	.	.	.
+16D	.	.	.	.
+16C	.	.	.	.
+16GGJJ)	.	.	.	]
+=60	=60	=60	=60	=60
+*	*	*	*	*^
+(<16CCLL	.	2r	.	.	.
+!	!	!	!	!LO:HP:b=2	!
+16GG	.	.	.	<	.
+16C	.	.	.	.	.
+16DJJ	.	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16E-LL	.	.	.	>	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	.	.	]	.
+!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!
+(<16CCLL	.	(>12r	.	.	f
+!	!	!	!	!LO:HP:b=2	!
+16GG	.	.	.	<	.
+.	.	12bbnL 12bn	.	.	<
+16C	.	.	.	.	.
+.	.	12cccJ 12cc	.	.	.
+16DJJ	.	.	.	[	.
+!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!
+!	!	!	!	!LO:HP:b=2	!
+16E-LL	.	12ccc#XL 12cc#X	.	>	.
+16D	.	.	.	.	.
+.	.	12ddd 12dd)	.	.	.
+16C	.	.	.	.	.
+.	.	24ree	.	.	[
+16GGJJ)	.	.	.	]	.
+.	.	24eee-Jk 24ee-	.	.	.
+!!LO:LB:g=original
+=61	=61	=61	=61	=61	=61
+!	!	!	!	!LO:HP:b=2	!
+(>16CCLL	.	2eee- 2ee-	.	<	.
+16GG	.	.	.	.	.
+16C	.	.	.	.	.
+16DJJ	.	.	.	.	.
+16E-LL	.	.	.	.	.
+16G	.	.	.	.	.
+16c	.	.	.	.	.
+16dJJ	.	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16e-LL	.	8r	.	>	.
+16d	.	.	.	.	.
+16c	.	16r	.	.	.
+16GJJ	.	16ggKL 16ee- 16cc 16g	.	.	<
+16E-LL	.	8.gg 8.ee- 8.cc 8.g	.	.	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	16ggJk 16ee- 16cc 16g	.	]	[
+*	*	*	*	*v	*v
+=62	=62	=62	=62	=62
+(<16CCLL	.	(>2aa- 2ee- 2cc 2a-	.	.
+16GG	.	.	.	.
+16C	.	.	.	.
+16DJJ	.	.	.	.
+16E-LL	.	.	.	.
+16D	.	.	.	.
+16C	.	.	.	.
+16GGJJ)	.	.	.	.
+!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+(<16CCLL	.	12gg'> 12ee-'> 12cc'> 12g'>)	.	.
+16GG	.	.	.	.
+.	.	12bbnL 12bn	.	.
+16C	.	.	.	.
+.	.	12cccJ 12cc	.	.
+16DJJ	.	.	.	.
+16E-LL	.	(>16ccc#XLL 16cc#X	.	.
+16D	.	16ddd 16dd	.	.
+16C	.	16fff 16ff)	.	.
+16GGJJ)	.	32ree	.	.
+.	.	32eee-JJk 32ee-	.	.
+=63	=63	=63	=63	=63
+*	*	*	*	*^
+!	!	!	!	!LO:HP:b=2	!
+16CCLL	.	2eee-^< 2ee-^<	.	<	.
+16GG	.	.	.	.	.
+16C	.	.	.	.	.
+16DJJ	.	.	.	.	.
+16E-LL	.	.	.	.	.
+16G	.	.	.	.	.
+16c	.	.	.	.	.
+16dJJ	.	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16e-LL	.	8r	.	>	.
+16d	.	.	.	.	.
+16c	.	16r	.	.	p
+16GJJ	.	16ggKL 16ee- 16cc 16g	.	.	<
+16E-LL/	.	8.gg 8.ee- 8.cc 8.g	.	.	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ	.	16ggJk 16ee- 16cc 16g	.	]	[
+!!LO:LB:g=original
+=64	=64	=64	=64	=64	=64
+*	*	*	*	*	*^
+(<16CCLL	.	1aan^> 1ee-^> 1an^>	.	.	fz	.
+!	!	!	!	!LO:HP:b=2	!	!
+16FF#X	.	.	.	<	<	.
+16C	.	.	.	.	.	.
+16DJJ	.	.	.	[	.	.
+!	!	!	!	!LO:HP:b=2	!	!
+16E-LL	.	.	.	>	.	.
+16D	.	.	.	.	.	.
+16C	.	.	.	.	.	.
+16FF#JJ)	.	.	.	]	.	.
+(<16CCLL	.	.	.	.	.	.
+!	!	!	!	!LO:HP:b=2	!	!
+16FF#	.	.	.	<	.	.
+16C	.	.	.	.	.	.
+16DJJ	.	.	.	[	.	.
+!	!	!	!	!LO:HP:b=2	!	!
+!	!	!LO:TX:a:t=P:problem:"cres." pomiędzy ramionami oznaczenia graf.	!	!	!	!
+16E-LL	.	.	.	>	.	<
+16D	.	.	.	.	.	.
+16C	.	.	.	.	.	.
+16FF#JJ)	.	.	.	]	[	.
+*	*	*	*	*	*v	*v
+=65	=65	=65	=65	=65	=65
+!	!	!	!	!LO:HP:b=2	!
+(>16DD-XLL	5	2bb-^> 2dd-X^> 2b-^>	.	<	ff
+16D-X	1	.	.	.	.
+16G-X	3	.	.	.	.
+16A-JJ	2	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16B-LL	1	.	.	>	.
+16A-	.	.	.	.	.
+16G-	.	.	.	.	.
+16D-JJ)	.	.	.	]	.
+!	!	!	!	!LO:HP:b=2	!
+(>16DD-LL	.	4aa- 4dd- 4b- 4a-	.	<	.
+16D-	.	.	.	.	.
+16G-	.	.	.	.	.
+16A-JJ	.	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16B-LL	.	8.gg-XL 8.dd- 8.b- 8.g-X	.	>	.
+16A-	.	.	.	.	.
+16G-	.	.	.	.	.
+16D-JJ)	.	16ffJk 16dd- 16b- 16f	.	]	.
+=66	=66	=66	=66	=66	=66
+!	!	!	!	!LO:HP:b=2	!
+(>16DD-XLL	5	(<(>2ff\ 2dd-\ [>2b-\ 2f\	.	<	.
+16D-X	1	.	.	.	>
+16Gn	4	.	.	.	.
+16B-JJ	3	.	.	[	.
+!	!	!	!	!LO:HP:b=2	!
+16d-LL	2	.	.	>	.
+16c	1	.	.	.	.
+16B-	.	.	.	.	.
+16A-JJ	.	.	.	.	.
+16GLL	.	4een\ 4b-\] 4en\))	.	.	]
+16F	.	.	.	.	.
+16En	.	.	.	.	.
+16D-XJJ	.	.	.	.	.
+16CLL	.	4r	.	.	.
+16BB-	.	.	.	.	.
+16AA-	.	.	.	]	.
+16GGJJ)	.	.	.	.	.
+*	*	*	*	*v	*v
+!!LO:PB:g=original
+=67	=67	=67	=67	=67
+*	*^	*	*	*
+(>16CC-XLL	.	5	(>2aa- 2ff- 2cc- 2a-	.	f
+!	!	!	!	!	!LO:HP:b=2
+16C-X	.	1	.	.	<
+16F-X	.	4	.	.	.
+16G-XJJ	.	3	.	.	[
+!	!	!	!	!	!LO:HP:b=2
+16A-LL	2	.	.	.	>
+16G-	.	.	.	.	.
+16F-	.	.	.	.	.
+16C-JJ)	.	.	.	.	]
+*	*	*	*	*	*^
+(>16CC-LL	.	.	4gg-X 4cc-X 4a- 4g-X	.	.	.
+!	!	!	!	!	!LO:HP:b=2	!
+16C-	.	.	.	.	<	.
+16F-	.	.	.	.	.	.
+16G-JJ	.	.	.	.	[	.
+!	!	!	!	!	!LO:HP:b=2	!
+16A-LL	.	.	8.ff-X/L 8.cc-/ 8.a-/ 8.f-X/)	.	>	>
+16G-	.	.	.	.	.	.
+16F-	.	.	.	.	.	.
+16C-JJ)	.	.	16ee-Jk 16cc- 16a- 16e-	.	]	]
+*	*	*	*	*	*v	*v
+=68	=68	=68	=68	=68	=68
+!	!	!	!LO:TX:a:t=P:łuk nad nutami od 2ee- do 4dd:problem	!	!
+!	!	!	!LO:S:s=1:note:problem:note-level slur	!	!
+!	!	!	!LO:S:s=2:note:problem:note-level slur	!	!
+!	!	!	!LO:S:s=4:note:problem:note-level slur	!	!
+16CC-XLL	.	5	(>2ee- (>2cc-X 2a- (<2e-	.	]
+!	!	!	!	!	!LO:HP:b=2
+16C-X	.	1	.	.	<
+16Fn	.	3	.	.	.
+16A-JJ	.	2	.	.	[
+!	!	!	!	!	!LO:HP:b=2
+16c-XLL	1	.	.	.	>
+16B-	.	.	.	.	.
+16A-	.	.	.	.	.
+16G-XJJ	.	.	.	.	.
+!	!	!	!LO:S:s=1:note:problem:note-level slur	!	!
+!	!	!	!LO:S:s=2:note:problem:note-level slur	!	!
+!	!	!	!LO:S:s=3:note:problem:note-level slur	!	!
+16FLL	.	.	4dd) 4a-) 4d)	.	.
+16E-	.	.	.	.	.
+16Dn	.	.	.	.	]
+16C-XJJ	1	.	.	.	.
+16BB-LL	.	.	4r	.	.
+16AA-	.	.	.	.	.
+16GG-X	.	.	.	.	.
+16FFJJ	.	.	.	.	.
+*	*v	*v	*	*	*
+=69	=69	=69	=69	=69
+*	*	*	*	*^
+(>16BBB-LL	.	1gg^> 1ee-^> 1g^>	.	fz	.
+!	!	!	!	!LO:HP:b=2	!
+16BB-	.	.	.	<	p
+16E-	.	.	.	.	.
+16FJJ	.	.	.	[	.
+!	!	!	!	!	!LO:HP:b=2
+16GnLL	.	.	.	.	>
+16F	.	.	.	.	.
+16E-	.	.	.	.	.
+16BB-JJ)	.	.	.	.	]
+(>16BBB-LL	.	.	.	.	.
+!	!	!	!	!	!LO:HP:b=2
+16BB-	.	.	.	.	<
+16E-	.	.	.	.	.
+16FJJ	.	.	.	.	[
+!	!	!	!	!	!LO:HP:b=2
+16GLL	.	.	.	.	>
+16F	.	.	.	.	.
+16E-	.	.	.	.	.
+16BB-JJ)	.	.	.	.	]
+*	*	*	*	*v	*v
+!!LO:LB:g=original
+=70	=70	=70	=70	=70
+*	*	*^	*	*
+*	*	*	*^	*	*
+(>16BBBnLL	.	[>2gg	1dd	2g^<\	.	.
+!	!	!	!	!	!	!LO:HP:b=2
+16BBn	.	.	.	.	.	<
+16D	.	.	.	.	.	.
+16GJJ	.	.	.	.	.	[
+!	!	!	!	!	!	!LO:HP:b=2
+16dLL	.	.	.	.	.	>
+16G	.	.	.	.	.	.
+16D	.	.	.	.	.	.
+16BBJJ)	.	.	.	.	.	]
+(>16BBBLL	.	4.gg]	.	2g^<\	.	.
+!	!	!	!	!	!	!LO:HP:b=2
+16BB	.	.	.	.	.	<
+16D	.	.	.	.	.	.
+16GJJ	.	.	.	.	.	[
+!	!	!	!	!	!	!LO:HP:b=2
+16dLL	.	.	.	.	.	>
+16G	.	.	.	.	.	.
+16D	.	8ff	.	.	.	.
+16BBJJ)	.	.	.	.	.	]
+*	*	*	*v	*v	*	*
+=71	=71	=71	=71	=71	=71
+!	!	!	!	!	!LO:HP:b=2
+(>16CCLL	.	(>2ff	1cc 1g	.	p <
+16GG	.	.	.	.	.
+16C	.	.	.	.	.
+16DJJ	.	.	.	.	.
+16E-LL	.	.	.	.	.
+16G	.	.	.	.	.
+16c	.	.	.	.	.
+16dJJ	.	.	.	.	[
+!	!	!	!	!	!LO:HP:b=2
+16e-LL	.	2ee-)	.	.	>
+16d	.	.	.	.	.
+16c	.	.	.	.	.
+16GJJ	.	.	.	.	.
+16E-\LL	.	.	.	.	.
+16D	.	.	.	.	.
+16C	.	.	.	.	.
+16GGJJ)	.	.	.	.	]
+=72	=72	=72	=72	=72	=72
+(>16FFFLL	5	(>8ee-L	1a-: 1f:	.	.
+!	!	!	!	!	!LO:HP:b=2
+16DD-X	2	.	.	.	<
+16FF	1	16ffL	.	.	.
+16GGJJ	4	16ee-JJ	.	.	.
+16AA-LL	3	8.dd-XL	.	.	.
+16D-X	2	.	.	.	.
+16F	1	.	.	.	.
+16GJJ	3	16ee-Jk	.	.	[
+!	!	!	!	!	!LO:HP:b=2
+16A-LL	2	4ff	.	.	>
+16G	.	.	.	.	.
+16F	.	.	.	.	.
+16D-JJ	.	.	.	.	.
+16AA-LL	.	4a-)	.	.	.
+16FF	.	.	.	.	]
+16DD-	.	.	.	.	.
+16AAA-JJ)	.	.	.	.	.
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=73	=73	=73	=73	=73
+8GGG'<	.	[>1cc^< [<1e-^<	.	.
+(<16EEnLL	1	.	.	.
+16DD#XJJ	.	.	.	.
+16FFLL	1	.	.	.
+16EE	.	.	.	.
+16GG-X	2	.	.	.
+16FFJJ	.	.	.	.
+16GGnLL	1	.	.	.
+16FF#X	.	.	.	.
+16AA-	2	.	.	.
+16GGJJ	.	.	.	.
+16AAnLL	1	.	.	.
+16GG#X	.	.	.	.
+16BB-	2	.	.	.
+16AAJJ)	.	.	.	.
+=74	=74	=74	=74	=74
+(>16C-XLL	1	1cc] 1e-]	.	.
+16BB-	.	.	.	.
+16Cn	1	.	.	.
+16BBnJJ	.	.	.	.
+16D-XLL	2	.	.	.
+16C	.	.	.	.
+16Dn	1	.	.	.
+16C#XJJ	.	.	.	.
+16E-LL	2	.	.	.
+16D	.	.	.	.
+16En	1	.	.	.
+16D#XJJ	.	.	.	.
+16FLL	1	.	.	.
+16E	.	.	.	.
+16G-X	2	.	.	.
+16FJJ)	.	.	.	.
+!!LO:LB:g=original
+=75	=75	=75	=75	=75
+*	*	*^	*	*
+(>16GnLL	.	(>4.cc	2.f 2.d	.	.
+!	!	!LO:TX:b:i:t=smorz.	!	!	!
+16F#X	.	.	.	.	.
+16A-	.	.	.	.	.
+16GJJ	.	.	.	.	.
+16B-LL	2	.	.	.	.
+16A-	.	.	.	.	.
+16G	.	8bn	.	.	.
+16FnJJ	.	.	.	.	.
+16E-LL	.	4dd)	.	.	.
+16D	.	.	.	.	.
+16F	2	.	.	.	.
+16E-JJ	.	.	.	.	.
+16GLL	1	4r	4ryy	.	.
+16F	.	.	.	.	.
+16E-	.	.	.	.	.
+16DJJ	1	.	.	.	.
+*	*	*v	*v	*	*
+=76	=76	=76	=76	=76
+*	*^	*	*	*
+16CLL	.	.	1rdd	.	.
+16BBn	.	.	.	.	.
+16D	.	1	.	.	.
+16CJJ	.	.	.	.	.
+16BBLL	.	.	.	.	.
+16AA-X	.	.	.	.	.
+16GG	.	1	.	.	.
+16FF#XJJ	.	.	.	.	.
+16GGLL	.	1	.	.	.
+16AA-	.	2	.	.	.
+16FFn	.	3	.	.	.
+16GGJJ	.	1	.	.	.
+16EE-LL	.	.	.	.	.
+16FF	.	.	.	.	.
+16DD	.	.	.	.	.
+16EE-JJ)	.	.	.	.	.
+*	*v	*v	*	*	*
+=77	=77	=77	=77	=77
+*	*	*^	*	*
+!	!	!LO:TX:a:i:t=sotto voce.	!	!	!
+8CC	.	[>1cc	8c	.	.
+(>16d-XLL	.	.	8re	.	.
+16cJJ	.	.	.	.	.
+16B-LL	.	.	4re	.	.
+16G	.	.	.	.	.
+16A-	.	.	.	.	.
+16GJJ	.	.	.	.	.
+16EnLL	.	.	2re	.	.
+16C\	.	.	.	.	.
+16D-	.	.	.	.	.
+16CJJ	.	.	.	.	.
+16BB-LL	.	.	.	.	.
+16GG	.	.	.	.	.
+16AA-	.	.	.	.	.
+16GGJJ)	.	.	.	.	.
+!!LO:LB:g=original
+=78	=78	=78	=78	=78	=78
+!	!	!	!	!	!LO:DY:b=2
+16FFLL	.	(>2cc]	1a- 1f	.	pp <
+16CC	.	.	.	.	.
+16FF	.	.	.	.	.
+16CCJJ	.	.	.	.	.
+16FFLL	.	.	.	.	.
+16CC	.	.	.	.	.
+16FF	.	.	.	.	.
+16CCJJ	.	.	.	.	.
+16FFLL	.	2ddn	.	.	[
+16CC	.	.	.	.	.
+16FF	.	.	.	.	.
+16CCJJ	.	.	.	.	.
+16FFLL	.	.	.	.	.
+16CC	.	.	.	.	.
+16FF	.	.	.	.	.
+16CCJJ	.	.	.	.	.
+*	*	*v	*v	*	*
+=79	=79	=79	=79	=79
+8C	.	1een 1g 1en)	.	]
+(>16d-XLL	.	.	.	.
+16cJJ	.	.	.	.
+16B-LL	.	.	.	.
+16G	.	.	.	.
+16A-	.	.	.	.
+16GJJ	.	.	.	.
+16EnLL	.	.	.	.
+16C\	.	.	.	.
+16D-X	.	.	.	.
+16CJJ	.	.	.	.
+16BB-LL	.	.	.	.
+16GG	.	.	.	.
+16AA-	.	.	.	.
+16GGJJ	.	.	.	.
+=80	=80	=80	=80	=80
+*	*	*^	*	*
+*	*	*	*^	*	*
+!	!	!	!	!	!	!LO:DY:b=2
+!	!	!LO:TX:i:a:t=poco rallent.	!	!	!	!
+!	!	!LO:N:vis=2	!	!	!	!
+!	!	!	!LO:TX:t=P:1a- za 2g 2c:problem	!	!	!
+16FFLL	.	(>2.cc	1a-	2g [<2c	.	pp
+16CC	.	.	.	.	.	.
+16FF	.	.	.	.	.	.
+16CCJJ	.	.	.	.	.	.
+16FFLL	.	.	.	.	.	.
+16CC	.	.	.	.	.	.
+16FF	.	.	.	.	.	.
+16CCJJ	.	.	.	.	.	.
+16FFLL	.	.	.	2f 2c]	.	.
+16CC	.	.	.	.	.	.
+16FF	.	.	.	.	.	.
+16CCJJ	.	.	.	.	.	.
+!	!	!LO:TX:a:t=P:łuk ciągnie się do kreski taktowej, ale brak zakończenia:problem	!	!	!	!
+16FFLL	.	4dd 4bn)	.	.	.	.
+16CC	.	.	.	.	.	.
+16FF	.	.	.	.	.	.
+16CCJJ)	.	.	.	.	.	.
+*	*	*v	*v	*v	*	*
+!!LO:LB:g=original
+=81	=81	=81	=81	=81
+8C	.	8een\ 8cc\ 8g\ 8en\	.	.
+*clefG2	*	*	*	*
+16aa-LL	.	16aaa-LL	.	ff
+!	!	!LO:TX:b:i:t=ed appassionato.	!	!
+16ggJJ	.	16gggJJ	.	.
+16eenLL	.	16eeenLL	.	.
+16cc	.	16ccc	.	.
+16dd-X	.	16ddd-X	.	.
+16ccJJ	.	16cccJJ	.	.
+16b-LL/	.	16bb-LL	.	.
+16g	.	16gg	.	.
+16a-	.	16aa-	.	.
+16gJJ	.	16ggJJ	.	.
+16enLL/	.	16eenLL	.	.
+16c	.	16cc	.	.
+16d-	.	16dd-	.	.
+16cJJ	.	16ccJJ	.	.
+*clefF4	*	*	*	*
+=82	=82	=82	=82	=82
+16B-LL	.	16b-LL	.	.
+16G	.	16g	.	.
+16A-	.	16a-	.	.
+16GJJ	.	16fJJ	.	.
+16EnLL	.	16enLL	.	.
+16C\	.	16c	.	.
+16D-X	.	16d-X	.	.
+16CJJ	.	16cJJ	.	.
+16BB-LL	.	16B-<LL	.	.
+16GG\	.	16G<	.	.
+16AA-	.	16A-<	.	.
+16GGJJ	.	16G<JJ	.	.
+16EEnLL	.	16E<LL	.	.
+16CC\	.	16C<	.	.
+16DD-	.	16D-<	.	.
+16CCJJ	.	16C<JJ	.	.
+=83	=83	=83	=83	=83
+!LO:TX:b:t=P:problem:2FFF zapisane jako "8", też w drugim akordzie	!	!	!	!
+2FF\ 2FFF\	.	2c<'>/ 2An<'>/ 2F<'>/ 2C<'>/	.	.
+2FF\ 2FFF\	.	2c<'>/ 2A-X<'>/ 2F<'>/ 2C<'>/	.	.
+=84	=84	=84	=84	=84
+!LO:TX:b:t=P:problem:4CCC zapisane jako "8", też w drugim akordzie	!	!	!	!
+!LO:TX:b:B:t=FINE.	!	!	!	!
+4CC\ 4CCC\	.	4c<'>/ 4G<'>/ 4F<'>/ 4C<'>/	.	.
+4CC\ 4CCC\	.	4c<'>/ 4G<'>/ 4En<'>/ 4C<'>/	.	.
+2r	.	2r	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cres.", fontstyle= "italic"
+!!!ENC: Zofia Trojan
+!!!END: 2018-10-18
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: revision finished 2018-10-22
+!!!EED: Mateusz Mrugas
+!!!EST: revision finished 2019-09-20
+!!!rism-genre: Etude
+!!!rism-key: C minor
+!!!rism-opus: op.  10, no. 12
+!!!rism-title: Etude in C minor op.  10, no. 12
+!!!rism-permalink: https://opac.rism.info/search?id=1001001262&View=rism
+!!!rism-773a-OPR: 1001001192
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001001192&View=rism

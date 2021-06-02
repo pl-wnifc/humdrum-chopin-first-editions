@@ -1,0 +1,349 @@
+!!!!SEGMENT: 074-1-G-014.krn
+!!!COM: Fryderyk Chopin
+!!!OTL: Pierścień
+!!!OPS: Op. 74
+!!!PTL: Zbiór śpiewów polskich z towarzyszeniem fortepianu
+!!!PPR: Gebethner
+!!!PPP: Warsaw
+!!!NIFC-rismID: 300605200
+!!!NIFC-shelfmark: PL-Wbfc 963/n
+!!!OMD: Moderato.
+!!!OMD: M. M. [quarter] = 100.
+!!!system-decoration: (s1){(s2,s3)}
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*	*part1
+*staff3	*staff2	*	*staff1	*	*
+*	*I"PIANO.	*	*I"No. 14. CANTO.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*	*
+*E-:	*E-:	*	*E-:	*	*
+*M3/4	*M3/4	*	*M3/4	*	*
+*MM100	*MM100	*	*MM100	*	*
+=1	=1	=1	=1	=1	=1
+*	*^	*	*	*	*
+!	!	!	!LO:DY:rj	!	!	!
+4d 4B- 4E-	(>8ggL	4a-\	mf	2.rdd	.	.
+.	8ffJ	.	.	.	.	.
+4d 4B- 4E-	4b-	4a-	.	.	.	.
+4e- 4B- 4E-	4gg)	4g	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+4d 4B 4E-	(>8ggL	4a-^<	.	2.rdd	.	.
+.	8ffJ	.	.	.	.	.
+4d 4B- 4E-	4b-	4a-	.	.	.	.
+4e- 4B- 4E-	4gg)	4g	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+4d 4B- 4E-	(>8ggL	4a-	.	2.rdd	.	.
+.	8ffJ	.	.	.	.	.
+4d 4B- 4E-	4b-	4a-	.	.	.	.
+4d 4B- 4E-	4ff)	4a-	.	.	.	.
+*	*v	*v	*	*	*	*
+=4	=4	=4	=4	=4	=4
+*	*	*	*	*	*
+2e- 2B- 2E-\	2.ee- 2.g/	.	2.rdd	.	.
+4EE-/	.	.	.	.	.
+=5||	=5||	=5||	=5||	=5||	=5||
+*	*	*	*	*	*above
+4r	4r	.	8g	Smu-	<
+.	.	.	8a-	-tno	.
+!	!	!LO:DY:rj	!	!	!
+4FF	4f 4c 4A-	p	(>4cc	niań-	[
+.	.	.	.	.	>
+4FF	4f 4c 4A-	.	8b-)	.	.
+.	.	.	8a-	ki	]
+=6	=6	=6	=6	=6	=6
+4r	4r	.	8g	ci	.
+.	.	.	8f#X	śpie-	.
+4C	4e- 4c 4G<	.	4g	-wa-	.
+4C	4e- 4c 4G<	.	4g	-ły	.
+!!LO:LB:g=original
+=7	=7	=7	=7	=7	=7
+*	*	*	*	*	*
+2.F	4r	.	8g	A	<
+.	.	.	8a-	ja	.
+.	4f 4c 4A-	.	(>4cc	już	[
+.	.	.	.	.	>
+.	4f 4c 4A-	.	8b-)	.	.
+.	.	.	8a-	-ko-	]
+=8	=8	=8	=8	=8	=8
+2.C/	4r	.	2a-	-cha-	>
+.	.	>	.	.	.
+.	4e- 4c 4A-	.	.	.	.
+.	4e- 4c 4G	]	4g	-łem;	]
+=9	=9	=9	=9	=9	=9
+!	!LO:TX:b:t=cres_cen_do.:problem:dynamics with line extensions	!	!	!	!
+!	!	!LO:HP:b:t=cres-cen-do.:ext=ud	!	!	!
+2.BB-\	4r	<	8g	A	<
+.	.	.	8a-	na	.
+.	4f 4d 4A-<	.	(>4cc	le-	[
+.	.	.	.	.	.
+.	4f 4d 4A-<	.	8b-)	.	>
+.	.	.	8a-	wy	]]
+=10	=10	=10	=10	=10	=10
+2.E- 2.EE-\	4r	.	8g	pa-	.
+.	.	.	8f#X	-lec	.
+.	4e- 4B-< 4G<	.	4g	ma-	.
+.	4e- 4B-< 4G<	[	4g	-ły	.
+=11	=11	=11	=11	=11	=11
+2.BB-\	4r	.	8g	Sre-	<
+.	.	.	8a-	-brny	.
+.	4f 4d 4A-<	.	(>4cc	pier-	[
+.	.	.	.	.	>
+.	4f 4d 4A-<	.	8b-)	.	.
+.	.	.	8a-	-ścień	]
+=12	=12	=12	=12	=12	=12
+2.E- 2.EE-\	4r	.	2a-	da-	>
+.	4e- 4B-< 4G<	.	.	.	.
+.	4e- 4B-< 4G<	.	4g	-łem.	]
+!!LO:LB:g=original
+=13	=13	=13	=13	=13	=13
+2.BBn\	4r	p	4.g	Po-	.
+.	4f 4d 4G<	.	.	.	.
+.	.	.	8a-	-bra-	.
+.	4f 4d 4G<	.	8g	-li	.
+.	.	.	8f#X	dziew-	.
+=14	=14	=14	=14	=14	=14
+!	!LO:TX:b:t=cres_cen_do.:problem:dynamics with line extensions	!	!	!	!
+!	!	!LO:HP:b:t=cres-cen-do.:ext=ud	!	!	!
+2.C\	4r	<	8g	-czę-	.
+.	.	.	8f#	-ta	.
+.	4e- 4c 4G<	.	4g	dru-	.
+.	4e- 4c 4G<	.	4a-	-dzy	.
+=15	=15	=15	=15	=15	=15
+2.D	4r	.	8an/L	Ja	.
+.	.	.	8b-J	.	.
+.	4a- 4f 4B-	.	4dd	wier-	>
+.	4a- 4f 4B-	[[	8cc	-nie	.
+.	.	.	8b-	ko-	]
+=16	=16	=16	=16	=16	=16
+2E-	4r	.	2b-	-cha-	<
+.	4g 4B-	.	.	.	.
+4GG	4bn 4e- 4Bn	.	4bn	-łem,	[
+=17	=17	=17	=17	=17	=17
+2.AA-	4r	.	4.dd	Przy-	.
+.	4en/ 4c/	.	.	.	.
+.	.	.	8cc	-szedł	>
+!	!LO:TX:b:t=dimin_:problem:dynamics with line extensions	!	!	!	!
+!	!	!LO:HP:b:t=dimin-:ext=ud	!	!	!
+.	.	>	.	.	.
+.	4f/ 4c/	.	8b-	mło-	.
+.	.	.	8a-X/	-dy	]
+=18	=18	=18	=18	=18	=18
+2.BB- 2.BBB-	4r	.	8a-	chło-	.
+.	.	.	8g	-piec	.
+.	4g 4e- 4B-	.	4cc	cu-	.
+.	4g 4e- 4B-	]	4b-	-dzy	.
+!!LO:PB:g=original
+=19	=19	=19	=19	=19	=19
+2.BBB-	4r	.	8cc	Choć	.
+.	.	.	8b-	ja	.
+.	4f 4d 4A-<	.	4an	pieś-	.
+.	4f 4d 4A-<	.	4a-X	-cień	.
+=20	=20	=20	=20	=20	=20
+2.EE-	4r	.	2f#X	da-	<
+.	.	<	.	.	.
+.	4f#X 4e- 4An	.	.	.	.
+.	4g 4e- 4B-	[	4g	-łem	[
+=21	=21	=21	=21	=21	=21
+2.AA-	4r	.	4.dd	Przy-	>
+!	!LO:TX:b:t=dimi _ nuen_do.:problem:dynamics with line extensions	!	!	!	!
+!	!	!LO:HP:b:t=dimi-nuen-do.:ext=ud	!	!	!
+.	4g 4Bn	>	.	.	.
+.	.	.	8cc	-szedł	.
+.	4a- 4f 4c	.	8b-X	mło-	.
+.	.	.	8a-	-dy	]
+=22	=22	=22	=22	=22	=22
+2.BB-	4r	.	8a-	chło-	.
+.	.	.	8g	-piec	.
+.	4g 4e- 4B-	.	4cc	cu-	.
+.	4g 4en 4B-	]	4b-	-dzy	.
+=23	=23	=23	=23	=23	=23
+2.BB- 2.BBB-	4r	.	8cc	Choć	.
+.	.	.	8b-	ja	>
+.	4a- 4f 4B-	.	4a-	pier-	.
+.	4a- 4d 4B-	.	4f	-ścień	]
+=24	=24	=24	=24	=24	=24
+2BB- 2EE-/	4r	.	4f	da-	.
+.	4e- 4G<	.	4e-	-łem.	.
+4e- 4B- 4E-\	4gg 4g\	.	4r	.	.
+!!LO:LB:g=original
+=25	=25	=25	=25	=25	=25
+*	*^	*	*	*	*
+4d 4B- 4E-	(>8ggL	4a-\	.	2.rdd	.	.
+.	8ffJ	.	.	.	.	.
+4d 4B- 4E-	4b-	4a-	.	.	.	.
+4e- 4B- 4E-	4gg)	4g	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26
+4d 4B 4E-	(>8ggL	4a-^<	.	2.rdd	.	.
+.	8ffJ	.	.	.	.	.
+4d 4B- 4E-	4b-	4a-	.	.	.	.
+4e- 4B- 4E-	4gg)	4g	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27
+4d 4B- 4E-	(>8ggL	4a-	.	2.rdd	.	.
+.	8ffJ	.	.	.	.	.
+4d 4B- 4E-	4b-	4a-	.	.	.	.
+4d 4B- 4E-	4ff)	4a-	.	.	.	.
+*	*v	*v	*	*	*	*
+=28	=28	=28	=28	=28	=28
+*	*	*	*	*	*
+2e- 2B- 2E-\	2.ee- 2.g\	.	2.rdd	.	.
+4EE-/	.	.	.	.	.
+=29	=29	=29	=29	=29	=29
+4r	4r	.	8g	Mu-	<
+.	.	.	8a-	-zy-	.
+!	!	!LO:DY:rj	!	!	!
+4FF	4f 4c 4A-	p	(>4cc	-kant-	[
+.	.	.	.	.	>
+4FF	4f 4c 4A-	.	8b-)	.	.
+.	.	.	8a-	-tów	]
+=30	=30	=30	=30	=30	=30
+4r	4r	.	8g	za-	.
+.	.	.	8f#X	-pro-	.
+4C	4e- 4c 4G<	.	4g	-szo-	.
+4C	4e- 4c 4G<	.	4g	-no	.
+=31	=31	=31	=31	=31	=31
+*	*	*	*	*	*
+2.F	4r	.	8gL	Na	<
+.	.	.	8a-J	.	.
+.	4f 4c 4A-	.	4cc	go-	.
+.	.	.	.	.	[
+.	4f 4c 4A-	.	8b-	-dach	>
+.	.	.	8a-	śpie-	]]
+!!LO:LB:g=original
+=32	=32	=32	=32	=32	=32
+2.C/	4r	.	2a-	-wa-	.
+.	.	.	.	.	.
+.	4e- 4c	.	.	.	.
+.	4e- 4c 4G	.	4g	-łem	.
+=33	=33	=33	=33	=33	=33
+!	!LO:TX:b:t=cres-cen-do.:problem:dynamics with line extensions	!	!	!	!
+!	!	!LO:HP:b:t=cres-cen-do.:ext=ud	!	!	!
+2.BB-\	4r	<	8gL	In-	.
+.	.	.	8a-J	.	.
+.	4f 4d 4A-<	.	4cc	-ne-	.
+.	.	.	.	.	.
+.	4f 4d 4A-<	.	8b-	go	.
+.	.	.	8a-	zo-	]
+=34	=34	=34	=34	=34	=34
+2.E- 2.EE-/	4r	.	8g	-sta-	.
+.	.	.	8f#X	-łaś	.
+.	4e- 4B-< 4G<	.	4g	żo-	.
+.	4e- 4B-< 4G<	.	4g	-ną	.
+=35	=35	=35	=35	=35	=35
+2.BB-\	4r	[	8gL	Ja	.
+.	.	.	8a-J	.	.
+.	4f 4d 4A-<	.	4cc	zaw-	.
+.	.	.	.	.	.
+.	4f 4d 4A-<	.	8b-	-sze	.
+.	.	.	8a-	ko-	.
+=36	=36	=36	=36	=36	=36
+2.E- 2.EE-\	4r	.	2a-	-cha-	.
+.	4e- 4B-< 4G<	.	.	.	.
+.	4e- 4B-< 4G<	.	4g	-łem.	.
+!!LO:PB:g=original
+=37	=37	=37	=37	=37	=37
+2.BBn\	4r	p	4.g	Dziś	.
+.	4f 4d 4G<	.	.	.	.
+.	.	.	8a-	dziew-	.
+.	4f 4d 4G<	.	8g	-czę-	.
+.	.	.	8f#X	-ta	.
+=38	=38	=38	=38	=38	=38
+!	!LO:TX:b:t=cres_cen_do.:problem:dynamics with line extensions	!	!	!	!
+!	!	!LO:HP:b:t=cres-cen-do.:ext=ud	!	!	!
+2.C\	4r	<	8g	mnie	.
+.	.	.	8f#	wy-	.
+.	4e- 4c 4G<	.	4g	-śmia-	.
+.	4e- 4c 4G<	.	4a-	ły,	.
+=39	=39	=39	=39	=39	=39
+2.D	4r	.	8an/	Gorż-	.
+.	.	.	8b-\	-ko	.
+.	4a- 4f 4B-	.	(>4dd	za-	>
+.	4a- 4f 4B-	.	8cc)	.	.
+.	.	[[	8b-	-pła-	]
+=40	=40	=40	=40	=40	=40
+2E-	4r	.	2b-	-ka-	<
+.	4g 4B-	.	.	.	.
+4GG	4bn 4e- 4Bn	.	4bn	-łem:	[
+=41	=41	=41	=41	=41	=41
+2.AA-	4r	.	4.dd	Pró-	.
+.	4en/ 4c/	.	.	.	.
+.	.	.	8cc	-żnom	>
+!	!LO:TX:b:t=dimi _ nu endo:problem:dynamics with line extensions	!	!	!	!
+!	!	!LO:HP:b:t=dimi-nuendo:ext=ud	!	!	!
+.	4f/ 4c/	>	8b-X	wie-	.
+.	.	.	8a-/	-rny	]
+!!LO:LB:g=original
+=42	=42	=42	=42	=42	=42
+2.BB- 2.BBB-	4r	.	8a-	był	.
+.	.	]	8g	i	.
+.	4g 4e- 4B-	.	4cc	sta-	.
+.	4g 4e- 4B-	.	4b-	ły	.
+=43	=43	=43	=43	=43	=43
+2.BBB-	4r	.	8cc	Próż-	.
+.	.	.	8b-	-no	.
+.	4f 4d 4A-<	.	4an	pier-	.
+.	4f 4d 4A-<	.	4a-X	-ścień	.
+=44	=44	=44	=44	=44	=44
+2.EE-	4r	.	2f#X	da-	<
+.	4f#X 4e- 4An	<	.	.	.
+.	4g 4e- 4B-	[	4g	-łem	[
+=45	=45	=45	=45	=45	=45
+2.AA-	4r	.	4.dd	Próż-	.
+.	4g 4Bn	.	.	.	.
+.	.	.	8cc	-nom	>
+.	4a- 4f 4c	.	8b-	wie-	.
+.	.	.	8a-/	-rny	]
+=46	=46	=46	=46	=46	=46
+2.BB-	4r	>	8a-	był	.
+.	.	.	8g	i	.
+.	4g 4e- 4B-	.	4cc	sta-	.
+.	4g 4en 4B-	.	4b-	-ły	.
+!!LO:LB:g=original
+=47	=47	=47	=47	=47	=47
+2.BB- 2.BBB-/	4r	.	8cc	Pró-	.
+.	.	.	8b-	-żno	.
+.	4a- 4f 4B-/	.	4a-	pier-	.
+.	4a- 4d 4B-/	.	4f	-ścień	.
+=48	=48	=48	=48	=48	=48
+2BB- 2EE-\	4r	.	4f	da-	.
+.	4e-/ 4G</	.	4e-	-łem.	.
+!	!	!LO:DY:rj	!	!	!
+4e- 4B- 4E-\	4gg 4g\	mf	4r	.	.
+=49	=49	=49	=49	=49	=49
+*	*^	*	*	*	*
+4d 4B- 4E-	(>8ggL	4a-\	.	2.rdd	.	.
+.	8ffJ	.	.	.	.	.
+4d 4B- 4E-	4b-	4a-	.	.	.	.
+4e- 4B- 4E-	4gg)	4g	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50
+4d 4B 4E-	(>8ggL	4a-^<	.	2.rdd	.	.
+.	8ffJ	.	.	.	.	.
+4d 4B- 4E-	4b-	4a-	.	.	.	.
+4e- 4B- 4E-	4gg)	4g	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51
+4d 4B- 4E-	(>8ggL	4a-	.	2.rdd	.	.
+.	8ffJ	.	.	.	.	.
+4d 4B- 4E-	4b-	4a-	.	.	.	.
+4d 4B- 4E-	4ff)	4a-	.	.	.	.
+*	*v	*v	*	*	*	*
+=52	=52	=52	=52	=52	=52
+*	*	*	*	*	*
+2e- 2B- 2E-\	2.ee- 2.g/	.	2.rdd	.	.
+4EE-/	.	.	.	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cres."
+!!!RDF**dynam: > = "dimin.", 'fontstyle="normal"
+!!!ENC: Antoni Szymański
+!!!END: 2019-08-26
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: 2019-10-21
+!!!rism-genre: Pierścień
+!!!rism-key: E-flat major
+!!!rism-opus: op.  74, no. 14
+!!!rism-title: L'anneau in E-flat major op.  74, no. 14
+!!!rism-permalink: https://opac.rism.info/search?id=300605200&View=rism
+!!!rism-773a-OPR: 300605186
+!!!rism-parent-permalink: https://opac.rism.info/search?id=300605186&View=rism

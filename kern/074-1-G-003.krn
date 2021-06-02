@@ -1,0 +1,614 @@
+!!!!SEGMENT: 074-1-G-003.krn
+!!!COM: Fryderyk Chopin
+!!!OTL: Smutna rzeka
+!!!OPS: op. 74
+!!!PTL: Zbiór śpiewów polskich z towarzyszeniem fortepianu
+!!!PPR: Gebethner
+!!!PPP: Warsaw
+!!!NIFC-rismID: 300605189
+!!!NIFC-shelfmark: PL-Wbfc 963/n
+!!!OMD: Allegretto.
+!!!OMD: M. M. [quarter] = 96.
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*	*part1
+*staff3	*staff2	*	*staff1	*	*
+*I"PIANO.	*	*	*I"CANTO.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*	*
+*f#:	*f#:	*	*f#:	*	*
+*M2/4	*M2/4	*	*M2/4	*	*
+*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1
+!	!	!LO:DY:rj	!	!	!
+*ped	*	*	*	*	*
+4FF#	4.dd	p	2rdd	.	.
+[<4F#	.	.	.	.	.
+.	8cc#	.	.	.	.
+=2	=2	=2	=2	=2	=2
+*^	*	*	*	*	*
+*	*^	*	*	*	*	*
+2e#X	4d	2F#\_<	(>8bL	<	2rdd	.	.
+.	.	.	8cc#	.	.	.	.
+*Xped	*	*	*	*	*	*	*
+.	4B	.	8dd	.	.	.	.
+.	.	.	8gg#J)	[	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+2f#	4A	2F#\]	4ff#	.	2rdd	.	.
+.	4c#	.	4ff#	.	.	.	.
+*v	*v	*v	*	*	*	*	*
+=4	=4	=4	=4	=4	=4
+*ped	*	*	*	*	*
+4FF#	4.dd	.	2rdd	.	.
+[<4F#	.	.	.	.	.
+.	8cc#	.	.	.	.
+=5	=5	=5	=5	=5	=5
+*^	*	*	*	*	*
+*	*^	*	*	*	*	*
+2e#X	4d	2F#\_<	(>8bL	<	2rdd	.	.
+.	.	.	8cc#	.	.	.	.
+.	4B	.	8dd	.	.	.	.
+*Xped	*	*	*	*	*	*	*
+.	.	.	8gg#J)	[	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2f#	4A	2F#\]	2ff#	.	2rdd	.	.
+.	4c#	.	.	.	.	.	.
+*v	*v	*v	*	*	*	*	*
+=7	=7	=7	=7	=7	=7
+!LO:TX:a:B:t=rubato.	!	!	!	!	!
+4c# 4F# 4E 4AA#X	(>8ee#XL	.	2rdd	.	.
+.	8ff#	.	.	.	.
+4B 4D 4F# 4BB	8eenT>	.	.	.	.
+.	8ddJ)	.	.	.	.
+=8	=8	=8	=8	=8	=8
+4B 4E#X 4C#	(>8b#XL	.	2rdd	.	.
+.	8cc#	.	.	.	.
+4B 4F# 4D	8bnT>	.	.	.	.
+.	8aJ)	.	.	.	.
+=9	=9	=9	=9	=9	=9
+4d 4F# 4BB	(>8g#t>L<	.	2rdd	.	.
+.	8f#X	.	.	.	.
+4B 4E#X 4C#	8g#	.	.	.	.
+.	8cc#J)	.	.	.	.
+=10	=10	=10	=10	=10	=10
+!LO:TX:a:B:t=rit.	!	!	!	!	!
+4FF#	4f# 4A	.	2rdd	.	.
+!	!	!LO:HP:b=2	!	!	!
+!LO:TUP:a	!	!	!	!	!
+(>12E#XL	4a 4c#^>	>	.	.	.
+12F#	.	.	.	.	.
+12C#J)	.	]	.	.	.
+=11	=11	=11	=11	=11	=11
+4FF#	4f# 4A	.	2rdd	.	.
+!LO:TUP:a	!	!LO:HP:b=2	!	!	!
+(>12E#XL	4a 4c#^>	>	.	.	.
+12F#	.	.	.	.	.
+12C#J)	.	]	.	.	.
+=12	=12	=12	=12	=12	=12
+2FF#\	2f# 2A<	.	2rdd	.	.
+!!LO:LB:g=original
+=13||	=13||	=13||	=13||	=13||	=13||
+!!!OMD: Più lento. [quarter] = 60.
+!	!	!LO:DY:rj	!	!	!LO:DY:a
+4A	4cc# 4a 4e	p	4cc#	Rze-	.
+4D	4b 4f# 4d	.	4dd	-ko	.
+=14	=14	=14	=14	=14	=14
+2E	2g# 2e 2d	.	8b	z cu-	.
+.	.	.	8f#	-dzo-	.
+.	.	.	8g#	-ziem-	.
+.	.	.	8e	-ców	.
+=15	=15	=15	=15	=15	=15
+2AA	2a 2e 2c#	.	4cc#	stro-	.
+.	.	.	(16qqcc#/LL	.	.
+.	.	.	16qqb/JJ	.	.
+.	.	.	4a)	-ny	.
+=16	=16	=16	=16	=16	=16
+4F#	4a 4f# 4c#	.	4a	Cze-	.
+4BB	4g#X 4d	.	4b	mu	.
+=17	=17	=17	=17	=17	=17
+2C#	2g# 2e#X 2c# 2B	.	8g#	nurt	.
+.	.	.	8d#X	twóy	.
+.	.	.	8e#X	tak	.
+.	.	.	8c#	zmą-	.
+=18	=18	=18	=18	=18	=18
+4FF#	2f# 2c# 2A	.	4a	-co-	.
+4F#	.	.	4f#	-ny?	.
+=19	=19	=19	=19	=19	=19
+*ped	*	*	*	*	*
+[<2BB^>\	4r	.	4r	.	.
+.	8f# 8d 8G#<	.	8g#	Czy	.
+.	8r	.	8g#	się	.
+!!LO:LB:g=original
+=20	=20	=20	=20	=20	=20
+4BB]	4f# 4d 4G#<	.	8g#	gdzie	.
+*Xped	*	*	*	*	*
+.	.	.	8g#	za-	.
+!	!	!LO:HP:b=2	!	!	!
+8AAL	4f# 4d 4G#<	<	8f#	-pa-	.
+8BBJ	.	[[	8g#	-dły	.
+=21	=21	=21	=21	=21	=21
+!	!	!	!	!	!LO:HP:a
+2C#	4f# 4c# 4A	.	4b	brze-	>
+.	4f# 4c# 4A	.	4a	gi,	]
+=22	=22	=22	=22	=22	=22
+*ped	*	*	*	*	*
+[<\2D^>	4r	.	4r	.	.
+.	.	.	.	.	.
+.	4f# 4B< 4G#<	.	8g#	Czy	.
+.	.	.	8g#	sto-	.
+=23	=23	=23	=23	=23	=23
+4D]	4f# 4B< 4G#<	.	8g#	-pnia-	.
+*Xped	*	*	*	*	*
+.	.	.	8g#	-ły	.
+!	!	!LO:HP:b=2	!	!	!
+8C#L	4f# 4B< 4G#<	<	8f#	sta-	.
+8DJ	.	[[	8g#	re	.
+=24	=24	=24	=24	=24	=24
+!	!	!	!	!	!LO:HP:a
+4D#X	4f# 4B#X< 4G#<	[>	(</4b	śnie-	>
+4GG#	4f# 4B#< 4G#<	]	8a)	.	]]
+.	.	.	8g#	gi,	.
+=25	=25	=25	=25	=25	=25
+*	*^	*	*	*	*
+!	!	!	!	!LO:TX:a:B:t=riten.	!	!
+!	!	!	!LO:DY:rj	!	!	!
+!	!	!LO:TX:a:B:t=riten.	!	!LO:TX:a:t=P:problem:diminuendolike accent	!	!
+2C#	4f#	2c#< 2Bny< 2G#<	sf	4.g#^>	śnie-	.
+.	4e#X	.	.	.	.	.
+.	.	.	.	8f#	.	.
+*	*v	*v	*	*	*	*
+=26	=26	=26	=26	=26	=26
+4FF#	4f# 4c# 4A	.	4f#	gi?	.
+4r	8cc#L	pp	4r	.	.
+.	8bJ	.	.	.	.
+!!LO:PB:g=original
+=27	=27	=27	=27	=27	=27
+2rF	(>12aL<	.	2rdd	.	.
+.	12cc#	.	.	.	.
+.	12g#	.	.	.	.
+.	12f#	.	.	.	.
+.	12cc#	.	.	.	.
+.	12aJ)	.	.	.	.
+=28	=28	=28	=28	=28	=28
+4A	4cc# 4a 4e	p	4cc#	Le-	.
+4D	4b 4f# 4d	.	4dd	-żą	.
+=29	=29	=29	=29	=29	=29
+2E	2g# 2e 2d	.	8b	w gó-	.
+.	.	.	8f#	-rach	.
+.	.	.	8g#	sta-	.
+.	.	.	8e	-re	.
+=30	=30	=30	=30	=30	=30
+2AA	2a 2e 2c#	.	8cc#L	śnie-	.
+.	.	.	(>16cc#L	.	.
+.	.	.	16bJJ	.	.
+.	.	.	4a)	-gi,	.
+=31	=31	=31	=31	=31	=31
+4F#	4a 4f# 4c#	.	4a/	Kwia-	.
+4BB	4g# 4d	.	4b/	-tem	.
+=32	=32	=32	=32	=32	=32
+2C#	2g# 2e#X 2c# 2B	.	8g#	kwi-	.
+.	.	.	8d#X	-tną	.
+.	.	.	8e#X	mo-	.
+.	.	.	8c#	-je	.
+=33	=33	=33	=33	=33	=33
+4FF#	2f# 2c# 2A	.	4a	brze-	.
+4F#	.	.	4f#	-gi	.
+!!LO:LB:g=original
+=34	=34	=34	=34	=34	=34
+(<\4BB#X	4f# 4d#X 4G#<	.	4.g#	A-	.
+4Cn\)	4f# 4d# 4G#<	.	.	.	.
+.	.	.	8g#	-le	.
+=35	=35	=35	=35	=35	=35
+2BBn	4fn 4dn 4G#<	.	8g#	tam	.
+!	!	!LO:HP:b:t=cresc.:ext=ud	!	!	!
+!	!LO:TX:b:t=cresc. _ :problem:dynamics with line extensions	!	!	!	!
+.	.	<	8g#	przy	.
+.	4e 4d 4G#<	.	8a	źró-	.
+.	.	.	8b	-dle	.
+=36	=36	=36	=36	=36	=36
+2AA	4e 4c# 4A	.	4cc#	mo-	.
+.	4a 4e 4c#	.	4cc#	jem	.
+=37	=37	=37	=37	=37	=37
+2BB	8gnL 8d	.	8cc#	Pła-	.
+.	8BJ	.	8b	-cze	.
+.	8gL 8d	.	8dd	mat-	.
+.	8BJ	.	8gn	-ka	.
+=38	=38	=38	=38	=38	=38
+*^	*	*	*	*	*
+!	!	!	!	!	!	!LO:HP:a
+2C#	4rBBB	8f#L 8c#	.	4f#	nad	<
+.	.	8G#<J	.	.	.	.
+.	4CC#\	8e#XL 8c#	.	4g#	mym	[[
+.	.	8G#<J	[[	.	.	.
+*v	*v	*	*	*	*	*
+=39	=39	=39	=39	=39	=39
+!	!	!	!	!	!LO:HP:a
+*ped	*	*	*	*	*
+2BB#X 2BBB#X	8g#/L 8f#/ 8d#X/	sf	4dd#X	zdro-	>
+.	8G#<J	.	.	.	.
+.	8g#/L 8f#/ 8d#/	.	4g#	-jem	]]
+.	8G#<J	.	.	.	.
+!!LO:LB:g=original
+=40	=40	=40	=40	=40	=40
+2Cn\ 2CCn\	8g# 8f# 4d#XL	p	4.g#	A-	.
+.	8G#<J	.	.	.	.
+.	8g# 8f# 4d#yXL	.	.	.	.
+*Xped	*	*	*	*	*
+.	8G#<J	.	8g#	-le	.
+=41	=41	=41	=41	=41	=41
+4BBB\ 4BB\	8g# 8fn 4dnXL	.	8g#	tam	.
+.	8G#<J	.	8g#	przy	.
+!	!	!	!LO:HP:b:t=cresc.:ext=ud	!	!
+!	!LO:TX:b:t=cresc _ :problem:dynamics with line extensions	!	!	!	!
+4EE\	8g# 8e 4dnyXL	<	8a	źró-	.
+.	8G#<J	.	8b	-dle	.
+=42	=42	=42	=42	=42	=42
+2AAA\ 2AA\	8a 8e 4c#L	.	4cc#	mo-	.
+.	8A<J	.	.	.	.
+.	8a 8e 4c#L	.	4cc#	jém	.
+.	8A<J	.	.	.	.
+=43	=43	=43	=43	=43	=43
+*ped	*	*	*	*	*
+2BBB/ 2BB/	8g#XL 8d	.	8cc#	Pła-	.
+.	8BJ	[>	8b	-cze	.
+.	8g#L 8d	.	8a	mat-	.
+*Xped	*	*	*	*	*
+.	8BJ	.	8g#	-ka	.
+=44	=44	=44	=44	=44	=44
+*ped	*	*	*	*	*
+2CC#\ 2C#\	8a 8f#L 8c#	.	4f#	nad	.
+.	8A<J	.	.	.	.
+.	8a 8eL 8c#	.	4a	mym	.
+*Xped	*	*	*	*	*
+.	8A<J	.	.	.	.
+=45	=45	=45	=45	=45	=45
+*ped	*	*	*	*	*
+2CC#\ 2C#\	8e# 8c#L	.	(4g#	zdro-	.
+.	8B<J	.	.	.	.
+.	8e# 8c#L	.	4cc#)	.	.
+*Xped	*	*	*	*	*
+.	8B<J	.	.	.	.
+=46	=46	=46	=46	=46	=46
+2FF#;<	2f# 2c# 2A;>	.	2f#;	-jem.	.
+!!LO:PB:g=original
+=47||	=47||	=47||	=47||	=47||	=47||
+!!!OMD: Tempo Io.
+!	!	!LO:DY:rj	!	!	!
+*ped	*	*	*	*	*
+4FF#	4.dd	p	2rdd	.	.
+[<4F#	.	.	.	.	.
+.	8cc#	.	.	.	.
+=48	=48	=48	=48	=48	=48
+*^	*	*	*	*	*
+*	*^	*	*	*	*	*
+2e#X	4d	2F#\_	(>8bL	<	2rdd	.	.
+.	.	.	8cc#	.	.	.	.
+.	4B	.	8dd	.	.	.	.
+*Xped	*	*	*	*	*	*	*
+.	.	.	8gg#J)	[	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+2f#	4A	2F#\]	4ff#	.	2rdd	.	.
+.	4c#	.	4ff#	.	.	.	.
+*v	*v	*v	*	*	*	*	*
+=50	=50	=50	=50	=50	=50
+*ped	*	*	*	*	*
+4FF#	4.dd	.	2rdd	.	.
+[<4F#	.	.	.	.	.
+.	8cc#	.	.	.	.
+=51	=51	=51	=51	=51	=51
+*^	*	*	*	*	*
+*	*^	*	*	*	*	*
+2e#X	4d	2F#\_	(>8bL	<	2rdd	.	.
+.	.	.	8cc#	.	.	.	.
+.	4B	.	8dd	.	.	.	.
+*Xped	*	*	*	*	*	*	*
+.	.	.	8gg#J)	[	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+2f#	4A	2F#\]	2ff#	.	2rdd	.	.
+.	4c#	.	.	.	.	.	.
+*v	*v	*v	*	*	*	*	*
+=53	=53	=53	=53	=53	=53
+!LO:TX:a:B:t=rubato.	!	!	!	!	!
+4c# 4F# 4E 4AA#X	(8ee#XL	.	2rdd	.	.
+.	8ff#	.	.	.	.
+4B 4F# 4D 4BB	8eenT>	.	.	.	.
+.	8ddJ)	.	.	.	.
+=54	=54	=54	=54	=54	=54
+4B 4E#X 4C#	(8b#XL	.	2rdd	.	.
+.	8cc#	.	.	.	.
+4B 4F# 4D	8bnT>	.	.	.	.
+.	8aJ)	.	.	.	.
+=55	=55	=55	=55	=55	=55
+4d 4F# 4BB	(8g#t>L<	.	2rdd	.	.
+.	8f#X	.	.	.	.
+4B 4E#X 4C#	8g#	.	.	.	.
+.	8cc#J)	.	.	.	.
+=56	=56	=56	=56	=56	=56
+!LO:TX:a:B:t=rit.	!	!	!	!	!
+4FF#	4f# 4A	.	2rdd	.	.
+!	!	!LO:HP:b=2	!	!	!
+!LO:TUP:a	!	!	!	!	!
+(>12E#XL	4a 4c#^>	>	.	.	.
+12F#	.	.	.	.	.
+12C#J)	.	]	.	.	.
+=57	=57	=57	=57	=57	=57
+4FF#	4f# 4A	.	2rdd	.	.
+!	!	!LO:HP:b=2	!	!	!
+!LO:TUP:a	!	!	!	!	!
+(>12E#XL	4a 4c#^>	>	.	.	.
+12F#	.	.	.	.	.
+12C#J)	.	]	.	.	.
+=58	=58	=58	=58	=58	=58
+2FF#	2f# 2A<	.	2rdd	.	.
+!!LO:LB:g=original
+=59||	=59||	=59||	=59||	=59||	=59||
+!!!OMD: Più lento. [quarter] = 60.
+4A	4cc# 4a 4e	p	4cc#	Sie-	.
+4D	4b 4f# 4d	.	4dd	-dem	.
+=60	=60	=60	=60	=60	=60
+2E	2g# 2e 2d	.	8b	có-	.
+.	.	.	8f#	-rek	.
+.	.	.	8g#	pia-	.
+.	.	.	8e	-sto-	.
+=61	=61	=61	=61	=61	=61
+2AA	2a 2e 2c#	.	4cc#	wa-	.
+.	.	.	(16qqcc#/LL	.	.
+.	.	.	16qqb/JJ	.	.
+.	.	.	4a)	-ła,	.
+=62	=62	=62	=62	=62	=62
+4F#	4a 4f# 4c#	.	4a/	Sie-	.
+4BB	4g# 4d	.	4b/	.-dem	.
+=63	=63	=63	=63	=63	=63
+2C#	2g# 2e#X 2c# 2B	.	8g#	có-	.
+.	.	.	8d#X	-rek	.
+.	.	.	8e#X	za-	.
+.	.	.	8c#	-ko-	.
+=64	=64	=64	=64	=64	=64
+4FF#	2f# 2c# 2A	.	4a	-pa-	.
+4F#	.	.	4f#	-ła,	.
+=65	=65	=65	=65	=65	=65
+*ped	*	*	*	*	*
+[<2BB^>\	4r	.	4r	.	.
+.	8f# 8d 8G#<	.	8g#	Sie-	.
+.	8r	.	8g#	-dem	.
+=66	=66	=66	=66	=66	=66
+4BB]	4f# 4d 4G#<	.	8g#	có-	.
+*Xped	*	*	*	*	*
+.	.	.	8g#	-rek	.
+!	!	!LO:HP:b=2	!	!	!
+8AAL	4f# 4d 4G#<	<	8f#	śród	.
+8BBJ	.	[[	8g#	o-	.
+!!LO:LB:g=original
+=67	=67	=67	=67	=67	=67
+!	!	!	!	!	!LO:HP:a
+2C#	4f# 4c# 4A	.	4b	-gro-	>
+.	4f# 4c# 4A	.	4a	-du	]
+=68	=68	=68	=68	=68	=68
+*ped	*	*	*	*	*
+[<2D^>	4r	.	8r	.	.
+.	.	.	8g#	Gło-	.
+.	4f# 4B< 4G#<	.	8g#	-wa-	.
+.	.	.	8g#	-mi	.
+=69	=69	=69	=69	=69	=69
+4D]	4f# 4B< 4G#<	.	8g#	prze-	.
+*Xped	*	*	*	*	*
+.	.	.	8g#L	ciw-	.
+!	!	!LO:HP:b=2	!	!	!
+8C#L	4f# 4B< 4G#<	<	8f#J	.	.
+8DJ	.	[[	8g#	-ko	.
+=70	=70	=70	=70	=70	=70
+!	!	!	!	!	!LO:HP:a
+4D#X	4f# 4B#X< 4G#<	[>	(</4b	wscho-	>
+4GG#	4f# 4B#< 4G#<	.	8a)	.	]]
+.	.	]	8g#	-du,	.
+=71	=71	=71	=71	=71	=71
+*	*^	*	*	*	*
+!	!	!	!	!LO:TX:a:B:t=riten.	!	!
+!	!	!LO:TX:a:B:t=riten.	!	!	!	!
+2C#	4f#	2c#< 2B< 2G#<	sf	(<4.g#^>	wscho-	.
+.	4e#X	.	.	.	.	.
+.	.	.	.	8f#)	.	.
+*	*v	*v	*	*	*	*
+=72	=72	=72	=72	=72	=72
+4FF#	4f# 4c# 4A	.	4f#	-du.	.
+4r	8cc#L	pp	4r	.	.
+.	8bJ	.	.	.	.
+=73	=73	=73	=73	=73	=73
+2rF	(>12aL<	.	2rdd	.	.
+.	12cc#	.	.	.	.
+.	12g#	.	.	.	.
+.	12f#	.	.	.	.
+.	12cc#	.	.	.	.
+.	12aJ)	.	.	.	.
+=74	=74	=74	=74	=74	=74
+4A	4cc# 4a 4e	.	4cc#	Te-	.
+4D	4b 4f# 4d	.	4dd	-raz	.
+=75	=75	=75	=75	=75	=75
+2E	2g# 2e 2d	.	8b	się	.
+.	.	.	8f#	z du-	.
+.	.	.	8g#	-cha-	.
+.	.	.	8e	-mi	.
+!!LO:PB:g=original
+=76	=76	=76	=76	=76	=76
+2AA	2a 2e 2c#	.	8cc#L	wi-	.
+.	.	.	(16cc#L	.	.
+.	.	.	16bJJ	.	.
+.	.	.	4a)	-ta,	.
+=77	=77	=77	=77	=77	=77
+4F#	4a 4f# 4c#	.	4a	O	.
+4BB	4g# 4d	.	4b	wy-	.
+=78	=78	=78	=78	=78	=78
+2C#	2g# 2e#X 2c# 2B	.	8g#	-go-	.
+.	.	.	8d#X	-dy	.
+.	.	.	8e#X	dziat-	.
+.	.	.	8c#	-ki	.
+=79	=79	=79	=79	=79	=79
+4FF#	2f# 2c# 2A	.	4a	py-	.
+4F#	.	.	4f#	-ta,	.
+=80	=80	=80	=80	=80	=80
+(<4BB#X\	4f# 4d#X 4G#<	.	4.g#	I	.
+4C\)	4f# 4d# 4G#<	.	.	.	.
+.	.	.	8g#	mo-	.
+=81	=81	=81	=81	=81	=81
+2BBn	4fn 4dn 4G#<	.	8g#	-gi-	.
+.	.	<	8g#	-ły	.
+.	4e 4d 4G#<	.	8a	ich	.
+.	.	.	8b	po-	.
+=82	=82	=82	=82	=82	=82
+2AA	4e 4c# 4A	.	4cc#	-le-	.
+.	4a 4e 4c#	.	4cc#	-wa,	.
+=83	=83	=83	=83	=83	=83
+2BB	8gnL 8d	.	8cc#	I	.
+.	8BJ	.	8b	ża-	.
+.	8gL 8d	.	8dd	-łoś-	.
+.	8BJ	.	8gn	-ne	.
+!!LO:LB:g=original
+=84	=84	=84	=84	=84	=84
+*^	*	*	*	*	*
+!	!	!	!	!	!	!LO:HP:a
+2C#	4rBBB	8f#L 8c#	.	4.f#	pi-	<
+.	.	8G#<J	.	.	.	.
+.	4CC#	8e#XL 8c#	.	.	.	[[
+.	.	8G#<J	.	8g#	-śni	.
+*v	*v	*	*	*	*	*
+=85	=85	=85	=85	=85	=85
+!	!	!	!	!	!LO:HP:a
+*ped	*	*	*	*	*
+2BB#X\ 2BBB#X\	8g#L 8f# 8d#X	sf	4dd#X	śpie-	>
+.	8G#<J	.	.	.	.
+.	8g#L 8f# 8d#	.	4g#	-wa	]]
+.	8G#<J	.	.	.	.
+=86	=86	=86	=86	=86	=86
+!	!	!LO:DY:rj	!	!	!
+2C\ 2CC\	8g#L 8f# 8d#X	p	(</4b	I	.
+.	8G#<J	.	.	.	.
+.	8g#L 8f# 8d#	.	8a)	.	.
+*Xped	*	*	*	*	*
+.	8G#<J	.	8g#	mo-	.
+=87	=87	=87	=87	=87	=87
+!	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+!	!	!	!LO:TUP:b	!	!
+4BB/ 4BBB/	8g#L 8fn 8dn	<	(<24g#L/	-gi-	.
+.	.	.	24a	.	.
+.	.	.	24g#J)	.	.
+.	8G#<J	.	16f#L	-ły	.
+.	.	.	16g#J	.	.
+4EE/	8g#L 8e 8d	.	8a	ich	.
+.	8B<J	.	8b	po-	.
+=88	=88	=88	=88	=88	=88
+2AA 2AAA	8aL 8e 8c#	.	4dd	-le-	.
+.	8A<J	.	.	.	.
+.	8aL 8e 8c#	.	4cc#	-wa	.
+.	8A<J	.	.	.	.
+=89	=89	=89	=89	=89	=89
+*ped	*	*	*	*	*
+2BB/ 2BBB/	8gL 8d	.	8cc#	I	.
+.	8BJ	>	8b	ża-	.
+.	8gL 8d	.	8a	-łoś-	.
+*Xped	*	*	*	*	*
+.	8BJ	.	8g	-ne	.
+=90	=90	=90	=90	=90	=90
+*ped	*	*	*	*	*
+2C#\ 2CC#\	8aL 8f# 8c#	.	(<4.f#/	pie-	.
+.	8A<J	.	.	.	.
+.	8aL 8f# 8c#	.	.	.	.
+*Xped	*	*	*	*	*
+.	8A<J	.	8a)	-śni	.
+=91	=91	=91	=91	=91	=91
+*ped	*	*	*	*	*
+2C#\ 2CC#\	8e#XL 8c#	.	(>4g#	śpie-	.
+.	8B<J	.	.	.	.
+.	8e#L 8c#	.	4cc#)	.	.
+*Xped	*	*	*	*	*
+.	8B<J	.	.	.	.
+=92	=92	=92	=92	=92	=92
+2FF#;<	2f# 2c# 2A;>	.	2f#;>	-wa.	.
+!!LO:LB:g=original
+=93||	=93||	=93||	=93||	=93||	=93||
+!!!OMD: Tempo Io.
+*ped	*	*	*	*	*
+4FF#	4.dd	p	2rdd	.	.
+[<4F#	.	.	.	.	.
+.	8cc#	.	.	.	.
+=94	=94	=94	=94	=94	=94
+*^	*	*	*	*	*
+*	*^	*	*	*	*	*
+2e#X	4d	[2F#\]	(8bL	<	2rdd	.	.
+.	.	.	8cc#	.	.	.	.
+.	4B	.	8dd	.	.	.	.
+*Xped	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.
+.	.	.	8gg#J)	[	.	.	.
+=95	=95	=95	=95	=95	=95	=95	=95
+2f#	4A	2F#\]	4ff#	.	2rdd	.	.
+.	4c#	.	4ff#	.	.	.	.
+*v	*v	*v	*	*	*	*	*
+=96	=96	=96	=96	=96	=96
+*ped	*	*	*	*	*
+4FF#	4.dd	.	2rdd	.	.
+[<4F#	.	.	.	.	.
+.	8cc#	.	.	.	.
+=97	=97	=97	=97	=97	=97
+*^	*	*	*	*	*
+*	*^	*	*	*	*	*
+2e#X	4d	[<2F#\]	(8bL	<	2rdd	.	.
+.	.	.	8cc#	.	.	.	.
+.	4B	.	8dd	.	.	.	.
+.	.	.	8gg#J)	[	.	.	.
+*v	*v	*v	*	*	*	*	*
+=98	=98	=98	=98	=98	=98
+*^	*	*	*	*	*
+*	*^	*	*	*	*	*
+2f#	4A	2F#\]	2ff#	.	2rdd	.	.
+.	4c#	.	.	.	.	.	.
+*v	*v	*v	*	*	*	*	*
+=99	=99	=99	=99	=99	=99
+!LO:TX:a:B:t=rubato.	!	!	!	!	!
+4c# 4F# 4E 4AA#X	(8ee#XL	.	2rdd	.	.
+.	8ff#	.	.	.	.
+4B 4F# 4D 4BB	8eenT>	.	.	.	.
+.	8ddJ)	.	.	.	.
+=100	=100	=100	=100	=100	=100
+4B 4E#X 4C#	(8b#XL	.	2rdd	.	.
+.	8cc#	.	.	.	.
+4B 4F# 4D	8bnT>	.	.	.	.
+.	8aJ)	.	.	.	.
+=101	=101	=101	=101	=101	=101
+4d 4F# 4BB	(8g#t>L<	.	2rdd	.	.
+.	8f#X	.	.	.	.
+4B 4E#X 4C#	8g#	.	.	.	.
+.	8cc#J)	.	.	.	.
+=102	=102	=102	=102	=102	=102
+!LO:TX:a:B:t=rit.	!	!	!	!	!
+4FF#	4f# 4A	.	2rdd	.	.
+!	!	!LO:HP:b=2	!	!	!
+!LO:TUP:a	!	!	!	!	!
+(>12E#XL	4a 4c#^>	>	.	.	.
+12F#	.	.	.	.	.
+12C#J)	.	]	.	.	.
+=103	=103	=103	=103	=103	=103
+4FF#	4f# 4A	.	2rdd	.	.
+!LO:TUP:a	!	!LO:HP:b=2	!	!	!
+(>12E#XL	4a 4c#^>	>	.	.	.
+12F#	.	.	.	.	.
+12C#J)	.	]	.	.	.
+=104	=104	=104	=104	=104	=104
+2FF#	2f# 2A<	.	2rdd	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!ENC: Antoni Szymański
+!!!END: 2019-08-26
+!!!EED: Mateusz Mrugas
+!!!EST: revision finished 2019-10-13
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!system-decoration: (s1){(s2,s3)}
+!!!RDF**dynam: < = "cresc.", 'fontstyle="bold"
+!!!RDF**dynam: > = "dim.", 'fontstyle="bold"
+!!!rism-genre: Smutna rzeka
+!!!rism-key: F-sharp minor
+!!!rism-opus: op.  74, no. 3
+!!!rism-title: Le fleuve triste in F-sharp minor op.  74, no. 3
+!!!rism-permalink: https://opac.rism.info/search?id=300605189&View=rism
+!!!rism-773a-OPR: 300605186
+!!!rism-parent-permalink: https://opac.rism.info/search?id=300605186&View=rism

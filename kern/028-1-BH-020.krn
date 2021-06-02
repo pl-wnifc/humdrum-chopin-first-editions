@@ -1,0 +1,137 @@
+!!!!SEGMENT: 028-1-BH-020.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Prelude No. 20
+!!!OPS: Op. 28
+!!!PTL: Vingt-quatre Preludes pour le Piano
+!!!PPR: Breitkopf & Härtel
+!!!PPP: Leipzig
+!!!NIFC-rismID: 1001013149
+!!!NIFC-shelfmark: PL-Wbfc 4372/n
+!!!OMD: Largo.
+!!!system-decoration: {(s1,s2)}
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*I"N|o. 20.	*	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*c:	*c:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+=1	=1	=1
+*^	*	*
+!	!	!	!LO:DY:rj
+2ryy	4C 4CC	(>4g 4e- 4c 4G<	ff
+.	4FF 4FFF	4a- 4e- 4c 4A-<	.
+4Bn 4G	4GG 4GGG	8.gL 8.e-	.
+.	.	16fJk 16d	.
+4ryy	4C 4GG 4CC	4e- 4c 4G< 4E-<)	.
+=2	=2	=2	=2
+2ryy	4AA- 4AAA-	(>4e- 4c 4A-< 4E-<	.
+.	4DD-X 4DDD-X	4f 4d-X 4A-< 4F<	.
+4G 4E- 4D-X	4EE- 4EEE-	8.e-L 8.c	.
+.	.	16d-Jk 16B-	.
+4ryy	4AA- 4AAA-	4c< 4A-< 4E-< 4C<)	.
+*v	*v	*	*
+=3	=3	=3
+!	!	!LO:HP:a
+4GG 4GGG\	(>4d 4Bn< 4F< 4D<	<
+4CC 4CCC\	4en 4c< 4B-X< 4G< 4En<	.
+4FF 4FFF\	8.gL 8c< 8A-<	.
+.	16fJk	.
+4C 4CC\	4e 4c 4G<	.
+=4	=4	=4
+*	*^	*
+4AAn 4DD\	4d 4c 4F#X< 4D<	2ryy	.
+4GG 4GGG\	4g 4d 4Bn< 4G<	.	.
+4DD 4DDD\	8.bnL	4f#X 4d 4c	.
+.	16a-Jk	.	.
+4GG 4GGG\	4g 4d 4Bn)	4ryy	[
+=5	=5	=5	=5
+!	!	!	!LO:DY:rj
+(>4C\ 4CC	(>4ee- 4g 4e-	2ryy	p
+4c 4C	4ee- 4a- 4e-	.	.
+!	!LO:TX:b:t=P:note position:problem	!	!
+4Bn 4BBn	4dd 4d	8.a-L	.
+.	.	16f#XJk	.
+4B-X 4BB-X	4dd 4g 4d)	4ryy	.
+*	*v	*v	*
+!!LO:LB:g=original
+=6	=6	=6
+4An 4AAn	(>4cc 4g 4c	.
+4A-X 4AA-X	4dd 4f#X 4d 4c	.
+4G 4GG/	8.bnL 8.g 8.d	.
+.	16anJk 16c	.
+4F 4FF/	4g 4d 4Bn	.
+=7	=7	=7
+*	*^	*
+4E- 4EE-	4cc 4g 4c	2ryy	.
+4F 4FF	4a- 4c 4A-	.	.
+4BBn 4BBBn	8.gL	4d 4G	.
+.	16fJk	.	.
+4C 4CC	4e- 4c 4G	4ryy	.
+*	*v	*v	*
+=8	=8	=8
+*^	*	*
+2ryy	4AA- 4AAA-	4e- 4c 4A-< 4E-<	.
+.	4DD-X 4DDD-X	4f 4d-X 4A-< 4F<	.
+4Bn 4G 4F	4GG 4GGG	8.e-L	.
+.	.	16dnJk	.
+!	!	!LO:TX:b:t=P:slur position:slur end by 4CC:problem	!
+4ryy	4CC 4CCC)	4c 4G< 4E-<)	.
+*v	*v	*	*
+=9	=9	=9
+*	*^	*
+(>4C 4CC	(>4ee- 4g 4e-	2ryy	p
+4c 4C	4ee- 4a- 4e-	.	.
+!	!LO:TX:b:t=P:note position:problem	!	!
+4Bn 4BBn	4dd 4d	8.a-L	.
+.	.	16f#XJk	.
+4B-X 4BB-X	4dd 4g 4d	4ryy	.
+*	*v	*v	*
+=10	=10	=10
+4An 4AAn	4cc 4g 4c	.
+4A-X 4AA-X	4dd 4f#X 4d 4c	.
+4G 4GG/	8.bnL 8.g 8.d	.
+.	16anJk 16c	.
+4F 4FF	4g 4d 4Bn	.
+=11	=11	=11
+*	*^	*
+4E- 4EE-	4cc 4g 4c	2ryy	.
+4F 4FF	4a- 4c 4A-	.	.
+4BBn 4BBBn	8.gL	4d 4G	.
+.	16fJk	.	.
+!	!LO:TX:Bi:a:t=ritenuto.	!	!
+4C 4CC	4e- 4c 4G	4ryy	.
+*	*v	*v	*
+=12	=12	=12
+*^	*	*
+2ryy	4AA- 4AAA-	4e- 4c 4A-< 4E-<	.
+.	4DD-X 4DDD-X	4f 4d-X 4A-< 4F<	.
+4Bn 4G 4F	4GG 4GGG	8.e-L	.
+.	.	16dJk	.
+!	!LO:TX:b:t=P:slur position:slur end by 4CC:problem	!	!
+4ryy	4CC 4CCC)	4c 4G< 4E-<)	.
+*v	*v	*	*
+=13	=13	=13
+!LO:TX:b:B:t=Fine.	!	!
+1G 1C	1cc; 1g 1e- 1c^<	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!ENC: Leszek Kubiak
+!!!END: 2019-06-14
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: 2019-09-28
+!!!EED2: Emilia Ziętek
+!!!EST2: 2020-05-02
+!!!rism-genre: Prelude
+!!!rism-key: C minor
+!!!rism-opus: op.  28, no. 20
+!!!rism-title: Prelude in C minor op.  28, no. 20
+!!!rism-permalink: https://opac.rism.info/search?id=1001013149&View=rism
+!!!rism-773a-OPR: 1001013083
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001013083&View=rism

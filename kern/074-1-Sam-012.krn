@@ -1,0 +1,506 @@
+!!!!SEGMENT: 074-1-Sam-012.krn
+!!!COM: Fryderyk Chopin
+!!!OTL: Meine Freuden
+!!!OPS: op. 74
+!!!PTL: 16 | Polnische Lieder | von Witwicki, Zaleski Mickiewicz etc. | für eine Singstimme | mit Begleitung des Pianoforte
+!!!PPR: Schlesinger
+!!!PPP: Berlin
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: PL-Wbfc 6138/n
+!!!OMD: Allegretto. M. M. [quarter] = 120.
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*	*part1
+*staff3	*staff2	*	*staff1	*	*
+*I"PIANO.	*	*	*I"SINGSTIMME.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*	*
+*g-:	*g-:	*	*g-:	*	*
+*M3/4	*M3/4	*	*M3/4	*	*
+*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1
+*^	*	*	*	*	*
+!	!	!	!LO:DY:rj	!	!	!
+!	!	!	!	!LO:TX:t=P:"Allegretto." nad "M. M....":problem	!	!
+4rd	2.F	4dd-	mf	2.rdd	.	.
+4d- 4A-	.	4.ee-	.	.	.	.
+4d- 4A-	.	.	.	.	.	.
+.	.	8dd-	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+4rB	2.E-	4dd-	.	2.rdd	.	.
+4c- 4G-	.	4.cc-	.	.	.	.
+4c- 4G-	.	.	.	.	.	.
+.	.	8b-	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+*ped	*	*	*	*	*	*
+4rB	2.D-	4b-/	<	2.rdd	.	.
+4f-X 4B- 4G-	.	4a-	.	.	.	.
+*Xped	*	*	*	*	*	*
+4f- 4B- 4G-	.	4g-	.	.	.	.
+.	.	.	[	.	.	.
+*v	*v	*	*	*	*	*
+=4	=4	=4	=4	=4	=4
+*ped	*	*	*	*	*
+4C-	2.gg-	>	2.rdd	.	.
+4e- 4c- 4G-	.	.	.	.	.
+4e- 4c- 4G-	.	]	.	.	.
+*Xped	*	*	*	*	*
+.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5
+*^	*	*	*	*	*
+4rc	2.C-	8a-L<	.	2.rdd	.	.
+.	.	8b-J	.	.	.	.
+4e-- 4G-	.	4cc-	.	.	.	.
+4e-- 4G-	.	4cc-	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*	*	*
+!	!	!LO:TUP:a	!	!	!	!
+4rc	2.D-	(>12cc-L	.	2.rdd	.	.
+.	.	12dd-	.	.	.	.
+.	.	12cc-J)	.	.	.	.
+4d- 4B- 4G-	.	8b-L<	.	.	.	.
+.	.	8g-J	.	.	.	.
+4d- 4B- 4G-	.	4b-\	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7
+!	!	!LO:TUP:a	!	!	!	!
+4rc	2.D-	(>12b-L<	.	2.rdd	.	.
+.	.	12cc-	.	.	.	.
+.	.	12b-J)	.	.	.	.
+4c- 4F	.	8a-L	.	.	.	.
+.	.	8d-J	.	.	.	.
+4c- 4F	.	4a-	.	.	.	.
+*v	*v	*	*	*	*	*
+=8	=8	=8	=8	=8	=8
+4GG-/	4g-	.	2.rdd	.	.
+4B-\ 4D-\	4r	.	.	.	.
+4r	[<4d-	.	.	.	.
+!!LO:LB:g=original
+=9	=9	=9	=9	=9	=9
+4GG-\	2d-]	.	4b-	Seh’	.
+2D-	.	.	4cc-	ich	.
+!	!	!	!LO:TX:t=P:w źródle w miejscu myślinków rozdzielających sylaby występują podkreślniki:problem	!	!
+.	[>4d- 4B-< 4G-<	.	4b-	Ge-	.
+=10	=10	=10	=10	=10	=10
+4GG-\	2d-]	.	2a-	-lieb-	.
+2D-	.	.	.	.	.
+.	[>4d- 4c- 4A-< 4F<	.	4d-	-te,	.
+=11	=11	=11	=11	=11	=11
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+4GG-\	2d-]	.	8d-	hei-	.
+!	!	!	!	!	!LO:HP:a
+.	.	.	8f	-ter	<
+2D-	.	.	4a-	dich	.
+.	[>4d- 4c- 4A-< 4F<	.	4cc-	und	[
+=12	=12	=12	=12	=12	=12
+!	!	!	!	!	!LO:HP:a
+!	!LO:TX:b:t=poco cres_cen_do.:problem:dynamics with extention lines	!	!	!	!
+!	!	!LO:HP:b:i:t=cres-cen-do.:ext=ud	!	!	!
+4GG-\	2d-]	<	(>2ee-	fröh-	>
+2D-	.	.	.	.	.
+.	[>4d- 4B-< 4G-<	.	4dd-)	-lich,	]
+=13	=13	=13	=13	=13	=13
+4GGn\	2d-]	.	4b-	zittr’	.
+2D-	.	.	(>4an	ich:	.
+.	>[>4d- 4B-< 4F-X<	.	4b-	man	.
+=14	=14	=14	=14	=14	=14
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+4AA-\	2d-]	.	2dd-	könn-	.
+2D-	.	.	.	.	.
+.	[>4d- 4c- 4Fn<	.	8cc-)	-te	.
+.	.	.	8b-	den	.
+=15	=15	=15	=15	=15	=15
+4DD-/	2d-]	.	4.b-\	Froh-	.
+2D-	.	[	.	.	.
+.	.	.	(>8a-X	.	.
+.	4f [<4d- 4c-	.	8b-^>/	-sinn	.
+.	.	.	8a-)	dir	.
+!!LO:LB:g=original
+=16	=16	=16	=16	=16	=16
+!	!LO:TX:b:t=dim _ :problem:dynamics with extention lines	!	!	!	!
+!	!	!LO:HP:b:i:t=dim:ext=ud	!	!	!
+4GG-	2d-]	>	2g-	stö-	.
+2D-/	.	.	.	.	.
+.	4g- [>4d- 4B-	]]	4d-	-ren;	.
+=17	=17	=17	=17	=17	=17
+4GG-\	2d-]	p	4b-	fängst	.
+.	.	.	<8qdd-/	.	.
+2D-	.	.	4cc-	an	.
+.	[>4d- 4B-< 4G-<	.	4b-	zu	.
+=18	=18	=18	=18	=18	=18
+4GG-\	2d-]	.	2a-	plau-	.
+2D-	.	.	.	.	.
+.	[>4d- 4c- 4A-< 4F<	.	4d-	-dern,	.
+=19	=19	=19	=19	=19	=19
+4GG-\	2d-]	.	4.d-	das	.
+2D-	.	.	.	.	.
+.	.	.	8f	macht	.
+.	[>4d- 4c- 4A-< 4F<	.	8a-	mich	.
+.	.	.	8cc-	so	.
+=20	=20	=20	=20	=20	=20
+4GG-\	2d-]	.	2ee-	se-	.
+2D-	.	.	.	.	.
+.	[>4d- 4B-< 4G-<	.	4dd-	-lig,	.
+=21	=21	=21	=21	=21	=21
+4GGn\	2d-]	.	(>4b-	sitz’	.
+2D-	.	.	4.an	mäus-	.
+.	[>4d- 4B-< 4F-X<	.	.	.	.
+.	.	.	8b-)	-chen-	.
+=22	=22	=22	=22	=22	=22
+4AA-\	2d-]	.	4.cc-	-still,	.
+2D-	.	.	.	.	.
+.	.	.	8f	dich	.
+!	!	!	!LO:TX:a:t=P:lack of beginning of the slur by 4f:problem	!	!
+.	[>4d- 4c- 4Fn<	.	(>4f	nicht	.
+!!LO:LB:g=original
+=23	=23	=23	=23	=23	=23
+!	!LO:TX:t=P:ligature by 2d- ends down:problem	!	!	!	!
+4DD-	2d-]	.	12cc-L	zu	.
+.	.	.	12dd-	.	.
+.	.	.	12cc-J)	.	.
+(<2D-	.	.	4b-	un-	.
+.	4d- 4F<	.	4cc-	-ter	.
+=24	=24	=24	=24	=24	=24
+2BB-\)	4r	.	2dd-	-bre-	.
+.	4d- 4G-<	.	.	.	.
+4GGn\	4d- 4F-X<	.	4b-	-chen,	.
+=25	=25	=25	=25	=25	=25
+2.AA-\	4r	.	4cc-	wün-	.
+.	4d- 4F<	.	4b-	-sche:	.
+.	4dn 4F<	.	(<4a-	nur	.
+=26	=26	=26	=26	=26	=26
+2.AA-\	4r	.	4b-/)	du	.
+.	4e-X 4cny 4A-< 4G-<	.	4a-	ach	.
+.	4e- 4c 4A-< 4G-<	.	8a-L	nur_	.
+.	.	.	8anJ	.	.
+=27	=27	=27	=27	=27	=27
+2.D-	4r	.	(>/8b-L	du	.
+.	.	.	8a-XJ	.	.
+.	4d- 4c-X 4F<	.	4g-	mö-	.
+.	[>4d- 4c- 4F<	.	8fL	-gest	.
+.	.	.	8e-J	.	.
+!!LO:PB:g=original
+=28	=28	=28	=28	=28	=28
+4GG-\	2d-]	.	2e-	spre-	.
+2D-	.	.	.	.	.
+.	4d- 4B-< 4G-<	.	4d-)	-chen,	.
+=29	=29	=29	=29	=29	=29
+2.G-	4r	.	4b--	und	.
+.	4e-- 4B--<	.	4b--	ich	.
+.	4e-- 4B--<	.	4b--	will	.
+=30	=30	=30	=30	=30	=30
+!	!	!	!	!	!LO:HP:a
+2.F	4r	.	(<2b--	hö-	>]
+.	4d-< 4A-<	.	.	.	.
+.	4d-< 4A-<	.	4a-)	-ren,	.
+=31	=31	=31	=31	=31	=31
+!	!	!	!	!	!LO:HP:a
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+2.G-	4r	.	8b--	hö-	<
+.	.	.	8b--	-ren,	.
+!	!	!	!	!	!LO:HP:a
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+.	4e-- 4B--<	.	4cc-	im-	[>]
+.	4e-- 4B--<	.	4b--	-mer	[
+=32	=32	=32	=32	=32	=32
+2.F	4r	.	2b--^	hö-	.
+.	4d- 4A-<	.	.	.	.
+.	4d- 4A-<	.	4a-	-ren,	.
+=33	=33	=33	=33	=33	=33
+2.F-X	4r	.	(<4a--'	und	.
+.	4d-- 4A--<	.	4a--'	ich	.
+.	4d-- 4A--<	.	4a--')	will	.
+=34	=34	=34	=34	=34	=34
+2.E-	4r	.	(<2a--	hö-	.
+.	4c-< 4G-<	.	.	.	.
+.	4c-< 4G-<	.	4g-)	-ren,	.
+!!LO:LB:g=original
+=35	=35	=35	=35	=35	=35
+*	*	*^	*	*	*
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+4E--	4c- 4G-	.	.	8g-	im-	<
+!	!	!	!	!	!	!LO:DY:a
+!	!LO:TX:b:t=cresc _ :problem:dynamics with extention lines	!	!	!	!	!
+!	!	!LO:HP:i:t=cresc:ext=ud	!	!	!	!
+.	.	<	.	(>8g-	-mer,	[
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+4E-- 4EE--	4c- 4G-	.	.	4aa-	im-	.
+4E-- 4EE--	4c- 4G-	.	.	4gg-)	-mer	.
+.	.	[	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36
+!	!	!	!LO:DY:a	!	!	!
+*ped	*	*	*	*	*	*
+!	!	!	!LO:DY:rj	!	!	!
+2.D- 2.DD-	[>2.d- 2.c- 2.F<	.	sf	(>4.ff	hö-	.
+.	.	.	.	8ee-'L	.	.
+.	.	.	.	8dd-'J	.	.
+*Xped	*	*	*	*	*	*
+.	.	.	.	8cc-)	-ren,	.
+*	*	*v	*v	*	*	*
+=37	=37	=37	=37	=37	=37
+4GG-\	2d-]	.	4b-	doch	.
+2D-	.	.	4cc-	wenn	.
+.	[>4d- 4B-< 4G-<	.	4b-	die	.
+=38	=38	=38	=38	=38	=38
+4GG-\	2d-]	.	(<2a-	Wor-	.
+2D-	.	.	.	.	.
+.	[>4d- 4c- 4A-< 4F<	.	4d-)	-te	.
+=39	=39	=39	=39	=39	=39
+!	!LO:TX:b:t=poco cres_cen_do_:problem:dynamics with extention lines	!	!	!	!
+!	!	!LO:HP:b:i:t=poco cres-cen-do:ext=ud 	!	!	!
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+4GG-\	2d-]	<	8d-	feu-	.
+.	.	.	8f	-rig	.
+2D-	.	.	8a-	dich	.
+.	.	.	8r	.	.
+!	!	!	!	!	!LO:DY:a
+.	[>4d- 4c- 4A-< 4F<	.	4cc-	er-	.
+=40	=40	=40	=40	=40	=40
+4GG-\	2d-]	.	2ee-	-re-	.
+2D-	.	.	.	.	.
+.	[>4d- 4B-< 4G-<	.	4dd-	-gen,	.
+=41	=41	=41	=41	=41	=41
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+4GGn\	2d-]	.	4b-\	Lip-	.
+2D-	.	.	4an	-pen	.
+.	[4d- 4B-< 4F-X<	.	4b-\	und	.
+!!LO:LB:g=original
+=42	=42	=42	=42	=42	=42
+4AA-\	2d-]	.	(>2dd-	Wan-	.
+2D-	.	.	.	.	.
+.	[>4d- 4c- 4F<	.	8cc-)	-gen	.
+.	.	.	8b-	bald	.
+=43	=43	=43	=43	=43	=43
+4DD-	2d-]	.	(</4.b-	rö-	.
+2D-	.	.	.	.	.
+.	.	.	8a-)	.	.
+.	4f [>4d- 4c-	.	8b-/	-then	.
+.	.	[[	8a-	sich	.
+=44	=44	=44	=44	=44	=44
+4GG-\	2d-]	.	(<2g-	müs-	.
+2D-	.	.	.	.	.
+.	4g- [>4d- 4B-	.	4d-)	-sen,	.
+=45	=45	=45	=45	=45	=45
+4GG-\	2d-]	.	(>4b-	wenn	.
+.	.	.	<8qdd-/	.	.
+2D-	.	.	4.cc-	sich	.
+.	[>4d- 4B-< 4G-<	.	.	.	.
+.	.	.	8b-)	dein	.
+=46	=46	=46	=46	=46	=46
+4GG-\	2d-]	.	(<2a-	Blick	.
+2D-	.	.	.	.	.
+.	[>4d- 4c- 4A-< 4F<	.	4d-)	tief	.
+=47	=47	=47	=47	=47	=47
+4GG-\	2d-]	.	8d-	in	.
+!	!	!	!	!	!LO:HP:a
+.	.	.	8f	mein	<
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+2D-	.	.	4a-	Her-	.
+.	[>4d- 4c- 4A-< 4F<	.	4cc-	-ze	[
+!!LO:LB:g=original
+=48	=48	=48	=48	=48	=48
+!	!	!	!LO:TX:a:t=P:almost invisible slur:problem	!	!
+4GG-\	2d-]	.	(>2ee-	sen-	.
+2D-	.	.	.	.	.
+.	4d- 4B-< 4G-<	.	8dd-L	-ket,	.
+.	.	.	8b-J)	.	.
+=49	=49	=49	=49	=49	=49
+2.C-\	4r	.	4a-^>	ach	.
+.	4e- 4A-< 4E-<	.	4r	.	.
+.	4e- 4A-< 4E-<	.	4r	.	.
+=50	=50	=50	=50	=50	=50
+2.BB-\	4r	.	4r	.	.
+.	4dn 4B-< 4F<	.	4r	.	.
+.	4d 4B-< 4F<	.	4b-	ja	.
+=51	=51	=51	=51	=51	=51
+!	!	!	!LO:TX:a:i:t=stretto. _:dur=17q:ext=ud:problem:text with extention lines	!	!
+2.C-\	4r	.	(<2b-^	dann,	.
+.	4e- 4A-< 4E-<	.	.	.	.
+.	4e- 4A-< 4E-<	.	4a-)	.	.
+=52	=52	=52	=52	=52	=52
+2.BB-\	4r	.	4r	.	.
+.	4dn 4B-< 4F<	.	4r	.	.
+.	4d 4B-< 4F<	.	4b-	ja	.
+=53	=53	=53	=53	=53	=53
+[<2.C-\	4r	.	[>2b.-^	dann_	.
+.	4B-< 4E-<	.	.	.	.
+.	4B-< 4E-<	.	.	.	.
+=54	=54	=54	=54	=54	=54
+2.C-]	4B-< 4E-<	.	2b-]	.	.
+.	4B-< 4E-<	.	.	.	.
+.	4A-< 4E-<	.	4a-	Ge-	.
+=55	=55	=55	=55	=55	=55
+[<2.C-\	4r	.	[>2b.-^	-lieb-	.
+.	4B-< 4E-<	.	.	.	.
+.	4B-< 4E-<	.	.	.	.
+=56	=56	=56	=56	=56	=56
+2.C-]	4B-< 4E-<	.	2b-]	.	.
+.	4B-< 4E-<	.	.	.	.
+.	4A-< 4E-<	.	4a-	-te	.
+!!LO:PB:g=original
+=57	=57	=57	=57	=57	=57
+.	.	.	8qb-/	.	.
+2.C-\	4r	.	4a-	dann,	.
+.	4A-< 4E-<	.	4gn	o	.
+.	4A-< 4E-<	.	(>4a-	Ge-	.
+=58	=58	=58	=58	=58	=58
+!	!	!	!LO:TX:a:i:t=sempre più_e_accel_le_ran_do.:dur=17q:ext=ud:problem:text with extention lines	!	!
+!LO:TX:a:t=cresc _ :problem:dynamics with line extentions	!	!	!	!	!
+!	!	!LO:HP:b:i:t=cresc:ext=ud	!	!	!
+2.D-	4r	<	4cc-	-lieb-	.
+.	4B-< 4F-X<	.	4b-)	-te,	.
+.	4B-< 4F-<	.	4b-	dann	.
+=59	=59	=59	=59	=59	=59
+!LO:TX:a:t=sempre_più e_accel_le_ran_do.:dur=2w1h1q:ext=ud:problem:text with extention lines	!	!	!	!	!
+2.D-	4r	.	4b-	möcht’	.
+.	4B-< 4F-X<	.	4an\	ich	.
+.	4B-< 4F-<	.	4b-	dich	.
+=60	=60	=60	=60	=60	=60
+2.E-	4r	.	2dd-	stö-	.
+.	4c- 4G-<	.	.	.	.
+.	4c- 4G-<	.	4cc-	-ren,	.
+=61	=61	=61	=61	=61	=61
+!LO:N:vis=2.	!	!	!	!	!
+2E-	4r	.	4cc-	zit-	.
+.	4c- 4G-<	.	4cc-	-tre	.
+4En	4cn 4Gn<	.	4ccn	vor	.
+=62	=62	=62	=62	=62	=62
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+2F	4r	.	4.dd-	Won-	.
+.	4d- 4A-	.	.	.	.
+.	.	.	8dd-	-ne	.
+4F#X	4dn 4An	.	4ddn	und	.
+=63	=63	=63	=63	=63	=63
+2.Gn	4r	.	4ee-	will	.
+.	4dn 4B-	.	4ddn	nicht	.
+.	4e- 4B-	[	4ee-	mehr	.
+!!LO:LB:g=original
+=64	=64	=64	=64	=64	=64
+2G#X	4r	.	2een	hö-	.
+.	4en 4Bn	.	.	.	.
+4r	4r	[[	4ee	-ren,	.
+=65	=65	=65	=65	=65	=65
+!	!	!	!	!	!LO:DY:rj
+!	!	!	!	!	!LO:DY:a
+!	!	!	!	!	!LO:HP:a
+2.rF	2.rdd	.	[>2.ff	dann_	ff>
+=66	=66	=66	=66	=66	=66
+2.rF	2.rdd	.	2.ff_>	.	]
+=67	=67	=67	=67	=67	=67
+4A-	4f 4d-	.	2.ff_>	.	.
+4r	4r	.	.	.	.
+4r	4r	.	.	.	.
+=68	=68	=68	=68	=68	=68
+2.rF	2.rdd	.	(>4ff]	.	.
+!	!	!	!LO:TX:a:i:t=rall.	!	!
+.	.	.	4ee-	möcht’	.
+.	.	.	4dd-)	ich	.
+=69	=69	=69	=69	=69	=69
+!	!	!	!	!	!LO:DY:rj:a
+2.AA-\	4r	.	[>2.gg-	küs-	f
+!	!	!LO:DY:a	!	!	!
+!	!LO:TX:a:i:t=rall.	!	!	!	!
+.	4e- 4G-<	.	.	.	.
+.	4e- 4G-<	.	.	.	.
+=70	=70	=70	=70	=70	=70
+!	!LO:TX:a:i:t=poco_a poco.:dur=11q:ext=ud:problem:text with extention lines	!	!LO:TX:a:i:t=poco_a_poco.:dur=12q:ext=ud:problem:text with extention lines	!	!
+2.BB-\	4r	.	4gg-]	.	.
+.	4dn 4A-<	.	4ff	sen,	.
+.	4d 4A-<	.	4ff	nur	.
+=71	=71	=71	=71	=71	=71
+!	!	!	!	!	!LO:HP:a
+2.C-\	4r	.	[>2.ff	küs-	>
+.	4e- 4G-<	.	.	.	.
+.	4e- 4G-<	.	.	.	]]
+!!LO:LB:g=original
+=72	=72	=72	=72	=72	=72
+2.Cn\	4r	.	4ff]	.	.
+.	4e- 4An< 4G-<	.	4ee-	sen,	.
+.	4e- 4A< 4G-<	.	(>4ee-	nur	.
+=73	=73	=73	=73	=73	=73
+2.D-	4r	.	>2ee-^	küs-	.
+.	4d- 4B-< 4G-<	.	.	.	.
+.	4d- 4B-< 4G-<	.	4dd-)	.	.
+=74	=74	=74	=74	=74	=74
+2.D-	4r	.	(>2ee-	.	.
+.	4d- 4B-< 4Gn<	.	.	.	.
+.	4d- 4B-< 4G<	.	4dd-	.	.
+=75	=75	=75	=75	=75	=75
+2.D-	4r	.	2ee-	.	.
+.	4d- 4c- 4A-	.	.	.	.
+.	4d- 4c- 4A-	.	4f)	-sen,	.
+=76	=76	=76	=76	=76	=76
+2.D-	4r	.	4r	.	.
+!	!LO:TX:a:t=a tempo.	!	!	!	!
+.	4d- 4c- 4A-	.	4r	.	.
+!	!	!LO:DY:a	!LO:TX:a:t=a tempo.	!	!
+!	!	!	!LO:TX:a:t=P:almost invisible slur:problem	!	!
+.	4d- 4c- 4A-	.	(<4f	nur	.
+=77	=77	=77	=77	=77	=77
+!	!	!	!	!	!LO:DY:a
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+2.GG-	4r	.	4a-	küs-	.
+.	4d- 4B- 4G-	.	4g-)	-sen!	.
+.	4d-	.	4r	.	.
+=78	=78	=78	=78	=78	=78
+*^	*	*	*	*	*
+4rd	2.F	4dd-	mf	2.rdd	.	.
+4d- 4A-	.	4.ee-	.	.	.	.
+4d- 4A-	.	.	.	.	.	.
+.	.	8dd-	.	.	.	.
+!!LO:LB:g=original
+=79	=79	=79	=79	=79	=79	=79
+!	!	!	!	!LO:TX:a:t=P:w źródle brak pustych ostatnich 7 taktów partii wokalnej; utwór kończy system z samą partią fortepianu:problem	!	!
+4rd	2.E-	4dd-	.	2.rdd	.	.
+4c- 4G-	.	4.cc-	.	.	.	.
+4c- 4G-	.	.	.	.	.	.
+.	.	8b-	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80
+4rd	2.D-	4b-/	<	2.rdd	.	.
+4f-X 4B- 4G-	.	4a-	.	.	.	.
+4f- 4B- 4G-	.	4g-	[	.	.	.
+*v	*v	*	*	*	*	*
+=81	=81	=81	=81	=81	=81
+4C-	2.gg-	>	2.rdd	.	.
+4e- 4c- 4G-	.	]	.	.	.
+4e- 4c- 4G-	.	.	.	.	.
+=82	=82	=82	=82	=82	=82
+*^	*	*	*	*	*
+4rd	2.C-	8a-L<	.	2.rdd	.	.
+.	.	8b-J	.	.	.	.
+4e-- 4G-	.	4cc-	.	.	.	.
+4e-- 4G-	.	4cc-	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83
+!	!	!LO:TUP:a	!	!	!	!
+4rd	2.D-	(>12cc-L	.	2.rdd	.	.
+.	.	12dd-	.	.	.	.
+.	.	12cc-J)	.	.	.	.
+4d- 4B- 4G-	.	8b-L<	.	.	.	.
+.	.	8g-J	.	.	.	.
+4d- 4B- 4G-	.	4b-	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84
+!	!	!LO:TUP:a	!	!	!	!
+4rd	2.D-	(>12b-L	.	2.rdd	.	.
+.	.	12cc-	.	.	.	.
+.	.	12b-J)	.	.	.	.
+4c- 4F	.	8a-L	.	.	.	.
+.	.	8d-J	.	.	.	.
+4c- 4F	.	4a-	.	.	.	.
+*v	*v	*	*	*	*	*
+=85	=85	=85	=85	=85	=85
+*ped	*	*	*	*	*
+4GG-	4g-	.	2.rdd	.	.
+4B- 4D-	4r	.	.	.	.
+*Xped	*	*	*	*	*
+.	.	.	.	.	.
+4r	4r	.	.	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!ENC: Emilia Ziętek
+!!!END: 2020-02-08
+!!!EED: Antoni Szymański
+!!!EST: revision finished 2020-02-10
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!system-decoration: (s1){(s2,s3)}
+!!!RDF**dynam: < = "cresc.", 'fontstyle="normal"
+!!!RDF**dynam: > = "dim.", 'fontstyle="normal"

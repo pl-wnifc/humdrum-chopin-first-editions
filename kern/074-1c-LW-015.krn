@@ -1,0 +1,665 @@
+!!!!SEGMENT: 074-1c-LW-015.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: No. 15. The Return Home. (Die Heimkehr.)
+!!!OPS: Op. 74
+!!!PTL: 17 | POLISH SONGS
+!!!PPR: Stanley Lucas, Weber & Co.
+!!!PPP: London
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: 6139/n
+!!!OMD: Prestissimo.
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*	*part1
+*I"PIANO.	*	*	*I"	*	*
+*staff3	*staff2	*	*staff1	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[f#]	*k[f#]	*	*k[f#]	*	*
+*e:	*e:	*	*e:	*	*
+*M2/4	*M2/4	*	*M2/4	*	*
+*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1
+*	*clefF-4	*	*	*	*
+!	!	!LO:DY:rj	!	!	!
+!	!	!	!LO:TX:t=P:nie wyświetla się "PRESTISSIMO." (!!!OMD):problem	!	!
+!	!	!	!LO:TX:t=P:w źródle brak pustych 8 taktów partii wokalnej; system zawiera tylko pierwsze 8 taktów partii fotepianu:problem	!	!
+!	!LO:TX:t=P:w źródle partię prawej ręki fortepianu rozpoczyna klucz G-2 i od razu następuje zmiana na klucz F-4:problem	!	!	!	!
+16FF#LL	16F#LL	p	2rff	.	.
+16EE#X	16E#X	.	.	.	.
+16FF#	16F#	.	.	.	.
+16GGJJ	16GJJ	.	.	.	.
+!	!	!LO:DY:a	!	!	!
+16GG#LL	16G#LL	<	.	.	.
+16AA	16A	.	.	.	.
+16AA#X	16A#X	.	.	.	.
+16BBJJ	16BJJ	[	.	.	.
+=2	=2	=2	=2	=2	=2
+16CLL	16cLL	>	2rff	.	.
+16BB	16B	.	.	.	.
+16AA#X	16A#X	.	.	.	.
+16AAJJ	16AJJ	]	.	.	.
+16GG#LL	16G#LL	.	.	.	.
+16GGX	16GX	.	.	.	.
+16FF#	16F#	.	.	.	.
+16FFXJJ	16FXJJ	.	.	.	.
+=3	=3	=3	=3	=3	=3
+16FF#XLL	16F#XLL	<	2rff	.	.
+16GG	16G	.	.	.	.
+16GG#	16G#	.	.	.	.
+16AAJJ	16AJJ	.	.	.	.
+16AA#XLL	16A#XLL	.	.	.	.
+16BB	16B	.	.	.	.
+16C	16c	.	.	.	.
+16C#JJ	16c#JJ	.	.	.	.
+*	*clefG-2	*	*	*	*
+=4	=4	=4	=4	=4	=4
+16DLL	16dLL	.	2rff	.	.
+16D#	16d#	.	.	.	.
+16E	16e	.	.	.	.
+16E#XJJ	16e#XJJ	.	.	.	.
+16F#LL	16f#LL	.	.	.	.
+16G	16g	.	.	.	.
+16G#	16g#	.	.	.	.
+16AJJ	16aJJ	.	.	.	.
+!!LO:LB:g=original
+=5	=5	=5	=5	=5	=5
+!	!	!LO:DY:rj	!	!	!
+16B-XLL^>	16b-XLL	f	2rff	.	.
+16A	16a	.	.	.	.
+16G#	16g#	.	.	.	.
+16GXJJ	16gXJJ	.	.	.	.
+16G#LL^>	16g#LL	.	.	.	.
+16GX	16gX	.	.	.	.
+16F#	16f#	.	.	.	.
+16FXJJ	16fXJJ	.	.	.	.
+=6	=6	=6	=6	=6	=6
+16F#X\LL^	16f#XLL	.	2rff	.	.
+16FX	16fX	.	.	.	.
+16E	16e	.	.	.	.
+16D#JJ	16d#JJ	.	.	.	.
+16E\LL^	16eLL	.	.	.	.
+16D#	16d#	.	.	.	.
+16DX	16dX	.	.	.	.
+16C#JJ	16c#JJ	.	.	.	.
+=7	=7	=7	=7	=7	=7
+16D/LL6^>	16dLL	.	2r	.	.
+16C#	16c#	.	.	.	.
+16CX	16cX	.	.	.	.
+16BBJJ	16BJJ	.	.	.	.
+16C#/LL^>	16c#LL	.	.	.	.
+16CX	16cX	.	.	.	.
+16BB	16B	.	.	.	.
+16AA#XJJ	16A#XJJ	.	.	.	.
+=8	=8	=8	=8	=8	=8
+16C/L^>	16cL	.	2r	.	.
+16BB	16B	.	.	.	.
+16AA#X	16A#X	.	.	.	.
+16AAJ	16AJ	.	.	.	.
+16BB/LL^>	16BLL	.	.	.	.
+16AA	16A	.	.	.	.
+16GG	16G	.	.	.	.
+16FF#JJ	16F#JJ	.	.	.	.
+!!LO:LB:g=original
+=9!||	=9!||	=9!||	=9!||	=9!||	=9!||
+*	*	*	*	*^	*
+*	*	*	*	*	*^	*
+*	*	*	*	*	*	*^	*
+!!!OMD: Agitato Vivo. M. M. [quarter] = 108.
+!	!	!	!LO:TX:t=P:w całej pieśni tekst niemiecki zapisany kursywą:problem	!	!	!	!	!
+!	!	!	!LO:TX:t=P:w źródle w miejscu myślinków rozdzielających sylaby występują podkreślniki:problem	!	!	!	!	!
+!	!	!	!LO:TX:t=P:w miejscu spacji za "1." i "2." (x2) wyświetla się kreska / łuczek:problem	!	!	!	!	!
+8EEL	8gL	.	8g	1. Wild	2. O!	1. Wild	2. Jun-	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+!	!	!LO:DY:rj	!	!	!	!	!	!
+16EEJk	8cc 8c^	sf	8g	the	young	da-	-ger	.
+16r	.	.	.	.	.	.	.	.
+8r	8g	.	8f#	strom-	man,	-her	Mann	.
+8E	8ccJ 8c	.	8e	-wind	with	der	mit	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+8EL	8aL 8f#	.	8f#	on-	eye	Sturm-	stie-	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+16EJk	8cc^ 8c	sf	8f#	-ward	so	-wind	-rem	.
+16r	.	.	.	.	.	.	.	.
+8r	8a 8f#	.	8f#	rush-	ear-	brau-	Au-	.
+8E	8ccJ 8c	.	8f#	-es,	-nest,	-set,	-ge,	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+8EEL	8gL	.	8g	Trees	Swift-	dass	jun-	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+16EEJk	8cc 8c^	.sf	8g	be-	-ly	die	-ger	.
+16r	.	.	.	.	.	.	.	.
+8r	8g	.	8f#	-fore	past	Bäu-	Mann	.
+8E	8ccJ 8c	.	8e	it	us	-me	zu	.
+!!LO:LB:g=original
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+8EL	8aL 8f#	.	4f#	rock-	rid-	äch-	Pfer-	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+16EJk	8cc^ 8c	sf	.	.	.	.	.	.
+16r	.	.	.	.	.	.	.	.
+8r	8a 8f#	.	4f#	-ing,	-ing,	-zen,	-de,	.
+8EE	8ccJ 8c	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+!	!	!LO:DY:rj	!	!	!	!	!	!
+8D#/ 8DD#/	8b 8a 8f# 8B	ffz	8b	In	Thou	Fin-	kommst	.
+8r	8r	.	8b	the	thy	-ster-	zu	.
+4DX\	8r	.	8ee	for-	hors-	-niss	spät	.
+.	8ee 8b 8g# 8e	.	8ee	-ests	-e’s	im	zu	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+!LO:TX:a:i:t=rall.	!	!	!LO:TX:a:i:t=rall.	!	!	!	!	!
+4C#	8r	.	8ee	there	will-	dich-	dei-	.
+.	8ee 8a 8e	.	8ee	is	ing	-ten	-nem	.
+4CX	8r	.	8e	dark-	foot-	Wal-	Zie-	.
+.	8a#X 8g 8e	.	8f#	-ness,	steps	-de,	-le,	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+[<4BB	8r	.	8g	And	Late	und	zu	.
+.	8b 8g 8e	.	8g	the	art	die	dem	.
+!	!	!	!	!	!	!	!	!LO:DY:a
+!	!	!	!	!	!	!	!	!LO:HP:a
+4B 4BB]	8r	<	8f#	rav-	home-	Ra-	heim’-	<
+.	8an 8f# 8d#	.	8b	-en	-ward	-ben	-schen	[[
+!!LO:PB:g=original
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+!	!	!	!	!	!	!	!	!LO:HP:a
+!	!	!	!	!	!	!	!	!LO:DY:a
+4c	8r	<	4a	croak-	guid-	kräch-	Her-	>
+.	8a 8e	.	.	.	.	.	.	.
+4C	8r	.	8g	-ing.	-ing.	-zen,	-de,	.
+.	8g 8e	[[	8r	.	.	.	.	]
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+8D#	8b 8a 8f# 8B	sf	8b	In	Thou	Fin-	kommst	.
+8r	8r	.	8b	the	thy	-ster-	zu	.
+4DX\	8r	.	8b	for-	hors-	-niss	spät	.
+.	8b 8g# 8e	.	8b	-ests	-e’s	im	zu	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+!	!	!	!	!	!	!	!	!LO:DY:a
+4C#	8r	<	8ee	there	will-	dich-	dei-	.
+.	8ee 8a 8e	.	8ee	is	-ing	-ten	-nem	.
+4CX;	8r	[	8ee	-dark-	foot-	Wal-	Zie-	.
+!	!	!LO:DY:rj	!	!	!	!	!	!
+!	!	!	!LO:TX:t=P:fermata między 8ee a 8a#X:problem	!	!	!	!	!
+!	!LO:TX:t=P:fermata między 8r a 8gg 8ee 8a#X 8g:problem	!	!	!	!	!	!	!
+.	8gg 8ee 8a#X 8g;	ff	8a#X;	-ness,	-steps	-de,	-le,	[
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+[<2BB	8ggL 8ee 8b 8g	pp	8b	And	Late	und	zu	.
+.	8b\ 8g\	.	8b	the	art	die	dem	.
+.	8an 8f#	.	8an	rav-	home-	Ra-	heim’	.
+.	8gJ 8e	.	8g	en	-ward	-ben	schen	]]
+!!LO:LB:g=original
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+*^	*	*	*	*	*	*	*	*
+*	*	*^	*	*	*	*	*	*	*
+!	!	!LO:TX:b:t=P:nie wyświetla się dwukropek po "rall":problem	!	!	!LO:TX:t=P:nie wyświetla się dwukropek po "rall":problem	!	!	!	!	!
+!	!	!LO:TX:b:i:t=rall:	!	!	!LO:TX:a:i:t=rall:	!	!	!	!	!
+4rE	2BB] 2BBB	[>2f#	8d#L 8B	.	[<2f#	croak-	guid-	kräch-	Her-	.
+.	.	.	8F#	.	.	.	.	.	.	.
+4FF#/	.	.	8c# 8A#X	.	.	.	.	.	.	.
+.	.	.	8F#J	.	.	.	.	.	.	.
+*	*	*v	*v	*	*	*	*	*	*	*
+*v	*v	*	*	*	*	*	*	*	*
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+*	*^	*	*	*	*	*	*	*
+4BB/	2f#]	8d#L 8B	.	2f#]	.	.	.	.	.
+.	.	8F#	.	.	.	.	.	.	.
+4FF#/	.	8c# 8A#X	.	.	.	.	.	.	.
+.	.	[<8F#J	.	.	.	.	.	.	.
+*	*v	*v	*	*	*	*	*	*	*
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+!	!LO:TX:b:i:t=tempo prestissimo.	!	!	!	!	!	!	!
+16BBLL	[>2f# [>2d# [<2B [<2F#]	.	4f#	-ing.	-ing.	-zen.	-de.	.
+16AA#X	.	.	.	.	.	.	.	.
+16BB	.	.	.	.	.	.	.	.
+16AA#JJ	.	.	.	.	.	.	.	.
+16BBLL	.	.	4r	.	.	.	.	.
+16AA#	.	.	.	.	.	.	.	.
+16BB	.	.	.	.	.	.	.	.
+16AA#JJ	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*
+*	*	*	*	*	*v	*v	*
+*	*	*	*	*v	*v	*
+=23	=23	=23	=23	=23	=23
+16BBLL	2f#] 2d#] 2B] 2F#]	.	2r	.	.
+16AA#X	.	.	.	.	.
+16BB	.	.	.	.	.
+16AA#JJ	.	.	.	.	.
+16BBLL	.	.	.	.	.
+16AA	.	.	.	.	.
+16GG#	.	.	.	.	.
+16GGXJJ	.	.	.	.	.
+*	*clefF-4	*	*	*	*
+!!LO:LB:g=original
+=24	=24	=24	=24	=24	=24
+!	!	!LO:DY:b	!	!	!
+16FF#LL	16F#LL	.	2r	.	.
+16EE#X	16E#X	.	.	.	.
+16FF#	16F#	.	.	.	.
+16GGJJ	16GJJ	.	.	.	.
+!	!	!LO:DY:a	!	!	!
+16GG#LL	16G#LL	<	.	.	.
+16AA	16A	.	.	.	.
+16AA#X	16A#X	.	.	.	.
+16BBJJ	16BJJ	.	.	.	.
+.	.	[	.	.	.
+=25	=25	=25	=25	=25	=25
+16CLL	16cLL	>	2r	.	.
+16BB	16B	.	.	.	.
+16AA#X	16A#X	.	.	.	.
+16AAJJ	16AJJ	.	.	.	.
+16GG#LL	16G#LL	.	.	.	.
+16GGX	16GX	.	.	.	.
+16FF#	16F#	.	.	.	.
+16FFXJJ	16FXJJ	]	.	.	.
+=26	=26	=26	=26	=26	=26
+16FF#XLL	16F#XLL	.	2r	.	.
+16GG	16G	.	.	.	.
+16GG#	16G#	.	.	.	.
+16AAJJ	16AJJ	.	.	.	.
+16AA#XLL	16A#XLL	<	.	.	.
+16BB	16B	.	.	.	.
+16C	16c	.	.	.	.
+16C#JJ	16c#JJ	.	.	.	.
+*	*clefG-2	*	*	*	*
+=27	=27	=27	=27	=27	=27
+16DLL	16dLL	.	2r	.	.
+16D#	16d#	.	.	.	.
+16E	16e	.	.	.	.
+16E#XJJ	16e#XJJ	.	.	.	.
+16F#LL	16f#LL	.	.	.	.
+16G	16g	.	.	.	.
+16G#	16g#	.	.	.	.
+16AJJ	16aJJ	.	.	.	.
+!!LO:LB:g=original
+=28	=28	=28	=28	=28	=28
+!	!	!LO:DY:rj	!	!	!
+16B-XLL^>	16b-X^>LL	>	2r	.	.
+16A	16a	.	.	.	.
+16G#	16g#	.	.	.	.
+16GXJJ	16gXJJ	.	.	.	.
+16G#LL^>	16g#^>LL	.	.	.	.
+16GX	16gX	.	.	.	.
+16F#	16f#	.	.	.	.
+16FXJJ	16fXJJ	.	.	.	.
+=29	=29	=29	=29	=29	=29
+16F#X\LL^	16f#X^>LL	.	2r	.	.
+16FX	16fX	.	.	.	.
+16E	16e	.	.	.	.
+16D#JJ	16d#JJ	]	.	.	.
+16E\LL^	16eLL^>	.	.	.	.
+16D#	16d#	.	.	.	.
+16DX	16dX	.	.	.	.
+16C#JJ	16c#JJ	.	.	.	.
+=30	=30	=30	=30	=30	=30
+16D/LL6^>	16dLL	.	2r	.	.
+16C#	16c#	.	.	.	.
+16CX	16cX	.	.	.	.
+16BBJJ	16BJJ	.	.	.	.
+16C#/LL^>	16c#LL	.	.	.	.
+16CX	16cX	.	.	.	.
+16BB	16B	.	.	.	.
+16AA#XJJ	16A#XJJ	.	.	.	.
+=31	=31	=31	=31	=31	=31
+16C/L^>	16cL	.	2r	.	.
+16BB	16B	.	.	.	.
+16AA#X	16A#X	.	.	.	.
+16AAJ	16AJ	.	.	.	.
+16BB/LL^>	16BLL	.	.	.	.
+16AA	16A	.	.	.	.
+16GG	16G	.	.	.	.
+16FF#JJ	16F#JJ	.	.	.	.
+!!LO:PB:g=original
+==32:|!	==32:|!	==32:|!	==32:|!	==32:|!	==32:|!
+*	*	*	*	*^	*
+*	*	*	*	*	*^	*
+*	*	*	*	*	*	*^	*
+!	!	!	!LO:TX:i:t=Agitato Vivo.	!	!	!	!	!
+!	!	!	!LO:TX:t=P:w miejscu spacji za "3." i "4." (x2) wyświetla się kreska / łuczek:problem	!	!	!	!	!
+8EEL	8gL	.	8g	3. Hear-	4. Ah!	3. Hörst	4. Hast	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+16EEJk	8cc 8c^	sf	8g	-est	thy	du	dein	.
+16r	.	.	.	.	.	.	.	.
+8r	8g	.	8f#	thou	wife,	ü-	Weib	.
+8E	8ccJ 8c	.	8e	the	so	-ber	so	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33
+8EL	8aL 8f#	.	8f#	rav-	young	dir	jung	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+16EJk	8cc^ 8c	sf	8f#	-en	and	die	und	.
+16r	.	.	.	.	.	.	.	.
+8r	8a 8f#	.	8f#	croak-	bloom-	Ra-	blü-	.
+8E	8ccJ 8c	.	8f#	-ing,	-ing,	-ben,	-hend	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+8EEL	8gL	.	8g	Ill	Thou	hörst	kur-	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+16EEJk	8cc 8c^	.sf	8g	to	a-	die	ze	.
+16r	.	.	.	.	.	.	.	.
+8r	8g	.	8f#	come	-while	Un-	Zeit	.
+8E	8ccJ 8c	.	8e	fore-	hadst	-glücks-	ver-	.
+!!LO:LB:g=original
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+8EL	8aL 8f#	.	4f#	-show-	left	-bo-	-las-	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+16EJk	8cc^ 8c	sf	.	.	.	.	.	.
+16r	.	.	.	.	.	.	.	.
+8r	8a 8f#	.	4f#	-ing?	her;	-ten?	-sen,	.
+8EE	8ccJ 8c	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+!	!LO:TX:t=P:powinno być "sff":problem	!	!	!	!	!	!	!
+8D#/ 8DD#/	8b 8a 8f# 8B	sf	8b	Sor-	Young	kommst	jung	.
+8r	8r	.	8b	-row	and	zu,	und	.
+4DX\	8r	.	8ee	and	bloom-	Jam-	blü-	.
+.	8ee 8b 8g# 8e	.	8ee	des-	-ing,	-mer	-hend,	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+!LO:TX:t=P:nie wyświetla się dwukropek po "rall":problem	!	!	!LO:TX:t=P:nie wyświetla się dwukropek po "rall":problem	!	!	!	!	!
+!LO:TX:a:i:t=rall:	!	!	!LO:TX:a:i:t=rall:	!	!	!	!	!
+4C#	8r	.	8ee	-pair	fair	und	schön	.
+.	8ee 8a 8e	.	8ee	a-	and	Ver-	und	.
+4CX	8r	.	8e	-wait	lov-	zweif-	glü-	.
+.	8a#X 8g 8e	.	8f#	thee;	-ing,	-lung,	-hend	.
+!!LO:LB:g=original
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+[<4BB	8r	<	8g	To	Death	rei-	muss-	.
+.	8b 8g 8e	.	8g	the	from	-test	-te	.
+!	!	!	!	!	!	!	!	!LO:DY:a
+!	!	!	!	!	!	!	!	!LO:HP:a
+4B 4BB]	8r	.	8f#	dead	thee	zu	sie-	<
+.	8an 8f# 8d#	.	8b	thou’rt	hath	den	er-	[[
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+!	!	!	!	!	!	!	!	!LO:HP:a
+!	!	!	!	!	!	!	!	!LO:DY:a
+4c	8r	<	4a	go-	reft	Tod-	-blas-	>
+.	8a 8e	.	.	.	.	.	.	.
+4C	8r	.	8g	-ing,	her,	-ten,	-sen,	]
+.	8g 8e	[[	8r	.	.	.	.	]
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+8D#	8b 8a 8f# 8B	sf	8b	Sor-	Young	kommst	jung	.
+8r	8r	.	8b	-row	and	zu	und	.
+4DX\	8r	.	8b	and	bloom-	Jam-	blü-	.
+.	8b 8g# 8e	.	8b	des-	-ing,	-mer	-hend,	.
+!!LO:PB:g=original
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+!	!	!	!	!	!	!	!	!LO:DY:a
+4C#	8r	<	8ee	-pair	fair	und	schön	.
+.	8ee 8a 8e	.	8ee	a-	and	Ver-	und	.
+4CX;	8r	ff[	8ee	-wait	lov-	-zweif-	glü-	.
+!	!	!LO:DY:rj	!	!	!	!	!	!
+!	!	!	!LO:TX:t=P:fermata między 8ee a 8a#X:problem	!	!	!	!	!
+!	!LO:TX:t=P:fermata między 8r a 8gg 8ee 8a#X 8g:problem	!	!	!	!	!	!	!
+.	8gg 8ee 8a#X 8g;	.	8a#X;	thee;	-ing,	-lung,	-hend	[
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+[<2BB	8ggL 8ee 8b 8g	pp	8b	To	Death	rei-	muss-	.
+.	8b\ 8g\	.	8b	the	from	-test	-te	.
+.	8an 8f#	.	8an	dead	thee	zu	sie	.
+.	8gJ 8e	.	8g	thou’rt	hath	den	er-	]]
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+*^	*	*	*	*	*	*	*	*
+*	*	*^	*	*	*	*	*	*	*
+!	!	!LO:TX:b:t=P:nie wyświetla się dwukropek po "rall":problem	!	!	!LO:TX:t=P:nie wyświetla się dwukropek po "rall":problem	!	!	!	!	!
+!	!	!LO:TX:b:i:t=rall:	!	!	!LO:TX:a:i:t=rall:	!	!	!	!	!
+!	!	!	!	!	!LO:TX:t=P:w źródle w miejscu linii podkreślnikowych, oznaczających przedłużenie sylaby, występują kropki:problem	!	!	!	!	!
+4rE	2BB] 2BBB	2f#	8d#L 8B	.	[<2f#	go-	reft_	Tod-	blas-	.
+.	.	.	8F#	.	.	.	.	.	.	.
+4FF#/	.	.	8c# 8A#X	.	.	.	.	.	.	.
+.	.	.	8F#J	.	.	.	.	.	.	.
+*	*	*v	*v	*	*	*	*	*	*	*
+*v	*v	*	*	*	*	*	*	*	*
+!!LO:LB:g=original
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+*	*^	*	*	*	*	*	*	*
+4BB/	2f#	8d#L 8B	.	2f#]	.	.	.	.	.
+.	.	8F#	.	.	.	.	.	.	.
+4FF#/	.	8c# 8A#X	.	.	.	.	.	.	.
+.	.	[<8F#J	.	.	.	.	.	.	.
+*	*v	*v	*	*	*	*	*	*	*
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+!	!LO:TX:b:i:t=tempo prestissimo.	!	!	!	!	!	!	!
+16BBLL	[>2f# [>2d# [<2B [<2F#]	.	4f#	ing	her	-ten.	-sen.	.
+16AA#X	.	.	.	.	.	.	.	.
+16BB	.	.	.	.	.	.	.	.
+16AA#JJ	.	.	.	.	.	.	.	.
+16BBLL	.	.	4r	.	.	.	.	.
+16AA#	.	.	.	.	.	.	.	.
+16BB	.	.	.	.	.	.	.	.
+16AA#JJ	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*
+*	*	*	*	*	*v	*v	*
+*	*	*	*	*v	*v	*
+=46	=46	=46	=46	=46	=46
+16BBLL	2f#] 2d#] 2B] 2F#]	.	2rff	.	.
+16AA#X	.	.	.	.	.
+16BB	.	.	.	.	.
+16AA#JJ	.	.	.	.	.
+16BBLL	.	.	.	.	.
+16AA	.	.	.	.	.
+16GG#	.	.	.	.	.
+16GGXJJ	.	.	.	.	.
+*	*clefF-4	*	*	*	*
+=47	=47	=47	=47	=47	=47
+!	!	!LO:DY:b	!	!	!
+16FF#LL	16F#LL	.	2rff	.	.
+16EE#X	16E#X	.	.	.	.
+16FF#	16F#	.	.	.	.
+16GGJJ	16GJJ	.	.	.	.
+!	!	!LO:DY:a	!	!	!
+16GG#LL	16G#LL	<	.	.	.
+16AA	16A	.	.	.	.
+16AA#X	16A#X	.	.	.	.
+16BBJJ	16BJJ	.	.	.	.
+.	.	[	.	.	.
+!!LO:LB:g=original
+=48	=48	=48	=48	=48	=48
+16CLL	16cLL	>	2rff	.	.
+16BB	16B	.	.	.	.
+16AA#X	16A#X	.	.	.	.
+16AAJJ	16AJJ	.	.	.	.
+16GG#LL	16G#LL	.	.	.	.
+16GGX	16GX	.	.	.	.
+16FF#	16F#	.	.	.	.
+16FFXJJ	16FXJJ	]	.	.	.
+=49	=49	=49	=49	=49	=49
+16FF#XLL	16F#XLL	.	2rff	.	.
+16GG	16G	.	.	.	.
+16GG#	16G#	.	.	.	.
+16AAJJ	16AJJ	.	.	.	.
+16AA#XLL	16A#XLL	<	.	.	.
+16BB	16B	.	.	.	.
+16C	16c	.	.	.	.
+16C#JJ	16c#JJ	.	.	.	.
+*	*clefG-2	*	*	*	*
+=50	=50	=50	=50	=50	=50
+16DLL	16dLL	.	2rff	.	.
+16D#	16d#	.	.	.	.
+16E	16e	.	.	.	.
+16E#XJJ	16e#XJJ	.	.	.	.
+16F#LL	16f#LL	.	.	.	.
+16G	16g	.	.	.	.
+16G#	16g#	.	.	.	.
+16AJJ	16aJJ	.	.	.	.
+!!LO:LB:g=original
+=51	=51	=51	=51	=51	=51
+!	!	!LO:DY:rj	!	!	!
+16B-XLL^>	16b-X^>LL	>	2rff	.	.
+16A	16a	.	.	.	.
+16G#	16g#	.	.	.	.
+16GXJJ	16gXJJ	.	.	.	.
+16G#LL^>	16g#^>LL	.	.	.	.
+16GX	16gX	.	.	.	.
+16F#	16f#	.	.	.	.
+16FXJJ	16fXJJ	.	.	.	.
+=52	=52	=52	=52	=52	=52
+16F#X\LL^	16f#X^>LL	.	2rff	.	.
+16FX	16fX	.	.	.	.
+16E	16e	.	.	.	.
+16D#JJ	16d#JJ	]	.	.	.
+16E\LL^	16eLL^>	.	.	.	.
+16D#	16d#	.	.	.	.
+16DX	16dX	.	.	.	.
+16C#JJ	16c#JJ	.	.	.	.
+=53	=53	=53	=53	=53	=53
+16D/LL6^>	16dLL	.	2r	.	.
+16C#	16c#	.	.	.	.
+16CX	16cX	.	.	.	.
+16BBJJ	16BJJ	.	.	.	.
+16C#/LL^>	16c#LL	.	.	.	.
+16CX	16cX	.	.	.	.
+16BB	16B	.	.	.	.
+16AA#XJJ	16A#XJJ	.	.	.	.
+=54	=54	=54	=54	=54	=54
+16C/L^>	16cL	.	2r	.	.
+16BB	16B	.	.	.	.
+16AA#X	16A#X	.	.	.	.
+16AAJ	16AJ	.	.	.	.
+16BB/LL^>	16BLL	.	.	.	.
+16AA	16A	.	.	.	.
+16GG	16G	.	.	.	.
+16FF#JJ	16F#JJ	.	.	.	.
+!!LO:PB:g=original
+==55:|!	==55:|!	==55:|!	==55:|!	==55:|!	==55:|!
+!!!OMD: Agitato vivo.
+*	*	*	*	*^	*
+!	!	!	!LO:TX:i:a:t=Agitato Vivo.	!	!	!
+!	!	!	!LO:TX:t=P:w miejscu spacji za "5." (x2) wyświetla się kreska / łuczek:problem	!	!	!
+8EEL	8gL	.	8g	5. Tho’	5. Magst	.
+!	!	!LO:DY:b=2	!	!	!	!
+16EEJk	8cc 8c^	sf	8g	with	die	.
+16r	.	.	.	.	.	.
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby w "thousand":problem	!	!	!
+8r	8g	.	8f#	thou-	Tod-	.
+8E	8ccJ 8c	.	8e	-sand	-te	.
+=56	=56	=56	=56	=56	=56	=56
+8EL	8aL 8f#	.	8f#	fran-	nur	.
+!	!	!LO:DY:b=2	!	!	!	!
+16EJk	8cc^ 8c	sf	8f#	-tic	mit	.
+16r	.	.	.	.	.	.
+8r	8a 8f#	.	8f#	-kiss-	Küs-	.
+8EE	8ccJ 8c	.	8f#	-es	-sen	.
+=57	=57	=57	=57	=57	=57	=57
+8EEL	8gL	.	8g	To	im-	.
+!	!	!LO:DY:b=2	!	!	!	!
+16EEJk	8cc 8c^	sf	8g	thy	-mer-	.
+16r	.	.	.	.	.	.
+8r	8g	.	8f#	heart	-hin	.
+8E	8ccJ 8c	.	8e	thou	be-	.
+=58	=58	=58	=58	=58	=58	=58
+8EL	8aL 8f#	.	4f#	take	-de-	.
+!	!	!LO:DY:b=2	!	!	!	!
+16EJk	8cc^ 8c	sf	.	.	.	.
+16r	.	.	.	.	.	.
+8r	8a 8f#	.	4f#	her,	-cken,	.
+8EE	8ccJ 8c	.	.	.	.	.
+!!LO:LB:g=original
+=59	=59	=59	=59	=59	=59	=59
+!	!	!LO:DY:rj	!	!	!	!
+!	!LO:TX:b:t=P:powinno być "sff":problem	!	!	!	!	!
+8D#/ 8DD#/	8b 8a 8f# 8B	sf	8b	Thou	wirst	.
+8r	8r	.	8b	to	sie	.
+4DX\	8r	.	8ee	life	doch	.
+.	8ee 8b 8g# 8e	.	8ee	re-	zu	.
+=60	=60	=60	=60	=60	=60	=60
+!LO:TX:b:t=P:nie wyświetla się dwukropek po "rall":problem	!	!	!LO:TX:t=P:nie wyświetla się dwukropek po "rall":problem	!	!	!
+!LO:TX:a:i:t=rall:	!	!	!LO:TX:a:i:t=rall:	!	!	!
+4C#	8r	.	8ee	new’d	neu-	.
+.	8ee 8a 8e	.	8ee	and	-em	.
+4CX	8r	.	8e	hap-	Le-	.
+.	8a#X 8g 8e	.	8f#	-py	-ben	.
+=61	=61	=61	=61	=61	=61	=61
+[<4BB	8r	<	8g	Ne-	nim-	<
+!	!	!	!	!	!	!LO:DY:a
+!	!	!	!	!	!	!LO:HP:a
+.	8b 8g 8e	.	8g	-ver	-mer-	.
+4B 4BB]	8r	.	8f#	more	-mehr	.
+.	8an 8f# 8d#	.	8b	shalt	er-	[
+=62	=62	=62	=62	=62	=62	=62
+!	!	!	!	!	!	!LO:HP:a
+!	!	!	!	!	!	!LO:DY:a
+4c	8r	<	4a	wake	-we-	>
+.	8a 8e	.	.	.	.	.
+4C	8r	.	8g	her,	-cken,	]
+.	8g 8e	[	8r	.	.	]
+!!LO:LB:g=original
+=63	=63	=63	=63	=63	=63	=63
+8D#	8b 8a 8f# 8B	sf	8b	Thou	wirst	.
+8r	8r	.	8b	to	sie	.
+4DX\	8r	.	8b	life	doch	.
+.	8b 8g# 8e	.	8b	re-	zu	.
+=64	=64	=64	=64	=64	=64	=64
+!	!	!	!	!	!	!LO:DY:a
+4C#	8r	<	8ee	-new’d	neu-	.
+.	8ee 8a 8e	.	8ee	and	-em	.
+4CX;	8r	[	8ee	hap-	Le-	.
+!	!	!	!LO:TX:t=P:fermata między 8ee a 8a#X:problem	!	!	!
+!	!LO:TX:t=P:fermata między 8r a 8gg 8ee 8a#X 8g:problem	!	!	!	!	!
+.	8gg 8ee 8a#X 8g;	ff	8a#X;	-py	-ben	[
+=65	=65	=65	=65	=65	=65	=65
+!	!	!	!	!	!	!LO:DY:a
+(<2BB	8gg/L 8ee/ 8b/ 8g/	pp	8b	Ne-	nim-	.
+.	8b\ 8g\	.	8b	-ver-	-mer-	.
+.	8an 8f#	.	8an	-more	-mehr	.
+.	8gJ 8e	.	8g	shalt	er	]]
+=66	=66	=66	=66	=66	=66	=66
+*	*^	*	*	*	*	*
+!	!LO:TX:t=P:nie wyświetla się dwukropek po "rall":problem	!	!	!LO:TX:t=P:nie wyświetla się dwukropek po "rall":problem	!	!	!
+!	!LO:TX:i:t=rall:	!	!	!LO:TX:i:t=rall:	!	!	!
+4AA)	4f#/	8eL	.	(>4cc	wake	we-	.
+.	.	8c	.	.	.	.	.
+4BB	4d#	8A	.	4d#)	.	.	.
+.	.	8BJ	.	.	.	.	.
+*	*v	*v	*	*	*	*	*
+!!LO:LB:g=original
+=67	=67	=67	=67	=67	=67	=67
+*^	*	*	*	*	*	*
+*	*	*^	*	*	*	*	*
+(>16BBLL	2EE	4G 4e	4ryy	.	4e	her.	-cken.	.
+16AA#X	.	.	.	.	.	.	.	.
+16BB	.	.	.	.	.	.	.	.
+!LO:TX:t=P:po "rall" i po "dim" są dwukropki:problem	!	!	!	!	!	!	!	!
+!LO:TX:a:i:t=rall e sempre più dim:dur=1s3q	!	!	!	!	!	!	!	!
+16AA#JJ	.	.	.	.	.	.	.	.
+!	!	!LO:TX:t=P:przed tym akordem następuje zmiana klucza, ale komenda na wstawenie klucza nie działa:problem	!	!	!	!	!	!
+16AALL	.	8c/L	4d#\ 4F#\	.	4r	.	.	.
+16GG	.	.	.	.	.	.	.	.
+16FF#	.	8A/J	.	.	.	.	.	.
+16FFXJJ)	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*
+=68	=68	=68	=68	=68	=68	=68	=68
+!LO:N:vis=2	!	!	!	!	!	!	!
+(>16EELL	2EE	4e\ 4G\	4ryy	.	2r	.	.
+16FFX	.	.	.	.	.	.	.
+16FF#	.	.	.	.	.	.	.
+16GGJJ	.	.	.	.	.	.	.
+16GG#LL	.	8c/L	4d#\ 4F#\	>	.	.	.
+16AA	.	.	.	.	.	.	.
+16BB	.	8AJ	.	]]	.	.	.
+16CJJ)	.	.	.	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69
+(>16BBLL	2EE	4e\ 4G#\	4rGGyy	.	2r	.	.
+16AA#X	.	.	.	.	.	.	.
+16BB	.	.	.	.	.	.	.
+16AA#JJ	.	.	.	.	.	.	.
+16AALL	.	8c/L	4d#\ 4F#\	>	.	.	.
+16GGX	.	.	.	.	.	.	.
+16FF#	.	8AJ	.	]	.	.	.
+16FFXJJ)	.	.	.	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70
+!LO:N:vis=2	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*
+(>16EELL	2EE	4e\ 4G#\	4rFFyy	pp	2r	.	.
+16FFX	.	.	.	.	.	.	.
+16FF#	.	.	.	.	.	.	.
+16GGJJ	.	.	.	.	.	.	.
+16GG#LL	.	8c/L	4d#\ 4F#\	>	.	.	.
+16AA	.	.	.	.	.	.	.
+16BB	.	8A/J	.	]	.	.	.
+16CJJ)	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*
+*	*v	*v	*	*	*	*
+=71	=71	=71	=71	=71	=71
+!	!LO:TX:t=P:w źródle obie kreski końcące utwór są grube:problem	!	!	!	!
+2BB 2EE	2e\ 2G#\	.	2r	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!system-decoration: (s1){(s2,s3)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cres:", 'fontstyle="italic"
+!!!RDF**dynam: > = "dim.", 'fontstyle="italic"
+!!!ENC: Antoni Szymański
+!!!END: 2020-02-10
+!!!EED: 
+!!!EST: revision finished

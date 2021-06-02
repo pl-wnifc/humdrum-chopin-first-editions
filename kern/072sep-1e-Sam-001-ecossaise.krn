@@ -1,0 +1,473 @@
+!!!!SEGMENT: 072sep-1e-Sam-001-ecossaise.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Écossaise No. 1.
+!!!OPS: Op. 72
+!!!PTL: TROIS ÉCOSSAISES | par | FRÉDÉRIC CHOPIN. (1830).
+!!!PPR: Adolph Martin Schlesinger
+!!!PPP: Berlin
+!!!NIFC-rismID: 1001017128
+!!!NIFC-shelfmark: PL-Wbfc 4779/n
+!!!OMD: Vivace.
+!!!OMD: No. 1.
+!!!OMD: [quarter] = 108
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*I"N|o 1.	*	*
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M2/4	*M2/4	*
+*MM108	*MM108	*
+*>[A,B,B1,B,B2,C,C1,C,C2,D]	*>[A,B,B1,B,B2,C,C1,C,C2,D]	*
+*>A	*>A	*
+!	!LO:TX:t=P:texts encoded with !!!OMD are not displayed:problem	!
+8r	(<8f#	.
+=1!|:	=1!|:	=1!|:
+*>B	*>B	*
+*ped	*	*
+!	!	!LO:DY:rj
+8dL 8F# 8D	16aLL)	mf
+!	!LO:TX:b:i:t=brillante.	!
+.	32ra	.
+.	(>32bbk	.
+*Xped	*	*
+8AJ	16aa)	.
+.	32rcc	.
+.	(>32gJJk	.
+*ped	*	*
+8eL 8G 8C#	16aLL)	.
+.	32ra	.
+.	(>32bbk	.
+8AJ	16aa)	.
+*Xped	*	*
+.	32ra	.
+.	(>32f#JJk	.
+=2	=2	=2
+*ped	*	*
+8dL 8F# 8D	16aLL)	.
+.	32ra	.
+.	(>32bbk	.
+8AJ	16aa)	.
+*Xped	*	*
+.	32ra	.
+.	(>32f#JJk	.
+*ped	*	*
+!LO:TX:t=P:mixed beam:problem	!	!
+8FF#/L	16aLL)	.
+.	32rcc	.
+.	(>32eeek	.
+8d\J 8A\ 8F#\	16ddd)	.
+*Xped	*	*
+.	32ree	.
+.	(>32ccc#JJk	.
+=3	=3	=3
+*ped	*	*
+!LO:TX:t=P:mixed beam:problem	!	!
+8GG/L	16bbLL)	.
+.	32ree	.
+.	(>32aa#Xk	.
+8d#X\J 8B\ 8G\	16bb)	.
+*Xped	*	*
+.	32rdd	.
+.	(>32dd#XJJk	.
+8e 8B 8G	16eeLL)	<
+.	32rdd	.
+.	(>32ff#k	.
+8r	16gg)	.
+.	32rdd	.
+.	(>32aa#JJk	.
+.	.	[
+!!LO:LB:g=original
+=4	=4	=4
+8eL 8B 8G	16bbLL)	>
+.	32rdd	.
+.	32eek	.
+8eJ 8d 8B 8G#X	16ee	.
+.	32rdd	.
+.	(>32ff#JJk	]
+8e 8c# 8A	16eeLL)	<
+.	32rdd	.
+.	(>32ff#k	.
+8r	16gg)	.
+.	32rdd	.
+.	(>32gg#XJJk	[
+*ped	*	*
+=5	=5	=5
+*	*8va	*
+8dL< 8D	16aaLL)	.
+.	32r	.
+.	(>32bbbk	.
+*clefG2	*	*
+*Xped	*	*
+8aJ 8A	16aaa)	.
+.	32r	.
+.	(>32ggJJk	.
+*ped	*	*
+8aL 8g 8c#	16aaLL)	.
+.	32r	.
+.	(>32bbbk	.
+8aJ 8A	16aaa)	.
+*Xped	*	*
+.	32r	.
+.	(>32ff#JJk	.
+=6	=6	=6
+*ped	*	*
+8aL 8f# 8d	16aaLL)	.
+.	32r	.
+.	(>32bbbk	.
+8aJ 8A	16aaa)	.
+.	32r	.
+.	(>32ff#JJk	.
+8a 8f# 8d	16aaLL)	f>
+.	32rbb	.
+.	(>32eeeek	.
+8r	16dddd)	.
+*Xped	*	*
+.	32rbb	.
+.	(>32cccc#JJk	]
+*clefF4	*	*
+=7	=7	=7
+*ped	*	*
+!LO:TX:t=P:mixed beam:problem	!	!
+8GG/L	16bbbLL)	>
+.	32reee	.
+.	(>32aaak	.
+8d#X\J [>\8B [>\8G	16ggg)	.
+*Xped	*	*
+.	32rfff	.
+.	(>32fff#JJk	.
+8e 8B] 8G]	16eeeLL)	.
+.	32rddd	.
+.	(>32dddk	.
+8r	16ccc#)	.
+.	32raa	.
+.	(>32bbJJk	]
+*	*X8va	*
+!!LO:LB:g=original
+=8	=8	=8
+!!LO:TX:a:t=1|o
+*>B1	*>B1	*
+*ped	*	*
+8AAL	16aaLL)	>
+.	32ree	.
+.	(>32ggk	.
+8g 8c# 8A	16ff#)	.
+*Xped	*	*
+.	32rcc	.
+.	(>32eeJJk	]
+8f#J 8d	16ddLL)	.
+.	32ree	.
+.	(>32bb	.
+8r	16aa)	.
+.	32rcc	.
+.	32f#JJk	.
+=9:|!	=9:|!	=9:|!
+!!LO:TX:a:t=2|o
+*>B2	*>B2	*
+*ped	*	*
+8AAL	16aaLL	>
+.	32ree	.
+.	(>32ggk	.
+8g 8c# 8A	16ff#)	.
+*Xped	*	*
+.	32rcc	.
+.	(>32eeJJk	]
+8f#J 8d	8ddL)	.
+8r	8ff#J	.
+=10!|:	=10!|:	=10!|:
+*>C	*>C	*
+*ped	*	*
+8C#L	8.aa^<L	.
+*Xped	*	*
+8gJ 8e 8A	.	.
+.	16ggJk	.
+*ped	*	*
+8DL	16ff#t>LL	.
+.	32rcc	.
+.	32ee#Xk	.
+8f#J 8d 8A	16ff#	.
+*Xped	*	*
+.	32rcc	.
+.	(>32ddJJk	.
+=11	=11	=11
+*ped	*	*
+8AA#XL	8.ff#^<L)	.
+8eJ 8c# 8F#	.	.
+*Xped	*	*
+.	16eeJk	.
+*ped	*	*
+8BBL	16ddT>LL	.
+.	32rb	.
+.	(>32cc#k	.
+8dJ 8B 8F#	16dd)	.
+*Xped	*	*
+.	32rb	.
+.	(>32bJJk	.
+=12	=12	=12
+*ped	*	*
+8GG#XL	8ddL)	.
+8fnJ 8d 8B	16cc#t>L	.
+*Xped	*	*
+.	16bJJ	.
+*ped	*	*
+8AAL	16.aLL	<
+.	32bk	.
+8f#XJ 8d 8A	16.cc#	.
+*Xped	*	*
+.	(>32ddJJk	.
+.	.	[
+!!LO:LB:g=original
+=13	=13	=13
+*ped	*	*
+8AAL	16.eeLL)	.
+.	(>32bbk	.
+*Xped	*	*
+8gJ 8c# 8A	16.aa)	.
+.	32ee#XJJk	.
+*ped	*	*
+8DL	16.ff#LL	.
+.	32bbk	.
+8f#J 8d 8A	16.aa	.
+*Xped	*	*
+.	.	.
+.	32gg#XJJk	.
+=14	=14	=14
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+!	!LO:TUP:a	!
+*ped	*	*
+8C#L	(>24aaLL	.
+.	24bb	.
+.	24aa	.
+8gJ 8e 8A	24gg#X	.
+*Xped	*	*
+.	.	.
+.	24aa	.
+.	24ggnJJ)	.
+*ped	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+!	!LO:TUP:a	!
+8DL	(>24ff#LL	.
+.	24gg	.
+.	24ff#	.
+8f#J 8d 8A	24ee#X	.
+*Xped	*	*
+.	.	.
+.	24ff#	.
+.	24ddJJ)	.
+=15	=15	=15
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+!	!LO:TUP:a	!
+*ped	*	*
+8AA#XL	(>24ff#LL	.
+.	24gg	.
+.	24ff#	.
+*Xped	*	*
+8eJ 8c# 8F#	24ee#X	.
+.	24ff#	.
+.	24eenJJ)	.
+*ped	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+!	!LO:TUP:a	!
+8BBL	(>24ddLL	.
+.	24ee	.
+.	24dd	.
+8dJ 8B 8F#	24cc#	.
+*Xped	*	*
+.	.	.
+.	24dd	.
+.	24bJJ)	.
+=16	=16	=16
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+!	!LO:TUP:a	!
+*ped	*	*
+8GG#XL	(>24ddLL	.
+.	24ee	.
+.	24dd	.
+*Xped	*	*
+8fnJ 8d 8B	24cc#	.
+.	24dd	.
+.	24bJJ)	.
+*ped	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+!	!LO:TUP:a	!
+8AAL	(>24aLL	.
+.	24b	.
+.	24cc#	.
+8f#XJ 8d 8A	24dd	.
+*Xped	*	*
+.	24ee	.
+.	24ffnJJ)	.
+=17	=17	=17
+!!LO:TX:a:t=1|o
+*>C1	*>C1	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+!	!LO:TUP:a	!
+*ped	*	*
+8AAL	(>24ff#XLL	.
+.	24gg	.
+.	24gg#X	.
+8gJ 8e 8A	24aa	.
+*Xped	*	*
+.	24bb	.
+.	24ccc#JJ)	.
+8DL	8ddd	.
+8f#J 8d 8A	8r	.
+!!LO:LB:g=original
+=18:|!	=18:|!	=18:|!
+!!LO:TX:a:t=2|o
+*>C2	*>C2	*
+*ped	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+!	!LO:TUP:a	!
+8AAL	(>24ff#LL	.
+.	24gg	.
+.	24gg#X	.
+8gJ 8e 8A	24aa	.
+*Xped	*	*
+.	24bb	.
+.	24ccc#JJ)	.
+8f# 8d	16dddLL	.
+.	32ree	.
+.	(>32bbk	.
+8r	16aa)	.
+.	32rdd	.
+.	32f#JJk	.
+=19||	=19||	=19||
+*>D	*>D	*
+*ped	*	*
+8dL 8F# 8D	16aLL	.
+.	32r	.
+.	(>32bbk	.
+8AJ	16aa)	.
+*Xped	*	*
+.	.	.
+.	32r	.
+.	(>32gJJk	.
+*ped	*	*
+8eL 8G 8C#	16aLL)	.
+.	32r	.
+.	(>32bbk	.
+8AJ	16aa)	.
+.	32r	.
+*Xped	*	*
+.	.	.
+.	(>32f#JJk	.
+=20	=20	=20
+*ped	*	*
+8dL 8F# 8D	16aLL)	.
+.	32r	.
+.	(>32bbk	.
+*Xped	*	*
+8AJ	16aa)	.
+.	32r	.
+.	(>32f#JJk	.
+*ped	*	*
+8FF#L	16aLL)	.
+.	32rb	.
+.	(>32eeek	.
+8dJ 8A 8F#	16ddd)	.
+*Xped	*	*
+.	32rcc	.
+.	(>32ccc#JJk	.
+=21	=21	=21
+*ped	*	*
+8GGL	16bbLL)	.
+.	32rcc	.
+.	(>32aa#Xk	.
+8d#XJ 8B 8G	16bb)	.
+*Xped	*	*
+.	32rcc	.
+.	(>32dd#XJJk	.
+8e 8B 8G	16eeLL)	.
+.	32rcc	.
+.	(>32ff#k	.
+8r	16gg)	.
+.	32rcc	.
+.	(>32aa#JJk	.
+!!LO:PB:g=original
+=22	=22	=22
+8eL 8B 8G	16bbLL)	>
+.	32rdd	.
+.	32eek	.
+8eJ 8d 8B 8G#X	16ee	.
+.	32rdd	.
+.	(>32ff#JJk	]
+8e 8c# 8A	16eeLL)	<
+.	32ree	.
+.	(>32ff#k	.
+8r	16gg)	.
+.	32rdd	.
+.	(>32gg#XJJk	[
+*ped	*	*
+=23	=23	=23
+*	*8va	*
+8dL< 8D	16aaLL)	.
+.	32r	.
+.	(>32bbbk	.
+*clefG2	*	*
+8aJ 8A	16aaa)	.
+*Xped	*	*
+.	.	.
+.	32rccc	.
+.	(>32ggJJk	.
+*ped	*	*
+8aL 8g 8c#	16aaLL)	.
+.	32r	.
+.	(>32bbbk	.
+8aJ 8A	16aaa)	.
+*Xped	*	*
+.	32r	.
+.	(>32ff#JJk	.
+=24	=24	=24
+*ped	*	*
+8aL 8f# 8d	16aaLL)	.
+.	32r	.
+.	(>32bbbk	.
+8aJ 8A	16aaa)	.
+.	32r	.
+.	(>32ff#JJk	.
+8a 8f# 8d	16aaLL)	f
+.	32rbb	>
+.	(>32eeeek	.
+8r	16dddd)	.
+*Xped	*	*
+.	32reee	.
+.	(>32cccc#JJk	]
+*clefF4	*	*
+=25	=25	=25
+*ped	*	*
+8GGL	16bbbLL)	>
+.	32rfff	.
+.	(>32aaak	.
+8d#XJ [>8B [>8G	16ggg)	.
+*Xped	*	*
+.	32rfff	.
+.	(>32fff#JJk	.
+8e 8B] 8G]	16eeeLL)	.
+.	32rddd	.
+.	(>32dddk	.
+8r	16ccc#)	.
+.	32rccc	.
+.	(>32bbJJk	]
+*	*X8va	*
+=26	=26	=26
+*ped	*	*
+8AAL	16aaLL)	.
+.	32rff	.
+.	(>32ggk	.
+8g 8c# 8AJ	16ff#)	.
+*Xped	*	*
+.	32rcc	.
+.	32eeJJk	.
+8f# 8d	8dd	.
+8r	8r	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!ENC: Mateusz Mrugas
+!!!END: 2020-06-30
+!!!EED: Jędrzej Mróz
+!!!EST: 2020-07-01

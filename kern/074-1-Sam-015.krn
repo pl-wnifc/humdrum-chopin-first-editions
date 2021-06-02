@@ -1,0 +1,451 @@
+!!!!SEGMENT: 074-1-Sam-015.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: No. 15. Die Heimkehr
+!!!OPS: Op. 74
+!!!PTL: 16 | Polnische Lieder | von Witwicki, Zaleski Mickiewicz etc. | für eine Singstimme | mit Begleitung des Pianoforte
+!!!PPR: Schlesinger
+!!!PPP: Berlin
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: PL-Wbfc 6138/n
+!!!OMD: Prestissimo.
+!!!system-decoration: (s1){(s2,s3)}
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*part1	*part1
+*	*I"PIANO.	*	*I"SINGSTIMME.	*	*
+*staff3	*staff2	*	*staff1	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*	*
+*c:	*c:	*	*c:	*	*
+*M2/4	*M2/4	*	*M2/4	*	*
+=1	=1	=1	=1	=1	=1
+!	!	!LO:DY:rj	!	!	!
+16DDLL	16D<LL	p	2r	.	.
+16CC#X	16C#X<	.	.	.	.
+16DD	16D<	.	.	.	.
+16EE-JJ	16E-<JJ	.	.	.	.
+16EELL	16E<LL	<	.	.	.
+16FF	16F<	.	.	.	.
+16FF#X	16F#X<	.	.	.	.
+16GGJJ	16G<JJ	[	.	.	.
+=2	=2	=2	=2	=2	=2
+16AA-LL	16A-<LL	>	2r	.	.
+16GG	16G<	.	.	.	.
+16FF#X	16F#X<	.	.	.	.
+16FFJJ	16F<JJ	]	.	.	.
+16EELL	16E<LL	.	.	.	.
+16EE-X	16E-X<	.	.	.	.
+16DD	16D<	.	.	.	.
+16DD-XJJ	16D-X<JJ	.	.	.	.
+=3	=3	=3	=3	=3	=3
+!	!LO:TX:b:Bi:t=cresc_:problem:dynamics with line extentions	!	!	!	!
+!	!	!LO:HP:b:Bi:t=cresc:ext=ud	!	!	!
+16DDnLL	16Dn<LL	<	2r	.	.
+16EE-	16E-<	.	.	.	.
+16EE	16E<	.	.	.	.
+16FFJJ	16F<JJ	.	.	.	.
+16FF#XLL	16F#X<LL	.	.	.	.
+16GG	16G<	.	.	.	.
+16AA-	16A-<	.	.	.	.
+16AAJJ	16A<JJ	.	.	.	.
+=4	=4	=4	=4	=4	=4
+16BB-LL	16B-<LL	.	2r	.	.
+16BB	16B<	.	.	.	.
+16C	16c<	.	.	.	.
+16C#XJJ	16c#X<JJ	[	.	.	.
+16DLL	16dLL	.	.	.	.
+16E-	16e-	.	.	.	.
+16E	16e	.	.	.	.
+16FJJ	16fJJ	.	.	.	.
+!!LO:LB:g=original
+=5	=5	=5	=5	=5	=5
+!	!	!	!LO:TX:a:t=P:w źródle w tym systemie brak górnej pięciolinii partii wokalnej:problem	!	!
+!	!	!LO:DY:rj	!	!	!
+16G-X^>LL	16g-X^>LL	f	2r	.	.
+16F	16f	.	.	.	.
+16E	16e	.	.	.	.
+16E-XJJ	16e-XJJ	.	.	.	.
+16E^>LL	16e^>LL	.	.	.	.
+16E-X	16e-X	.	.	.	.
+16D	16d	.	.	.	.
+16D-XJJ	16d-XJJ	.	.	.	.
+=6	=6	=6	=6	=6	=6
+16Dn^<LL	16dn^>LL	.	2r	.	.
+16D-X	16d-X	.	.	.	.
+16C	16c	.	.	.	.
+16BBJJ	16BJJ	.	.	.	.
+16C^<LL	16c^>LL	.	.	.	.
+16BB	16B	.	.	.	.
+16BB-X	16B-X	.	.	.	.
+16AAJJ	16AJJ	.	.	.	.
+=7	=7	=7	=7	=7	=7
+16BB-^<LL	16B-<^>LL	.	2r	.	.
+16AA	16A<	.	.	.	.
+16AA-X	16A-X<	.	.	.	.
+16GGJJ	16G<JJ	.	.	.	.
+16AA^<LL	16A<^>LL	.	.	.	.
+16AA-X	16A-X<	.	.	.	.
+16GG	16G<	.	.	.	.
+16FF#XJJ	16F#X<JJ	.	.	.	.
+=8	=8	=8	=8	=8	=8
+16AA-^<LL	16A-<^>LL	.	2r	.	.
+16GG	16G<	.	.	.	.
+16FF#X	16F#X<	.	.	.	.
+16FFJJ	16F<JJ	.	.	.	.
+16GG^<LL	16G<^>LL	.	.	.	.
+16FF	16F<	.	.	.	.
+16EE-	16E-<	.	.	.	.
+16DDJJ	16D<JJ	.	.	.	.
+!LO:TX:b:t=[segno]	!LO:TX:a:t=[segno]	!	!	!	!
+!!LO:LB:g=original
+=9||	=9||	=9||	=9||	=9||	=9||
+*	*	*	*	*^	*
+*	*	*	*	*	*^	*
+*	*	*	*	*	*	*^	*
+!!!OMD: Agitato vivo. M. M. [quarter] = 108.
+*MM108	*MM108	*	*MM108	*	*	*	*	*
+*	*	*	*	*	*	*	*	*above
+8CCL	8e-L	.	8e-	1. Wild	2. Jun-	3. Hörst	4. Hast	.
+!	!	!LO:DY:b=2:rj	!	!	!	!	!	!
+16CCJk	8a-J 8A-^<	sf	8e-	da-	-ger	du	dein	.
+16r	.	.	.	.	.	.	.	.
+8r	8e-L	.	8d	-her	Mann	ü-	Weib	.
+8C	8a-J 8A-	.	8c	der	mit	-ber	so	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+!	!	!	!	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "Sturm-wind":problem	!	!	!	!
+8CL	8fL 8d	.	8d	Sturm-	stie-	dir	jung	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+16CJk	8a-J 8A-^<	sf	8d	-wind	-rem	die	und	.
+16r	.	.	.	.	.	.	.	.
+!	!	!	!	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "brau-set":problem	!	!	!	!
+8r	8fL 8d	.	8d	brau-	Au-	Ra-	blü-	.
+8C	8a-J 8A-	.	8d	-set,	-ge,	-ben,	-hend	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+8CCL	8e-L	.	8e-	dass	jun-	hörst	kur-	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+16CCJk	8a-J 8A-^<	sf	8e-	die	-ger	die	-ze	.
+16r	.	.	.	.	.	.	.	.
+8r	8e-L	.	8d	Bäu-	Mann	Un-	Zeit	.
+!	!	!	!	!	!	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "-glücks-bo-":problem	!	!
+8C	8a-J 8A-	.	8c	-me	zu	-glücks-	ver-	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+8CL	8fL 8d	.	4d	äch-	Pfer-	-bo-	-las-	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+16CJk	8a-J 8A-^<	sf	.	.	.	.	.	.
+16r	.	.	.	.	.	.	.	.
+8r	8fL 8d	.	4d	-zen;	-de;	-ten?	sen,	.
+8CC	8a-J 8A-	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+!	!	!LO:DY:rj	!	!	!	!	!	!
+8BB 8BBB	8g 8f 8d 8G<	ffz	8g	Fin-	kommst	kommst	jung	.
+8r	8r	.	8g	-ster-	zu	zu	und	.
+!	!	!	!	!	!	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "Jam-mer":problem	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "blü-hend":problem	!
+4BB-X\	8r	.	8cc	-niss	spät	Jam-	blü-	.
+.	8cc 8g 8e 8c	.	8cc	im	zu	-mer	-hend	.
+!!LO:PB:g=original
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+!	!LO:TX:b:Bi:t=rall.	!	!	!	!	!	!	!
+4AA	8r	.	8cc	1. dich-	2. dei-	3. und	4. schön	.
+.	8cc 8f 8c	.	8cc	-ten	-nem	Ver-	und	.
+!	!	!	!	!	!	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "-zwei-flung":problem	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "glü-hend":problem	!
+4AA-X	8r	.	8c	Wal-	Zie-	-zwei-	glü-	.
+.	8f#X 8e- 8c	.	8d	-de,	-le,	-flung,	-hend	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+!	!	!	!	!	!	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "muss-te":problem	!	!
+[<4GG	8r	.	8e-	und	zu	rei-	muss-	.
+.	8g 8e- 8c	.	8e-	die	dem	-test	-te	.
+!	!	!	!	!	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "heim'-schen":problem	!	!	!
+4G 4GG]	8r	<	8d	Ra-	heim’-	zu	sie	<
+.	8f 8d 8B	.	8g	-ben	-schen	den	er-	[
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+4A-	8r	.	4f	kräch-	Heer-	Tod-	-blas-	>
+.	8f 8c	<	.	.	.	.	.	.
+4AA-	8r	.	8e-	-zen,	-de,	-ten,	-sen,	]
+.	8e- 8c	[	8r	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+!	!	!LO:DY:rj	!	!	!	!	!	!
+8BB	8g 8f 8d 8G<	sf	8g	Fin-	kommst	kommst	jung	.
+8r	8r	.	8g	-ster-	zu	zu	und	.
+!	!	!	!	!	!	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "Jam-mer":problem	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "blü-hend":problem	!
+4BB-X\	8r	.	8g	-niss	spät	Jam-	blü-	.
+.	8g 8e 8c	.	8g	im	zu	-mer	-hend,	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+4AA	8r	<	8cc	dich-	dei-	und	schön	.
+.	8cc 8f 8c	.	8cc	-ten	-nem	Ver-	und	.
+!	!	!	!	!	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "Zie-le":problem	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "-zwei-flung":problem	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "glü-hend":problem	!
+4AA-X;>	8r	[	8cc	Wal-	Zie-	-zwei-	glü-	.
+!	!LO:TX:b:t=P:w źródle fermata przed 8ee- 8cc 8f#X 8e-:problem	!	!LO:TX:b:t=P:w źródle fermata przed 8f#X :problem	!	!	!	!	!
+!	!	!LO:DY:rj	!	!	!	!	!	!
+.	8ee- 8cc 8f#X 8e-;>	ff	8f#X;>	-de,	-le,	-flung,	-hend	.
+!!LO:LB:g=original
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+!	!	!	!	!	!	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "muss-te":problem	!	!
+[>2GG	8ee-L 8cc 8g 8e-	pp	8g	1. und	2. zu	3. rei-	4. muss-	.
+.	8g 8e-	.	8g	die	dem	-test	-te	.
+!	!	!	!	!	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "heim'-schen":problem	!	!	!
+.	8fn 8d	.	8fn	Ra-	heim-	zu	sie	.
+.	8e-J 8c	.	8e-	-ben	-schen	den	er-	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+*^	*	*	*	*	*	*	*	*
+*	*	*^	*	*	*	*	*	*	*
+!	!	!LO:TX:a:Bi:t=rallent.	!	!	!	!	!	!	!	!
+4rC	2GG] 2GGG	2d	8B<L 8G<	.	[<2d	kräch-	Heer-	Tod-	-blas-	.
+.	.	.	8D<	.	.	.	.	.	.	.
+4DD\	.	.	8A< 8F#X<	.	.	.	.	.	.	.
+.	.	.	8D<J	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*	*	*	*
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+4GG\	2d	8B<L 8G<	.	2d]	.	.	.	.	.
+.	.	8D<	.	.	.	.	.	.	.
+4DD\	.	8A< 8F#X<	.	.	.	.	.	.	.
+!	!LO:TX:a:B:t=tempo il prestiss.	!	!	!	!	!	!	!	!
+.	.	[>8D<J	.	.	.	.	.	.	.
+*	*v	*v	*	*	*	*	*	*	*
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+16GGLL	[>2d [>2Bn< [>2G< 2D<_>	.	4d	-zen.	-de.	-ten.	-sen.	.
+16FF#X	.	.	.	.	.	.	.	.
+16GG	.	.	.	.	.	.	.	.
+16FF#JJ	.	.	.	.	.	.	.	.
+16GGLL	.	.	4r	.	.	.	.	.
+16FF#	.	.	.	.	.	.	.	.
+16GG	.	.	.	.	.	.	.	.
+16FF#JJ	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*
+*	*	*	*	*	*v	*v	*
+*	*	*	*	*v	*v	*
+=23	=23	=23	=23	=23	=23
+16GGLL	2d] 2BnX<] 2G<] 2D<]	.	2r	.	.
+16FF#X	.	.	.	.	.
+16GG	.	.	.	.	.
+16FF#JJ	.	.	.	.	.
+16GGLL	.	.	.	.	.
+16FF	.	.	.	.	.
+16EE	.	.	.	.	.
+16EE-XJJ	.	.	.	.	.
+!!LO:LB:g=original
+=24	=24	=24	=24	=24	=24
+!	!	!	!LO:TX:a:t=P:w źródle w tym systemie brak górnej pięciolinii partii wokalnej:problem	!	!
+16DDLL	16D<LL	.	2r	.	.
+16CC#X	16C#X<	.	.	.	.
+16DD	16D<	.	.	.	.
+16EE-JJ	16E-<JJ	.	.	.	.
+16EELL	16E<LL	<	.	.	.
+16FF	16F<	.	.	.	.
+16FF#X	16F#X<	.	.	.	.
+16GGJJ	16G<JJ	[	.	.	.
+=25	=25	=25	=25	=25	=25
+16AA-LL	16A-<LL	>	2r	.	.
+16GG	16G<	.	.	.	.
+16FF#X	16F#X<	.	.	.	.
+16FFJJ	16F<JJ	.	.	.	.
+16EELL	16E<LL	.	.	.	.
+16EE-X	16E-X<	.	.	.	.
+16DD	16D<	.	.	.	.
+16DD-XJJ	16D-X<JJ	]	.	.	.
+=26	=26	=26	=26	=26	=26
+16DDnLL	16Dn<LL	.	2r	.	.
+16EE-	16E-<	.	.	.	.
+16EE	16E<	.	.	.	.
+16FFJJ	16F<JJ	.	.	.	.
+!	!LO:TX:b:Bi:t=cresc_:problem:dynamics with line extentions	!	!	!	!
+!	!	!LO:HP:b:Bi:t=cresc:ext=ud	!	!	!
+16FF#XLL	16F#X<LL	<	.	.	.
+16GG	16G<	.	.	.	.
+16AA-	16A-<	.	.	.	.
+16AAJJ	16A<JJ	.	.	.	.
+=27	=27	=27	=27	=27	=27
+16BB-LL	16B-<LL	.	2r	.	.
+16BB	16B<	.	.	.	.
+16C	16c<	.	.	.	.
+16C#XJJ	16c#X<JJ	.	.	.	.
+16DLL	16dLL	.	.	.	.
+16E-	16e-	[	.	.	.
+16E	16e	ff	.	.	.
+16FJJ	16fJJ	.	.	.	.
+!!LO:PB:g=original
+=28	=28	=28	=28	=28	=28
+!	!	!	!LO:TX:a:t=P:w źródle w tym systemie brak górnej pięciolinii partii wokalnej:problem	!	!
+16G-XLL^>	16g-X^>LL	>	2r	.	.
+16F	16f	.	.	.	.
+16E	16e	.	.	.	.
+16E-XJJ	16e-XJJ	.	.	.	.
+16ELL^>	16e^>LL	.	.	.	.
+16E-X	16e-X	.	.	.	.
+16D	16d	.	.	.	.
+16D-XJJ	16d-XJJ	.	.	.	.
+=29	=29	=29	=29	=29	=29
+16Dn^<LL	16dn^>LL	.	2r	.	.
+16D-X	16d-X	.	.	.	.
+16C	16c	]	.	.	.
+16BBJJ	16BJJ	.	.	.	.
+16C^<LL	16c^>LL	.	.	.	.
+16BB	16B	.	.	.	.
+16BB-X	16B-X	.	.	.	.
+16AAJJ	16AJJ	.	.	.	.
+=30	=30	=30	=30	=30	=30
+16BB-^<LL	16B-<^>LL	.	2r	.	.
+16AA	16A<	.	.	.	.
+16AA-X	16A-X<	.	.	.	.
+16GGJJ	16G<JJ	.	.	.	.
+16AA^<LL	16A<^>LL	.	.	.	.
+16AA-X	16A-X<	.	.	.	.
+16GG	16G<	.	.	.	.
+16FF#XJJ	16F#X<JJ	.	.	.	.
+=31	=31	=31	=31	=31	=31
+16AA-^<LL	16A-<^>LL	.	2r	.	.
+16GG	16G<	.	.	.	.
+16FF#X	16F#X<	.	.	.	.
+16FFJJ	16F<JJ	.	.	.	.
+!	!LO:TX:a:Bi:t=Dal Segno.	!	!	!	!
+16GG^<LL	16G<^>LL	.	.	.	.
+16FF	16F<	.	.	.	.
+16EE-	16E-<	.	.	.	.
+16DDJJ	16D<JJ	.	.	.	.
+!LO:TX:b:t=[segno]	!LO:TX:a:t=[segno]	!	!	!	!
+!!LO:LB:g=original
+==32|!	==32|!	==32|!	==32|!	==32|!	==32|!
+!!!OMD: Agitato vivo.
+8CCL	8e-L	.	8e-	5 Magst	.
+16CCJk	8a-J 8A-^<	.	8e-	die	.
+16r	.	.	.	.	.
+8r	8e-L	.	8d	Tod-	.
+8C	8a-J 8A-	.	8c	-te	.
+=33	=33	=33	=33	=33	=33
+8CL	8fL 8d	.	8d	nur	.
+!	!	!LO:DY:b=2	!	!	!
+16CJk	8a-J 8A-^<	sf	8d	mit	.
+16r	.	.	.	.	.
+8r	8fL 8d	.	8d	Küs-	.
+8CC	8a-J 8A-	.	8d	-sen	.
+=34	=34	=34	=34	=34	=34
+8CCL	8e-L	.	8e-	im-	.
+!	!	!LO:DY:b=2	!	!	!
+16CCJk	8a-J 8A-^<	sf	8e-	-mer-	.
+16r	.	.	.	.	.
+8r	8e-L	.	8d	-hin	.
+8C	8a-J 8A-	.	8c	be-	.
+=35	=35	=35	=35	=35	=35
+8CL	8fL 8d	.	4d	-dek-	.
+16CJk	8a-J 8A-	.	.	.	.
+16r	.	.	.	.	.
+8r	8fL 8d	.	4d	-ken,	.
+8CC	8a-J 8A-	.	.	.	.
+=36	=36	=36	=36	=36	=36
+!	!LO:TX:b:t=P:w źródle zamiast 'sf' jest "sff":problem	!	!	!	!
+!	!	!LO:DY:rj	!	!	!
+8BB 8BBB	8g 8f 8d 8G<	sf	8g	wirst	.
+8r	8r	.	8g	sie	.
+4BB-X\	8r	.	8cc	doch	.
+.	8cc 8g 8e 8c	.	8cc	zu	.
+!!LO:LB:g=original
+=37	=37	=37	=37	=37	=37
+!	!LO:TX:b:Bi:t=rall.	!	!	!	!
+4AA	8r	.	8cc	neu-	.
+.	8cc 8f 8c	.	8cc	-em	.
+4AA-X	8r	.	8c	Le-	.
+.	8f#X 8e- 8c	.	8d	-ben	.
+=38	=38	=38	=38	=38	=38
+!	!	!	!	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "nim-mer-":problem	!
+[<4GG	8r	.	8e-	nim-	.
+.	8g 8e- 8c	<	8e-	-mer-	<
+4G 4GG]	8r	.	8d	-mehr	.
+.	8f 8d 8B	.	8g	er-	.
+.	.	.	.	.	[
+=39	=39	=39	=39	=39	=39
+4A-	8r	.	4f	-wek-	>
+.	8f 8c	<	.	.	.
+4AA-	8r	.	8e-	-ken,	]
+.	8e- 8c	.	8r	.	.
+.	.	[	.	.	.
+=40	=40	=40	=40	=40	=40
+!	!	!LO:DY:rj	!	!	!
+8BB	8g 8f 8d 8G<	sf	8g	wirst	.
+8r	8r	.	8g	sie	.
+4BB-X\	8r	.	8g	doch	.
+.	8g 8e 8c	.	8g	zu	.
+=41	=41	=41	=41	=41	=41
+4AA	8r	<	8cc	neu-	.
+.	8cc 8f 8c	.	8cc	-em	.
+4AA-X;>	8r	[	8cc	Le-	.
+!	!LO:TX:b:t=P:w źródle fermata przed 8ee- 8cc 8f#X 8e-:problem	!	!LO:TX:b:t=P:w źródle fermata przed 8f#X :problem	!	!
+!	!	!LO:DY:rj	!	!	!
+.	8ee- 8cc 8f#X 8e-;>	ff	8f#X;>	-ben	.
+!!LO:LB:g=original
+=42	=42	=42	=42	=42	=42
+!	!	!	!	!LO:TX:a:t=P:w źródle brak myślika rodzielającego sylaby "nim-mer-":problem	!
+(<2GG	8ee-L 8cc 8g 8e-	pp	8g	nim-	.
+.	8g 8e-	.	8g	-mer-	.
+.	8f 8d	.	8fn	-mehr	.
+.	8e-J 8c	.	8e-	er-	.
+=43	=43	=43	=43	=43	=43
+*	*^	*	*	*	*
+!	!	!	!	!LO:TX:a:Bi:t=rall.	!	!
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!	!	!
+4FF)\	4d/	8cL\	.	4a-	-wek-	.
+.	.	8A-<J/	.	.	.	.
+4GG\	4f	8Bn<L 8F<	.	4B	.	.
+.	.	8G<J	.	.	.	.
+*	*v	*v	*	*	*	*
+=44	=44	=44	=44	=44	=44
+*^	*	*	*	*	*
+*	*	*^	*	*	*	*
+(<16GGLL	2CC	4c< 4E-<	4ryy	.	4c	-ken.	.
+16FF#X	.	.	.	.	.	.	.
+16GG	.	.	.	.	.	.	.
+!LO:TX:a:Bi:t=rallentando sempre piu.:dur=4q:ext=s:problem:text with extention line	!	!	!	!	!	!	!
+16FF#JJ	.	.	.	.	.	.	.
+*	*	*clefF4	*	*	*	*	*
+16FFLL	.	4B 4D\	8A-L	.	4r	.	.
+16EE-	.	.	.	.	.	.	.
+16DD	.	.	8FJ	.	.	.	.
+16DD-XJJ)	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*below
+=45	=45	=45	=45	=45	=45	=45	=45
+!LO:N:vis=2	!	!	!	!	!	!	!
+(<16CCLL	2CC	4c 4E-	4ryy	.	2r	.	.
+16DD-X	.	.	.	.	.	.	.
+16DD	.	.	.	.	.	.	.
+16EE-JJ	.	.	.	.	.	.	.
+16EELL	.	4B 4D\	8A-L	>	.	.	.
+16FF	.	.	.	.	.	.	.
+16GG	.	.	8FJ	]	.	.	.
+!	!	!	!	!LO:HP:Bi:t=dim.	!	!	!
+16AA-JJ)	.	.	.	>	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+(<16GGLL	2CC	4c 4E	4ryy	.	2r	.	.
+16FF#X	.	.	.	.	.	.	.
+16GG	.	.	.	.	.	.	.
+16FF#JJ	.	.	.	.	.	.	.
+16FFLL	.	4B 4D\	8A-L	>	.	.	.
+16EE-	.	.	.	.	.	.	.
+16DD	.	.	8FJ	] pp	.	.	.
+16DD-XJJ)	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+!LO:N:vis=2	!	!	!	!	!	!	!
+(<16CCLL	2CC	4c 4E	4ryy	.	2r	.	.
+16DD-X	.	.	.	.	.	.	.
+16DD	.	.	.	.	.	.	.
+16EE-JJ	.	.	.	.	.	.	.
+16EELL	.	4B 4D\	8A-L	>	.	.	.
+16FF	.	.	.	.	.	.	.
+16GG	.	.	8FJ	]	.	.	.
+16AA-JJ)	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*
+*	*v	*v	*	*	*	*
+=48	=48	=48	=48	=48	=48
+2GG 2CC	2c 2E\	.	2r	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: > = "dim", fontstyle="bold-italic"
+!!!RDF**dynam: < = "cresc.", fontstyle="bold-italic"
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2020-02-10
+!!!EED: Emilia Ziętek
+!!!EST: 2020-02-25
+!!!rism-genre: Die Heimkehr
+!!!rism-key: C minor
+!!!rism-opus: Op. 74, No. 15
+!!!rism-title: Die Heimkehr in C minor Op. 74 No. 15

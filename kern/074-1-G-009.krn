@@ -1,0 +1,351 @@
+!!!!SEGMENT: 074-1-G-009.krn
+!!!COM: Fryderyk Chopin
+!!!OTL: Melodya
+!!!OPS: op. 74
+!!!PTL: Zbiór śpiewów Polskich z towarzyszeniem fortepianu
+!!!PPR: Gebethner
+!!!PPP: Warsaw
+!!!NIFC-rismID: 300605195
+!!!NIFC-shelfmark: PL-Wbfc 963/n
+!!!OMD: Andante.
+!!!OMD: M. M. [quarter] = 92.
+!!!system-decoration: (s1){(s2,s3)}
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*	*part1
+*staff3	*staff2	*	*staff1	*	*
+*	*I"PIANO.	*	*I"No. 9. CANTO.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[f#]	*k[f#]	*	*k[f#]	*	*
+*G:	*G:	*	*G:	*	*
+*M4/4	*M4/4	*	*M4/4	*	*
+*met(c)	*met(c)	*	*met(c)	*	*
+=1	=1	=1	=1	=1	=1
+*	*^	*	*	*	*
+1D 1GG	(>8BL	4.B	.	1rdd	.	.
+!	!	!	!LO:DY:rj	!	!	!
+.	8d	.	p	.	.	.
+.	8g	.	.	.	.	.
+.	8f#J	8A	.	.	.	.
+.	8aL 8c	4rEyy	.	.	.	.
+.	8g 8B	.	.	.	.	.
+.	8cc 8e	4rFyy	.	.	.	.
+.	8bJ 8d	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+!	!	!LO:TX:b:t=P:note position:problem	!	!	!	!
+2D 2DD	2a 2A<)	2.f#X	.	1rdd	.	.
+2r	2rdd	.	.	.	.	.
+.	.	4fn	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+!LO:TX:b:t=P:note position:problem	!	!	!	!	!	!
+1C 1FFn	(>8A<L	4.A<\	.	1rdd	.	.
+.	8c	.	.	.	.	.
+.	8fn	.	.	.	.	.
+.	8eJ 8G<	8G<\	.	.	.	.
+.	8gL 8B-X	4rDyy	.	.	.	.
+.	8f 8A	.	.	.	.	.
+.	8b-X 8d	4rEyy	.	.	.	.
+.	8aJ 8c	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=4	=4	=4	=4	=4	=4
+1C 1CC	2.g 2.e 2.G<)	.	1rdd	.	.
+.	4f#X 4e 4A<	.	.	.	.
+=5	=5	=5	=5	=5	=5
+*ped	*	*	*	*	*
+!LO:TX:t=P:znak pedalizacji przed nutą:problem	!	!	!	!	!LO:HP:a
+4BB 4BBB	4f# 4d#X 4A<	.	2cc	Z gór	>
+4r	4r	.	.	.	.
+2r	2r	.	4b	gdzie	.
+*Xped	*	*	*	*	*
+.	.	.	4a#X	dzwi-	]
+!!LO:LB:g=original
+=6	=6	=6	=6	=6	=6
+1rF	1rdd	.	2.b	-ga-	.
+.	.	.	4f#	-li	.
+=7	=7	=7	=7	=7	=7
+!	!	!	!	!	!LO:HP:a
+1BB 1BBB	1g 1e 1B<	.	4g	strasz-	<
+.	.	.	4a	-nych	.
+.	.	.	4b	krzy-	.
+.	.	.	4cc#X	-żów	[
+=8	=8	=8	=8	=8	=8
+2BB 2BBB	2f# 2A<<	.	2.dd#Xt	brze-	.
+2r	2r	.	.	.	.
+!	!	!	!	!	!LO:HP:a
+.	.	.	8cc#XL	-mie,_	<
+.	.	.	8dd#J	.	[[
+=9	=9	=9	=9	=9	=9
+2C\ 2CC\	2e 2G<	.	2ee	Wi-	.
+2r	2r	.	4.ddn	-dzie-	.
+.	.	.	8cc	-li	.
+=10	=10	=10	=10	=10	=10
+2r	2r	.	(>4b	zda-	.
+.	.	.	4cc	.	.
+4r	4r	.	4g	.	.
+4F# 4C	4e	>	4a)	-la	.
+!!LO:LB:g=original
+=11	=11	=11	=11	=11	=11
+4B 4BB	4g#X 4e	.	(>4b/	o-	.
+4r	4r	.	4a#X	-bie-	.
+2r	2r	.	4an	ca-	.
+.	.	.	4g#X)	-ną	.
+=12	=12	=12	=12	=12	=12
+4BB	4d#X 4B< 4A<	.	[<2g#X	zie-	.
+4r	4r	.	.	.	.
+2r	2r	.	(<4g#]	.	.
+.	.	.	4f#)	.	.
+*	*clefF4	*	*	*	*
+=13	=13	=13	=13	=13	=13
+!	!LO:TX:a:t=P:stem-side tuplet number:problem	!	!	!	!
+2EE	(<6B 6G#X	p	4e	-mię.	.
+.	6B 6G#	.	.	.	.
+.	.	.	4r	.	.
+.	6B 6G#)	.	.	.	.
+4BB	(<6B 6G#\	.	2r	.	.
+.	6B 6G#	.	.	.	.
+4EE	.	.	.	.	.
+.	6B 6G#)	.	.	.	.
+=14	=14	=14	=14	=14	=14
+!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!	!
+2BB	(>6B 6G#X	.	1rdd	.	.
+.	6B 6G#	.	.	.	.
+.	6B 6G#)	.	.	.	.
+4EE	(>6B 6G#	.	.	.	.
+.	6B 6G#	.	.	.	.
+4BB	.	.	.	.	.
+.	6B 6G#)	.	.	.	.
+!!LO:PB:g=original
+=15	=15	=15	=15	=15	=15
+!	!LO:TX:a:t=P:stem-side tuplet number:problem	!	!	!	!
+2DD#X	(<6B 6G#X	.	2r	.	.
+.	6B 6G#	.	.	.	.
+.	6B 6G#)	.	.	.	.
+4BB	(<6B 6G#	.	4r	.	.
+.	6B 6G#	.	.	.	.
+4DD#	.	.	4g#X	Wi-	.
+.	6B 6G#)	.	.	.	.
+=16	=16	=16	=16	=16	=16
+2BB	(<6B 6G#X	.	2.g#X	-dzie-	.
+.	6B 6G#	.	.	.	.
+.	6B 6G#)	.	.	.	.
+4DDn	(<6B 6G#	.	.	.	.
+.	6B 6G#	.	.	.	.
+!	!	!	!LO:TX:a:t=cres_cen_do:problem:dynamics with line extensions	!	!
+!	!	!	!	!	!LO:HP:a:t=cres-cen-do:ext=ud
+4D	.	.	4a#X	-li	<
+.	6B 6G#)	.	.	.	.
+*	*clefG2	*	*	*	*
+=17	=17	=17	=17	=17	=17
+2E-X	(>6e-X 6c 6A-X	.	2.ccn	świa-	.
+.	6e- 6c 6A-	.	.	.	.
+.	6e- 6c 6A-)	.	.	.	.
+4E-	(>6e- 6c 6A-	.	.	.	.
+.	6e- 6c 6A-	.	.	.	.
+4EE-X	.	.	4dd-X	-tło	.
+.	6e- 6c 6A-)	.	.	.	[
+=18	=18	=18	=18	=18	=18
+2E-X	(>6e-X 6d-X 6G<	.	4ffn	nie-	.
+.	6e- 6d- 6G<	.	.	.	.
+!	!	!	!LO:TX:a:t=di_mi _ nuen_do:problem:dynamics with line extensions	!	!
+!	!	!	!	!	!LO:HP:a:t=di-mi-nuen-do.:ext=ud
+.	.	.	4ee-X	-bie-	>
+.	6e- 6d- 6G<)	.	.	.	.
+4EE-X	(>6e- 6d- 6G<	.	4dd-X	-skich	.
+.	6e- 6d- 6G<	.	.	.	.
+4E-	.	.	4b-X	-pro-	.
+.	6e- 6d- 6G<)	.	.	.	.
+!!LO:LB:g=original
+=19	=19	=19	=19	=19	=19
+2AA-X	(>6g 6d-X	.	>2.b-X	mie-	.
+.	6g 6d-	.	.	.	]
+.	6g 6d-)	.	.	.	.
+4E-X	(>6g 6d-	.	.	.	.
+.	6g 6d-	.	.	.	.
+4AA-	.	.	4cc	.	.
+.	6g 6d-)	.	.	.	.
+=20	=20	=20	=20	=20	=20
+2AA-X	(>6a-X 6c	.	4a-X	-ni,	.
+.	6a- 6c	.	.	.	.
+.	.	.	4g	ku	.
+.	6a- 6c)	.	.	.	.
+4E-X	(>6a- 6c	.	4a-	któ-	.
+.	6a- 6c	.	.	.	.
+4AA-	.	.	4g	-rym	.
+.	6a- 6c)	.	.	.	.
+=21	=21	=21	=21	=21	=21
+*	*Xtuplet	*	*	*	*
+2DD-X\	6fn 6d-X 6A-X<	.	2fn	w do-	.
+!	!	!	!	!	!LO:HP:a
+.	6f 6d- 6A-<	.	.	.	<
+.	6f 6d- 6A-<	.	.	.	.
+4AA-X\	6f 6d- 6A-<	.	4g	-le	.
+.	6f 6d- 6A-<	.	.	.	.
+4DD-\	.	.	4a-X	-cią-	.
+.	6f 6d- 6A-<	.	.	.	[
+=22	=22	=22	=22	=22	=22
+2AA-X\	6f-X 6d-X 6A-X<	.	2b-X/	-gnę-	.
+!	!	!LO:HP:a	!	!	!
+.	6f- 6d- 6A-<	<	.	.	.
+.	6f- 6d- 6A-<	.	.	.	.
+!	!	!	!	!	!LO:HP:a
+4DD-X	6f- 6d- 6A-<	.	4a-X	-ło	<
+.	6f- 6d- 6A-<	.	.	.	.
+4AA-	.	.	4b-/	ich	[[
+.	6f- 6d- 6A-<	.	.	.	.
+!!LO:LB:g=original
+=23	=23	=23	=23	=23	=23
+!	!	!LO:HP:a	!	!	!
+2CC\	6en 6c 6A-X<	>	2.cc^>	ple-	.
+.	6e 6c 6G<	.	.	.	.
+.	6e 6c 6G<	]	.	.	.
+4C\	6e 6c 6G<	.	.	.	.
+!	!LO:TX:a:t=dimin _ nu _ endo.:problem:dynamics with line extensions	!	!	!	!
+!	!	!LO:HP:a:t=dimin-nu-endo.:ext=ud	!	!	!
+.	6e 6c 6G<	>	.	.	.
+4CC\	.	.	8b-XL	.	.
+.	6e 6c 6G<	.	.	.	.
+.	.	.	8a-XJ	.	.
+=24	=24	=24	=24	=24	=24
+2C\	6e 6c 6G<	.	2g	mie.	.
+.	6e 6c 6G<	.	.	.	.
+.	6e 6c 6G<	.	.	.	.
+4CC\	6e 6c 6G<	.	2r	.	.
+.	6e 6c 6G<	.	.	.	.
+4C\	.	.	.	.	.
+.	6e 6c 6G<	]	.	.	.
+=25	=25	=25	=25	=25	=25
+!	!	!LO:DY:a:rj	!	!	!
+4BB 4BBB	4e 4B< 4G<	p	2g	A	.
+4r	4r	.	.	.	.
+2r	2r	.	4f#X	sa-	.
+.	.	.	4e	-mi	.
+=26	=26	=26	=26	=26	=26
+!	!	!	!	!	!LO:HP:a
+1rF	1rdd	.	2.b	do	>
+.	.	.	4a	tych	]
+=27	=27	=27	=27	=27	=27
+1rF	1rdd	.	(>4a	nie	.
+.	.	.	4g	wey-	.
+.	.	.	4f#	-dą	.
+.	.	.	4e)	prze-	.
+!!LO:PB:g=original
+=28	=28	=28	=28	=28	=28
+4AA 4AAA\	4e 4c 4F#<	.	2f#	-strze-	.
+4r	4r	.	.	.	.
+2r	2r	.	4g	-ni!	.
+.	.	.	4r	.	.
+=29	=29	=29	=29	=29	=29
+1rF	1rdd	.	2g	Do	.
+.	.	.	4f#	go-	.
+.	.	.	4e	dów	.
+=30	=30	=30	=30	=30	=30
+!	!	!	!LO:TX:a:t=P:diminuendolike accent:problem	!	!
+2BB 2BBB	2e 2B< 2G<	.	2.b^	ży-	.
+2r	2r	.	.	.	.
+.	.	.	4a	-cia	.
+=31	=31	=31	=31	=31	=31
+1rF	1rdd	.	4a	ni-	.
+.	.	.	4g	-gdy	.
+.	.	.	4f#	nie	.
+.	.	.	4e	za-	.
+=32	=32	=32	=32	=32	=32
+!	!	!LO:DY:rj	!	!	!LO:DY:a:rj
+2.C#X\ 2.CC#X\	2.g 2.e 2.A#X<	f	2ee	-się-	f>
+.	.	.	4e	-dą,	]
+4r;	4r;	.	4r;	.	.
+=33	=33	=33	=33	=33	=33
+!	!	!	!	!	!LO:DY:a:rj
+1BB 1BBB	1g 1e 1B< 1G<	sf	2b	I	ff
+!	!	!	!	!	!LO:HP:a
+.	.	.	4cc	na-	>
+.	.	.	4b	-wet	]
+!!LO:LB:g=original
+=34	=34	=34	=34	=34	=34
+!	!	!	!	!	!LO:HP:a
+1rF	1rdd	.	4gg	na-	>
+.	.	.	4ff#	.	.
+.	.	.	4ee	.	.
+.	.	.	4cc	-wet	]
+=35	=35	=35	=35	=35	=35
+1rF	1rdd	.	(>4b/	mo-	.
+.	.	.	4f#	.	.
+.	.	.	4g	.	.
+.	.	.	4e)	-że	.
+=36	=36	=36	=36	=36	=36
+2BB 2BBB	2d#X 2A<	.	(>4d#X	za-	.
+!	!	!	!LO:TX:t=P:łuk powinien biec nad decrescendem:problem	!	!
+!	!	!	!	!	!LO:HP:a
+.	.	.	4cc	-po-	>
+2r	2r	.	4b	-mnie-	]
+.	.	.	4d#)	-ni	.
+=37	=37	=37	=37	=37	=37
+!	!	!LO:DY:rj	!	!	!
+2BB-X 2BBB-X	2e 2c 2G<	p	1rdd	.	.
+2r	2r	.	.	.	.
+=38	=38	=38	=38	=38	=38
+1rF	1rdd	.	4e	za-	.
+!	!	!	!	!	!LO:HP:a
+.	.	.	4dd	-po-	>
+.	.	.	4cc	-mnie-	]
+.	.	.	4e	-ni	.
+=39	=39	=39	=39	=39	=39
+!LO:TX:a:t=legatiss.	!	!	!	!	!
+1F# 1AA-X 1AAA-X	1fn 1c	.	1rdd	.	.
+=40	=40	=40	=40	=40	=40
+*^	*^	*	*	*	*
+!	!	!	!LO:TX:t=P:note position:problem	!	!	!	!
+!LO:TX:t=P:note position:problem	!	!	!	!LO:DY:rj	!	!	!
+1A-X	2DD-X	1f#	2d-X	p	1rdd	.	.
+.	2CC	.	2dn	.	.	.	.
+*v	*v	*	*	*	*	*	*
+*	*v	*v	*	*	*	*
+!!LO:LB:g=original
+=41	=41	=41	=41	=41	=41
+!	!	!	!	!	!LO:HP:a
+2BB 2BBB	2f#X 2d#X 2A<	.	2d#X	za-	<
+2r	2r	.	2cc	-po-	[
+=42	=42	=42	=42	=42	=42
+!	!	!	!	!	!LO:HP:a
+1rF	1rdd	.	2b	-mnie-	>
+.	.	.	2d#X	-ni	]
+=43	=43	=43	=43	=43	=43
+1rF	1rdd	.	2f#	bę-	.
+.	.	.	4e#X	.	.
+.	.	.	4f#	.	.
+=44	=44	=44	=44	=44	=44
+1rF	1rdd	.	(>4g	.	.
+.	.	.	4f#	.	.
+.	.	.	4a	.	.
+.	.	.	4g	.	.
+=45	=45	=45	=45	=45	=45
+!	!	!LO:DY:rj	!	!	!
+1BB 1EE	(>8G<L	p	4e)	-dą.	.
+.	8B<	.	.	.	.
+.	8e 8G<	.	4r	.	.
+.	8d#X 8F#<J	.	.	.	.
+.	8f# 8A<L	.	2r	.	.
+.	8e 8G<	.	.	.	.
+.	8a 8c	.	.	.	.
+.	8g 8BJ)	.	.	.	.
+=46	=46	=46	=46	=46	=46
+1BB 1BBB	1f# 1d#X 1B< 1A<	.	1rdd	.	.
+=47	=47	=47	=47	=47	=47
+1BB 1EE	1e 1B< 1G<	.	1rdd	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "crescendo.", 'fontstyle="normal"
+!!!RDF**dynam: > = "dim.", 'fontstyle="normal"
+!!!RDF**kern: N = linked
+!!!ENC: Antoni Szymański
+!!!END: 2019-08-26
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: 2019-10-21
+!!!rism-genre: Melodia
+!!!rism-key: G major
+!!!rism-opus: op.  74, no. 9
+!!!rism-title: Une mélodie in G major op.  74, no. 9
+!!!rism-permalink: https://opac.rism.info/search?id=300605195&View=rism
+!!!rism-773a-OPR: 300605186
+!!!rism-parent-permalink: https://opac.rism.info/search?id=300605186&View=rism

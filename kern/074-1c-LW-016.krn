@@ -1,0 +1,499 @@
+!!!!SEGMENT: 074-1c-LW-016.krn
+!!!COM: Fryderyk Chopin
+!!!OTL: LITHUANIAN SONG.
+!!!OTL: LITHAUISCHES LIED.
+!!!OPS: op. 74
+!!!PTL: 17 | POLISH SONGS | BY | WITWICKI, ZALESKI, MICKIEWICZ, ETC, | FOR | A SOPRANO OR TENOR VOICE | WITH ACCOMPANIMENT FOR THE | Pianoforte
+!!!PPR: Stanley Lucas, Weber & Co.
+!!!PPP: London
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: PL-Wbfc 6139/n
+!!!OMD: ALLEGRO MODERATO. M. M. [quarter]=88.
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*	*part1
+*staff3	*staff2	*	*staff1	*	*
+*I"PIANO.	*	*	*I"VOICE.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[b-]	*k[b-]	*	*k[b-]	*	*
+*F:	*F:	*	*F:	*	*
+*M2/2	*M2/2	*	*M2/2	*	*
+*met(c)	*met(c)	*	*met(c)	*	*
+=1	=1	=1	=1	=1	=1
+*	*^	*	*	*	*
+*	*	*	*	*	*^	*
+*ped	*	*	*	*	*	*	*
+2A/ 2C/ 2FF/	(>8ccL	2c\	mf	1rdd	.	.	.
+.	8bn	.	.	.	.	.	.
+.	8b-X	.	.	.	.	.	.
+.	8aJ)	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+*Xped	*	*	*	*	*	*	*
+2B-\ 2F\	(>16gLL	4c^<	.	.	.	.	.
+.	16f	.	.	.	.	.	.
+.	16e	.	.	.	.	.	.
+.	16dJJ	.	.	.	.	.	.
+.	4c/)	4ryy	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+*ped	*	*	*	*	*	*	*
+2A/ 2C/ 2FF/	(>8ccL	2c\	.	1rdd	.	.	.
+.	8bn	.	.	.	.	.	.
+.	8b-X	.	.	.	.	.	.
+.	8aJ)	.	.	.	.	.	.
+.	.	.	.	.	.	.	.
+*Xped	*	*	*	*	*	*	*
+2B-\ 2F\	(>16gLL	4c^<	.	.	.	.	.
+.	16f	.	.	.	.	.	.
+.	16e	.	.	.	.	.	.
+.	16dJJ	.	.	.	.	.	.
+.	4c/)	4ryy	.	.	.	.	.
+*	*v	*v	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3
+4A 4F	4f/ 4c/	.	1rdd	.	.	.
+4A 4D	4f/ 4d/	.	.	.	.	.
+2G 2D 2GG	2g 2d 2B-	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+2G\ 2C\	2g/ 2e/ 2c/	.	1rdd	.	.	.
+2G/ 2D/ 2GG/	2g/ 2d/ 2B/	.	.	.	.	.
+!!LO:LB:g=original
+=5	=5	=5	=5	=5	=5	=5
+*	*^	*	*	*	*	*
+!	!	!	!LO:DY:rj	!	!	!	!
+[>1e [>1G [<1C	8gL	1c	pp	1rdd	.	.	.
+.	16gL	.	.	.	.	.	.
+.	16bnJJ	.	.	.	.	.	.
+.	8ccL	.	.	.	.	.	.
+.	16gL	.	.	.	.	.	.
+.	16bJJ	.	.	.	.	.	.
+.	8ccL	.	.	.	.	.	.
+.	16gL	.	.	.	.	.	.
+.	16bJJ	.	.	.	.	.	.
+.	16ccLL	.	.	.	.	.	.
+.	16g	.	.	.	.	.	.
+.	16a	.	.	.	.	.	.
+.	16gJJ	.	.	.	.	.	.
+*	*v	*v	*	*	*	*	*
+=6	=6	=6	=6	=6	=6	=6
+1e;<] 1G] 1C]	[<4c	.	1rdd;>	.	.	.
+.	16cLL/]	.	.	.	.	.
+.	16g	.	.	.	.	.
+.	16a	.	.	.	.	.
+.	16gJJ	.	.	.	.	.
+.	2c;>/	.	.	.	.	.
+=7||	=7||	=7||	=7||	=7||	=7||	=7||
+!!!OMD: M.M. [quarter] = 72.
+!	!	!LO:DY:rj	!	!	!	!
+2F 2FF	8aL 8f	p	4a	Fair	Schön	.
+!	!LO:TX:b:i:t=legatiss&colon;	!	!	!	!	!
+.	8c	.	.	.	.	.
+.	8a 8f	.	8.a	was	war	.
+.	8cJ	.	.	.	.	.
+.	.	.	16a	the	der	.
+!	!	!	!LO:TX:t=P:problem:słowa zapisane w źródle bez podziału na sylaby zakodowane bez kreseczek między sylabami	!	!	!
+4C	8gL 8e	.	4g	morn	Mor	.
+.	8c	.	.	.	.	.
+4F\	8a 8f	.	8a	ing,	gen	.
+.	8cJ	.	8a	and	und	.
+=8	=8	=8	=8	=8	=8	=8
+2E	8b-L 8g	.	4b-	clear	hell	.
+.	8cJ	.	.	.	.	.
+!	!LO:TUP:b	!	!	!	!	!
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!	!
+.	(<12ccL 12a	.	8cc	shone	schien	.
+.	12c	.	.	.	.	.
+.	.	.	8b-	the	die	.
+.	12b-J 12g)	.	.	.	.	.
+2F	8aL 8f	.	4a	sun-	Son-	.
+.	8c	.	.	.	.	.
+.	8a 8f	.	8cc	-light,	-ne,	.
+.	8cJ	.	8r	.	.	.
+!!LO:LB:g=original
+=9	=9	=9	=9	=9	=9	=9
+2C/	8eL 8c	.	4g	Glad	fröh-	.
+.	8G	.	.	.	.	.
+.	8e 8c	.	8a	some	-lich	.
+.	8GJ	.	8g	was	war	.
+!	!	!	!LO:TX:t=P:stem-side tuplet number:problem	!	!	!
+!	!	!	!LO:TX:a:B:t=P:triole bez ramek:problem	!	!	!
+[<2CC/	8fL 8d 8Bn	.	12f	I,	ich	.
+.	.	.	12e	thro'	auf	.
+.	8G	.	.	.	.	.
+.	.	.	12f	the	die	.
+!	!	!	!LO:TX:t=P:stem-side tuplet number:problem	!	!	!
+.	8f 8d 8B	.	12a	green	Wie-	.
+.	.	.	12g	mea	-se	.
+.	8GJ	.	.	.	.	.
+.	.	.	12f	dows	ge-	.
+=10	=10	=10	=10	=10	=10	=10
+!	!LO:TX:a:B:t=P:des przy 8d- zamazane ołówkiem:problem	!	!	!	!	!
+2C/ 2CC/]	8fL 8d- 8B-X	.	2g	go-	-gan-	.
+.	8G	.	.	.	.	.
+.	8e 8c	.	.	.	.	.
+.	8B-J	.	.	.	.	.
+[<2FF	8fL 8A	[	4f	-ing;	-gen,	.
+.	8c	.	.	.	.	.
+.	8A	.	4r	.	.	.
+.	8cJ	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11
+!	!	!LO:DY:rj	!	!	!	!
+2F/ 2FF/]	8aL 8f	p	4a	Mo-	Müt-	.
+.	8c	.	.	.	.	.
+.	8a 8f	.	8a	-ther,	-ter-	.
+.	8cJ	.	8a	she	-lein	.
+4C/	8gL 8e	.	4g	sat	sass	.
+.	8c	.	.	.	.	.
+4F\	8a 8f	.	8a	at	schon	.
+.	8cJ	.	8a	the	am	.
+!!LO:LB:g=original
+=12	=12	=12	=12	=12	=12	=12
+2E\	8b-L 8g	.	4b-	win-	Fen-	.
+.	8cJ	.	.	.	.	.
+!	!LO:TUP:b	!	!	!	!	!
+.	(<12ccL 12a	.	8cc	-dow,	-ster	.
+.	12c	.	.	.	.	.
+.	.	.	8b-	and	und	.
+.	12b-J 12g)	.	.	.	.	.
+2F\	8aL 8f	.	4a	ask'd	frag-	.
+.	8c	.	.	.	.	.
+.	8a 8f	.	8cc	me	-te:	.
+.	8cJ	.	8r	.	.	.
+=13	=13	=13	=13	=13	=13	=13
+2C/	8gL 8e	.	4g	"Wet	"Dein	.
+.	8G	.	.	.	.	.
+.	8e 8c	.	8a	is	Haar	.
+.	8GJ	.	8g	thy	ist	.
+!	!	!	!LO:TX:t=P:stem-side tuplet number:problem	!	!	!
+!	!	!	!LO:TX:a:B:t=P:triole bez ramek:problem	!	!	!
+[<2CC/	8fL 8d 8Bn	.	(>12f	hair,	feucht,	.
+.	.	.	12e	what	was	.
+.	8G	.	.	.	.	.
+.	.	.	12f)	hast	hast	.
+!	!	!	!LO:TX:t=P:stem-side tuplet number:problem	!	!	!
+.	8f 8d 8B	.	(>12a	thou	du	.
+.	.	.	12g	then	an-	.
+.	8GJ	.	.	.	.	.
+.	.	.	12f)	been	-ge-	.
+=14	=14	=14	=14	=14	=14	=14
+2C/ 2CC/]	8fL 8d- 8B-X	.	2g	do-	fan-	.
+.	8G	.	.	.	.	.
+.	8e 8c	.	.	.	.	.
+.	8B-J	.	.	.	.	.
+4FF/	8fL/ 8A	.	4f	-ing?”	-gen?"	.
+.	8a 8A	.	.	.	.	.
+4rD	8a 8A	.	4r	.	.	.
+.	8aJ 8A	.	.	.	.	.
+!!LO:PB:g=original
+=15	=15	=15	=15	=15	=15	=15
+!	!LO:TX:b:i:t=poco più animato.	!	!LO:TX:a:i:t=poco più animato.	!	!	!
+!	!	!LO:DY:rj	!	!	!	!
+1rF	8a'<L/ 8f'< 8dny'<	pp	4r	.	.	.
+.	8a'< 8f'< 8d'<	.	.	.	.	.
+.	8a'< 8f'< 8d'<	.	8a	I	Ich	.
+.	8a'<J 8f'< 8d'<	.	8a	was	ward	.
+.	8a'<L/ 8f'< 8d'<	.	8a	fear-	ängst	.
+.	8a'< 8f'< 8d'<	.	8a	-ful,	lich,	.
+.	8a'< 8f'< 8d'<	.	8a	o!	ach	.
+.	8a'<J 8f'< 8d'<	.	8a	so	so	.
+=16	=16	=16	=16	=16	=16	=16
+8cL 8A	8aL 8e	.	2.cc\	fear-	ängst-	.
+8c 8A	8a 8e	.	.	.	.	.
+8c 8A	8a 8e	.	.	.	.	.
+8cJ 8A	8aJ 8e	.	.	.	.	.
+8cL	8gL 8e	.	.	.	.	.
+8c	8g 8e	.	.	.	.	.
+8c	8g 8e	.	4g/	-ful;	-lich,	.
+8cJ	8gJ 8e	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17
+!	!	!	!LO:TX:a:B:t=P:dorysowane marcato nad 4.g:problem	!	!	!
+8cL	8gL 8e-X	.	4.g	knew	wuss-	.
+8c	8g 8e-	.	.	.	.	.
+8c	8g 8e-	.	.	.	.	.
+8cJ	8gJ 8e-	.	8g	not,	-te,	.
+!	!	!	!LO:TX:a:B:t=P:dorysowane marcato nad 8b-:problem	!	!	!
+8FL	8aL 8e- 8c	.	8b-\	knew	wuss-	.
+8F	8a 8e- 8c	.	8a	not	-te	.
+8F	8a 8e- 8c	.	8g	what	nichts	.
+8FJ	8aJ 8e- 8c	.	8a	to	zu	.
+=18	=18	=18	=18	=18	=18	=18
+8B-L	8b-L 8d	.	2b-\	an-	sa-	.
+8B-	8b- 8d	.	.	.	.	.
+8B-	8b- 8d	.	.	.	.	.
+8B-J	8b-J 8d	.	.	.	.	.
+8B-L	8fL 8d	.	4f/	-swer;	-gen,	.
+8B-	8f 8d	.	.	.	.	.
+8A	8f 8d	.	4r	.	.	.
+8AJ	8fJ 8d	.	.	.	.	.
+!!LO:LB:g=original
+=19	=19	=19	=19	=19	=19	=19
+8GL	8enyL 8d	.	4g	"Wet	feucht	.
+8G	8e 8d	.	.	.	.	.
+8G	8e 8d	.	8a	is	ward	.
+8GJ	8eJ 8d	.	8b-\	my	mein	.
+8GL	8eL 8c#X 8A	.	4a	hair,	Haar,	.
+8G	8e 8c# 8A	.	.	.	.	.
+8F	8f 8d 8A	.	4dd	for	da	.
+8FJ	8fJ 8d 8A	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20
+!	!LO:TX:b:i:t=riten&colon;	!	!LO:TX:a:i:t=riten&colon;	!	!	!
+8E/L	8g/L 8d/ 8B-/	.	8a	I've	Was	.
+8E	8g 8d 8B-	.	8g	been	ser	.
+8AA/	8g/ 8c#X/ 8A/	.	8f	bring	ich	.
+8AAJ	8gJ 8c# 8A	.	8e	ing	ge-	.
+4D\	4f/ 4d/	.	4f	wa	-tra	.
+4r	4r	.	8d	ter."	gen".	.
+.	.	.	8r	.	.	.
+*ped	*	*	*	*	*	*
+=21	=21	=21	=21	=21	=21	=21
+4.BB-\ 4.BBB-\	8r	ff	8r	.	.	f
+!	!LO:TX:b:i:t=a tempo.	!	!LO:TX:a:i:t=a tempo.	!	!	!
+.	.	.	.	.	.	.
+.	8e 8d 8G#X< 8E<	.	8e	That	"Das	.
+.	4e 4d 4G#< 4E<	.	8e	is	ist	.
+*Xped	*	*	*	*	*	*
+8BB-\ 8BBB-\	.	.	8e	not	nicht	.
+*ped	*	*	*	*	*	*
+4.AA\ 4.AAA\	8r	.	4.e	truth-	Wahr	.
+.	8c#X/ 8A</ 8E</	.	.	.	.	.
+.	4c#/ 4A</ 4E</	.	.	.	.	.
+8AA\ 8AAA\	.	.	8e	-ful,	heit,	.
+*Xped	*	*	*	*	*	*
+.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22
+*ped	*	*	*	*	*	*
+4.BB-\ 4.BBB-\	8r	pp	8r	.	.	pp
+.	8e 8d 8G#X< 8E<	.	8e	that	das	.
+.	4e 4d 4G#< 4E<	.	8e	is	ist	.
+*Xped	*	*	*	*	*	*
+8BB-\ 8BBB-\	.	.	8e	not	nicht	.
+*ped	*	*	*	*	*	*
+4.AA\ 4.AAA\	8r	.	4.e	truth-	Wahr-	.
+.	8c#X/ 8A</ 8E</	.	.	.	.	.
+.	4c#/ 4A</ 4E</	.	.	.	.	.
+8AA\ 8AAA\	.	.	8e	-ful,	-heit,	.
+*Xped	*	*	*	*	*	*
+.	.	.	.	.	.	.
+!!LO:LB:g=original
+=23	=23	=23	=23	=23	=23	=23
+!	!	!LO:DY:rj	!	!	!	!
+8AAL/	8f 8e-X 8cnL	p<	4r	.	.	.
+8AA	8f 8e- 8c	.	.	.	.	.
+8AA	8f 8e- 8c	.	8.f	thou	bist	.
+8AAJ	8f 8e- 8cJ	.	.	.	.	.
+.	.	.	16f	wert	ge	.
+8BB-L/	8f 8d 8FL	.	4.f	go-	gan-	.
+8BB-	8f 8d 8F	.	.	.	.	.
+8BB-	8f 8d 8F	.	.	.	.	.
+8BB-J	8f#X 8d 8F#XJ	.	8f#X	-ing	-gen	[
+=24	=24	=24	=24	=24	=24	=24
+8BBnL/	8g 8fn 8d 8GL	.	4r	.	.	.
+8BB	8g 8f 8d 8G	.	.	.	.	.
+!	!	!	!LO:TX:t=P:problem:cres nad nutami	!	!	!
+8BB	8g 8f 8d 8G	.	8g	in	in	<
+8BBJ	8g 8f 8d 8GJ	.	8g	the	des	.
+8CL/	8g 8e 8GL	.	4.g	ear-	Früh	.
+8C	8g 8e 8G	.	.	.	.	.
+8C	8g 8e 8G	.	.	.	.	.
+8CJ	8g#X 8e 8G#XJ	.	8g#X	-ly	roth's	.
+=25	=25	=25	=25	=25	=25	=25
+*	*	*^	*	*	*	*^
+8C#XL/ 8CC#X/	8aL 8gn 8e 8A	.	.	8a	morn	Stun	.	.
+8C# 8CC#	8a 8g 8e 8A	.	.	8a	ing,	den,	.	.
+!	!	!	!LO:DY:rj	!	!	!	!	!
+8C# 8CC#	8a 8g 8e 8A	.	f	4a	To	hast	.	f
+8C#J 8CC#	8aJ 8g 8e 8A	.	.	.	.	.	.	.
+8DL/ 8DD/	8aL 8f 8d 8A	.	.	4.a	meet	dort	.	.
+8D 8DD	8a 8f 8d 8A	.	.	.	.	.	.	.
+8D#X 8DD#X	8a 8f#X 8c 8A	.	.	.	.	.	.	.
+8EJ 8EE	8aJ 8e 8c 8A	.	.	8a	thy	im	.	.
+*	*	*v	*v	*	*	*	*v	*v
+=26	=26	=26	=26	=26	=26	=26
+!	!	!LO:DY:rj	!	!	!	!LO:DY:a:rj
+8FnL 8FFn	8aL 8d#X 8c 8A	ff	2cc	love	Feld	ff
+8F 8FF	8a 8d# 8c 8A	.	.	.	.	.
+8F 8FF	8a 8d# 8c 8A	.	.	.	.	.
+8FJ 8FF	8aJ 8d# 8c 8A	.	.	.	.	.
+8FL/ 8FF/	8aL 8d# 8c	.	4a	in	den	.
+8F 8FF	8a 8d# 8c	.	.	.	.	.
+8F 8FF	8a 8d# 8Bn	.	4a	the	Ge-	.
+8FJ 8FF	8aJ 8d# 8B	.	.	.	.	.
+!!LO:LB:g=original
+=27	=27	=27	=27	=27	=27	=27
+!	!	!	!	!	!	!LO:HP:a
+8EL/ 8EE	8aL 8e 8Bn	>	(<4e	mea-	-lieb-	>
+8E 8EE	8a 8e 8B	.	.	.	.	.
+8E 8EE	8a 8e 8B	.	4a)	.	.	.
+8EJ 8EE	8aJ 8e 8B	.	.	.	.	.
+8EL/ 8EE	8g#XL 8e 8B	.	4g#X	-dows,	-ten	.
+8E 8EE	8g# 8e 8B	.	.	.	.	.
+8E 8EE	8g# 8e 8B	.	4cc\	my	ge-	.
+8EJ 8EE	8g#J 8e 8B	.	.	.	.	.
+=28||	=28||	=28||	=28||	=28||	=28||	=28||
+*M3/4	*M3/4	*	*M3/4	*	*	*
+*	*	*	*	*	*	*
+!	!	!LO:DY:rj	!	!	!	!
+4E/ 4AA/	4a 4c	pp	4bn\	daugh-	-fun-	.
+4c\ 4E\ 4AA\	8r	.	4a	-ter.	-den".	.
+.	(>8eeL	.	.	.	.	.
+4c\ 4E\ 4AA\	8ff	.	4r	.	.	.
+.	8eeJ)	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29
+4Bn\ 4E\ 4AA\	(>8dd#XL	.	2.rdd	.	.	.
+.	8bnJ)	.	.	.	.	.
+4B\ 4E\ 4AA\	4ddn^>	.	.	.	.	.
+4c\ 4E\ 4AA\	(<8cc/L	.	.	.	.	.
+.	8eJ)	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30
+4c 4E 4AA	4.a^>	.	2.rdd	.	.	.
+4c 4E 4AA	.	.	.	.	.	.
+.	(>8ee\L	.	.	.	.	.
+4c 4E 4AA	8ff	.	.	.	.	.
+.	8eeJ)	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31
+4Bn 4E 4AA	(>8dd#XL	.	2.rdd	.	.	.
+.	8bnJ)	.	.	.	.	.
+4B 4E 4AA	4ddn^>\	.	.	.	.	.
+4c 4E 4AA	(<8cc/L	.	.	.	.	.
+.	8eJ)	.	.	.	.	.
+!!LO:PB:g=original
+=32||	=32||	=32||	=32||	=32||	=32||	=32||
+*M2/2	*M2/2	*	*M2/2	*	*	*
+*met(c)	*met(c)	*	*met(c)	*	*	*
+!	!	!	!	!	!	!LO:DY:a:rj
+4c\ 4E\ 4AA\	4a	.	(>2cc	"Ah!	Ach	f
+!	!	!LO:DY:rj	!	!	!	!
+2.C;</ 2.CC/	2.e/ 2.c/ 2.B-X/ 2.G/;>	ff	.	.	.	.
+.	.	.	4bn)	yes,	ja,	.
+.	.	.	4b-X\;>	ah!	ach	.
+=33	=33	=33	=33	=33	=33	=33
+!	!	!LO:DY:rj	!	!	!	!LO:DY:a:rj
+!	!	!	!LO:TX:a:i:t=Tempo 1|o.	!	!	!
+2F/ 2FF/	8aL 8f	p	4a	yes,	ja	p
+.	8c	.	.	.	.	.
+.	8a 8f	.	8a	dear	lie-	.
+.	8cJ	.	8a	est	-be	.
+4C	8gL 8e	.	4.g	mo-	Mut-	.
+.	8c	.	.	.	.	.
+4F	8a 8f	.	.	.	.	.
+.	8cJ	.	8a	-ther,	-ter,	.
+=34	=34	=34	=34	=34	=34	=34
+2E	8b-L 8g	.	8b-	yes,	will	.
+.	8c	.	8b-	I	dir's	.
+.	8b- 8g	.	8.cc	will	ein-	.
+.	8cJ	.	.	.	.	.
+.	.	.	16b-	con-	-ge-	.
+2F	8aL 8f	.	4a	-fess	-ste-	.
+.	8c	.	.	.	.	.
+.	8cc 8a	.	8cc	it,	-hen,	.
+.	8cJ	.	8a	He	er	.
+!!LO:LB:g=original
+=35	=35	=35	=35	=35	=35	=35
+2C	8gL 8e	.	8g	bade	woll't	.
+.	8c	.	8g	me	bei	.
+.	8g 8e	.	8a	come	Ta-	.
+.	8cJ	.	8g	when	-ges	.
+2C/ 2CC/	8fL 8d 8Bn	.	8f	forth	An-	.
+.	8G	.	8a	the	-bruch	.
+.	8f 8d 8B	.	8g	morn	gern	.
+.	8GJ	.	8f	was	mich	.
+=36	=36	=36	=36	=36	=36	=36
+2C/ 2CC/	8fL 8d-^<	.	2g	peep-	se-	.
+.	8G	.	.	.	.	.
+.	8e 8c	.	.	.	.	.
+.	8B-XJ	.	.	.	.	.
+4F/ 4FF/	8fL 8A	.	4f	-ing;	-hen;	.
+.	8c	.	.	.	.	.
+4r	8A	.	4r	.	.	.
+.	8cJ	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37
+2D/ 2DD/	8f#XL 8c	.	8a	Then	hielt	.
+.	8d	.	8a	so	mich	.
+!	!LO:TX:b:i:t=poco	!	!	!	!	!
+.	8f# 8c	.	8b-	long	auf	.
+.	8dJ	.	8a	he	so	.
+2G/ 2GG/	8gL 8B-	.	4.a	kept	lan-	.
+!	!	!	!LO:TX:t=P:problem:cres nad nutami	!	!	!LO:HP:a
+.	8d	<	.	.	.	<
+.	8g 8B-	.	.	.	.	.
+.	8dJ	.	8g	me,	-ge,	.
+!!LO:LB:g=original
+=38	=38	=38	=38	=38	=38	=38
+!	!LO:TX:i:b:t=ed acceler.	!	!LO:TX:i:a:t=ed acceler.	!	!	!
+2F 2FF	8aL 8e-X	.	8f	spake	sprach	.
+.	8f	.	8cc	of	von	.
+.	8a 8e-	.	8dd	love	Lieb'	.
+.	8fJ	.	8cc	and	und	.
+2B- 2F 2BB-	2b- 2f 2d	.	4cc	long	Seh	.
+.	.	.	8b-	ing,	nen,	.
+.	.	.	8a/	And	und	.
+=39	=39	=39	=39	=39	=39	=39
+4r	4r	.	4a/	wet	da	.
+(>4D-X'>	(<4f'< 4B-'< 4G'<	.	4g/	ted,	bei,	.
+4D-'>)	4f'< 4B-'< 4G'<)	.	4r	.	.	.
+4r	4r	.	8r	.	.	.
+.	.	.	8a	And	und	.
+=40	=40	=40	=40	=40	=40	=40
+4r	4r	.	4a	wet	da	.
+(>4Dn'>	(<4f'< 4Bn'< 4G'<	.	4g	ted,	bei	.
+4D'>)	4f'< 4B'< 4G'<)	.	2r	.	.	.
+4r	4r	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41
+1D 1GG	1f 1Bn 1G	ff	2dd	ah!	wur-	ff
+.	.	.	2g	my	-den	.
+=42	=42	=42	=42	=42	=42	=42
+!	!LO:TX:i:b:t=a tempo.	!	!LO:TX:a:i:t=a tempo.	!	!	!
+4C/	8r	.	8.b-X\	hair	feucht	.
+.	8e 8B-	.	.	.	.	.
+.	.	.	16a	and	mir	.
+4C#X/	8r	.	8g	cheeks	Haar	.
+.	8e 8B-	.	8a	were	und	.
+4D\	8r	.	4f	wet	Wan-	.
+.	8f 8A	.	.	.	.	.
+4AA/	8r	.	4a	ted,	-gen,	.
+.	8f 8cny 8F	.	.	.	.	.
+!!LO:LB:g=original
+=43	=43	=43	=43	=43	=43	=43
+*	*^	*	*	*	*	*
+4GG/	8r	2ryy	.	8b-\	wet-	feucht	.
+.	8f/ 8d-X/ 8B-/	.	.	8a/	-ted	von	.
+4C/	8r	.	.	8g/	by	sei-	.
+.	8e/ 8c/ 8B-/	.	.	8a/	his	-nen	.
+2A/ 2C/ 2FF/	(>8ccL/	2c\	>	4.g	weep-	Thrä-	.
+.	8bn	.	.	.	.	.	.
+.	8b-X	.	.	.	.	.	.
+.	8aJ)	.	]	8f	-ing.	-nen.	.
+=44	=44	=44	=44	=44	=44	=44	=44
+2B-\ 2F\	(>16gLL	2c\	.	1rdd	.	.	.
+.	16f	.	.	.	.	.	.
+.	16e	.	.	.	.	.	.
+.	16dJJ	.	.	.	.	.	.
+.	4c/)	.	.	.	.	.	.
+2A/ 2C/ 2FF/	(>8ccL	2c\	>	.	.	.	.
+.	8bn	.	.	.	.	.	.
+.	8b-X	.	.	.	.	.	.
+.	8aJ)	.	]	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+2B-\ 2F\	(>16gLL	4c	.	1rdd	.	.	.
+.	16f	.	.	.	.	.	.
+.	16e	.	.	.	.	.	.
+.	16dJJ	.	.	.	.	.	.
+.	4c/)	2.ryy	.	.	.	.	.
+4A\ 4F\	4f 4c	.	.	.	.	.	.
+4A\ 4D\	4f 4d	.	.	.	.	.	.
+*	*v	*v	*	*	*	*	*
+=46	=46	=46	=46	=46	=46	=46
+2G/ 2GG/	2g 2d 2B-	.	1rdd	.	.	.
+2C/	2g 2e 2c 2B-	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47
+1F;> 1FF	1f; 1c 1A	.	1rdd;>	.	.	.
+*	*	*	*	*v	*v	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cres:" 'fontstyle="italic"
+!!!RDF**dynam: > = "dim:.", 'fontstyle="italic"
+!!!ENC: Mateusz Mrugas
+!!!END: 2020-02-02
+!!!EED: Jędrzej Mróz
+!!!EST: revision finished 2020-02-06
+!!!system-decoration: (s1){(s2,s3)}

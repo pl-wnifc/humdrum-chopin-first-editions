@@ -1,0 +1,496 @@
+!!!!SEGMENT: 008-1c-KI-003-violino.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Premier Trio pour Pianoforte, Violon et Violoncelle
+!!!OPS: Op. 8
+!!!PPR: Kistner
+!!!PPP: Leipzig
+!!!NIFC-rismID: 1001002848
+!!!NIFC-shelfmark: PL-Wbfc 3997/n
+!!!OMD: SOSTENUTO.
+**kern	**dynam
+*part1	*part1
+*I" ADAGIO.	*
+*staff1	*
+*clefG2	*
+*k[b-e-a-]	*
+*c:	*
+*M3/4	*
+=1	=1
+.	.
+!LO:TX:t=P:pionowy znak w takcie:problem	!
+!LO:TX:a:B:t=2	!
+2.r	.
+=2	=2
+2.r	.
+=3	=3
+!	!LO:DY:rj
+4.g-X^<	f
+8g-	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(<12g-L	.
+12.d)	[
+(<24e-Jk	.
+=4	=4
+4.f^>)	.
+8r	.
+4r	.
+=5	=5
+(<4g	p
+4a-	.
+4d	.
+=6	=6
+4e-	.
+8c)	.
+8r	.
+8r	.
+(<8e-	.
+=7	=7
+4en)	.
+4f	.
+!	!LO:HP:a
+8.gL	<
+!LO:TX:Bi:t=espress.	!
+(<16a-Jk	[[
+=8	=8
+4g^>	[
+4.f)	.
+8B-	.
+=9	=9
+2e-	p
+4f	.
+=10	=10
+4g	.
+2e-^>	pp
+!!LO:LB:g=original
+=11	=11
+8d	.
+8r	.
+8r	.
+!	!LO:HP:a
+8dL	<
+8d	.
+8cJ	.
+=12	=12
+4.Bn	[
+8r	.
+4r	.
+=13	=13
+!LO:TX:Bi:t=espress.	!
+4ee-	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(>20ddLL	.
+20ee-	.
+20dd	.
+20cc#X	.
+20ddJJ)	.
+8.gg^<L	.
+16ffJk	.
+=14	=14
+(>8.b-L	.
+16bnJk	.
+4cc)	.
+8r	.
+8cc	.
+=15	=15
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(>24b-XLL	.
+24cc	.
+24b-	.
+24an	.
+24b-	.
+24ccJJ)	.
+(<8b-L>	.
+8a-X	.
+8g	.
+8a-J)	.
+=16	=16
+(<4g^<	.
+4f)	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(<24enLL	.
+24f	.
+24g	.
+24f	.
+24a-	.
+24gJJ)	.
+!!LO:LB:g=original
+=17	=17
+2e-	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!LO:HP:a
+(<24dLL	<
+24e-	.
+24f	.
+24g	.
+24a-	.
+24b-JJ)	[[
+=18	=18
+8dd-X^>L	.
+8ccJ	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(>24gLL	<
+24b-	.
+24g	.
+24b-	.
+24ff	.
+24ee-JJ)	[
+8dd-XL	.
+8ccJ)	.
+=19	=19
+(>16bnLL	.
+16cc	.
+16dd	.
+16ccJJ)	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(<14g^>L	>
+14a-^>	.
+14b-Xy^>	.
+14a-	.
+14f	.
+14c	.
+14dJ)	.
+=20	=20
+!	!LO:DY:rj
+(<4f^<	p
+8e-)	.
+8r	.
+4r	.
+=21	=21
+!LO:TX:t=P:P:znak pionowy i poziomy w takcie:problem	!
+2.rdd	.
+=22	=22
+2.rdd	.
+=23	=23
+2.rdd	.
+=24	=24
+4r	.
+4r	.
+(4b-	.
+!!LO:LB:g=original
+=25	=25
+!LO:TX:a:Bi:t=appassionato.	!
+8.enL)	.
+16gJk	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(>20b-LL	<
+20cc	.
+20b-	.
+20an	.
+20b-JJ)	[
+8.ee-XL	>
+16dd-XJk	]
+=26	=26
+(>4dd-X^<	[
+4cc)	.
+(8.eenL	.
+16ffJk)	.
+=27	=27
+8.gg^<L	.
+(>16eenJk	.
+16ccLL	.
+16dd-X	.
+16ee-y	.
+16dd-JJ	.
+8.cc^<L	.
+16b-Jk)	.
+=28	=28
+4b-/	.
+2a-	.
+=29	=29
+2a-	<
+.	[
+!LO:TX:t=P:diminuendolike accent:problem	!
+8.g^<L	<
+16ccJk	.
+=30	=30
+2b-	<
+.	[
+8.anL	.
+16ddJk	.
+=31	=31
+!	!LO:DY:rj
+(>4dd	f
+8ccL<	>
+8b-	]
+8an	p
+8gJ)	.
+!!LO:LB:g=original
+=32	=32
+2an	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(12b-L	.
+12.cc	.
+24b-Jk)	.
+=33	=33
+(</2b-	[
+4d	.
+=34	=34
+4e-	.
+8c)	.
+8r	.
+4r	.
+=35	=35
+!	!LO:DY:rj
+[2.c	p
+=36	=36
+4.c]	.
+!LO:TX:a:Bi:t=con fuoco.	!
+.	.
+(<8Bn	.
+16B-XLL	.
+16c	.
+16A-X	.
+16B-JJ	.
+=37	=37
+2G	.
+8.e-L)	.
+16GJk	.
+=38	=38
+!	!LO:DY:rj
+(<4A-	p
+4B-	.
+4c	.
+=39	=39
+4f)	.
+(<8.a-^<L	.
+16gJk	.
+16gLL	.
+16f	.
+16e-	.
+16fJJ	.
+=40	=40
+4d	.
+8e-)	.
+8r	.
+4r	.
+!!LO:LB:g=original
+=41	=41
+4a-^<	.
+(<8g	.
+16r	.
+16e-	.
+(>12e-L	.
+12.Bn	.
+24cJk))	.
+=42	=42
+(<4g-X^<	.
+8f)	.
+8r	.
+4r	.
+=43	=43
+(4G^>	.
+8A-)	.
+8r	.
+4r	.
+=44	=44
+4.cc-X^<	.
+(>8cc-	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+12cc-L<	.
+12g	.
+12a-J)	.
+=45	=45
+2g^<$	.
+(<8.gL	<
+16a-Jk	.
+=46	=46
+4.b-/)	[
+8b-/	.
+&(>12b-^<L	.
+(<12f#X	.
+12gJ&)	.
+=47	=47
+(2.b-)	.
+=48	=48
+4.b-)	.
+8a-	.
+12a-L	.
+(<12en	.
+24rf	.
+24fJk)	.
+!!LO:LB:g=original
+=49	=49
+[2.d	.
+=50	=50
+4d]	.
+4r	.
+4r	.
+=51	=51
+!LO:TX:a:B:t=1	!
+2.r	.
+=52	=52
+4r	.
+(<4a-	>
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+24b-LL	.
+24a-	.
+24g-X	]
+24f	.
+24e-	.
+24d-XJJ)	.
+=53	=53
+2d-X	p
+[4a-	>
+=54	=54
+(<8a-L]	]
+8g-XJ	.
+4f)	.
+8.B-L	.
+16fJk	.
+=55	=55
+(<8.e-L	.
+16fJk	.
+4g-X	<
+8.a-L	.
+16anJk)	[[
+=56	=56
+!	!LO:DY:a
+!LO:TX:b:Bi:t=dolce.	!
+(>2b-	p
+4dd	.
+=57	=57
+2cc	.
+4f)	.
+=58	=58
+(>2ff	>
+8ee-L	.
+8ddJ	]
+=59	=59
+!	!LO:HP:Bi:t=dimin.
+2cc	>
+8ddL	.
+8ccJ	.
+!!LO:LB:g=original
+=60	=60
+[2.b-)	.
+=61	=61
+4b-]	.
+4r	.
+4r	.
+=62	=62
+!LO:TX:t=P:pionowy znak w takcie:problem	!
+2.rdd	.
+=63	=63
+2.rdd	.
+=64	=64
+2.rdd	.
+=65	=65
+2.rdd	.
+=66	=66
+4r	.
+!	!LO:DY:a
+(<4An'<	pp
+4A'<	.
+=67	=67
+4.An)	.
+8r	.
+4r	.
+=68	=68
+4.c#X^<	.
+8r	.
+4r	.
+=69	=69
+4.d^<	.
+8r	.
+4r	.
+=70	=70
+!LO:TX:B:t=1	!
+!LO:TX:a:Bi:t=ritard.	!
+2.rdd	.
+=71	=71
+!LO:TX:a:Bi:t=a Tempo.	!
+(<4g	.
+4..a-^<)	.
+(<16f	.
+=72	=72
+8.b-L)	.
+16e-Jk	.
+(8qe-/	.
+!	!LO:DY:rj
+4cc)	f
+4r	.
+=73	=73
+!	!LO:DY:rj
+*Xtuplet	*
+(12dd$L	f
+12.ff^<	.
+24ee-Jk)	.
+*tuplet	*
+8ee-'>	.
+8r	.
+4r	.
+=74	=74
+!LO:TX:a:B:t=1	!
+2.rdd	.
+!!LO:LB:g=original
+=75	=75
+[2.g	.
+=76	=76
+4.g]	.
+(<16a-LL	.
+16gJJ	.
+16f#XL)	<
+(<16g	[
+16.cc	>
+32b-Jk	]
+=77	=77
+2e-)	.
+8.a-^<L	.
+(<16gJk	.
+=78	=78
+4f	.
+4c	.
+4d)	.
+=79	=79
+4e-	.
+!	!LO:DY:a
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(<20dLL	p
+20e-	.
+20d	.
+20c#X	.
+20dJJ)	.
+(<8.g^<L	.
+16fJk	.
+=80	=80
+4e-)	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(<20dLL	.
+20e-	.
+20d	.
+20c#X	.
+20dJJ)	.
+8.g^<L	.
+(<16fJk	.
+=81	=81
+8e-)	.
+8r	.
+!	!LO:DY:rj:a
+8e-^> 8G	p
+8r	.
+!	!LO:DY:rj:a
+8e-^> 8G	pp
+8r	.
+=82	=82
+!	!LO:DY:a
+4e- 4G	ppp
+4r	.
+4r	.
+==	==
+*-	*-
+!!!system-decoration: s1,s2{(s3,s4)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: N = linked
+!!!RDF**dynam: > = "dim.", fontstyle="bold-italic"
+!!!RDF**dynam: < = "cres.", fontstyle="bold-italic"
+!!!RDF**kern: i = editorial accidental
+!!!ENC: Emilia Ziętek
+!!!END: 2019-10-22
+!!!EED: Mateusz Mrugas
+!!!EST: revision finished 2019-10-28
+!!!rism-genre: Trio
+!!!rism-key: G minor
+!!!rism-opus: op.  8
+!!!rism-title: Trio in G minor op.  8
+!!!rism-permalink: https://opac.rism.info/search?id=1001002848&View=rism

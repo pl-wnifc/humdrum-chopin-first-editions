@@ -1,0 +1,543 @@
+!!!!SEGMENT: 074-1-Sam-001.krn
+!!!COM: Fryderyk Chopipn
+!!!OTL: MÄDCHEN'S WUNSCH
+!!!OPS: Op. 74
+!!!PTL: 16 | Polnische Lieder | von Witwicki, Zaleski, Mickiewicz etc. | für eine Singstimme | mit Begleitung des Pianoforte
+!!!PPR: Schlesinger
+!!!PPP: Berlin
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: PL-Wbfc 6138/n
+!!!OMD: Allegro ma non troppo.
+!!!OMD: M. M. [quarter] = 112.
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff2	*	*staff1	*	*
+*I"PIANO.	*	*	*I"SINGSTIMME.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[f#]	*k[f#]	*	*k[f#]	*	*
+*G:	*G:	*	*G:	*	*
+*M3/4	*M3/4	*	*M3/4	*	*
+*MM112	*MM112	*	*MM112	*	*
+4r	(>8ddL	.	4r	.	.
+.	8ff#J)	.	.	.	.
+=1	=1	=1	=1	=1	=1
+*^	*	*	*	*	*
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT	mf	2.rdd	.	.
+4c 4D	.	(>8ddL	.	.	.	.
+.	.	8aJ	.	.	.	.
+4c 4D	.	8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT	.	2.rdd	.	.
+4B 4D	.	(>8ddL	.	.	.	.
+.	.	8gJ	.	.	.	.
+4B 4D	.	8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT	.	2.rdd	.	.
+4c 4D	.	(>8ddL	.	.	.	.
+.	.	8aJ)	.	.	.	.
+4c 4D	.	(<8bL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8dJ)	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+*ped	*	*	*	*	*	*
+4rA	2.GG	2g	.	2.rdd	.	.
+4B 4D	.	.	.	.	.	.
+.	.	.	.	.	.	.
+4B 4D	.	(>8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT	.	2.rdd	.	.
+4c 4D	.	(>8ddL	.	.	.	.
+.	.	8aJ	.	.	.	.
+4c 4D	.	8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT	.	2.rdd	.	.
+4B 4D	.	(>8ddL	.	.	.	.
+.	.	8gJ	.	.	.	.
+4B 4D	.	8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT	.	2.rdd	.	.
+4c 4D	.	(>8ddL	.	.	.	.
+.	.	8aJ)	.	.	.	.
+4c 4D	.	(<8bL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8dJ)	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8
+*ped	*	*	*	*	*	*
+4rA	2GG	2g	.	2.rdd	.	.
+4B 4D	.	.	.	.	.	.
+.	.	.	.	.	.	.
+*Xped	*	*	*	*	*	*
+4r	4r	4r	.	.	.	.
+.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*
+!!LO:LB:g=original
+=9||	=9||	=9||	=9||	=9||	=9||
+*ped	*	*	*	*	*
+2.CC# C#	4r	p	4g	Könnt'	.
+.	4e B-< G<	.	4f#	ich	>
+*Xped	*	*	*	*	*
+.	4e B-< G<	.	4e	als	]
+=10	=10	=10	=10	=10	=10
+*ped	*	*	*	*	*
+2.DD D	4r	.	2e	Son-	>
+.	4d Bn< G<	.	.	.	.
+*Xped	*	*	*	*	*
+.	4d B< G<	.	4d	-ne	]
+=11	=11	=11	=11	=11	=11
+*ped	*	*	*	*	*
+2.DD D	4r	.	8d	hoch	.
+!	!	!	!LO:TX:a:t=cresc. _ :problem:dynamics with line extensions 	!	!
+!	!	!	!	!	!LO:HP:a:i:t=cresc.:ext=ud
+!	!	!	!	!	!LO:HP:a
+.	.	.	8cc	am	<
+!	!LO:TX:b:t=cresc. _ :problem:dynamics with line extensions 	!	!	!	!
+!	!	!LO:HP:i:t=cresc.:ext=ud	!	!	!
+!	!	!	!LO:TX:t=P:problem:słowa zapisane w źródle bez podziału na sylaby zakodowane bez kreseczek między sylabami	!	!
+.	4f# 4d 4c	<	4cc	Him	.
+*Xped	*	*	*	*	*
+.	4f# 4d 4c	.	4cc	mel	.
+=12	=12	=12	=12	=12	=12
+*ped	*	*	*	*	*
+2.GG G	4r	.	4b	schwe	.
+.	4g 4d 4B	.	4dd	ben,	.
+*Xped	*	*	*	*	*
+.	4g 4d 4B	.	4r	.	[
+.	.	[	.	.	.
+=13	=13	=13	=13	=13	=13
+*ped	*	*	*	*	*
+!	!	!	!	!	!LO:DY:rj
+2.C# CC#	4r	p	(<4g	nur	p
+.	4e B-< G<	.	4f#)	.	.
+*Xped	*	*	*	*	*
+.	4e B-< G<	.	4e	für	.
+=14	=14	=14	=14	=14	=14
+*ped	*	*	*	*	*
+2.D DD	4r	.	4.e	dich	.
+.	4d Bn< G<	.	.	.	.
+.	.	.	8d	wollt'	.
+*Xped	*	*	*	*	*
+.	4d B< G<	.	4d	ich	.
+=15	=15	=15	=15	=15	=15
+*ped	*	*	*	*	*
+2.D DD	4r	.	8d	mei-	.
+.	.	.	8cc	-ne	.
+.	4f# 4d 4c	.	4e	Stra	.
+*Xped	*	*	*	*	*
+.	4f# 4d 4c	.	4f#	hlen	.
+!!LO:LB:g=original
+=16	=16	=16	=16	=16	=16
+2G GG	4r	.	4a	ge	>
+.	4g d B	.	4g	ben;	.
+!LO:TX:b:i:t=marcato.	!	!	!	!	!
+4AA^</	4r	.	4r	.	]
+=17	=17	=17	=17	=17	=17
+2.BB	4r	.	4.f#	nicht	>
+.	4d# B< F#<	.	.	.	.
+.	.	.	8d#	für	.
+.	4d# B< F#<	.	4B	die	]
+=18	=18	=18	=18	=18	=18
+*ped	*	*	*	*	*
+2.E EE	4r	.	(<4.e	Wäl-	<
+.	4e B< G<	.	.	.	.
+.	.	.	8f#)	.	.
+*Xped	*	*	*	*	*
+.	4e B< G<	.	4g	-der,	[
+=19	=19	=19	=19	=19	=19
+*ped	*	*	*	*	*
+2.BB BBB	4r	.	4.f#	nicht	>
+.	4d# B< F#<	.	.	.	.
+.	.	.	8d#	für	.
+*Xped	*	*	*	*	*
+.	4d# B< F#<	.	4B	die	]
+=20	=20	=20	=20	=20	=20
+*ped	*	*	*	*	*
+2.E EE	4r	.	(<4.e	Fel-	<
+.	4e B< G<	.	.	.	.
+.	.	.	8f#)	.	.
+*Xped	*	*	*	*	*
+.	4e B< G<	.	4g	-der,	[
+*ped	*	*	*	*	*
+=21	=21	=21	=21	=21	=21
+*	*	*	*	*	*
+*ped	*	*	*	*	*
+!	!	!LO:DY:rj	!	!	!
+2.AA 2.AAA;<	2.e;> 2.c#X 2.A< 2.G<	sf	4g	dort	.
+*	*	*	*cue	*	*
+!	!	!	!LO:TX:a:t=P:slashed cue notes:problem	!	!
+.	.	.	8g	wo	.
+.	.	.	8g	dein	.
+.	.	.	8f#	klei-	<
+!	!	!	!	!	!LO:DY:a
+.	.	.	8g	-nes	[
+*	*	*	*Xcue	*	*
+2ryy	2ryy	.	4.b;>	Fen-	.
+.	.	.	.	.	>
+*Xped	*	*	*	*	*
+.	.	.	8a	-ster:	]]
+!!LO:PB:g=original
+=22	=22	=22	=22	=22	=22
+*	*	*	*	*	*
+*ped	*	*	*	*	*
+2.AA AAA	4r	p	4g	dort	.
+.	4e c# G<	.	4f#	hin-	.
+*Xped	*	*	*	*	*
+.	4e c# G<	.	4e	-ein	.
+=23	=23	=23	=23	=23	=23
+2.D DD	4r	.	2e	würd'	.
+.	4e^> cn F#<	.	.	.	.
+.	4d c F#<	.	4d	ich	.
+=24	=24	=24	=24	=24	=24
+2.D	4r	.	8d	mei	.
+!	!	!	!LO:TX:a:t=cresc. _ :problem:dynamics with line extensions 	!	!
+!	!	!	!	!	!LO:HP:a:i:t=cresc.:ext=ud
+.	.	.	8cc	ne	<
+!	!LO:TX:b:t=cresc. _ :problem:dynamics with line extensions 	!	!	!	!
+!	!	!LO:HP:i:b:t=cresc.:ext=ud	!	!	!
+.	4f# d c	<	4cc	Stra	.
+.	4f# d c	.	4cc	hlen	.
+=25	=25	=25	=25	=25	=25
+2.G GG	4r	.	2b	ge-	.
+.	4g d B	.	.	.	.
+.	4g d B	[	4dd	-ben,	[
+=26	=26	=26	=26	=26	=26
+!	!	!	!	!	!LO:DY:rj
+2.C#\	4r	p	4g	könnt'	p
+.	4e B-< G<	.	4f#	ich	.
+.	4e B-< G<	.	4e	als	.
+=27	=27	=27	=27	=27	=27
+2.D	4r	.	2e	Son-	.
+.	4d B< G<	.	.	.	.
+.	4d B< G<	.	4d	-ne	.
+=28	=28	=28	=28	=28	=28
+2.D	4r	.	8d	hoch	.
+.	.	.	8cc	am	.
+.	4f# 4d 4c	.	4e	Him	.
+.	4f# 4d 4c	.	4f#	mel	.
+=29	=29	=29	=29	=29	=29
+2G/ GG/	4r	.	4a	schwe	.
+.	4g d B	.	4g	ben.	.
+4r	(>8ddL	.	4r	.	.
+.	8ff#J)	.	.	.	.
+!!LO:LB:g=original
+=30||	=30||	=30||	=30||	=30||	=30||
+*^	*	*	*	*	*
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT>	mf	2.rdd	.	.
+4c 4D	.	(>8ddL	.	.	.	.
+.	.	8aJ	.	.	.	.
+4c 4D	.	8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT>	.	2.rdd	.	.
+4B 4D	.	(>8ddL	.	.	.	.
+.	.	8gJ	.	.	.	.
+4B 4D	.	8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT>	.	2.rdd	.	.
+4c 4D	.	(>8ddL	.	.	.	.
+.	.	8aJ)	.	.	.	.
+4c 4D	.	(<8bL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8dJ)	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33
+*ped	*	*	*	*	*	*
+4rA	2.GG	2g	.	2.rdd	.	.
+4B 4D	.	.	.	.	.	.
+.	.	.	.	.	.	.
+4B 4D	.	(>8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT>	.	2.rdd	.	.
+4c 4D	.	(>8ddL	.	.	.	.
+.	.	8aJ	.	.	.	.
+4c 4D	.	8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT>	.	2.rdd	.	.
+4B 4D	.	(>8ddL	.	.	.	.
+.	.	8gJ	.	.	.	.
+4B 4D	.	8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT>	.	2.rdd	.	.
+4c 4D	.	(>8ddL	.	.	.	.
+.	.	8aJ)	.	.	.	.
+4c 4D	.	(<8bL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8dJ)	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37
+*ped	*	*	*	*	*	*
+4rA	2GG	2g	.	2.rdd	.	.
+4B 4D	.	.	.	.	.	.
+.	.	.	.	.	.	.
+*Xped	*	*	*	*	*	*
+4r	4r	4r	.	.	.	.
+.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*
+!!LO:LB:g=original
+=38||	=38||	=38||	=38||	=38||	=38||
+*ped	*	*	*	*	*
+2.CC# C#	4r	.	4g	Wär'	.
+.	4e B-< G<	.	4f#	ich	>
+.	4e B-< G<	.	4e	ein	]
+*Xped	*	*	*	*	*
+.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39
+*ped	*	*	*	*	*
+2.DD D	4r	.	2e	Vö-	>
+.	4d Bn< G<	.	.	.	.
+.	4d B< G<	.	4d	-glein	]
+*Xped	*	*	*	*	*
+.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40
+*ped	*	*	*	*	*
+2.DD D	4r	.	8d	herr	.
+!	!	!	!LO:TX:a:t=cresc. _ :problem:dynamics with line extensions 	!	!
+!	!	!	!	!	!LO:HP:a:i:t=cresc.:ext=ud
+.	.	.	8cc	lich	<
+!	!LO:TX:b:t=cresc. _ :problem:dynamics with line extensions 	!	!	!	!
+!	!	!LO:HP:b:i:t=cresc.:ext=ud	!	!	!
+.	.	<	.	.	.
+.	4f# 4d 4c	.	4cc	wollt'	.
+*Xped	*	*	*	*	*
+.	4f# 4d 4c	.	4cc	ich	.
+=41	=41	=41	=41	=41	=41
+*ped	*	*	*	*	*
+2.GG G	4r	.	4b	sin	.
+.	4g 4d 4B	[	4dd	gen,	[
+*Xped	*	*	*	*	*
+.	4g 4d 4B	.	4r	.	.
+=42	=42	=42	=42	=42	=42
+*ped	*	*	*	*	*
+!	!	!LO:DY:rj	!	!	!LO:DY:rj
+2.C# CC#	4r	p	4g	dass	p
+.	4e B-< G<	.	4f#	dir	>
+*Xped	*	*	*	*	*
+.	4e B-< G<	.	4e	mein	]
+=43	=43	=43	=43	=43	=43
+*ped	*	*	*	*	*
+2.D DD	4r	.	4.e	Lied	.
+.	4d Bn< G<	.	.	.	.
+.	.	.	8d	chen	.
+.	4d Bny< G<	.	4d	sollt'	.
+*Xped	*	*	*	*	*
+.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44
+*ped	*	*	*	*	*
+2.D DD	4r	.	8d	in	.
+.	.	.	8cc	die	.
+.	4f# 4d 4c	.	4e	See-	.
+.	4f# 4d 4c	.	4f#	-le	.
+*Xped	*	*	*	*	*
+.	.	.	.	.	.
+!!LO:PB:g=original
+=45	=45	=45	=45	=45	=45
+2G GG	4r	.	4a	drin	.
+.	4g d B	.	4g	gen;	.
+!LO:TX:a:i:t=marcato.	!	!	!	!	!
+4AA/	4r	.	4r	.	.
+=46	=46	=46	=46	=46	=46
+*ped	*	*	*	*	*
+2.BB	4r	.	4.f#	säng'	.
+.	4d# B< F#<	.	.	.	.
+.	.	.	8d#	nicht	.
+.	4d# B< F#<	.	4B	in	.
+*Xped	*	*	*	*	*
+.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47
+*ped	*	*	*	*	*
+2.E EE	4r	.	(<4.e	Wäl-	.
+.	4e B< G<	.	.	.	.
+.	.	.	8f#)	.	.
+.	4e B< G<	.	4g	-dern,	.
+*Xped	*	*	*	*	*
+.	.	.	.	.	.
+=48	=48	=48	=48	=48	=48
+*ped	*	*	*	*	*
+2.BB BBB	4r	.	4.f#	nicht	.
+.	4d# B< F#<	.	.	.	.
+.	.	.	8d#	in	.
+.	4d# B< F#<	.	4B	den	.
+*Xped	*	*	*	*	*
+.	.	.	.	.	.
+=49	=49	=49	=49	=49	=49
+*ped	*	*	*	*	*
+2.E EE	4r	.	(<4.e	Fel-	.
+.	4e B< G<	.	.	.	.
+.	.	.	8f#)	.	.
+.	4e B< G<	.	4g	-dern,	.
+*Xped	*	*	*	*	*
+.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50
+*	*	*	*	*	*
+*ped	*	*	*	*	*
+!	!	!LO:DY:rj	!	!	!
+2.AA 2.AAA;<	2.e;> 2.c#X 2.A< 2.G<	sf	4g;>	dort	.
+*	*	*	*cue	*	*
+!	!	!	!LO:TX:a:t=P:slashed cue notes:problem	!	!
+.	.	.	8g	wo	.
+.	.	.	8g	dein	.
+.	.	.	8f#	klei-	<
+!	!	!	!	!	!LO:DY:a
+.	.	.	8g	-nes	[
+*	*	*	*Xcue	*	*
+2ryy	2ryy	.	4.b;>	Fen-	.
+.	.	.	.	.	>
+*Xped	*	*	*	*	*
+.	.	.	8a	-ster:	]]
+!!LO:LB:g=original
+=51|	=51|	=51|	=51|	=51|	=51|
+*	*	*	*	*	*
+*ped	*	*	*	*	*
+2.AA AAA	4r	.	4g	wär'	.
+.	4e c# G<	.	4f#	ich	>
+*Xped	*	*	*	*	*
+.	4e c# G<	.	4e	ein	]
+=52	=52	=52	=52	=52	=52
+2.D DD	4r	.	2e	Vö-	>
+.	4e^> cn F#<	.	.	.	.
+.	4d c F#<	.	4d	-glein,	]
+=53	=53	=53	=53	=53	=53
+2.D	4r	.	8d	dort	.
+.	.	.	8cc	nur	.
+!	!	!	!LO:TX:a:t=cresc. _ :problem:dynamics with line extensions 	!	!
+!	!	!	!	!	!LO:HP:a:i:t=cresc.:ext=ud
+!	!LO:TX:b:t=cresc. _ :problem:dynamics with line extensions	!	!	!	!
+!	!	!LO:HP:b:i:t=cresc.:ext=ud	!	!	!
+.	4f# d c	<	4cc	wollt'	<
+.	4f# d c	.	4cc	ich	.
+=54	=54	=54	=54	=54	=54
+2.G GG	4r	.	2b	sin-	.
+.	4g d B	.	.	.	.
+.	4g d B	[	4dd	-gen,	[
+=55	=55	=55	=55	=55	=55
+*ped	*	*	*	*	*
+2.C#\	4r	.	4g	Dir	.
+.	4e B-< G<	.	4f#	sollt'	.
+*Xped	*	*	*	*	*
+.	4e B-< G<	.	4e	mein	.
+=56	=56	=56	=56	=56	=56
+*ped	*	*	*	*	*
+2.D	4r	.	2e	Lied	.
+.	4d Bn< G<	.	.	.	.
+*Xped	*	*	*	*	*
+.	4d B< G<	.	4d	chen	.
+=57	=57	=57	=57	=57	=57
+2.D	4r	.	8d	in	.
+.	.	.	8cc	die	.
+.	4f# 4d 4c	.	4e	See-	.
+.	4f# 4d 4c	.	4f#	-le	.
+=58	=58	=58	=58	=58	=58
+*ped	*	*	*	*	*
+2G/ GG/	4r	.	4a	drin	.
+.	4g d B	.	4g	gen.	.
+4r	(>8ddL	.	4r	.	.
+*Xped	*	*	*	*	*
+.	8ff#J)	.	.	.	.
+!!LO:LB:g=original
+=59||	=59||	=59||	=59||	=59||	=59||
+*^	*	*	*	*	*
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT>	mf	2.rdd	.	.
+4c 4D	.	(>8ddL	.	.	.	.
+.	.	8aJ	.	.	.	.
+4c 4D	.	8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT>	.	2.rdd	.	.
+4B 4D	.	(>8ddL	.	.	.	.
+.	.	8gJ	.	.	.	.
+4B 4D	.	8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT>	.	2.rdd	.	.
+4c 4D	.	(>8ddL	.	.	.	.
+.	.	8aJ)	.	.	.	.
+4c 4D	.	(<8bL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8dJ)	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62
+*ped	*	*	*	*	*	*
+4rA	2.GG	2g	.	2.rdd	.	.
+4B 4D	.	.	.	.	.	.
+.	.	.	.	.	.	.
+4B 4D	.	(>8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT>	.	2.rdd	.	.
+4c 4D	.	(>8ddL	.	.	.	.
+.	.	8aJ	.	.	.	.
+4c 4D	.	8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT>	.	2.rdd	.	.
+4B 4D	.	(>8ddL	.	.	.	.
+.	.	8gJ	.	.	.	.
+4B 4D	.	8ddL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8ff#J)	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65
+*ped	*	*	*	*	*	*
+4rA	2.GG	4eeT>	.	2.rdd	.	.
+4c 4D	.	(>8ddL	.	.	.	.
+.	.	8aJ)	.	.	.	.
+4c 4D	.	(<8bL	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	8dJ)	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66
+*ped	*	*	*	*	*	*
+4rA	2GG	2g	.	2.rdd	.	.
+4B 4D	.	.	.	.	.	.
+.	.	.	.	.	.	.
+*Xped	*	*	*	*	*	*
+4r	4r	4r	.	.	.	.
+.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!system-decoration: (s1){(s2,s3)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cres.", fontstyle = "bold"
+!!!RDF**kern: i = editorial accidental, bracked
+!!!ENC: Mateusz Mrugas
+!!!END: 2020-01-29
+!!!EED: Jędrzej Mróz
+!!!EST: revision finished 2020-01-29

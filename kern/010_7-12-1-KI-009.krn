@@ -1,0 +1,1158 @@
+!!!!SEGMENT: 010_7-12-1-KI-009.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: No. 9
+!!!OPS: Op. 10
+!!!PTL: Douze GRANDES ETUDES pour le Pianoforte
+!!!PPR: Kistner
+!!!PPP: Leipzig
+!!!NIFC-rismID: 1001001252
+!!!NIFC-shelfmark: PL-Wbfc 2439/n
+!!!OMD: ALLEGRO MOLTO AGITATO.
+!!!OMD: [quarter-dot]=96.
+**kern	**fing	**kern	**fing	**dynam
+*part1	*	*part1	*	*part1
+*staff2	*	*staff1	*	*
+*clefF4	*	*clefG2	*	*
+*k[b-e-a-d-]	*	*k[b-e-a-d-]	*	*
+*f:	*	*f:	*	*
+*M6/8	*	*M6/8	*	*
+*MM96	*	*MM96	*	*
+=1	=1	=1	=1	=1
+*ped	*	*	*	*
+!	!	!LO:TX:b:B:i:t=legatissimo.	!	!
+(16FFLL	5	8r	.	.
+16C	4	.	.	p
+16A-	.	(8f'L	.	.
+16C	4	.	.	.
+16B-	.	8g'J)	.	.
+*Xped	*	*	*	*
+16CJJ)	4	.	.	.
+*ped	*	*	*	*
+(16FFLL	5	8r	.	.
+16C	4	.	.	.
+16c	.	(8a-'L	.	.
+16C	.	.	.	.
+16d-	.	8b-'J)	.	.
+16CJJ)	.	.	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+=2	=2	=2	=2	=2
+*ped	*	*	*	*
+16FFLL	.	8r	.	<
+16C	.	.	.	.
+16c	.	(8cc'L	.	.
+16C	.	.	.	.
+16B-	.	8dd-'J	.	.
+*Xped	*	*	*	*
+16CJJ	.	.	.	.
+*ped	*	*	*	*
+16FFLL	.	8cc'L	.	<
+16C	.	.	.	.
+16A-	.	8aa-'	.	[
+16C	.	.	.	.
+16B-	.	8gg'J	.	.
+16CJJ	.	.	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+!!LO:LB:g=original
+=3	=3	=3	=3	=3
+*ped	*	*	*	*
+!	!	!LO:TX:b:i:B:t=con forza.	!	!
+16FFLL	.	8ff'L	.	.
+16C	.	.	.	.
+16A-	.	8cc'	.	.
+16C	.	.	.	.
+16B-	.	8dd-'J	.	.
+*Xped	*	*	*	*
+16CJJ	.	.	.	.
+*ped	*	*	*	*
+16FFLL	.	8cc'L	.	.
+16C	.	.	.	.
+16A-	.	8a-'	.	.
+16C	.	.	.	.
+16c	.	8f'J	.	.
+16CJJ	.	.	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+=4	=4	=4	=4	=4
+*ped	*	*	*	*
+16FFLL\	.	2.c^^)	.	.
+16C	.	.	.	.
+16G	.	.	.	.
+16C	.	.	.	.
+16A-	.	.	.	.
+*Xped	*	*	*	*
+16CJJ	.	.	.	.
+*ped	*	*	*	*
+16FFLL	.	.	.	.
+16C	.	.	.	.
+16B-	.	.	.	.
+16C	.	.	.	.
+16G	.	.	.	.
+16CJJ	.	.	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+=5	=5	=5	=5	=5
+!LO:TX:b:i:B:t=segue.	!	!	!	!
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16A-	.	(8f'L	.	.
+16C	.	.	.	.
+16B-	.	8g'J)	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16c	.	(8a-'L	.	.
+16C	.	.	.	.
+16d-	.	8b-'J)	.	.
+16CJJ	.	.	.	.
+!!LO:LB:g=original
+=6	=6	=6	=6	=6
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16c	.	(>8cc'L	.	<
+16C	.	.	.	.
+16B-	.	8dd-'J	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8cc'L	.	.
+16C	.	.	.	.
+16A-	.	8ccc'	.	.
+16C	.	.	.	.
+16c	.	8aa-'J	.	[[
+16CJJ	.	.	.	.
+=7	=7	=7	=7	=7
+16FFLL	.	8gg'L	.	.
+16C	.	.	.	.
+16B-	.	8cc'	.	.
+16C	.	.	.	.
+16G	.	8dd-'J	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8cc'L	.	.
+16C	.	.	.	.
+16B-	.	8g'	.	.
+16C	.	.	.	.
+16G	.	8c'J	.	<
+16CJJ	.	.	.	.
+=8	=8	=8	=8	=8
+(16FFLL	.	16fLL	.	.
+16C-X	.	16gJJ	.	[
+!	!	!LO:TX:a:B:i:t=ritard.	!	!
+16A-	.	2a-^)	.	<
+16C-	.	.	.	.
+16d-	.	.	.	.
+16C-JJ)	.	.	.	.
+(16FFLL	.	.	.	.
+16C-	.	.	.	.
+16A-	.	.	.	.
+16C-	.	.	.	.
+16d-	.	8r	.	.
+16C-JJ)	.	.	.	.
+!!LO:LB:g=original
+=9	=9	=9	=9	=9
+!LO:TX:b:B:i:t=sempre legatissimo.	!	!	!	!
+!LO:TX:a:B:i:t=sotto voce.	!	!	!	!
+16FFLL	.	8r	.	.
+!	!	!LO:TX:a:B:i:t=a Tempo.	!	!
+16C	.	.	.	.
+16A-	.	(8f'L	.	.
+16C	.	.	.	.
+16B-	.	8g'J)	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16c	.	(8a-'L	.	.
+16C	.	.	.	.
+16d-	.	8b-'J)	.	.
+16CJJ	.	.	.	.
+=10	=10	=10	=10	=10
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16c	.	(>8cc'L	.	<
+16C	.	.	.	.
+16B-	.	8dd-'J	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8cc'L	.	[[
+16C	.	.	.	.
+16A-	.	8aa-'	.	.
+16C	.	.	.	.
+16B-	.	8gg'J	.	.
+16CJJ	.	.	.	.
+=11	=11	=11	=11	=11
+16FFLL	.	8ff'L	.	.
+16C	.	.	.	.
+16A-	.	8cc'	.	.
+16C	.	.	.	.
+16B-	.	8dd-'J	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8cc'L	.	.
+16C	.	.	.	.
+16A-	.	8a-'	.	.
+16C	.	.	.	.
+16c	.	8f'J	.	.
+16CJJ	.	.	.	.
+!!LO:LB:g=original
+=12	=12	=12	=12	=12
+16FFLL\	.	2.c^^)	.	.
+16C	.	.	.	.
+16G	.	.	.	.
+16C	.	.	.	.
+16A-	.	.	.	.
+16CJJ	.	.	.	.
+16FFLL	.	.	.	.
+16C	.	.	.	.
+16B-	.	.	.	.
+16C	.	.	.	.
+16G	.	.	.	.
+16CJJ	.	.	.	.
+=13	=13	=13	=13	=13
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16A-	.	(8f'L	.	.
+16C	.	.	.	.
+16B-	.	8g'J)	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16c	.	(8a-'L	.	.
+16C	.	.	.	.
+16d-	.	8b-'J)	.	.
+16CJJ	.	.	.	.
+=14	=14	=14	=14	=14
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16c	.	(>8cc'L	.	.
+16C	.	.	.	.
+16B-	.	8dd-'J	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8cc'L	.	.
+16C	.	.	.	.
+16A-	.	8ccc'	.	.
+16C	.	.	.	.
+16c	.	8aa-'J	.	.
+16CJJ	.	.	.	.
+!!LO:PB:g=original
+=15	=15	=15	=15	=15
+16FFLL	.	8gg'L	.	.
+16C	.	.	.	.
+16B-	.	8cc'	.	.
+16C	.	.	.	.
+16G	.	8dd-'J	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8cc'>L	.	.
+16C	.	.	.	.
+16B-	.	8g'>	.	.
+16C	.	.	.	.
+16G	.	8c'>J	.	.
+16CJJ	.	.	.	.
+=16	=16	=16	=16	=16
+*ped	*	*	*	*
+.	.	.	.	.
+!LO:TX:b:t=P:pedał przed nutą:problem	!	!	!	!
+16FFLL	.	2.f^)	.	.
+16C	.	.	.	.
+16A-	.	.	.	.
+16C	.	.	.	.
+16c	.	.	.	.
+16CJJ	.	.	.	.
+16FFLL	.	.	.	.
+16C	.	.	.	.
+16A-	.	.	.	.
+16C	.	.	.	.
+16c	.	.	.	.
+16CJJ	.	.	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+=17	=17	=17	=17	=17
+*ped	*	*	*	*
+16FFLL	.	4.a-	.	p
+16Dn	2	.	.	<
+16A-	.	.	.	.
+16D	.	.	.	.
+*Xped	*	*	*	*
+16B-	.	.	.	.
+16DJJ	.	.	.	.
+.	.	8qb-/	.	.
+*ped	*	*	*	*
+16FFLL\	.	8a-L	.	.
+16BB-	3	.	.	.
+16A-	.	8.g	.	.
+16BB-	.	.	.	.
+16B-	.	.	.	.
+*Xped	*	*	*	*
+16BB-JJ	.	16a-Jk	.	.
+.	.	.	.	[
+!!LO:LB:g=original
+=18	=18	=18	=18	=18
+*	*	*ped	*	*
+16EE-LL\	.	(>4.b-	.	<
+16BB-	3	.	.	.
+16G-X	.	.	.	.
+16BB-	.	.	.	.
+16B-	.	.	.	.
+*	*	*Xped	*	*
+16BB-JJ	.	.	.	.
+*	*	*ped	*	*
+16EE-LL\	.	4.cc	.	.
+16AA-	.	.	.	.
+16G-	.	.	.	.
+16AA-	.	.	.	.
+16A-	.	.	.	.
+*	*	*Xped	*	*
+16AA-JJ	.	.	.	.
+=19	=19	=19	=19	=19
+*	*	*ped	*	*
+16DD-LL\	.	8dd-'L	.	f
+16AA-	3	.	.	.
+16F	.	8a-'	.	.
+16AA-	.	.	.	.
+16A-	.	8b-'J	.	.
+16AA-JJ	.	.	.	.
+16DD-LL\	.	8a-'L	.	.
+16AA-	.	.	.	.
+16F	.	8f'	.	.
+16AA-	.	.	.	.
+16A-	.	8d-'J	.	.
+*	*	*Xped	*	*
+16AA-JJ	.	.	.	.
+=20	=20	=20	=20	=20
+*ped	*	*	*	*
+16CCLL	.	4A-^>)	.	fz
+16AA-	.	.	.	.
+16E-	.	.	.	.
+16AA-	.	.	.	.
+16A-	.	8r	.	.
+16AA-JJ	.	.	.	.
+16CCLL	.	4r	.	.
+16AA-	.	.	.	.
+16E-	.	.	.	.
+16AA-	.	.	.	.
+!	!	!LO:TX:t=P:łuk przy 8e- skierowany w dół:problem	!	!
+16A-	.	(>8e-	.	.
+16AA-JJ	.	.	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+!!LO:LB:g=original
+=21	=21	=21	=21	=21
+*ped	*	*	*	*
+(16CC-XLL	.	4.ee-	.	p
+16GG-X	.	.	.	.
+16E-	.	.	.	.
+16GG-	.	.	.	.
+16G-X	.	.	.	.
+16GG-JJ)	.	.	.	.
+.	.	16qqee-/LL	.	.
+.	.	16qqff/JJ	.	.
+(16CC-LL	.	8ee-L	.	.
+16GG-	.	.	.	.
+16E-	.	8ddn	.	.
+16GG-	.	.	.	.
+16G-	.	8ee-J	.	.
+*Xped	*	*	*	*
+16GG-JJ)	.	.	.	.
+=22	=22	=22	=22	=22
+*ped	*	*	*	*
+(16CC-XLL	3	4.ff)	5	.
+16AA-	.	.	.	.
+16D-	.	.	.	.
+16AA-	.	.	.	.
+16A-	.	.	.	.
+*Xped	*	*	*	*
+16AA-JJ)	.	.	.	.
+*ped	*	*	*	*
+(16BBB-LL	.	[4.gg-X^	4	<
+16GG-X	3	.	.	.
+16D-	.	.	.	.
+16GG-	.	.	.	.
+16G-	.	.	.	.
+*Xped	*	*	*	*
+16GG-JJ)	.	.	.	.
+=23	=23	=23	=23	=23
+(16BBB-LL	.	(8gg-'L]	.	.
+16GG-X	.	.	.	.
+16D-	.	8dd-'	.	.
+!LO:TX:t=P:ligatura między 16GG-:problem	!	!	!	!
+[16GG-	.	.	.	.
+16G-X	.	8ee-'J	.	.
+16GG-JJ])	.	.	.	.
+!	!	!LO:TX:b:B:i:t=sempre ~	!	!
+(16BBB-LL	.	8dd-'L	.	.
+16GG-	.	.	.	.
+16D-	.	8b-'	.	.
+16GG-	.	.	.	.
+16G-	.	8g-X'J	.	.
+16GG-JJ)	.	.	.	.
+!!LO:LB:g=original
+=24	=24	=24	=24	=24
+*ped	*	*	*	*
+!	!	!LO:TX:t=P:łuk przy 8d- w dół:problem	!	!
+!	!	!LO:TX:b:B:i:t=stretto ~ 	!	!
+!LO:TX:t=P:pedał przed nutą:problem	!	!	!	!
+(16AAA-LL	.	8d-)	.	.
+16FF	.	.	.	.
+16D-	.	(>8dd-'L	.	.
+16FF	.	.	.	.
+16F	.	8ee-'J	.	.
+!	!	!LO:TX:b:B:i:t=e ~	!	!
+*Xped	*	*	*	*
+16FFJJ)	.	.	.	.
+*ped	*	*	*	*
+(16AAA-LL	.	8dd-'L	.	.
+16FF-X	.	.	.	.
+!	!	!LO:TX:b:B:i:t=piu ~	!	!
+16D-	.	8a-'	.	.
+16FF-	.	.	.	.
+16F-X	.	8f-X'J	.	.
+*Xped	*	*	*	*
+16FF-JJ)	.	.	.	.
+=25	=25	=25	=25	=25
+*ped	*	*	*	*
+(16AAA--LL	.	8d-)	.	f
+16FF-X	.	.	.	.
+16D-	.	(8d-'L 8dd-	.	.
+16FF-	.	.	.	.
+16F-X	.	8e-'J) 8ee-	.	.
+16FF-JJ)	.	.	.	.
+(16BBB-LL	.	8r	.	.
+16AA--	.	.	.	.
+16F-	.	(8f-X'L 8ff-X	.	.
+16AA--	.	.	.	.
+16A--	.	8g-X'J) 8gg-X	.	.
+*Xped	*	*	*	*
+16AA--JJ)	.	.	.	.
+=26	=26	=26	=26	=26
+*ped	*	*	*	*
+16BBBnLL	.	8r	.	.
+16GGn	.	.	.	.
+16En	.	(8gn'L 8ggn	.	.
+16GG	.	.	.	.
+*Xped	*	*	*	*
+!	!	!LO:TX:b:B:i:t=accelerando.	!	!
+16G	.	8an'J) 8aan	.	.
+16GGJJ	.	.	.	.
+*ped	*	*	*	*
+16CCLL	.	8r	.	.
+16GG	.	.	.	.
+16E	.	(8b-'L 8bb-	.	.
+16GG	.	.	.	.
+16G	.	8cc'J) 8ccc	.	.
+16PGGJJ	.	.	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+!!LO:LB:g=original
+=27	=27	=27	=27	=27
+*	*	*8va	*	*
+(16FF-XLL\	.	(8dd-L 8ddd-\	.	.
+16D-	.	.	.	.
+16B-	.	8ee-) 8eee-	.	.
+16D-)	.	.	.	<
+(16GG	.	(8ff-XJ 8fff-X\	.	.
+16F-XJJ	.	.	.	.
+16d-LL	.	8gg-XL) 8ggg-X	.	.
+16F-)	.	.	.	.
+(16D-	.	(8ggn 8gggn	.	.
+16G	.	.	.	.
+16f-X	.	8aanJ) 8aaan	.	.
+16GJJ)	.	.	.	.
+=28	=28	=28	=28	=28
+*	*	*X8va	*	*
+!	!	!LO:TX:a:B:i:t=loco.	!	!
+(16D-LL	.	(16b-LL 16bb-	.	ff
+16B-	.	16ccJJ 16ccc	.	.
+16g	.	4dd-) 4ddd-	.	.
+16B-)	.	.	.	.
+(16En	.	.	.	.
+16d-JJ	.	.	.	.
+*clefG2	*	*	*	*
+16b-LL	.	4r	.	.
+16d-	.	.	.	.
+16b-	.	.	.	.
+16d-	.	.	.	.
+16b-	.	8r	.	.
+16d-JJ)	.	.	.	.
+*clefF4	*	*	*	*
+!!LO:PB:g=original
+=29	=29	=29	=29	=29
+*ped	*	*	*	*
+16CLL	.	(8dd-'L 8ddd-	.	f
+16A-	3	.	.	.
+16f	.	8dd-' 8ddd-	.	]
+16A-	.	.	.	.
+16a-	.	8dd-'J) 8ddd-	.	.
+*Xped	*	*	*	*
+16A-JJ	.	.	.	.
+*ped	*	*	*	*
+16CLL	.	(4dd- 4ddd-	.	.
+.	.	.	.	>
+16G	4	.	.	.
+16en	.	.	.	.
+16G	.	.	.	.
+.	.	.	.	]
+16g	.	8cc) 8ccc	.	.
+*Xped	*	*	*	*
+16GJJ	.	.	.	.
+=30	=30	=30	=30	=30
+*	*	*ped	*	*
+16CLL	.	(8dd-'L	.	pp
+16A-	3	.	.	.
+16f	.	8dd-'	.	.
+16A-	.	.	.	.
+16a-	.	8dd-'J)	.	.
+*	*	*Xped	*	*
+16A-JJ	.	.	.	.
+*	*	*ped	*	*
+16CLL	.	(4dd-^	.	.
+16G	4	.	.	.
+16en	.	.	.	.
+16G	.	.	.	.
+16g	.	8cc)	.	.
+*	*	*Xped	*	*
+16GJJ	.	.	.	.
+=31	=31	=31	=31	=31
+!	!	!LO:TX:a:t=P:problem: pedalizacja pod 'stretto'	!	!
+*	*	*ped	*	*
+16CLL	.	(8bb-' 8b-L	.	.
+!LO:TX:a:B:i:t=stretto.	!	!	!	!
+16F	4	.	.	.
+16d-	.	8aa-' 8a-	.	.
+16F	.	.	.	.
+16f	.	8bb- 8b-J	.	.
+*	*	*Xped	*	*
+16FJJ	.	.	.	.
+*	*	*ped	*	*
+16CLL	.	4.cc') 4.ccc	.	.
+16G	4	.	.	.
+16en	.	.	.	.
+16G	.	.	.	.
+16g	.	.	.	.
+16GJJ	.	.	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+!!LO:LB:g=original
+=32	=32	=32	=32	=32
+*	*	*	*	*^
+*	*	*ped	*	*	*
+!	!	!	!	!	!LO:DY:b=2
+16CLL	.	(8b-L\	.	pp	f
+.	.	.	.	.	.
+16F	.	.	.	.	.
+16d-	.	8a-	.	.	.
+16F	.	.	.	.	.
+16f	.	8b-J	.	.	.
+*	*	*Xped	*	*	*
+16FJJ	.	.	.	.	.
+*	*	*ped	*	*	*
+16CLL	.	4.cc)	.	.	.
+16G	.	.	.	.	.
+16en	.	.	.	.	.
+16G	.	.	.	.	.
+16g	.	.	.	.	.
+*	*	*Xped	*	*	*
+16GJJ	.	.	.	.	.
+*	*	*	*	*v	*v
+=33	=33	=33	=33	=33
+*	*	*8va	*	*
+*	*	*ped	*	*
+!	!	!LO:TX:b:B:i:t=appassionato.	!	!
+16CLL	.	(40%3ddd-'L 40%3dddd-	.	f
+16A-	.	.	.	.
+!	!	!LO:TX:a:t=P:problem: '5' nad nutami	!	!
+.	.	40%3ddd-' 40%3dddd-	.	.
+16f	.	.	.	.
+.	.	40%3ddd-' 40%3dddd-	.	.
+16A-	.	.	.	.
+.	.	40%3ddd-' 40%3dddd-	.	.
+*	*	*X8va	*	*
+16a-	.	.	.	.
+*	*	*Xped	*	*
+!	!	!LO:TX:a:B:i:t=loco.	!	!
+.	.	40%3dd-'J) 40%3ddd-	.	.
+16A-JJ	.	.	.	.
+*	*	*ped	*	*
+16CLL	.	4dd-^< 4ddd-	.	.
+16G	.	.	.	.
+16en	.	.	.	.
+16G	.	.	.	.
+*	*	*Xped	*	*
+16g	.	8cc 8ccc	.	.
+16GJJ	.	.	.	.
+=34	=34	=34	=34	=34
+*	*	*ped	*	*
+16CLL	.	(40%3ddd-'L	.	pp
+16A-	.	.	.	.
+.	.	40%3ddd-'	.	.
+!LO:TX:a:t=P:problem: '5' nad nutami	!	!	!	!
+16f	.	.	.	.
+.	.	40%3ddd-'	.	.
+16A-	.	.	.	.
+.	.	40%3ddd-'	.	.
+16a-	.	.	.	.
+*	*	*Xped	*	*
+.	.	40%3dd-'J)	.	.
+16A-JJ	.	.	.	.
+*	*	*ped	*	*
+16CLL	.	4dd-^	.	.
+16G	.	.	.	.
+16en	.	.	.	.
+16G	.	.	.	.
+16g	.	8cc	.	.
+*	*	*Xped	*	*
+16GJJ	.	.	.	.
+!!LO:LB:g=original
+=35	=35	=35	=35	=35
+*	*	*ped	*	*
+16CLL	.	(40%3b-L 40%3bb-	.	f
+16F	.	.	.	.
+.	.	40%3cc 40%3ccc	.	.
+16d-	.	.	.	.
+!	!	!LO:TX:a:t=P:problem: '5' nad nutami	!	!
+.	.	40%3b- 40%3bb-	.	.
+16F	.	.	.	.
+.	.	40%3a- 40%3aa-	.	.
+16f	.	.	.	.
+.	.	40%3b-J) 40%3bb-	.	.
+*	*	*Xped	*	*
+16FJJ	.	.	.	.
+*	*	*ped	*	*
+16CLL	.	4.cc 4.ccc	.	.
+16G	.	.	.	.
+16en	.	.	.	.
+16G	.	.	.	.
+16g	.	.	.	.
+*	*	*Xped	*	*
+16GJJ	.	.	.	.
+=36	=36	=36	=36	=36
+*	*	*ped	*	*
+!	!	!LO:TX:a:B:i:t=poco rallent.	!	!
+16CLL	.	(40%3b-L	.	pp
+16F	.	.	.	.
+.	.	40%3cc	.	.
+16d-	.	.	.	.
+!	!	!LO:TX:a:t=P:problem: '5' nad nutami	!	!
+.	.	40%3b-	.	.
+16F	.	.	.	.
+.	.	40%3a-	.	.
+16f	.	.	.	.
+.	.	40%3b-J)	.	.
+*	*	*Xped	*	*
+16FJJ	.	.	.	.
+*	*	*ped	*	*
+16CLL	.	4.cc	.	.
+16G	.	.	.	.
+16en	.	.	.	.
+16G	.	.	.	.
+16g	.	.	.	.
+16GJJ	.	.	.	.
+=37	=37	=37	=37	=37
+!LO:TX:b:B:i:t=sempre legato.	!	!LO:TX:a:B:i:t=a Tempo.	!	!
+!	!	!LO:TX:b:B:i:t=sempre agitato.	!	!
+(16FFLL	.	8r	.	.
+16C	4	.	.	.
+16A-	.	(8f'L	.	.
+16C	.	.	.	.
+16B-	.	8g'J)	.	.
+16CJJ)	.	.	.	.
+(16FFLL	.	8r	.	.
+16C	.	.	.	.
+16c	.	(8a-'L	.	.
+16C	.	.	.	.
+16d-	.	8b-'J)	.	.
+16CJJ)	.	.	.	.
+!!LO:LB:g=original
+=38	=38	=38	=38	=38
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16c	.	(>8cc'L	.	<
+16C	.	.	.	.
+16B-	.	8dd-MJ	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8cc'L	.	.
+16C	.	.	.	.
+16A-	.	8aa-'	.	.
+16C	.	.	.	.
+16B-	.	8gg'J	.	[[
+16CJJ	.	.	.	.
+=39	=39	=39	=39	=39
+16FFLL	.	8ff'L	.	.
+16C	.	.	.	.
+16A-	.	8cc'	.	.
+16C	.	.	.	.
+16B-	.	8dd-MJ	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8cc'L	.	.
+16C	.	.	.	.
+16A-	.	8a-'	.	.
+16C	.	.	.	.
+16c	.	8f'J	.	.
+16CJJ	.	.	.	.
+=40	=40	=40	=40	=40
+(16FFLL\	.	2.c^>)	.	.
+16C	.	.	.	.
+16G	.	.	.	.
+16C	.	.	.	.
+16A-	.	.	.	.
+16CJJ)	.	.	.	.
+(16FFLL	.	.	.	.
+16C	.	.	.	.
+16B-	.	.	.	.
+16C	.	.	.	.
+16G	.	.	.	.
+16CJJ)	.	.	.	.
+!!LO:LB:g=original
+=41	=41	=41	=41	=41
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16A-	.	(8f'L	.	.
+16C	.	.	.	.
+16B-	.	8g'J)	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16c	.	(8a-'L	.	.
+16C	.	.	.	.
+16d-	.	8b-'J)	.	.
+16CJJ	.	.	.	.
+=42	=42	=42	=42	=42
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16c	.	(8cc'L	.	.
+16C	.	.	.	.
+16B-	.	8dd-'J	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8cc'L	.	.
+16C	.	.	.	.
+16A-	.	8ccc'	.	.
+16C	.	.	.	.
+16c	.	8aa-'J	.	.
+16CJJ	.	.	.	.
+=43	=43	=43	=43	=43
+16FFLL/	.	8gg'L	.	.
+16C	.	.	.	.
+16B-	.	8cc'	.	.
+16C	.	.	.	.
+16G	.	8dd-'J	.	.
+16CJJ	.	.	.	.
+16FFLL>	.	8cc')	.	.
+16C	.	.	.	.
+16B-	.	(>8g'L	.	.
+16C	.	.	.	.
+16G	.	8c'J	.	.
+!	!	!LO:TX:a:t=P:łuk do 16f, 16g i 2a- w dół:problem	!	!
+16CJJ	.	.	.	.
+!!LO:LB:g=original
+=44	=44	=44	=44	=44
+*	*	*	*	*^
+!	!	!	!	!LO:HP:a	!
+16FFLL	.	16fLL	.	<	<
+16C-X	.	16gJJ	.	.	.
+16A-	.	2a-)	.	.	.
+16C-	.	.	.	[	[
+*	*	*	*	*v	*v
+16d-	.	.	.	.
+16C-JJ	.	.	.	.
+16FFLL	.	.	.	.
+16C-	.	.	.	.
+16A-	.	.	.	.
+16C-	.	.	.	.
+16d-	.	8r	.	.
+16C-JJ	.	.	.	.
+=45	=45	=45	=45	=45
+!	!	!LO:TX:a:B:i:t=con forza.	!	!
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16A-	.	(8f'L 8ff	.	.
+16C	.	.	.	.
+16B-	.	8g'J) 8gg	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8r	.	.
+16C	4	.	.	.
+16c	.	(8a-'L 8aa-	.	.
+16C	.	.	.	.
+16d-	.	8b-'J) 8bb-	.	.
+16CJJ	.	.	.	.
+=46	=46	=46	=46	=46
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16c	.	(8cc'L 8ccc	.	<
+16C	.	.	.	.
+16B-	.	8dd-'J 8ddd-	.	.
+16CJJ	.	.	.	.
+16FFLL	.	8cc'L 8ccc	.	[[
+16C	.	.	.	.
+16A-	.	8aa-' 8aaa-	.	.
+16C	.	.	.	.
+16B-	.	8gg'J 8ggg	.	.
+16CJJ	.	.	.	.
+=47	=47	=47	=47	=47
+16FFLL	.	8ff'L 8fff	.	.
+16C	.	.	.	.
+16A-	.	8cc' 8ccc	.	.
+16C	.	.	.	.
+16B-	.	8dd-'J 8ddd-	.	>
+16CJJ	.	.	.	.
+16FFLL	.	8cc'L 8ccc	.	]
+16C	.	.	.	.
+16A-	.	8a-' 8aa-	.	.
+16C	.	.	.	.
+16c	.	8f'J 8ff	.	.
+16CJJ	.	.	.	.
+!!LO:PB:g=original
+=48	=48	=48	=48	=48
+!	!	!LO:TX:t=P:brak zakończenia łuku w źródle:problem	!	!
+16FFLL\	.	2.c) 2.cc	.	fz
+16C	4	.	.	.
+16G	.	.	.	.
+16C	.	.	.	.
+16A-	.	.	.	.
+16CJJ	.	.	.	.
+16FFLL	.	.	.	.
+16C	.	.	.	.
+16B-	.	.	.	.
+16C	.	.	.	.
+16G	.	.	.	.
+16CJJ	.	.	.	.
+=49	=49	=49	=49	=49
+*	*	*ped	*	*
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16An	.	(8f'L 8ff	.	.
+16C	.	.	.	.
+16B-	.	8g'J) 8gg	.	.
+*	*	*Xped	*	*
+16CJJ	.	.	.	<
+*	*	*ped	*	*
+16FFLL	.	8r	.	.
+16C	.	.	.	.
+16c	.	(8an'L 8aan	.	.
+16C	.	.	.	.
+16d-	.	8b-'J) 8bb-	.	.
+*	*	*Xped	*	*
+16CJJ	.	.	.	.
+=50	=50	=50	=50	=50
+*	*	*ped	*	*
+16FFLL	.	8r	.	.
+16G-X	3	.	.	.
+16e-	.	(8ccL 8ccc	.	<
+16G-	4	.	.	.
+16f	.	8dd-J 8ddd-	.	.
+*	*	*Xped	*	*
+16G-JJ	.	.	.	.
+*	*	*ped	*	*
+16FFLL	.	4.ee-) 4.eee-	.	[[
+16G-	3	.	.	.
+16g-	.	.	.	.
+16G-	4	.	.	.
+16g-	.	.	.	.
+*	*	*Xped	*	*
+16G-JJ	.	.	.	.
+!!LO:LB:g=original
+=51	=51	=51	=51	=51
+*	*	*ped	*	*
+!	!	!LO:TX:b:B:i:t=cres ~	!	!
+16FFLL	.	8r	.	.
+16Dn	2	.	.	.
+16A-	.	(8bn'L 8bbn	.	.
+16D	.	.	.	.
+16An	.	8cc'J) 8ccc	.	.
+*	*	*Xped	*	*
+!	!	!LO:TX:b:B:i:t=cen ~	!	!
+16DJJ	.	.	.	.
+*	*	*ped	*	*
+16FFLL	.	8r	.	.
+16D	2	.	.	.
+16Bn	.	(8ddn'L 8dddn	.	.
+16D	4	.	.	.
+!	!	!LO:TX:b:B:i:t=do	!	!
+16c#X	.	8een'J) 8eeen	.	.
+*	*	*Xped	*	*
+16DJJ	.	.	.	.
+=52	=52	=52	=52	=52
+!	!	!LO:TX:b:B:i:t=e	!	!
+*	*	*ped	*	*
+16FFLL	.	8r	.	.
+16Dn	4	.	.	.
+!	!	!LO:TX:b:B:i:t=stretto.	!	!
+16dn	.	(8fff\L 8ff	.	.
+16D	.	.	.	.
+16en	.	8ggg\J 8gg	.	.
+*	*	*Xped	*	*
+16DJJ	.	.	.	.
+*	*	*ped	*	*
+16FFLL	.	4.aaa-) 4.aa-	.	.
+16D	4	.	.	.
+16f	.	.	.	.
+16D	4	.	.	.
+16f	.	.	.	.
+*	*	*Xped	*	*
+16DJJ	.	.	.	.
+=53	=53	=53	=53	=53
+*	*	*ped	*	*
+16FFLL	.	8r	.	.
+!	!	!LO:TX:b:B:i:t=sempre piu. ~ ~ ~	!	!
+16D-X	3	.	.	.
+16B-	.	(>8enL 8een/	.	.
+16D-	.	.	.	.
+16d-	.	8fJ 8ff/	.	.
+16D-JJ	.	.	.	.
+16FFLL	.	8a-L 8aa-	.	.
+16D-	.	.	.	.
+16B-	.	8g 8gg	.	.
+16D-	.	.	.	.
+16d-	.	8a-J 8aa-	.	.
+16D-JJ	.	.	.	.
+!!LO:LB:g=original
+=54	=54	=54	=54	=54
+16FFLL	.	8ccL 8ccc	.	<
+16D-	.	.	.	.
+16B-	.	8b- 8bb-	.	.
+16D-	.	.	.	.
+!LO:TX:a:B:i:t=e	!	!	!	!
+16d-	.	8ccJ 8ccc	.	.
+!LO:TX:a:B:i:t=accelerando.	!	!	!	!
+16D-JJ	.	.	.	.
+16FFLL	.	8ee-L 8eee-	.	.
+16D-	.	.	.	.
+16B-	.	8dd- 8ddd-	.	.
+16D-	.	.	.	.
+16d-	.	8ee-J 8eee-	.	.
+16D-JJ	.	.	.	.
+=55	=55	=55	=55	=55
+16FFLL	.	8ffL 8fff	.	<
+16D-	.	.	.	.
+16B-	.	8een 8eeen	.	.
+16D-	.	.	.	.
+16d-	.	8ffJ 8fff	.	.
+16D-JJ	.	.	.	.
+*	*	*8va	*	*
+16FFLL	.	8aa-L 8aaa-	.	.
+16D-	.	.	.	.
+16B-	.	8gg 8ggg	.	.
+16D-	.	.	.	.
+16d-	.	8aa-J 8aaa-	.	[
+16D-JJ	.	.	.	.
+=56	=56	=56	=56	=56
+16FFLL	.	16aanLL 16aaan	.	.
+16D-	.	16bb-JJ 16bbb-	.	.
+16B-	.	2ddd-) 2dddd-	.	fz
+*	*	*X8va	*	*
+16D-	.	.	.	.
+16d-	.	.	.	.
+16D-JJ	.	.	.	.
+16FFLL	.	.	.	.
+16D-	.	.	.	.
+16B-	.	.	.	p
+16D-	.	.	.	.
+!	!	!LO:TX:a:B:i:t=loco.	!	!
+16d-	.	(8en 8een\	.	.
+*	*	*Xped	*	*
+16D-JJ	.	.	.	.
+=57	=57	=57	=57	=57
+*	*	*ped	*	*
+!	!	!LO:TX:b:B:i:t=sotto voce.	!	!
+16FFLL	.	8g'>L 8gg'>	.	.
+16D-	.	.	.	.
+16B-	.	8g'> 8gg'>	.	.
+16D-	.	.	.	.
+16d-	.	8g'>J 8gg'>	.	.
+*	*	*Xped	*	*
+16D-JJ	.	.	.	.
+*	*	*ped	*	*
+16FFLL	.	4g 4gg	.	.
+16C	4	.	.	.
+16A-	.	.	.	.
+16C	.	.	.	.
+16c	.	8f) 8ff	.	.
+*	*	*Xped	*	*
+16CJJ	.	.	.	.
+!!LO:LB:g=original
+=58	=58	=58	=58	=58
+*	*	*ped	*	*
+16FFLL	.	(<8g'L	.	pp
+16D-	.	.	.	.
+16B-	.	8g'	.	.
+16D-	.	.	.	.
+16d-	.	8g'J)	.	.
+*	*	*Xped	*	*
+16D-JJ	.	.	.	.
+*	*	*ped	*	*
+16FFLL	.	(4g^	.	.
+16C	.	.	.	.
+16A-	.	.	.	.
+16C	.	.	.	.
+16c	.	8f)	.	.
+*	*	*Xped	*	*
+16CJJ	.	.	.	.
+=59	=59	=59	=59	=59
+*	*	*ped	*	*
+16FFLL	.	(>8een'L 8en	.	p<
+16D-	.	.	.	.
+16B-	.	8dd#X' 8d#X	.	.
+16D-	.	.	.	.
+16d-	.	8e'J 8ee	.	[[
+*	*	*Xped	*	*
+16D-JJ	.	.	.	.
+*	*	*ped	*	*
+!	!	!LO:TX:b:B:i:t=ten.	!	!
+16FFLL	.	4.ff) 4.f/	.	.
+16C	.	.	.	.
+16A-	.	.	.	.
+16C	.	.	.	.
+16c	.	.	.	.
+*	*	*Xped	*	*
+16CJJ	.	.	.	.
+=60	=60	=60	=60	=60
+*	*	*ped	*	*
+!	!	!LO:TX:a:B:i:t=smorz.	!	!
+16FFLL	.	(8enL	.	.
+16D-	.	.	.	.
+16B-	.	8d#X	.	.
+16D-	.	.	.	.
+16d-	.	8eJ	.	.
+*	*	*Xped	*	*
+16D-JJ	.	.	.	.
+*	*	*ped	*	*
+16FFLL	.	4.f)	.	.
+16C	.	.	.	.
+16A-	.	.	.	.
+16C	.	.	.	.
+16c	.	.	.	.
+*	*	*Xped	*	*
+16CJJ	.	.	.	.
+!!LO:LB:g=original
+=61	=61	=61	=61	=61
+*	*	*ped	*	*
+16FFLL	.	(20ggLL 20ggg	.	f
+.	.	20gg 20ggg	.	.
+16D-	.	.	.	.
+!	!	!LO:TX:a:t=P:problem:'5' nad nutami	!	!
+.	.	20gg 20ggg	.	.
+16B-	.	.	.	.
+.	.	20gg 20ggg	.	.
+16D-	.	.	.	.
+.	.	20ggJJ) 20ggg	.	.
+16d-	.	16ggLL 16ggg	.	.
+*	*	*Xped	*	*
+*	*	*X8va	*	*
+16D-JJ	.	32r	.	.
+.	.	32gJJk 32gg	.	.
+*	*	*ped	*	*
+16FFLL	.	4g^< 4gg	.	.
+16C	.	.	.	.
+16A-	.	.	.	.
+16C	.	.	.	.
+16c	.	8f 8ff	.	.
+*	*	*Xped	*	*
+16CJJ	.	.	.	.
+=62	=62	=62	=62	=62
+*	*	*ped	*	*
+16FFLL	.	(20ggLL	.	pp
+.	.	20gg	.	.
+16D-	.	.	.	.
+!	!	!LO:TX:a:t=P:problem:'5' nad nutami	!	!
+.	.	20gg	.	.
+16B-	.	.	.	.
+.	.	20gg	.	.
+16D-	.	.	.	.
+.	.	20ggJJ)	.	.
+16d-	.	16ggLL	.	.
+*	*	*Xped	*	*
+16D-JJ	.	32r	.	.
+.	.	32gJJk	.	.
+*	*	*ped	*	*
+16FFLL	.	4g^	.	.
+16C	.	.	.	.
+16A-	.	.	.	.
+16C	.	.	.	.
+16c	.	8f	.	.
+*	*	*Xped	*	*
+16CJJ	.	.	.	ff
+=63	=63	=63	=63	=63
+*	*	*ped	*	*
+!	!	!LO:TX:b:B:i:t=riten.	!	!
+16FFLL	.	(16en'LL 16een	.	.
+16D-	.	16f' 16ff	.	.
+16B-	.	16g' 16gg	.	.
+16D-	.	16a-' 16aa-	.	.
+16d-	.	16b-' 16bb-	.	.
+*	*	*Xped	*	*
+16D-JJ	.	16a-'JJ 16aa-	.	.
+*	*	*ped	*	*
+16FFLL	.	4.f) 4.ff'>	.	.
+16C	.	.	.	.
+16A-	.	.	.	.
+16C	.	.	.	.
+16c	.	.	.	.
+*	*	*Xped	*	*
+16CJJ	.	.	.	.
+!!LO:LB:g=original
+=64	=64	=64	=64	=64
+*	*	*ped	*	*
+16FFLL	.	(16en'LL	.	pp
+16D-	.	16f'	.	.
+16B-	.	16g'	.	.
+16D-	.	16a-'	.	.
+16d-	.	16b-'	.	.
+16D-JJ	.	16a-'JJ)	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+16FFLL	.	4.f	.	.
+*	*	*ped	*	*
+16C	.	.	.	.
+16A-	.	.	.	.
+16C	.	.	.	.
+16c	.	.	.	.
+16CJJ	.	.	.	.
+=65	=65	=65	=65	=65
+!	!	!LO:TX:b:B:i:t=leggierissimo.	!	!
+*	*	*8va	*	*
+!	!	!LO:TX:t=P:nuty pod przenośnikiem wyświetlają się o oktawę za wysoko:problem	!	!
+8FF	.	16bbb-LL	.	ppp
+.	.	16ccc	.	.
+8r	.	16aaa-	.	.
+.	.	16ccc	.	.
+*clefG2	*	*	*	*
+16ddd-LL	.	16bbb-	.	.
+16ffJJ	.	16cccJJ	.	.
+16ddd-LL	.	16aaa-LL	.	.
+16ff	.	16ccc	.	.
+16ddd-	.	16bbb-	.	.
+16ff	.	16ccc	.	.
+16ddd-	.	16aaa-	.	.
+16ffJJ	.	16cccJJ	.	.
+=66	=66	=66	=66	=66
+!	!	!LO:TX:b:B:i:t=smorz.	!	!
+16bb-LL	.	16gggLL	.	.
+16ff	.	16aa-	.	.
+16bb-	.	16fff	.	.
+16ffJJ	.	16aa-JJ	.	.
+16bb-LL	.	16gggLL	.	.
+16ff	.	16aa-	.	.
+16bb-	.	16fff	.	.
+16ffJJ	.	16aa-JJ	.	.
+16bb-LL	.	16gggLL	.	.
+16ff	.	16aa-	.	.
+16bb-	.	16fff	.	.
+16ffJJ	.	16aa-JJ	.	.
+=67	=67	=67	=67	=67
+8f	.	8ffff	.	.
+*	*	*X8va	*	*
+*	*	*Xped	*	*
+8r	.	8r	.	.
+4r	.	4r	.	.
+4r	.	4r	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cres.", fontstyle="bold-italic"
+!!!ENC: Emilia Ziętek
+!!!END: 2018-10-03
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: revision finished 2018-10-23
+!!!rism-genre: Etude
+!!!rism-key: F minor
+!!!rism-opus: op.  10, no. 9
+!!!rism-title: Etude in F minor op.  10, no. 9
+!!!rism-permalink: https://opac.rism.info/search?id=1001001252&View=rism
+!!!rism-773a-OPR: 1001001192
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001001192&View=rism

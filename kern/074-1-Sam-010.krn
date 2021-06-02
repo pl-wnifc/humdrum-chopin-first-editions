@@ -1,0 +1,588 @@
+!!!!SEGMENT: 074-1-Sam-010.krn
+!!!COM: Fryderyk Chopin
+!!!OTL: Wojak
+!!!OPS: Op. 74
+!!!PTL: 16 | Polnische Lieder | von Witwicki, Zaleski Mickiewicz etc. | für eine Singstimme | mit Begleitung des Pianoforte
+!!!PPR: Schlesinger
+!!!PPP: Berlin
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: PL-Wbfc 6138/n
+!!!OMD: Vivace.
+!!!OMD: M. M. [quarter-dot] = 96.
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff2	*	*staff1	*	*
+*I"PIANO.	*	*	*I"SINGSTIMME.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[b-e-a-d-]	*k[b-e-a-d-]	*	*k[b-e-a-d-]	*	*
+*A-:	*A-:	*	*A-:	*	*
+*M6/8	*M6/8	*	*M6/8	*	*
+*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1
+!LO:TX:t=P:nie wyświetla się "Vivace.":problem	!	!LO:DY:rj	!	!	!
+2.rF	8.b-L 8.e-	f	2.rdd	.	.
+.	16b-k 16e-	.	.	.	.
+.	8b-J 8e-	.	.	.	.
+.	8.ccL 8.a-	.	.	.	.
+.	16b-k 16e-	.	.	.	.
+.	8a-J 8c	.	.	.	.
+=2	=2	=2	=2	=2	=2
+.	8qb- 8qe-	.	.	.	.
+2.rF	2.ee-^>	.	2.rdd	.	.
+=3	=3	=3	=3	=3	=3
+2.rF	8.b-L 8.e-	.	2.rdd	.	.
+.	16b-k 16e-	.	.	.	.
+.	8b-J 8e-	.	.	.	.
+.	8.ccL 8.a-	.	.	.	.
+.	16b-k 16e-	.	.	.	.
+.	8a-J 8c	.	.	.	.
+=4	=4	=4	=4	=4	=4
+.	8qb- 8qe-	.	.	.	.
+2.rF	2.ee-^>	.	2.rdd	.	.
+=5	=5	=5	=5	=5	=5
+2.rF	8.b-L 8.e-	.	2.rdd	.	.
+.	16b-k 16e-	.	.	.	.
+.	8b-J 8e-	.	.	.	.
+.	8.ccL 8.a-	<	.	.	.
+.	16b-k 16e-	.	.	.	.
+.	8a-J 8c	.	.	.	.
+=6	=6	=6	=6	=6	=6
+2.rF	8.b-L 8.e-	.	2.rdd	.	.
+.	16b-k 16e-	.	.	.	.
+.	8b-J 8e-	.	.	.	.
+.	8.ccL 8.a-	.	.	.	.
+.	16b-k 16e-	.	.	.	.
+.	8a-J 8c	.	.	.	.
+=7	=7	=7	=7	=7	=7
+!	!LO:TX:b:i:t=accell_:dur=6q:ext=ud:problem:text with line extensions	!	!	!	!
+8B-L 8E-	8b-L 8g 8e- 8d-	.	2.rdd	.	.
+8r	8r	.	.	.	.
+8B-J 8E-	8b-J 8g 8e- 8d-	.	.	.	.
+8B-L 8E-	8b-L 8g 8e- 8d-	.	.	.	.
+8r	8r	.	.	.	.
+8B-J 8E-	8b-J 8g 8e- 8d-	.	.	.	.
+!!LO:LB:g=original
+=8	=8	=8	=8	=8	=8
+8E-L 8EE-	8b-L 8g 8e- 8d-	.	2.rdd	.	.
+8r	8r	.	.	.	.
+8E-J 8EE-	8bnJ 8g 8e- 8d-	.	.	.	.
+!	!	!LO:DY:a	!	!	!
+8E-L 8EE-	4cc 4g 4e- 4d-	.	.	.	.
+8E- 8EE-	.	.	.	.	.
+8E-J 8EE-	8b-X 8g 8e- 8d-	.	.	.	.
+=9||	=9||	=9||	=9||	=9||	=9||
+!!!OMD: Vivacissimo. [quarter-dot] = 160.
+8AA-L	4a- 4c	ff	2.rdd	.	.
+8A-	.	.	.	.	.
+8E-J	8e-	.	.	.	.
+!	!	!LO:DY:rj	!	!	!
+8AA-L	8cL	p	.	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	.	.	.
+=10	=10	=10	=10	=10	=10
+8AA-L	8cL	.	2.rdd	.	.
+8A-	8f	.	.	.	.
+8E-J	8e-J	.	.	.	.
+8AA-L	8cL	<	.	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	.	.	.
+=11	=11	=11	=11	=11	=11
+8AA-L	8cL	<	2.rdd	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	.	.	.
+8AA-L	8a-L 8c	.	.	.	.
+8A-	8e-	.	.	.	.
+8E-J	8ccJ	[	.	.	.
+=12	=12	=12	=12	=12	=12
+8AA-L	8b-L 8d-	ff	2.rdd	.	.
+8G	8e-	.	.	.	.
+8E-J	8ee-J	.	.	.	.
+8AA-L	4ee-/ 4cc/ 4e-/	.	.	.	.
+8A-	.	.	.	.	.
+8E-J	8e-	.	.	.	.
+=13	=13	=13	=13	=13	=13
+8AA-L	8cL	p	2.rdd	.	.
+8A-	8f	.	.	.	.
+8E-J	8e-J	.	.	.	.
+8AA-L	8cL	.	.	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	.	.	.
+=14	=14	=14	=14	=14	=14
+8AA-L	8cL	.	2.rdd	.	.
+8A-	8f	.	.	.	.
+8E-J	8e-J	.	.	.	.
+8AA-L	8cL	.	.	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	.	.	.
+!!LO:LB:g=original
+=15	=15	=15	=15	=15	=15
+!LO:TX:a:i:t=rallentando.	!	!	!	!	!
+8AA-L	8cL	.	2.rdd	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	.	.	.
+8AA-L	8a-L 8c	.	.	.	.
+8A-	8e-	.	.	.	.
+8E-J	8ccJ	.	.	.	.
+=16	=16	=16	=16	=16	=16
+8AA-L	8b-L 8d-	>	2.rdd	.	.
+8G	8e-	.	.	.	.
+8E-J	8ccJ	.	.	.	.
+8AA-L	8b-L 8d-	.	.	.	.
+8G	8e-	.	.	.	.
+8E-J	8ccJ	]	.	.	.
+!LO:TX:b:t=𝄋	!LO:TX:a:t=𝄋	!	!LO:TX:a:t=𝄋	!	!
+=17||	=17||	=17||	=17||	=17||	=17||
+!!!OMD: Meno mosso. [quarter-dot] = 120.
+*	*	*	*	*^	*
+*	*	*	*	*	*^	*
+8AA-L	8a-L 8c	.	4a-	Stampfst	Wie	Schnell	.
+8A-	8e-	.	.	.	.	.	.
+8E-J	8ccJ	.	8a-	du,	die	mein	.
+8D-L	8a-L 8d-	<	4g	Ross,	Winds-	Pferd-	.
+8A-	8f	.	.	.	.	.	.
+8FJ	8dd-J	.	8f	schon	-braut	-chen,	.
+=18	=18	=18	=18	=18	=18	=18	=18
+8BB-L	8b-L 8d-	.	4b-	kamp-	her-	im-	.
+8B-	8f	.	.	.	.	.	.
+8FJ	8dd-J	.	8b-	-fes-	-ge-	-mer	.
+!LO:TX:a:i:t=agitato.	!	!	!	!	!	!	!
+.	.	.	.	.	.	.	.
+8E-L	8b-L 8e-	.	4a-	-mu-	-zo-	schnel-	.
+8B-	8g	.	.	.	.	.	.
+8GJ	8ee-J	.	8g	-thig?	-gen,	-ler,	.
+=19	=19	=19	=19	=19	=19	=19	=19
+8CL	8ccL/< 8e-/	.	4cc	weisst	Fein-	wenn	.
+8c	8g/	.	.	.	.	.	.
+8GJ	8ee-J/	.	8cc	wohl	-de,	ich	.
+8FL	8cc/L 8f/	.	4b-	dass	kom-	ster-	.
+8c	8a-	.	.	.	.	.	.
+8A-J	8ffJ	.	8a-/	es	-men	-ben	.
+=20	=20	=20	=20	=20	=20	=20	=20
+!	!	!	!	!	!	!	!LO:DY:a
+!	!	!	!	!	!	!	!LO:DY:rj
+*ped	*	*	*	*	*	*	*
+!	!LO:TX:t=P:nie wyświetla się "sff":problem	!	!LO:N:vis=4	!	!	!	!
+4.d- 4.A- 4.F-X 4.BB-	4.ff-X 4.b- 4.a- 4.f-X	sf	4.dd-;	Zeit?	wir,	muss:	ff
+4r	4r	.	4r	.	.	.	.
+*Xped	*	*	*	*	*	*	*
+8r	8r	.	8r	.	.	.	.
+!!LO:PB:g=original
+=21	=21	=21	=21	=21	=21	=21	=21
+!	!	!	!	!	!	!	!LO:DY:a
+!	!	!	!LO:TX:i:a:t=espressivo.	!	!	!	!
+4E-	8r	p	4b-	Le-	in	lauf	.
+.	8ee-L 8b- 8g	.	.	.	.	.	.
+8r	8e-J	.	8b-	-bet	der	al-	.
+4A-	8r	.	4cc	wohl	Faust	-lein	.
+.	8ccL 8a- 8g-X	.	.	.	.	.	.
+8r	8e-J	.	8cc	ihr	die	zum	.
+=22	=22	=22	=22	=22	=22	=22	=22
+!	!LO:TX:b:t=cresc _ :problem:dynamics with line extensions	!	!	!	!	!	!
+!	!	!	!LO:HP:b:i:t=cresc:ext=ud	!	!	!	!
+4D-	8r	<	4dd-	El-	blan-	Va-	.
+.	8dd-L 8a- 8f	.	.	.	.	.	.
+8r	8d-J	.	8f	-tern,	-ke	-ter-	.
+4D-	8r	.	4cc	Schwes-	Klin-	-hau-	.
+.	8dd-L 8b- 8f-X	.	.	.	.	.	.
+8r	8d-J	.	8b-	-tern,	-ge,	-se	.
+=23	=23	=23	=23	=23	=23	=23	=23
+4E-	8r	.	(<8a-L	auf	zit-	bring'-	.
+.	8ccL 8a- 8e-	.	8gJ	.	.	.	.
+8r	8cJ	.	8a-	zum	-tern	-den	.
+!	!	!	!	!	!	!	!LO:DY:a
+!	!	!	!	!	!	!	!LO:HP:a
+4E-	8r	.	4an	blut'-	sol-	letz-	<
+.	8b-L 8g 8e-	.	.	.	.	.	.
+8r	8B-J	[[	8b-\)	-gen	-let	-ten	[[
+=24	=24	=24	=24	=24	=24	=24	=24
+!	!	!	!	!	!	!	!LO:HP:a
+8Dn\ 8DDn\L	8r	.	2.ff	Streit,	ihr,	Gruss,	>
+!	!	!LO:DY:rj	!	!	!	!	!
+8B-L 8D	8b-L 8a- 8f	f	.	.	.	.	.
+8B-J 8DJ	8b-J 8a- 8f	.	.	.	.	.	]
+8B-L 8DL	8b-L 8a- 8f	.	.	.	.	.	.
+8B- 8D	8b- 8a- 8f	.	.	.	.	.	.
+8B-J 8DJ	8b-J 8a- 8f	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+!	!	!LO:DY:rj	!	!	!	!	!
+4E-	8r	p	4b-	le-	in	lauf	[
+.	8b-L 8g 8e-	.	.	.	.	.	.
+8r	8d-XJ	.	8b-	-bet	der	al-	.
+4AA-	8r	.	4cc	wohl	Faust	-lein	.
+.	8ccL 8a- 8g-X	.	.	.	.	.	.
+8r	8e-J	.	8cc	ihr	die	zum	.
+!!LO:LB:g=original
+=26	=26	=26	=26	=26	=26	=26	=26
+!LO:TX:a:t=cresc _ :problem:dynamics with line extensions	!	!	!	!	!	!	!
+!	!	!LO:HP:i:b:t=cresc:ext=ud	!	!	!	!	!
+4.D-	8r	<	4dd-	El-	blan-	Va-	.
+.	8dd-L 8a- 8f	.	.	.	.	.	.
+.	8d-J	.	8f	-tern,	-ke	-ter-	.
+4.D-	8r	.	4cc	Schwes-	Klin-	-hau-	.
+.	8dd-L 8a- 8f-X	.	.	.	.	.	.
+.	8d-J	.	8b-	-tern,	-ge	-se	.
+=27	=27	=27	=27	=27	=27	=27	=27
+!	!	!	!LO:TX:a:t=cresc _ :problem:dynamics with line extensions	!	!	!	!
+!	!	!	!	!	!	!	!LO:HP:a:t=cresc:ext=ud
+4.E-	8r	.	8a-L	auf	zit-	bring'	<
+.	8ccL 8a- 8e-	.	8gJ	.	.	.	.
+.	8cJ	.	8a-	zum	-tern	den	.
+4.E-	8r	.	4cc	blut'-	sol-	letz-	.
+.	8ccL 8g 8e-	.	.	.	.	.	.
+.	8d-J	[	8b-	-gen	-let	-ten	[
+=28	=28	=28	=28	=28	=28	=28	=28
+!	!	!	!	!	!	!	!
+!	!	!	!	!	!	!	!LO:DY:a
+8E-L	8a-L 8e- 8c	.	2.ee-	Streit,	ihr,	Gruss,	.
+!	!	!LO:DY:rj	!	!	!	!	!
+8E-	8a- 8e- 8c	f	.	.	.	.	.
+8E-J	8a-J 8e- 8c	.	.	.	.	.	.
+8E-L	8anL 8f#X 8c	.	.	.	.	.	.
+8E-	8a 8f# 8c	.	.	.	.	.	.
+8E-J	8aJ 8f# 8c	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+!	!	!	!	!	!	!	!LO:DY:a
+!	!	!	!	!	!	!	!LO:DY:rj
+8E-L 8EE-	8b-L 8g 8e- 8d-	.	(4ff	auf	zit-	bring	.f
+8E- 8EE-	8b- 8g 8e- 8d-	.	.	.	.	.	.
+8E-J 8EE-	8b-J 8g 8e- 8d-	.	8ee-)	zum	-tern	den	.
+!	!	!	!	!	!	!	!LO:HP:a
+8E-L 8EE-	8b-L 8g 8e- 8d-	.	8dd-L	blut'-	sol-	letz-	>
+8E- 8EE-	8b- 8g 8e- 8d-	.	8ccJ	.	.	.	.
+8E-J 8EE-	8b-J 8g 8e- 8d-	.	8b-	-gen	-let	-tem	]]
+=30	=30	=30	=30	=30	=30	=30	=30
+8AA-L	4a- 4c	.	4.a-	Streit!	ihr!	Gruss!	.
+8A-	.	.	.	.	.	.	.
+8E-J	8e-	.	.	.	.	.	.
+8AA-L	8cL	p	4r	.	.	.	.
+8A-	16e-L	.	.	.	.	.	.
+.	16e-J	.	.	.	.	.	.
+8E-J	8e-J	.	8r	.	.	.	.
+*	*	*	*	*	*v	*v	*
+*	*	*	*	*v	*v	*
+!!LO:LB:g=original
+=31	=31	=31	=31	=31	=31
+8AA-L	8cL	.	2.rdd	.	.
+8A-	8f	.	.	.	.
+8E-J	8e-J	.	.	.	.
+!	!LO:TX:b:t=cresc _ :problem:dynamics with line extensions	!	!	!	!
+!	!	!LO:HP:i:b:t=cresc:ext=ud	!	!	!
+8AA-L	8cL	<	.	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	.	.	.
+=32	=32	=32	=32	=32	=32
+8AA-L	8cL	.	2.rdd	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	.	.	.
+8AA-L	8a-L 8c	.	.	.	.
+8A-	8e-	.	.	.	.
+8E-J	8ccJ	[	.	.	.
+=33	=33	=33	=33	=33	=33
+8AA-L	8b-L 8d-	ff	2.rdd	.	.
+8G	8e-	.	.	.	.
+8E-J	8ee-J	.	.	.	.
+8AA-L	4ee-/ 4cc/ 4e-/	.	.	.	.
+8A-	.	.	.	.	.
+8E-J	8e-	.	.	.	.
+=34	=34	=34	=34	=34	=34
+8AA-L	8cL	p	2.rdd	.	.
+8A-	8f	.	.	.	.
+8E-J	8e-J	.	.	.	.
+8AA-L	8cL	.	.	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	.	.	.
+=35	=35	=35	=35	=35	=35
+8AA-L	8cL	.	2.rdd	.	.
+8A-	8f	.	.	.	.
+8E-J	8e-J	.	.	.	.
+8AA-L	8cL	.	.	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	.	.	.
+=36	=36	=36	=36	=36	=36
+8AA-L	8cL	<	2.rdd	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	.	.	.
+8AA-L	8a-L 8c	.	.	.	.
+!	!LO:TX:b:i:t=rall.	!	!	!	!
+8A-	8e-	.	.	.	.
+8E-J	8ccJ	[	.	.	.
+!LO:TX:b:i:t=Dal Segno.	!	!	!	!	!
+=37	=37	=37	=37	=37	=37
+8AA-L	8b-L 8d-	>	2.rdd	.	.
+8G	8e-	.	.	.	.
+8E-J	8ccJ	.	.	.	.
+8AA-L	8b-L 8d-	.	.	.	.
+8G	8e-	.	.	.	.
+8E-J	8ccJ	]	.	.	.
+!LO:TX:b:t=𝄋	!LO:TX:a:t=𝄋	!	!	!	!
+!!LO:PB:g=original
+==38|!	==38|!	==38|!	==38|!	==38|!	==38|!
+!	!	!	!LO:TX:a:t=DERNIER COUPLET.	!	!
+8AA-L	8a-L 8c	.	4a-	Sieg'	.
+8A-	8e-	.	.	.	.
+8E-J	8ccJ	.	8a-	die	.
+8D-L	8a-L 8d-	.	4g	wei-	.
+8A-	8f	.	.	.	.
+8FJ	8dd-J	.	8f	-ssen	.
+=39	=39	=39	=39	=39	=39
+8BB-L	8b-L/< 8d-/	<	4b-	Tü-	.
+8B-	8f/	.	.	.	.
+!	!	!	!LO:TX:a:i:t=agitato	!	!
+.	.	.	.	.	.
+8FJ	8dd-/J	.	8b-	-cher	.
+!	!LO:TX:b:i:t=e	!	!	!	!
+.	.	.	.	.	.
+8E-L	8b-L/< 8e-/	.	4a-	we-	.
+8B-	8g/	.	.	.	.
+!	!LO:TX:b:i:t=agitato_:dur=2qe:ext=ud:problem:text with line extensions	!	!	!	!
+8GJ	8ee-/J	.	8g	-hen,	.
+!	!	!	!LO:TX:a:i:t=e	!	!
+.	.	.	.	.	.
+=40	=40	=40	=40	=40	=40
+8CL	8cc/L 8e-/	.	4cc	ru-	.
+!	!	!	!LO:TX:a:t=cresc _ :problem:dynamics with line extensions	!	!
+!	!	!	!	!	!LO:HP:a:i:t=cresc:ext=ud
+8c	8g	.	.	.	<
+8GJ	8ee-J	.	8cc	-fen	.
+8FL	8cc/L 8f/	.	4b-	mich	.
+8c	8a-	.	.	.	.
+8A-J	8ffJ	.	8a-	zu-	[[
+=41	=41	=41	=41	=41	=41
+!	!	!	!	!	!LO:DY:a:rj
+!	!LO:TX:t=P:brak możliwości wstawienia "sff":problem	!LO:DY:rj	!	!	!
+*ped	*	*	*	*	*
+4.d-; 4.A- 4.F-X 4.BB-	4.ff-X; 4.b- 4.a- 4.f-X	sf	4.dd-;	rück.	ff
+*Xped	*	*	*	*	*
+4r	4r	.	4r	.	.
+8r	8r	.	8r	.	.
+!!LO:LB:g=original
+=42	=42	=42	=42	=42	=42
+!	!	!LO:DY:rj	!	!	!
+*ped	*	*	*	*	*
+4E- 4EE-	4dd- 4b- 4g 4d-	fz	(8cc	Willst	.
+*Xped	*	*	*	*	*
+.	.	.	8b-)	nicht?	.
+8r;	8r;	.	8r;	.	.
+*ped	*	*	*	*	*
+4En 4EEn	4cc 4g 4c	.	4cc	Nun,	.
+*Xped	*	*	*	*	*
+.	.	.	.	.	.
+8r	8r	.	8cc	in	.
+*ped	*	*	*	*	*
+=43	=43	=43	=43	=43	=43
+!	!	!	!	!	!LO:DY:a:rj
+8FFL<	8ccL 8an 8f	fff	4cc	Got-	ff
+!	!LO:TX:b:i:t=sempre.	!	!	!	!
+8An	8c	.	.	.	.
+8CJ	8ccJ 8a 8f	.	8cc	-tes	.
+8FFL<	8ccL 8a 8f	.	4cc	Na-	.
+8A	8c	.	.	.	.
+8CJ	8ccJ 8a 8f	.	8cc	-men,	.
+=44	=44	=44	=44	=44	=44
+8FFL<	8ccL 8an 8f	.	4cc	auf	.
+8An	8c	.	.	.	.
+8CJ	8ccJ 8a 8f	.	8cc	zu	.
+8FFL<	8ccL 8a 8f	.	4cc	Kampf	.
+8A	8c	.	.	.	.
+8CJ	8ccJ 8a 8f	.	8cc	und	.
+=45	=45	=45	=45	=45	=45
+8FFL<	8ccL 8an 8f	.	2.ff^	Glück,	.
+8An	8c	.	.	.	.
+8CJ	8ccJ 8a 8f	.	.	.	.
+8FFL<	8ccL 8a 8f	.	.	.	.
+8A	8c	.	.	.	.
+8CJ	8ccJ 8a 8f	.	.	.	.
+=46	=46	=46	=46	=46	=46
+8FFL<	8ccL 8an 8f	.	4cc	auf	.
+8An	8c	.	.	.	.
+8CJ	8ccJ 8a 8f	.	8cc	zu	.
+8FFL<	8ccL 8a 8f	.	4cc	Kampf	.
+8A	8c	.	.	.	.
+8CJ	8ccJ 8a 8f	.	8cc	und	.
+!!LO:LB:g=original
+=47	=47	=47	=47	=47	=47
+8FFL<	8ccL 8an 8f	.	[2.ff^	Glück	.
+8An	8c	.	.	.	.
+8CJ	8ccJ 8a 8f	.	.	.	.
+8FFL<	8ccL 8a 8f	.	.	.	.
+8A	8c	.	.	.	.
+8CJ	8ccJ 8a 8f	.	.	.	.
+=48	=48	=48	=48	=48	=48
+!	!	!	!LO:TX:b:t=cresc _ :problem:dynamics with line extensions	!	!
+!	!	!	!	!	!LO:HP:i:b:t=cresc:ext=ud
+8FFL<	8ccL 8a-X 8f	.	2.ff]	.	<
+8A-X	8c	.	.	.	.
+8CJ	8ccJ 8a- 8f	.	.	.	.
+8FFL<	8ddnL 8b- 8a-	.	.	.	.
+8A-	8dny	.	.	.	.
+8BB-J	8ddJ 8b- 8a-	.	.	.	[
+=49	=49	=49	=49	=49	=49
+!LO:TX:t=P:mixed beam:problem	!	!	!	!	!LO:DY:rj
+!LO:TX:a:i:t=ritenuto	!	!	!	!	!LO:DY:b
+8EE-/L	8ee-L 8cc 8a-	.	4ff	auf	fff
+8c\	8e-	.	.	.	.
+8E-\J	8ee-J 8cc 8a-	.	8ee-	zu	.
+!LO:TX:t=P:mixed beam:problem	!	!	!LO:TX:a:i:t=riten _:dur=1qe.:ext=ud:problem:text with line extensions	!	!
+8EE-/L	8ee-L 8dd-X 8b- 8g	.	8ee-L	Kampf	.
+8d-\	8e-	.	8dd-XJ	.	.
+8E-\J	8ee-J 8dd- 8b- 8g	.	8b-	und	.
+=50	=50	=50	=50	=50	=50
+8AA-\L	4a- 4c	ff	4.a-	Glück!	.
+!LO:TX:a:i:t=e	!	!	!	!	!
+8A-	.	.	.	.	.
+8E-J	8e-	.	.	.	.
+8AA-\L	8cL	.	4r	.	.
+!LO:TX:a:i:t=sempre	!	!	!	!	!
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	8r	.	.
+=51	=51	=51	=51	=51	=51
+8AA-L	8cL	.	2.rdd	.	.
+!LO:TX:a:i:t=più	!	!	!	!	!
+8A-	8f	.	.	.	.
+8E-J	8e-J	.	.	.	.
+!LO:TX:a:i:t=presto	!	!	!	!	!
+8AA-L	8cL	.	.	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	.	.	.
+=52	=52	=52	=52	=52	=52
+!LO:TX:a:i:t=che	!	!	!	!	!
+8AA-L	8cL	.	2.rdd	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+!LO:TX:a:i:t=possibile.	!	!	!	!	!
+8E-J	8e-J	.	.	.	.
+8AA-L	8a-L 8c	.	.	.	.
+8A-	8e-	.	.	.	.
+8E-J	8ccJ	.	.	.	.
+!!LO:LB:g=original
+=53	=53	=53	=53	=53	=53
+!LO:TX:a:i:t=con fuoco.	!	!	!	!	!
+8AA-L	8b-L 8d-	.	2.rdd	.	.
+8G	8e-	.	.	.	.
+8E-J	8ee-J	.	.	.	.
+8AA-L	4ee-/ 4cc/ 4e-/	.	.	.	.
+8A-	.	.	.	.	.
+8E-J	8e-	.	.	.	.
+=54	=54	=54	=54	=54	=54
+8AA-L	8cL	.	2.rdd	.	.
+8A-	8f	.	.	.	.
+8E-J	8e-J	.	.	.	.
+8AA-L	8cL	.	.	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	.	.	.
+=55	=55	=55	=55	=55	=55
+8AA-L	8cL	.	2.rdd	.	.
+8A-	8f	.	.	.	.
+8E-J	8e-J	.	.	.	.
+8AA-L	8cL	.	.	.	.
+!LO:TX:a:i:t=agitatissimo	!	!	!	!	!
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+8E-J	8e-J	.	.	.	.
+=56	=56	=56	=56	=56	=56
+8AA-L	8cL	.	2.rdd	.	.
+8A-	16e-L	.	.	.	.
+.	16e-J	.	.	.	.
+!LO:TX:a:i:t=sempre	!	!	!	!	!
+8E-J	8e-J	.	.	.	.
+8AA-L	8a-L 8c	.	.	.	.
+8A-	8e-	.	.	.	.
+8E-J	8ccJ	.	.	.	.
+=57	=57	=57	=57	=57	=57
+8AA-L	8b-/L 8f-X/	.	2.rdd	.	.
+!LO:TX:a:i:t=più.	!	!	!	!	!
+8G	8g	.	.	.	.
+8F-XJ	8ff-XJ	.	.	.	.
+8AA-L	4ff-/ 4f-/	.	.	.	.
+8B-	.	.	.	.	.
+8F-J	8g 8d-	f	.	.	.
+=58	=58	=58	=58	=58	=58
+8AA-L	8a-L 8c	.	2.rdd	.	.
+8A-	8e-	.	.	.	.
+8E-J	8ff-XJ	.	.	.	.
+8AA-L	4ff-/ 4f-X/	.	.	.	.
+8B-	.	.	.	.	.
+8F-XJ	8g 8d-	.	.	.	.
+!!LO:LB:g=original
+=59	=59	=59	=59	=59	=59
+8AA-L	8a-L 8c	.	2.rdd	.	.
+8A-	8e-	.	.	.	.
+8E-J	8ff-XJ	.	.	.	.
+8AA-L	4ff-/ 4f-X/	.	.	.	.
+8B-	.	.	.	.	.
+8F-XJ	8g 8d-	.	.	.	.
+=60	=60	=60	=60	=60	=60
+8AA-L	8a-L 8c	.	2.rdd	.	.
+8A-	8e-	.	.	.	.
+8E-J	8ff-XJ	.	.	.	.
+8AA-L	4ff-/ 4f-X/	.	.	.	.
+8B-	.	.	.	.	.
+8F-XJ	8g 8d-	.	.	.	.
+=61	=61	=61	=61	=61	=61
+8AA-L	8a-L 8c	.	2.rdd	.	.
+8A-	8e-	.	.	.	.
+8E-J	8ff-XJ	.	.	.	.
+8AA-L	4ff-/ 4f-X/	.	.	.	.
+8B-	.	.	.	.	.
+8F-XJ	8g 8d-	.	.	.	.
+=62	=62	=62	=62	=62	=62
+8AA-L	8a-L 8c	.	2.rdd	.	.
+!LO:TX:a:i:t=più	!	!	!	!	!
+8A-	8e-	.	.	.	.
+8E-J	8ccJ	.	.	.	.
+8D-L	8a-L 8d-	.	.	.	.
+8A-	8f-X	.	.	.	.
+!LO:TX:a:i:t=presto	!	!	!	!	!
+8F-XJ	8dd-J	.	.	.	.
+=63	=63	=63	=63	=63	=63
+8AA-L	8a-L 8c	.	2.rdd	.	.
+8A-	8e-	.	.	.	.
+8E-J	8ccJ	.	.	.	.
+!LO:TX:a:i:t=ma	!	!	!	!	!
+8D-L	8a-L 8d-	.	.	.	.
+8A-	8f-X	.	.	.	.
+8F-XJ	8dd-J	.	.	.	.
+=64	=64	=64	=64	=64	=64
+!	!LO:TX:b:t=decrescendo _ :problem:dynamics with line extensions	!	!	!	!
+!	!	!LO:HP:b:i:t=decrescendo:ext=ud	!	!	!
+8AA-L	8a-L 8c	>	2.rdd	.	.
+8A-	8e-	.	.	.	.
+8E-J	8ccJ	.	.	.	.
+8D-L	8a-L 8d-	.	.	.	.
+8A-	8f-X	.	.	.	.
+8F-XJ	8dd-J	.	.	.	.
+=65	=65	=65	=65	=65	=65
+8AA-L	8a-L 8c	.	2.rdd	.	.
+8A-	8e-	.	.	.	.
+8E-J	8ccJ	.	.	.	.
+8D-L	8a-L 8d-	.	.	.	.
+8A-	8f-X	.	.	.	.
+8F-XJ	8dd-J	]	.	.	.
+=66	=66	=66	=66	=66	=66
+2.AA- 2.AAA-	2.aa- 2.ee- 2.cc 2.a-	p	2.rdd	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!ENC: Jędrzej Mróz
+!!!END: 2020-01-28
+!!!EED: 
+!!!EST: revision finished 2020-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cresc.", 'fontstyle="italic"
+!!!RDF**dynam: > = "dim.", 'fontstyle="normal"
+!!!system-decoration: (s1){(s2,s3)}

@@ -1,0 +1,465 @@
+!!!!SEGMENT: 008-1c-KI-003-violoncello.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Premier Trio pour Piano, Violon et Violoncelle
+!!!OPS: Op. 8
+!!!PPR: Kistner
+!!!PPP: Leipzig
+!!!NIFC-rismID: 1001002848
+!!!NIFC-shelfmark: PL-Wbfc 3997/n
+**kern	**dynam
+*part2	*part2
+*I"ADAGIO.	*
+*staff2	*
+*clefF4	*
+*k[b-e-a-]	*
+*c:	*
+*M3/4	*
+=1	=1
+!LO:TX:B:a:t=1	!
+2.rF	.
+=2	=2
+!	!LO:DY:rj
+4.c-X	p>
+8c-	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(>12c-L	.
+12G-X	.
+12A-J)	]
+=3	=3
+(>2.An	<
+.	[>
+=4	=4
+4.B-)	.
+.	]
+8r	.
+4r	.
+=5	=5
+4E-	p
+2F^<	.
+=6	=6
+4G	.
+8A-^<	.
+8r	.
+8r	.
+(>8A-	.
+=7	=7
+4G	.
+4F	.
+4E-)	.
+=8	=8
+2.D	.
+=9	=9
+(>4E-	.
+4C\	.
+4D)	.
+!!LO:LB:g=original
+=10	=10
+(>4E-	.
+4G^<	.
+4F	.
+=11	=11
+4B-)	]
+8r	.
+8BB-^<L	.
+8BBn^<	.
+8C^<J	.
+=12	=12
+4.D/	.
+16r	.
+(<16E-KL	.
+8AA-	.
+8BB-J	.
+=13	=13
+8EE-`<)	.
+8r	.
+4r	.
+4r	.
+=14	=14
+4EE-	.
+[4AA-^<	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(<24AA-LL]	.
+24BB-	.
+24AA-	.
+24GG	.
+24AA-	.
+24BB-JJ)	.
+=15	=15
+8C	.
+8r	.
+4F	.
+4E-	.
+=16	=16
+2D^<	.
+4D	.
+=17	=17
+(>4E-	.
+4D	.
+4D-X	.
+=18	=18
+4C	.
+4BB-	.
+4AA-	.
+!!LO:LB:g=original
+=19	=19
+2AA-)	.
+4BB-)	.
+=20	=20
+(<4BB-	.
+8EE-)	.
+8r	.
+!LO:TX:iB:b:t=espresss.	!
+(>4G	.
+=21	=21
+8.BBnL)	.
+16DJk	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(>20FLL	<
+20G	.
+20F	.
+20En	.
+20FJJ)	[
+8.B-XL	>
+16A-XJk	]
+=22	=22
+(4A-^<	[
+4G)	.
+8.BnL	<
+(>16cJk	[
+=23	=23
+8.dL	>
+16BnJk)	]
+(>16GLL	.
+16A-	.
+16B-X	.
+16A-JJ)	.
+(8.G^<L	.
+16FJk)	.
+=24	=24
+(>4F^<	.
+4En)	.
+(>4D-X^<	.
+=25	=25
+8C)	.
+8r	.
+*clefC4	*
+(>4en	<
+4f	.
+.	[
+!!LO:LB:g=original
+=26	=26
+!LO:TX:a:t=P:brak zakończenia łuku przy 8c:problem	!
+8c)	[
+8r	.
+4r	.
+.	p
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(>12cL	.
+12.G	.
+24A-Jk)	.
+=27	=27
+4.B-	.
+8r	.
+8r	.
+16r	.
+*clefF4	*
+16C	.
+=28	=28
+[>2.D-X	.
+=29	=29
+4D-X]	.
+2C^<	.
+=30	=30
+4E-	.
+2D^<\	.
+=31	=31
+2.E-^<	.
+=32	=32
+2.D	pp
+=33	=33
+4E-	<
+.	[.
+2F^<]	.
+=34	=34
+(>4G	.
+8A-)	.
+8r	.
+8r	.
+(>8A-	.
+=35	=35
+4G	>
+4F	.
+4E-	]
+=36	=36
+4D)	.
+4r	.
+(>4D	.
+!!LO:LB:g=original
+=37	=37
+!LO:TX:t=P:łuk rozpoczyna się od 4E-:problem	!
+4E-	>
+4D	.
+4D-X	.
+=38	=38
+4C	.
+4BB-	.
+4AA-	]
+=39	=39
+4AA-	<
+4C	[>
+4BB-	]
+=40	=40
+!LO:TX:t=P:diminuendolike accent:problem	!
+4BBn^<	]
+8C)	.
+8r	.
+4r	.
+=41	=41
+(>4F^<	.
+8E-)	.
+8r	.
+4r	.
+=42	=42
+!	!LO:DY:rj
+4AAn^<	f
+8BB-`<	.
+*clefC4	*
+16r	.
+16d-`>	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(>12d-L	>
+12An	.
+12B-J)	]
+=43	=43
+[4f-X	.
+*Xtuplet	*
+12f-^>L]	>
+12e-^>	.
+12d-X^>J	.
+(12c-XL	.
+12B-	.
+12A-J)	]
+*tuplet	*
+*clefF4	*
+=44	=44
+2.F-X^<	.
+!!LO:LB:g=original
+=45	=45
+4.E-	.
+8E-	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+12E-L	.
+(<12.AAn	.
+24BB-Jk)	.
+=46	=46
+(</2.D-X	<
+.	[
+=47	=47
+4C)	.
+8r	.
+8C	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(<12CL	.
+12FF	.
+12GG-XJ)	.
+=48	=48
+(<2.C-X	.
+=49	=49
+4BB-)	.
+.	<
+(>4B-	.
+4c-X	.
+=50	=50
+4.B-)	[
+8B-	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(>12B-L	.
+12F	.
+12G-XJ)	.
+=51	=51
+(>4A-	<
+4c-X	[>
+4B-	.
+.	]
+=52	=52
+4A-)	]
+(>2c-X^<	.
+=53	=53
+4B-)	.
+(>2F^<	.
+=54	=54
+4G-X)	.
+2D^<	.
+=55	=55
+!LO:TX:t=P:diminuendolike accent:problem	!
+!LO:TX:t=P:cres na górze:problem	!LO:HP:a
+8.E-^<L	<
+16D-XJk	.
+(>2C-X	<
+.	[
+!!LO:LB:g=original
+=56	=56
+4BB-)	.
+!LO:TX:a:Bi:t=dolce.	!
+.	.
+!	!LO:DY:rj
+8DL	p
+8FJ	.
+[>4B-	<
+=57	=57
+4B-]	[
+.	>
+8AnL	.
+8G	]
+8A	.
+*clefC4	*
+(8e-J	.
+=58	=58
+4d)	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(>20fLL	.
+20g	.
+20f	.
+20en	.
+20fJJ	.
+*clefG2	*
+8ccL)	.
+[<8b-J	.
+=59	=59
+8b-L]	.
+(<8anJ	.
+8aL	.
+8g	.
+8f	.
+8e-J)	.
+=60	=60
+!	!LO:DY:rj
+[2.d	p
+=61	=61
+4d]	.
+4r	.
+4r	.
+=62	=62
+!LO:TX:t=P:znak pionowy w takcie:problem	!
+2.rdd	.
+*clefF4	*
+=63	=63
+2.rdd	.
+=64	=64
+2.rdd	.
+=65	=65
+2.rdd	.
+=66	=66
+4r	.
+(4AA'<	.
+4AA'<	.
+!!LO:LB:g=original
+=67	=67
+4.AA)	.
+8r	.
+4r	.
+=68	=68
+4.En	.
+8E	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(>12EL	.
+12.An^<	.
+24GJk)	.
+=69	=69
+4.F	.
+8r	.
+4r	.
+=70	=70
+!LO:TX:b:Bi:t=espress ritard.	!
+4.F^>	.
+8En	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(>12F^>L	.
+12.c	.
+24B-Jk)	.
+=71	=71
+!LO:TX:b:B:i:t=Tempo 1º.	!
+2B-	.
+.	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(>12c-X^<L	.
+12B-	.
+24rF	.
+24dJk)	.
+=72	=72
+8e-	.
+8r	.
+!LO:TX:a:Bi:t=appassionato.	!LO:DY:rj
+4AA-X^<	f
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(<24AA-LL	.
+24BB-	.
+24AA-	.
+24GG	.
+24AA-	.
+24BB-JJ)	.
+!!LO:LB:g=original
+=73	=73
+(<4BBn	.
+8C)	.
+8r	.
+4r	.
+=74	=74
+!LO:TX:B:a:t=1	!
+2.rF	.
+=75	=75
+!LO:TX:b:Bi:t=dolce.	!
+[2.B-	.
+=76	=76
+2B-]	.
+8A-^<L	.
+8GJ	.
+=77	=77
+8GL	.
+16A-L	.
+16GJJ	.
+(>8F#XL	<
+8G	.
+8c	.
+8B-J	[
+=78	=78
+4An	>
+4A-X	.
+4F	]
+=79	=79
+4E-)	p
+(>2A-^<	.
+=80	=80
+4G)	.
+2A-^<	.
+=81	=81
+8G	pp
+8r	.
+!LO:TX:a:Bi:t=rallent.	!
+8EE-	.
+8r	.
+8EE-	.
+8r	.
+=82	=82
+4EE-	.
+4r	.
+4r	.
+==	==
+*-	*-
+!!!system-decoration: s1,s2{(s3,s4)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: N = linked
+!!!RDF**dynam: > = "dim.", fontstyle="bold-italic"
+!!!RDF**dynam: < = "cres.", fontstyle="bold-italic"
+!!!RDF**kern: i = editorial accidental
+!!!ENC: Emilia Ziętek
+!!!END: 2019-10-22
+!!!EED: Mateusz Mrugas
+!!!EST: revision finished 2019-10-29
+!!!rism-genre: Trio
+!!!rism-key: G minor
+!!!rism-opus: op.  8
+!!!rism-title: Trio in G minor op.  8
+!!!rism-permalink: https://opac.rism.info/search?id=1001002848&View=rism

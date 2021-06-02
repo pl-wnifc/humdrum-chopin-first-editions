@@ -1,0 +1,1432 @@
+!!!!SEGMENT: 003-1-Sm-violoncello.krn
+!!!COM: Chopin, Fryderyk
+!!!OPS: Op. 3
+!!!PTL: Polonaise Brillante pour Piano et Violoncello.
+!!!PPR: M. Schlesinger
+!!!PPP: Paris
+!!!NIFC-rismID: 300605283
+!!!NIFC-shelfmark: PL-Wbfc 1681/n
+!!!OMD: M. M. [quarter] = 89.
+!!!OMD: Lento.
+!!!system-decoration: s1{(s2,s3)}
+**kern	**fing	**dynam
+*part1	*	*part1
+*I"Introduzione.	*	*
+*staff1	*	*
+*clefF4	*	*
+*k[]	*	*
+*M4/4	*	*
+*met(c)	*	*
+=1	=1	=1
+!LO:TX:a:B:t=1	!	!
+1r	.	.
+=2	=2	=2
+2r	.	.
+4r	.	.
+*clefC4	*	*
+!LO:TX:t=espres.	!	!
+4G	.	.
+=3	=3	=3
+(>8eL	.	.
+32fLL	.	.
+32e	.	.
+32d#X	.	.
+32eJJ	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+8f#X^<	.	.
+8gJ)	.	.
+(>8cL	.	.
+32dnLL	.	.
+32c	.	.
+32B	.	.
+32cJJ	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+8d#X^<	.	.
+8eJ)	.	.
+=4	=4	=4
+4.A	.	.
+8qc/	.	.
+(>16.B-XLL	.	.
+32AJJk)	.	.
+4A	.	.
+4r	.	.
+=5	=5	=5
+!LO:TX:a:B:t=1	!	!
+1r	.	.
+!!LO:LB:g=original
+=6	=6	=6
+*clefF4	*	*
+2r	.	.
+4r	.	.
+*clefC4	*	*
+(>4A	.	.
+=7	=7	=7
+8fL	.	.
+32gLL	.	.
+32f	.	.
+32e	.	.
+32fJJ	.	.
+8g#X	2	.
+8aJ)	3	.
+(>8dL	.	.
+32eLL	.	.
+32d	.	.
+32c#X	.	.
+32dJJ	.	.
+8.f#X	1	.
+16g#J)	2	.
+=8	=8	=8
+*	*^	*
+(>4g	2	.	.
+*clefG2	*	*	*
+(<32gLLL)	.	.	.
+32a	.	.	.
+32g	.	.	.
+32f#X	.	.	.
+32g	.	.	.
+!LO:TX:a:t=rall.	!	!	!
+32a	.	1	.
+32b	.	2	.
+32ccJJJ	.	3	.
+8qcc)/	.	.	.
+4g	.	4	.
+4f#	.	.	.
+*clefC4	*	*	*
+*	*v	*v	*
+=9	=9	=9
+!LO:TX:a:B:t=a Tempo.	!	!
+(>2e	.	.
+2e-X^<	.	.
+=10	=10	=10
+4.d	.	.
+8B)	.	.
+4c	.	<
+16qqd/LL	.	.
+16qqc/	.	.
+16qqB/	.	.
+(>16qqc/JJ	.	.
+8dL	.	.
+8eJ	.	[[
+!!LO:LB:g=original
+=11	=11	=11
+8g`>)	.	.
+8r	.	.
+[>4f	.	>
+8fL]	.	.
+8e	.	.
+8d	.	.
+8cJ	.	]
+=12	=12	=12
+(>4.d	.	.
+16fLL	.	.
+16eJJ)	.	.
+4d	.	.
+8eL	.	<
+8fJ	.	[[
+=13	=13	=13
+(>4g	.	.
+8aL	.	.
+8gJ	.	.
+4f)	.	.
+8.gL	.	.
+16dJk	.	.
+=14	=14	=14
+(>4e	.	.
+8fL	.	.
+8eJ)	.	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+(>20dLL	.	.
+20e	.	.
+20d	.	.
+20c	.	.
+20dJJ)	.	.
+8.eL	.	.
+(>16BJk	.	.
+=15	=15	=15
+*	*^	*
+8c)	.	.	.
+*clefG2	*	*	*
+(>4cc	3	.	>
+8b	2	.	.
+8bL	.	.	.
+8a	.	1	.
+8g	.	4	.
+8f#XJ)	.	3	]]
+*	*v	*v	*
+=16	=16	=16
+*clefC4	*	*
+(>4g^<	.	.
+8eL	.	.
+8aJ	.	.
+4f	.	.
+8gL	.	.
+8fJ	2	.
+!!LO:LB:g=original
+=17	=17	=17
+2e)	.	<[
+2e-X	.	>]
+=18	=18	=18
+4.d	.	.
+8B	.	.
+4c	.	.
+16qqd/LL	.	.
+16qqc/	.	.
+16qqB/	.	.
+16qqc/JJ	.	.
+8dL	.	.
+8eJ	.	.
+=19	=19	=19
+8g	.	.
+8r	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+[>4f^<	.	.
+8fL]	.	.
+8eJ	.	.
+(>12eL	.	.
+12d	.	.
+12cJ)	.	.
+=20	=20	=20
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+(>2e^<	.	.
+4d)	.	.
+8eL	.	.
+8fJ	.	.
+=21	=21	=21
+4g	.	<
+8aL	.	.
+8gJ	.	[>
+4f	.	.
+4g	.	]
+=22	=22	=22
+4e	.	<
+8.fL	.	[>
+16eJ	.	.
+4d	.	]
+(>4G\	.	<[
+=23	=23	=23
+4g)	.	.
+!LO:TX:b:t=poco rall&colon;:dur=2qe:problem:text with extention lines	!	!
+(>12eL	.	.
+12d	.	.
+12cJ)	.	.
+4d	.	.
+*Xtuplet	*	*
+(>12eL	.	.
+12d	.	.
+12cJ)	.	.
+*tuplet	*	*
+!!LO:LB:g=original
+=24	=24	=24
+!LO:TX:a:B:t=poco più mosso.	!	!
+2d	.	.
+4r	.	.
+*clefF4	*	*
+8GGL	.	.
+!	!	!LO:DY:rj
+8FFJ	.	f
+=25	=25	=25
+8EE-X	.	.
+8r	.	.
+[>4E-X^<	.	.
+(>16E-LL]	.	.
+16F	.	.
+16E-	.	<
+16DJJ	.	.
+16E-LL	.	.
+16G	.	.
+16c	.	.
+16dJJ	.	[
+=26	=26	=26
+8e-X)	.	<
+4c^>	.	.
+4G^>	.	.
+(>8E-XL	.	.
+8D	.	.
+8CJ)	.	.
+=27	=27	=27
+8FF	.	.
+8r	.	.
+[>4F^<	.	.
+(>16FLL]	.	.
+16G	.	.
+16F	.	<
+16EnJJ	.	.
+16FLL	.	.
+16A-X	2	.
+16d	1	.
+16e-XJJ)	.	[
+=28	=28	=28
+!LO:TX:t=sempre cresc.	!	!
+8f	.	.
+4d^>	.	.
+4A-X^>	.	.
+8F^>L	.	.
+8E-X^>	.	.
+8D^>J	.	.
+!!LO:LB:g=original
+=29	=29	=29
+8GG	.	.
+8r	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+[>4G^<	.	.
+(>16GLL]	.	.
+16A-X	.	.
+16G	.	<
+16F#JJ	.	.
+16GLL	.	.
+16B-X	.	.
+16d-X	.	.
+16enJJ)	.	[
+=30	=30	=30
+*clefG2	*	*
+4g	.	.
+4b-X/	.	.
+*clefF4	*	*
+!	!	!LO:DY:rj
+2GGT<	.	f
+=31	=31	=31
+2AA-X	.	fp
+4D-X	.	.
+4F	.	.
+=32	=32	=32
+4A-X	.	.
+!	!	!LO:DY:rj
+2AA-X	.	f
+16GGLL	.	.
+16AA-	.	.
+16BB-X	.	.
+16AA-JJ	.	.
+=33	=33	=33
+8GG	.	.
+!	!	!LO:DY:rj
+(>8DL	.	p
+16G	.	.
+16A)	.	.
+[>8BJ	.	.
+16BL]	.	.
+(>16A	.	.
+8GJ	.	.
+16F#XL	.	.
+16G	.	.
+8AJ	.	.
+!!LO:LB:g=original
+=34	=34	=34
+8DL)	.	.
+(>16EL	.	.
+16F#XJJ	.	.
+16.GLL	.	.
+32AJk)	.	.
+[>8BJ	.	.
+8BL]	.	.
+(>16AL	.	<
+16G#XJJ	.	.
+16ALL	.	.
+16B	.	.
+16c	.	.
+16c#XJJ)	.	[[
+=35	=35	=35
+!LO:TX:t=P:nuta 1d po sródku taktu:problem	!	!
+1dT	.	<[
+.	.	>]
+=36	=36	=36
+!LO:TX:t=poco rall&colon;	!	!
+(>4B	.	.
+4d	.	.
+4e	.	.
+8dL	.	.
+8cJ)	.	.
+=	=	=
+[>4B	.	.
+16B\LL]	.	.
+(16c\	.	.
+!LO:TX:t=rall&colon;	!	!
+16B\	.	.
+16A\	.	.
+16B\	.	.
+16c	.	.
+16A	.	.
+16dJJ)	.	.
+(<8qd	.	.
+!LO:TX:t=atacca il All.	!	!
+2G;>)	.	.
+2r;>	.	.
+!!LO:LB:g=original
+=37|!	=37|!	=37|!
+!!!OMD: M. M. [quarter] = 96.
+!!!OMD: con espirito.
+*M3/4	*	*
+*I"Alla Polacca.	*	*
+!LO:TX:a:B:t=1	!	!
+2.r	.	.
+=38	=38	=38
+4r	.	.
+4r	.	.
+*clefC4	*	*
+8r	.	.
+(>8g	.	.
+=39	=39	=39
+4.g	.	.
+16eLL	1	.
+16fJJ	2	.
+16gLL	2	.
+16a	3	.
+16g	2	.
+16f#XJJ	1	.
+=40	=40	=40
+8g)	2	.
+16cLL	.	.
+16dJJ	.	.
+(>4.e	.	.
+16fLL	.	.
+16eJJ)	.	.
+=41	=41	=41
+8d`>	.	.
+4G^^>\	.	.
+(>16ALL	.	<
+16BJJ	.	.
+16cLL	.	.
+16d	.	.
+16e	.	.
+16fJJ)	.	[
+=42	=42	=42
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+(>16eLL^<	.	.
+16d	.	.
+16dM	.	.
+16c#JJ	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+16eLL^<	.	.
+16d	.	.
+16dM	.	.
+16c#JJ)	.	.
+8d	.	.
+(>16eLL	.	<
+16fJJ	.	[[
+!!LO:LB:g=original
+=43	=43	=43
+4.g)	.	.
+(>16eLL	.	.
+16fJJ	.	.
+16gLL	.	.
+16a	.	.
+16g	.	.
+16f#XJJ)	.	.
+=44	=44	=44
+8g	.	.
+(>16cLL	.	.
+16dJJ	.	.
+4.e)	.	.
+(>16fLL	.	.
+16eJJ	.	.
+=45	=45	=45
+8d)	.	.
+4A	.	.
+(>16ALL	.	<
+16BJJ	.	.
+16cLL	.	.
+16d	.	.
+16e	.	.
+16dJJ)	.	[
+=46	=46	=46
+(>16cLL	.	.
+16B	.	.
+16A	.	.
+16BJJ	.	.
+4d	.	.
+8c)	.	.
+8r	.	.
+*clefF4	*	*
+=47	=47	=47
+!LO:TX:a:t=pizzi.	!	!
+4CC	.	.
+4r	.	.
+4ryy	.	.
+=48	=48	=48
+4C'<	.	.
+4C'<	.	.
+4C'<	.	.
+=49	=49	=49
+4GG	.	.
+4r	.	.
+4C	.	.
+=50	=50	=50
+4GG'<	.	.
+4GG'<	.	.
+4GG'<	.	.
+!!LO:LB:g=original
+=51	=51	=51
+4C	.	.
+4r	.	.
+4r	.	.
+=52	=52	=52
+4C	.	.
+4C	.	.
+4AA	.	.
+=53	=53	=53
+4FF	.	.
+4r	.	.
+!LO:TX:a:t=coll'arco.	!	!
+(<4FF	.	.
+=54	=54	=54
+4GG)	.	.
+8r	.	.
+(<8GGL	.	.
+8CJ`<)	.	.
+8r	.	.
+*clefC4	*	*
+=55	=55	=55
+[>4d	.	<
+8dL]	.	.
+(>16c#XL	.	.
+16dJJ	.	.
+8eL`>)	.	.
+(>16dL	.	.
+16eJJ	.	[[
+=56	=56	=56
+8fL)`>	.	>
+(>16fL	.	.
+16eJJ	.	]
+4d)	.	<
+4et	.	.
+16qqd/LL	.	.
+16qqe/JJ	.	[
+=57	=57	=57
+[>4f	.	.
+8fL]	.	.
+(>16eL	.	.
+16fJJ	.	.
+8gL)	.	.
+(>16fL	.	.
+16gJJ)	.	.
+=58	=58	=58
+4.a	2	<
+(>8aL	.	.
+8b`>)	.	.
+(>8bJ	.	[
+!!LO:LB:g=original
+=59	=59	=59
+8g#XL	1	.
+8eJ)	3	.
+(>4a	.	<
+8bL)	.	[
+(>8bJ	.	.
+=60	=60	=60
+8g#XL	.	.
+8eJ)	.	.
+[>2a^<	.	.
+=61	=61	=61
+4a]	.	.
+8A^>L	.	<
+8B^>	.	.
+8c^>	.	.
+8d^>J	.	[
+=62	=62	=62
+!LO:TX:t=dol.	!	!
+(>2B	.	.
+8f#XL	.	.
+8g#XJ)	.	.
+=63	=63	=63
+(>2e	.	.
+8BL	.	.
+8AJ)	.	.
+=64	=64	=64
+(>8G#XL	.	<
+8BJ	.	.
+4e	.	.
+8f#XL	.	.
+8g#XJ	.	[[
+=65	=65	=65
+2e	.	>
+4B	.	]
+=66	=66	=66
+[<2.E)	.	.
+=67	=67	=67
+4E]	.	.
+4r	.	.
+4r	.	.
+=68	=68	=68
+2.r	.	.
+=69	=69	=69
+2.r	.	.
+=70	=70	=70
+2.r	.	.
+=71	=71	=71
+2.r	.	.
+!!LO:PB:g=original
+=72	=72	=72
+*clefF4	*	*
+!LO:TX:a:t=P:klucz F4 w poprzednim takcie przed pagebreak:problem	!	!
+4r	.	.
+4r	.	.
+4E	.	.
+=73	=73	=73
+[>2.E	.	.
+=74	=74	=74
+4.E]	.	.
+(>16D#XLL	.	.
+16EJJ	.	.
+16FLL	.	.
+16E	.	.
+16D#	.	.
+16EJJ	.	<
+=75	=75	=75
+8G#X)	.	[[
+(>16D#XLL	1	<
+16EJ	2	.
+8BJ)	2	[
+(>16D#LL	.	<
+16EJ	.	.
+8eJ)	.	[
+8r	.	.
+=76	=76	=76
+16qqGGn/LL	.	.
+16qqD	.	.
+16qqB/JJ	.	.
+!	!	!LO:DY:rj
+[>2.g	.	ff
+*clefC4	*	*
+=77	=77	=77
+4g]	.	<
+(>4g'>	.	.
+4g'>)	.	[
+!!LO:LB:g=original
+=78	=78	=78
+4.g	.	.
+(>16eLL	.	.
+16fJJ	.	.
+16gLL	.	<
+16a	.	.
+16g	.	[>
+16f#XJJ)	.	]
+=79	=79	=79
+8g	.	.
+(>16cLL	.	.
+16dJJ	.	.
+4.e^<	.	.
+16fnLL	.	.
+16eJJ)	.	.
+=80	=80	=80
+8d`>	.	.
+4G^^>\	.	.
+(>16ALL	.	<
+16BJJ	.	.
+16cLL	.	.
+16d	.	.
+16e	.	.
+16fJJ)	.	[[
+=81	=81	=81
+(>&(>16eLL	.	.
+16d&)	.	.
+&(>16dT	.	.
+16c#XJJ&))	.	.
+(>&(>16eLL	.	.
+16d&)	.	.
+&(>16dT	.	.
+16c#JJ&))	.	.
+8d	.	.
+(>16eLL	.	<
+16fJJ	.	[
+!!LO:LB:g=original
+=82	=82	=82
+4.g)	.	.
+(>16eLL	.	.
+16fJJ	.	.
+16gLL	2	.
+16a	3	.
+16g	2	.
+16f#JJ)	1	.
+=83	=83	=83
+8g	2	.
+(>16cLL	.	.
+16dJJ	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+4.e^<	.	.
+16fLL	.	.
+16eJJ)	.	.
+=84	=84	=84
+*	*^	*
+8d	.	.	.
+(>8AL	.	.	.
+*clefG2	*	*	*
+8ccJ)	3	.	.
+!	!	!	!LO:HP:a
+(<16bLL	.	2	>
+16aJJ	.	1	.
+16gLL	.	4	.
+16f	.	2	.
+16e	.	1	.
+16dJJ)	.	4	]
+*clefC4	*	*	*
+*	*v	*v	*
+=85	=85	=85
+(>16cLL	.	.
+16B	.	.
+16A	.	.
+16BJJ	.	.
+4d^<	.	.
+8c)	.	.
+8r	.	.
+*clefF4	*	*
+=86	=86	=86
+!LO:TX:a:t=pizzi.	!	!
+4CC'<	.	.
+4r	.	.
+4r	.	.
+=87	=87	=87
+4C'<	.	.
+4C'<	.	.
+4C'<	.	.
+=88	=88	=88
+4GG'<	.	.
+4r	.	.
+4C'<	.	.
+!!LO:LB:g=original
+=89	=89	=89
+4GG'<	.	.
+4GG'<	.	.
+4GG'<	.	.
+=90	=90	=90
+4C	.	.
+4r	.	.
+4C	.	.
+=91	=91	=91
+4C'<	.	.
+4C'<	.	.
+4AA'<	.	.
+=92	=92	=92
+4FF	.	.
+4r	.	.
+!LO:TX:a:t=coll'arco.	!	!
+(<4FF	.	.
+=93	=93	=93
+4.GG)	.	.
+8GGL	.	.
+8CJ	.	.
+8r	.	.
+=94	=94	=94
+!LO:TX:t=cantabile.	!	!
+(>4A	.	<
+4G	.	.
+4c	.	[
+=95	=95	=95
+2C\	.	.
+8DL	.	.
+8EJ)	.	.
+=96	=96	=96
+(>4F	.	.
+8EL	.	.
+8F	.	.
+8.c	.	>
+16B-XJk	.	]
+=97	=97	=97
+4A	.	.
+4G)	.	.
+(>4A	.	.
+!!LO:LB:g=original
+=98	=98	=98
+4B-X	.	<
+4A	.	.
+4d)	.	[[
+=99	=99	=99
+(>2D	.	.
+8EL	.	<
+8F#XJ	.	.
+=100	=100	=100
+4.G	.	.
+8GL	.	.
+8A	.	.
+8B-XJ	.	[
+=101	=101	=101
+2B-X	.	>
+4C)	.	]
+=102	=102	=102
+4.C\	.	<
+(>16DLL	.	.
+16EJJ	.	.
+8FL	.	.
+8F#XJ	.	[
+=103	=103	=103
+4G	.	.
+8.B-XL	.	>
+16AJk	.	.
+16GLL	.	.
+16F	.	.
+16E	.	.
+16DJJ)	.	]
+=104	=104	=104
+(>8CL	.	.
+16DL	.	.
+16EJJ	.	.
+8F'>L	.	.
+8E'>	.	.
+8F'>	.	<
+8F#X'>J)	.	.
+!!LO:LB:g=original
+=105	=105	=105
+(>16GLL	.	.
+16A	.	.
+16B-X	.	.
+16BnJJ)	.	[
+(>4.c	.	.
+8B-X	.	.
+=106	=106	=106
+4.A)	.	.
+(>8A	.	.
+8B-XL	.	.
+8AJX)	.	.
+=107	=107	=107
+8A	.	.
+4G#X^<	.	.
+(>8G#L	.	.
+8A	.	.
+8GnJ)	.	.
+=108	=108	=108
+8G	.	.
+4F#X^<	.	.
+8F#	.	.
+(>16GLL	.	.
+16A	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+16B-X^<	.	.
+16GJJ)	.	.
+=109	=109	=109
+(>16FLL	.	.
+16E	.	.
+16D	.	.
+16EJJ	.	.
+4G^<	.	.
+8F)	.	.
+8r	.	.
+=110	=110	=110
+!	!	!LO:DY:rj
+8C	.	ff
+(<4C	.	.
+4BB	.	.
+[<8BB-X	.	.
+!!LO:LB:g=original
+=111	=111	=111
+8BB-X]	.	.
+4AA	.	.
+4AA-X	.	.
+8GG)	.	.
+=112	=112	=112
+8CC	.	.
+8r	.	.
+4r	.	.
+4r	.	.
+=113	=113	=113
+(>2F	.	<
+4F#X	.	[
+=114	=114	=114
+2G	.	<
+4G#	.	[
+=115	=115	=115
+2A	.	>
+4E)	.	]
+=116	=116	=116
+(>2F	.	<
+4G	.	[
+=117	=117	=117
+4C)\	.	<
+(>4E	.	.
+4A	.	[
+=118	=118	=118
+4G)	.	.
+4r	.	.
+4GG	.	<
+=119	=119	=119
+4C\	.	.
+4E	.	.
+4A	.	[[
+!!LO:LB:g=original
+=120	=120	=120
+2G	.	.
+4GG	.	.
+=121	=121	=121
+4C	.	.
+!LO:TX:t=con forza e cresc.:dur=4q:problem:text with extention lines	!	!
+(<4FF	.	.
+4GG	.	.
+=122	=122	=122
+4AA-X	.	.
+4GG	.	.
+4GG#	.	.
+=123	=123	=123
+4AA	.	.
+4GG#X)	.	.
+4AA	.	.
+=124	=124	=124
+4BB-X	.	.
+4AA	.	.
+4BBn	.	.
+=125	=125	=125
+4C	.	.
+!	!	!LO:DY:rj
+[>2B-X^<	.	fz
+=126	=126	=126
+4B-]	.	.
+!	!	!LO:DY:rj
+[>2G^<	.	fz
+=127	=127	=127
+4G]	.	.
+!	!	!LO:DY:rj
+[>2E^<	.	fz
+!!LO:LB:g=original
+=128	=128	=128
+4E]	.	.
+!	!	!LO:DY:rj
+(>2D-X	.	fz
+=129	=129	=129
+(>4C)\	.	.
+8c)	.	.
+8r	.	.
+4r	.	.
+=130	=130	=130
+(>4D-X	.	.
+8c)	.	.
+8r	.	.
+4r	.	.
+=131	=131	=131
+(>4Dn	.	.
+!LO:N:vis=8	!	!
+16c)	.	.
+16r	.	.
+(>8EL	.	.
+16cJk)	.	.
+16r	.	.
+!LO:TX:t=rall.	!	!
+[>8E	.	.
+=132	=132	=132
+8E]	.	.
+(>4G	.	.
+8B-XL	.	>
+8d	.	.
+8cJ)	.	]
+=133	=133	=133
+!LO:TX:b:B:t=a tempo.	!	!
+4A	.	.
+4G	.	.
+4c	.	.
+=134	=134	=134
+2C\	.	.
+8DL	.	.
+8EJ	.	.
+!!LO:LB:g=original
+=135	=135	=135
+(>4F	.	.
+8EL	.	<
+8F	.	[[
+8.c	.	>
+16B-XJk	.	]
+=136	=136	=136
+4A	.	.
+4G)	.	.
+(>4A	.	<
+=137	=137	=137
+4B-X	.	.
+4A	.	.
+4d)	.	[[
+=138	=138	=138
+2D	.	.
+(>8EL	.	.
+8F#XJ	.	.
+=139	=139	=139
+2G	.	<
+8AL	.	.
+8B-XJ	.	.
+=140	=140	=140
+2B-y)	.	[
+4C\	.	.
+=141	=141	=141
+(>4.C\	.	.
+16DLL	.	<
+16EJJ	.	.
+8FL	.	.
+8F#XJ	.	[
+=142	=142	=142
+4G)	.	.
+8.BL	.	>
+(>16AJk	.	.
+16GLL	.	.
+16F	.	.
+16E	.	.
+16DJJ)	.	]
+!!LO:LB:g=original
+=143	=143	=143
+8CL	.	.
+16DL	.	.
+16EJJ	.	.
+8FL	.	.
+(>8E'>	.	.
+8F'>	.	.
+8F#XJ'>)	.	.
+=144	=144	=144
+16GLL	.	<
+16A	.	.
+16B-X	.	.
+16BnJJ	.	[
+4.c	.	.
+[>8B-y	.	.
+=145	=145	=145
+!LO:N:vis=8	!	!
+4B-X]	.	.
+(>4A^<	.	.
+16G#XLL	.	.
+16AJJ	.	.
+16B-L	.	.
+16AJ)	.	.
+=146	=146	=146
+8A`>	.	.
+4G#X	.	.
+(>8G#	.	.
+8AL	.	.
+8BnJ	.	.
+=147	=147	=147
+8G#XL)	.	.
+(>8EJ	.	.
+4.A	.	<
+8B	.	[[
+!!LO:PB:g=original
+=148	=148	=148
+8G#XL)	.	.
+(>8EJ	.	.
+4A	.	.
+8B)	.	.
+8B	.	.
+=149	=149	=149
+*clefC4	*	*
+(>2B	.	.
+8f#XL	.	.
+8g#XJ)	.	.
+=150	=150	=150
+(>2e^<	.	.
+8BL	.	.
+8AJ)	.	.
+=151	=151	=151
+8.G#XL	.	.
+16BJ	.	.
+(>4e	.	<
+8f#XL	.	.
+8g#XJ	.	[
+=152	=152	=152
+2e	.	>
+4B)	.	]
+=153	=153	=153
+[<2.E	.	.
+=154	=154	=154
+4E]	.	.
+4r	.	.
+4r	.	.
+=155	=155	=155
+2.r	.	.
+=156	=156	=156
+2.r	.	.
+=157	=157	=157
+2.r	.	.
+=158	=158	=158
+2.r	.	.
+!!LO:LB:g=original
+=159	=159	=159
+*clefF4	*	*
+!LO:TX:a:t=P:klucz F4 w poprzednim takcie przed pagebreak:problem	!	!
+4r	.	.
+4r	.	.
+4E	.	.
+=160	=160	=160
+[>2.E	.	.
+=161	=161	=161
+4.E]	.	.
+(>16D#XLL	.	<
+16EJJ	.	.
+16FLL	.	[
+16E	.	>
+16D#	.	.
+16EJJ	.	]]
+=	=	=
+16G#XL)	.	.
+(>16D#XL	.	.
+16EJJ	.	.
+16BLL)	.	.
+(>16D#	.	.
+16EJJ	.	.
+8e)	.	.
+8r	.	.
+=162	=162	=162
+16qqGGn/LL	.	.
+16qqD	.	.
+16qqB/JJ	.	.
+!	!	!LO:DY:rj
+[>2.g	.	ff
+*clefC4	*	*
+=163	=163	=163
+4g]	.	<
+(>4g'>	.	.
+4g'>)	.	[[
+!!LO:LB:g=original
+=164	=164	=164
+4.g	.	.
+(>16eLL	.	.
+16fJJ	.	.
+16gLL	.	.
+16a	.	.
+16g	.	.
+16f#XJJ)	.	.
+=165	=165	=165
+8g`>LL	.	.
+(>16c	.	.
+16dJJ	.	.
+4.e)	.	.
+(>16fLL	.	>
+16eJJ)	.	.
+=166	=166	=166
+8d`>	.	]
+4G^^>\	.	.
+(>16ALL	.	<
+16BJJ	.	.
+16cLL	.	.
+16d	.	.
+16e	.	.
+16fJJ)	.	[
+=167	=167	=167
+(>16eLL	.	.
+16d)	.	.
+(>16dM	.	.
+16c#XJJ)	.	.
+(>16eLL	.	.
+16d)	.	.
+(>16dM	.	.
+16c#JJ)	.	.
+8d`>	.	.
+(>16eLL	.	<
+16fJJ	.	.
+=168	=168	=168
+4.g)	.	[
+(>16eLL	.	.
+16fJJ	.	.
+16gLL	.	<
+16a	.	.
+16gM	.	.
+32rc	.	.
+32f#XJJk)	.	[
+!!LO:LB:g=original
+=169	=169	=169
+8gL`>	.	.
+(>16cL	.	.
+16dJJ	.	.
+4.e^<	.	.
+16fLL)	.	.
+16eJJ	.	.
+=170	=170	=170
+8d	.	.
+[>8A^^>	.	.
+16ALL]	.	.
+(>16B	.	<
+16A	.	.
+16BJJ	.	.
+16cLL	.	.
+16d	.	.
+16e	.	.
+16dJJ)	.	[
+=171	=171	=171
+16cLL	.	.
+16B	.	.
+16A	.	.
+16BJJ	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+(>4d^<	.	.
+8c)	.	.
+8r	.	.
+*clefF4	*	*
+=172	=172	=172
+!LO:TX:a:t=pizzi.	!	!
+4CC	.	.
+4r	.	.
+4r	.	.
+=173	=173	=173
+4C'<	.	.
+4C'<	.	.
+4C'<	.	.
+!!LO:LB:g=original
+=174	=174	=174
+4GG	.	.
+4r	.	.
+4C	.	.
+=175	=175	=175
+4GG	.	.
+4GG	.	.
+4GG	.	.
+=176	=176	=176
+4C	.	.
+4r	.	.
+4r	.	.
+=177	=177	=177
+4C	.	.
+4C	.	.
+4AA	.	.
+=178	=178	=178
+4FF	.	.
+4r	.	.
+!LO:TX:a:t=coll'arco.	!	!
+4FF	.	.
+=179	=179	=179
+!	!LO:TX:t=cres_cen_do.:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:t=cres_cen_do.:ext=ud
+(<2GG	.	<
+4GG	.	.
+=180	=180	=180
+2.AA	.	.
+=181	=181	=181
+4AA-X)	.	.
+4r	.	[
+4c 4E-X 4GG	.	.
+=182	=182	=182
+4c 4En 4GG	.	.
+4r	.	.
+4r	.	.
+!!LO:LB:g=original
+=183	=183	=183
+*clefC4	*	*
+!	!	!LO:DY:rj
+(>2e	.	f
+8dL	.	.
+8cJ)	.	.
+=184	=184	=184
+(>4.G\	.	.
+8cL	.	.
+8e	.	.
+8gJ)	.	.
+=185	=185	=185
+4.a	.	.
+(>8gL	.	.
+8f	.	.
+8dJ)	.	.
+=186	=186	=186
+(>2ee	.	rf
+4dd	.	.
+=187	=187	=187
+2e	.	pp
+8dL	.	.
+8cJ)	.	.
+=188	=188	=188
+(>4.G\	.	.
+8cL	.	.
+8e	.	.
+8gJ)	.	.
+=189	=189	=189
+(>4.a	.	.
+(>8gL)	.	.
+8f)	.	.
+(>8dJ	.	.
+!!LO:LB:g=original
+=190	=190	=190
+!LO:TX:a:t=P:w źródle brak zakończenia łuku:problem	!	!
+(>2ee)	.	.
+4dd	.	.
+=191	=191	=191
+8e)	.	.
+(>4g	.	.
+8aL	.	.
+8g	2	.
+8dJ	2	.
+=192	=192	=192
+8e)	.	.
+(>4g	.	.
+8a'>L	.	.
+8g'>	.	.
+8dJ	.	.
+=193	=193	=193
+8e)	.	.
+8r	.	.
+4r	.	.
+4r	.	.
+=194	=194	=194
+!LO:TX:a:B:t=1	!	!
+2.r	.	.
+=195	=195	=195
+8r	.	.
+!	!	!LO:DY:rj
+(>4e-	.	pp
+8fL	.	.
+8e-	.	.
+8B-J	.	.
+=196	=196	=196
+8c	.	.
+4e-)	.	.
+(>8fL	.	.
+8e-	.	.
+8b-^^>J)	.	.
+=197	=197	=197
+[>2.cc	.	<
+=198	=198	=198
+8cc]	.	f
+4cc	.	.
+4cc	.	.
+(>8cc	.	.
+!!LO:LB:g=original
+=199	=199	=199
+8een)	.	.
+8r	.	.
+4r	.	.
+4r	.	.
+=200	=200	=200
+!LO:TX:a:B:t=1	!	!
+2.r	.	.
+=201	=201	=201
+(>2e	.	f
+8dL	.	.
+8cJ)	.	.
+=202	=202	=202
+(>4.G\	.	.
+8cL	.	.
+8e	.	.
+8gJ)	.	.
+=203	=203	=203
+(>4.a	.	.
+8gL	.	.
+8f	.	.
+8dJ)	.	.
+=204	=204	=204
+!	!	!LO:DY:rj
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+(>2ee^<	.	rf
+4dd	.	.
+=205	=205	=205
+!	!	!LO:DY:rj
+2e	.	pp
+8dL	.	.
+8cJ)	.	.
+=206	=206	=206
+(>4.G\	.	.
+8cL	.	.
+8e	.	.
+8gJ)	.	.
+!!LO:LB:g=original
+=207	=207	=207
+4.a	.	.
+(>8gL	.	.
+8f)	.	.
+(>8dJ	.	.
+=208	=208	=208
+2ee	.	.
+4dd	.	.
+=209	=209	=209
+8e)	.	.
+(>4g	.	.
+8aL	.	.
+8g	2	.
+8dJ)	2	.
+=210	=210	=210
+8e	.	.
+(>4g	.	.
+8aL	.	.
+8g	.	.
+8dJ	.	.
+=211	=211	=211
+8e)	.	.
+8r	.	.
+4r	.	.
+4r	.	.
+=212	=212	=212
+!LO:TX:a:B:t=1	!	!
+2.r	.	.
+=213	=213	=213
+4g#^^>	.	.
+(>4a	.	.
+4cc)	.	.
+=214	=214	=214
+4cc	.	.
+(<2bt	.	.
+16qqaL	.	.
+16qqbJ)	.	.
+!!LO:LB:g=original
+=215	=215	=215
+8cc	.	.
+8r	.	.
+*clefF4	*	*
+8FFL	.	.
+16AL 16D 16AA	.	.
+(<16AJJ 16D	.	.
+8GGL/	.	.
+16BL 16F)	.	.
+(<16BJJ 16F	.	.
+=216	=216	=216
+8AAL/	.	.
+16cL 16E)	.	.
+(<16cJJ 16E	.	.
+8FFL	.	.
+16AL 16D 16AA)	.	.
+(<16AJJ 16D	.	.
+8GGL/	.	.
+16BL 16F)	.	.
+(<16BJJ 16F	.	.
+=217	=217	=217
+8CCL	.	.
+16cL 16E 16GG)	.	.
+(<16cJJ 16E	.	.
+8FFL	.	.
+16AL 16D 16AA)	.	.
+(<16AJJ 16D	.	.
+8GGL/	.	.
+16BL 16F)	.	.
+(<16BJJ 16F	.	.
+=218	=218	=218
+8AAL/	.	.
+16cL 16E)	.	.
+(<16cJJ 16E	.	.
+8FFL	.	.
+16AL 16D 16AA)	.	.
+(<16AJJ 16D	.	.
+8GGL/	.	.
+16BL 16F)	.	.
+(<16BJJ 16F	.	.
+!!LO:LB:g=original
+=	=	=
+4CC)	.	.
+*clefC4	*	*
+4g	.	.
+4g	.	.
+[>8g	.	.
+=219	=219	=219
+8g]	.	.
+*clefG2	*	*
+4gg	.	.
+4gg	.	.
+8gg	.	.
+=220	=220	=220
+*clefF4	*	*
+!	!	!LO:DY:rj
+2.E 2.CC	.	ff
+=221	=221	=221
+2.c 2.E	.	.
+=222	=222	=222
+*clefC4	*	*
+2.e 2.c	.	.
+=223	=223	=223
+(>2.g 2.e	.	.
+=224	=224	=224
+8cc 8e)	.	.
+8r	.	.
+*clefF4	*	*
+8c 8E 8GG 8CC	.	.
+8r	.	.
+8e 8G 8C	.	.
+8r	.	.
+=225	=225	=225
+2.C;> 2.CC	.	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cres." fontstyle="normal"
+!!!RDF**dynam: > = "dim." fontstyle="italic"
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2019-11-12
+!!!EED: 
+!!!EST: 
+!!!rism-genre: Polonaise
+!!!rism-key: C major
+!!!rism-opus: op.  3
+!!!rism-title: Polonaise in C major op.  3
+!!!rism-permalink: https://opac.rism.info/search?id=300605283&View=rism

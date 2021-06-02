@@ -1,0 +1,726 @@
+!!!!SEGMENT: 028_1-12-1a-C-012.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Prelude XII
+!!!OPS: Op. 28
+!!!PTL: 24 Preludes pour le Piano
+!!!PPR: Catelin
+!!!PPP: Paris
+!!!NIFC-rismID: 1001065078
+!!!NIFC-shelfmark: PL-Wbfc 6583/n
+!!!OMD: Presto.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*S
+*clefF4	*clefG2	*
+*k[f#c#g#d#a#]	*k[f#c#g#d#a#]	*
+*g#:	*g#:	*
+*M3/4	*M3/4	*
+*MM222	*MM222	*
+=1	=1	=1
+*	*^	*
+*ped	*	*	*
+!	!	!LO:TX:t=P:nie wyświetla się "Presto." (!!!OMD):problem	!
+!	!	!	!LO:DY:rj
+4G# 4D# 4GG#\	(>8d#L	4B^<	f
+.	8eJ	.	.
+4GG#' 4GGG#	8eL	4B	.
+.	8f#XJ	.	.
+*Xped	*	*	*
+!	!	!LO:TX:a:t=P:note position:4d# 4B przed 8eL:problem	!
+4D#' 4DD#	8eL	4d# 4B	.
+.	8f#J	.	.
+=2	=2	=2	=2
+*ped	*	*	*
+4G# 4D# 4GG#\	8f#L	4d#^< 4B	.
+.	8f##XJ	.	.
+!	!LO:TX:b:Bi:t=cres _:problem:dynamics with extention lines	!	!
+!	!	!	!LO:HP:b:Bi:t=cres:ext=ud
+4GG#' 4GGG#	8f##L	4d# 4B	<
+.	8g#J	.	.
+*Xped	*	*	*
+4D#' 4DD#	8g#L	4d# 4B	.
+.	8g##XJ	.	.
+=3	=3	=3	=3
+*ped	*	*	*
+4B 4G# 4D#	8g##XL	4d#^<	.
+.	8a#J	.	.
+4GG#' 4GGG#	8a#L	4d#	.
+.	8bJ	.	.
+*Xped	*	*	*
+4D#' 4DD#	8bL	4g## 4d#	.
+.	8b#XJ	.	.
+=4	=4	=4	=4
+*ped	*	*	*
+4B 4G# 4D#	8b#XL	4g# 4d#	.
+.	8cc#J	.	.
+4GG#' 4GGG#	8cc#L	4g# 4d#	.
+*Xped	*	*	*
+.	8cc##XJ	.	.
+4D#' 4DD#	8cc##L	4g# 4d#	[
+.	8dd#J	.	.
+=5	=5	=5	=5
+*ped	*	*	*
+4A#' 4D#	8dd#L	4a# 4d#	.
+.	8eeJ	.	.
+4D#' 4FF##X	8eeL	4a#	.
+.	8dd#J	.	.
+4A#' 4D#	8dd#L	4a# 4d#	.
+*Xped	*	*	*
+.	8cc#J	.	.
+=6	=6	=6	=6
+*ped	*	*	*
+4D#' 4GG#	8cc#L	4g# 4d#	.
+.	8bJ	.	.
+4B' 4D#	8bL	4g# 4d#	.
+.	8cc#J	.	.
+4D#' 4GG#	8cc#L	4g# 4d#	.
+*Xped	*	*	*
+.	8dd#J	.	.
+!!LO:LB:g=original
+=7	=7	=7	=7
+*ped	*	*	*
+4G#' 4C#	8dd#L	4g# 4e	.
+.	8cc#J	.	.
+4C#' 4CC#	8cc#L	4g# 4e	.
+.	8bJ	.	.
+4G#' 4C#	8bL	4e 4c#	.
+*Xped	*	*	*
+.	8a#J)	.	.
+=8	=8	=8	=8
+*ped	*	*	*
+4F##X' 4D#	(>8rdd	4c#	.
+.	8bL	.	.
+4D#' 4DD#	8b	4c#	.
+.	8a#J	.	.
+4F##' 4D#	8a#L	4c#	.
+*Xped	*	*	*
+.	8d#J)	.	.
+=9	=9	=9	=9
+4G# 4D# 4GG#\	(>8d#L	4B^<	.
+.	8eJ	.	.
+4GG#' 4GGG#	8eL	4B	.
+.	8e#XJ	.	.
+!	!	!LO:TX:a:t=P:note position:4d# 4B przed 8e#L:problem	!
+4D#' 4DD#	8e#L	4d# 4B	.
+.	8f#J	.	.
+=10	=10	=10	=10
+4G# 4D# 4GG#\	8f#L	4d#^< 4B	.
+.	8f##XJ	.	.
+!	!LO:TX:b:Bi:t=cres _:problem:dynamics with extention lines	!	!
+!	!	!	!LO:HP:b:Bi:t=cres:ext=ud
+4GG#' 4GGG#	8f##L	4d# 4B	<
+.	8g#J	.	.
+4D#' 4DD#	8g#L	4d# 4B	.
+.	8g##XJ	.	.
+=11	=11	=11	=11
+*ped	*	*	*
+4Gn 4E 4GGn\	8g##XL	4e 4B	.
+.	8a#J	.	.
+4GG' 4GGG#	8a#L	4e 4B	.
+.	8bJ	.	.
+*Xped	*	*	*
+4E' 4EE	8bL	4e 4B	.
+.	8b#XJ	.	.
+=12	=12	=12	=12
+*ped	*	*	*
+4B 4Gn 4Dn	8b#XL	4fn	.
+.	8cc#J	.	.
+4GG#' 4GGG#	8cc#L	4f	.
+*Xped	*	*	*
+.	8cc##XJ	.	.
+4G' 4GG#\	8rff)	4bn 4f	.
+.	(>8cc##	.	[
+=13	=13	=13	=13
+*ped	*	*	*
+4F# 4FF#	8dd#L	4b 4f#	.
+.	8eeJ	.	.
+4d# 4F#	8eeL	4b 4f#	.
+.	8dd#J	.	.
+4F# 4FF#	8dd#L	4b 4f#	.
+*Xped	*	*	*
+.	8ff#J	.	.
+!!LO:LB:g=original
+=14	=14	=14	=14
+*ped	*	*	*
+4e 4F#	8ff#L	4a# 4f#	.
+.	8cc#J	.	.
+4F# 4FF#	8cc#L	4a# 4f#	.
+.	8dd#J	.	.
+4e 4F#	8dd#L	4a# 4f#	.
+*Xped	*	*	*
+.	8eeJ)	.	.
+=15	=15	=15	=15
+*ped	*	*	*
+4F# 4FF#	(>8eeL	4b 4f#	.
+.	8dd#J	.	.
+4d# 4F#	8dd#L	4b 4f#	.
+.	8gg#J	.	.
+4F# 4FF#	8gg#L	4f#	>
+*Xped	*	*	*
+.	8ff#J	.	.
+=16	=16	=16	=16
+*ped	*	*	*
+4e 4F#	8ff#L	4a# 4f#	.
+.	8cc#J	.	.
+4F# 4FF#	8cc#L	4a# 4e	]
+.	8dd#J	.	.
+4c# 4F#	8dd#L	4a# 4e	.
+*Xped	*	*	*
+.	8eeJ	.	.
+=17	=17	=17	=17
+*ped	*	*	*
+4F# 4BB	8eeL	4b 4d#	.
+.	8dd#J	.	.
+4B 4F# 4BB	8dd#L	4d#	.
+*Xped	*	*	*
+.	8bJ	.	.
+4B 4Gn 4BB	8bL	4e	.
+.	8gnJ)	.	.
+=18	=18	=18	=18
+4B 4F# 4BB	(>8gnL	4d#	.
+.	8f#J	.	.
+4B 4F# 4BB	8f#L	4d#	.
+.	8bJ	.	.
+4B 4Gn 4BB	8bL	4e	.
+.	8gnJ)	.	.
+=19	=19	=19	=19
+4B 4F# 4BB	(>8f#L	4d#	.
+.	8bJ	.	.
+4B 4Gn 4E	8bL	4e	.
+.	8gnJ	.	.
+4B 4F# 4BB	8f#L	4d#	.
+.	8bJ	.	.
+=20	=20	=20	=20
+4B 4Gn 4E	8bL	4e	.
+.	8gnJ	.	.
+4B 4F# 4BB	8f#L	4dn	.
+.	8bJ	.	.
+4B 4G 4E	8bL	4e	.
+!	!LO:TX:a:t=P:problem:łuk kończy się na kresce taktowej	!	!
+.	8gJ)	.	.
+!!LO:LB:g=original
+=21	=21	=21	=21
+!	!	!LO:TX:b:t=P:diminuendolike accent:problem	!
+*ped	*	*	*
+!	!	!	!LO:DY:rj
+4B 4F# 4BB	(>2.b	8gn^<L 8e	ff
+.	.	8f#J 8dn	.
+.	.	8qg/	.
+4BB' 4BBB	.	8f#L 8d	.
+.	.	8eJ 8c#	.
+*Xped	*	*	*
+!	!LO:TX:a:t=P:problem:łuk kończy się na kresce taktowej	!	!
+4F#' 4BB	.	4f# 4d)	.
+=22	=22	=22	=22
+*ped	*	*	*
+4B 4F# 4BB	(>2.b	8gn^L 8e	.
+.	.	8f#J 8dn	.
+.	.	8qg/	.
+4BB' 4BBB	.	8f#L 8d	.
+.	.	8eJ 8c#	.
+*Xped	*	*	*
+!	!LO:TX:a:t=P:problem:łuk kończy się na kresce taktowej	!	!
+4F#' 4BB	.	4f# 4d)	.
+=23	=23	=23	=23
+*ped	*	*	*
+!	!LO:TX:t=P:g# przed (>8bL 8dn:problem	!	!
+4B 4E	4g#X	(>8bL 8dn	.
+.	.	8cc#J 8e	.
+!	!LO:TX:a:t=P:note position:4g#) przed (>8cc#L 8e:problem	!	!
+4E 4EE	4g#)	(>8cc#L 8e	.
+.	.	8bJ 8d	.
+!	!	!LO:TX:a:t=P:note position:(>8bL 8d nad 4B 4E:problem	!
+4B 4E	4g#)	(>8bL 8d	.
+*Xped	*	*	*
+!	!LO:TX:a:t=P:problem:nuty 4g# w źródle ustawione przed grupami 8-mek	!	!
+.	.	8cc#J 8e)	.
+=24	=24	=24	=24
+*ped	*	*	*
+!	!	!LO:TX:b:t=P:diminuendolike accent:problem	!
+4A# 4E 4AA#	4a#	8fn^L 8dn	.
+.	.	8eJ 8cn	.
+.	.	8qf/	.
+4AA#' 4AAA#	2ryy	8eL 8c\	.
+.	.	8dJ 8B	.
+*Xped	*	*	*
+4E [<4AA#	.	4e 4c\	.
+=25	=25	=25	=25
+*ped	*	*	*
+!	!	!LO:TX:b:t=P:diminuendolike accent:problem	!
+4A# 4E 4AA#]	(>2.a#	8fn^L 8dn	.
+.	.	8eJ 8cn	.
+.	.	8qf/	.
+4AA#' 4AAA#	.	8eL 8c	.
+.	.	8dJ 8B	.
+*Xped	*	*	*
+4E [<4AA#	.	4e 4c)	.
+=26	=26	=26	=26
+!	!	!LO:TX:b:t=P:diminuendolike accent:problem	!
+*ped	*	*	*
+4A# 4E 4AA#]	(>2.a#	8fn^L 8dn	.
+.	.	8eJ 8cn	.
+.	.	8qf/	.
+4AA#' 4AAA#	.	8eL 8c	.
+.	.	8dJ 8B	.
+*Xped	*	*	*
+4E 4AA#	.	4e 4c)	.
+!!LO:LB:g=original
+=27	=27	=27	=27
+*ped	*	*	*
+!	!LO:TX:t=P:(>8a#L 8cn nad 4A# 4Dn:problem	!	!
+4A# 4Dn	4f#	(>8a#L 8cn	.
+.	.	8bJ 8dn)	.
+!	!LO:TX:a:t=P:note position:4f# przed (>8bL 8d:problem	!	!
+4D 4DD#	4f#	(>8bL 8d	.
+.	.	8a#J 8c)	.
+*Xped	*	*	*
+!	!	!LO:TX:a:t=P:note position:(>8a#L 8c nad 4A# 4D:problem	!
+4A# 4D	4f#	(>8a#L 8c	.
+.	.	8bJ 8d)	.
+=28	=28	=28	=28
+*ped	*	*	*
+4G# 4Dn 4GGn\	2.gn	8e^<L 8cn	.
+.	.	8dnJ 8B	.
+.	.	8qe/	.
+4GG' 4GGG#	.	8dL 8B	.
+.	.	8cJ 8An	.
+*Xped	*	*	*
+4G#' 4GG\	.	4d 4B	.
+=29	=29	=29	=29
+4Gn 4Cn	8gnL	4e	.
+.	.	.	<
+.	8anJ	.	.
+4c# 4G 4C	8aL	4e	.
+.	8bJ	.	.
+4c# 4G 4C	8bL	4e	.
+.	8ccnJ	.	.
+=30	=30	=30	=30
+4c# 4Gn 4Cn	8ccnL	4e	.
+.	8ddnJ	.	.
+4c# 4F# 4C	8ddL	4an 4e	.
+.	8eeJ	.	[
+4B 4F# 4BB	8eeL	8aL 8e	.
+.	8ddJ	8d#J	.
+=31	=31	=31	=31
+4B 4E	(>8gnL	4e	.
+.	.	.	<
+.	8anJ	.	.
+4c# 4Gn 4Cn	8aL	4e	.
+.	8bJ	.	.
+4c# 4G 4C	8bL	4e	.
+.	8ccnJ	.	.
+=32	=32	=32	=32
+4c# 4Gn 4Cn	8ccnL	4e	.
+.	8ddnJ	.	.
+4c# 4F# 4C	8ddL	4an 4e	.
+.	8eeJ	.	.
+4B 4F# 4BB	8eeL	4a	.
+.	8ff#J 8dd#X	.	.
+=33	=33	=33	=33
+4B 4E	4ryy	4ggn 4ee 4gn)	[
+!	!LO:TX:b:Bi:t=cres _:problem:dynamics with extention lines	!	!
+!	!	!	!LO:HP:b:Bi:t=cres:ext=ud
+4B 4BB	(>8ggL 8ee	4an	<
+.	8ff#J 8dd#	.	.
+4B 4E	8ff#L 8dd#	4g	.
+.	8ggJ 8ee	.	.
+!!LO:LB:g=original
+=34	=34	=34	=34
+4B 4BB	8ggnL 8ee	4an	.
+.	8ff#J 8dd#	.	.
+4B 4E	8ff#L 8dd#	4gn	.
+.	8ggJ 8ee	.	.
+4B 4BB	4ryy	8ff##XL 8ee 8f##X	.
+.	.	8gg#XJ 8ee#X 8g#X	.
+*	*v	*v	*
+=35	=35	=35
+*ped	*	*
+4BB 4BBB	8gg#L 8ee#X 8g#	.
+.	8aanJ 8ff# 8an	.
+*Xped	*	*
+4c##X 4B 4E#X	8aaL 8ff# 8a	.
+.	8gg#J 8ee# 8g#	.
+4d# 4B 4F#	8gg#L 8ee# 8g#	.
+.	8aaJ 8ff# 8a	[[
+=36	=36	=36
+4c##X 4B 4E#X	8aanL 8ff# 8an	.
+.	8gg#J 8ee#X 8g#	.
+4d# 4B 4F#	8gg#L 8ee# 8g#	.
+.	8aaJ 8ff# 8a	.
+4BB' 4BBB	8gg##XL 8g##X	.
+.	8aa#XJ 8a#X	.
+=37	=37	=37
+*	*^	*
+*ped	*	*	*
+4AA#' 4AAA#	4ryy	4aa# 4ff# 4a#)	.
+!	!LO:TX:t=P:4aa#^> 4a# przed 8ff#L\:problem	!	!
+4d# 4A# 4F#	8ff#L\	4aa#^> 4a#	.
+.	8gg#J 8ee#X	.	.
+*Xped	*	*	*
+!	!LO:TX:t=P:4aa#^> 4a# przed 8gg#L 8ee#\:problem	!	!
+4f# 4d# 4A#	8gg#L 8ee#\	4aa#^> 4a#	.
+.	8ff#J 8dd#	.	.
+=38	=38	=38	=38
+*ped	*	*	*
+4A#' 4AA#	4ryy	4aa#^> 4gg# 4ee#X 4a#	.
+!	!LO:TX:t=P:4aa#^> 4a# przed 8gg#L 8ee#\:problem	!	!
+4c##X 4E#X	8gg#L 8ee#\	4aa#^> 4a#	.
+.	8ff#J 8dd#	.	.
+*Xped	*	*	*
+!	!LO:TX:t=P:4aa#^> 4a# przed 8ff#L 8dd#\:problem	!	!
+4g# 4e#X 4A#	8ff#L 8dd#\	4aa#^> 4a#	.
+.	8ee#J 8cc##X	.	.
+*	*v	*v	*
+=39	=39	=39
+*^	*	*
+*ped	*	*	*
+4D#' 4DD#	4ryy	4aa#' 4ff# 4dd# 4a#	.
+(>4A#	[>2D#	(>8ff#L 8a#	.
+.	.	8ee#XJ 8g#)	.
+4c##X	.	(>8ee#L 8g#	.
+*Xped	*	*	*
+.	.	8dd#J) 8f##X	.
+*v	*v	*	*
+!!LO:PB:g=original
+=40	=40	=40
+*	*^	*
+!LO:TX:b:t=P:problem:brak zakończenia ligatury	!	!	!
+4d# 4D#])	4dd# 4f##X	4ryy	.
+4D# 4DD#	(>4a#	8f##XL	.
+.	.	8eJ	.
+!	!	!LO:TX:a:t=P:note position:8e^<L nad 4c# 4D#:problem	!
+4c# 4D#	4bn 4f##	8e^<L	.
+.	.	8d#J	.
+=41	=41	=41	=41
+*ped	*	*	*
+!	!	!	!LO:DY:rj
+4G# 4D# 4GG#\	8d#L	4B^<	f
+.	8eJ	.	.
+4GG# 4GGG#	8eL	4B	.
+.	8e#XJ	.	.
+*Xped	*	*	*
+!	!	!LO:TX:a:t=P:note position:4d# 4B przed 8e#L:problem	!
+4D# 4DD#	8e#L	4d# 4B	.
+.	8f#J	.	.
+=42	=42	=42	=42
+*ped	*	*	*
+4G# 4D# 4GG#\	8f#L	4d#^< 4B	.
+.	8f##XJ	.	.
+!	!LO:TX:b:Bi:t=cres _:problem:dynamics with extention lines	!	!
+!	!	!	!LO:HP:b:Bi:t=cres:ext=ud
+4GG# 4GGG#	8f##L	4d# 4B	<
+*Xped	*	*	*
+.	8g#J	.	.
+4D# 4DD#	8g#L	4d# 4B	.
+.	8g##XJ	.	.
+=43	=43	=43	=43
+*ped	*	*	*
+4B 4G# 4D#	8g##XL	4d#^<	.
+.	8a#J	.	.
+4GG# 4GGG#	8a#L	4d#	.
+*Xped	*	*	*
+.	8bJ	.	.
+4D# 4DD#	8bL	4g## 4d#	.
+.	8b#XJ	.	.
+=44	=44	=44	=44
+*ped	*	*	*
+4B 4G# 4D#	8b#XL	4g# 4d#	.
+.	8cc#J	.	.
+4GG# 4GGG#	8cc#L	4g# 4d#	.
+*Xped	*	*	*
+.	8cc##XJ	.	.
+4D# 4DD#	8cc##L	4g# 4d#	[[
+.	8dd#J	.	.
+=45	=45	=45	=45
+*ped	*	*	*
+4A# 4D#	8dd#L	4a# 4d#	.
+.	8eeJ	.	.
+4D# 4FF##X	8eeL	4a#	.
+.	8dd#J	.	.
+*Xped	*	*	*
+4A# 4D#	8dd#L	4a# 4d#	.
+.	8cc#J	.	.
+=46	=46	=46	=46
+*ped	*	*	*
+4D# 4GG#	8cc#L	4g# 4d#	.
+.	8bJ	.	.
+4B 4D#	8bL	4g# 4d#	.
+.	8cc#J	.	.
+4D# 4GG#	8cc#L	4g# 4d#	.
+*Xped	*	*	*
+.	8dd#J	.	.
+!!LO:LB:g=original
+=47	=47	=47	=47
+*ped	*	*	*
+4G# 4C#	8dd#L	4g# 4e	.
+.	8cc#J	.	.
+4C# 4CC#	8cc#L	4g# 4e	.
+.	8bJ	.	.
+*Xped	*	*	*
+4G# 4C#	8bL	4e 4c#	.
+.	8a#J)	.	.
+=48	=48	=48	=48
+*ped	*	*	*
+4F##X 4D#	(>8rdd	4c#	.
+.	8bL	.	.
+4D# 4DD#	8b	4c#	.
+.	8a#J	.	.
+4F## 4D#	8a#L	4c#	.
+*Xped	*	*	*
+.	8d#J)	.	.
+=49	=49	=49	=49
+*ped	*	*	*
+4G# 4D# 4GG#\	(>8d#L	4B^	.
+.	8eJ	.	.
+4GG#' 4GGG#	8eL	4B	.
+*Xped	*	*	*
+!	!LO:TX:b:Bi:t=cres _:problem:dynamics with extention lines	!	!
+!	!	!	!LO:HP:b:Bi:t=cres:ext=ud
+.	8e#XJ	.	<
+!	!	!LO:TX:t=P:4d# 4B przed 8e#L:problem	!
+4D#' 4DD#	8e#L	4d# 4B	.
+.	8f#J	.	.
+=50	=50	=50	=50
+*ped	*	*	*
+4G# 4D# 4GG#\	8f#L	4d#^< 4B	.
+.	8f##XJ	.	.
+4FF#' 4FFF#	8f##L	4d# 4B	.
+*Xped	*	*	*
+.	8g#J	.	.
+4D#' 4FF#	8g#L	4d# 4B	.
+.	8g##XJ	.	.
+=51	=51	=51	=51
+*ped	*	*	*
+4G# 4E	8anL	4e 4B	.
+.	8a#XJ	.	.
+4EE' 4EEE	8a#L	4e 4B	.
+.	8bJ	.	.
+4G#' 4E	8bL	4e	.
+*Xped	*	*	*
+.	8b#XJ	.	.
+=52	=52	=52	=52
+*ped	*	*	*
+4Bn 4G# 4D#	8b#XL	4d#	.
+.	8cc#J	.	.
+4DD#' 4DDD#	8cc#L	4g# 4d#	.
+.	8cc##XJ	.	.
+4B' 4G# 4D#	8cc##L	4g# 4d#	.
+*Xped	*	*	*
+.	8dd#J	.	[
+!!LO:LB:g=original
+=53	=53	=53	=53
+!	!	!	!LO:DY:rj
+!	!	!LO:TX:t=P:wyświetlanie "f" w złym miejscu:problem	!
+8B 8G# 8C#	8dd#L	8g#^< 8e	f
+8r	8cc#J	8ryy	.
+4r	8cc#L	2ryy	.
+.	8bJ	.	.
+4r	8bL	.	.
+!	!LO:TX:a:t=P:problem:łuk kończy się na kresce taktowej	!	!
+.	8a#J)	.	.
+=54	=54	=54	=54
+8B 8G# 8D#	(>8cc#L	8g#^< 8d#	.
+8r	8bJ	8ryy	.
+4r	8bL	2ryy	.
+.	8a#J	.	.
+4r	8a#L	.	.
+.	8g#J)	.	.
+=55	=55	=55	=55
+8B 8G# 8C#	(>8dd#L	8g#^< 8e	.
+8r	8cc#J	8ryy	.
+4r	8cc#L	2ryy	.
+.	8bJ	.	.
+4r	8bL	.	.
+.	8a#J)	.	.
+=56	=56	=56	=56
+8B 8G# 8D#	(>8cc#L	8g#^< 8d#	.
+8r	8bJ	8ryy	.
+4r	8bL	2ryy	.
+.	8a#J	.	.
+4r	8a#L	.	.
+.	8g#J)	.	.
+=57	=57	=57	=57
+8G# 8E	(>8bL	8g#^< 8c#	.
+8r	8a#J	8ryy	.
+4r	8a#L	2ryy	<
+.	8bJ	.	.
+4r	8bL	.	.
+.	8a#J	.	.
+*	*v	*v	*
+=58	=58	=58
+2.rF	8a#L	.
+.	8bJ	.
+.	8bL	.
+.	8a#J	.
+.	8a#L	.
+.	8bJ	[[
+=59	=59	=59
+2.rF	8bL	.
+.	8a#J	.
+.	8a#L	.
+.	8bJ	.
+.	8bL	.
+.	8a#J	.
+!!LO:LB:g=original
+=60	=60	=60
+2.rF	8a#L	>
+.	8bJ	.
+.	8bL	.
+.	8a#J	.
+.	8a#L	.
+.	8bJ)	]
+=61	=61	=61
+!	!	!LO:HP:b=2
+(>8eL	[>2.a# [<2.g#	>
+8d#J	.	.
+8d#L	.	.
+8c#J	.	.
+8c#L	.	.
+8BJ	.	.
+=62	=62	=62
+8BL	2.a#_> 2.g#_<	.
+8A#J	.	.
+8A#L	.	.
+8G#J	.	.
+8G#L	.	.
+8F#J	.	]
+=63	=63	=63
+8F#L	2.a#_> 2.g#]	.
+8EJ	.	.
+8EL	.	.
+8D#J	.	.
+8D#L\	.	.
+8C#J	.	.
+=64	=64	=64
+*^	*^	*
+*ped	*	*	*	*
+[>2.D#)\	2ryy	(>2a#]	2.f##X 2.c#	.
+.	4DD#/	4b	.	.
+*Xped	*	*	*	*
+*v	*v	*	*	*
+=65	=65	=65	=65
+4D#] 4GG#	4g# 4B)	4ryy	.
+4C#' 4CC#	(>8g#L	4e 4c#	.
+.	8bJ	.	.
+4D#' 4DD#	8bL	4f##X 4c#	.
+.	8a#J	.	.
+=66	=66	=66	=66
+4G#' 4GG#	8a#L	4B	.
+.	8g#J	.	.
+4C#' 4CC#	(>8g#L)	4e 4c#	.
+.	8bJ	.	.
+4D#' 4DD#	8bL	4f##X 4c#	.
+.	8a#J	.	.
+!!LO:LB:g=original
+=67	=67	=67	=67
+4E' 4EE	8a#L	4B	.
+.	8g#J	.	.
+4BB' 4BBB	(>8f#L)	4d#	.
+.	8dd#J	.	.
+4C#' 4CC#	8dd#L	4a# 4e	.
+.	8cc#J	.	.
+=68	=68	=68	=68
+4D#' 4DD#	8cc#L	4g# 4d#	.
+.	8bJ	.	.
+4D#'/	8d#L	4d#	.
+.	8bJ	.	.
+4D#' 4DD#	8f##X 8bL	4c#	.
+.	8a#J	.	.
+=69	=69	=69	=69
+4D#' 4GG#	4g# 4B)	4ryy	.
+4C#' 4CC#	(>8g#L	4e 4c#	.
+.	8bJ	.	.
+4D#' 4DD#	8bL	4f##X 4c#	.
+.	8a#J	.	.
+=70	=70	=70	=70
+4E' 4EE	8a#L	4B	.
+.	8g#J	.	.
+4C#' 4CC#	(>8g#L)	4e 4c#	.
+.	8bJ	.	.
+4D#' 4DD#	8bL	4f##X 4c#	.
+.	8a#J	.	.
+=71	=71	=71	=71
+4E' 4EE	8a#L	4B	.
+!	!LO:TX:Bi:b:t=poco\ ritenuto.:dur=6e:ext=s:problem	!	!
+.	8g#J)	.	.
+4AAn' 4AAAn	(>8eL	4c#	.
+.	8cc#J	.	.
+4BB' 4BBB	8cc#L	4g# 4dn	.
+.	8bJ	.	.
+=72	=72	=72	=72
+4C#' 4CC#	8bL	4e 4c#	.
+.	8anJ	.	.
+4D#' 4DD#	8d#L	4B	.
+.	8g#J	.	.
+4DD#' 4DDD#	8g#L	[<4d# 4A#	.
+.	8f##XJ	.	.
+*	*v	*v	*
+=73	=73	=73
+4GG#' 4GGG#	4g# 4d#] 4B)	.
+4r	4r	.
+4r	4r	.
+!!LO:LB:g=original
+=74	=74	=74
+*^	*	*
+4rA	(<2.D# 2.DD#	[<2.d#^>	.
+!LO:TX:t=P:być może to nie łuk (8B 4G# tylko ligatura [2.D 4D]:problem	!	!	!
+(<8BL 8G#	.	.	.
+8A#J 8F##X	.	.	.
+8A#L 8F##	.	.	.
+8c#J 8A#	.	.	.
+=75	=75	=75	=75
+4B 4G#)	4D# 4GG#)	2d#]	.
+4r	2ryy	.	.
+4r	.	(<4e	>
+=76	=76	=76	=76
+4rA	(<2.D# 2.DD#	[<2.d#^>)	.
+!LO:TX:t=P:być może to nie łuk (8B 4G# tylko ligatura [2.D 4D]:problem	!	!	!
+(<8BL 8G#	.	.	.
+8A#J 8F##X	.	.	.
+8A#L 8F##	.	.	.
+8c#J 8A#	.	.	.
+=77	=77	=77	=77
+4B 4G#)	4D# 4GG#)	(<4d#]	.
+4r	2ryy	4f#	.
+4r	.	4e	.
+=78	=78	=78	=78
+4rA	(<2.D# 2.DD#	[<2.d#^>)	.
+!LO:TX:t=P:być może to nie łuk (8B 4G# tylko ligatura [2.D 4D]:problem	!	!	!
+(<8BL 8G#	.	.	.
+8A#J 8F##X	.	.	.
+8A#L 8F##	.	.	.
+8c#J 8A#	.	.	.
+=79	=79	=79	=79
+4B 4G#)	4D# 4GG#)	(<4d#]	.
+4r	2ryy	4g#	.
+4r	.	4f#	.
+=80	=80	=80	=80
+4r	2ryy	A4e	.
+!	!	!	!LO:DY:b=2
+4r	.	2d#)	ff
+4D#'	4DD#' 4DDD#	.	.
+*v	*v	*	*
+=81	=81	=81
+4GG#'< 4GGG#	4G#<'>	.
+4r	4r	.
+4r	4r	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: > = "dim:", fontstyle= "bold-italic"
+!!!RDF**kern: N = linked
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2019-05-11
+!!!EED: Leszek Kubiak
+!!!EST: 2019-05-16
+!!!EED2: Antoni Szymański
+!!!EST2: 2020-04-24
+!!!rism-genre: Prelude
+!!!rism-key: G-sharp minor
+!!!rism-opus: op. 28, no. 12
+!!!rism-title: Prelude in G-sharp minor op. 28, no. 12
+!!!rism-permalink: https://opac.rism.info/search?id=1001065078&View=rism
+!!!rism-773a-OPR: 1001065063
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001065063&View=rism

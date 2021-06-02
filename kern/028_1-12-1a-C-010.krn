@@ -1,0 +1,331 @@
+!!!!SEGMENT: 028_1-12-1a-C-010.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Preludium No. 10
+!!!OPS: Op. 28
+!!!PTL: 24 PRÉLUDES POUR le Piano
+!!!PPR: Catelin
+!!!PPP: Paris
+!!!NIFC-rismID: 1001065075
+!!!NIFC-shelfmark: PL-Wbfc 6583/n
+!!!OMD: Allo. molto.
+!!!OMD: X.
+**kern	**kern	**dynam
+*part1	*part1	*
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*c#:	*c#:	*
+*M3/4	*M3/4	*
+*MM144	*MM144	*
+!	!LO:TX:b:i:t=Leggiero.	!
+*ped	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+4r	&(>24ggg#LL	>
+!	!LO:TX:t=P:'Allo. molto.' i 'X.' nie wyświetla się. 'X.' powinno znajdować się przed pięcioliniami:problem	!
+.	24aaa	.
+.	24ggg#	.
+.	24aaa	.
+.	24ggg#	.
+.	24fff##XJJ	.
+.	.	]
+=1	=1	=1
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+!	!LO:TX:t=P:in the source there are no brackets in the whole measure:problem	!
+4e: 4G#: 4C#:	24cccc#LL 24ggg#	>
+.	24aaa	.
+.	24ggg#	.
+.	16eee	.
+.	16ddd#JJ	]
+4r	24ggg#LL 24ccc#	>
+.	24ddd#	.
+.	24ccc#	.
+.	16aa	.
+*Xped	*	*
+.	16gg#JJ	]
+*ped	*	*
+8A: 8C#: 8FF#:	24ccc#LL 24ff#	>
+.	24gg#	.
+.	24ff#	.
+8r	16ee	.
+.	16dd#JJ	]
+*Xped	*	*
+.	.	.
+!!LO:LB:g=original
+=2	=2	=2
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+!	!LO:TX:t=P:in the source there are no brackets, in the next measures also:problem	!
+*ped	*	*
+8e: 8G#: 8C#:	24gg#LL 24cc#	>
+.	24dd#	.
+.	24cc#	.
+8r	16a	.
+*Xped	*	*
+.	.	.
+.	16g#JJ	]
+*ped	*	*
+8A: 8C#: 8FF#:	24cc#LL 24f#	>
+.	24g#	.
+.	24f#	.
+8r	16e	.
+*Xped	*	*
+.	.	.
+.	16d#JJ	]
+*ped	*	*
+8E: 8GG#: 8CC#:	24g#LL 24c#	>
+.	24d#	.
+.	24c#	.
+8r	16B	.
+*Xped	*	*
+.	16AJJ	]
+.	.	.
+=3	=3	=3
+*^	*	*
+*	*	*^	*
+4rFF	2ryy	4ryy)	2.G#<^>&)	.
+2GG#\	.	(>4B#X< 4D#<	.	.
+!	!	!LO:S:s=1:note:problem:note-level slur	!	!
+.	4GGG#\	(>4A#X< 4C#<	.	.
+=4	=4	=4	=4	=4
+!LO:TX:a:t=P:problem:półnuta G przed innymi nutami	!	!	!	!
+8GG#L\	2ryy	8.B#X<L 8.D#<	2G#<)	.
+16rGG	.	.	.	.
+16GG#Jk	.	16c#<Jk 16E<	.	.
+2GG#\	.	4d#< 4B#< 4F#<	.	.
+.	4GGG#	4e^> 4G#<)	4ryy	.
+*	*	*v	*v	*
+*v	*v	*	*
+=5	=5	=5
+*ped	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+4e: 4G#: 4C#:	(>24cccc#LL 24ggg#	>
+.	24aaa	.
+.	24ggg#	.
+.	16eee	.
+.	16ddd#JJ	]
+4r	24ggg#LL 24ccc#	>
+.	24ddd#	.
+.	24ccc#	.
+.	16aa	.
+*Xped	*	*
+.	.	.
+.	16gg#JJ	]
+*ped	*	*
+8A: 8C#: 8FF#:	24ccc#LL 24ff#	>
+.	24gg#	.
+.	24ff#	.
+8r	16ee	.
+*Xped	*	*
+.	16dd#JJ	]
+!!LO:LB:g=original
+=6	=6	=6
+*ped	*	*
+*	*Xtuplet	*
+8e: 8G#: 8C#:	24gg#LL 24cc#	>
+.	24dd#	.
+.	24cc#	.
+*	*tuplet	*
+8r	16a	.
+*Xped	*	*
+.	.	]
+.	16g#JJ	.
+*ped	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+8A: 8C#: 8FF#:	24cc#LL 24f#	>
+.	24g#	.
+.	24f#	.
+8r	16e	.
+*Xped	*	*
+.	.	.
+.	16d#JJ	]
+*ped	*	*
+8E: 8GG#: 8CC#:	24g#LL 24c#	>
+.	24d#	.
+.	24c#	.
+8r	16B	.
+*Xped	*	*
+.	16A#XJJ)	]
+=7	=7	=7
+*	*^	*
+*^	*	*	*
+2.G#	4rFF	4r	4ryy	.
+.	4DD#	(>2d#^> 2D#<	4B<	.
+.	16qqCC##X/LL	.	.	.
+.	16qqDD#/JJ	.	.	.
+*ped	*	*	*	*
+!	!LO:TX:a:t=P:problem: "tr" niżej	!	!	!
+.	4DD#t	.	4A#X</ 4F##X<	.
+.	16qqCC##/LL	.	.	.
+.	16qqDD#/JJ	.	.	.
+*Xped	*	*	*	*
+*v	*v	*	*	*
+*	*v	*v	*
+=8	=8	=8
+8GG#L	8.B<L 8.G#< 8.D#<	.
+16rFF	.	.
+16GG#Jk	16c#<Jk 16A#X< 16D#<	.
+4GG#	4d#< 4B< 4D#<	.
+4GGG#	4g#^> 4G#<)	.
+=9	=9	=9
+*ped	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+8A: 8C#: 8FF#:	(>24cccc#LL 24fff#	>
+.	24ggg#	.
+.	24fff#	.
+8r	16dddn	.
+.	.	]
+*Xped	*	*
+.	16ccc#JJ	.
+*ped	*	*
+8dn: 8F#: 8BB:	24fff#LL 24bb	>
+.	24ccc#	.
+.	24bb	.
+8r	16aa	.
+*Xped	*	*
+.	16gg#JJ	]
+*ped	*	*
+8A: 8C#: 8FF#:	24ccc#LL 24ff#	>
+.	24gg#	.
+.	24ff#	.
+8r	16ddni	.
+.	.	]
+*Xped	*	*
+.	16cc#JJ	.
+!!LO:LB:g=original
+=10	=10	=10
+*ped	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+8dn: 8F#: 8BB:	24ff#LL 24b	>
+.	24cc#	.
+.	24b	.
+8r	16a	.
+*Xped	*	*
+.	.	]
+.	16g#JJ	.
+*ped	*	*
+8A: 8C#: 8FF#:	24cc#LL 24f#	>
+.	24g#	.
+.	24f#	.
+8r	16dn	.
+.	.	]
+.	16c#JJ	.
+4r	24f#LL 24B	>
+.	24c#	.
+.	24B	.
+.	16A	.
+*Xped	*	*
+.	16G#JJ)	]
+=11	=11	=11
+*	*^	*
+*	*	*^	*
+4rEE	2.F#<^>	4ryy	4ryy	.
+!	!	!	!LO:TX:t=P:laseczka do górnej pięciolinii:problem	!
+4FF#	.	(>4c#	2A< 2C#<	.
+4DD#	.	4d#	.	.
+*	*	*v	*v	*
+=12	=12	=12	=12
+*^	*	*	*
+8GG#L\	2ryy	8.B#X<L 8.G#< 8.D#<	4ryy	.
+16rGG	.	.	.	.
+16GG#Jk	.	16c#<Jk 16G#< 16E<	.	.
+2GG#\	.	4d# 4F#<	2B#<	.
+.	4GGG#\	4e 4G#<)	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=13	=13	=13
+*ped	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+4e: 4G#: 4C#:	(>24cccc#LL 24ggg#	>
+.	24aaa	.
+.	24ggg#	.
+.	16eee	.
+.	.	]
+.	16ddd#JJ	.
+4r	24ggg#LL 24ccc#	>
+.	24ddd#	.
+.	24ccc#	.
+*Xped	*	*
+.	16aa	.
+.	16gg#JJ	]
+*ped	*	*
+8A: 8C#: 8FF#:	24ccc#LL 24ff#	>
+.	24gg#	.
+.	24ff#	.
+8r	16ee	.
+*Xped	*	*
+.	16dd#JJ	]
+!!LO:LB:g=original
+=14	=14	=14
+*ped	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+8e: 8G#: 8C#:	24gg#LL 24cc#	>
+.	24dd#	.
+.	24cc#	.
+*Xped	*	*
+8r	16a	]
+.	16g#JJ	.
+*ped	*	*
+8A: 8C#: 8FF#:	24cc#LL 24f#	>
+.	24g#	.
+.	24f#	.
+8r	16e	.
+*Xped	*	*
+.	.	]
+.	16d#JJ	.
+*ped	*	*
+.	.	>
+8E: 8GG# 8CC#	24g#LL 24c#	.
+.	24d#	.
+.	24c#	.
+8r	16B	]
+*Xped	*	*
+.	16AJJ	.
+=15	=15	=15
+*^	*	*
+*	*	*^	*
+4rFF	2ryy	2.G#<^>)	4ryy	.
+2GG#\	.	.	(>4B#X< 4D#<	.
+.	4GGG#	.	4c#< 4E<	.
+*	*	*v	*v	*
+*v	*v	*	*
+=16	=16	=16
+8GG#L\	8.d#<L 8.B#X< 8.F#<	.
+16rFF	.	.
+16GG#Jk	16eJk 16G#<	.
+4CC#\	4c#< 4E<)	.
+4rFF	(>[<4a^> [>4A<	.
+=17	=17	=17
+*^	*	*
+*	*	*^	*
+!	!	!	!LO:TX:t=P:problem:cauda do górnej pięciolinii	!
+4rFF	2ryy	4a]	2.A<]	.
+2GG#\	.	4B#X< 4D#<	.	.
+.	4GGG#	4c#< 4E<	.	.
+*	*	*v	*v	*
+*v	*v	*	*
+=18	=18	=18
+8GG#L\	8d#<L 8B#X< 8G#< 8F#<)	.
+16rFF	16rB<	.
+!	!LO:TX:t=P:łuk powinien być nad laseczkami nut:problem	!
+16GG#Jk	(>16eJk 16B#< 16F#<	.
+4CC#\	4c# 4E<)	.
+4r	4r	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**kern: i = editorial accidental, bracket
+!!!ENC: Marta Lawrence
+!!!END: 2019-04-30
+!!!EED: Leszek Kubiak
+!!!EST: revision finished 2019-05-13
+!!!EED2: Zofia Niedbalska
+!!!EST: revision finished 2020-05-19
+!!!rism-genre: Prelude
+!!!rism-key: C-sharp minor
+!!!rism-opus: op.  28, no. 10
+!!!rism-title: Prelude in C-sharp minor op.  28, no. 10
+!!!rism-permalink: https://opac.rism.info/search?id=1001065075&View=rism
+!!!rism-773a-OPR: 1001065063
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001065063&View=rism

@@ -1,0 +1,771 @@
+!!!!SEGMENT: 025_1-6-1d-BH-004.krn
+!!!COM: F. Chopin
+!!!OTL: 4me ETUDE.
+!!!OPS: Op. 25
+!!!PTL: Douze Etudes
+!!!PPR: Breitkopf & Härtel
+!!!PPP: Leipzig
+!!!NIFC-rismID: 1001014795
+!!!NIFC-shelfmark: PL-Wbfc 4259/n
+!!!OMD: ([quarter] = 160.)
+!!!OMD: Agitato.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"4ᵐᵉ | ETUDE.	*	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*a:	*a:	*
+*M2/2	*M2/2	*
+*met(c|)	*met(c|)	*
+*MM160	*MM160	*
+(4E^<	4r	p
+=1	=1	=1
+8AA`>L)	8r	.
+8c`>J 8E`>	8ee`>\ 8a`>\ 8e\`>	.
+8C`>L	8r	.
+8e`>J 8A`>	8aa`> 8ee`> 8a`>	.
+8BB`>L	8r	.
+8d`>J 8F`>	8aa`> 8dd`> 8a`>	.
+8E`>L	8r	.
+8e`>J 8B`>	8gg#X`> 8ee`> 8g#X`>	.
+=2	=2	=2
+8C`>L	8r	.
+8e`>J 8A`>	8ee`> 8a`>	.
+8AA`>L	8r	.
+8e`>J 8A`>	8ccc`> 8ee`> 8cc`>	<
+8D`>L	8r	.
+8f`>J 8A`>	8ccc`> 8ff`> 8cc`>	.
+8D`>L	8r	.
+8f`>J 8G#X`>	8bb`> 8ff`> 8b`>	.
+=3	=3	=3
+8C`>L	8r	.
+8f`>J 8A`>	8aa`> 8ff`> 8a`>	.
+8C`>L	8r	.
+8e`>J 8A`>	8eee`> 8aa`> 8ee`>	.
+8BB`>L	8r	[
+8d`>J 8F`>	8ddd`> 8aa`> 8dd`>	.
+8EE`>L<	8r	.
+8d`>J 8B`> 8E`>	8eee`> 8gg#X`> 8ee`>	.
+!!LO:LB:g=original
+=4	=4	=4
+8AA`>L	8r	.
+8c`>J 8E`>	8ccc`> 8ee`> 8cc`>	>
+8BB`>L	8r	.
+8d`>J 8E`>	8gg#X`> 8ee`> 8g#X`>	.
+8C`>L	8r	.
+8e`>J 8E`>	8aa`> 8ee`> 8a`>	.
+8AA`>L	8r	.
+8c`>J 8E`>	8ccc`> 8ee`> 8cc`>	]
+=5	=5	=5
+8EE`>L<	8r	.
+8d`>J 8E`>	8bb 8ee 8b`	.
+8AA`>L	8r	.
+8c`>J 8E`>	8aa 8ee 8a`	.
+8BB`>L	8r	.
+8d`>J 8G#X`> 8E`>	8ee\ 8b\ 8e\`	.
+8AA`>L	8r	.
+8c`>J 8A`> 8E`>	8aa 8ee 8a`	.
+=6	=6	=6
+8EE`>L<	8r	.
+8dJ 8G#X`> 8E`>	8bb`> 8ee`> 8b`>	.
+8AA`>L	8r	.
+8c`>J 8A`> 8E`>	8aa`> 8ee`> 8a`>	.
+8BB`>L	8r	.
+8d`>J 8G#`> 8E`>	8ee`>\ 8b`>\ 8e`>\	<
+8AA`>L	8r	.
+8c`>J 8A`> 8E`>	8aa`> 8ee`> 8a`>	.
+=7	=7	=7
+8GGn`>L	8r	.
+8e`>J 8Gny`>	8bb`> 8ee`> 8b`>	.
+8AA`>L	8r	.
+8e`>J 8A`>	8ccc`> 8ee`> 8cc`>	.
+8BB`>L	8r	[
+8e`>J 8B`>	8gg`> 8b`> 8g`>	>
+8BB`>L	8r	.
+8d#X`>J 8B`>	8ff#X`> 8b`> 8a`>	.
+.	.	]
+!!LO:LB:g=original
+=8	=8	=8
+8E`>L	8r	.
+8e`>J 8B`>	8ee`> 8b`> 8g#X`>	.
+8D#X`>L	8r	[
+8f#X`>J 8c`>	8ff#X`> 8cc`> 8a`>	.
+8Dn`>L	8r	.
+8fn`>J 8B`>	8ggn`> 8ffn`> 8b`> 8gn`	.
+!LO:TX:t=P:mixed beam:problem	!	!
+8EE`>/L	8r	.
+8e`>\J 8B`>\	8gg#X`> 8ee`> 8dd`> 8g#X`>	.
+=9	=9	=9
+*	*^	*
+8AA`>L	4.reeeyy	8r	[
+8e`>J 8A`>	.	8aa`> 8ee`> 8cc`> 8a`>	.
+8C`>L	.	8r	.
+!	!	!LO:TX:b:i:t=staccato.	!
+8e`>J 8A`>	(2aa^>	8ee`< 8a`<	>
+!	!	!LO:TX:a:i:t=legato.	!
+8BB`>L	.	8ra	.
+8d`>J 8F`>	.	8dd`> 8a`>	.
+8E`>L	.	8ra	.
+8e`>J 8B`>	8gg#X)	8ee`< 8g#X`<	]
+=10	=10	=10	=10
+8C`>L	4.reeeyy	8r	.
+8e`>J 8A`>	.	8ee`> 8a`>	.
+8AA`>L	.	8r	.
+8e`>J 8A`>	(2ccc^>	8ee 8cc	>
+8D`>L	.	8ra	.
+8f`>J 8A`>	.	8ff 8cc	.
+8D`>L	.	8ra	.
+8f`>J 8G#X`>	[8bb)	8ff 8b	]
+!!LO:LB:g=original
+=11	=11	=11	=11
+8C`>L	8bbL]	8r	.
+8f`>J 8A`>	8aaJ	8ff 8a	<
+8C`>L	8rcccyy	8r	.
+8e`>J 8A`>	(4eee	8aa 8ee	.
+8BB`>L	.	8ra	.
+8d`>J 8F`>	4ddd	8aa 8dd	.
+!LO:TX:t=P:mixed beam:problem	!	!	!
+8EE`>L/	.	8ra	.
+8d`>\J 8B`>\ 8E`>\	[8eee)	8gg#X 8ee	[
+=12	=12	=12	=12
+8AA`>L	8eee]	8r	.
+8c`>J 8E`>	(4ccc	8ee`< 8cc`<	>
+8BB`>L	.	8ra	.
+8d`>J 8G#X`> 8E`>	4bb	8ee`< 8b`<	.
+8C`>L	.	8ra	.
+8e`>J 8A`> 8E`>	4.aa)	8ee`< 8a`<	]
+8AA`>L	.	8ra	.
+8c`>J 8E`>	.	8ee`> 8cc`>	.
+=13	=13	=13	=13
+!LO:TX:t=P:mixed beam:problem	!	!	!
+8EE`>L/	8rcccyyy	8r	.
+8d`>\J 8E`>\	(4bb	8ee 8b	.
+8AA`>L	.	8r	.
+8c`>J 8E`>	4aa	8ee 8a	.
+8BB`>L	.	8r	.
+8d`>J 8G#X`> 8E`>	4ee	8b 8e	.
+8AA`>L	.	8r	.
+8c`>J 8A`> 8E`>	8aa)	8ee 8a	.
+!!LO:LB:g=original
+=14	=14	=14	=14
+!LO:TX:t=P:mixed beam:problem	!	!	!
+8EE`>/L	8reeeyy	8r	.
+8d`>\J 8G#X`>\ 8E`>\	(4bb	8ee 8b	<
+8AA`>L	.	8ra	.
+8c`>J 8A`> 8E`>	4aa	8ee 8a	.
+8BB`>L	.	8ra	.
+8d`>J 8G#`> 8E`>	4ee	8b 8e	.
+8AA`>L	.	8ra	.
+8c`>J 8A`> 8E`>	8aa)	8ee 8a	.
+=15	=15	=15	=15
+8GG`>nL	8reeeyy	8r	.
+8e`>J 8Gny`>	(4bb	8ee 8b	.
+8AA`>L	.	8ra	.
+8e`>J 8A`>	4ccc	8ee 8cc	.
+8BB`>L	.	8ra	[
+8e`>J 8B`>	4gg	8b 8g	.
+8BB`>L	.	8ra	.
+8d#X`>J 8B`>	[8ff#X	8b 8a	.
+=16	=16	=16	=16
+8E`>L	8ff#]	8ra	>
+8e`>J 8B`>	2..ee	8b 8g	.
+8AA`>L	.	8ra	.
+8e`>J 8A`>	.	8cc`> 8a`>	.
+8E`>L	.	8ra	.
+8e`>J 8B`>	.	8b`> 8g`>	.
+8AA`>L	.	8ra	.
+8e`>J 8A`>	.	8cc`> 8a`>)	]
+!!LO:PB:g=original
+=17	=17	=17	=17
+8GG`>L	8rcccyy	8r	.
+!	!	!	!LO:DY:rj
+8e`>J 8G`>	(4bb	8ee`< 8b`<	pp
+8AA`>L	.	8ra	.
+8e`>J 8A`>	4ccc	8ee`< 8cc`<	.
+8BB`>L	.	8ra	.
+8e`>J 8B`>	4gg	8b`< 8g`<	.
+8BB`>L	.	8ra	.
+8d#X`>J 8B`>	8ff#X	8b`< 8a`<	.
+=18	=18	=18	=18
+8E`L	8rcccyy	8r	<
+8e`>J 8B`> 8G`>	2ee	8b`< 8g`<	.
+8D#X`>L	.	8ra	.
+8e`>J 8B`> 8G`>	.	8b`< 8g`<	.
+8Dn`>L	.	8r	.
+8f`>J 8B`> 8G#X`>	4.ff)	8b`< 8g#X`<	.
+8D-X`>L	.	8r	.
+8f`>J 8B`> 8G#`>	.	8b`< 8g#`<	[
+*	*v	*v	*
+=19	=19	=19
+*ped	*	*
+8C`>L	8r	f
+8f`>J 8A`>	(4aa^> 4cc^> 4a^>	.
+8C`>L	.	.
+*Xped	*	*
+8f`>J 8A-X`>	4aa-X^> 4b^> 4a-X^>	.
+!LO:N:vis=8.	!	!
+*ped	*	*
+8C`>L	.	.
+8e`>J 8G`>	8gg^> 8b-X^> 8g^>)	.
+8C`>L	8r	.
+8c`>J 8G`>	8cc^> 8b-^> 8e^>	.
+!!LO:LB:g=original
+=20	=20	=20
+8C`>L	8r	.
+8e`>J 8G`>	8gg^> 8b-X^> 8g^>	.
+8C`>L	8r	.
+8c`>J 8G`>	8cc^> 8b-^> 8e^>	.
+8C`>L	8r	.
+*Xped	*	*
+8e`>J 8G`>	8gg^> 8b-^> 8g^>	.
+8F`>L	8r	.
+8f`>J 8A`>	8ff^> 8a^>	.
+=21	=21	=21
+*ped	*	*
+8AA-X`>L	8r	.
+8d-X`>J 8F`>	(4ff^> 4a-X^> 4f^>	.
+8AA-`>L	.	.
+*Xped	*	*
+8d-`>J 8F-X`>	4ff-X^> 4g^> 4f-X^>	.
+*ped	*	*
+8AA-`>L	.	.
+8c`>J 8E-X`>	8ee-X^> 8g-X^> 8e-X^>)	.
+8AA-`>L<	8r	.
+8A-X`>J 8E-`>	8a-^> 8g-^> 8c^>	.
+=22	=22	=22
+*	*^	*
+8AA-X`>L	2reeeyy	8r	.
+8c`>J 8E-X`>	.	8ee-X^> 8a-X^> 8g-X^>	.
+8AA-`>L<	.	8r	.
+8A-y`>J 8E-`>	.	8a-^> 8g-^> 8c^>	.
+8AA-`>L	8reeeyy	8rf	.
+*Xped	*	*	*
+8c`>J 8E-`>	(4ee-^>	8a- 8g-	.
+8AA-`>L	.	8rg	.
+!	!LO:TX:t=P:cross-measure beam:problem	!	!
+8d-X`>J 8F`>	[>8dd-X	8a- 8f	.
+!!LO:LB:g=original
+=23	=23	=23	=23
+8AA-X`>L	8dd-]	8rg	.
+!	!	!LO:TX:a:t=cre-scen-do._:problem:dynamics with extention lines	!
+!	!	!	!LO:HP:a:i:t=cre-scen-do.:ext=ud
+8c`>J 8E-X`>	4cc	8a-X 8e-X	<
+8AA-`>L<	.	8rg	.
+8B-X`>J 8D-X`>	4b-X	8a- 8d-X	.
+8AA-`>L<	.	8rg	.
+8A-y`>J 8C`>	4a-	8c	.
+8AA-`>L	.	8re	.
+!	!LO:TX:t=P:cross-measure beam:problem	!	!
+8e-X`>J 8G-X`>	[<8ee-X	8a- 8g-X	.
+=24	=24	=24	=24
+8AA-XL	8ee-X]	8rg	.
+8d-XJ 8F	4dd-X	8a-X 8f	.
+8AA-L<	.	8rg	.
+8B-XJ 8D-X	4b-X	8a- 8d-X	.
+8AA-L	.	8rg	.
+8d-J 8F	4dd-	8a- 8f	.
+8AA-L	.	8rg	.
+!	!LO:TX:t=P:cross-measure beam:problem	!	!
+8cJ 8E-X	[<8cc	8a- 8e-X	.
+=25	=25	=25	=25
+8AA-X`>L	8cc]	8re	.
+8e-y`>J 8G-X`>	4ee-X	8a-X 8g-X	.
+8AA-`>L	.	8rg	.
+8d-X`>J 8F`>	4dd-X	8a- 8f	.
+8AA-`>L	.	8rg	.
+8c`>J 8E-X`>	4cc	8a- 8e-X	.
+*ped	*	*	*
+8AAn`>L	.	8rg	.
+!	!LO:TX:t=P:cross-measure beam:problem	!	!
+8f`>J 8G-`>	[<8ffL	8cc 8g-X	.
+!!LO:LB:g=original
+=26	=26	=26	=26
+8AA`>L	8ffJ]	8rg	.
+*Xped	*	*	*
+8e-X`>J 8G-X`>	4ee-X	8cc 8g-X	.
+8AA`>L	.	8rg	.
+8c`>J 8G-`>	4cc	8g- 8e-X	.
+8BB-X`>L	.	8rg	.
+8e-`>J 8G-`>	4ee-	8b-X 8g-	.
+8BB-`>L	.	8rg	.
+!	!LO:TX:t=P:cross-measure beam:problem	!	!
+8dn`>J 8F`>	[<8ddn	8b- 8f	.
+=27	=27	=27	=27
+8BBn`>L	8dd])	8rgyy	[
+!	!	!	!LO:DY:rj
+8f`>J 8A-X`>	(4aa-X	8dd 8a-X	f
+8BB`>L	.	8ra	.
+8f`>J 8G`>	4gg	8dd 8g	.
+8C`>L	.	8ra	.
+8c`>J 8G`>	4.rcccyy	4cc/ 4b-X/ 4en/	.
+8FF`>L<	.	.	.
+8c`>J 8F`>	.	8ff 8a- 8f)	.
+*	*v	*v	*
+=28	=28	=28
+8BBn`>L	8r	.
+8f`>J 8A-X`>	8aa-X^> 8dd^> 8a-X^>	.
+8BB`>L	8r	.
+8f`>J 8G`>	8gg^> 8dd^> 8g^>	.
+8C`>L	8r	.
+8c`>J 8G`>	8cc^> 8b-X^> 8e^>	.
+8FF`>L<	8r	.
+8c`>J 8F`>	8ff^> 8a-^> 8f^>	.
+!!LO:LB:g=original
+=29	=29	=29
+8EE-X`>L<	8r	.
+8c`>J 8E-X`>	8gg`> 8cc`> 8g`>	.
+8FF`>L<	8r	.
+8cJ 8F	8aa-X`> 8cc`> 8a-X`>	.
+8GGL	8r	.
+8cJ 8G	8ee-X`>\ 8g`>\ 8e-X\`>	.
+8GGL	8r	.
+8BnJ 8G	8dd`> 8g`> 8f`>	.
+=30	=30	=30
+*	*^	*
+8C`>L	8r	8raayy	.
+8c`>J 8G`>	(2..cc^>	8g 8e-X	.
+8FF`>L<	.	8re	.
+8cJ 8F`>	.	8a-X 8f	.
+8C`>L	.	8re	.
+8c`>J 8G`>	.	8g 8e-	.
+8FF`>L<	.	8re	.
+8c`>J 8F`>	.	8a- 8f	.
+=31	=31	=31	=31
+*ped	*	*	*
+8EE-X`>L<	2..rcccyy	8r	pp
+*Xped	*	*	*
+!	!	!LO:TX:b:i:t=poco ritenuto.	!
+8c`>J 8E-X`>	.	4gg^> 4cc^> 4g^>	.
+*ped	*	*	*
+8FF`>L<	.	.	.
+*Xped	*	*	*
+8c`>J 8F`>	.	4aa-X^> 4cc^> 4a-X^>	.
+*ped	*	*	*
+8GG`>L	.	.	.
+*Xped	*	*	*
+8c`>J 8G`>	.	4ee-X^> 4g^> 4e-X^>	.
+*ped	*	*	*
+8GG`>L	.	.	.
+*Xped	*	*	*
+8B`>J 8G`>	[<8dd	8g 8f	.
+=32	=32	=32	=32
+*ped	*	*	*
+8C`L	8dd]	8re	.
+*Xped	*	*	*
+8c`>J 8G`>	2..cc^>	8g 8en	.
+8FF`>L<	.	8re	.
+8c`>J 8F`>	.	8a-X 8f	.
+8C`>L	.	8re	.
+8c`>J 8G`>	.	8g 8e	.
+8FF`>L<	.	8re	.
+8c`>J 8F`>	.	8a- 8f)	.
+*	*v	*v	*
+!!LO:PB:g=original
+=33	=33	=33
+*ped	*	*
+8EE-X`>L<	8r	f
+*Xped	*	*
+8cJ 8E-X`	4gg^> 4cc^> 4g^>	<
+*ped	*	*
+8FF`L<	.	.
+*Xped	*	*
+8cJ 8F`	4aa-X^> 4cc^> 4a-X^>	.
+*ped	*	*
+8AA-X`L	.	.
+*Xped	*	*
+8fJ 8c 8A-X`	4ccc^> 4ff^> 4cc^>	.
+*ped	*	*
+8GG`>L	.	.
+*Xped	*	*
+8gJ 8d 8G`	8bb^> 8gg^> 8dd^>	[
+=34	=34	=34
+*	*^	*
+*ped	*	*	*
+8C`>L	2..rgggyy	8r	.
+*Xped	*	*	*
+8g`>J 8c`>	.	4bb-X^> 4ee^> 4b-X^>	>
+8F`>L	.	.	.
+8f`>J 8c`>	.	4aa-X^> 4ff^> 4a-X^>	.
+8G`>L	.	.	.
+8e-X`>J 8c`>	.	8gg^> 8ee-X^> 8g^>	]
+*ped	*	*	*
+8GG`>L	.	8r	.
+*Xped	*	*	*
+!	!LO:TX:t=P:mixed beam:problem	!	!
+8d`>J 8G`>	([<8bn	8g 8f	.
+=35	=35	=35	=35
+*ped	*	*	*
+8C`>L	8bnX]	8re	p
+*Xped	*	*	*
+8c`>J 8G`>	4cc	8g 8e	.
+8BBn`>L	.	8re	.
+8d-X`>J 8A-X`>	4dd-X	8a-X 8f	<
+8C`>L	.	8re	.
+8c`>J 8G`>	4cc	8g 8e	.
+8BB`>L	.	8re	.
+!	!LO:TX:t=P:mixed beam:problem	!	!
+8dn`>J 8A-`>	[<8ddn	8a- 8f	.
+!!LO:LB:g=original
+=36	=36	=36	=36
+8C`>L	8dd]	8re	.
+8c`>J 8G`>	4cc	8g 8e	.
+8BBn`>L	.	8re	.
+8d-X`>J 8A-X`>	4dd-X	8a-X 8f	.
+8C`>L	.	8re	.
+8c`>J 8G`>	4cc	8g 8e	.
+8BB`>L	.	8re	[
+!	!LO:TX:t=P:mixed beam:problem	!	!
+8dn`>J 8A-`>	[<8ddn	8a- 8f	.
+=37	=37	=37	=37
+8C`>L	8dd]	8re	.
+8c`>J	4cc	8g 8e	.
+8BBn`>L	.	8re	.
+8d`>J 8A-X`>	4dd	8a-X 8f	.
+8C`>L	.	8re	>
+8c`>J 8G`>	4cc	8g 8e	.
+8BB`>L	.	8re	.
+!	!LO:TX:t=P:mixed beam:problem	!	!
+8d-X`>J 8A-`>	[<8dd-X	8a- 8f	.
+=38	=38	=38	=38
+8C`>L	8dd-]	8re	.
+8c`>J 8G`>	4cc	8g 8e	.
+8BB`>L	.	8re	.
+8dn`>J 8G#X`>	4ddn	8g#X 8f	.
+8BB`>L	.	8re	.
+8d#X`>J 8A`>	4dd#X	8a 8f#X	.
+*ped	*	*	*
+8EE`>L<	.	8re	.
+*Xped	*	*	*
+!	!LO:TX:t=P:mixed beam:problem	!	!
+8dn`>J 8B`> 8E`>	[<8ee	8g# 8e	]
+!!LO:PB:g=original
+=39	=39	=39	=39
+8AA`>L	8ee]	8rg	.
+!	!	!	!LO:DY:rj
+8c`>J 8E`>	4ee)	8a 8e	p
+8C`>L	.	8rg	.
+8e`>J 8A`>	(2aa^>	8ee 8a	>
+8BB`L	.	8rg	.
+8d`>J 8F`>	.	8dd 8a	.
+8E`>L	.	8rg	.
+8e`>J 8B`>	8gg#X)	8ee 8g#X	]
+=40	=40	=40	=40
+8C`>L	4.rgggyy	8r	.
+8e`>J 8A`>	.	8ee 8a	.
+8AA`>L	.	8r	.
+8e`>J 8A`>	(2ccc	8ee 8cc	>
+8D`>L	.	8r	.
+8f`>J 8A`>	.	8ff 8cc	.
+8D`>L	.	8r	.
+8f`>J 8G#X`>	[>8bb	8ff 8b	]
+=41	=41	=41	=41
+8C`>L	8bbL]	8r	.
+8f`>J 8A`>	8aaJ)	8ff 8a	<
+8C`>L	2.rbbbyy	8r	.
+8e`>J 8A`>	.	8eee^^> 8aa^^> 8ee^^>	.
+8BB`>L	.	8r	.
+8d`>J 8F`>	.	8ddd^^> 8aa^^> 8dd^^>	.
+.	.	.	[
+8EE`>L<	.	8r	.
+8d`>J 8B`> 8E`>	.	8eee^^> 8gg#X^^> 8ee^^>	.
+*	*v	*v	*
+!!LO:LB:g=original
+=42	=42	=42
+8AA`>L	8r	.
+8c`>J 8E`>	8ccc^^> 8ee^^> 8cc^^>	.
+8BB`>L	8r	.
+8d`>J 8E`>	8gg#X^^> 8ee^^> 8g#X^^>	>
+8C`>L	8r	.
+8e`>J 8E`>	8aa^^> 8ee^^> 8a^^>	.
+8AA`>L	8r	.
+8c`>J 8E`>	8ccc^^> 8ee^^> 8cc^^>	]
+=43	=43	=43
+8EE`>L<	8r	.
+8d`>J 8E`>	8bb^^> 8ee^^> 8b^^>	.
+8AA`>L	8r	.
+8c`>J 8E`>	8aa^^> 8ee^^> 8a^^>	.
+8BB`>L	8r	.
+8dJ 8G#X`> 8E`>	8ee^^>\ 8b^^>\ 8e^^>\	.
+8AA`>L	8r	.
+8c`>J 8A`> 8E`>	8aa^^> 8ee^^> 8a^^>	.
+=44	=44	=44
+8EE`>L<	8r	.
+8d`>J 8G#X`> 8E`>	8bb^^> 8ee^^> 8b^^>	.
+8AA`>L	8r	.
+8c`>J 8A`> 8E`>	8aa^^> 8ee^^> 8a^^>	.
+8BB`>L	8r	.
+8d`>J 8G#`> 8E`>	8ee^^>\ 8b^^>\ 8e^^>\	<
+8AA`>L	8r	.
+8c`>J 8A`> 8E`>	8aa^^> 8ee^^> 8a^^>	.
+!!LO:LB:g=original
+=45	=45	=45
+8GG`>nL	8r	.
+8e`>J 8Gny`>	8bb^^> 8ee^^> 8b^^>	.
+8AA`>L	8r	.
+8e`>J 8A`>	8ccc^^> 8ee^^> 8cc^^>	[
+8BB`>L	8r	>
+8e`>J 8B`>	8gg^^> 8b^^> 8g^^>	.
+8BB`>L	8r	.
+8d#X`>J 8B`>	8ff#X^^> 8b^^> 8a^^>	.
+=46	=46	=46
+8E`>L	8r	.
+8e`>J 8B`>	8ee^^> 8b^^> 8g#X^^>	]
+8D#X`>L	8r	.
+8f#X`>J 8c`>	8ff#X^^> 8cc^^> 8a^^>	.
+8Dn`>L	8r	.
+8fn`>J 8B`>	8ggn^^> 8ffn^^> 8b^^> 8gn^^>	.
+*ped	*	*
+!LO:TX:t=P:mixed beam:problem	!	!
+8EE`>/L	8r	.
+*Xped	*	*
+8e`>\J 8B`>\	8gg#X^^> 8ee^^> 8dd^^> 8g#X^^>	.
+=47	=47	=47
+*	*^	*
+8AA`>L	4.rbbbyy	8r	.
+8e`>J 8A`>	.	8aa`> 8ee`> 8cc`> 8a`>	.
+8C`>L	.	8r	.
+8e`>J 8A`>	(2aa	8ee 8a	>
+8BB`>L	.	8r	.
+8d`>J 8F`>	.	8dd 8a	.
+8E`>L	.	8r	.
+!	!LO:TX:t=P:cross-measure beam:problem	!	!
+8e`>J 8B`>	[<8gg#X	8ee 8g#X	]
+!!LO:PB:g=original
+=48	=48	=48	=48
+8C`>L	8gg#X]	8rf	.
+8e`>J 8A`>	4aa)	8ee 8a	.
+8AA`>L	.	8ra	.
+8e`>J 8A`>	(2ccc	8ee 8cc	>
+8D`>L	.	8ra	.
+8f`>J 8A`>	.	8ff 8cc	.
+8D`>L	.	8ra	.
+!	!LO:TX:t=P:cross-measure beam:problem	!	!
+8f`>J 8G#X`>	[<8bb	8ff 8b	.
+=49	=49	=49	=49
+8C`>L	8bb]	8r	]
+8f`>J 8A`>	4aa)	8ff 8a	.
+8C`>L	.	8ra	.
+8e`>J 8A`>	(4eee	8aa 8cc	<
+8BB`>L	.	8ra	.
+8d`>J 8F`>	4ddd	8aa 8dd	.
+8EE`>L<	.	8ra	.
+!	!LO:TX:t=P:cross-measure beam:problem	!	!
+8d`>J 8B`> 8E`>	[<8eee	8gg#X 8ee	.
+.	.	.	[
+=50	=50	=50	=50
+8AA`>L	8eee]	8ra	.
+8c`>J 8A`> 8E`>	4ccc	8ee 8cc	.
+8BB`>L	.	8ra	.
+8d`>J 8G#X`> 8E`>	4bb	8ee 8b	>
+8C`>L	.	8ra	.
+8e`>J 8A`> 8E`>	4.aa)	8ee 8a	.
+8AA`>L	.	8ra	.
+8c`>J 8A`> 8E`>	.	8ee 8cc	]
+!!LO:LB:g=original
+=51	=51	=51	=51
+8EE`>L<	8rbbbyy	8r	.
+8d`>J 8E`>	(4bb	8ee 8b	.
+8AA`>L	.	8ra	.
+8c`>J 8E`>	4aa	8ee 8a	.
+8BB`>L	.	8ra	.
+8d`>J 8G#X`> 8E`>	4ee	8b 8e	.
+8AA`>L	.	8ra	.
+!	!LO:TX:t=P:cross-measure beam:problem	!	!
+8c`>J 8A`> 8E`>	[<8aa	8ee 8a	.
+=52	=52	=52	=52
+8EE`>L<	8aa]	8r	.
+8d`>J 8E`>	4bb	8ee 8b	.
+8AA`>L	.	8ra	.
+8c`>J 8E`>	4aa	8ee 8a	<
+8BB`>L	.	8ra	.
+8d`>J 8E`>	4ee	8b 8e	.
+*ped	*	*	*
+8C#X`>L	.	8ra	.
+*Xped	*	*	*
+8e`>J 8B-X`>	8ggn^>	8b-X 8gn	[
+=53	=53	=53	=53
+*^	*	*	*
+!LO:N:vis=2	!	!	!	!
+8D`>L<	2D	2rbbbyy	8r	.
+8d`>J 8B-X`>	.	.	8gg-X^> 8b-X^> 8g-X^>	.
+8F`>L<	.	.	8r	.
+8d`>J 8B-`>	.	.	8ff^> 8b-^> 8f^>	>
+!LO:TX:t=P:mixed beam:problem	!	!	!	!
+2rcyy	8DD`>L/	8rcccyy	8r	.
+.	8B-`>\J 8F`>\	4dd^>	8b- 8f	.
+!LO:TX:t=P:mixed beam:problem	!	!	!	!
+.	8EE`>L/	.	8rg	.
+.	8Bn`>\J 8E`>\	8bn^>)	8g#X 8d	]
+*v	*v	*	*	*
+!!LO:LB:g=original
+=54	=54	=54	=54
+8AA`>L<	8r	8rcccyy	p
+8A`>J 8E`>	(2..a^	8c	.
+8D`>L	.	8rd	.
+8A`>J 8F`>	.	8f 8d	.
+8AA`>L<	.	8rd	.
+8A`>J 8E`>	.	8e 8c	.
+8D`>L	.	8rd	.
+8A`>J 8F`>	.	&(>8f 8d	.
+=55	=55	=55	=55
+8AA`>L<	4.a&)	8rc	pp
+8A`>J 8E`>	.	4e 4c	.
+*ped	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!
+8CC`>L/	.	.	.
+*Xped	*	*	*
+8A`>\J 8E`>\	4ee	4a 4e	>
+*ped	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!
+8DD`>L/	.	.	.
+*Xped	*	*	*
+8B-X`>\J 8F`>\	4dd	4b-X 4f	.
+*ped	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!
+8EE`>L/	.	.	.
+*Xped	*	*	*
+8Bn`>\J 8E`>\	[8bn	[8g#X [8d	]
+=56	=56	=56	=56
+*ped	*	*	*
+8AA`>L<	8b]	8g#X]L 8d]	.
+*Xped	*	*	*
+8A`>J 8E`>	2..a)	8cJ	.
+8D`>L	.	8rc	.
+8A`>J 8F`>	.	8f 8d	.
+8AA`>L<	.	8rd	.
+8A`>J 8E`>	.	8e 8c	.
+8D`>L	.	8rd	.
+8A`>J 8F`>	.	(>8f 8d	.
+!!LO:LB:g=original
+=57	=57	=57	=57
+*	*	*	*^
+8AA`>L<	(4.a)	8rc	.	.
+!	!	!	!	!LO:HP:a
+8A`>J 8E`>	.	8e 8c	.	<
+8C`>L	.	8rd	.	.
+!	!	!	!LO:DY:rj	!
+8c`>J 8E`>	4ee	8a 8e	f	.
+*ped	*	*	*	*
+8BB`>L	.	8rd	.	.
+*Xped	*	*	*	*
+8f#X`>J 8B`>	4aa	8dd#X 8a	.	.
+8E`>L	.	8rd	.	.
+!	!LO:TX:t=P:cross-measure beam:problem	!	!	!
+8e`>J 8B`>	[<8gg#X	8ee 8g#X	.	[
+*	*	*	*v	*v
+=58	=58	=58	=58
+*ped	*	*	*
+8AA`>L	8gg#X]	8rd	.
+*Xped	*	*	*
+8e`>J 8A`>	4ggn	8cc#X 8gn	.
+*ped	*	*	*
+8D`>L	.	8r	.
+!	!	!	!LO:HP:a
+8d`>J 8A`>	4ff#X	8dd 8f#X	>
+!LO:TX:t=P:mixed beam:problem	!	!	!
+8DD`/L	.	8r	.
+*Xped	*	*	*
+8B-X`>\J 8F`>\	4ffn	8b-X 8fn	.
+*ped	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!
+8EE`>/L	.	8r	.
+*Xped	*	*	*
+!	!LO:TX:t=P:cross-measure beam:problem	!	!
+8Bn`>\J 8E`>\	[<8bn	8g#X 8d	.
+=59	=59	=59	=59
+8AA`>L<	8b]	8rd	.
+!	!LO:N:vis=4.	!	!
+8A`>J 8E`>	4a	8e 8c	.
+8D`>L	.	8rd	.
+!	!LO:N:vis=4.	!	!
+8A`>J 8F`>	4f	8d	]
+*ped	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!
+8DD`>/L	.	8rd	.
+*Xped	*	*	*
+8B-X`>\J 8F`>\	4dd/ 4b-X/	4.rcyy	pp
+*ped	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!
+8EE`>/L	.	.	.
+*Xped	*	*	*
+!	!LO:TX:t=P:cross-measure beam:problem	!	!
+8Bn`>\J 8E`>\	[>8bn [<8g#X [<8d	.	.
+*	*v	*v	*
+!!LO:LB:g=original
+=60	=60	=60
+*ped	*	*
+8FF`>L<	8b] 8g#X] 8d]	<
+*Xped	*	*
+8A`>J 8F`>	4a 4c	.
+*ped	*	*
+8CC`>L<	.	.
+*Xped	*	*
+8A`>J 8C`>	4ee 4a 4e	.
+*ped	*	*
+8DD`>L<	.	.
+*Xped	*	*
+8B-X`>J 8D`>	4dd 4b-X 4f	[>
+*ped	*	*
+8EE`>L<	.	.
+*Xped	*	*
+!	!LO:TX:t=P:cross-measure beam:problem	!
+8Bn`>J 8E`>	([8g#X 8d	]
+=61	=61	=61
+*	*^	*
+8AA`>L<	8g#X)]	8dL	.
+8A`>J 8E`>	2a	8cJ	.
+!	!LO:TX::t=dimin._:problem:dynamics with extention lines:problem	!	!
+!	!	!	!LO:HP:i:t=dimin.
+8D`>L	.	8rc	>
+8A`>J 8F`>	.	8f 8d	.
+8AA`>L<	.	8re	.
+8A`>J 8E`>	4cc	8e 8c	.
+8D`>L	.	8re	.
+!	!LO:TX:t=P:cross-measure beam:problem	!	!
+8A`>J 8F`>	[<8b-X	8f 8d	.
+=62	=62	=62	=62
+8AA`>L<	8b-X]	8rc	.
+8A`>J 8E`>	2a	8e 8c	.
+!	!	!LO:TX:a:i:t=rall.	!
+8D`>L	.	8rc	.
+8A`>J 8F`>	.	8f 8d	.
+8AA`>L<	.	8rc	.
+8A`>J 8E`>	4cc	8e 8c	.
+*ped	*	*	*
+(8AAL<	.	8rc	.
+8B-XJ 8D)	8b-X	8f 8d	]
+*	*v	*v	*
+=63	=63	=63
+!	!LO:TX:a:i:t=lento.	!
+1B-X: [1F: 1D: [1AA:	(>[1b-X: [<1f: [1d:)	.
+=64	=64	=64
+*	*^	*
+1F] 1AA]	2b-X]	1f] 1d]	.
+.	4dd	.	.
+*Xped	*	*	*
+.	4cc#X	.	.
+*	*v	*v	*
+=65	=65	=65
+*ped	*	*
+1A: 1E: 1AA;<:	1a: 1e: 1c#X;:)	.
+==	==	==
+*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: N = linked
+!!!RDF**dynam: > = "dimin.", fontstyle="italic"
+!!!ENC: Emilia Ziętek
+!!!END: 2018-10-02
+!!!EED: Jędrzej Mróz
+!!!EST: revision finished 2018-10-03
+!!!EED2: Emilia Ziętek
+!!!EST2: revision finished 2019-10-15
+!!!rism-genre: Etude
+!!!rism-key: A minor
+!!!rism-opus: op. 25, no. 4
+!!!rism-title: Etude in A minor op. 25, no. 4
+!!!rism-permalink: https://opac.rism.info/search?id=1001014795&View=rism
+!!!rism-773a-OPR: 1001014781
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001014781&View=rism

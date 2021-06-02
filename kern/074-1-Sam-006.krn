@@ -1,0 +1,478 @@
+!!!!SEGMENT: 074-1-Sam-006.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: MIR AUS DEN AUGEN
+!!!OPS: Op. 74
+!!!PTL: 16 | Polnische Lieder | von Witwicki, Zaleski Mickiewicz etc. | für eine Singstimme | mit Begleitung des Pianoforte
+!!!PPR: Schlesinger
+!!!PPP: Berlin
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: PL-Wbfc 6138/n
+!!!OMD: Larghetto. M. M. [quarter] = 72.
+!!!system-decoration: (s1){(s2,s3)}
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff2	*	*staff1	*	*
+*	*I"PIANO.	*	*I"SINGSTIMME.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[b-e-a-d-]	*k[b-e-a-d-]	*	*k[b-e-a-d-]	*	*
+*f:	*f:	*	*f:	*	*
+*M3/4	*M3/4	*	*M3/4	*	*
+*MM72	*MM72	*	*MM72	*	*
+*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*	*>[A,B,B1,B,B2]	*	*
+*>A	*>A	*	*>A	*	*
+=1	=1	=1	=1	=1	=1
+*^	*^	*	*	*	*
+!	!	!	!	!LO:DY:rj	!	!	!
+!	!	!	!	!	!LO:TX:t=P:"Larghetto." nad "M. M....":problem	!	!
+4c	4rD	(>4cc	4rd	f	2.r	.	.
+4.d-	4rD	4.dd-	4rf	.	.	.	.
+.	4E-	.	4an 4g-X	.	.	.	.
+8c	.	8cc	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+8B-L	2D-	8b-L	2f	.	2.r	.	.
+8A-J	.	8a-yXJ	.	.	.	.	.
+4G	.	4g)	.	.	.	.	.
+4r	4rEEyy	4r	4rcyy	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+8B-L	2C	(>8b-L	2.en	.	2.r	.	.
+8A-J	.	8a-J	.	.	.	.	.
+2G	.	2g)	.	.	.	.	.
+.	[<4BBn	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+2F	4BBnX]	2a-	8e-XL	>	2.r	.	.
+.	.	.	8d-J	]	.	.	.
+.	2C	.	4c	.	.	.	.
+4En	.	4g	4B-	.	.	.	.
+*v	*v	*	*	*	*	*	*
+*	*v	*v	*	*	*	*
+=5	=5	=5	=5	=5	=5
+!	!	!LO:DY:rj	!	!	!LO:DY:a
+*ped	*	*	*	*	*
+!	!	!	!LO:TX:i:a:t=appass.	!	!
+2F 2C 2FF\	2f 2c< 2A-<	ff	(>2f	Mir	.
+4F 4FF\	4f 4c< 4A-<	.	8.c	aus	.
+*Xped	*	*	*	*	*
+.	.	.	16c	den	.
+=6	=6	=6	=6	=6	=6
+!	!	!	!LO:TX:t=P:w całej pieśni przy dzieleniu wyrazów są podkreśliniki, a nie myślniki:problem	!	!
+4F 4BB-\	4f 4d- 4B-	.	4d-	Au-	.
+4F 4FF/	4f 4c 4A-	.	4c)	-gen!	.
+4r	4r	.	4r	.	.
+!	!	!	!	!	!LO:DY:a
+.	.	.	.	po-	.
+!!LO:LB:g=original
+=7	=7	=7	=7	=7	=7
+!	!	!LO:DY:rj	!	!	!LO:DY:a:rj
+2.D- 2.DD-	8fL 8A-<	p	(>2f	mir	p
+.	8F<J	.	.	.	.
+.	8fL 8B-<	.	.	.	.
+.	8G<J	.	.	.	.
+.	.	.	(<16qqg/LL	.	.
+.	.	.	16qqf/JJ	.	.
+.	8fL 8Bn<	.	8en)	aus	.
+.	8A-<J	.	8f	dem	.
+=8	=8	=8	=8	=8	=8
+2C\ 2CC\	8fL 8c	.	4a-	Her-	.
+.	8A-<J	.	.	.	.
+.	8enL 8c	.	4g)	-zen!	.
+.	8G<J	.	.	.	.
+4r	8d-L 8B-	.	4r	.	.
+.	8cJ 8G<	.	.	.	.
+=9	=9	=9	=9	=9	=9
+*ped	*	*	*	*	*
+!	!	!LO:DY:rj	!	!	!LO:DY:a:rj
+2C\ 2FF\	2f 2c< 2A-< 2F<	ff	2f	So	f
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+4F\ 4FF\	4f 4c< 4A-<	.	8.c	woll-	.
+*Xped	*	*	*	*	*
+.	.	.	16c	-test	.
+=10	=10	=10	=10	=10	=10
+4D- 4DD-	4f 4d- 4A-< 4F<	.	(<4d-	du,	.
+[<2AA-^ 2AAA-	2f 2c< 2F<	.	4c)	.	.
+.	.	.	8r	.	.
+.	.	.	8f	ich	.
+=11	=11	=11	=11	=11	=11
+8Fq	.	.	.	.	.
+!	!	!LO:DY:rj	!	!	!LO:DY:a:rj
+4AA-]	8fL 8Bn<	p	4.f	folg-	p
+.	8F<J	.	.	.	.
+2GG	8fL 8B<	.	.	.	.
+.	8G<J	.	(<8f	-te	.
+.	.	.	16qqg/LL	.	.
+.	.	.	16qqf/JJ)	.	.
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+.	8fL 8dn 8B<	.	8en	dei-	.
+.	8G<J	.	8f	-nem	.
+=12	=12	=12	=12	=12	=12
+2C\	8enL 8c	.	4a-	Wil-	.
+.	8G<J	.	.	.	.
+.	8eL 8c	.	4g	-len;	.
+.	8G<J	.	.	.	.
+4BB-\	8e-XL 8d-	.	4r	.	.
+.	8G<J	.	.	.	.
+!!LO:LB:g=original
+=13	=13	=13	=13	=13	=13
+*^	*	*	*	*	*
+*ped	*	*	*	*	*	*
+!	!	!	!LO:DY:rj	!	!	!LO:DY:a
+2A- 2E-	2AA- 2AAA-	2e- 2c 2A-< 2E-<	fff	2a-	doch	ff
+4c 4A- 4E-	4AA- 4AAA-	4reyy	.	8.e-	wenn	.
+*Xped	*	*	*	*	*	*
+.	.	.	.	16e-	du	.
+=14	=14	=14	=14	=14	=14	=14
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+4d- 4B-- 4F-X	4GG 4GGG	2ryy	.	4f-X^>	sprä-	.
+!LO:N:n=2:acc=n-	!	!	!	!	!	!
+4d- 4B-X 4E-	2GG 2GGG	.	.	4e-	-chest:	.
+4rAyy	.	8e-L 8d- 8B-	.	8r	.	.
+.	.	8E-<J	.	8e-	„so	.
+*v	*v	*	*	*	*	*
+=15	=15	=15	=15	=15	=15
+!	!	!	!	!	!LO:HP:a
+2.AA- 2.AAA-\	8a-L 8e- 8c	p	(<8e-L	lass	<
+.	8G-X<J	.	8a-	.	.
+.	8a-L 8e- 8c	.	8gn	.	.
+.	8G-<J	.	8a-J	.	[
+!	!	!	!	!	!LO:HP:a
+.	8a-L 8e- 8c	.	8.b-/	uns	>
+.	8G-<J	.	.	.	.
+.	.	.	16a-)	ver-	]
+=16	=16	=16	=16	=16	=16
+2.D- 2.DD-\	8a-L 8d-	.	(<2a-	-ges-	[
+.	8F<J	.	.	.	.
+.	8fL 8d-	.	.	.	.
+.	8A-<J	.	.	.	.
+.	8fL	.	4b-/)	-sen”,	[[
+.	8G<J	.	.	.	.
+=17	=17	=17	=17	=17	=17
+2.C 2.CC\	8enL 8B-	.	2cc	nicht	[
+.	8G<J	.	.	.	.
+.	8eL 8B-	.	.	.	.
+.	8G<J	.	.	.	.
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+.	8eL 8B-	.	8.g	könn-	.
+.	8G<J	.	.	.	.
+.	.	.	16g	-test	.
+!!LO:PB:g=original
+=18	=18	=18	=18	=18	=18
+2FF\	8fL 8c 8A-	.	2a-^>	du’s,	.
+.	8F<J	.	.	.	.
+.	8fL 8c 8A-	.	.	.	.
+.	8F<J	.	.	.	.
+!	!	!LO:HP:b=2	!	!	!
+8AA-L	8fL 8c 8A-	<	4f	nicht	.
+8BB-J	8F<J	[	.	.	.
+=19	=19	=19	=19	=19	=19
+!	!	!	!	!	!LO:HP:a
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+[<2.C [<2.CC\	8enL 8B-	.	8.en	könn-	<
+.	8G<J	.	.	.	.
+.	.	.	16g	-te	.
+!	!	!	!	!	!LO:HP:a
+.	8eL 8B-	.	4.dd-	ich’s	[>
+.	8G<J	.	.	.	.
+.	8eL 8B-	.	.	.	.
+.	8G<J	.	8cc	er-	]]
+=20	=20	=20	=20	=20	=20
+2.C] 2.CC\]	8fL 8c 8A-	.	4b-	-fül-	.
+.	8F<J	.	.	.	.
+.	8fL 8c 8A-	.	4a-	-len,	.
+.	8F<J	.	.	.	.
+.	8fL 8c 8A-	.	4r	.	.
+.	8F<J	.	.	.	.
+=21	=21	=21	=21	=21	=21
+2.C 2.CC\	8enL 8c< 8G<	.	2cc	nicht	.
+.	8En<J	.	.	.	.
+.	8eL 8c< 8G<	.	.	.	.
+.	8E<J	.	.	.	.
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+.	8eL 8c< 8G<	.	8.g	könn-	.
+.	8E<J	.	.	.	.
+.	.	.	16g	-test	.
+=22	=22	=22	=22	=22	=22
+2.C 2.CC\	8dnL 8Bn.	.	2a-	du’s,	.
+.	8F<J	.	.	.	.
+.	8dL 8B	.	.	.	.
+.	8F<J	.	.	.	.
+.	8d-XL 8B-	.	4f	nicht	.
+.	8F<J	.	.	.	.
+=23	=23	=23	=23	=23	=23
+!	!LO:TX:b:i:t=poco rall.:dur=4e	!	!LO:TX:i:a:t=poco rall.	!	!
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+2.C 2.CC\	8c<L 8A-<	.	8.Sc	könn-	.
+.	8F<J	.	.	.	.
+.	.	.	16c	-te	.
+.	8d-<L 8B-< 8G<	.	4.a-	ich’s	.
+.	8F<J	.	.	.	.
+.	8c<L 8B-< 8G<	.	.	.	.
+.	8En<J	.	8g	er-	.
+!!LO:LB:g=original
+=24	=24	=24	=24	=24	=24
+!	!LO:TX:a:t=P:mixed beam:problem	!	!	!	!
+4C 4FF\	(>8A-<L< 8F</	.	4g	-fül-	.
+.	8c\	p	.	.	.
+4r	8f\	.	4f	-len.	.
+.	8a-\J)	.	.	.	.
+4r	[>4cc	.	4r	.	.
+=25	=25	=25	=25	=25	=25
+!	!	!LO:DY:rj	!	!	!
+4a- 4c 4F	(>8ccL]	p<	2.r	.	.
+.	8ff	.	.	.	.
+4r	8aa-	.	.	.	.
+.	8bbnJ	[	.	.	.
+4r	4ccc)	.	.	.	.
+=26	=26	=26	=26	=26	=26
+4r	(>8aa-L	.	2.r	.	.
+.	8ff	.	.	.	.
+4r	8cc	.	.	.	.
+.	8aa-J	.	.	.	.
+*clefG2	*	*	*	*	*
+4b- 4en 4c	4gg)	.	.	.	.
+=27	=27	=27	=27	=27	=27
+4a- 4f	(>8ccL	<	2.r	.	.
+.	8ff	.	.	.	.
+4r	8aa-	.	.	.	.
+.	8bbnJ	.	.	.	.
+4r	4ccc)	[	.	.	.
+=28	=28	=28	=28	=28	=28
+4r	(>8aa-L	>	2.r	.	.
+.	8ff	.	.	.	.
+4r	8cc	.	.	.	.
+.	8aa-J	.	.	.	.
+4b- 4en 4c	4gg)	]	.	.	.
+=29	=29	=29	=29	=29	=29
+4a- 4f	(>8ccL	<	2.r	.	.
+.	8ff	.	.	.	.
+4r	8aa-	.	.	.	.
+.	8bbnJ	.	.	.	.
+4r	4ccc)	[	.	.	.
+=30	=30	=30	=30	=30	=30
+2.rdd	(>8aa-L	>	2.r	.	.
+.	8ff	.	.	.	.
+.	8cc	.	.	.	.
+.	8a-J	.	.	.	.
+.	4f/)	]	.	.	.
+*clefF4	*	*	*	*	*
+=31	=31	=31	=31	=31	=31
+2.FF 2FFF\	2.c< 2.A-< 2.F<	.	2.r	.	.
+*ped	*	*	*	*	*
+=32	=32	=32	=32	=32	=32
+2.GG 2.GGG\	2.e- 2.B-<^ 2.E-<	.	2.r	.	.
+*Xped	*	*	*	*	*
+.	.	.	.	.	.
+!!LO:LB:g=original
+=33||	=33||	=33||	=33||	=33||	=33||
+*>B	*>B	*	*>B	*	*
+!!!OMD: Andantino espressivo.
+*	*	*	*	*^	*
+*M2/4	*M2/4	*	*M2/4	*	*	*
+*	*	*	*	*	*	*
+!LO:TX:b:t=[segno]	!LO:TX:a:t=[segno]	!	!LO:TX:a:t=[segno]	!	!	!
+!	!	!	!LO:TX:B:t=Andantino espressivo.	!	!	!
+!	!	!LO:DY:rj	!	!	!	!LO:DY:a
+2AA-\	8e-L 8c 8A-	p	4e-	Sieh’	An	mf
+.	8E-<J	.	.	.	.	.
+.	8e-L 8c	.	8a-	wie	je-	.
+.	8A-<J	.	8g	die	dem	.
+=34	=34	=34	=34	=34	=34	=34
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!	!
+2D-\ 2DD-\	8fL 8d-	.	4Sf	Schat-	Ort	.
+.	8A-<J	.	.	.	.	.
+.	8fL 8d-	.	8g	-ten,	und	.
+.	8A-<J	.	8a-	je	zu	.
+=35	=35	=35	=35	=35	=35	=35
+*	*	*	*^	*	*	*
+2GG\	8e-L 8d- 8B-	.	8.e-L	4ryy	fer-	al-	.
+.	8E-<J	.	.	.	.	.	.
+.	.	.	16fJk	.	.	.	.
+.	8e-L 8d- 8B-	.	8e-	8e-L	-ner	len_	.
+.	8E-<J	.	8f	8fJ	die	.	.
+*	*	*	*v	*v	*	*	*
+=36	=36	=36	=36	=36	=36	=36
+2AA-\	8e-L 8c 8A-	.	8.e-L	Son-	Stun-	.
+.	8E-<J	.	.	.	.	.
+.	.	.	16d-Jk	.	.	.
+.	8e-L 8c 8A-	.	8c	-ne,	-den,	.
+.	8E-<J	.	8r	.	.	.
+=37	=37	=37	=37	=37	=37	=37
+2AA-	8e-L 8c 8A-<	.	4e-	grö-	wo	.
+.	8E-<J	.	.	.	.	.
+!	!	!	!	!	!	!LO:HP:a
+.	8dn<L 8B-<	.	8.f	sser	wir	<
+.	8F<J	.	.	.	.	.
+.	.	.	16f	und	ver-	.
+=38	=38	=38	=38	=38	=38	=38
+*	*	*	*	*	*	*
+4GG\	8gL 8dn 8Bn	.	4g	grö-	ei-	.
+.	8G<J	.	.	.	.	.
+4C\	8gL 8e- 8c	.	8g	-sser	-net	.
+.	8G<J	.	8a-	zur	in	[
+!!LO:PB:g=original
+=39	=39	=39	=39	=39	=39	=39
+*^	*	*	*	*	*	*
+8qBBB-/	.	.	.	.	.	.	.
+8GL	2BB-	4g 4e-	.	8ccL<	Er-	Won-	.
+!	!	!	!	!	!	!	!LO:HP:a
+8B-J	.	.	.	8b-\J	.	.	.
+!	!	!	!	!LO:TX:a:t=P:diminuendolike accent:problem	!	!	!
+8A-L	.	4f 4dn	.	8.f^>	-de	-ne	.
+8B-J	.	.	.	.	.	.	.
+.	.	.	.	16g	sich	und	]
+*	*	*	*	*	*	*	*
+=40	=40	=40	=40	=40	=40	=40	=40
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!	!
+8GL	2E- 2EE-	4e-	.	4f	sen-	Schmer-	.
+8B-	.	.	.	.	.	.	.
+8G	.	4r	.	8e-	-ken	-zen,	.
+8B-J	.	.	.	8r	.	.	.
+*v	*v	*	*	*	*	*	*
+=41	=41	=41	=41	=41	=41	=41
+2E- 2EE-	8gL 8e-	.	4b-	so	all-	.
+.	8B-J	.	.	.	.	.
+.	8gL 8e-	.	8.cc	wird	-ü-	.
+.	8B-J	.	.	.	.	.
+.	.	.	16b-	auch	-ber-	.
+=42	=42	=42	=42	=42	=42	=42
+2E- 2EE-	8a-L 8f 8dn	.	4f	dir,	-all	.
+.	8B-J	.	.	.	.	.
+.	8a-L 8f 8d	.	8b-	wenn	wird	.
+.	8B-J	.	8b-	ich	Er-	.
+=43	=43	=43	=43	=43	=43	=43
+*	*	*	*^	*	*	*
+!	!	!	!	!	!	!	!LO:HP:a
+4E- 4EE-	8gL 8e- 8d-X	.	8.anL	8.an	fern	-in-	<
+.	8B-J	.	.	.	.	.	.
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!	!
+.	.	.	16b-J	16b-	.	-ne-	[
+!	!	!	!	!	!	!	!LO:HP:a
+4D- 4DD-	8gL 8e-	.	8.cc	4ryy	dei-	-rung	>
+.	8B-J	.	.	.	.	.	.
+.	.	.	16b-	.	-nem	dir	]
+*	*	*	*v	*v	*	*	*
+=44	=44	=44	=44	=44	=44	=44
+4C 4CC\	8a-L 8e-	.	4e-	Au-	sa-	.
+.	8A-<J	.	.	.	.	.
+.	.	.	(<16qqg/LL	.	.	.
+.	.	.	16qqf/JJ	.	.	.
+4BB- 4BBB-\	8e-L 8d- 8G<	.	4e-)	-ge	-gen:	.
+.	8E-<J	.	.	.	.	.
+!!LO:LB:g=original
+=45	=45	=45	=45	=45	=45	=45
+*^	*	*	*	*	*	*
+*ped	*	*	*	*	*	*	*
+!	!	!LO:TX:a:t=P:mixed beam:problem	!	!	!	!	!
+!	!	!	!LO:DY:rj	!	!	!	!
+2E-	4AA-	8e-L 8c 8A-/	pp	4e-	grö-	hier	.
+.	.	8e-/	.	.	.	.	<
+!	!	!	!	!	!	!	!LO:HP:a
+.	4EE-	8ee-\	.	8.a-	-sser	blieb	.
+.	.	8e-/J	.	.	.	.	.
+.	.	.	.	16b-	und	zu-	[
+*Xped	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+*	*	*	*	*^	*	*	*
+!	!	!LO:TX:a:t=P:mixed beam:problem	!	!	!	!	!	!
+2E-	4AA-	8e-L 8c 8A-/	.	4cc	4ryy	grö-	rück	.
+.	.	8e-/	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!LO:HP:a
+!	!	!	!	!	!LO:TX:t=P:wyświetlają się dwie kropki:problem	!	!	!
+.	4EE-	8ee-\	.	8.dd-	8.dd-L	-sser	ein	>
+.	.	8e-/J	.	.	.	.	.	.
+.	.	.	.	16cc	16ccJ	mein	.	]
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+!	!	!LO:TX:a:t=P:mixed beam:problem	!	!	!	!	!	!
+2E-	4BB-	8e-L 8d- 8G</	.	8ccL	8cc	An-	Theil	.
+.	.	8e-/	.	8b-J	8b-	.	von	.
+!	!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!	!
+.	4EE-	8ee-\	.	8gL	8g	-ge-	sei-	.
+.	.	8e-/J	.	8fJ	8f	.	-nem	.
+*	*	*	*	*v	*v	*	*	*
+=48	=48	=48	=48	=48	=48	=48	=48
+!	!	!LO:TX:a:t=P:mixed beam:problem	!	!	!	!	!
+2E-	4BB-	8e-L 8d- 8G</	.	4.f	-den-	Her-	.
+.	.	8e-/	.	.	.	.	.
+.	4EE-	8ee-\	.	.	.	.	.
+.	.	8e-/J	.	8e-	-ken,	-zen,	.
+*v	*v	*	*	*	*	*	*
+=49	=49	=49	=49	=49	=49	=49
+!	!LO:TX:a:t=P:mixed beam:problem	!	!	!	!	!
+4E- 4AA-/	8e-L 8c 8A-/	.	4e-	grö-	hier	.
+.	8e-/	.	.	.	.	.
+!	!	!	!	!	!	!LO:HP:a
+4r	8ee-\	.	8.a-	-sser	blieb	<
+.	8e-/J	.	.	.	.	.
+.	.	.	16b-	und	zu-	[
+=50	=50	=50	=50	=50	=50	=50
+*	*^	*	*	*	*	*
+*	*	*	*	*^	*	*	*
+!	!	!	!	!	!	!	!	!LO:HP:a
+8r	8r	8reyy	.	4cc	4ryy	grö-	-rück	>
+8cL 8G 8C	4cc	8enL	<	.	.	.	.	.
+8c 8A- 8F	.	8f	.	8cc	8ccL	-sser	ein	]
+8e-J 8B- 8E-	8ee-X	8gJ	[	8b-	8b-J	mein	.	.
+*	*	*	*	*	*	*	*	*
+*	*v	*v	*	*v	*v	*	*	*
+!!LO:LB:g=original
+=51	=51	=51	=51	=51	=51	=51
+*	*	*	*^	*	*	*
+8e- 8A-	8cc 8a-/	.	(>4e-	8e-	An-	Theil	.
+8r	8e-L 8c	.	.	8e-S	.	von	.
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!	!
+4E- 4EE-	8dn 8Bn	.	8f)	8f	.	sei-	.
+.	8d-XJ 8B-X	.	8g	8g	-ge	-nem	.
+*	*	*	*v	*v	*	*	*
+=52	=52	=52	=52	=52	=52	=52
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!	!
+!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!	!
+8E- 8AA-	8a- 8c 8A-	.	8b-/	-den-	Her-	.
+!	!	!LO:DY:rj	!	!	!	!
+!LO:TX:a:i:t=legatiss.	!	!	!	!	!	!
+!	!LO:TX:t=P:"p" na wysokości "legatiss.":problem	!	!	!	!	!
+8r	(>8aa-L	p	8a-	-ken.	-zen.	.
+4r	8cc	.	4r	.	.	.
+.	8ffJ)	.	.	.	.	.
+*	*	*	*	*v	*v	*
+=53	=53	=53	=53	=53	=53
+!LO:TX:a:t=P:mixed beam:problem	!	!	!	!	!
+8f>\L	(>8ddnL> 8a-	.	2r	.	.
+8e->\	8ee- 8g	.	.	.	.
+8A-/	8cc 8g-X	.	.	.	.
+8d-/J	8dd-XJ 8f)	.	.	.	.
+=54	=54	=54	=54	=54	=54
+(>8dn\L	(>8bnL 8f	.	2r	.	.
+8c	8cc 8en	.	.	.	.
+8F	8a- 8e-X	.	.	.	.
+8B-J)	8bJ 8dn)	.	.	.	.
+=55	=55	=55	=55	=55	=55
+*	*^	*	*	*	*
+(>8EnL	8g	8d-XL	.	2r	.	.
+8F	4a-	8cJ	.	.	.	.
+8D-	.	4B-	.	.	.	.
+8E-XJ)	8g 8d-	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=56	=56	=56	=56	=56	=56
+!!LO:TX:a:B:t=1
+*>B1	*>B1	*	*>B1	*	*
+!	!LO:TX:t=P:"1" powinno być wyśrodkowane:problem	!	!	!	!
+4AA- 4AAA-\	8a- 8cL	.	2r	.	.
+.	8E-<	.	.	.	.
+4rAA	8e- 8c 8A-	.	.	.	.
+.	8E-<J	.	.	.	.
+!LO:TX:b:t=[segno]	!LO:TX:a:t=[segno]	!	!LO:TX:a:t=[segno]	!	!
+==57	=57	=57	=57	=57	=57
+!!LO:TX:a:B:t=2
+*>B2	*>B2	*	*>B2	*	*
+!	!LO:TX:t=P:"2" powinno być wyśrodkowane:problem	!	!	!	!
+2E- 2AA-/	2a- 2c	.	2rdd	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cresc.", fontstyle="normal"
+!!!RDF**dynam: > = "dim.", fontstyle="normal"
+!!!ENC: Antoni Szymański
+!!!END: 2020-02-07
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: 2020-02-23

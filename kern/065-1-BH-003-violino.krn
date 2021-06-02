@@ -1,0 +1,237 @@
+!!!!SEGMENT: 065-1-BH-003-violino.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Sonata
+!!!OPS: Op. 65
+!!!PTL: Sonate pour Piano et Violoncelle
+!!!PPR: Breitkopf & Härtel
+!!!OMV: 3
+!!!PPP: Leipzig
+!!!NIFC-rismID: PL-Wbfc 4692/n
+!!!NIFC-shelfmark: PL-Wbfc 4692/n
+!!!system-decoration: {(s1)}
+**kern	**dynam
+*part1	*part1
+*I"LARGO.	*
+*staff1	*
+*clefG2	*
+*k[b-e-]	*
+*M3/2	*
+=1	=1
+!LO:TX:b:Bi:t=cantabile	!
+(>2dd	.
+8ee-L	.
+8dd	.
+8cc	.
+8ggJ)	.
+(>4.ff	.
+8ee-)	.
+=2	=2
+(>4.dd	.
+8b-)	.
+(>4b-	.
+8qqcc/L	.
+8qqb-	.
+8qqa	.
+8qqb-J	.
+8.ddL	.
+16ccJk)	.
+4cc	.
+4r	.
+=3	=3
+!	!LO:DY:b:rj
+(<1B-	p
+2An)	.
+=4	=4
+(>2B-	.
+2en 2G	.
+4f 4A)	.
+4r	.
+=5	=5
+2ee-	.
+(>8ffL	.
+8ee-	.
+8dd	.
+8aa-XJ)	.
+(>4.gg	.
+8ff)	.
+!!LO:LB:g=original
+=6	=6
+(>4.ee-	.
+8cc)	.
+(>4dd	.
+8qqee-/L	.
+8qqdd	.
+8qqcc	.
+8qqddJ	.
+8.ffL	.
+16ee-Jk)	.
+2ee-	.
+=7	=7
+!	!LO:DY:a
+(<2c	pp
+2Bn	.
+2c)	.
+=8	=8
+(<2A	.
+2B-	.
+2c	.
+=9	=9
+4B-)	.
+4r	.
+(>8ggL	.
+8ff	.
+8ee-	.
+8ccJ)	<
+(>4.b-	.
+8aa-X	.
+.	[
+=10	=10
+4gg)	.
+4rcc	.
+!LO:TX:a:Bi:t=poco a poco cresc.:dur=5h:ext=s:problem:text with extention lines	!
+(<2B-	.
+2c	.
+=11	=11
+2d	.
+2e-	.
+2en	.
+!!LO:LB:g=original
+=12	=12
+2d)	.
+(<8aL	p
+8b-	.
+8a	.
+8b-J)	.
+(>4.cc	.
+8cc'>)	.
+=13	=13
+[>2cc	<
+(>8ccL]	.
+8dd	.
+8cc	.
+8ddJ)	.
+(>4.ee-	.
+8dd)	.
+=14	=14
+(>2cc#X^<	>
+8ee-L	p
+8dd	.
+8ccn	.
+8ggJ)	.
+(>4.ff	.
+8ee-)	.
+=15	=15
+(>4.dd	.
+8b-)	.
+(>4b-	.
+8qqccL/	.
+8qqb-	.
+8qqa	.
+8qqb-J	.
+8.ddL	.
+16ccJk)	.
+4cc	.
+4r	.
+=16	=16
+!	!LO:DY:a
+(<2A-X	f
+2B-	.
+2G)	.
+!!LO:LB:g=original
+=17	=17
+(<4A-X	.
+4c	.
+4e-	.
+4dn)	.
+4e-	.
+4r	.
+=18	=18
+2b-	p
+(<8ccL	.
+8b-	.
+8g	.
+8fJ)	.
+(>4.en	.
+8cc)	.
+=19	=19
+2cc	.
+!	!LO:HP:rj
+(>8ddL	<
+8cc	.
+8an	.
+8gJ)	.
+(>4.f#X	.
+8dd)	.
+=20	=20
+2dd	.
+(>4dd	.
+8ccL	.
+8ddJ)	.
+(>4ee-	.
+16qqffLL/	.
+16qqee-JJ	.
+8ddL	.
+8ee-J)	.
+=21	=21
+(>8ggL	f
+8ff	.
+8ee-	.
+8aJ)	.
+(<8ddL/	.
+8cc	.
+8b-)	.
+(<8f#XJ	.
+8aL)	.
+(<8g	.
+8a)	.
+8qqcc/	.
+8b-J	.
+!!LO:LB:g=original
+=22	=22
+2fn	.
+2g	.
+(>2f	.
+=23	=23
+2dd)	.
+(>8ccL	.
+8b-	.
+8a	.
+8b-J)	.
+(>4.cc	.
+8e-X)	.
+=24	=24
+!	!LO:DY:a
+(<2d	p
+2e-	.
+2An)	.
+=25	=25
+!	!LO:DY:a
+[<2B-	pp
+8B-L]	.
+(<8c	.
+8en	.
+8gJ)	.
+(<8gL	.
+8f	.
+8e-X	.
+8AJ)	.
+=26	=26
+(<2f	.
+2g	.
+2f)	.
+=27	=27
+(<8qf/	.
+!LO:N:vis=1	!
+1.b-;>)	.
+==	==
+*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cresc.", fontstyle= "bold-italic"
+!!!RDF**dynam: > = "dim.", fontstyle= "bold-italic"
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2020-04-27
+!!!EED: 
+!!!EST: 

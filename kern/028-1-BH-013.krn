@@ -1,0 +1,681 @@
+!!!!SEGMENT: 028-1-BH-013.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: No. 13.
+!!!OPS: Op. 28
+!!!PTL: Vingt-quatre | PRÉLUDES | pour le Piano |
+!!!PPR: Breitkopf & Härtel
+!!!PPP: Leipzig
+!!!NIFC-rismID: 1001013136
+!!!NIFC-shelfmark: PL-Wbfc 4372/n
+!!!OMD: Lento.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
+*F#:	*F#:	*
+*M3/2	*M3/2	*
+*MM102	*MM102	*
+=1	=1	=1
+!	!LO:TX:t=P:nie wyświetla się "Lento." (!!!OMD):problem	!
+!	!	!LO:DY:rj
+(>\8FF#L	(>2.a# 2.f# 2.c#	p
+8E#	.	.
+!	!LO:TX:b:i:B::t=legato	!
+8G#	.	.
+8F#	.	.
+8A#	.	.
+8C#J	.	.
+8FF#\L	2.a# 2.f# 2.c#	.
+8E#	.	.
+8G#	.	.
+8F#	.	.
+8A#	.	.
+8C#J	.	.
+=2	=2	=2
+*	*^	*
+*	*	*^	*
+!	!	!	!LO:TX:a:t=P:note position:1.c# za 2.a# 2.f#:problem	!
+8FF#\L	2.a# 2.f#	2.ryy	1.c#	.
+8E#	.	.	.	.
+8G#	.	.	.	.
+8F#	.	.	.	.
+8A#	.	.	.	.
+8C#J	.	.	.	.
+*ped	*	*	*	*
+8CC#\L	2b/	2.e#	.	.
+8F##X	.	.	.	.
+8A#	.	.	.	.
+8G#	.	.	.	.
+8B	4g#)	.	.	.
+*Xped	*	*	*	*
+8C#J)	.	.	.	.
+*	*	*v	*v	*
+*	*v	*v	*
+=3	=3	=3
+*	*^	*
+(>\8FF#L	(>2.a# 2.f# 2.c#	2.rAyy	.
+8E#	.	.	.
+8G#	.	.	.
+8F#	.	.	.
+8A#	.	.	.
+8C#J	.	.	.
+8FF#\L	2a# 2f#	2.c#	.
+8E#	.	.	.
+8G#	.	.	.
+8F#	.	.	.
+8A#	4a# 4f#	.	.
+8C#J	.	.	.
+!!LO:LB:g=original
+=4	=4	=4	=4
+!	!LO:TX:t=P:grupa niemiarowa bez ramki:problem	!	!
+8FF#\L	20%3a# 20%3f#	2.c#	.
+8E#	.	.	.
+.	20%3b 20%3g#	.	.
+8G#	.	.	.
+.	20%3a# 20%3f#	.	.
+8F#	.	.	.
+.	20%3g# 20%3e#	.	.
+8A#	.	.	.
+.	20%3a# 20%3f#	.	.
+8C#J	.	.	.
+*ped	*	*	*
+8CC#\L	4cc# 4a#	2e#	.
+8F##X	.	.	.
+8A#	4b 4g#	.	.
+8G#	.	.	.
+8B	8r	4ryy	.
+8C#J)	8g# 8c#)	.	.
+*Xped	*	*	*
+.	.	.	.
+*	*v	*v	*
+=5	=5	=5
+(>\8FF#L	(>2.a# 2.f# 2.c#	.
+8E#	.	.
+8G#	.	.
+8F#	.	.
+8A#	.	<
+8C#J	.	.
+8FF#\L	2.cc# 2.a# 2.c#	.
+8E#	.	.
+8G#	.	.
+8F#	.	.
+8A#	.	.
+8C#J	.	[
+=6	=6	=6
+8DD#\L	2.ff# 2.a# 2.f#	.
+8G##X	.	.
+8B#X	.	.
+8A#	.	.
+8d#	.	.
+8F#J	.	.
+8GG#\L	2.ee# 2.cc# 2.g#)	.
+8F##X	.	.
+8A#	.	.
+8G#y	.	.
+8c#	.	.
+8E#J	.	.
+=7	=7	=7
+*	*^	*
+8GG#\L	4ee#:/	2.dd#:\ 2.g#:\ 2.f#:\	>
+8F##X	.	.	.
+8A#	1ryy	.	.
+8G#	.	.	.
+8B#X	.	.	.
+8D#J	.	.	.
+8C#\L	.	2cc#/ 2g#/ 2e#/	.
+8F##	.	.	]
+8A#	.	.	.
+8G#	.	.	.
+8c#	4ryy	4r	.
+8E#J	.	.	.
+*	*v	*v	*
+!!LO:LB:g=original
+=8	=8	=8
+8G#\L	1.rdd	.
+8F#	.	.
+8B	.	.
+8D#	.	.
+8F#	.	.
+8E#J	.	.
+8A#\L	.	.
+8C#	.	.
+8A#	.	.
+8BB	.	.
+8A#	.	.
+8G#J)	.	.
+=9	=9	=9
+.	(>4qqA#/	.
+8FF#\L	(>/2.a#) 2.f#/ 2.c#/	.
+8E#	.	.
+8G#	.	.
+8F#	.	.
+8A#	.	.
+8C#J	.	.
+8FF#\L	2.a#/ 2.f#/ 2.c#/	.
+8E#	.	.
+8G#	.	.
+8F#	.	.
+8A#	.	.
+8C#J	.	.
+=10	=10	=10
+*	*^	*
+*	*	*^	*
+!	!	!	!LO:TX:a:t=P:note position:1.c# przed 2.a# 2.f#:problem	!
+8FF#\L	2.a# 2.f#	2.ryy	1.c#	.
+8E#	.	.	.	.
+8G#	.	.	.	.
+8F#	.	.	.	.
+8A#	.	.	.	.
+8C#J	.	.	.	.
+8CC#\L	[>2b	2.e#	.	.
+8F##X	.	.	.	.
+8A#	.	.	.	.
+8G#	.	.	.	.
+8B	8.bL]	.	.	.
+8C#J	.	.	.	.
+.	16g#Jk	.	.	.
+*	*	*v	*v	*
+*	*v	*v	*
+!!LO:LB:g=original
+=11	=11	=11
+8FF#\L	2.a# 2.f# 2.c#	.
+8E#	.	.
+8G#	.	.
+8F#	.	.
+8A#	.	.
+8C#J	.	.
+8FF#\L	[>4a# [>4f# [<4c#	<
+8E#	.	.
+!	!LO:TUP:b	!
+8G#	12a#]L 12f#] 12c#]	.
+.	12a# 12f# 12c#	.
+8F#	.	.
+.	12a#J 12f# 12c#	.
+!	!LO:TUP:b	!
+8A#	12a#L 12f# 12c#	.
+.	12a# 12f# 12c#	.
+8C#J	.	.
+.	12a#J 12f# 12c#	.
+=12	=12	=12
+*	*^	*
+8FF#\L	4a# 4f#	2.c#	.
+8E#	.	.	[
+8G#	8b/L 8g#/	.	.
+8F#	8a# 8f#	.	.
+8A#	8g# 8e#	.	.
+8C#J	8a#J 8f#	.	.
+8CC#\L	4cc# 4a#	2e#	.
+8F##X	.	.	.
+8A#	4b 4g#)	.	.
+8G#	.	.	.
+8B	8r	4ryy	.
+8C#J	8g# [<8c#	.	.
+=13	=13	=13	=13
+8FF#\L	(>2.a# 2.en 2.c#]	2.rFyy	.
+8E#X	.	.	.
+8G#	.	.	.
+8F#	.	.	.
+8A#	.	.	.
+8C#J	.	.	.
+8FF#\L	[>2a#	2.e	<
+8E#	.	.	.
+8G#	.	.	.
+8F#	.	.	.
+8A#	8.a#L]	.	.
+8C#J	.	.	.
+.	16bJk	.	.
+!!LO:LB:g=original
+=14	=14	=14	=14
+8FF#\L	2.cc# 2.a# 2.en	2.rAyy	[[
+8E#X	.	.	.
+8G#	.	.	.
+8F#	.	.	.
+8A#	.	.	.
+8C#J	.	.	.
+8FF#\L	2dd#	2e 2.a#	>
+8E#	.	.	.
+8G#	.	.	.
+8F#	.	.	.
+8A#	8.dd#L	4ryy	.
+8C#J	.	.	.
+.	16cc#Jk	.	]
+*	*v	*v	*
+=15	=15	=15
+8BBL	2.cc# 2.a# 2.en	.
+8F#	.	.
+8G#	.	.
+8F##X	.	.
+8A#	.	.
+8C#J	.	.
+!	!LO:S:s=1:note:problem:note-level slur	!
+8BBL	2.b 2.g# 2.d#)	.
+8F##	.	.
+8A#	.	.
+8G#	.	.
+8B	.	.
+8D#J	.	.
+=16	=16	=16
+*	*^	*
+8DD#\L<	(>2.a# 2.f##X 2.c#	2.rAyy	.
+8C##X	.	.	.
+8En	.	.	.
+8D#	.	.	.
+8F##X	.	.	.
+8AA#J	.	.	.
+8GG#\L<	[>2b	2.g# 2.B	.
+8C##	.	.	.
+8E	.	.	.
+8D#	.	.	>
+8G#	8.bL]	.	.
+8GG#J	.	.	.
+.	16d#Jk	.	]
+=17	=17	=17	=17
+!	!	!LO:TX:a:t=P:note position:1e# nad 8D#:problem	!
+8CC#\L	2.g# 2.B	1e#	.
+8BB#X	.	.	.
+8D#	.	.	.
+8C#	.	.	.
+8E#	.	.	.
+8GG#J	.	.	.
+8CC#\L	2.a# 2.c#	.	.
+8BB#	.	.	.
+8D#	.	2ryy	.
+8C#	.	.	.
+8E#	.	.	.
+8GG#J	.	.	.
+*	*v	*v	*
+!!LO:LB:g=original
+=18	=18	=18
+8FF#\L<	2f# 2A#)	.
+8BB#X	.	.
+8D#	.	.
+8C#	.	.
+8F#	4r	.
+8FF#J	.	.
+!	!LO:S:s=1:note:problem:note-level slur	!
+8BBB\L<	(>2.b 2.d#	.
+8E#	.	.
+8G#	.	.
+8F#	.	.
+8B	.	.
+8BBnyJ	.	.
+=19	=19	=19
+*	*^	*
+*	*	*^	*
+!	!	!LO:TX:a:t=P:note position:1e# nad 8BB#X:problem	!	!
+8CC#\L<	2.g# 2.B	1e#	2.rFyy	.
+8BB#X	.	.	.	.
+8D#	.	.	.	.
+8C#	.	.	.	.
+8E#	.	.	.	.
+8GG#J	.	.	.	.
+8CC#\L<	2.a#	.	2c#\	.
+8BB#	.	.	.	.
+8D#	.	2ryy	.	.
+8C#	.	.	.	.
+8E#	.	.	4B\	.
+8GG#J	.	.	.	.
+*	*	*v	*v	*
+*	*v	*v	*
+=20	=20	=20
+8FF#L<	1f# 1A#)	.
+8BB#X	.	.
+8D#	.	.
+8C#	.	.
+8F#	.	.
+(>8CC#J	.	.
+8FF#L<)	.	.
+8BB#	.	.
+8D#	4r	.
+8C#	.	.
+8F#	4r	.
+(>8EE#J	.	.
+!!LO:PB:g=original
+=21	=21	=21
+*	*^	*
+!	!LO:TX:a:B:i:t=più lento.	!	!
+!	!LO:TX:b:i:B:t=sostenuto.	!	!
+!LO:TX:a:t=P:problem:brak zakończenia łuku	!	!	!
+*ped	*	*	*
+8DD#\L)	(>2.ff#	8rf	.
+8A# 8D#	.	8f#\L	.
+8A# 8D#	.	8f#	.
+8A# 8D#	.	8f#	.
+8d# 8D#	.	8f#	.
+*Xped	*	*	*
+8A#J 8D#	.	8f#J	.
+8A#\L 8D#\	2a#	8f#\L	.
+8c# 8D#	.	8f#	.
+8B#X 8D#	.	8f#	.
+8A# 8D#	.	8f#	.
+8A# 8GG#	4b#X	8f#	.
+8G#J 8GG#	.	8f#J	.
+=22	=22	=22	=22
+*ped	*	*	*
+8CC#\L<	[>2b#X	8e#L	.
+8G# 8GG#	.	8e#	.
+8G# 8C#	.	8e#	.
+*Xped	*	*	*
+8G# 8D#	.	8e#	.
+8G# 8C#	16b#LL]	8e#	.
+.	16cc#	.	.
+8G#J 8GG#	16ee#	8e#J	.
+.	16dd#JJ	.	.
+8G#\L 8C#\	2.cc#	8e#L	.
+8G# 8D#	.	8e#	.
+8G# 8C#	.	8e#	.
+8G# 8F#	.	8e#	.
+8G# 8E#	.	8e#	.
+8G#J 8GG#	.	8e#J)	.
+=23	=23	=23	=23
+*ped	*	*	*
+8CC#\L<	(>2.een	8re	.
+8G# 8C#	.	8enL	.
+8G# 8C#	.	8e	.
+8G# 8C#	.	8e	.
+8c# 8C#	.	8e	.
+8G#J 8C#	.	8eJ	.
+8G#\L 8C#\	2g#	8eL	.
+*Xped	*	*	*
+.	.	.	.
+8B 8C#	.	8e	.
+8A# 8C#	.	8e	.
+8G# 8C#	.	8e	.
+8G# 8FF#	4a#	8e	.
+8F#J 8FF#	.	8eJ	.
+!!LO:LB:g=original
+=24	=24	=24	=24
+*ped	*	*	*
+8BBB\L	[>2a#	8re	.
+8F# 8FF#	.	8d#L	.
+8F# 8BB	.	8d#	.
+8F# 8C#	.	8d#	.
+*Xped	*	*	*
+.	.	.	.
+8F# 8BB	16a#LL]	8d#	.
+.	16b	.	.
+8F#J 8FF#	16dd#	8d#J	.
+.	16cc#JJ	.	.
+8F#\L< 8BB\	2b	8d#L	.
+8F# 8C#	.	8d#	.
+8F# 8BB	.	8d#	.
+8F# 8FF#	.	8d#	.
+8F# 8BB	4a#	8d#	.
+8F#J 8C#	.	8c#J	.
+=25	=25	=25	=25
+8F#\L 8D#\	4a#	8BL	.
+8F# 8D#	.	8B	.
+8F# 8D#	4g#)	8B	.
+8F# 8D#	.	8B	.
+8F# 8C#	(>16g#LL	8c#	.
+.	16a#	.	.
+8F#J 8C#	16cc#	8c#J	.
+.	16bJJ	.	.
+8F#\L 8BB\	4a#	8d#L	.
+8F# 8BB	.	8d#	.
+8F# 8BB	[>4g#)	8d#	.
+8F# 8BB	.	8d#	.
+8F# 8C#	(>16g#LL]	8c#	.
+.	16a#	.	.
+8F#J 8C#	16cc#	8c#J	.
+.	16bJJ	.	.
+=26	=26	=26	=26
+8F#L 8D#	4a#	8BL	.
+8F# 8D#	.	8B	.
+8F# 8BB	[>2.g#	8d#	.
+8F# 8BB	.	8d#	.
+8G# 8BB	.	8e#X	>
+8F#J 8BB	.	8d#J	.
+8G#L 8BB	.	8e#L	]
+8F# 8BB	.	8d#	.
+.	.	.	<
+8G# 8BB	8g#L]	8e#	.
+8F# 8BB	8a#	8d#	.
+8F# 8AA#	8cc#	8c#	.
+8F#J 8C#	8a#J	8c#J	[
+!!LO:LB:g=original
+=27	=27	=27	=27
+*	*	*^	*
+8F#L 8D#	2.reeeyy	4f#/	8A#\L	.
+8F# 8D#	.	.	8A#\	.
+8A# 8D#	.	4f#/	8d#\	.
+8A# 8D#	.	.	8d#\	.
+8G# 8D# 8GG#	.	4f#/	8d# 8B#X\	.
+8G#J 8D# 8GG#	.	.	8B#\J	.
+!	!	!LO:TX:t=P:note position:4f# 4d# przed 8Bn 2g#:problem	!	!
+8G#L 8C#	2g#	4f# 4d#	8Bn\L	.
+8G# 8C#	.	.	8B\	.
+8G# 8C#	.	4e#X 4c#	8B\	.
+8G# 8C#	.	.	8B\	.
+!	!	!LO:TX:t=P:note position:4d# przed 8B:problem	!	!
+*ped	*	*	*	*
+8G# 8C#	4g#	4d#	8B\	.
+8G#J 8C#	.	.	8B\J	.
+*	*	*v	*v	*
+*	*v	*v	*
+=28	=28	=28
+8G#L 8C#	4g# 4d# 4B	.
+8C# 8FF#	.	.
+*Xped	*	*
+.	.	.
+*ped	*	*
+8C# 8FF#	4a# 4c# 4A#	.
+8C# 8FF#	.	.
+*Xped	*	*
+.	.	.
+*ped	*	*
+8C# 8FF#	4g# 4d# 4B	.
+8E#J 8FF#	.	.
+*Xped	*	*
+.	.	.
+8F#\L< 8FF#\	2.a# 2.c# 2.A#)	.
+(>8EE#	.	.
+8GG#	.	.
+8FF#	.	.
+8AA#	.	.
+8CC#J	.	.
+=29	=29	=29
+*	*^	*
+*ped	*	*	*
+!	!LO:TX:b:i:B:t=Tempo I°.	!	!
+!LO:TX:b:t=P:w źródle "ped." przed nutą:problem	!	!	!
+8AAA#L\)	(>2.a# 2.en	2.rcyy	.
+8E#X\	.	.	.
+8G#\	.	.	.
+8F#\	.	.	.
+8A#\	.	.	.
+8AA#J\	.	.	.
+8FF#\L	[>2a#	2.e	.
+8E#	.	.	.
+8G#	.	.	.
+8F#	.	.	.
+*Xped	*	*	*
+.	.	.	.
+8A#	8.a#L]	.	.
+8C#J	.	.	.
+.	16bJk	.	.
+!!LO:LB:g=original
+=30	=30	=30	=30
+8FF#\L	2.cc#/ 2.a#/ 2.en/	2.rcyy	.
+8E#X	.	.	.
+8G#	.	.	.
+8F#	.	.	.
+8A#	.	.	.
+8C#J	.	.	.
+!	!LO:TX:t=P:problem:note position:2dd# za 2.ff# 2a.# 2.e	!	!
+8FF#\L	[>2dd#	2.ff# 2.a# 2.e	.
+8E#	.	.	.
+8G#	.	.	.
+8F#	.	.	.
+8A#	8.dd#L]	.	.
+8C#J	.	.	.
+.	16cc#Jk	.	.
+=31	=31	=31	=31
+8BB\L	2.rcccyy	2.ff# 2.cc# 2.en	.
+8E#X	.	.	.
+8G#	.	.	.
+8F#	.	.	.
+8A#	.	.	.
+8C#J	.	.	.
+8BB\L	[>2.dd#	2.b 2.d#	.
+8E#	.	.	.
+8G#	.	.	.
+8F#	.	.	.
+8B	.	.	.
+8BBJ	.	.	.
+=32	=32	=32	=32
+*ped	*	*	*
+!LO:TX:b:t=P:w źródle "ped." przed nutą:problem	!	!	!
+8DD#\L<	2.dd#]	2.b 2.f##X 2.c#	.
+8C##X	.	.	.
+8En	.	.	.
+8D#	.	.	.
+8F##X	.	.	.
+8AA#J	.	.	.
+*Xped	*	*	*
+.	.	.	.
+8GG#\L<	[>2b	2.g# 2.B	.
+8C##	.	.	.
+8E	.	.	.
+8D#	.	.	.
+8G#	8.bL]	.	.
+8GG#J	.	.	.
+.	16d#Jk	.	.
+!!LO:LB:g=original
+=33	=33	=33	=33
+*	*	*^	*
+*	*ped	*	*	*
+!	!LO:TX:a:t=P:slur:pionowy łuk od 1.ee# do 2.g#:problem	!	!	!
+!	!	!	!LO:TX:t=P:pedal:pedalizacja nad pięciolinią:problem	!
+!	!	!	!LO:TX:a:t=P:w źródle "ped." przed nutą:problem	!
+8CC#\L<	1.ee#	1.rcccyy	&(>2.g# 2.e# 2.Bn\	.
+8BB#X	.	.	.	.
+8D#	.	.	.	.
+8C#	.	.	.	.
+8E#	.	.	.	.
+8GG#J	.	.	.	.
+8CC#\L<	.	.	2g#\ 2e#\ 2B\	.
+8BB#	.	.	.	.
+8D#	.	.	.	.
+*	*Xped	*	*	*
+!	!	!	!LO:TX:t=P:pedal:pedalizacja nad pięciolinią:problem	!
+8C#	.	.	.	.
+8E#	.	.	4a#\ 4c#\	.
+8GG#J	.	.	.	.
+*	*	*v	*v	*
+=34	=34	=34	=34
+*	*ped	*	*
+!	!LO:TX:t=P:slur:pionowy łuk od 2.ff# do 2.f#:problem	!	!
+!	!	!LO:TX:a:t=P:w źródle "ped." przed nutą:problem	!
+!	!LO:TX:t=P:problem:pedal:pedalizacja nad pięciolinią	!	!
+8FF#\L<	2.ff#	2.f#&) 2.A#	.
+8BB#X	.	.	.
+8D#	.	.	.
+*	*Xped	*	*
+!	!LO:TX:t=P:pedal:pedalizacja nad pięciolinią:problem	!	!
+8C#	.	.	.
+8F#	.	.	.
+8FF#J	.	.	.
+!	!LO:TX:a:t=P:note position:2.gg# nad (>2.b 2.g# 2.d#:problem	!	!
+!	!LO:TX:t=P:pedal:pedalizacja nad pięciolinią:problem	!	!
+*ped	*	*	*
+8BBB\L<	2.gg#/	(>2.b 2.g# 2.d#	.
+8C##X	.	.	.
+8E#	.	.	.
+8D#	.	.	.
+8B	.	.	.
+*	*Xped	*	*
+.	.	.	.
+!	!LO:TX:t=P:pedal:pedalizacja nad pięciolinią:problem	!	!
+8GG#J	.	.	.
+=35	=35	=35	=35
+*	*	*^	*
+*	*ped	*	*	*
+!	!LO:TX:t=P:pedal:pedalizacja nad pięciolinią:problem	!	!	!
+!	!LO:TX:t=P:slur:problem:pionowy łuk od 2.ee# do 2.g#	!	!	!
+!	!LO:TX:t=P:note position:problem:1.Bn 1.e# za 2.g# i 2.ee#	!	!	!
+!	!	!	!LO:TX:a:t=P:w źródle "ped." przed nutą:problem	!
+8CC#\L	[>2.ee#	2.g#	1.Bn 1.e#	.
+8BB#X	.	.	.	.
+8D#	.	.	.	.
+8C#	.	.	.	.
+8E#	.	.	.	.
+8GG#J	.	.	.	.
+*	*Xped	*	*	*
+!	!LO:TX:t=P:pedal:pedalizacja nad pięciolinią:problem	!	!	!
+.	.	.	.	.
+8CC#\L	2ee#_>	2.a#	.	.
+8BB#	.	.	.	.
+8D#	.	.	.	.
+8C#	.	.	.	.
+8G#	8.ee#L]	.	.	.
+8CC#J	.	.	.	.
+.	16ff#Jk	.	.	.
+*	*v	*v	*v	*
+!!LO:LB:g=original
+=36	=36	=36
+!	!LO:TX:t=P:rendering:złe wyświetlanie zakończeń łuków:problem	!
+8FFF#\L<	1.ff#) 1.f#) 1.A#	.
+8BB#X	.	.
+8D#	.	.
+8C#	.	.
+8F#	.	.
+8CC#J	.	.
+8FF#\L<	.	.
+8BB#	.	.
+8D#	.	.
+8C#	.	.
+8F#	.	.
+8CC#J	.	.
+=37	=37	=37
+*^	*	*
+*ped	*	*	*
+!	!LO:TX:b:t=P:w źródle "ped." przed nutą:problem	!	!
+2.ryyy	8FFF#\L	8rA<	.
+!	!	!LO:TX:t=P:rendering:graficzne cresc. nakłada się na nuty:problem	!
+.	8D# 8FF#	(>8A#<L	<
+.	8D# 8FF#	8A#<	.
+.	8D# 8FF#	8A#<	.
+.	8D# 8FF#	8d#<	[
+.	8D#J 8FF#	8A#<J	.
+8A#L	8D#\L 8FF#\	2a#^>	.
+8c#	8D# 8FF#	.	.
+*Xped	*	*	*
+.	.	.	.
+*ped	*	*	*
+8B	8D# 8FF#	.	.
+8A#	8C# 8FF#	.	.
+8A#	8C# 8FF#	16g##XLL	.
+.	.	16a#	.
+8A#J	8C#J 8FF#	16cc#	.
+*Xped	*	*	*
+.	.	16bJJ	.
+*v	*v	*	*
+=38	=38	=38
+*ped	*	*
+!	!LO:TX:t=P:obie kreski taktowe kończące utwór są grube:problem	!
+1.A# 1.C# 1.FF#	1.a#)	.
+!LO:TX:b:B:t=Fine.	!	!
+.	.	.
+!!LO:PB:g=original
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: > = "dim."
+!!!ENC: Mateusz Mrugas
+!!!END: 2019-05-25
+!!!EED: Jędrzej Mróz
+!!!EST: 2019-06-03
+!!!EED2: Antoni Szymański
+!!!EST2: 2020-04-23
+!!!rism-genre: Prelude
+!!!rism-key: F-sharp major
+!!!rism-opus: op.  28, no. 13
+!!!rism-title: Prelude in F-sharp major op.  28, no. 13
+!!!rism-permalink: https://opac.rism.info/search?id=1001013136&View=rism
+!!!rism-773a-OPR: 1001013083
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001013083&View=rism

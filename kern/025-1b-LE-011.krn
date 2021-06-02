@@ -1,0 +1,2740 @@
+!!!!SEGMENT: 025-1b-LE-011.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: 11me. Étude.
+!!!OPS: Op. 25
+!!!PTL: Etudes pour le Piano
+!!!PPR: Lemoine
+!!!PPP: Paris
+!!!NIFC-rismID: 1001002421
+!!!NIFC-shelfmark: PL-Wbfc 4808/n
+!!!OMD: Lento.
+**kern	**fing	**kern	**fing	**dynam
+*part1	*	*part1	*	*part1
+*staff2	*	*staff1	*	*
+*clefF4	*	*clefG2	*	*
+*	*	*I"[half] = 69	*	*
+*k[]	*	*k[]	*	*
+*M4/4	*	*M4/4	*	*
+*a:	*	*a:	*	*
+*met(c)	*	*met(c)	*	*
+*MM138	*	*MM138	*	*
+=1	=1	=1	=1	=1
+1r	.	(<4e	.	p
+.	.	8.eL	.	.
+.	.	16eJk	.	.
+.	.	4e	.	.
+.	.	4f	.	.
+=2	=2	=2	=2	=2
+1r	.	4e	.	.
+.	.	4c	.	.
+.	.	2e;>)	.	.
+=3	=3	=3	=3	=3
+!	!	!	!	!LO:DY:rj
+(<4C\	.	(>4e 4c 4G<	.	pp
+8.CL<	.	8.eL 8.c 8.G<	.	.
+16CJk	.	16eJk 16c 16G<	.	.
+4C\	.	4e 4c 4G<	.	.
+4FF\	.	4f 4c 4A<	.	.
+=4	=4	=4	=4	=4
+*^	*	*	*	*
+4ryy	4CC	.	4e 4c 4G<	.	.
+4c 4A	4FF	.	4ryy	.	.
+!	!	!	!LO:TX:a:t=P:łuk kończy się za półnutą:problem	!	!
+4c 4G	4CC	.	2e;>)	.	.
+4d 4G#	4BBB	.	.	.	.
+*v	*v	*	*	*	*
+!!LO:LB:g=original
+=5|!	=5|!	=5|!	=5|!	=5|!
+*	*	*	*	*^
+!	!	!LO:TX:a:B:t=Allᵒ. con brio.	!	!	!
+*	*	*Xtuplet	*	*	*
+!	!	!	!	!LO:DY:vg=1	!
+*	*	*ped	*	*	*
+4AAA'<)	.	(>24fffLL	5	f	fz
+!	!	!LO:TX:b:i:t=risoluto.	!	!	!
+.	.	24ccc	.	.	.
+.	.	24eee	4	.	.
+.	.	24aa	1	.	.
+.	.	24ddd#X	3	.	.
+.	.	24cccJJ	.	.	.
+(>8.eL 8.c 8.A	.	24dddnLL	5	.	.
+.	.	24aa	.	.	.
+.	.	24ccc#X	4	.	.
+.	.	24aa	2	.	.
+.	.	24cccn	5	.	.
+16eJk 16c 16A	.	.	.	.	.
+.	.	24eeJJ	1	.	.
+4e 4c 4A	.	24bbLL	5	.	.
+.	.	24ee	2	.	.
+.	.	24bb-X	4	.	.
+.	.	24cc	1	.	.
+.	.	24aa	5	.	.
+*	*	*Xped	*	*	*
+.	.	.	.	.	.
+.	.	24eeJJ	2	.	.
+4f 4c 4A	.	24gg#XLL	4	.	.
+.	.	24cc	1	.	.
+.	.	24ggn	5	.	.
+.	.	24cc	2	.	.
+.	.	24ff#X	4	.	.
+.	.	24aJJ	.	.	.
+*	*	*	*	*v	*v
+=6	=6	=6	=6	=6
+4e 4c 4A	.	24ffnLL	.	.
+.	.	24cc	.	.
+.	.	24ee	.	.
+.	.	24a	.	.
+.	.	24dd#X	.	.
+.	.	24ccJJ	.	.
+4c 4A 4E	.	24ddnLL<	.	.
+.	.	24a	.	.
+.	.	24cc#X	.	.
+.	.	24a	.	.
+.	.	24ccn	.	.
+.	.	24eJJ	.	.
+!	!	!LO:TX:a:t=Loco	!	!
+2e 2c 2A)	.	24bbLL	.	.
+.	.	24ee	.	.
+.	.	24bb-X	.	.
+.	.	24cc	.	.
+.	.	24aa	.	.
+.	.	24eeJJ	.	.
+.	.	24gg#XLL	.	.
+.	.	24cc	.	.
+.	.	24ggn	.	.
+.	.	24cc	.	.
+.	.	24ff#X	.	.
+.	.	24aJJ	.	.
+!!LO:LB:g=original
+=7	=7	=7	=7	=7
+*	*	*ped	*	*
+4AAA'<	.	24ffnLL	.	.
+.	.	24cc	.	.
+.	.	24ee	.	.
+.	.	24a	.	.
+.	.	24dd#X	.	.
+.	.	24ccJJ	.	.
+(>8.EL 8.AA	.	24ddnLL>	.	.
+.	.	24a	.	.
+.	.	24cc#X	.	.
+.	.	24a	.	.
+.	.	24ccn	.	.
+16EJk 16AA	.	.	.	.
+.	.	24eJJ	.	.
+4E 4AA	.	24bLL	.	.
+.	.	24e	.	.
+.	.	24b-X	.	.
+*	*	*Xped	*	*
+.	.	24c	.	.
+.	.	24a	.	.
+.	.	24eJJ	.	.
+4F 4AA	.	24g#XLL	.	.
+.	.	24c	.	.
+.	.	24gn	.	.
+.	.	24c	.	.
+.	.	24f#X	.	.
+.	.	24AJJ	.	.
+=8	=8	=8	=8	=8
+*^	*	*	*^	*
+4E 4AA)	4ryy	.	24fnLL	.	.	.
+.	.	.	24c	.	.	.
+.	.	.	24e	.	.	.
+.	.	.	24A	.	.	.
+.	.	.	24d#X	.	.	.
+.	.	.	24cJJ	.	.	.
+4ryy	(>2.AAA	.	24dnLL	.	.	.
+.	.	.	24A	.	.	.
+.	.	.	24c#X	.	.	.
+.	.	.	24A	.	.	.
+.	.	.	24cn	.	.	.
+.	.	.	24E<JJ	.	.	.
+2EE)	.	.	24B<LL	.	.	.
+.	.	.	24E<	.	.	.
+.	.	.	24B-X<	.	.	.
+.	.	.	24C<	.	.	.
+.	.	.	24A<	.	.	.
+.	.	.	24E<JJ	.	.	.
+.	.	.	24G#X<LL	.	.	.
+.	.	.	24BB-y<	.	.	.
+.	.	.	24A<	.	.	.
+.	.	.	24E<	.	.	.
+.	.	.	24c<	.	.	.
+!	!	!	!LO:TX:t=P:palcowanie pod nutą:problem	!	!	!
+.	.	.	24F<JJ)	.	1	[
+*	*	*	*	*v	*v	*
+*v	*v	*	*	*	*
+!!LO:LB:g=original
+=9	=9	=9	=9	=9
+*	*	*	*^	*
+*	*	*ped	*	*	*
+4GGG#X	.	(>24eLL	.	5	.
+.	.	24B	.	2	.
+.	.	24d	.	4	.
+.	.	24f	.	1	.
+.	.	24ee	.	.	.
+.	.	24bJJ	.	.	.
+(>8.dL 8.F	.	24ddLL	.	.	.
+.	.	24ff	.	.	.
+.	.	24eee	.	.	.
+.	.	24bb	.	.	.
+.	.	24ddd	.	.	.
+16dJk 16F	.	.	.	.	.
+.	.	24ffJJ	.	.	.
+4c 4F)	.	24dddLL	.	.	.
+*	*	*Xped	*	*	*
+.	.	24aa	.	.	.
+.	.	24ccc	.	.	.
+.	.	24ff	1	.	.
+.	.	24dd	5	.	.
+.	.	24aJJ	.	.	.
+(<4AA^> 4AAA	.	24ccLL	.	.	.
+.	.	24f	.	.	.
+.	.	24d	.	.	.
+.	.	24A<	.	.	.
+.	.	24c<	.	.	.
+.	.	24F<JJ)	.	.	.
+=10	=10	=10	=10	=10	=10
+*	*	*ped	*	*	*
+4GG# 4GGG#)	.	(>24eLL	.	.	.
+.	.	24B	.	.	.
+.	.	24d	.	.	.
+.	.	24f	.	.	.
+.	.	24ee	.	.	.
+.	.	24bJJ	.	.	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!	!
+!	!	!	!	!	!LO:HP:b=2
+(>12dL 12Gn	.	24ddLL	.	.	>
+.	.	24ff	.	.	.
+12d 12F	.	24eee	.	.	.
+.	.	24bb	.	.	.
+12dJ 12E	.	24ddd	.	.	]
+*	*	*Xped	*	*	*
+.	.	24eeJJ	.	.	.
+4c 4E)	.	24dddLL	.	.	.
+.	.	24aa	.	.	.
+.	.	24ccc	.	.	.
+.	.	24ee	.	.	.
+.	.	24dd	.	.	.
+.	.	24aJJ	.	.	.
+(<4AA^> 4AAA	.	24ccLL	.	.	.
+.	.	24e	.	.	.
+.	.	24d	.	.	.
+.	.	24A<	.	.	.
+.	.	24c<	.	.	.
+!	!	!LO:TX:t=P:palcowanie pod nutą:problem	!	!	!
+.	.	24B<JJ)	.	1	.
+*	*	*	*v	*v	*
+!!LO:LB:g=original
+=11	=11	=11	=11	=11
+*^	*	*	*	*
+*	*	*	*ped	*	*
+!LO:TX:b:t=P:brak zakońćzenia łuku:problem	!	!	!	!	!
+4BB 4BBB)	4ryy	.	(>24aLL	.	.
+.	.	.	24e	.	.
+.	.	.	24g#X	.	.
+.	.	.	24b	.	.
+.	.	.	24aa	.	.
+.	.	.	24eeJJ	.	.
+*clefG2	*	*	*	*	*
+*	*	*	*8va	*	*
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!	!
+!	!LO:TX:b:t=P:wytarta laseczka:problem	!	!	!	!
+(>12eL	4B 4G#X	.	24gg#yLL	.	.
+.	.	.	24bb	.	.
+12g#X	.	.	24aaa	.	.
+.	.	.	24eee	.	.
+*	*	*	*Xped	*	*
+12cc#XJ)	.	.	24ggg#	.	.
+.	.	.	24bbJJ	.	.
+*	*	*	*ped	*	*
+4b 4a 4d#X 4B	4ryy	.	24ggg#LL	4	.
+.	.	.	24ddd#	.	.
+.	.	.	24fff	.	.
+*	*	*	*X8va	*	*
+!	!	!	!LO:TX:a:t=Loco	!	!
+.	.	.	24bb	1	.
+.	.	.	24gg#	4	.
+.	.	.	24dd#yJJ	.	.
+*clefF4	*	*	*	*	*
+4ryy	4B 4BB	.	24ff#yLL\	.	.
+.	.	.	24b	.	.
+.	.	.	24g#	.	.
+.	.	.	24d#y	.	.
+.	.	.	24f	.	.
+*	*	*	*Xped	*	*
+.	.	.	24BJJ)	.	.
+*v	*v	*	*	*	*
+=12	=12	=12	=12	=12
+*ped	*	*	*	*
+4E'< 4EE'<	.	(>24aLL	.	.
+.	.	24e	.	.
+.	.	24g#X	.	.
+.	.	24b	.	.
+.	.	24aa	.	.
+.	.	24eeJJ	.	.
+*Xtuplet	*	*	*	*
+(>12gL 12B	.	24gg#XLL	.	.
+.	.	24bb	.	.
+*Xped	*	*	*	*
+12f##X 12A#X	.	24aaa	.	.
+*	*	*8va	*	*
+.	.	24eee	.	.
+*ped	*	*	*	*
+12gJ 12B	.	24ggg#y	.	.
+*tuplet	*	*	*	*
+.	.	24bbJJ	.	.
+4e'> 4G#X'> 4E'>)	.	4eeee'>)	.	.
+*Xped	*	*	*	*
+*	*	*X8va	*	*
+4r	.	4r	.	.
+!!LO:PB:g=original
+=13	=13	=13	=13	=13
+*	*	*8va	*	*
+*	*	*ped	*	*
+4AAA'<	.	(>24ffffLL	.	.
+.	.	24cccc	.	.
+.	.	24eeee	.	.
+.	.	24aaa	.	.
+.	.	24dddd#X	.	.
+.	.	24ccccJJ	.	.
+(>8.eL 8.c 8.A	.	24ddddnLL	.	.
+.	.	24aaa	.	.
+.	.	24cccc#X	.	.
+.	.	24aaa	.	.
+.	.	24ccccn	.	.
+16eJk 16c 16A	.	.	.	.
+.	.	24eeeJJ	.	.
+4e 4c 4A	.	24bbbLL	.	.
+.	.	24eee	.	.
+.	.	24bbb-X	.	.
+.	.	24ccc	.	.
+*	*	*Xped	*	*
+.	.	24aaa	.	.
+.	.	24eeeJJ	.	.
+4f 4c 4A	.	24ggg#XLL	.	.
+.	.	24ccc	.	.
+.	.	24gggn	.	.
+.	.	24ccc	.	.
+.	.	24fff#X	.	.
+.	.	24aaJJ	.	.
+=14	=14	=14	=14	=14
+4e 4c 4A	.	24fffnLL	.	.
+.	.	24ccc	.	.
+.	.	24eee	.	.
+.	.	24aa	.	.
+.	.	24ddd#X	.	.
+.	.	24cccJJ	.	.
+4c 4A 4E	.	24dddnLL<	.	.
+.	.	24aa	.	.
+.	.	24ccc#X	.	.
+.	.	24aa	.	.
+.	.	24cccn	.	.
+.	.	24eeJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=Loco	!	!
+2e 2c 2A)	.	24bbLL	.	.
+.	.	24ee	.	.
+.	.	24bb-X	.	.
+.	.	24cc	.	.
+.	.	24aa	.	.
+.	.	24eeJJ	.	.
+.	.	24gg#XLL	.	.
+.	.	24cc	.	.
+.	.	24ggn	.	.
+.	.	24cc	.	.
+.	.	24ff#X	.	.
+.	.	24aJJ	.	.
+!!LO:LB:g=original
+=15	=15	=15	=15	=15
+*	*^	*	*	*
+4CC`<	.	3	24ffnLL	.	>
+.	.	.	24b-X	.	.
+.	.	.	24ee	.	.
+.	.	.	24g	.	.
+.	.	.	24ee-X	.	.
+.	.	.	24b-JJ	.	.
+(<8.EL 8.GG	.	.	24ddLL/	.	.
+.	.	.	24g	.	.
+.	.	.	24dd-X	.	.
+.	.	.	24b-	.	.
+.	.	.	24cc	.	.
+16EJk 16GG	.	.	.	.	.
+.	.	.	24gJJ	.	.
+4E 4GG	.	.	24bnLL	.	.
+.	.	.	24g	.	.
+.	.	.	24b-X	.	.
+.	.	.	24e-y	.	.
+.	.	.	24a	.	.
+.	.	.	24cJJ	.	.
+4F 4GG	.	.	24g#XLL	.	.
+.	.	.	24B-X	.	.
+.	.	.	24gn	.	.
+.	.	.	24c	.	.
+.	.	.	24f#X	.	.
+.	.	.	24B-JJ	.	.
+*	*v	*v	*	*	*
+=16	=16	=16	=16	=16
+*^	*	*	*^	*
+4E 4GG	4ryy	.	24fLL	.	.	.
+.	.	.	24c	.	.	.
+.	.	.	24e	.	.	.
+.	.	.	24B-X	.	.	.
+.	.	.	24e-X	.	.	.
+.	.	.	24cJJ	.	.	.
+4C\	2.CC	.	24dLL	.	.	.
+.	.	.	24G<	.	.	.
+.	.	.	24d-X<	.	.	.
+.	.	.	24B-<	.	.	.
+.	.	.	24c<	.	.	.
+.	.	.	24G<JJ	.	.	.
+2E\ 2GG\)	.	.	24Bn<LL	.	.	.
+.	.	.	24G<	.	.	.
+!	!	!	!	!	!	!LO:HP:b=2
+.	.	.	24c<	.	.	<
+.	.	.	24B-X<	.	.	.
+.	.	.	24c#X<	.	.	.
+.	.	.	24G<JJ	.	.	.
+.	.	.	24d-LL	.	.	.
+.	.	.	24B-X	.	.	.
+.	.	.	24d#X	.	.	.
+.	.	.	24G<	.	.	[
+.	.	.	24e-	.	.	.
+.	.	.	24B-JJ)	.	1	.
+*v	*v	*	*	*	*	*
+*	*	*	*v	*v	*
+!!LO:LB:g=original
+=17	=17	=17	=17	=17
+*	*	*ped	*	*
+4CC'<	.	(>24aLL	.	.
+.	.	24e	.	.
+.	.	24g	.	.
+.	.	24b-X	1	.
+.	.	24aa	.	.
+.	.	24eeJJ	.	.
+*	*	*8va	*	*
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!
+(>12eL 12B-X 12G	.	24ggLL	.	.
+.	.	24bb-y	1	.
+12BBn	.	24aaa	.	.
+*	*	*Xped	*	*
+.	.	24eee	.	.
+12CJ)	.	24ggg	.	.
+.	.	24bb-JJ	.	.
+*	*	*ped	*	*
+4e-X: 4B-X: 4G: 4C#X:	.	24aaaLL	.	.
+.	.	24eee-X	.	.
+.	.	24ggg	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=Loco	!	!
+.	.	24b-	1	.
+.	.	24aa	.	.
+.	.	24ee-yJJ	.	.
+(<4C#X^> 4CC#X	.	24ggLL<	.	.
+.	.	24b-	1	.
+*	*	*Xped	*	*
+.	.	24a	5	.
+.	.	24e-X	.	.
+.	.	24g	.	.
+.	.	24B-yJJ)	.	.
+=18	=18	=18	=18	=18
+*	*	*	*^	*
+*	*	*ped	*	*	*
+4D'< 4DD'<)	.	(>24aLL	.	.	.
+.	.	24d	.	.	.
+.	.	24g	.	.	.
+.	.	24b-X	1	.	.
+.	.	24aa	.	.	.
+.	.	24ddJJ	.	.	.
+*	*	*8va	*	*	*
+!LO:TX:t=P:note-head-side tupet number:problem	!	!	!	!	!
+(>12gL 12d 12B-X	.	24ggLL	.	.	.
+.	.	24bb-y	.	.	.
+12C#X	.	24aaa	.	.	.
+*	*	*Xped	*	*	*
+.	.	24ddd	.	.	.
+12DJ)	.	24ggg	.	.	.
+.	.	24bb-JJ	.	.	.
+*	*	*ped	*	*	*
+4g 4d-X 4B- 4E-X	.	24aaaLL	.	.	.
+.	.	24ddd-X	.	.	.
+.	.	24ggg	.	.	.
+.	.	24bb-	.	.	.
+.	.	24aa	.	.	.
+.	.	24dd-XJJ	.	.	.
+*	*	*X8va	*	*	*
+!	!	!LO:TX:a:t=Loco	!	!	!
+(<4E-X 4EE-X	.	24ggLL<	.	.	.
+.	.	24b-	.	.	.
+.	.	24a	.	.	.
+.	.	24d-X	.	.	.
+.	.	24g	.	.	.
+*	*	*Xped	*	*	*
+.	.	24B-yJJ)	.	.	.
+*	*	*	*v	*v	*
+!!LO:LB:g=original
+=19	=19	=19	=19	=19
+*	*	*ped	*	*
+4En 4EEn)	.	(>24aLL	.	.
+.	.	24c	.	.
+.	.	24g	.	.
+.	.	24B-X	.	.
+.	.	24cc	.	.
+.	.	24aJJ	.	.
+(>8.c^<L	.	24b-yLL	.	.
+.	.	24g	.	.
+.	.	24aa	.	.
+.	.	24cc	.	.
+.	.	24gg	.	.
+16cJk)	.	.	.	.
+.	.	24b-XJJ	.	.
+4c^<	.	24cccLL	.	.
+.	.	24aa	.	.
+.	.	24bb-X	.	.
+.	.	24gg	.	.
+.	.	24aaa	.	.
+.	.	24cccJJ	.	.
+*	*	*8va	*	*
+(<4C 4CC	.	24gggLL	.	.
+.	.	24bb-	.	.
+.	.	24cccc	.	.
+.	.	24aaa	.	.
+.	.	24bbb-y	.	.
+*	*	*Xped	*	*
+.	.	24gggJJ)	.	.
+=20	=20	=20	=20	=20
+*^	*	*	*	*
+*	*	*	*ped	*	*
+4F 4FF)	4ryy	.	(>24ddddLL	.	.
+.	.	.	24aaa	.	.
+.	.	.	24cccc	.	.
+.	.	.	24fff	1	.
+.	.	.	24ggg#X	4	.
+.	.	.	24fffJJ	.	.
+4ryy	8.aL	.	24aaaLL	.	.
+.	.	.	24ccc	1	.
+.	.	.	24eee	4	.
+.	.	.	24ccc	.	.
+.	.	.	24fff	.	.
+.	[>16AJk	.	.	.	.
+*	*	*	*Xped	*	*
+.	.	.	24aaJJ	.	.
+*	*	*	*X8va	*	*
+!	!	!	!LO:TX:a:t=Loco	!	!
+8.dL	2A] 2F	.	24ccc#XLL	4	.
+.	.	.	24aa	.	.
+.	.	.	24ddd	.	.
+.	.	.	24ff	.	.
+.	.	.	24gg#X	.	.
+16eJk	.	.	.	.	.
+.	.	.	24ffJJ	.	.
+4f	.	.	24aaLL	.	.
+.	.	.	24dd	.	.
+.	.	.	24ee	.	.
+.	.	.	24dd	.	.
+.	.	.	24ff	.	.
+.	.	.	24aJJ)	.	.
+!!LO:LB:g=original
+=21	=21	=21	=21	=21	=21
+*	*	*	*ped	*	*
+4GG 4GGG	4ryy	.	(>24eeLL	5	.
+.	.	.	24b	2	.
+.	.	.	24dd	4	.
+.	.	.	24ff	1	.
+.	.	.	24eee	.	.
+.	.	.	24bbJJ	.	.
+*clefG2	*	*	*	*	*
+*	*	*	*8va	*	*
+*Xtuplet	*	*	*	*	*
+(>12BL	4G	.	24dddLL	.	.
+.	.	.	24fff	.	.
+12f	.	.	24eeee	.	.
+.	.	.	24bbb	.	.
+12aJ)	.	.	24dddd	.	.
+*tuplet	*	*	*	*	*
+.	.	.	24fffJJ	.	.
+4g	2ryy	.	24aaaLL	4	.
+.	.	.	24fff	.	.
+.	.	.	24ggg	.	.
+.	.	.	24bb	.	.
+*	*	*	*X8va	*	*
+!	!	!	!LO:TX:a:t=Loco	!	!
+.	.	.	24aa	.	.
+.	.	.	24ffJJ	.	.
+4f 4B 4G	.	.	24ggLL	.	.
+.	.	.	24b	.	.
+*	*	*	*Xped	*	*
+.	.	.	24eee	.	.
+.	.	.	24gg	.	.
+.	.	.	24ddd	.	.
+.	.	.	24ffJJ)	.	.
+*clefF4	*	*	*	*	*
+*v	*v	*	*	*	*
+=22	=22	=22	=22	=22
+*	*	*ped	*	*
+4C 4CC	.	(>24bbLL	4	.
+.	.	24gg	2	.
+.	.	24ccc	5	.
+.	.	24ee	1	.
+.	.	24ddd#X	4	.
+.	.	24cccJJ	2	.
+4e: 4G: 4C:	.	24eeeLL	5	.
+.	.	24gg	1	.
+*	*	*8va	*	*
+.	.	24fff#X	4	.
+.	.	24eee	2	.
+.	.	24ggg	5	.
+.	.	24cccJJ	1	.
+4r	.	24aaa#XLL	.	.
+.	.	24ggg	2	.
+.	.	24bbb	.	.
+.	.	24eee	1	.
+.	.	24cccc	.	.
+.	.	24gggJJ	.	.
+4r	.	24cccc#XLL	.	.
+.	.	24eee	1	.
+.	.	24dddd#y	.	.
+.	.	24ggg	2	.
+*	*	*Xped	*	*
+.	.	24dddd#X	.	.
+.	.	24eeeJJ	1	.
+*	*	*X8va	*	*
+!!LO:PB:g=original
+=23	=23	=23	=23	=23
+*	*	*8va	*	*
+*	*	*ped	*	*
+!LO:TX:t=P:bottom octave written as "8":problem	!	!	!	!
+(>4EE'< 4EEE	.	24eeeeLL	5	.
+.	.	24bbb	2	.
+.	.	24dddd#X	4	.
+.	.	24ggg	1	.
+.	.	24ddddn	5	.
+.	.	24bbbJJ	2	.
+8.BL 8.G 8.E	.	24cccc#XLL	4	.
+.	.	24ggg	5	.
+.	.	24ccccn	5	.
+.	.	24ggg	2	.
+.	.	24bbb	4	.
+16BJk 16G 16E	.	.	.	.
+.	.	24eeeJJ	1	.
+4B 4G 4E	.	24aaa#XLL	3	.
+.	.	24ggg	2	.
+.	.	24aaan	5	.
+.	.	24eee	1	.
+.	.	24ggg#X	4	.
+*	*	*Xped	*	*
+.	.	24eeeJJ	2	.
+4c 4G 4E	.	24gggnLL	5	.
+.	.	24ccc	1	.
+.	.	24fff#X	4	.
+.	.	24ccc	2	.
+.	.	24fffn	5	.
+.	.	24ggJJ	1	.
+*	*	*X8va	*	*
+=24	=24	=24	=24	=24
+!	!	!LO:TX:a:t=Loco	!	!
+4B 4G 4E	.	24eeeLL	.	.
+.	.	24bb	.	.
+.	.	24ddd#X	.	.
+.	.	24gg	.	.
+.	.	24dddn	.	.
+.	.	24bbJJ	.	.
+4G 4E 4BB	.	24ccc#XLL	.	.
+.	.	24gg	.	.
+.	.	24cccn	.	.
+.	.	24gg	.	.
+.	.	24bb	.	.
+.	.	24eeJJ	.	.
+2B 2G 2E)	.	24aa#XLL	.	.
+.	.	24gg	.	.
+.	.	24aan	.	.
+.	.	24ee	.	.
+.	.	24gg#X	.	.
+.	.	24eeJJ	.	.
+.	.	24ggnLL	.	.
+.	.	24b	.	.
+.	.	24ff#X	.	.
+.	.	24b	.	.
+.	.	24ffn	.	.
+.	.	24bJJ)	.	.
+!!LO:LB:g=original
+=25	=25	=25	=25	=25
+*	*	*ped	*	*
+4EEE'<	.	(>24eeLL>	.	.
+.	.	24b	.	.
+.	.	24dd#X	.	.
+.	.	24g	.	.
+.	.	24ddn	.	.
+.	.	24bJJ	.	.
+8.BBL 8.EE	.	24cc#XLL	.	.
+.	.	24g	.	.
+.	.	24ccn	.	.
+.	.	24g	.	.
+.	.	24b	.	.
+16BBJk 16EE	.	.	.	.
+.	.	24eJJ	.	.
+4BB 4EE	.	24a#XLL	.	.
+.	.	24g	.	.
+.	.	24an	.	.
+.	.	24e	.	.
+.	.	24g#X	.	.
+*	*	*Xped	*	*
+.	.	24eJJ	.	.
+4C 4EE	.	24g#LL	.	.
+.	.	24c	.	.
+.	.	24f#X	.	.
+.	.	24c	.	.
+.	.	24fn	.	.
+.	.	24Gn<JJ	.	.
+=26	=26	=26	=26	=26
+*^	*	*	*	*
+4BB 4EE	4ryy	.	24eLL	.	.
+.	.	.	24B	.	.
+.	.	.	24d#X	.	.
+.	.	.	24G<	.	.
+.	.	.	24dn	.	.
+.	.	.	24BJJ	.	.
+4ryy	2.EEE	.	24c#X<LL	.	.
+.	.	.	24G<	.	.
+.	.	.	24cn<	.	.
+.	.	.	24G<	.	.
+.	.	.	24B<	.	.
+.	.	.	24E<JJ	.	.
+2BBB	.	.	24A#X<LL	.	.
+.	.	.	24G<	.	.
+.	.	.	24An<	.	.
+.	.	.	24BB<	.	.
+.	.	.	24G#X<	.	.
+.	.	.	24E<JJ	.	.
+.	.	.	24Gn<LL	.	.
+.	.	.	24BB<	.	.
+.	.	.	24F<	.	.
+.	.	.	24E<	.	.
+.	.	.	24G<	.	.
+.	.	.	24C<JJ)	.	.
+*v	*v	*	*	*	*
+!!LO:LB:g=original
+=27	=27	=27	=27	=27
+*	*	*	*^	*
+*	*	*ped	*	*	*
+4DDD#X'</	.	(>24B<LL	.	.	.
+.	.	24F#X<	.	.	.
+.	.	24A<	.	.	.
+.	.	24c	.	1	.
+.	.	24b	.	.	.
+.	.	24f#XJJ	.	.	.
+8.cL 8.D#X	.	24aLL	.	.	.
+.	.	24cc	1	.	.
+.	.	24bb	.	.	.
+.	.	24ff#y	.	.	.
+.	.	24aa	.	.	.
+16cJk 16D#	.	.	.	.	.
+*	*	*Xped	*	*	*
+.	.	24ccJJ	.	.	.
+*	*	*ped	*	*	*
+4c 4E	.	24aaLL	.	.	.
+.	.	24ee	.	.	.
+.	.	24gg	.	.	.
+.	.	24cc	1	.	.
+.	.	24a	.	.	.
+.	.	24eJJ	.	.	.
+!LO:TX:t=P:bottom octave written as "8":problem	!	!	!	!	!
+(<4EE 4EEE	.	24gLL	.	.	.
+.	.	24c	.	1	.
+.	.	24A<	.	.	.
+.	.	24E<	.	.	.
+.	.	24G<	.	.	.
+*	*	*Xped	*	*	*
+.	.	24C<JJ)	.	1	.
+*	*	*	*v	*v	*
+=28	=28	=28	=28	=28
+*	*	*	*^	*
+!	!	!LO:TX:a:t=P:problem:"Ped" nad nutami	!	!	!
+*	*	*ped	*	*	*
+!LO:TX:t=P:bottom octave written as "8":problem	!	!	!	!	!
+4DD#X/) 4DDD#X	.	(>24B<LL	.	.	.
+.	.	24F<	.	.	.
+.	.	24A<	.	.	.
+.	.	24c	.	.	.
+.	.	24b	.	.	.
+.	.	24fJJ	.	.	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!	!
+(>12dnL 12D#X	.	24aLL	.	.	.
+.	.	24cc	.	.	.
+12.c 12.D#	.	24bb	.	.	.
+.	.	24ff	.	.	.
+.	.	24aa	.	.	.
+*	*	*Xped	*	*	*
+24BJk 24D#)	.	24bJJ	.	.	.
+*	*	*ped	*	*	*
+4B 4E	.	24aaLL	.	.	.
+.	.	24ee	.	.	.
+.	.	24gg	.	.	.
+.	.	24b	.	.	.
+.	.	24a	.	.	.
+.	.	24eJJ	.	.	.
+!LO:TX:t=P:bottom octave written as "8":problem	!	!	!	!	!
+4EE 4EEE	.	24gLL	.	.	.
+.	.	24B	.	.	.
+.	.	24A<	.	.	.
+.	.	24E<	.	.	.
+.	.	24G<	.	.	.
+*	*	*Xped	*	*	*
+!	!	!LO:TX:t=P:palcowanie pod nutą:problem	!	!	!
+.	.	24F<JJ)	.	1	.
+!!LO:LB:g=original
+=29	=29	=29	=29	=29	=29
+*^	*	*	*	*	*
+*	*	*	*ped	*	*	*
+!LO:TX:t=P:bottom octave written as "8":problem	!	!	!	!	!	!
+4FF#'<X 4FFF#	4ryy	.	(>24eLL	.	.	.
+.	.	.	24B	.	.	.
+.	.	.	24d#X	.	.	.
+.	.	.	24f#X	.	1	.
+.	.	.	24ee	.	.	.
+.	.	.	24bJJ	.	.	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!	!	!
+(>12BL	4F#X	.	24dd#yLL	.	.	.
+.	.	.	24ff#y	.	.	.
+12d#X	.	.	24eee	.	.	.
+.	.	.	24bb	.	.	.
+12g#XJ)	.	.	24ddd#X	.	.	.
+*	*	*	*Xped	*	*	*
+.	.	.	24ff#JJ	.	.	.
+*ped	*	*	*	*	*	*
+4ryy	4f# 4e 4A#X 4F#	.	24ddd#LL	.	.	.
+.	.	.	24aa#X	.	.	.
+.	.	.	24ccc#X	.	.	.
+.	.	.	24ff#	.	.	.
+.	.	.	24dd#	.	.	.
+.	.	.	24a#XJJ	.	.	.
+!LO:TX:t=P:bottom octave written as "8":problem	!	!	!	!	!	!
+4FF#X 4FFF#X	4ryy	.	24cc#XLL	.	.	.
+.	.	.	24f#	.	.	.
+.	.	.	24d#	.	.	.
+.	.	.	24A#X<	.	.	.
+.	.	.	24c#y	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	.	24F#y<JJ	.	.	.
+*v	*v	*	*	*	*	*
+*	*	*	*v	*v	*
+=30	=30	=30	=30	=30
+*	*	*ped	*	*
+4BB 4BBB	.	24eLL	.	.
+.	.	24B	.	.
+.	.	24d#X	.	.
+.	.	24f#X	.	.
+.	.	24ee	.	.
+*	*	*Xped	*	*
+.	.	24bJJ	.	.
+*Xtuplet	*	*	*	*
+(>12d#XL 12F	.	24dd#yLL	.	.
+.	.	24ff#X	.	.
+12c##X 12E#X	.	24eee	.	.
+.	.	24bb	.	.
+12d#J 12F	.	24ddd#X	.	.
+*tuplet	*	*	*	*
+.	.	24ff#JJ	.	.
+4B'> 4D#X'> 4BB'>)	.	4bbb'>)	.	.
+4r	.	4r	.	.
+=31	=31	=31	=31	=31
+*	*	*8va	*	*
+*	*	*ped	*	*
+(>4EE'<	.	(>24ccccLL	.	.
+.	.	24ggg	.	.
+.	.	24bbb	.	.
+.	.	24eee	.	.
+.	.	24aaa#X	.	.
+.	.	24gggJJ	.	.
+8.BL 8.G 8.E	.	24aaanLL	.	.
+.	.	24eee	.	.
+.	.	24ggg#X	.	.
+.	.	24eee	.	.
+.	.	24gggn	.	.
+16BJk 16G 16E	.	.	.	.
+.	.	24bbJJ	.	.
+4B 4G 4E	.	24fff#XLL	.	.
+.	.	24bb	.	.
+.	.	24fffn	.	.
+.	.	24gg	.	.
+.	.	24eee	.	.
+*	*	*Xped	*	*
+.	.	24bbJJ	.	.
+4c 4G 4E	.	24ddd#XLL<	.	.
+.	.	24gg	.	.
+.	.	24dddn	.	.
+.	.	24gg	.	.
+.	.	24ccc#X	.	.
+.	.	24eeJJ	.	.
+*	*	*X8va	*	*
+!!LO:LB:g=original
+=32	=32	=32	=32	=32
+!	!	!LO:TX:a:t=Loco	!	!
+4B 4G 4E	.	24cccnLL	.	.
+.	.	24gg	.	.
+.	.	24bb	.	.
+.	.	24ee	.	.
+.	.	24aa#	.	.
+.	.	24ggJJ	.	.
+4G 4E 4BB	.	24aa#LL	.	.
+.	.	24ee	.	.
+.	.	24gg#X	.	.
+.	.	24ee	.	.
+.	.	24ggn	.	.
+.	.	24bJJ	.	.
+2B 2G 2E)	.	24ff#XLL	.	.
+.	.	24b	.	.
+.	.	24ffn	.	.
+.	.	24g	.	.
+.	.	24ee	.	.
+.	.	24bJJ	.	.
+.	.	24dd#XLL<	.	.
+.	.	24g	.	.
+.	.	24ddn	.	.
+.	.	24g	.	.
+.	.	24cc#X	.	.
+.	.	24eJJ	.	.
+=33	=33	=33	=33	=33
+*^	*	*	*	*
+4GGG	4ryy	.	24ccLL	.	.
+.	.	.	24g	.	.
+.	.	.	24b	.	.
+.	.	.	24f	.	.
+.	.	.	24a#X	.	.
+.	.	.	24gJJ	.	.
+8.BBL	(<2.DD	.	24anLL	.	.
+.	.	.	24d	.	.
+.	.	.	24a-X	.	.
+.	.	.	24f	.	.
+.	.	.	24g	.	.
+16BBJk	.	.	.	.	.
+.	.	.	24BJJ	.	.
+4BB	.	.	24f#XLL	.	.
+.	.	.	24d	.	.
+.	.	.	24fn	.	.
+.	.	.	24G<	.	.
+.	.	.	24e	.	.
+.	.	.	24BJJ	.	.
+4C\	.	.	24e-XLL	.	.
+!LO:TX:b:t=P:pozostałości drugiego łuku:problem	!	!	!	!	!
+.	.	.	24F<	.	.
+.	.	.	24d	.	.
+.	.	.	24G<	.	.
+.	.	.	24c#X	.	.
+.	.	.	24F<JJ	.	.
+!!LO:PB:g=original
+=34	=34	=34	=34	=34	=34
+*	*	*	*	*^	*
+4BB	4DD	.	24cn<LL	.	.	.
+.	.	.	24G<	.	.	.
+.	.	.	24B<	.	.	.
+.	.	.	24F<	.	.	.
+.	.	.	24B-X<	.	.	.
+.	.	.	24G<JJ	.	.	.
+4ryy	2.GGG	.	24A<LL	.	.	.
+.	.	.	24D<	.	.	.
+.	.	.	24A-X<	.	.	.
+.	.	.	24F<	.	.	.
+.	.	.	24G<	.	.	.
+.	.	.	24BB-y<JJ	.	.	.
+2DD)	.	.	24F#X<LL	.	.	.
+.	.	.	24Fn<	.	.	.
+.	.	.	24G<	.	.	.
+.	.	.	24BB-<	.	.	.
+.	.	.	24G#X<	.	.	.
+.	.	.	24F<JJ	.	.	.
+.	.	.	24An<LL	.	.	.
+.	.	.	24D<	.	.	.
+.	.	.	24A#X<	.	.	.
+.	.	.	24G<	.	.	.
+.	.	.	24B-<	.	.	.
+!	!	!	!LO:TX:t=P:palcowanie pod nutą:problem	!	!	!
+.	.	.	24F<JJ)	.	1	.
+*v	*v	*	*	*	*	*
+=35	=35	=35	=35	=35	=35
+*	*	*ped	*	*	*
+4GGG'<	.	(>24eLL	.	5	.
+.	.	24B	.	.	.
+.	.	24d	.	.	.
+.	.	24f	.	.	.
+.	.	24ee	.	.	.
+.	.	24bJJ	.	.	.
+*Xtuplet	*	*	*	*	*
+(>12B^<L< 12D	.	24ddLL	.	.	.
+.	.	24ff	.	.	.
+12FF#X	.	24eee	.	.	.
+.	.	24bb	.	.	.
+*Xped	*	*	*	*	*
+12GGJ)	.	24ddd	.	.	.
+*tuplet	*	*	*	*	*
+.	.	24ffJJ	.	.	.
+*	*	*ped	*	*	*
+4B-X 4D 4AA-X	.	24eeeLL	.	.	.
+.	.	24bb-X	.	.	.
+.	.	24ddd	.	.	.
+.	.	24ff	.	.	.
+.	.	24ee	.	.	.
+.	.	24b-XJJ	.	.	.
+4GGG#X	.	24ddLL	.	.	.
+.	.	24f	.	.	.
+.	.	24e	.	.	.
+.	.	24B-y	.	.	.
+.	.	24d	.	.	.
+*	*	*Xped	*	*	*
+.	.	24F<JJ)	.	.	.
+*	*	*	*v	*v	*
+!!LO:LB:g=original
+=36	=36	=36	=36	=36
+*	*	*ped	*	*
+4AAA'<	.	(>24eLL	.	.
+.	.	24A	.	.
+.	.	24d	.	.
+.	.	24f	.	.
+.	.	24ee	.	.
+.	.	24aJJ	.	.
+*Xtuplet	*	*	*	*
+(>12dL\ 12F	.	24ddLL	.	.
+.	.	24ff	.	.
+12GG#X	.	24eee	.	.
+.	.	24aa	.	.
+*	*	*Xped	*	*
+12AAJ)	.	24ddd	.	.
+*tuplet	*	*	*	*
+.	.	24ffJJ	.	.
+*	*	*ped	*	*
+4d 4G#X 4F 4BB-X	.	24eeeLL	.	.
+.	.	24gg#X	.	.
+.	.	24ddd	.	.
+.	.	24ff	.	.
+.	.	24ee	.	.
+.	.	24g#XJJ	.	.
+(<4AAA#X	.	24ddLL	.	.
+.	.	24f	.	.
+.	.	24e	.	.
+.	.	24G#X	.	.
+*	*	*Xped	*	*
+.	.	24d	.	.
+.	.	24F<JJ)	.	.
+=37	=37	=37	=37	=37
+*	*	*ped	*	*
+4BBB'<)	.	(>24eLL	.	.
+.	.	24G<	.	.
+.	.	24d	.	.
+.	.	24F<	.	.
+.	.	24g	.	.
+.	.	24eJJ	.	.
+(>8.G^<L	.	24fLL	.	.
+.	.	24d	.	.
+.	.	24ee	.	.
+.	.	24g	.	.
+.	.	24dd	.	.
+16GJk	.	.	.	.
+.	.	24fJJ	.	.
+4G^<)	.	24ggLL	.	.
+.	.	24ee	.	.
+.	.	24ff	.	.
+.	.	24dd	.	.
+.	.	24eee	.	.
+.	.	24ggJJ	.	.
+*	*	*8va	*	*
+4GG 4GGG	.	24dddLL	.	.
+.	.	24ff	.	.
+.	.	24ggg	.	.
+.	.	24eee	.	.
+.	.	24fff	.	.
+.	.	24dddJJ	.	.
+!!LO:LB:g=original
+=38	=38	=38	=38	=38
+*	*	*ped	*	*
+4C 4CC	.	24aaaLL	.	.
+.	.	24eee	.	.
+.	.	24ggg	.	.
+.	.	24ccc	.	.
+.	.	24eeee	.	.
+.	.	24gggJJ	.	.
+*Xtuplet	*	*	*	*
+(>12EL	.	24ddddLL	.	.
+.	.	24eee	.	.
+12c	.	24cccc	5	.
+.	.	24ggg#X	.	.
+12g#XJ)	.	24bbb	4	.
+*	*	*Xped	*	*
+.	.	24eeeJJ	.	.
+*	*	*ped	*	*
+4FF`<	.	24bbb-XLL	5	.
+.	.	24fff	2	.
+.	.	24aaa-X	4	.
+.	.	24ddd-X	1	.
+.	.	24ggg-X	5	.
+.	.	24ddd-JJ	.	.
+(>12A-XL 12F	.	24fffLL	4	.
+.	.	24aa-y	.	.
+12d-X	.	24eee-X	5	.
+.	.	24aa-	.	.
+12a-XJ)	.	24ddd-X	4	.
+*	*	*Xped	*	*
+.	.	24ffJJ	.	.
+*	*	*X8va	*	*
+=39	=39	=39	=39	=39
+*	*	*ped	*	*
+!	!	!LO:TX:a:t=loco	!	!
+4GG'<	.	24ddd-XLL	5	.
+.	.	24ff#X	.	.
+.	.	24ccc	5	.
+.	.	24ee	.	.
+.	.	24gg	3	.
+.	.	24ccJJ	1	.
+(>12cL 12G	.	24aa-XLL	5	.
+.	.	24ee	.	.
+12e	.	24ff#	.	.
+.	.	24cc	.	.
+*	*	*Xped	*	*
+12gJ)	.	24gg	.	.
+.	.	24eeJJ	.	.
+*	*	*ped	*	*
+4GG'<	.	24aanLL	.	.
+.	.	24b	.	.
+.	.	24ff#	.	.
+.	.	24ffn	.	.
+.	.	24gg	.	.
+.	.	24bJJ	.	.
+4g 4f 4d 4G	.	24bbLL	.	.
+.	.	24ff	.	.
+.	.	24eee	.	.
+.	.	24gg	.	.
+.	.	24ddd-	.	.
+*	*	*Xped	*	*
+.	.	24ffJJ	.	.
+!!LO:LB:g=original
+=40	=40	=40	=40	=40
+*	*	*ped	*	*
+4e: 4G: 4C:	.	24dddLL	.	.
+.	.	24gg	.	.
+.	.	24ccc	.	.
+.	.	24ee	.	.
+.	.	24aa	.	.
+*	*	*Xped	*	*
+.	.	24eeJJ	.	.
+4r	.	24ggLL	.	.
+.	.	24cc	.	.
+.	.	24ff	.	.
+.	.	24cc	.	.
+.	.	24ee	.	.
+.	.	24gJJ	.	.
+2r	.	24aaLL	.	.
+.	.	24ee	.	.
+.	.	24gg	.	.
+.	.	24cc	.	.
+.	.	24ff	.	.
+.	.	24ccJJ	.	.
+.	.	24eeLL	.	.
+.	.	24g	.	.
+.	.	24aa	.	.
+.	.	24ee	.	.
+.	.	24gg	.	.
+.	.	24ccJJ	.	.
+*clefG2	*	*	*	*
+=41	=41	=41	=41	=41
+*	*^	*	*	*
+(>24aLL	.	1	4gg 4ee	.	f
+24e	.	.	.	.	.
+24g	.	.	.	.	.
+24c#X	.	.	.	.	.
+24f	.	1	.	.	.
+24c#JJ	.	.	.	.	.
+24eLL	.	.	8.ggL 8.ee 8.g	.	.
+24B-X	.	.	.	.	.
+24d	.	1	.	.	.
+24B-	.	.	.	.	.
+24c#	.	.	.	.	.
+.	.	.	16ggJk 16ee 16g	.	.
+24GJJ	.	.	.	.	.
+*clefF4	*	*	*	*	*
+24cnLL	1	.	4gg 4ee 4g	.	.
+24G	.	.	.	.	.
+24B-X	.	.	.	.	.
+24E	.	.	.	.	.
+24A	1	.	.	.	.
+24EJJ	.	.	.	.	.
+24GLL	.	.	4aa 4ee 4a	.	.
+24C#X	.	.	.	.	.
+24F	1	.	.	.	.
+24C#	.	.	.	.	.
+24E	.	.	.	.	.
+24BB-XJJ	.	.	.	.	.
+*	*v	*v	*	*	*
+!!LO:LB:g=original
+=42	=42	=42	=42	=42
+*	*^	*	*	*
+24DLL	.	1	4gg 4ee 4g	.	.
+24BB-X	.	.	.	.	.
+24C#X	.	.	.	.	.
+24GG	.	.	.	.	.
+24Cn	.	1	.	.	.
+24GGJJ	.	.	.	.	.
+24BB-XLL	.	.	4ee 4cc#X 4g	.	.
+24EE	.	.	.	.	.
+24AA	.	1	.	.	.
+24EE	.	.	.	.	.
+24GG	.	.	.	.	.
+24CC#XJJ	.	.	.	.	.
+24FFLL	.	.	2gg 2ee 2g)	.	.
+24CC#	.	.	.	.	.
+24EE	.	.	.	.	.
+24BBB-X	.	.	.	.	.
+24DD	.	.	.	.	.
+24BBB-JJ	.	.	.	.	.
+24CC#LL	.	.	.	.	.
+24GGG	.	.	.	.	.
+24CCn	.	.	.	.	.
+24GGG	.	.	.	.	.
+24BBB-X	.	.	.	.	.
+24EEEJJ)	.	.	.	.	.
+*clefG2	*	*	*	*	*
+*	*v	*v	*	*	*
+=43	=43	=43	=43	=43
+*	*^	*	*	*
+!LO:TX:t=P:diminuendolike accent:problem	!	!	!	!	!
+(>24ccLL^<	.	1	(>4bb-X 4gg 4b-	.	.
+24g	.	.	.	.	.
+24b-X	.	.	.	.	.
+24e	.	.	.	.	.
+24a	.	1	.	.	.
+24eJJ	.	.	.	.	.
+24gLL	.	.	8.bb-L 8.gg 8.b-	.	.
+24c#X	.	.	.	.	.
+24f	.	1	.	.	.
+24c#	.	.	.	.	.
+24e	.	.	.	.	.
+.	.	.	16bb-Jk 16gg 16b-	.	.
+24B-XJJ	.	.	.	.	.
+*clefF4	*	*	*	*	*
+24dLL	1	.	4bb- 4gg 4b-	.	.
+24B-X	.	.	.	.	.
+24c#X	.	.	.	.	.
+24G	.	.	.	.	.
+24cn	1	.	.	.	.
+24GJJ	.	.	.	.	.
+24B-LL	.	.	4ccc 4gg 4cc	.	.
+24E	.	.	.	.	.
+24A	1	.	.	.	.
+24E	.	.	.	.	.
+24G	.	.	.	.	.
+24C#XJJ	.	.	.	.	.
+!!LO:PB:g=original
+=44	=44	=44	=44	=44	=44
+24FLL	.	1	4bb-X 4gg 4b-X	.	.
+24C#X	.	.	.	.	.
+24E	.	.	.	.	.
+24BB-X	.	.	.	.	.
+24D	.	1	.	.	.
+24BB-JJ	.	.	.	.	.
+24C#XLL	.	.	4gg 4ee 4b-	.	.
+24GG	.	.	.	.	.
+24Cn	.	1	.	.	.
+24GG	.	.	.	.	.
+24BB-	.	.	.	.	.
+24EEJJ	.	.	.	.	.
+24AALL	.	1	2bb- 2gg 2b-)	.	.
+24EE	.	.	.	.	.
+24GG	.	.	.	.	.
+24CC#X	.	.	.	.	.
+24FF	.	1	.	.	.
+24CC#JJ	.	.	.	.	.
+24EELL	.	.	.	.	.
+24BBB-X	.	.	.	.	.
+24DD	.	1	.	.	.
+24BBB-	.	.	.	.	.
+24CC#	.	.	.	.	.
+24GGGJJ	.	.	.	.	.
+*	*v	*v	*	*	*
+=45	=45	=45	=45	=45
+*^	*	*	*	*
+*	*	*	*8va	*	*
+*	*	*	*ped	*	*
+!LO:TX:t=P:bottom octave written as "8":problem	!	!	!	!	!
+4EE-X'<) 4EEE-X	4ryy	.	(>24ccccLL	.	.
+.	.	.	24eee-X	.	.
+.	.	.	24bbb-X	.	.
+.	.	.	24ddd-X	.	.
+.	.	.	24aaa-X	.	.
+.	.	.	24eee-JJ	.	.
+4ryy	(<8.e-XL	.	24gggLL	.	.
+.	.	.	24ddd-	.	.
+.	.	.	24fff	.	.
+.	.	.	24ddd-	.	.
+.	.	.	24eee-	.	.
+.	16e-Jk	.	.	.	.
+*	*	*	*Xped	*	*
+.	.	.	24ggJJ	.	.
+*ped	*	*	*	*	*
+4e-	4E-X	.	24fffLL	.	.
+.	.	.	24ccc	.	.
+.	.	.	24eee-	.	.
+.	.	.	24aa-X	.	.
+.	.	.	24ddd-	.	.
+.	.	.	24aa-JJ	.	.
+*	*	*	*X8va	*	*
+!	!	!	!LO:TX:a:t=Loco	!	!
+8.a-XL>	4ryy	.	24cccLL	.	.
+.	.	.	24ee-y	.	.
+.	.	.	24bb-y	.	.
+.	.	.	24ee-	.	.
+.	.	.	24aa-y	.	.
+16cJk)	.	.	.	.	.
+*Xped	*	*	*	*	*
+.	.	.	24ccJJ	.	.
+!!LO:LB:g=original
+=46	=46	=46	=46	=46	=46
+!	!LO:TX:b:t=P:łuk od 4e- to kontynuacja łuku z poprzedniego taktu?:problem	!	!	!	!
+!	!LO:TX:b:t=P:ligatura? Łuk do 4E- zaczyna się pod 8.B:problem	!	!	!	!
+*ped	*	*	*	*	*
+(>4e-X	[>2E-X	.	24cccLL	.	.
+.	.	.	24ee-X	.	.
+.	.	.	24bb-X	.	.
+.	.	.	24dd-X	.	.
+.	.	.	24aa	.	.
+.	.	.	24ee-JJ	.	.
+8.B-XL	.	.	24bb-XLL	.	.
+.	.	.	24dd-	.	.
+.	.	.	24ddd-X	.	.
+.	.	.	24ee-	.	.
+*Xped	*	*	*	*	*
+.	.	.	24gg	.	.
+16e-Jk	.	.	.	.	.
+.	.	.	24dd-JJ	.	.
+*ped	*	*	*	*	*
+4ryy	4c\ 4E-\] 4AA-X\)	.	24bb-LL	.	.
+.	.	.	24ee-	.	.
+.	.	.	24aa	.	.
+.	.	.	24cc	.	.
+.	.	.	24gg	.	.
+.	.	.	24ee-JJ	.	.
+4r	4r	.	24aaLL	.	.
+.	.	.	24cc	.	.
+.	.	.	24bb-	.	.
+.	.	.	24ee-	.	.
+.	.	.	24aa	.	.
+*Xped	*	*	*	*	*
+.	.	.	24ccJJ	.	.
+=47	=47	=47	=47	=47	=47
+*	*	*	*ped	*	*
+(>4BBB'< 4BB'<	4ryy	.	24ggg#XLL	.	.
+.	.	.	24bb	.	.
+.	.	.	24fff#X	.	.
+.	.	.	24aa	.	.
+.	.	.	24eee	.	.
+.	.	.	24bbJJ	.	.
+4ryy	8.BL	.	24ddd#XLL	.	.
+.	.	.	24aa	.	.
+.	.	.	24ccc#X	.	.
+.	.	.	24aa	.	.
+.	.	.	24bb	.	.
+*	*	*	*Xped	*	*
+.	16BJk	.	.	.	.
+.	.	.	24ff#yJJ	.	.
+*ped	*	*	*	*	*
+4B	4BB	.	24eeeLL	.	.
+.	.	.	24gg#X	.	.
+.	.	.	24ddd#X	.	.
+.	.	.	24ee	.	.
+.	.	.	24ccc#	.	.
+.	.	.	24gg#JJ	.	.
+8eL/	4ryy	.	24bbLL	.	.
+.	.	.	24ee	.	.
+.	.	.	24aa	.	.
+16rd	.	.	24ee	.	.
+.	.	.	24gg#	.	.
+*Xped	*	*	*	*	*
+16G#Jk	.	.	.	.	.
+.	.	.	24bJJ	.	.
+!!LO:LB:g=original
+=48	=48	=48	=48	=48	=48
+*ped	*	*	*	*	*
+4B	2BB	.	24gg#XLL	.	.
+.	.	.	24dd#X	.	.
+.	.	.	24ff#X	.	.
+.	.	.	24a	.	.
+.	.	.	24ee#X	.	.
+.	.	.	24dd#JJ	.	.
+*Xtuplet	*	*	*	*	*
+(<12FL	.	.	24ff#LL	.	.
+.	.	.	24a	.	.
+12G#X	.	.	24aa	.	.
+*Xped	*	*	*	*	*
+.	.	.	24b	.	.
+12AJ)	.	.	24dd#X	.	.
+.	.	.	24aJJ	.	.
+*ped	*	*	*	*	*
+4ryy	4G#: 4BB: 4EE:\)	.	24ff#LL	.	.
+.	.	.	24b	.	.
+.	.	.	24ffn	.	.
+.	.	.	24g#X	.	.
+.	.	.	24ee#	.	.
+.	.	.	24bJJ	.	.
+4r	4ryy	.	24dd#LL	.	.
+.	.	.	24g#	.	.
+.	.	.	24ddn	.	.
+*Xped	*	*	*	*	*
+.	.	.	24b	.	.
+.	.	.	24cc#X	.	.
+.	.	.	24g#JJ)	.	.
+*v	*v	*	*	*	*
+=49	=49	=49	=49	=49
+*	*	*ped	*	*
+4E 4EE	.	(>24cc#XLL	.	<
+.	.	24g#X	.	.
+.	.	24b	.	.
+.	.	24d	.	.
+.	.	24cc#	.	.
+.	.	24g#JJ	.	.
+*tuplet	*	*	*	*
+!LO:TX:t=P:stem-side tuplet number:problem	!	!	!	!
+(<12BBL 12BBB	.	24bLL	4	.
+.	.	24dd	1	.
+12GG#X 12GGG#X	.	24ccc#X	.	.
+.	.	24gg#X	.	.
+12BBJ 12BBB)	.	24bb	.	.
+.	.	24dddJJ	.	[
+*	*	*8va	*	*
+8EEL 8EEE	.	24cccc#yLL	.	.
+.	.	24ggg#y	.	.
+.	.	24bbb	.	.
+*	*	*Xped	*	*
+16rBB	.	24ddd	.	.
+.	.	24ccc#y	.	.
+(<16Ek 16EE	.	.	.	.
+.	.	24gg#JJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=Loco	!	!
+8.F#X 8.FF#X	.	24bbLL	.	.
+.	.	24dd	.	.
+.	.	24cc#	.	.
+.	.	24g#	.	.
+.	.	24b	.	.
+16EJk 16EE)	.	.	.	.
+.	.	24dJJ)	.	.
+!!LO:LB:g=original
+=50	=50	=50	=50	=50
+4E-X 4EE-X	.	(>24ddLL	.	.
+.	.	24gn	.	.
+.	.	24ccn	.	.
+.	.	24c	.	.
+.	.	24ff	.	.
+.	.	24ccJJ	.	.
+4C 4CC	.	24ee-XLL	.	.
+.	.	24g	.	.
+.	.	24aa-X	.	.
+.	.	24ee-	.	.
+.	.	24gg	.	.
+.	.	24ccJJ	.	.
+4E- 4EE-	.	24cccLL	.	.
+.	.	24gg	.	.
+.	.	24bb	.	.
+.	.	24ee-X	.	.
+.	.	24bb-X	.	.
+.	.	24ggJJ	.	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!
+(<12FL 12FF	.	24aa-LL	5	.
+.	.	24ee-	.	.
+12F#X 12FF#X	.	24aa-X	4	.
+.	.	24ee-	.	.
+12GJ 12GG)	.	24gg	.	.
+.	.	24ccJJ)	.	.
+=51	=51	=51	=51	=51
+*	*	*ped	*	*
+4A-X 4AA-X/	.	(>24ffLL	.	.
+.	.	24cc	.	.
+.	.	24ee-X	.	.
+.	.	24g-X	.	.
+.	.	24ff	.	.
+.	.	24ccJJ	.	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!
+(<12E-XL 12EE-X	.	24ee-LL	.	.
+.	.	24gg-X	.	.
+12C 12CC	.	24fff	.	.
+.	.	24ccc	.	.
+12E-J 12EE-)	.	24eee-X	.	.
+.	.	24ggg-XJJ	.	.
+*	*	*8va	*	*
+8AA-X'< 8AAA-X'<)	.	24ffffLL	.	.
+.	.	24cccc	.	.
+.	.	24eeee-y	.	.
+*	*	*Xped	*	*
+16r	.	24ggg-	.	.
+.	.	24fff	.	.
+(>16A-KL 16AA-	.	.	.	.
+.	.	24cccJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=Loco	!	!
+8.B-X 8.BB-X	.	24eee-LL	.	.
+.	.	24gg-	.	.
+.	.	24ff	.	.
+.	.	24cc	.	.
+.	.	24dd#X	.	.
+16A-Jk 16AA-)	.	.	.	.
+.	.	24f#XJJ)	.	.
+!!LO:LB:g=original
+=52	=52	=52	=52	=52
+(>4G 4GG\	.	(>24ff#XLL	.	.
+.	.	24b	.	.
+.	.	24ee	.	.
+.	.	24e	.	.
+.	.	24aa	.	.
+.	.	24eeJJ	.	.
+4E 4EE\	.	24ggLL	.	.
+.	.	24b	.	.
+.	.	24ccc	.	.
+.	.	24gg	.	.
+.	.	24bb	.	.
+.	.	24eeJJ	.	.
+4G 4GG\	.	24eeeLL	.	.
+.	.	24bb	.	.
+.	.	24ddd#X	.	.
+.	.	24gg	.	.
+.	.	24dddn	.	.
+.	.	24bbJJ	.	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!
+(>12AL 12AA	.	24ccc#XLL	.	.
+.	.	24gg	.	.
+12A#X 12AA#X	.	24cccn	.	.
+.	.	24gg	.	.
+12BJ 12BB))	.	24bb	.	.
+.	.	24eeJJ)	.	.
+=53	=53	=53	=53	=53
+4c^> 4C	.	(>24bb-XLL	.	.
+.	.	24ee	.	.
+.	.	24aa	.	.
+.	.	24b-X	.	.
+.	.	24aa-X	.	.
+.	.	24eeJJ	.	.
+*ped	*	*	*	*
+4E: 4GG: 4CC:^<	.	24ggLL	.	.
+.	.	24b-	.	.
+.	.	24aan	.	.
+*Xped	*	*	*	*
+.	.	24ee	.	.
+.	.	24gg	.	.
+.	.	24b-JJ	.	.
+*ped	*	*	*	*
+4A: 4C: 4FF:^<	.	24ggLL	.	.
+.	.	24cc	.	.
+.	.	24ff#X	.	.
+*Xped	*	*	*	*
+.	.	24a	.	.
+.	.	24ffn	.	.
+.	.	24ccJJ	.	.
+*ped	*	*	*	*
+4D#X: 4BBB:^<	.	24ff#XLL	.	.
+.	.	24a	.	.
+.	.	24gg	.	.
+.	.	24bn	.	.
+*Xped	*	*	*	*
+.	.	24ff#	.	.
+.	.	24aJJ	.	.
+!!LO:PB:g=original
+=54	=54	=54	=54	=54
+*ped	*	*	*	*
+4G:^< 4BB: 4EE:	.	24ff#XLL	.	.
+.	.	24bn	.	.
+.	.	24ffn	.	.
+*Xped	*	*	*	*
+.	.	24g	.	.
+.	.	24ee	.	.
+.	.	24bJJ	.	.
+*ped	*	*	*	*
+4c#X:^> 4E: 4AA:	.	24eeLL	.	.
+.	.	24g	.	.
+.	.	24ff	.	.
+*Xped	*	*	*	*
+.	.	24a	.	.
+.	.	24ee	.	.
+.	.	24gJJ	.	.
+*ped	*	*	*	*
+4d^> 4A 4D	.	24eeLL	.	.
+.	.	24a	.	.
+.	.	24cc#X	.	.
+*Xped	*	*	*	*
+.	.	24f	.	.
+.	.	24dd	.	.
+.	.	24aJJ	.	.
+*ped	*	*	*	*
+4cn:^> 4E: 4AA:	.	24ddLL<	.	.
+.	.	24e	.	.
+.	.	24b	.	.
+*Xped	*	*	*	*
+.	.	24a	.	.
+.	.	24ccn	.	.
+.	.	24eJJ)	.	.
+=55	=55	=55	=55	=55
+*	*	*ped	*	*
+4D'< 4DD'<	.	(>24ccLL<	.	.
+.	.	24a	.	.
+.	.	24b	.	.
+.	.	24f	.	.
+.	.	24cc	.	.
+.	.	24aJJ	.	.
+(>4f 4F	.	24bLL	.	.
+.	.	24ff	.	.
+.	.	24ccc	.	.
+.	.	24aa	.	.
+.	.	24bb	.	.
+.	.	24fffJJ	.	.
+*	*	*8va	*	*
+8A#XL 8AA#X	.	24ccccLL	.	.
+.	.	24aaa	.	.
+.	.	24bbb	.	.
+16r	.	24fff	.	.
+*	*	*Xped	*	*
+.	.	24ccc	.	.
+16cJk 16C	.	.	.	.
+.	.	24aaJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=Loco	!	!
+4B 4BB)	.	24bbLL	.	.
+.	.	24ff	.	.
+.	.	24cc	.	.
+.	.	24a	.	.
+.	.	24b	.	.
+.	.	24fJJ)	.	.
+!!LO:LB:g=original
+=56	=56	=56	=56	=56
+*	*	*ped	*	*
+4D#X'< 4DD#X'<	.	(>24bLL	.	.
+.	.	24f#X	.	.
+.	.	24a	.	.
+.	.	24c	.	.
+.	.	24b	.	.
+.	.	24f#JJ	.	.
+(>4f#X 4F#X	.	24aLL	.	.
+.	.	24cc	.	.
+.	.	24bb	.	.
+.	.	24ff#X	.	.
+.	.	24aa	.	.
+.	.	24cccJJ	.	.
+*	*	*8va	*	*
+8AL 8AA	.	24bbbLL	.	.
+.	.	24fff#y	.	.
+.	.	24aaa	.	.
+*	*	*Xped	*	*
+16r	.	24ccc	.	.
+.	.	24bb	.	.
+16dnJk 16Dn	.	.	.	.
+.	.	24ff#JJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=Loco	!	!
+4c 4C)	.	24aaLL<	.	.
+.	.	24cc	.	.
+.	.	24b	.	.
+.	.	24f#	.	.
+.	.	24a	.	.
+.	.	24cJJ)	.	.
+=57	=57	=57	=57	=57
+*^	*	*	*	*
+*	*	*	*ped	*	*
+4EE'>\	(>1E	.	(>24aLL	.	.
+.	.	.	24e	.	.
+.	.	.	24g#X	.	.
+.	.	.	24b	.	.
+.	.	.	24aa	.	.
+.	.	.	24eeJJ	.	.
+*	*	*	*8va	*	*
+8.BL<	.	.	24gg#yLL	.	.
+.	.	.	24bb	.	.
+.	.	.	24aaa	.	.
+.	.	.	24eee	.	.
+.	.	.	24ggg#	.	.
+16eJk	.	.	.	.	.
+*	*	*	*Xped	*	*
+.	.	.	24bbJJ	.	.
+*	*	*	*ped	*	*
+2d\)	.	.	24ggg#LL	.	.
+.	.	.	24ddd	.	.
+.	.	.	24fff	.	.
+.	.	.	24bb	.	.
+.	.	.	24ggg#	.	.
+.	.	.	24dddJJ	.	.
+*	*	*	*X8va	*	*
+!	!	!	!LO:TX:a:t=Loco	!	!
+.	.	.	24ffLL<	.	.
+.	.	.	24b	.	.
+.	.	.	24g#	.	.
+.	.	.	24d	.	.
+.	.	.	24f	.	.
+.	.	.	24BJJ)	.	.
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+*v	*v	*	*	*	*
+!!LO:LB:g=original
+=58	=58	=58	=58	=58
+*	*	*ped	*	*
+!LO:TX:t=P:bottom octave written as "8":problem	!	!	!	!
+(>4EE'< 4EEE	.	(>24f#XLL	4	.
+.	.	24c#X	2	.
+.	.	24e	3	.
+.	.	24g#X	1	.
+.	.	24ff#y	5	.
+.	.	24cc#yJJ	2	.
+8.GL	.	24eeLL	3	.
+.	.	24gg#X	1	.
+.	.	24fff#X	.	.
+.	.	24ccc#X	.	.
+*	*	*Xped	*	*
+.	.	24eee	.	.
+16c#XJk	.	.	.	.
+.	.	24gg#JJ	.	.
+*	*	*ped	*	*
+2B)	.	24eeeLL	5	.
+.	.	24bb	.	.
+.	.	24ddd	.	.
+.	.	24ff#	1	.
+.	.	24ee	5	.
+.	.	24bJJ	.	.
+.	.	24ddLL	.	.
+.	.	24f#	.	.
+.	.	24e	.	.
+.	.	24B	.	.
+*	*	*Xped	*	*
+.	.	24d	.	.
+.	.	24F#X<JJ)	.	.
+=59	=59	=59	=59	=59
+*^	*	*	*	*
+8qEEE	.	.	.	.	.
+[<1EE	4ryy	.	(>24c#XLL	.	.
+.	.	.	24G#X<	.	.
+.	.	.	24B<	.	.
+.	.	.	24F<	.	.
+.	.	.	24e	.	.
+.	.	.	24BJJ	.	.
+.	(>8.F^<L	.	24dLL	.	.
+.	.	.	24G#X<	.	.
+.	.	.	24gn	.	.
+.	.	.	24d	.	.
+.	.	.	24f	.	.
+.	16FJk	.	.	.	.
+.	.	.	24BJJ	.	.
+.	4F^<	.	24aLL	.	.
+.	.	.	24f	.	.
+.	.	.	24g#X	.	.
+.	.	.	24d	.	.
+.	.	.	24cc#y	.	.
+.	.	.	24g#JJ	.	.
+!	!LO:TX:t=P:ligatura do 1EE rozpoczyna się za 4Gn:problem	!	!	!	!
+.	4Gn^<	.	24bLL>	.	.
+.	.	.	24f	.	.
+.	.	.	24ee	.	.
+.	.	.	24b	.	.
+.	.	.	24dd	.	.
+.	.	.	24g#XJJ	.	.
+!!LO:LB:g=original
+=60	=60	=60	=60	=60	=60
+4F^>	1EE]	.	24ggLL	.	.
+.	.	.	24dd	.	.
+.	.	.	24ff	.	.
+.	.	.	24b	.	.
+.	.	.	24aa	.	.
+.	.	.	24ffJJ	.	.
+4D^>	.	.	24gg#XLL	.	.
+.	.	.	24dd	.	.
+.	.	.	24ccc	.	.
+.	.	.	24gg#	.	.
+.	.	.	24bb	.	.
+.	.	.	24ffJJ	.	.
+*	*	*	*8va	*	*
+2F^>)	.	.	24eeeLL	.	.
+.	.	.	24bb	.	.
+.	.	.	24ddd	.	.
+.	.	.	24gg#X	.	.
+.	.	.	24gggn	.	.
+.	.	.	24dddJJ	.	.
+.	.	.	24fffLL	.	.
+.	.	.	24bb	.	.
+.	.	.	24aaa	.	.
+.	.	.	24fff	.	.
+.	.	.	24ggg#X	.	.
+.	.	.	24dddJJ	.	.
+*v	*v	*	*	*	*
+=61	=61	=61	=61	=61
+*	*^	*	*	*
+*Xtuplet	*	*	*	*	*
+(>24EELL	.	5	24ffffLL	.	ff
+24BB	.	.	24bbb	.	>
+24GG#X	.	.	24eeee	.	.
+24D	.	.	24ggg#X	.	]
+24GG#	.	5	24dddd#X	.	.
+*	*v	*v	*	*	*
+24DJJ	.	24bbbJJ	.	.
+24BBLL	.	24ddddnLL	.	.
+24F	.	24ggg#	.	.
+24BB	5	24cccc#X	.	.
+24F	.	24ggg#	.	.
+24D	.	24ccccn	.	.
+24G#XJJ	.	24fffJJ	.	.
+24DLL	.	24bbbLL	.	.
+24G#	.	24fff	.	.
+24F	.	24bbb-X	.	.
+24B	.	24ddd	.	.
+24F	.	24aaa	.	.
+24BJJ	.	24fffJJ	.	.
+24G#LL	.	24ggg#XLL	.	.
+24d	.	24bb-y	.	.
+24G#	.	24gggn	.	.
+24d	.	24ddd	.	.
+24B	.	24fff#X	.	.
+24fnJJ	.	24gg#XJJ	.	.
+*	*	*X8va	*	*
+*clefG2	*	*	*	*
+!!LO:LB:g=original
+=62	=62	=62	=62	=62
+*	*^	*	*	*
+!	!	!	!LO:TX:a:t=Loco	!	!
+24BLL	.	.	24fffnLL	.	.
+24f	.	.	24bb	.	.
+24d	.	.	24eee	.	.
+24g#X	.	.	24gg#X	.	.
+24d	.	.	24ddd#X	.	.
+24g#JJ	.	.	24bbJJ	.	.
+24fLL	.	.	24ddd#LL	.	.
+24b	.	.	24gg#	.	.
+24f	.	5	24ccc#X	.	.
+24b	.	.	24gg#	.	.
+24g#	.	.	24cccn	.	.
+[<24ddJJ	.	.	[<24ffJJ	.	.
+8gg#X 8dd])	2	.	8bb`> 8ff])	.	fz
+8r	.	.	8r	.	.
+4r	.	.	4r	.	.
+*clefF4	*	*	*	*	*
+*	*v	*v	*	*	*
+=63	=63	=63	=63	=63
+*	*	*8va	*	*
+(>24BBBLL	.	(>24bbbLL	.	ff
+24FF	.	24fff	.	.
+24DD	.	24aaa#X	.	.
+24GG#X	.	24ddd	.	.
+24DD	.	24aaan	.	.
+24GG#JJ	.	24fffJJ	.	.
+24FFLL	.	24ggg#XLL	.	.
+24BB	.	24ddd	.	.
+24FF	.	24gggn	.	.
+24BB	.	24ddd	.	.
+24GG#X	.	24fff#X	.	.
+24DJJ	.	24bbJJ	.	.
+24GG#LL<	.	24fffnLL	.	.
+24D	.	24bb	.	.
+24BB	.	24eee	.	.
+24F	.	24gg#X	.	.
+24BB	.	24ddd#X	.	.
+24FJJ	.	24bbJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=Loco	!	!
+24DLL	.	24dddnLL	.	.
+24G#X	.	24gg#y	.	.
+24D	.	24ccc#X	.	.
+24G#	.	24gg#	.	.
+24F	.	24cccn	.	.
+24BJJ	.	24ffJJ	.	.
+!!LO:PB:g=original
+=64	=64	=64	=64	=64
+*	*^	*	*	*
+24FLL	.	.	24bbLL	.	.
+24B	.	.	24ff	.	.
+24G#X	.	.	24aa#X	.	.
+24d	.	.	24dd	.	.
+24G#	.	.	24aan	.	.
+24dJJ	.	.	24ffJJ	.	.
+*clefG2	*	*	*	*	*
+24BLL	.	.	24gg#XLL	.	.
+24f	.	.	24dd	.	.
+24B	.	.	24ggn	.	.
+24f	.	.	24dd	.	.
+(<24d	.	.	24ff#X	.	.
+24g#XJJ	.	1	24bJJ	.	.
+8b 8f 8d))	.	1	8ffn`> 8dd 8g#X)	.	fz
+8r	.	.	8r	.	.
+4r	.	.	4r	.	.
+*clefF4	*	*	*	*	*
+*	*v	*v	*	*	*
+=65	=65	=65	=65	=65
+*tuplet	*	*tuplet	*	*
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+(>24fLL	.	(>24ffLL	.	p
+24d	.	24dd	.	.
+24eJJ	.	24eeJJ	.	.
+8B)	.	8g#X)	.	.
+4r	.	4r	.	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+(>24fLL	.	(>24ffLL	.	.
+24d	.	24dd	.	.
+24eJJ	.	24eeJJ	.	.
+8B)	.	8g#)	.	.
+4r	.	4r	.	.
+=66	=66	=66	=66	=66
+*Xtuplet	*	*Xtuplet	*	*
+(>24fLL	.	(>24ffLL	.	.
+24d	.	24dd	.	.
+24e	.	24ee	.	.
+24B	.	24g#X	.	.
+24f	.	24ff	.	.
+24dJJ	.	24ddJJ	.	.
+24eLL	.	24eeLL	.	.
+24B	.	24g#	.	.
+24f	.	24ff	.	.
+24d	.	24dd	.	.
+24e	.	24ee	.	.
+24BJJ	.	24g#JJ	.	.
+24fLL	.	24ffLL	.	.
+24d	.	24dd	.	.
+24e	.	24ee	.	.
+24B	.	24g#	.	.
+24f	.	24ff	.	.
+24dJJ	.	24ddJJ	.	.
+24eLL	.	24eeLL	.	.
+24B	.	24g#	.	.
+24f	.	24ff	.	.
+24d	.	24dd	.	.
+24e	.	24ee	.	.
+24BJJ	.	24g#JJ	.	.
+!!LO:LB:g=original
+=67	=67	=67	=67	=67
+24f^<LL	.	24ffLL	.	.
+24e	.	24dd	.	.
+24d#X	.	24ee	.	.
+24dn	.	24g#X	.	.
+24c#X	.	24ff	.	.
+24cnJJ	.	24ddJJ	.	.
+!	!	!LO:TX:t=Cres _:problem:dynamics with extention lines	!	!LO:HP:i:t=Cres
+24BLL	.	24eeLL	.	<
+24A#X	.	24g#	.	.
+24An	.	24ff	.	.
+24G#X	.	24dd	.	.
+24Gn	.	24ee	.	.
+24F#XJJ	.	24g#JJ	.	.
+24FnLL	.	24ffLL	.	.
+24E	.	24dd	.	.
+24D#X	.	24ee	.	.
+24Dn	.	24g#	.	.
+24C#X	.	24ff	.	.
+24CnJJ	.	24ddJJ	.	.
+24BBLL	.	24eeLL	.	.
+24AA#X	.	24g#	.	.
+24AAn	.	24ff	.	.
+24GG#X	.	24dd	.	.
+24GGn	.	24ee	.	.
+24FF#XJJ)	.	24g#JJ	.	.
+=68	=68	=68	=68	=68
+(<24FFnLL	.	24ffLL	.	.
+24EE	.	24dd	.	.
+24DD#X	.	24ee	.	.
+24EE	.	24g#X	.	.
+24FF	.	24ff	.	.
+24EEJJ	.	24ddJJ	.	.
+24DD#LL	.	24eeLL	.	.
+24EE	.	24gg#X	.	.
+24FF	.	24fff	.	.
+24EE	.	24ddd	.	.
+24DD#	.	24eee	.	.
+24EEJJ	.	24ggg#XJJ	.	.
+*	*	*8va	*	*
+24FFLL	.	24ffffLL	.	.
+24EE	.	24dddd	.	.
+24DD#	.	24eeee	.	.
+24EE	.	24ggg#	.	.
+24FF	.	24ffff	.	.
+24EEJJ	.	24ddddJJ	.	.
+24DD#LL	.	24eeeeLL	.	.
+24EE	.	24ggg#	.	.
+24FF	.	24ffff	.	.
+24EE	.	24dddd	.	.
+24DD#	.	24eeee	.	.
+24EEJJ	.	24ggg#JJ)	.	[
+!!LO:LB:g=original
+=69	=69	=69	=69	=69
+*	*	*	*	*^
+*	*	*ped	*	*	*
+!	!	!LO:TX:t=P:fz nad samą nutą:problem	!	!LO:DY:rj	!
+4AAA'<)	.	(>24ffffLL	.	f	fz
+.	.	24cccc	.	.	.
+.	.	24eeee	.	.	.
+.	.	24aaa	.	.	.
+.	.	24dddd#X	.	.	.
+.	.	24ccccJJ	.	.	.
+(>8.eL 8.c 8.A	.	24ddddnLL	.	.	.
+.	.	24aaa	.	.	.
+.	.	24cccc#X	.	.	.
+.	.	24aaa	.	.	.
+.	.	24ccccn	.	.	.
+16eJk 16c 16A	.	.	.	.	.
+.	.	24eeeJJ	.	.	.
+4e 4c 4A	.	24bbbLL	.	.	.
+.	.	24eee	.	.	.
+.	.	24bbb-	.	.	.
+.	.	24ccc	.	.	.
+.	.	24aaa	.	.	.
+*	*	*Xped	*	*	*
+.	.	24eeeJJ	.	.	.
+4f 4c 4A	.	24ggg#XLL	.	.	.
+.	.	24ccc	.	.	.
+.	.	24gggn	.	.	.
+.	.	24ccc	.	.	.
+.	.	24fff#X	.	.	.
+.	.	24aaJJ	.	.	.
+*	*	*	*	*v	*v
+=70	=70	=70	=70	=70
+4e 4A	.	24fffnLL	.	.
+.	.	24ccc	.	.
+.	.	24eee	.	.
+.	.	24aa	.	.
+.	.	24ddd#X	.	.
+.	.	24cccJJ	.	.
+4c 4A 4E	.	24dddnLL<	.	.
+.	.	24aa	.	.
+.	.	24ccc#X	.	.
+.	.	24aa	.	.
+.	.	24cccn	.	.
+.	.	24eeJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=Loco	!	!
+2e 2c 2A)	.	24bbLL	.	.
+.	.	24ee	.	.
+.	.	24bb-X	.	.
+.	.	24cc	.	.
+.	.	24aa	.	.
+.	.	24eeJJ	.	.
+.	.	24gg#XLL	.	.
+.	.	24cc	.	.
+.	.	24ggn	.	.
+.	.	24cc	.	.
+.	.	24ff#X	.	.
+.	.	24aJJ	.	.
+!!LO:LB:g=original
+=71	=71	=71	=71	=71
+*	*	*ped	*	*
+4AAA'<	.	24ffnLL	.	.
+.	.	24cc	.	.
+.	.	24ee	.	.
+.	.	24a	.	.
+.	.	24dd#X	.	.
+.	.	24ccJJ	.	.
+(>8.EL 8.AA	.	24ddnLL<	.	.
+.	.	24a	.	.
+.	.	24cc#X	.	.
+.	.	24a	.	.
+.	.	24ccn	.	.
+16EJk 16AA	.	.	.	.
+.	.	24eJJ	.	.
+4E 4AA	.	24bLL	.	.
+.	.	24e	.	.
+.	.	24b-X	.	.
+.	.	24c	.	.
+*	*	*Xped	*	*
+.	.	24a	.	.
+.	.	24eJJ	.	.
+4F 4AA	.	24g#XLL	.	.
+.	.	24c	.	.
+.	.	24gn	.	.
+.	.	24c	.	.
+.	.	24f#X	.	.
+.	.	24AJJ	.	.
+=72	=72	=72	=72	=72
+*^	*	*	*	*
+*	*	*	*	*^	*
+4E 4AA)	4ryy	.	24fnLL	.	.	.
+.	.	.	24c	.	.	.
+.	.	.	24e	.	.	.
+.	.	.	24A	.	.	.
+.	.	.	24d#X	.	.	.
+.	.	.	24cJJ	.	.	.
+4ryy	(>2.AAA	.	24dnLL	.	.	.
+.	.	.	24A	.	.	.
+.	.	.	24c#X	.	.	.
+.	.	.	24A	.	.	.
+.	.	.	24cn	.	.	.
+.	.	.	24G<JJ	.	.	.
+2EE)	.	.	24B<LL	.	.	.
+.	.	.	24E<	.	.	.
+.	.	.	24B-X<	.	.	.
+.	.	.	24C<	.	.	.
+.	.	.	24A<	.	.	.
+.	.	.	24E<JJ	.	.	.
+.	.	.	24G#X<LL	.	.	.
+.	.	.	24C<	.	.	.
+.	.	.	24A<	.	.	.
+.	.	.	24E<	.	.	.
+.	.	.	24c<	.	.	.
+.	.	.	24F<JJ)	.	.	[
+*v	*v	*	*	*v	*v	*
+!!LO:LB:g=original
+=73	=73	=73	=73	=73
+*	*	*ped	*	*
+4GGG#X	.	(>24eLL	.	.
+.	.	24B	.	.
+.	.	24d	.	.
+.	.	24f	.	.
+.	.	24ee	.	.
+.	.	24bJJ	.	.
+(>8.dL 8.F	.	24ddLL	.	.
+.	.	24ff	.	.
+.	.	24eee	.	.
+.	.	24bb	.	.
+.	.	24ddd	.	.
+16dJk 16F	.	.	.	.
+.	.	24ffJJ	.	.
+*	*	*Xped	*	*
+4c 4F)	.	24dddLL	.	.
+.	.	24aa	.	.
+.	.	24ccc	.	.
+.	.	24ff	.	.
+.	.	24dd	.	.
+.	.	24aJJ	.	.
+4AA^> 4AAA	.	24ccLL	.	.
+.	.	24f	.	.
+.	.	24d	.	.
+.	.	24A<	.	.
+.	.	24c<	.	.
+.	.	24F<JJ)	.	.
+=74	=74	=74	=74	=74
+*	*	*ped	*	*
+4GG#X 4GGG#X)	.	(>24eLL	.	.
+.	.	24B	.	.
+.	.	24d	.	.
+.	.	24f	.	.
+.	.	24ee	.	.
+.	.	24bJJ	.	.
+*tuplet	*	*	*	*
+!LO:TX:b:t=P:note-head-side tuplet number:problem	!	!	!	!
+(>12dL 12Gn	.	24ddLL	.	.
+.	.	24ff	.	.
+12d 12F	.	24eee	.	.
+.	.	24bb	.	.
+12dJ 12E	.	24ddd	.	.
+.	.	24eeJJ	.	.
+*	*	*Xped	*	*
+4c 4E)	.	24dddLL	.	.
+.	.	24aa	.	.
+.	.	24ccc	.	.
+.	.	24ee	.	.
+.	.	24dd	.	.
+.	.	24aJJ	.	.
+(<4AA^> 4AAA	.	24ccLL	.	.
+.	.	24e	.	.
+.	.	24d	.	.
+.	.	24A<	.	.
+.	.	24c<	.	.
+.	.	24B<JJ)	.	.
+!!LO:PB:g=original
+=75	=75	=75	=75	=75
+*^	*	*	*	*
+*	*	*	*ped	*	*
+4BB 4BBB)	4ryy	.	(>24aLL	.	.
+.	.	.	24e	.	.
+.	.	.	24g#X	.	.
+.	.	.	24b	.	.
+.	.	.	24aa	.	.
+.	.	.	24eeJJ	.	.
+*clefG2	*	*	*	*	*
+*	*	*	*8va	*	*
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!	!
+(>12eL	4B 4G#X	.	24gg#yLL	.	.
+.	.	.	24bb	.	.
+12g#X	.	.	24aaa	.	.
+.	.	.	24eee	.	.
+*	*	*	*Xped	*	*
+12cc#XJ)	.	.	24ggg#X	.	.
+.	.	.	24bbJJ	.	.
+*	*	*	*ped	*	*
+4b 4a 4d#X 4B	4ryy	.	24ggg#LL	.	.
+.	.	.	24ddd#X	.	.
+.	.	.	24fff	.	.
+*	*	*	*X8va	*	*
+!	!	!	!LO:TX:a:t=Loco	!	!
+.	.	.	24bb	.	.
+.	.	.	24gg#	.	.
+.	.	.	24dd#yJJ	.	.
+*clefF4	*	*	*	*	*
+4ryy	4B 4BB	.	24ff#yLL<	.	.
+.	.	.	24b	.	.
+.	.	.	24g#	.	.
+.	.	.	24d#y	.	.
+.	.	.	24f	.	.
+*	*	*	*Xped	*	*
+.	.	.	24BJJ	.	.
+*v	*v	*	*	*	*
+=76	=76	=76	=76	=76
+*ped	*	*	*	*
+4E'< 4EE'<	.	24aLL	.	.
+.	.	24e	.	.
+.	.	24g#X	.	.
+.	.	24b	.	.
+.	.	24aa	.	.
+.	.	24eeJJ	.	.
+*Xtuplet	*	*	*	*
+(>12gL 12B	.	24gg#XLL	.	.
+.	.	24bb	.	.
+*Xped	*	*	*	*
+12f##X 12A#X	.	24aaa	.	.
+*	*	*8va	*	*
+.	.	24eee	.	.
+*ped	*	*	*	*
+12gJ 12B	.	24ggg#y	.	.
+.	.	24bbJJ	.	.
+4e'> 4G#X'> 4E'>)	.	4eeee)	.	.
+*	*	*X8va	*	*
+*Xped	*	*	*	*
+4r	.	4r	.	.
+=77	=77	=77	=77	=77
+*	*	*ped	*	*
+*	*	*8va	*	*
+4AAA`<	.	(>24ffffLL	.	.
+.	.	24cccc	.	.
+.	.	24eeee	.	.
+.	.	24aaa	.	.
+.	.	24dddd#X	.	.
+.	.	24ccccJJ	.	.
+(>8.eL 8.c 8.A	.	24ddddnLL	.	.
+.	.	24aaa	.	.
+.	.	24cccc#X	.	.
+.	.	24aaa	.	.
+.	.	24ccccn	.	.
+16eJk 16c 16A	.	.	.	.
+.	.	24eeeJJ	.	.
+4e 4c 4A	.	24bbbLL	.	.
+.	.	24eee	.	.
+.	.	24bbb-X	.	.
+.	.	24ccc	.	.
+.	.	24aaa	.	.
+*	*	*Xped	*	*
+.	.	24eeeJJ	.	.
+4f 4c 4A	.	24ggg#XLL	.	.
+.	.	24ccc	.	.
+.	.	24gggn	.	.
+.	.	24ccc	.	.
+.	.	24fff#X	.	.
+.	.	24aaJJ	.	.
+!!LO:LB:g=original
+=78	=78	=78	=78	=78
+4e 4c 4A	.	24fffnLL	.	.
+.	.	24ccc	.	.
+.	.	24eee	.	.
+.	.	24aa	.	.
+.	.	24ddd#X	.	.
+.	.	24cccJJ	.	.
+4c 4A 4E	.	24dddnLL<	.	.
+.	.	24aa	.	.
+.	.	24ccc#X	.	.
+.	.	24aa	.	.
+.	.	24cccn	.	.
+.	.	24eeJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=Loco	!	!
+2e 2c 2A)	.	24bbLL	.	.
+.	.	24ee	.	.
+.	.	24bb-X	.	.
+.	.	24cc	.	.
+.	.	24aa	.	.
+.	.	24eeJJ	.	.
+.	.	24gg#XLL	.	.
+.	.	24cc	.	.
+.	.	24ggn	.	.
+.	.	24cc	.	.
+.	.	24ff#X	.	.
+.	.	24aJJ)	.	.
+=79	=79	=79	=79	=79
+*^	*	*	*	*
+*	*	*	*ped	*	*
+4GGG'<	4ryy	.	(>24ffnLL	.	.
+.	.	.	24cc	.	.
+.	.	.	24ee	.	.
+.	.	.	24a	.	.
+.	.	.	24dd#X	.	.
+.	.	.	24ccJJ	.	.
+(>8.EL 8.GG	4ryy	.	24ddnLL<	.	.
+.	.	.	24a	.	.
+.	.	.	24cc#X	.	.
+.	.	.	24a	.	.
+.	.	.	24ccn	.	.
+16EJk 16GG	.	.	.	.	.
+.	.	.	24eJJ	.	.
+!	!LO:TX:b:t=P:ligatura zaczyna się za 4F:problem	!	!	!	!
+4E	[<2GG	.	24bLL	.	.
+.	.	.	24e	.	.
+.	.	.	24b-X	.	.
+.	.	.	24c	.	.
+.	.	.	24a	.	.
+.	.	.	24eJJ	.	.
+*	*	*	*Xped	*	*
+4F	.	.	24g#XLL	.	.
+.	.	.	24c	.	.
+.	.	.	24gn	.	.
+.	.	.	24c	.	.
+.	.	.	24f#X	.	.
+.	.	.	24AJJ	.	.
+!!LO:LB:g=original
+=80	=80	=80	=80	=80	=80
+4E	2GG]	.	24fnLL	.	.
+.	.	.	24c	.	.
+.	.	.	24e	.	.
+.	.	.	24A	.	.
+.	.	.	24d#X	.	.
+.	.	.	24cJJ	.	.
+4C)	.	.	24dnLL	.	.
+.	.	.	24A	.	.
+.	.	.	24c#X	.	.
+.	.	.	24A	.	.
+.	.	.	24cn	.	.
+.	.	.	24E<JJ	.	.
+2ryy	(>4FF	.	24B<LL	.	.
+.	.	.	24F<	.	.
+.	.	.	24A<	.	.
+.	.	.	24C<	.	.
+.	.	.	24G#X<	.	.
+.	.	.	24F<JJ	.	.
+.	4EE	.	24A<LL	.	.
+.	.	.	24C<	.	.
+.	.	.	24B<	.	.
+.	.	.	24E<	.	.
+.	.	.	24c<	.	.
+.	.	.	24C<JJ)	.	.
+*v	*v	*	*	*	*
+=81	=81	=81	=81	=81
+*	*	*	*^	*
+*	*	*ped	*	*	*
+4DD`>)	.	(>24c<LL	.	.	.
+.	.	24F<	.	.	.
+!	!	!	!	!LO:TX:t=P:palcowanie pod nutami:problem	!
+.	.	24B<	.	4	.
+.	.	24B<	.	1	.
+.	.	24cc	.	.	.
+.	.	24fJJ	.	.	.
+(>12fL 12A	.	24bLL	.	.	.
+.	.	24b	.	.	.
+12C#X	.	24ccc	.	.	.
+*	*	*Xped	*	*	*
+.	.	24ff	.	.	.
+12DJ)	.	24bb	.	.	.
+.	.	24bbJJ	.	.	.
+*	*	*8va	*	*	*
+*	*	*ped	*	*	*
+4f#X: 4A: 4D#X:	.	24ccccLL	.	.	.
+.	.	24fff#X	.	.	.
+.	.	24bbb	4	.	.
+.	.	24bb	1	.	.
+.	.	24ccc	5	.	.
+.	.	24ff#XJJ	2	.	.
+*	*	*X8va	*	*	*
+!	!	!LO:TX:a:t=Loco	!	!	!
+(<4DD#X	.	24bbLL<	4	.	.
+.	.	24b	1	.	.
+.	.	24cc	5	.	.
+.	.	24f#y	.	.	.
+.	.	24b	.	.	.
+*	*	*Xped	*	*	*
+.	.	24BJJ	.	.	.
+*	*	*	*v	*v	*
+!!LO:LB:g=original
+=82	=82	=82	=82	=82
+*	*	*ped	*	*
+4EE'<)	.	24ddLL	.	.
+.	.	24g	.	.
+.	.	24cc#X	.	.
+.	.	24cc#	.	.
+.	.	24ddd	.	.
+.	.	24ggJJ	.	.
+*	*	*8va	*	*
+*Xtuplet	*	*	*	*
+(>12gL 12B-X	.	24ccc#yLL	.	.
+.	.	24ccc#	.	.
+*	*	*Xped	*	*
+12D#X	.	24dddd	.	.
+.	.	24ggg	.	.
+12EJ)	.	24cccc#X	.	.
+.	.	24ccc#JJ	.	.
+*	*	*ped	*	*
+4b-X: 4d#y: 4B-X: 4F:	.	24eeee-XLL	4	.
+.	.	24bbb-X	.	.
+.	.	24dddd	5	.
+.	.	24ddd	.	.
+.	.	24eee-y	4	.
+.	.	24bb-XJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=Loco	!	!
+4F 4FF	.	24dddLL	5	.
+.	.	24dd	.	.
+.	.	24ee-X	.	.
+.	.	24b-X	.	.
+*	*	*Xped	*	*
+.	.	24dd	.	.
+.	.	24dJJ)	.	.
+=83	=83	=83	=83	=83
+*	*	*ped	*	*
+!LO:TX:t=P:bottom octave written as "8":problem	!	!	!	!
+4FF'< 4FFF	.	(>24eeLL	.	.
+.	.	24a	.	.
+.	.	24dd#X	.	.
+.	.	24d#X	.	.
+.	.	24ee	.	.
+!	!	!	!	!LO:DY:b=2
+.	.	24aJJ	.	ff
+8.fL 8.F	.	24dd#LL	.	.
+.	.	24dd#	.	.
+.	.	24eee	.	.
+.	.	24aa	.	.
+.	.	24ddd#X	.	.
+16fJk 16F	.	.	.	.
+.	.	24ddd#JJ	.	.
+*	*	*8va	*	*
+4f 4F	.	24eeeeLL	.	.
+.	.	24aaa	.	.
+.	.	24dddd#y	.	.
+.	.	24ddd#	.	.
+.	.	24eee	.	.
+*	*	*Xped	*	*
+.	.	24aaJJ	.	.
+*ped	*	*	*	*
+4g 4G	.	24ddd#LL/	.	.
+.	.	24dd#	.	.
+.	.	24eee	.	.
+.	.	24aa	.	.
+.	.	24ddd#	.	.
+*Xped	*	*	*	*
+.	.	24ddd#JJ	.	.
+!!LO:LB:g=original
+=84	=84	=84	=84	=84
+*ped	*	*	*	*
+4f 4F	.	24eeeeLL	.	.
+.	.	24aaa	.	.
+.	.	24dddd#X	.	.
+.	.	24ddd#	.	.
+.	.	24eee	.	.
+.	.	24aaJJ	.	.
+4c 4C	.	24ddd#LL	.	.
+.	.	24dd#y	.	.
+.	.	24eee	.	.
+.	.	24aa	.	.
+.	.	24ddd#	.	.
+.	.	24ddd#JJ	.	.
+2f 2F^<	.	24eeeeLL	.	.
+.	.	24aaa	.	.
+.	.	24dddd#	.	>
+.	.	24ddd#	.	.
+.	.	24eeee	.	.
+.	.	24aaaJJ	.	.
+.	.	24dddd#LL	.	.
+.	.	24ddd#	.	.
+.	.	24eeee	.	.
+.	.	24aaa	.	.
+.	.	24dddd#	.	.
+.	.	24ddd#JJ	.	]
+=85	=85	=85	=85	=85
+*	*^	*	*	*
+*Xtuplet	*	*	*	*	*
+(>24FFLL	.	5	24eeeeLL	.	p
+24BB	.	.	24bbb	.	.
+24AA	.	.	24dddd#X	.	.
+24D#X	.	1	24aaa	.	.
+24AA	.	5	24eeee	.	.
+24D#JJ	.	.	24bbbJJ	.	.
+24BBLL	.	.	24dddd#LL	.	<
+24F	1	.	24aaa	.	.
+24BB	5	.	24eeee	.	.
+24F	.	.	24bbb	.	.
+24D#	.	.	24dddd#	.	.
+24AJJ	1	.	24aaaJJ	.	.
+24D#LL	5	.	24eeeeLL	.	.
+24A	.	.	24bbb	.	.
+24F	.	.	24dddd#	.	.
+24B	.	.	24aaa	.	.
+24F	.	.	24eeee	.	.
+24BJJ	.	.	24bbbJJ	.	.
+24ALL	.	.	24dddd#LL	.	.
+24d#X	.	.	24aaa	.	.
+24A	.	.	24eeee	.	.
+24d#	.	.	24bbb	.	.
+24B	.	.	24dddd#	.	.
+24fJJ	.	.	24aaaJJ	.	.
+*clefG2	*	*	*	*	*
+*	*v	*v	*	*	*
+!!LO:PB:g=original
+=86	=86	=86	=86	=86
+24BLL	.	24eeeeLL	.	.
+24f	.	24bbb	.	.
+24d#X	.	24dddd#X	.	.
+24a	.	24aaa	.	.
+24d#	.	24eeee	.	.
+24aJJ	.	24bbbJJ	.	.
+24fLL	.	24dddd#LL	.	.
+24b	.	24aaa	.	.
+24f	.	24eeee	.	.
+24b	.	24bbb	.	.
+24a	.	24dddd#	.	.
+24dd#XJJ	.	24aaaJJ	.	.
+24aLL	.	24eeeeLL	.	.
+24dd#	.	24bbb	.	.
+24b	.	24dddd#	.	.
+24ff	.	24aaa	.	.
+24b	.	24eeee	.	.
+24ffJJ	.	24bbbJJ	.	.
+24dd#LL	.	24dddd#LL	.	.
+24aa	.	24aaa	.	.
+24dd#	.	24eeee	.	.
+24aa	.	24bbb	.	.
+24ff	.	24dddd#	.	.
+*	*	*Xped	*	*
+24bbJJ)	.	24aaaJJ)	.	.
+=87	=87	=87	=87	=87
+*	*^	*	*	*
+!	!	!	!	!	!LO:DY:b=2
+*	*	*	*ped	*	*
+!	!	!	!	!	!LO:DY:rj
+8ee'>\ 8cc'>\ 8a'>\ 8e'>\	.	.	(>24ffffLL	.	fz
+.	.	.	24cccc	.	.
+.	.	.	24eeee	.	.
+24r	.	.	24aaa	.	.
+(>24ddd^<LL	.	.	24dddd	.	.
+24aaJJ	.	.	24aaaJJ	.	.
+24cccLL	.	.	24ccccLL	.	.
+24ee	.	.	24eee	.	.
+24bb	1	.	24bbb	.	.
+24ee	.	.	24eee	.	.
+24aa	.	.	24aaa	.	.
+24ccJJ	.	.	24cccJJ	.	.
+*	*	*	*X8va	*	*
+!	!	!	!LO:TX:a:t=Loco	!	!
+24ffLL	1	.	24fffLL	.	.
+24cc	.	.	24ccc	.	.
+24ee	.	.	24eee	.	.
+24a	.	.	24aa	.	.
+24dd	1	.	24ddd	.	.
+24aJJ	.	.	24aaJJ	.	.
+24ccLL	.	.	24cccLL	.	.
+24e	.	.	24ee	.	.
+24b	.	1	24bb	.	.
+24e	.	.	24ee	.	.
+24a	.	.	24aa	.	.
+24cJJ	.	.	24ccJJ	.	.
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+*clefF4	*	*	*	*	*
+*	*v	*v	*	*	*
+!!LO:LB:g=original
+=88	=88	=88	=88	=88
+24fLL	.	24ffLL	.	.
+24c	.	24cc	.	.
+24e	.	24ee	.	.
+24A	.	24a	.	.
+24d	.	24dd	.	.
+24AJJ	.	24aJJ	.	.
+24cLL	.	24ccLL	.	.
+24E	.	24e	.	.
+24B	.	24b	.	.
+24E	.	24e	.	.
+24A	.	24a	.	.
+24CJJ)	.	24cJJ)	.	.
+4E 4EE	.	4b^< 4a 4e 4B	.	.
+!LO:TX:t=P:bottom octave written as "8":problem	!	!	!	!
+4EE 4EEE	.	4ee^< 4b 4g#X 4e 4d	.	.
+=89	=89	=89	=89	=89
+*	*	*8va	*	*
+*	*	*ped	*	*
+(<16AAA^<LL	.	(>24aaaLL	.	.
+.	.	24eee	.	.
+16EE	.	.	.	ff
+.	.	24ggg#X	.	.
+16C	.	24ccc	.	.
+.	.	24gggn	.	.
+16EEJJ	.	.	.	.
+.	.	24eeeJJ	.	.
+16AAA^<LL	.	24fff#XLL	.	.
+.	.	24ccc	.	.
+16EE	.	.	.	.
+.	.	24fffn	.	.
+16C	.	24ccc	.	.
+.	.	24eee	.	.
+16EEJJ	.	.	.	.
+.	.	24aaJJ	.	.
+16AAA^<LL	.	24ddd#XLL	.	.
+.	.	24ccc	.	.
+16EE	.	.	.	.
+.	.	24dddn	.	.
+16C	.	24aa	.	.
+.	.	24ccc#X	.	.
+16EEJJ	.	.	.	.
+.	.	24aaJJ	.	.
+*	*	*Xped	*	*
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=Loco	!	!
+16BBB^<LL	.	24ccc#yLL	.	.
+.	.	24ee	.	.
+16EE	.	.	.	.
+.	.	24bb	.	.
+16C	.	24ee	.	.
+.	.	24bb-X	.	.
+16EEJJ	.	.	.	.
+.	.	24cc#yJJ	.	.
+!!LO:LB:g=original
+=90-	=90-	=90-	=90-	=90-
+*	*	*ped	*	*
+16AAA^<LL	.	24aaLL	.	.
+.	.	24ee	.	.
+16EE	.	.	.	.
+.	.	24gg#X	.	.
+16C	.	24ccny	.	.
+.	.	24ggn	.	.
+*	*	*Xped	*	*
+16EEJJ	.	.	.	.
+.	.	24eeJJ	.	.
+*	*	*ped	*	*
+16EEE^<LL	.	24ff#XLL	.	.
+.	.	24cc	.	.
+16EE	.	.	.	.
+.	.	24ffn	.	.
+16C	.	24cc	.	.
+.	.	24ee	.	.
+*	*	*Xped	*	*
+16EEJJ	.	.	.	.
+.	.	24aJJ	.	.
+*	*	*ped	*	*
+16AAA^<LL	.	24dd#XLL	.	.
+.	.	24cc	.	.
+16EE	.	.	.	.
+.	.	24ddn	.	.
+16C	.	24a	.	.
+.	.	24cc#X	.	.
+16EEJJ	.	.	.	.
+.	.	24aJJ	.	.
+16CLL	.	24ccnLL	.	.
+.	.	24e	.	.
+16EE	.	.	.	.
+.	.	24bn	.	.
+16C	.	24e	.	.
+.	.	24b-X	.	.
+16EEJJ	.	.	.	.
+.	.	24cJJ	.	.
+=91	=91	=91	=91	=91
+16AAALL	.	24aLL	.	.
+.	.	24e	.	.
+16EE	.	.	.	.
+.	.	24g#X	.	.
+16C	.	24c	.	.
+.	.	24gn	.	>
+16EEJJ	.	.	.	.
+.	.	24eJJ	.	.
+16AAALL	.	24f#XLL	.	.
+.	.	24c	.	.
+16EE	.	.	.	.
+.	.	24fn	.	.
+16C	.	24c	.	.
+.	.	24e	.	.
+16EEJJ	.	.	.	.
+.	.	24AJJ	.	.
+16AAALL<	.	24d#XLL	.	.
+.	.	24c	.	.
+16EE	.	.	.	.
+.	.	24dn	.	.
+16C	.	24A<	.	.
+.	.	24c#X	.	.
+16EEJJ	.	.	.	.
+.	.	24A<JJ	.	.
+16AAALL<	.	24cnLL	.	.
+.	.	24E<	.	.
+16EE	.	.	.	.
+.	.	24B<	.	.
+16C	.	24E<	.	.
+.	.	24B-X<	.	.
+16EEJJ)	.	.	.	.
+.	.	24C<JJ	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+!!LO:LB:g=original
+=92-	=92-	=92-	=92-	=92-
+!	!	!	!	!LO:DY:rj
+12AA'<L<	.	24A<LL	.	ff
+.	.	24E<	.	.
+12GG#X'<	.	24G#X<	.	.
+.	.	24C<	.	.
+12GGn'<J	.	24Gn<	.	.
+.	.	24E<JJ	.	.
+12FF#X'<L<	.	24F#X<LL	.	.
+.	.	24C<	.	.
+12FFn'<	.	24Fn<	.	.
+.	.	24C<	.	.
+12EE'<J	.	24E<	.	.
+.	.	24AA<JJ	.	.
+12DD#X'<L<	.	24D#X<LL	.	.
+.	.	24C<	.	.
+12DDn'<	.	24Dn<	.	.
+.	.	24AA<	.	.
+12CC#X'<J	.	24C#X<	.	.
+.	.	24AA<JJ	.	.
+12CC#'<L<	.	24Cn<LL	.	.
+.	.	24EE<	.	.
+12BBB'<	.	24BB<	.	.
+.	.	24EE<	.	.
+12BBB-X'<J	.	24BB-X<	.	.
+.	.	24EE<JJ)	.	.
+=93	=93	=93	=93	=93
+4AAA'<\	.	4AA<'<	.	.
+!	!	!	!	!LO:DY:rj
+8.AAL< 8.EE 8.AAA	.	(>8.aL 8.e 8.c 8.A<	.	fff
+16AAJk 16EE 16AAA	.	16aJk 16e 16c 16A<	.	.
+4AA\ 4EE\ 4AAA\	.	4a 4e 4c 4A<	.	.
+4AA\ 4DD\ 4AAA\	.	4a 4f 4d 4A<)	.	.
+!!LO:LB:g=original
+=94-	=94-	=94-	=94-	=94-
+2AA\ 2EE\ 2AAA\	.	2a^> 2e 2c 2A<	.	.
+2AA\ 2FF\ 2AAA\	.	2a^> 2d 2B 2A<	.	.
+=95	=95	=95	=95	=95
+1AA 1EE 1AAA	.	1a^> 1e 1c 1A<	.	.
+*cue	*	*cue	*	*
+8AAAL<	.	(>8AA<L	.	.
+8BBB	.	8BB<	.	.
+8CC	.	8C<	.	.
+8DD	.	8D<	.	.
+8EE	.	8E<	.	.
+8FF#X	.	8F#X<	.	.
+8GG#X	.	8G#X<	.	.
+8AA	.	8A<	.	.
+8BB	.	8B<	.	.
+8C	.	8c	.	.
+8D	.	8d	.	.
+8E	.	8e	.	.
+8F#y	.	8f#X	.	.
+8G#y	.	8g#X	.	.
+8A	.	8a	.	.
+8B	.	8b	.	.
+8c	.	8cc	.	.
+*clefG2	*	*	*	*
+8d	.	8dd	.	.
+8e	.	8ee	.	.
+8f#X	.	8ff#X	.	.
+8g#X	.	8gg#X	.	.
+8a	.	8aa	.	.
+8b	.	8bb	.	.
+8cc	.	8ccc	.	.
+8dd	.	8ddd	.	.
+8ee	.	8eee	.	.
+8ff#y	.	8fff#y	.	.
+8gg#yJ	.	8ggg#yJ	.	.
+*Xcue	*	*Xcue	*	*
+=96	=96	=96	=96	=96
+4aa'>	.	4aaa'>)	.	.
+4r	.	4r	.	.
+2r	.	2r	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: < = below
+!!!RDF**kern: > = above
+!!!RDF**dynam: > = "dim"
+!!!RDF**dynam: < = "Cres"
+!!!ENC: Leszek Kubiak
+!!!END: 2018-11-13
+!!!EED: Zofia Trojan
+!!!EST: revision finished 2018-11-29
+!!!EED2: Jędrzej Mróz
+!!!EST: revision finished 2019-10-11
+!!!rism-genre: Etude
+!!!rism-key: A minor
+!!!rism-opus: op. 25, no. 11
+!!!rism-title: Etude in A minor op. 25, no. 11
+!!!rism-permalink: https://opac.rism.info/search?id=1001002421&View=rism
+!!!rism-773a-OPR: 1001002277
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001002277&View=rism

@@ -1,0 +1,288 @@
+!!!!SEGMENT: 028_13-24-1a-C-014.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: XIV.
+!!!OPS: Op. 28
+!!!PTL: 24 PRÉLUDES POUR Le Piano
+!!!PPR: Catelin
+!!!PPP: Paris
+!!!NIFC-rismID: 1001065080
+!!!NIFC-shelfmark: PL-Wbfc 6584/n
+!!!OMD: Allegro.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*	*I"XIV.	*
+*clefF4	*clefG2	*
+*k[b-e-a-d-g-c-]	*k[b-e-a-d-g-c-]	*
+*e-:	*e-:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+*MM180	*MM180	*
+=1	=1	=1
+*Xtuplet	*Xtuplet	*
+!LO:TX:i:B:t=Pesante.	!	!
+!	!LO:TX:t=P:'Allegro.' isn't displayed:problem	!
+12EE-L	12E-<L	<
+12BB-	12B-<	.
+12GG-J	12G-<J	.
+12C-L	12c-<L	.
+12EE-	12E-<	.
+12C-J	12c-<J	[
+12DDnL	12Dn<L	>
+12C-	12c-<	.
+12FFJ	12F<J	.
+12BB-L	12B-<L	.
+12DD	12D<	.
+12BB-J	12B-<J	]
+=2	=2	=2
+12EE-L	12E-<L	<
+12BB-	12B-<	.
+12GG-J	12G-<J	.
+12C-L	12c-<L	.
+12EE-	12E-<	.
+12C-J	12c-<J	[[
+12DDnL	12Dn<L	>
+12C-	12c-<	.
+12FFJ	12F<J	.
+12BB-L	12B-<L	.
+12DD	12D<	.
+12BB-J	12B-<J	]
+=3	=3	=3
+12EE-L	12E-<L	<
+12BB-	12B-<	.
+12GG-J	12G-<J	.
+12C-L	12c-<L	.
+12EE-	12E-<	.
+12CnJ	12cn<J	.
+12FFL	12F<L	.
+12C	12c<	.
+12AA-J	12A-<J	.
+12E-L<	12e-L	.
+12BB--	12B--	.
+12D-J	12d-J	.
+!!LO:LB:g=original
+=4	=4	=4
+12GG-L	12G-L	.
+12D-	12d-	.
+12BB-XJ	12B-XJ	.
+12D-L	12e-L	.
+!!!SIC@EN: there should be 12E- instead of 12D-
+12GG-	12G-	.
+12EnJ	12enJ	.
+12AAnL<	12AnL	.
+12E	12e	.
+12CnJ	12cnJ	.
+12G-L	12g-L	.
+12D-	12d-	.
+12FJ	12fJ	[
+=5	=5	=5
+12BB-L	12B-L	<
+12F	12f	.
+12D-J	12d-J	.
+12G-L	12g-L	.
+12BB-	12B-	.
+12G-J	12g-J	[[
+12AAnL<	12AnL	>
+12G-	12g-	.
+12CnyJ	12cnyJ	.
+12FL	12fL	.
+12AA	12A	.
+12FJ	12fJ	]
+=6	=6	=6
+12BB-L	12B-L	<
+12F	12f	.
+12D-J	12d-J	.
+12G-L	12g-L	.
+12BB--	12B--	.
+12G-J	12g-J	[[
+12AA-L	12A-L	>
+12G-	12g-	.
+12DnJ	12dnJ	.
+12FL	12fL	.
+12Cny	12cny	.
+12FJ	12fJ	]
+=7	=7	=7
+12AA-L<	12A-L	>
+12F-X	12f-X	.
+12C-XJ	12c-XJ	.
+12DnL<	12dnL	.
+12AA-	12A-	.
+12DJ	12dJ	]
+12GGnL<	12GnL	<
+12D	12d	.
+12BB-J	12B-J	.
+12FnL<	12fnL	.
+12GG	12G	.
+12E-J	12e-J	[[
+!!LO:LB:g=original
+=8	=8	=8
+12FFL	12F<L	>
+12D-	12d-<	.
+12GGnJ	12Gn<J	.
+12BBnL	12Bn<L	.
+12FF	12F<	.
+12BBJ	12B<J	]
+12EEnL	12En<L	<
+12BB	12B<	.
+12GGJ	12G<J	.
+12D-L	12d-<L	.
+12EE	12E<	.
+12CnJ	12cn<J	[[
+=9	=9	=9
+12GG-XL	12G-X<L	>
+12E--	12e--<	.
+12BB--J	12B--<J	.
+12CnL	12cn<L	.
+12GG-	12G-<	.
+12CJ	12c<J	]
+12FFL	12F<L	<
+12C	12c<	.
+12AA-J	12A-<J	.
+12E-XL	12e-X<L	.
+12FF	12F<	.
+12D-J	12d-<J	[[
+=10	=10	=10
+12EE-L	12E-<L	>
+12C-	12c-X<	.
+12FFJ	12F<J	.
+12AAnL	12An<L	.
+12EE-	12E-<	.
+12AAJ	12A<J	]
+12DDnL	12Dn<L	<
+12AA	12A<	.
+12FFJ	12F<J	.
+12BB-L	12B-<L	<
+12GG-	12G-<	.
+12BB-J	12B-<J	[[
+=11	=11	=11
+!	!	!LO:DY:rj:ignore
+12EE-L	12E-<L	ff
+12BB-	12B-<	.
+12GG-J	12G-<J	.
+12C-L	12c-<L	.
+12EE-	12E-<	.
+12C-J	12c-<J	.
+12DDnL	12Dn<L	.
+12C-	12c-<	.
+12FFJ	12F<J	.
+12BB-L	12B-<L	.
+12DD	12D<	.
+12BB-J	12B-<J	.
+!!LO:LB:g=original
+=12	=12	=12
+12EE-L	12E-<L	<
+12BB-	12B-<	.
+12GG-J	12G-<J	.
+12C-L	12c-<L	.
+12GGn	12Gn<	.
+12C-J	12c-<J	[[
+12DDnL	12Dn<L	>
+12C-	12c-<	.
+12GG-XJ	12G-X<J	.
+12BB-L	12B-<L	.
+12FF	12F<	.
+12BB-J	12B-<J	]
+=13	=13	=13
+12EE-L	12E-<L	<
+12BB-	12B-<	.
+12GG-J	12G-<J	.
+12C-L	12c-X<L	.
+12EE-	12E-<	.
+12C-J	12c-<J	.
+12FFL	12F<L	.
+12D-	12d-<	.
+12AAnJ	12An<J	.
+12D-L	12d-<L	.
+12FF	12F<	.
+12D-J	12d-<J	.
+=14	=14	=14
+12GG-L<	12G-<L	.
+12D-	12d-<	.
+12BB--J	12B--<J	.
+12E--L<	12e--<L	.
+12GG-	12G-<	.
+12E--J	12e--<J	.
+12BB-iL<	12B-X<L	.
+12E--	12e--<	.
+12GG-J	12G-<J	.
+12F-XL	12f-X<L	.
+12GGn	12Gn<	.
+12FnJ	12fn<J	[
+=15	=15	=15
+12AA-L	12A-<L	.
+12C-	12c-<	.
+12GG-J	12G-<J	.
+12C-L	12c-<L	.
+12FF	12F<	.
+12C-J	12c-<J	.
+12EE-L	12E-<L	.
+12AA-	12A-<	.
+12DDnJ	12Dn<J	.
+12GG-L	12G-<L	.
+12EE-	12E-<	.
+12GG-J	12G-<J	.
+!!LO:LB:g=original
+=16	=16	=16
+12AAA-L	12AA-<L	.
+12GG-	12G-<	.
+12EE-J	12E-<J	.
+12GG-L	12G-<L	.
+12AAA-	12AA-<	.
+12GG-J	12G-<J	.
+12BBB-L	12BB-<L	>
+12GG-	12G-<	.
+12EE-J	12E-<J	.
+12GG-L	12G-<L	.
+12BBB-	12BB-<	.
+12GG-J	12G-<J	.
+=17	=17	=17
+12EE-L	12E-<L	.
+12BB-	12B-<	.
+12EE-J	12E-<J	.
+12C-L	12c-<L	.
+12EE-	12E-<	.
+12D-J	12d-<J	.
+12EE-L	12E-<L	.
+12BB-	12B-<	.
+12EE-J	12E-<J	.
+12C-L	12c-<L	.
+12EE-	12E-<	.
+12D-J	12d-<J	.
+=18	=18	=18
+12EE-L<	12E-<L	.
+12D-	12d-<	.
+12EE-J	12E-<J	.
+12C-L<	12c-<L	.
+12EE-	12E-<	.
+12BB-J	12B-<J	.
+12EE-L<	12E-<L	.
+12AA-	12A-<	.
+12EE-J	12E-<J	.
+12BB-L<	12B-<L	.
+12EE-	12E-<	.
+12BB-J	12B-<J	.
+=19	=19	=19
+4EEE-\	4E-<	]
+4r	4r	.
+2r	2r	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cres", fontstyle="italic"
+!!!RDF**kern: i = editorial accidental, bracket
+!!!ENC: Emilia Ziętek
+!!!END: 2019-05-09
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: 2019-05-20
+!!!EED2: Zofia Niedbalska
+!!!EST: 2020-04-28
+!!!rism-genre: Prelude
+!!!rism-key: E-flat minor
+!!!rism-opus: op. 28, no. 14
+!!!rism-title: Prelude in E-flat minor op. 28, no. 14
+!!!rism-permalink: https://opac.rism.info/search?id=1001065080&View=rism
+!!!rism-773a-OPR: 1001065100
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001065100&View=rism

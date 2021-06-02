@@ -1,0 +1,338 @@
+!!!!SEGMENT: 074-1-G-005.krn
+!!!COM: Fryderyk Chopin
+!!!OTL: Gdzie lubi
+!!!OPS: op. 74
+!!!PTL: Zbiór śpiewów polskich z towarzyszeniem fortepianu
+!!!PPR: Gebethner
+!!!PPP: Warsaw
+!!!NIFC-rismID: 300605191
+!!!NIFC-shelfmark: PL-Wbfc 963/n
+!!!OMD: Allegro. M. M. [quarter]. = 72.
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*	*part1
+*staff3	*staff2	*	*staff1	*	*
+*I"PIANO.	*	*	*I"CANTO.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*	*
+*A:	*A:	*	*A:	*	*
+*M6/8	*M6/8	*	*M6/8	*	*
+*MM108	*MM108	*	*MM108	*	*
+=1	=1	=1	=1	=1	=1
+*^	*	*	*	*	*
+!	!	!LO:TX:B:t=legato.	!	!	!	!
+!	!	!	!LO:DY:rj	!	!	!
+4B	[<2.E	(>4dd/ 4g#/	p	2.rdd	.	.
+8c#	.	8a#X 8f##X)	.	.	.	.
+4d	.	(>4b 4g#	.	.	.	.
+8A#X	.	8cc#/ 8f##/)	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+4B	2.E]	(>4dd/ 4g#/	.	2.rdd	.	.
+8c#	.	8a#X 8f##X)	.	.	.	.
+4d	.	(>4b 4g#	.	.	.	.
+8A#X	.	8f##/ 8cc#/)	.	.	.	.
+*v	*v	*	*	*	*	*
+=3	=3	=3	=3	=3	=3
+.	(<8qee/	.	.	.	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!	!	!
+[>2.B [<2.E	[>2.dd) [<2.g#	.	2.rdd	.	.
+=4	=4	=4	=4	=4	=4
+4.B] 4.E]	4.dd] 4.g#]	.	2.rdd	.	.
+4r	4r	.	.	.	.
+8r	8r	.	.	.	.
+==5|!	==5|!	==5|!	==5|!	==5|!	==5|!
+*ped	*	*	*	*	*
+!	!LO:TX:a:B:t=e sempre legatiss.	!	!	!	!
+!	!	!	!	!	!LO:HP:a
+!	!	!	!	!	!LO:DY:a
+!	!	!LO:DY:a	!	!	!
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!
+4.AA\ 4.AAA\	8E</L	p	4a	Stru-	mf<
+.	8c#\	.	.	.	.
+.	8a\J	.	8b	-myk	.
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!
+4.AA\ 4.AAA\	8E</L	.	8cc#	lu-	[
+.	8c#\	.	8d#X	-bi	.
+*Xped	*	*	*	*	*
+.	8aJ	.	8e	w do-	.
+=6	=6	=6	=6	=6	=6
+*ped	*	*	*	*	*
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!LO:HP:a
+4.AA\ 4.AAA\	8D#X</L	.	(4g#	-li-	>
+.	8B#X</	.	.	.	.
+*Xped	*	*	*	*	*
+.	8a\J	.	8f#)	.	]
+*ped	*	*	*	*	*
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!
+4.AA\ 4.AAA\	8E</L	.	4e	-nie	.
+.	8c#\	.	.	.	.
+*Xped	*	*	*	*	*
+.	8a\J	.	8r	.	.
+!!LO:LB:g=original
+=7	=7	=7	=7	=7	=7
+*ped	*	*	*	*	*
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!
+4.AA\ 4.AAA\	8E</L	.	8bL	Sar-	.
+.	8d\	.	8f#J	.	.
+.	8g#\J	.	8a	-na	.
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!
+4.AA\ 4.AAA\	8E</L	.	8g#	lu-	.
+.	8d\	.	8f#	-bi	.
+*Xped	*	*	*	*	*
+.	8g#\J	.	8e	w gę-	.
+=8	=8	=8	=8	=8	=8
+*ped	*	*	*	*	*
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!
+4.AA\ 4.AAA\	8E</L	.	[4.ee	-stwi-	.
+.	8c#\	.	.	.	.
+.	8a\J	.	.	.	.
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!
+4.AA\ 4.AAA\	8E</L	.	4ee]	.	.
+.	8c#\	.	.	.	.
+*Xped	*	*	*	*	*
+.	8a\J	.	8cc#	-nie	.
+=9	=9	=9	=9	=9	=9
+*ped	*	*	*	*	*
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!
+4.AA\ 4.AAA\	8E</L	.	8eeL	Pta-	.
+.	8c#\	.	8cc#J	.	.
+.	8a\J	.	8b	-szek	.
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!
+4.AA\ 4.AAA\	8E</L	.	8cc#	lu-	.
+.	8c#\	.	8d#X	-bi	.
+*Xped	*	*	*	*	*
+.	8a\J	.	8e	pod	.
+=10	=10	=10	=10	=10	=10
+*ped	*	*	*	*	*
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!
+4.AA\ 4.AAA\	8D#X</L	.	4g#	strze-	.
+.	8B#X</	.	.	.	.
+*Xped	*	*	*	*	*
+.	8a\J	.	8f#	-chą,	.
+*ped	*	*	*	*	*
+!	!	!	!	!	!LO:HP:a
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!
+4.AA\ 4.AAA\	8E</L	.	8eL	Lecz	<
+.	8c#\	.	8g#J	.	[[
+*Xped	*	*	*	*	*
+.	8a\J	.	8a	dziew-	.
+=11	=11	=11	=11	=11	=11
+*ped	*	*	*	*	*
+!	!	!	!	!	!LO:HP:a
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!
+2.FF#\	8A</L	.	4cc#	-czy-	>
+.	8c#\	.	.	.	.
+.	8a\J	.	8b	.	.
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!
+.	8A</L	.	8aL	-na	.
+.	8c#\	.	8g#J	.	]
+*Xped	*	*	*	*	*
+.	8a\J	.	8f#	dziew-	.
+!!LO:LB:g=original
+=12	=12	=12	=12	=12	=12
+*ped	*	*	*	*	*
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!
+[4.C#\ [4.CC#\	8G#</L	.	4e#X	-czy-	.
+.	8c#\	.	.	.	.
+.	8e#X\J	.	8#g	-na!	.
+8C#/;] 8CC#/]	8g#;	.	8r;	.	.
+*Xped	*	*	*	*	*
+4r	4r	.	16en	z u-	.
+!	!	!	!LO:TX:t=P:w źródle pojawia się 8. zamiast 8 (jest o jedną 16 za dużo):problem	!	!
+!	!	!	!LO:N:vis=8.	!	!
+.	.	.	8e	-cie-	.
+.	.	.	16e	-chą	.
+=13	=13	=13	=13	=13	=13
+!	!	!	!LO:TX:B:a:t=scherzando.	!	!
+8E	8r	.	16g#	Lu-	.
+.	.	.	16f#	-bi	.
+4r	8g#L 8d	.	8.e	gdzie	.
+.	8g#J 8d	.	.	.	.
+.	.	.	16ee	nie-	.
+8E	8r	.	16dd#X	bies-	.
+.	.	.	16ee	kie	.
+4r	8g#L 8d	.	8b	o-	.
+.	8g#J 8d	.	8ee	-ko,	.
+=14	=14	=14	=14	=14	=14
+8A	8r	.	16cc#	Lu-	.
+.	.	.	16b	bi	.
+4r	8aL 8e 8c#	.	8a	gdzie	.
+.	8aJ 8e 8c#	.	8cc#	i	.
+8AA	8r	.	16b#X	czar-	.
+.	.	.	16cc#	-ne	.
+4r	8aL 8f# 8c#	.	8a	o-	.
+.	8aJ 8f# 8c#	.	8f#	ko,	.
+!!LO:PB:g=original
+=15	=15	=15	=15	=15	=15
+8BB	8r	.	16d#X	Lu-	.
+.	.	.	16f#	-bi	.
+4r	8anL 8d#X 8B	.	8.a#X	gdzie	.
+.	8aJ 8d# 8B	.	.	.	.
+.	.	.	16b	we-	.
+8BB	8r	.	16cc#	-so-	.
+.	.	.	16b	-łe	.
+4r	8aL 8d# 8B	.	8a#	-pie-	.
+.	8aJ 8d# 8B	.	8b	-śni,	.
+=16	=16	=16	=16	=16	=16
+*ped	*	*	*	*	*
+4.E	8r	.	16g#	Lu-	.
+.	.	.	16an	bi	.
+.	4g# 4dn 4B	.	8b	gdzie	.
+.	.	.	8e	i	.
+*Xped	*	*	*	*	*
+!	!	!	!LO:TX:B:a:t=rallent.	!	!
+4r	4r	.	8.fn;^	smu-	.
+.	.	.	16e	tne	.
+8rF	8r	.	16d#X	pie-	.
+.	.	.	16e	-śni,	.
+=17	=17	=17	=17	=17	=17
+*ped	*	*	*	*	*
+!	!	!	!LO:TX:B:a:t=Tempo.	!	!
+4.AA\ 4.AAA\	8E<L	.	8eeL	Sa-	.
+!	!	!	!	!	!LO:DY:a
+!	!	!	!	!	!LO:HP:a
+.	8c#	.	8aJ	.	<
+.	8aJ	.	8b	-ma	.
+4.AA\ 4.AAA\	8E<L	.	8cc#	nie	.
+.	8c#	.	8d#X	wie	.
+*Xped	*	*	*	*	*
+.	8aJ	.	8e	gdzie	[
+!!LO:LB:g=original
+=18	=18	=18	=18	=18	=18
+*ped	*	*	*	*	*
+!	!	!	!	!	!LO:HP:a
+4.AA\ 4.AAA\	8D#X<L	.	(<4g#	lu-	>
+.	8B#<X	.	.	.	.
+*Xped	*	*	*	*	*
+.	8aJ	.	8f#)	.	.
+*ped	*	*	*	*	*
+4.AA\ 4.AAA\	8E<L	.	8e	-bi,	]]
+.	8c#	.	8g#	Wszę-	.
+*Xped	*	*	*	*	*
+.	8aJ	.	8a	-dzie,	.
+=19	=19	=19	=19	=19	=19
+*ped	*	*	*	*	*
+4.AA\ 4.AAA\	8E<L	.	(<8bL	wszę-	.
+.	8d	.	8f#J)	.	.
+.	8g#J	.	8a	-dzie	.
+4.AA 4.AAA	8E<L	.	(<8g#L	ser-	.
+.	8d	.	8f#J)	.	.
+*Xped	*	*	*	*	*
+.	8g#J	.	8e	-ce	.
+=20	=20	=20	=20	=20	=20
+*ped	*	*	*	*	*
+4.AA	8E<L	.	[<4.e	zgu-	.
+.	8c#	.	.	.	.
+.	8aJ	.	.	.	.
+4.AA	8E<L	.	8eL]	.	.
+.	8c#	.	8aJ	.	.
+*Xped	*	*	*	*	*
+.	8aJ	.	8cc#	-bi.	.
+=21	=21	=21	=21	=21	=21
+*ped	*	*	*	*	*
+4.AA	8E<L	.	(>8eeL	Sa-	.
+.	8c#	.	8aJ)	.	.
+.	8aJ	.	8b	-ma	.
+4.AA	8E<L	.	8cc#	nie	.
+.	8c#	.	8d#X	wie	.
+*Xped	*	*	*	*	*
+.	8aJ	.	8e	gdzie	.
+=22	=22	=22	=22	=22	=22
+*ped	*	*	*	*	*
+4.AA\	8D#X<L	.	(<4g#	lu-	.
+.	8B#X<	.	.	.	.
+*Xped	*	*	*	*	*
+.	8aJ	.	8f#	.	.
+*ped	*	*	*	*	*
+4.AA	8E<L	.	8eL	.	.
+.	8c#	.	8g#J)	.	.
+*Xped	*	*	*	*	*
+.	8aJ	.	8a	-bi	.
+!!LO:LB:g=original
+=23	=23	=23	=23	=23	=23
+*ped	*	*	*	*	*
+4.D	8BLn	.	(>8bL	Wszę-	.
+.	8f#	.	8cc#J)	.	.
+*Xped	*	*	*	*	*
+.	8aJ	.	8b	-dzie	.
+*ped	*	*	*	*	*
+4.E	8BL	.	(<8g#L	ser-	.
+.	8d	.	8f#J)	.	.
+*Xped	*	*	*	*	*
+.	8g#J	.	8g#	-ce	.
+=24	=24	=24	=24	=24	=24
+*ped	*	*	*	*	*
+!	!	!	!	!	!LO:HP:a
+4.AA	8c#L	.	4b/	zgu-	>
+.	8e	.	.	.	.
+.	8aJ	.	8a	-bi.	]
+8AAL	(>16eeLL	<	4r	.	.
+.	16ff#	.	.	.	.
+8E	16gg#	.	.	.	.
+.	16aa	.	.	.	.
+8c#J	16bb	.	8r	.	.
+*Xped	*	*	*	*	*
+.	16ccc#JJ)	[	.	.	.
+=25	=25	=25	=25	=25	=25
+*^	*	*	*	*	*
+4.ryy	8c# 8Gn 8E	8aa#XL	.	2.rdd	.	.
+.	4d 4F# 4D^>	(16bbL	.	.	.	.
+.	.	16aan	.	.	.	.
+.	.	16ggnyX	.	.	.	.
+.	.	16ff#JJ)	.	.	.	.
+4.E	8EL	8ee#XL	.	.	.	.
+.	8G#X	(16ff#Lt	.	.	.	.
+.	.	16een	.	.	.	.
+.	8dJ	16dd	.	.	.	.
+.	.	16bJJ)	.	.	.	.
+*v	*v	*	*	*	*	*
+=26	=26	=26	=26	=26	=26
+*ped	*	*	*	*	*
+8AAL	4a	.	2.rdd	.	.
+8E	.	.	.	.	.
+8c#J	(16cc#LL	.	.	.	.
+.	16ddJJ	.	.	.	.
+8AAL	16eeLL	.	.	.	.
+.	16ff#	.	.	.	.
+8E	16gg#	.	.	.	.
+.	16aa	.	.	.	.
+8c#J	16bb	.	.	.	.
+*Xped	*	*	*	*	*
+.	16ccc#JJ)	.	.	.	.
+=27	=27	=27	=27	=27	=27
+*^	*	*	*	*	*
+4.rayy	8c# 8Gn 8E	8aa#XL	.	2.rdd	.	.
+.	4d 4F# 4D^	(16bbL	.	.	.	.
+.	.	16aan	.	.	.	.
+.	.	16gg#yX	.	.	.	.
+.	.	16ff#JJ)	.	.	.	.
+4.E	8EL	8ee#XL	.	.	.	.
+.	8G#X	(16ff#LT	.	.	.	.
+.	.	16een	.	.	.	.
+.	8dJ	16dd	.	.	.	.
+.	.	16bJJ)	.	.	.	.
+*v	*v	*	*	*	*	*
+=28	=28	=28	=28	=28	=28
+*ped	*	*	*	*	*
+8AAL	4a	.	2.rdd	.	.
+8E	.	.	.	.	.
+8c#J	8r	.	.	.	.
+4AA	4r	.	.	.	.
+*Xped	*	*	*	*	*
+8r	8r	.	.	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!ENC: Antoni Szymański
+!!!END: 2019-08-26
+!!!EED: Mateusz Mrugas
+!!!EST: revision finished 2019-10-16
+!!!system-decoration: (s1){(s2,s3)}
+!!!rism-genre: Gdzie lubi
+!!!rism-key: A major
+!!!rism-opus: op.  74, no. 5
+!!!rism-title: Ce qu'aime une jeune fille in A major op.  74, no. 5
+!!!rism-permalink: https://opac.rism.info/search?id=300605191&View=rism
+!!!rism-773a-OPR: 300605186
+!!!rism-parent-permalink: https://opac.rism.info/search?id=300605186&View=rism

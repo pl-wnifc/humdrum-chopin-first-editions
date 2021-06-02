@@ -1,0 +1,1448 @@
+!!!!SEGMENT: 028_13-24-1a-C-024.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Prelude XXIV
+!!!OPS: Op. 28
+!!!PTL: 24 Preludes pour le Piano
+!!!PPR: Catelin
+!!!PPP: Paris
+!!!NIFC-rismID: 1001065091
+!!!NIFC-shelfmark: PL-Wbfc 6584/n
+!!!OMD: All|o. apassionato.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*S
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*d:	*d:	*
+*M6/8	*M6/8	*
+*MM108	*MM108	*
+=1	=1	=1
+*^	*	*
+*ped	*	*	*
+!LO:TX:b:t=P:problem:znak pedalizacji przed nutą	!	!	!
+!LO:TX:t=P:nie wyświetla się "All|o. apassionato." (!!!OMD):problem	!	!	!
+!	!	!	!LO:DY:rj
+(<16DDLL	16ryy	2.rdd	f
+16AA	4AA	.	.
+16F	.	.	.
+16DDJ	.	.	.
+8AJ)	.	.	.
+.	16ryy	.	.
+(<16DDLL	16ryy	.	.
+16AA	4AA	.	.
+16F	.	.	.
+16DDJ	.	.	.
+8AJ)	.	.	.
+.	16ryy	.	.
+=2	=2	=2	=2
+(<16DDLL	16ryy	2.rdd	.
+16AA	4AA	.	.
+16F	.	.	.
+16DDJ	.	.	.
+8AJ)	.	.	.
+.	16ryy	.	.
+(<16DDLL	16ryy	.	.
+16AA	4AA	.	.
+16F	.	.	.
+16DDJ	.	.	.
+8AJ)	.	.	.
+.	16ryy	.	.
+=3	=3	=3	=3
+(<16DDLL	16ryy	(>4a	>
+16AA	4AA	.	.
+16F	.	.	.
+16DDJ	.	.	.
+8AJ)	.	8f	]]
+.	16ryy	.	.
+(<16DDLL	16ryy	[<4.d)	.
+16AA	4AA	.	.
+16F	.	.	.
+16DDJ	.	.	.
+8AJ)	.	.	.
+.	16ryy	.	.
+=4	=4	=4	=4
+(<16DDLL	16ryy	4.d]	<
+16AA	4AA	.	.
+16F	.	.	.
+16DDJ	.	.	.
+8AJ)	.	.	.
+.	16ryy	.	.
+(<16DDLL	16ryy	(>8fL	.
+16AA	4AA	.	.
+16F	.	8.a	.
+16DDJ	.	.	.
+8AJ)	.	.	.
+*Xped	*	*	*
+.	16ryy	16ddJk	[[
+!!LO:LB:g=original
+=5	=5	=5	=5
+*ped	*	*	*
+(<16DDLL	16ryy	[>2cc	.
+16AA	4AA	.	.
+16F	.	.	.
+16DDJ	.	.	.
+8AJ)	.	.	.
+.	16ryy	.	.
+(<16DDLL	16ryy	.	.
+16AA	4AA	.	.
+16F	.	8.ccL]	>
+16DDJ	.	.	.
+8AJ)	.	.	.
+*Xped	*	*	*
+.	16ryy	16b-Jk	.
+=6	=6	=6	=6
+*ped	*	*	*
+(<16DDLL	16ryy	4.a)	]
+16AA	4AA	.	.
+16F	.	.	.
+16DDJ	.	.	.
+8AJ)	.	.	.
+.	16ryy	.	.
+(<16DDLL	16ryy	4r	.
+16AA	4AA	.	.
+16F	.	.	.
+16DDJ	.	.	.
+8AJ)	.	16r	.
+.	16ryy	16a	.
+=7	=7	=7	=7
+(<16DDLL	16ryy	4a	>
+16AA	4AA	.	.
+16F	.	.	.
+16DDJ	.	.	.
+8AJ)	.	16r	.
+.	16ryy	16f	.
+.	.	(<8qqd/L	.
+.	.	8qqe/	.
+.	.	8qqf/J	.
+(<16DDLL	16ryy	8eL)	.
+16AA	4AA	.	.
+16F	.	8dJ	.
+16DDJ	.	.	.
+8AJ)	.	8r	]
+.	16ryy	.	.
+=8	=8	=8	=8
+(<16DDLL	16ryy	4r	.
+16AA	4AA	.	.
+16F	.	.	.
+16DDJ	.	.	.
+8AJ)	.	8f	.
+.	16ryy	.	.
+(<16DDLL	16ryy	(>8aL	<
+16AA	4AA	.	.
+16F	.	8.dd	.
+16DDJ	.	.	.
+8AJ)	.	.	.
+.	16ryy	16ffJk	.
+*v	*v	*	*
+!!LO:LB:g=original
+=9	=9	=9
+(<16DDLL	[>2ee	.
+16AA	.	.
+16F	.	.
+16DDJ	.	.
+8AJ)	.	[
+.	.	.
+(<16DDLL	.	.
+16AA	.	.
+16F	8.eeL]	.
+16DDJ	.	.
+8AJ)	.	.
+.	16ddJk	.
+=10	=10	=10
+(<16DDLL	4a	.
+16AA	.	.
+16F	.	.
+16DDJ	.	.
+*Xped	*	*
+.	16qqa/LL	<
+.	16qqbn/JJ	.
+8AJ)	2bnytt	.
+*ped	*	*
+(<16DDLL	.	.
+16GG	.	.
+16F	.	.
+16DDJ	.	.
+8GJ)	.	.
+*Xped	*	*
+.	.	[[
+.	16qqa/LL	.
+.	16qqb/JJ	.
+=11	=11	=11
+*ped	*	*
+(<16CCLL	4.cc	.
+16AA	.	.
+16F	.	.
+16CCJ	.	.
+8AJ)	.	.
+(<16CCLL	4b-X	.
+16AA	.	.
+16F	.	.
+16CCJ	.	.
+8AJ)	8a	.
+*Xped	*	*
+.	.	.
+=12	=12	=12
+*ped	*	*
+(<16CCLL	4.gT<	.
+16GG	.	.
+16F	.	.
+16CCJ	.	.
+8GJ)	.	.
+.	16qqf/LL	.
+.	16qqg/JJ	.
+(<16CCLL	4a	.
+16GG	.	.
+16F	.	.
+16CCJ	.	.
+8GJ)	16r	.
+*Xped	*	*
+.	16f	.
+!!LO:LB:g=original
+=13	=13	=13
+*ped	*	*
+!LO:TX:b:t=P:problem:znak pedalizacji przed nutą	!	!
+(<16CCLL	2.c)	.
+16BB-	.	.
+16F	.	.
+16CCJ	.	.
+8GJ)	.	.
+(<16CCLL	.	.
+16BB-	.	.
+16F	.	.
+16CCJ	.	.
+8GJ)	.	.
+*Xped	*	*
+.	.	.
+=14	=14	=14
+*	*Xtuplet	*
+*ped	*	*
+*	*rscale:1	*
+!	!LO:TX:a:t=P:problem:grupa niemiarowa z belką ósemkową	!
+!	!LO:TX:a:t=P:note position:złe dopasowanie nut górnej pięciolinii względem dolnej:problem	!
+(<16CCLL	(>112%3cL\	.
+*	*cue	*
+.	112%3d	<
+.	112%3c	.
+16BB-	.	.
+.	112%3Bn	.
+.	112%3c	.
+16E	.	.
+.	112%3d	.
+.	112%3e	.
+16CCJ	112%3f	.
+.	112%3g	.
+.	112%3a	.
+8GJ)	.	.
+.	112%3b-X	.
+.	112%3cc	.
+.	112%3dd	.
+.	112%3ee	.
+(<16CCLL	112%3ff	.
+.	112%3gg	.
+.	112%3aa	.
+16BB-	.	.
+.	112%3bb-	.
+.	112%3ccc	.
+16E	.	.
+.	112%3ddd	.
+*	*8va	*
+.	112%3eee	.
+16CCJ	112%3fff	.
+.	112%3ggg	.
+.	112%3aaa	.
+8GJ)	.	.
+.	112%3bbb-	.
+.	112%3cccc	.
+.	112%3dddd	.
+*Xped	*	*
+.	112%3eeeeJ	[[
+*	*rscale:1	*
+*	*Xcue	*
+!!LO:LB:g=original
+=15	=15	=15
+*ped	*	*
+(>16FFLL\	4ffff'>)	.
+*	*X8va	*
+16C	.	.
+16A	.	.
+16FFJ	.	.
+8cJ)	8r	.
+(>16FFLL\	4r	.
+16C	.	.
+16A	.	.
+16FFJ	.	.
+*Xped	*	*
+!	!LO:TX:a:t=loco.	!
+8cJ)	8r	.
+=16	=16	=16
+!	!LO:N:vis=4	!
+*ped	*	*
+(<16FFLL	(>4.bnt	.
+16D#X	.	.
+16A	.	.
+16FFJ	.	.
+8BnJ)	.	.
+.	16qqaL/	.
+.	16qqbJ	.
+(<16FFLL	4cc	.
+16BBn	.	.
+16A	.	.
+16FFJ	.	.
+8BJ)	16r	.
+.	16a	.
+*Xped	*	*
+.	.	.
+=17	=17	=17
+*ped	*	*
+(>16EELL\	4e)	.
+16C	.	.
+16A	.	.
+16EEJ	.	.
+!	!LO:TX:b:t=P:diminuendolike accent:problem	!
+8cJ)	(>[>8fff^<	.
+*	*cue	*
+*	*rscale:1	*
+!	!LO:TX:a:t=P:problem:grupa niemiarowa z belką ósemkową	!
+!	!LO:TX:a:t=P:note position:złe dopasowanie nut górnej pięciolinii względem dolnej:problem	!
+(>16EELL\	104%3fffL]\	.
+.	104%3eee	.
+.	104%3ccc	.
+16C	.	.
+.	104%3aa	.
+.	104%3ff	.
+16A	.	.
+.	104%3ee	.
+.	104%3cc	.
+16EEJ	.	.
+.	104%3a	.
+.	104%3f	.
+8cJ)	.	.
+.	104%3e	.
+*	*clefF4	*
+.	104%3c	.
+*Xped	*	*
+.	104%3A	.
+.	104%3FJ	.
+*	*rscale:1	*
+*	*Xcue	*
+!!LO:LB:g=original
+=18	=18	=18
+!	!LO:TX:b:t=P:diminuendolike accent:problem	!
+*ped	*	*
+(>16EELL\	4E^<)	.
+16D	.	.
+16G#X	.	.
+16EEJ	.	.
+!	!	!LO:DY:a
+*	*rscale:4	*
+!	!LO:TX:a:t=P:note position:złe dopasowanie nut górnej pięciolinii względem dolnej:problem	!
+8BnJ)	(>56ELL\	.
+*	*cue	*
+.	56F	<
+.	56E	.
+.	56D#X	.
+.	56E	.
+.	56F#X	.
+.	56G#X	.
+(>16EELL\	56A	.
+.	56Bn	.
+.	56c	.
+*	*clefG2	*
+.	56d	.
+16D	.	.
+.	56e	.
+.	56f#X	.
+.	56g#X	.
+16G#	56a	.
+.	56bn	.
+.	56cc	.
+.	56dd	.
+16EEJ	.	.
+.	56ee	.
+.	56ff	.
+.	56gg	.
+8BJ)	56aa	.
+.	56bb-	.
+.	56ccc	.
+.	56ddd	.
+.	56eee	.
+*Xped	*	*
+.	56fff	.
+.	56gggJJ	[[
+*	*rscale:1	*
+*	*Xcue	*
+*	*tuplet	*
+=19	=19	=19
+*ped	*	*
+(<16AAALL	4aaa)	.
+16EE	.	.
+16C	.	.
+16AAAJ	.	.
+8EJ)	8r	.
+!	!LO:TX:b:Bi:t=sempre\ forte.:dur=5e:ext=s:problem	!
+(<16AAALL	4r	.
+16EE	.	.
+16C	.	.
+16AAAJ	.	.
+8EJ)	8r	.
+=20	=20	=20
+(<16AAALL	2.rdd	.
+16EE	.	.
+16C	.	.
+16AAAJ	.	.
+8EJ)	.	.
+(<16AAALL	.	.
+16EE	.	.
+16C	.	.
+16AAAJ	.	.
+8EJ)	.	.
+!!LO:PB:g=original
+=21	=21	=21
+(<16AAALL	(>4e	.
+16EE	.	.
+16C	.	.
+16AAAJ	.	.
+8EJ)	8c	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16AAALL	[<4.A	.
+16EE	.	.
+16C	.	.
+16AAAJ	.	.
+8EJ)	.	.
+=22	=22	=22
+(<16AAALL	4.A]	.
+16EE	.	.
+16C	.	.
+16AAAJ	.	.
+8EJ)	.	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16AAALL	8cL	<
+16EE	.	.
+16C	8.e	.
+16AAAJ	.	.
+8EJ)	.	.
+*Xped	*	*
+.	16aJk	.
+=23	=23	=23
+*ped	*	*
+(<16AAALL	[<2g	.
+16EE	.	.
+16C	.	[
+16AAAJ	.	.
+8EJ)	.	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16AAALL	.	.
+16EE	.	.
+16C	8.gL]	>
+16AAAJ	.	.
+8EJ)	.	.
+*Xped	*	*
+.	16fJk	.
+=24	=24	=24
+*ped	*	*
+(<16AAALL	4.e)	]]
+16EE	.	.
+16C	.	.
+16AAAJ	.	.
+8EJ)	.	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16AAALL	4r	.
+16EE	.	.
+16C	.	.
+16AAAJ	.	.
+8EJ)	16r	.
+.	(<16e	.
+=25	=25	=25
+(<16AAALL	4e	.
+16EE	.	.
+16C	.	.
+16AAAJ	.	.
+8EJ)	16r	.
+.	16c	.
+.	16qqA/L	.
+.	16qqBn/	.
+.	16qqc/J	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16AAALL	8BnL	.
+16EE	.	.
+16C	8AJ)	.
+16AAAJ	.	.
+8EJ)	8r	.
+=26	=26	=26
+(<16AAALL	4r	.
+16EE	.	.
+16C	.	.
+16AAAJ	.	.
+8EJ)	(>8c	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16AAALL	8eL	.
+16EE	.	.
+16C	8.a	.
+16AAAJ	.	.
+8EJ)	.	.
+.	16ccJk	.
+!!LO:LB:g=original
+=27	=27	=27
+(<16AAALL	[>2bn)	.
+16EE	.	.
+16C	.	.
+16AAAJ	.	.
+8EJ)	.	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16AAALL	.	.
+16EE	.	.
+16C	8.bL]\	.
+16AAAJ	.	.
+8EJ)	.	.
+.	(>16aJk	.
+=28	=28	=28
+(<16AAALL	4e	<
+16EE	.	.
+16C	.	.
+16AAAJ	.	.
+*Xped	*	*
+.	16qqe/LL	.
+.	16qqf#X/JJ	.
+8EJ)	2f#ytt	.
+*ped	*	*
+(<16AAALL	.	.
+16DD	.	.
+16C	.	.
+16AAAJ	.	.
+*Xped	*	*
+8DJ)	.	[[
+.	16qqe/LL	.
+.	16qqf#/JJ	.
+=29	=29	=29
+*ped	*	*
+(<16GGGLL	4.g	.
+16EE	.	.
+16C	.	.
+16GGGJ	.	.
+8EJ)	.	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16GGGLL	4fn	.
+16EE	.	.
+16C	.	.
+16GGGJ	.	.
+8EJ)	8e	.
+*Xped	*	*
+.	.	.
+=30	=30	=30
+*ped	*	*
+(<16GGGLL	4.dT	.
+16DD	.	.
+16C	.	.
+16GGGJ	.	.
+8DJ)	.	.
+.	16qqc/LL	.
+.	16qqd/JJ	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16GGGLL	4e	.
+16DD	.	.
+16C	.	.
+16GGGJ	.	.
+8DJ)	16r	.
+.	16c	.
+*Xped	*	*
+.	.	.
+=31	=31	=31
+*ped	*	*
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16GGGLL	2.G)	.
+16FF	.	.
+16C	.	.
+16GGGJ	.	.
+8DJ)	.	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16GGGLL	.	.
+16FF	.	.
+16C	.	.
+16GGGJ	.	.
+*Xped	*	*
+8DJ)	.	.
+!!LO:LB:g=original
+=32	=32	=32
+*	*Xtuplet	*
+*ped	*	*
+*	*rscale:1	*
+!	!LO:TX:a:t=P:problem:grupa niemiarowa z belką ósemkową	!
+(<16GGGLL	(>112%3G^>L\	.
+*	*cue	*
+.	112%3A	.
+.	112%3G	<
+16FF	.	.
+.	112%3F#X	.
+.	112%3G	.
+16BBn	.	.
+.	112%3A	.
+.	112%3Bn	.
+16GGGJ	112%3c	.
+.	112%3d	.
+.	112%3e	.
+8DJ)	.	.
+.	112%3fn	.
+.	112%3g	.
+.	112%3a	.
+.	112%3bn	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16GGGLL	112%3cc	.
+.	112%3dd	.
+.	112%3ee	.
+16FF	.	.
+.	112%3ff	.
+*	*8va	*
+.	112%3gg	.
+16BBn	.	.
+.	112%3aa	.
+.	112%3bbny	.
+16GGGJ	112%3ccc	.
+.	112%3ddd	.
+.	112%3eee	.
+8DJ)	.	.
+.	112%3fff	.
+.	112%3ggg	.
+.	112%3aaa	.
+*Xped	*	*
+.	112%3bbb-J	[[
+*	*Xcue	*
+*	*rscale:1	*
+=33	=33	=33
+*ped	*	*
+(<16CCLL	4cccc)	.
+*	*X8va	*
+16GG	.	.
+16E	.	.
+16CCJ	.	.
+8GJ)	8r	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16CCLL	4r	.
+16GG	.	.
+16E	.	.
+!	!LO:TX:a:t=loco.	!
+16CCJ	.	.
+8GJ)	8r	.
+*Xped	*	*
+.	.	.
+=34	=34	=34
+*ped	*	*
+(<16CCLL	(<4.f#Xt	.
+16FF#X	.	.
+16E	.	.
+16CCJ	.	.
+8FJ)	.	.
+.	16qqe/LL	.
+.	16qqf#/JJ	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16CCLL	4g	.
+16FF#	.	.
+16E	.	.
+16CCJ	.	.
+8FJ)	16r	.
+*Xped	*	*
+.	16e	.
+=35	=35	=35
+*ped	*	*
+(<16BBBnLL	4Bn)	.
+16GG	.	.
+16E	.	.
+16BBBJ	.	.
+!	!LO:TX:b:t=P:diminuendolike accent:problem	!
+8GJ)	[>8ccc^<	.
+*	*rscale:1	*
+*	*cue	*
+!	!LO:TX:a:t=P:problem:grupa niemiarowa z jedną belką	!
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16BBBnLL	(>104%3cccL]\	.
+.	104%3bbn	.
+.	104%3gg	.
+16GG	.	.
+.	104%3ee	.
+.	104%3cc	.
+16E	.	.
+.	104%3b-	.
+.	104%3g	.
+16BBBJ	.	.
+.	104%3e	.
+*	*clefF4	*
+.	104%3c	.
+8GJ)	.	.
+.	104%3Bn	.
+.	104%3G	.
+.	104%3E	.
+*Xped	*	*
+.	104%3CJ	.
+*	*Xcue	*
+*	*rscale:1	*
+!!LO:LB:g=original
+=36	=36	=36
+!	!LO:TX:b:t=P:problem:w źródle brak końcówki łuku	!
+*ped	*	*
+(<16BBBnLL	[>4.BBn^)	.
+16AA	.	.
+16D#X	.	.
+16BBBJ	.	.
+8FJ)	.	.
+*	*rscale:1	*
+*	*cue	*
+!	!LO:TX:a:t=P:problem:grupa niemiarowa z jedną belką	!
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16BBBnLL	(>152%3BBLL]\	.
+.	152%3C	<
+.	152%3D#X	.
+.	152%3F#X	.
+16AA	.	.
+.	152%3A	.
+.	152%3c	.
+*	*clefG2	*
+.	152%3d#X	.
+16D#X	.	.
+.	152%3f#X	.
+.	152%3a	.
+.	152%3cc	.
+16BBBJ	.	.
+.	152%3dd	.
+.	152%3ff	.
+.	152%3aa	.
+8FJ)	.	.
+.	152%3ccc	.
+*	*8va	*
+.	152%3ddd	.
+.	152%3fff	.
+.	152%3aaa	.
+.	152%3cccc	.
+*Xped	*	*
+.	152%3ddddJJ	[[
+*	*Xcue	*
+*	*rscale:1	*
+*	*tuplet	*
+=37	=37	=37
+*ped	*	*
+(<16EE^>LL	4eeee)	.
+*	*X8va	*
+16BBn	.	.
+16G	.	.
+16EEJ	.	.
+!	!LO:TX:a:t=loco.	!
+8BnJ)	8r	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16EELL	(>[<4.g^>	.
+16BB	.	.
+16G	.	.
+16EEJ	.	.
+*Xped	*	*
+8BJ)	.	.
+=38	=38	=38
+*ped	*	*
+(<16EE-X^>LL	4g]	.
+16BBn	.	.
+16G	.	.
+16EE-J	.	.
+8B-J)	8g	.
+*Xped	*	*
+.	.	.
+.	16qqg/LL	.
+.	16qqb-X/JJ	.
+*ped	*	*
+(<16DD^>LL	4a-X	.
+16BB	.	.
+16F	.	.
+16DDJ	.	.
+8GJ)	16r	.
+.	16g)	.
+*Xped	*	*
+.	.	.
+=39	=39	=39
+*ped	*	*
+(<16CCLL	(<4g	.
+16GG	.	.
+16E-X	.	.
+16CCJ	.	.
+8GJ)	8e-X	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16CCLL	[<4.c)	.
+16GG	.	.
+16E-	.	.
+16CCJ	.	.
+8GJ)	.	.
+!!LO:LB:g=original
+=40	=40	=40
+(<16CCLL	4.c]	<
+16GG	.	.
+16E-X	.	.
+16CCJ	.	.
+8GJ)	.	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16CCLL	(>8e-XL	.
+16GG	.	.
+16E-	8.g	.
+16CCJ	.	.
+8GJ)	.	.
+*Xped	*	*
+.	16ccJk	[
+=41	=41	=41
+*ped	*	*
+(<16CCLL	4b-/	>
+16AA-X	.	.
+16E-X	.	.
+16CCJ	.	.
+8A-XJ)	8a-X	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16CCLL	[<4.e-X)	.
+16AA-	.	.
+16E-	.	.
+16CCJ	.	]
+8A-J)	.	.
+=42	=42	=42
+*	*^	*
+(<16CCLL	8e-]	4.ryy	.
+16AA-X	.	.	.
+16G-X	(>8.a-XL	.	.
+16CCJ	.	.	.
+8A-XJ)	.	.	.
+.	16a-Jk	.	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!	!
+(<16CCLL	4.a-	16a-LL	.
+!	!LO:TX:a:Bi:t=con\ forza.:dur=5s:ext=s:problem	!	!
+16AA-	.	16f	.
+16G-	.	16g-X	.
+16CCJ	.	16e-X	.
+!	!	!LO:TX:b:Bi:t=cres _:problem:dynamics with extention lines	!
+!	!	!	!LO:HP:b:Bi:t=cres:ext=cd
+8A-J)	.	16g-	<
+*Xped	*	*	*
+.	.	16A-XJJ	.
+*	*v	*v	*
+=43	=43	=43
+*ped	*	*
+(<16DD-XLL	4a-X	.
+16AA-X	.	.
+16F	.	.
+16DD-J	.	.
+8A-XJ)	8f	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DD-LL	[<4.d-X)	.
+16AA-	.	.
+16F	.	.
+16DD-J	.	.
+8A-J)	.	[
+=44	=44	=44
+(<16DD-XLL	4d-]	.
+16AA-X	.	<
+16F	.	.
+16DD-J	.	.
+8A-XJ)	(>8f	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DD-LL	8a-XL	.
+16AA-	.	.
+16F	8.dd-X	.
+16DD-J	.	.
+8A-J)	.	.
+.	16ffJk	.
+.	.	[
+!!LO:LB:g=original
+=45	=45	=45
+(<16DD-XLL	4ee-X	.
+16AA-X	.	.
+16F	.	.
+16DD-J	.	.
+8A-XJ)	8dd-X	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DD-LL	4.a-X)	.
+16AA-	.	.
+16F	.	.
+16DD-J	.	.
+8A-J)	.	.
+=46	=46	=46
+(<16DD-XLL	4r	.
+16AA-X	.	.
+16F	.	p
+16DD-J	.	.
+8A-XJ)	(>8f	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DD-LL	8a-XL	.
+16AA-	.	.
+16F	8.dd-X	.
+16DD-J	.	.
+8A-J)	.	.
+*Xped	*	*
+.	16ffJk	.
+=47	=47	=47
+*ped	*	*
+(<16DD-XLL	4ee-X	.
+16AAn	.	.
+16F	.	.
+16DD-J	.	.
+8AJ)	8dd-X	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DD-LL	[<4.an^<)	.
+16AA	.	.
+16F	.	.
+16DD-J	.	.
+8AJ)	.	.
+=48	=48	=48
+(<16DD-XLL	8aL]	.
+16AA	.	.
+16F	(<8a	.
+16DD-J	.	.
+8AJ)	8aJ	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DD-LL	8aL	.
+16AA	.	.
+16F	8f	.
+16DD-J	.	.
+8AJ)	16r	.
+.	16gJk	.
+=49	=49	=49
+(<16DD-XLL	[<2.a^)	.
+16AA	.	.
+16F	.	.
+16DD-J	.	.
+8AJ)	.	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DD-LL	.	.
+16AA	.	.
+16F	.	.
+16DD-J	.	.
+8AJ)	.	.
+!!LO:PB:g=original
+=50	=50	=50
+!	!LO:TX:a:t=P:problem:ligatura kończy się odchylona w drugą stronę	!
+(<16CC#XLL	8aL]	.
+16AA	.	<
+16F	(>8aa 8a	.
+16CC#J	.	.
+8AJ)	8aaJ 8a	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16CC#LL	8aaL 8a	.
+16AA	.	.
+.	8qccc 8qcc/	.
+16F	8.bb- 8.b-	.
+16CC#J	.	.
+8AJ)	.	.
+*Xped	*	*
+.	16aaJk 16a	[[
+.	.	.
+=51	=51	=51
+*ped	*	*
+!	!	!LO:DY:rj
+(<16DDLL	4aa 4a	ff
+16AA	.	.
+16F	.	.
+16DDJ	.	.
+8AJ)	8ff 8f	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DDLL	[>4.dd [<4.d)	.
+16AA	.	.
+16F	.	.
+16DDJ	.	.
+8AJ)	.	.
+=52	=52	=52
+(<16DDLL	(>4dd] 4d]	.
+16AA	.	.
+16F	.	.
+16DDJ	.	.
+8AJ)	8ff 8f	.
+!	!LO:TX:b:Bi:t=cres _:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:Bi:t=cres:ext=ud
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DDLL	8aaL 8a	<
+16AA	.	.
+16F	8.ddd 8.dd	.
+16DDJ	.	.
+8AJ)	.	.
+*Xped	*	*
+.	16fffJk 16ff	.
+=53	=53	=53
+*ped	*	*
+(<16BBB-LL	4eee 4ee	.
+16GG	.	.
+16D	.	.
+16BBB-J	.	.
+8EJ)	8ddd 8dd)	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16BBB-LL	(>8ggL 8g	.
+16GG	.	.
+16D	8.ddd 8.dd	.
+16BBB-J	.	.
+8EJ)	.	.
+*Xped	*	*
+.	16fffJk 16ff	.
+=54	=54	=54
+*ped	*	*
+(<16BBB-LL	4eee 4ee	.
+16GG#X	.	.
+16D	.	.
+16BBB-J	.	.
+8FJ)	8ddd 8dd)	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16BBB-LL	(>8gg#XL 8g#X	.
+16GG#	.	.
+16D	8ddd 8dd	.
+16BBB-J	.	.
+8FJ)	8fffJ 8ff)	[[
+!!LO:LB:g=original
+=55	=55	=55
+*	*Xtuplet	*
+*	*8va	*
+(<16BBB-LL	(>24ffffLL 24dddd	ff
+.	24eeee 24cccc#X	.
+16GG#X	.	.
+.	24eeee-XJJ 24ccccn	.
+16D	24ddddLL 24bbbn	.
+.	24dddd-X 24bbb-X	.
+16BBB-J	.	.
+.	24ccccnJJ 24aaa	.
+8FJ)	24bbbnLL 24ggg#X	.
+.	24bbb-X 24gggn	.
+.	24aaaJJ 24fff#X	.
+(<16BBB-LL	24aaa-XLL 24fffn	.
+.	24ggg 24eeen	.
+16GG#	.	.
+.	24fff#XJJ 24ddd#X	.
+16D	24fffnLL 24dddn	.
+.	24eee 24ccc#X	.
+16BBB-J	.	.
+.	24eee-XJJ 24cccn	.
+8FJ)	24dddnLL 24bbn	.
+.	24ddd-X 24bb-X	.
+.	24cccJJ 24aan	.
+*	*X8va	*
+=56	=56	=56
+(<16BBB-LL	24bbnLL 24gg#X	.
+.	24bb-X 24ggn	.
+16GG#X	.	.
+.	24aaJJ 24ff#X	.
+16D	24aa-XLL 24ffn	.
+.	24gg 24ee	.
+16BBB-J	.	.
+.	24ff#XJJ 24dd#X	.
+8FJ)	24ffnLL 24ddn	.
+.	24ee 24cc#X	.
+.	24ee-XJJ 24ccn	.
+(<16BBB-LL	24ddLL 24bn	.
+.	24cc 24a#X	.
+16GG#	.	.
+.	24ccnJJ 24an	.
+16D	24bLL 24g#X	.
+.	24b-X 24gn	.
+16BBB-J	.	.
+.	24aJJ 24f#X	.
+8FJ)	24g#XLL 24fn	.
+.	24g# 24e	.
+.	24g#JJ 24d	.
+*Xped	*	*
+.	.	.
+*	*tuplet	*
+!!LO:LB:g=original
+=57	=57	=57
+*ped	*	*
+!LO:TX:b:t=P:problem:znak pedalizacji przed nutą	!	!
+(<16AAALL	4A)	.
+16FF	.	.
+16D	.	.
+16AAAJ	.	.
+8FJ)	16r	.
+.	[>16a	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16AAALL	4.a^<_>	.
+16FF	.	.
+16D	.	.
+16AAAJ	.	.
+8FJ)	.	.
+=58	=58	=58
+(<16AAALL	8aL]	.
+16FF	.	.
+16D	(>8.g	.
+16AAAJ	.	.
+8FJ)	.	.
+.	16fJk	.
+!	!LO:TUP:b	!
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16AAALL	56%3eLL	.
+.	56%3f	.
+16FF	.	.
+.	56%3e	.
+16D	.	.
+.	56%3d	.
+16AAAJ	.	.
+.	56%3e	.
+8FJ)	.	.
+.	56%3f	.
+.	56%3dJJ	.
+=59	=59	=59
+(<16AAALL	8a`< 8A)	.
+16FF	.	.
+16D	8r	.
+16AAAJ	.	.
+8FJ)	8aa 8a	<
+*	*8va	*
+!	!LO:TX:b:t=P:diminuendolike accent:problem	!
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16AAALL	(>[>4.aaa^< [<4.aa	.
+16FF	.	.
+16D	.	.
+16AAAJ	.	.
+8FJ)	.	.
+=60	=60	=60
+(>16AAALL	8aaaL] 8aa]	.
+16FF	.	.
+16D	8.ggg 8.gg	.
+16AAAJ	.	.
+8FJ)	.	.
+.	16fffJk 16ff	.
+!	!LO:TUP:a	!
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(>16AAALL	56%3eeeLL 56%3ee\	.
+.	56%3fff 56%3ff	.
+16FF	.	.
+!	!LO:TX:b:Bi:t=stretto.	!
+.	56%3eee 56%3ee	.
+16D	.	.
+.	56%3ddd 56%3dd	.
+16AAAJ	.	.
+.	56%3eee 56%3ee	.
+8FJ)	.	.
+.	56%3fff 56%3ff)	.
+.	112%3r	.
+*Xped	*	*
+.	(>112%3dddJJk 112%3dd	.
+=61	=61	=61
+*ped	*	*
+(<16AAALL	8bbb-L 8bb-\	ff
+16GG	.	.
+16D	8eee 8ee	.
+16AAAJ	.	.
+8EJ)	8fffJ 8ff	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16AAALL	8aaaL 8aa\	.
+16GG	.	.
+16D	8ggg 8gg	.
+16AAAJ	.	.
+8EJ)	8bb-J 8b-	.
+*Xped	*	*
+.	.	.
+*	*X8va	*
+!!LO:LB:g=original
+=62	=62	=62
+!	!LO:TX:a:t=loco.	!
+*ped	*	*
+(<16AAALL	8dddL 8dd	.
+16GG	.	.
+16D	8gg 8g	.
+16AAAJ	.	.
+*Xped	*	*
+8EJ)	8aaJ 8a	.
+*ped	*	*
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16AAALL	8cccL 8cc	.
+16GG	.	.
+16D	8bb- 8b-	.
+16AAAJ	.	.
+8EJ)	16r	.
+*Xped	*	*
+.	16eeJk 16e	.
+=63	=63	=63
+*ped	*	*
+(<16AAALL	8ggL 8g	.
+16GG	.	.
+16D	8b- 8B-	.
+16AAAJ	.	.
+*Xped	*	*
+8EJ)	8ccJ 8c	.
+*ped	*	*
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16AAALL	8eeL 8e	.
+16GG	.	.
+16D	8dd 8d	.
+16AAAJ	.	.
+8EJ)	8gJ 8G	.
+*Xped	*	*
+.	.	.
+=64	=64	=64
+*ped	*	*
+(>16AAALL	4.b-^< 4.B-	.
+16GG	.	.
+16D	.	.
+16AAAJ	.	.
+*Xped	*	*
+.	.	.
+8EJ)	.	.
+*	*clefF4	*
+*ped	*	*
+(>16AAALL	4.c#X^< 4.C#X	.
+16GG	.	.
+16AA	.	.
+16AAAJ	.	.
+8EJ)	.	.
+*Xped	*	*
+.	.	.
+=65	=65	=65
+*ped	*	*
+(<16DDLL	4d^< 4D)	.
+16AA	.	.
+16F	.	.
+16DDJ	.	.
+*	*clefG2	*
+8AJ)	8r	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DDLL	4r	.
+16AA	.	.
+16F	.	.
+16DDJ	.	.
+*Xped	*	*
+8AJ)	8r	.
+=66	=66	=66
+*	*Xtuplet	*
+*	*8va	*
+*ped	*	*
+!LO:TX:t=P:oznaczenie ped zredukowane do p:problem	!	!
+(<16DDLL	[>4ffff 4fff	>
+16GG#X	.	.
+16F	.	.
+16DDJ	.	.
+*	*rscale:4	*
+*	*cue	*
+8G#XJ)	44ffffL]\	.
+.	(>44eeee	.
+.	44dddd	.
+.	44bbbn	.
+.	44gggn	.
+.	44fff	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DDLL	.	.
+.	44eee	.
+.	44ddd	.
+.	44bbn	.
+*	*X8va	*
+16GG#	.	.
+!	!LO:TX:a:t=loco.	!
+.	44ggn	]
+.	44ff	.
+16F	44ee	.
+.	44dd	.
+.	44bny	.
+16DDJ	.	.
+.	44gn	.
+.	44f	.
+.	44e	.
+8G#J)	.	.
+.	44d	.
+*	*clefF4	*
+.	44Bn	.
+.	44Gn	.
+.	44F	.
+*Xped	*	*
+.	44EJ	.
+*	*Xcue	*
+*	*rscale:1	*
+*	*tuplet	*
+!!LO:LB:g=original
+=67	=67	=67
+*ped	*	*
+(<16DDLL	2D^<)	.
+16AA	.	.
+16F	.	.
+16DDJ	.	.
+8AJ)	.	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DDLL	.	.
+16AA	.	.
+16F	4r	.
+16DDJ	.	.
+*Xped	*	*
+8AJ)	.	.
+*	*clefG2	*
+=68	=68	=68
+*	*^	*
+*ped	*	*	*
+!	!LO:TX:a:t=P:note position:2.f^< za (>4.bn 4.Bn:problem	!	!
+(<16DDLL	(>4.bn 4.Bn	2.f^<	.
+16GG#X	.	.	.
+16F	.	.	.
+16DDJ	.	.	.
+*Xped	*	*	*
+.	.	.	.
+8G#XJ)	.	.	.
+*ped	*	*	*
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!	!
+(<16DDLL	4.b-X 4.B-X	.	.
+16GG#	.	.	.
+16F	.	.	.
+16DDJ	.	.	.
+*Xped	*	*	*
+8G#J)	.	.	.
+*	*v	*v	*
+=69	=69	=69
+*ped	*	*
+(<16DDLL	4a 4f 4A)	.
+16AA	.	.
+16F	.	.
+16DDJ	.	.
+8AJ)	8r	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DDLL	4r	.
+16AA	.	.
+16F	.	.
+16DDJ	.	.
+*Xped	*	*
+8AJ)	8r	.
+=70	=70	=70
+*	*Xtuplet	*
+*	*8va	*
+*ped	*	*
+(<16DDLL	(>[>4ffff 4fff	.
+16GG#X	.	.
+16F	.	.
+16DDJ	.	.
+*	*rscale:4	*
+*	*cue	*
+8G#XJ)	44ffffL]\	>
+*Xped	*	*
+.	.	.
+.	44eeee	.
+.	44dddd	.
+.	44bbbn	.
+.	44gggn	.
+.	44fff	.
+*ped	*	*
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DDLL	.	.
+.	44eee	.
+.	44ddd	.
+.	44bbn	.
+*	*X8va	*
+16GG#	.	.
+!	!LO:TX:a:t=loco.	!
+.	44ggn	.
+.	44ff	.
+16F	44ee	.
+.	44dd	.
+.	44bny	.
+16DDJ	.	.
+.	44gn	.
+.	44f	.
+.	44e	.
+8G#J)	.	.
+.	44d	.
+*	*clefF4	*
+.	44Bn	.
+.	44Gn	.
+.	44F	]
+*Xped	*	*
+.	44EJ	.
+*	*Xcue	*
+*	*rscale:1	*
+*	*tuplet	*
+=71	=71	=71
+*ped	*	*
+(<16DDLL	2D^<)	.
+16AA	.	.
+16F	.	.
+16DDJ	.	.
+8AJ)	.	.
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(<16DDLL	.	.
+16AA	.	.
+16F	4r	.
+16DDJ	.	.
+*Xped	*	*
+8AJ)	.	.
+*	*clefG2	*
+!!LO:LB:g=original
+=72	=72	=72
+!	!LO:TX:b:Bi:t=stretto.	!
+*ped	*	*
+(>16DDLL\	(>40%3bnL 40%3f 40%3Bn	.
+16GG#X	.	.
+.	40%3b 40%3f 40%3B	.
+16F	.	.
+.	40%3b 40%3f 40%3B	.
+16DDJ	.	.
+*Xped	*	*
+.	40%3b 40%3f 40%3B	<
+8GJ)	.	.
+.	40%3bJ 40%3f 40%3B	.
+*ped	*	*
+!LO:TX:b:t=P:repetycja drugiej grupy w takcie zapisna za pomocą ukośnej kreski:problem	!	!
+(>16DDLL\	40%3bL 40%3f 40%3B	.
+16GG#	.	.
+.	40%3b-X 40%3f 40%3B-X	.
+16F	.	.
+.	40%3b- 40%3f 40%3B-	.
+16DDJ	.	.
+.	40%3b- 40%3f 40%3B-	.
+8GJ)	.	.
+*Xped	*	*
+.	.	.
+.	40%3b-J 40%3f 40%3B-)	[[
+=73	=73	=73
+*ped	*	*
+4F: 4AA: 4DD:	4a: 4f: 4A:	.
+8r	8r	.
+*clefG2	*	*
+*	*8va	*
+!	!	!LO:DY:rj
+4.ff 4.dd 4.a 4.f	4.dddd 4.ddd	fff
+*clefF4	*	*
+=74	=74	=74
+*	*rscale:4	*
+*	*cue	*
+!	!LO:TX:t=P:mixed beam:problem	!
+2.r	(>32bbb-L\	.
+.	32aaa\	.
+.	32fff\	.
+.	32ddd\	.
+.	32bb-\	.
+.	32aa\	.
+*	*X8va	*
+!	!LO:TX:a:t=loco.	!
+.	32ff\	.
+.	32dd\	.
+.	32b-\	.
+.	32a\	.
+.	32f\	.
+.	32d\	.
+.	32B-</	.
+.	32A</	.
+.	32F</	.
+.	32D</	.
+.	32BB-</	.
+.	32AA</	.
+.	32FF</	.
+.	32DD</	.
+.	32BBB-</	.
+.	32AAA</	.
+.	32FFF</	.
+.	32EEE<J)/	.
+*	*Xcue	*
+*	*rscale:1	*
+=75	=75	=75
+2DDD^>	2.r	.
+4r	.	.
+=76	=76	=76
+2DDD^>	2.r	.
+4r	.	.
+=77	=77	=77
+2DDD^>	2.r	.
+4r;>	.	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cres", fontstyle= "bold-italic"
+!!!RDF**kern: N = linked
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2019-05-11
+!!!EED: Leszek Kubiak
+!!!EST: 2019-05-16
+!!!EED2: Antoni Szymański
+!!!EST2: 2020-04-24
+!!!rism-genre: Prelude
+!!!rism-key: D minor
+!!!rism-opus: op. 28, no. 24
+!!!rism-title: Prelude in D minor op. 28, no. 24
+!!!rism-permalink: https://opac.rism.info/search?id=1001065091&View=rism
+!!!rism-773a-OPR: 1001065100
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001065100&View=rism

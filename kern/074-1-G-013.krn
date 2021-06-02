@@ -1,0 +1,355 @@
+!!!!SEGMENT: 074-1-G-013.krn
+!!!COM: Fryderyk Chopin
+!!!OTL: Niema czego trzeba
+!!!OPS: Op. 74
+!!!PTL: Zbiór śpiewów polskich z towarzyszeniem fortepianu
+!!!PPR: Gebethner
+!!!PPP: Warsaw
+!!!NIFC-rismID: 300605199
+!!!NIFC-shelfmark: PL-Wbfc 963/n
+!!!OMD: Lento.
+!!!OMD: M. M. [quarter] = 63.
+!!!system-decoration: (s1){(s2,s3)}
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*	*part1
+*staff3	*staff2	*	*staff1	*	*
+*	*I"PIANO.	*	*I"No. 13.CANTO.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[]	*k[]	*	*k[]	*	*
+*a:	*a:	*	*a:	*	*
+*M2/4	*M2/4	*	*M2/4	*	*
+*MM63	*MM63	*	*MM63	*	*
+=1	=1	=1	=1	=1	=1
+*	*^	*	*	*	*
+!LO:TX:a:B:t=e legato.	!	!	!	!	!	!
+!	!	!	!LO:DY:rj	!	!	!
+4A 4AA	4a 4e 4c	4ryy	p	2rdd	.	.
+4A 4D	8.aL	4f 4d	.	.	.	.
+.	16bJk	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+4A 4AA	4a 4e 4c	4ryy	.	2rdd	.	.
+4A 4D	8.aL	4f 4d	.	.	.	.
+.	16bJk	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+4A 4AA	4a 4e 4c	4ryy	.	2rdd	.	.
+4BB	8.g#XL	4e 4B	.	.	.	.
+.	16aJk	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=4	=4	=4	=4	=4	=4
+4BB	4f#X 4d#X 4A< 4G<	.	2rdd	.	.
+4EE	4e 4B< 4G#X<	.	.	.	.
+!LO:TX:t=𝄋	!LO:TX:a:t=𝄋	!	!LO:TX:a:t=𝄋	!	!
+=5||	=5||	=5||	=5||	=5||	=5||
+*	*	*	*	*^	*
+*	*	*	*	*	*^	*
+!	!	!LO:DY:rj	!	!	!	!	!
+!	!	!	!LO:TX:a:B:t=con espressione.	!	!	!	!
+!	!	!	!	!	!	!	!LO:HP:a
+!	!	!	!	!	!	!	!LO:DY:a:rj
+2E 2EE	2e 2d 2B< 2G#X<	p	4e	1. Mgła	2. Nie-	3. Ko-	p <
+.	.	.	8.b	mi	-ma	-chać	[
+.	.	.	16cc	do	bo,	i	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2E 2AA	2e 2c 2A<	.	[4a	o-	nie-	śpie-	.
+.	.	.	(8qb/	.	.	.	.
+.	.	.	8a])	.	.	.	.
+.	.	.	8g	-czu	-ma,	-wać	.
+=7	=7	=7	=7	=7	=7	=7	=7
+4D	2d 2B< 2A<	.	4f	za-	cze-	by-	.
+4DD^<	.	.	8g	wie-	-go	-ło-	.
+.	.	.	8f	-wa	po-	-by	.
+!!LO:LB:g=original
+=8	=8	=8	=8	=8	=8	=8	=8
+!	!	!	!	!	!	!	!LO:HP:a
+2E 2AA	2e 2c 2A<	.	4.e	1. z ło-	2. trze-	3. bło-	<
+.	.	.	8ee	-na	-ba!	-go!	[
+=9	=9	=9	=9	=9	=9	=9	=9
+2E 2EE	2g#X 2d 2B	.	8ddL	W pra-	Da-	W cu-	.
+.	.	.	8ccJ	.	.	.	.
+.	.	.	8b	-wo	-wno	-dzéy	.
+.	.	.	8cc	i	mi	tu	.
+=10	=10	=10	=10	=10	=10	=10	=10
+4F 4FF	4a 4c 4A	.	4a	w le-	tu-	pust-	.
+4D 4DD	4a 4f 4B 4A	.	4b	-wo	tay	-ce	.
+=11	=11	=11	=11	=11	=11	=11	=11
+*ped	*	*	*	*	*	*	*
+!	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!	!
+2E 2EE	2g#X 2e 2d 2B	.	(<12eL	ćmi	nu-	śnił-	.
+.	.	.	12fJ	.	.	.	.
+.	.	.	12e)	na	-dno	-bym	.
+*Xped	*	*	*	*	*	*	*
+.	.	.	4g#X	o-	nie-	jak	.
+=12	=12	=12	=12	=12	=12	=12	=12
+4A 4AA\	4a 4e 4c	.	4a	-ko-	-mi-	w do-	.
+4E 4AA\	4e 4c 4A	.	8cc	-ło	-ło:	-mu:	.
+.	.	.	8r	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+*ped	*	*	*	*	*	*	*
+!	!	!LO:DY:rj	!	!	!	!	!LO:HP:b
+[<2C	[>2e [<2c [>2G<	mf	(>4cc	Dum-	Ni	Ko-	<
+.	.	.	8dd	-ka	me-	chać	.
+.	.	.	8ee)	-na	-go	o!	[[
+=14	=14	=14	=14	=14	=14	=14	=14
+2C]	2e] 2c] 2G<]	.	4g	us-	słoń-	ko-	.
+*Xped	*	*	*	*	*	*	*
+.	.	.	4a	-tach	-ca!	chać	.
+!!LO:PB:g=original
+=15	=15	=15	=15	=15	=15	=15	=15
+2GG	2d 2B< 2G<	.	4b	1. brzą-	2. ni	3. i	.
+!	!	!	!	!	!	!	!LO:HP:a
+.	.	.	8cc	-knie	me-	nie-	>
+.	.	.	8b	i	-go	-ma	]
+=16	=16	=16	=16	=16	=16	=16	=16
+2DD	2f 2d 2A<	.	4a	sko-	Nie-	ko-	.
+.	.	.	8b	-na	ba!	-go!	.
+.	.	.	8r	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+*ped	*	*	*	*	*	*	*
+2E 2EE	2e 2d 2B< 2#G<	.	4g#X	Nie-	Ni	Śpie-	.
+.	.	.	8e	-ma	me-	-wać	.
+*Xped	*	*	*	*	*	*	*
+.	.	.	8e	och!	-go	o!	.
+=18	=18	=18	=18	=18	=18	=18	=18
+4AA\	4e 4c 4A	.	(>4a	nie-	cze-	śpie-	.
+4DD\	4f 4d 4A<	.	8.dd)	.	.	.	.
+.	.	.	16a	-ma	-goś!	-wać	.
+=19	=19	=19	=19	=19	=19	=19	=19
+4EE	4e 4c 4A<	.	4cc	bo	czem	i	.
+4E	4e 4d 4#G<	.	8.b	nie	ser-	nie-	.
+.	.	.	16cc	we-	-ce	-ma	.
+=20	=20	=20	=20	=20	=20	=20	=20
+4AA	4e 4c 4A<	.	4a	so-	ży-	ko-	.
+4C	4e 4c 4G<	.	4gn	-ło	-ło	-mu!	.
+=21	=21	=21	=21	=21	=21	=21	=21
+*ped	*	*	*	*	*	*	*
+[<2C	[>2e [<2c [>2G<	.	(>4cc	Dum-	Ni	ko-	.
+.	.	.	8dd	-ka	me-	-chać	.
+.	.	.	8ee)	na	-go	o!	.
+!!LO:LB:g=original
+=22	=22	=22	=22	=22	=22	=22	=22
+2C]	2e] 2c] 2G<]	.	4g	1. u-	2. słoń-	3. ko-	.
+*Xped	*	*	*	*	*	*	*
+.	.	.	4a	-stach	-ca!	-chać	.
+=23	=23	=23	=23	=23	=23	=23	=23
+2GG	2d 2B< 2G<	.	4b	brzą-	ni	i	.
+!	!	!	!	!	!	!	!LO:HP:a
+.	.	.	8cc	-knie	me-	nie-	>
+.	.	.	8b	i	-go	-ma	]
+=24	=24	=24	=24	=24	=24	=24	=24
+2DD\	2f 2d 2A<	.	4a	sko-	Nie-	ko-	.
+.	.	.	4b	-na	ba!	-go!	.
+=25	=25	=25	=25	=25	=25	=25	=25
+2E 2EE	2e 2d 2B< 2#G<	.	4g#X	Nie-	Ni	Śpie-	.
+.	.	.	8e	-ma	me-	-wać	.
+.	.	.	8e	och!	go	o!	.
+=26	=26	=26	=26	=26	=26	=26	=26
+4AA	4e 4c 4A<	.	(>4a	nie-	cze-	śpie-	.
+4D 4DD	4f 4d 4A<	.	8dd)	.	.	.	.
+.	.	.	8a	-ma	-goś	-wać	.
+=27	=27	=27	=27	=27	=27	=27	=27
+[<2E [<2EE	[>2e [>2c [>2A<	.	4cc	bo	czém	i	.
+!	!	!	!	!	!	!	!LO:HP:a
+.	.	.	8b	nie	ser-	nie	<
+.	.	.	8a	we-	-ce	ma	.
+!!LO:LB:g=original
+=28	=28	=28	=28	=28	=28	=28	=28
+!	!	!	!	!	!	!	!LO:DY:a:rj
+2E] 2EE]	2e] 2c] 2A<]	.	[>2ee	1. so-	2. ży-	3. ko-	sf
+=29	=29	=29	=29	=29	=29	=29	=29
+[<2E [<2EE	2e 2B< 2A<	.	(>8eeL]	.	.	.	>
+.	.	.	8ff	.	.	.	.
+.	.	.	8ee	.	.	.	.
+.	.	.	8dd#XJ)	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+2E] 2EE]	4e 4d 4B< 4G#<	.	(>8eeL	.	.	.	.
+.	.	.	8b	.	.	.	.
+.	4#g 4e 4d	.	8dd	.	.	.	.
+.	.	.	8ccJ)	.	.	.	.
+!!LO:LB:g=original
+=31	=31	=31	=31	=31	=31	=31	=31
+*	*^	*	*	*	*	*	*
+!	!	!	!LO:DY:rj	!	!	!	!	!
+4A 4AA	4a 4e 4c	4ryy	p	4a	-ło!	-ło!	-mu!	.
+4A 4D	8.aL	4f 4d	.	4r	.	.	.	.
+.	16bJk	.	.	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*
+*	*	*	*	*	*v	*v	*
+=32	=32	=32	=32	=32	=32	=32
+4A 4AA	4a 4e 4c	4ryy	.	2rdd	.	.
+4A 4D	8.aL	4f 4d	.	.	.	.
+.	16bJk	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33
+4A 4AA	4a 4e 4c	4ryy	.	2rdd	.	.
+4E	8.g#XL	4e 4B	.	.	.	.
+.	16aJk	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=34	=34	=34	=34	=34	=34
+!LO:TX:B:t=Dal Segno.	!	!	!	!	!
+4BB	4f#X 4d#X 4B< 4A<	.	2rdd	.	.
+4E 4EE	4e 4B< 4G#X<	.	.	.	.
+!LO:TX:t=𝄋	!LO:TX:a:t=𝄋	!	!LO:TX:a:t=𝄋	!	!
+!!LO:PB:g=original
+==35!||	==35!||	==35!||	==35!||	==35!||	==35!||
+!	!	!	!	!	!LO:HP:a
+!	!	!	!	!	!LO:DY:a:rj
+!	!LO:TX:a:B:t=e legato.	!	!LO:TX:a:B:t=con espressione.	!	!
+!	!	!LO:DY:a:rj	!	!	!
+2E 2EE	2e 2d 2B< 2G#X<	p	4e	4. Nie-	p <
+.	.	.	8.b	-kie-	.
+.	.	.	16cc	-dy	[
+=36	=36	=36	=36	=36	=36
+2E 2AA	2e 2c 2A<	.	4a	wzro-	.
+.	.	.	(<8qb/	.	.
+.	.	.	8a)	.	.
+.	.	.	8g	kiem	.
+=37	=37	=37	=37	=37	=37
+4AA	2d 2B< 2A<	.	4f	ku	.
+4DD^>	.	.	8g	Nie-	.
+.	.	.	8f	-bu	.
+=38	=38	=38	=38	=38	=38
+!	!	!	!	!	!LO:HP:a
+2E 2AA	2e 2c 2A<	.	4.e	wier-	<
+.	.	.	8ee	-cę	[
+=39	=39	=39	=39	=39	=39
+2E 2EE	2g#X 2d 2B	.	8ddL	Po-	.
+.	.	.	8ccJ	.	.
+.	.	.	8b	-świs-	.
+.	.	.	8cc	-tom	.
+=40	=40	=40	=40	=40	=40
+4F 4FF	4a 4c 4A	.	4a	wia-	.
+4D 4DD	4a 4f 4B< 4A<	.	4b/	-tru	.
+=41	=41	=41	=41	=41	=41
+*ped	*	*	*	*	*
+!LO:TX:t=P:znak pedalizacji na kresce taktowej:problem	!	!	!	!	!
+!	!	!	!LO:TX:a:t=P:stem-side tuplet number:problem	!	!
+2E 2EE	2g#X 2e 2d 2B<	.	(>12eL	wca-	.
+.	.	.	12fJ	.	.
+.	.	.	12e)	-le	.
+*Xped	*	*	*	*	*
+.	.	.	4g#X	nie	.
+=42	=42	=42	=42	=42	=42
+4A 4AA\	4a 4e 4c	.	4a	ła-	.
+4E 4AA\	4e 4c 4A<	.	8cc	-ję:	.
+.	.	.	8r	.	.
+!!LO:LB:g=original
+=43	=43	=43	=43	=43	=43
+*ped	*	*	*	*	*
+!	!	!LO:DY:rj	!	!	!LO:HP:b
+[<2C	[>2e [<2c [>2G<	mf	(>4cc	4. Zim-	<
+.	.	.	8dd	-no	.
+.	.	.	8ee)	o!	[[
+=44	=44	=44	=44	=44	=44
+2C]	2e] 2c] 2G<]	.	4g	zim-	.
+*Xped	*	*	*	*	*
+.	.	.	4a	-no	.
+=45	=45	=45	=45	=45	=45
+2GG	2d 2B< 2G<	.	4b	lecz	.
+!	!	!	!	!	!LO:HP:b
+.	.	.	8cc	pu-	>
+.	.	.	8b	-ka	]
+=46	=46	=46	=46	=46	=46
+2DD	2f 2d 2A<	.	4a	ser-	.
+.	.	.	4b/	-ce	.
+=47	=47	=47	=47	=47	=47
+2E 2EE	2e 2d 2B< 2#G<	.	4g#X	Że	.
+.	.	.	8e	z dum-	.
+.	.	.	8e	-ką	.
+=48	=48	=48	=48	=48	=48
+4AA\	4e 4c 4A<	.	(>4a	w in-	.
+4DD\	4f 4d 4A<	.	8.dd)	.	.
+.	.	.	16a	-sze	.
+=49	=49	=49	=49	=49	=49
+4EE	4e 4c 4A<	.	4cc	od-	.
+4E	4e 4d 4#G<	.	8.b	-le-	.
+.	.	.	16cc	-cim	.
+=50	=50	=50	=50	=50	=50
+4AA	4e 4c 4A<	.	4a	kra-	.
+4C	4e 4c 4G<	.	4gn	-je.	.
+!!LO:LB:g=original
+=51	=51	=51	=51	=51	=51
+[<2C	[>2e [<2c [>2G<	.	(>4cc	4. Zim-	.
+.	.	.	8dd	-no	.
+.	.	.	8ee)	o!	.
+=52	=52	=52	=52	=52	=52
+2C]	2e] 2c] 2G<]	.	4g	zim-	.
+.	.	.	4a	-no	.
+=53	=53	=53	=53	=53	=53
+2GG	2d 2B< 2G<	.	4b	lecz	.
+!	!	!	!	!	!LO:HP:a
+.	.	.	8cc	pu-	>
+.	.	.	8b	-ka	]
+=54	=54	=54	=54	=54	=54
+2DD\	2f 2d 2A<	.	4a	ser-	.
+.	.	.	4b	-ce	.
+=55	=55	=55	=55	=55	=55
+2E 2EE	2e 2d 2B< 2#G<	.	4g#X	Że	.
+.	.	.	8e	z dum-	.
+.	.	.	8e	-ką	.
+=56	=56	=56	=56	=56	=56
+4AA	4e 4c 4A<	.	(4a	w in-	.
+4D 4DD	4f 4d 4A<	.	8dd)	.	.
+.	.	.	8a	-sze	.
+=57	=57	=57	=57	=57	=57
+[<2E [<2EE	[>2e [<2c [>2A<	.	4cc	od-	.
+!	!	!	!	!	!LO:HP:a
+.	.	.	8b	-le-	<
+.	.	.	8a	-cim	.
+!!LO:LB:g=original
+=58	=58	=58	=58	=58	=58
+!	!	!	!	!	!LO:DY:a:rj
+2E] 2EE]	2e] 2c] 2A<]	.	[>2ee	4. kra-	sf
+=59	=59	=59	=59	=59	=59
+[<2E [<2EE	2e 2B< 2A<	.	(>8eeL]	.	>
+.	.	.	8ff	.	.
+.	.	.	8ee	.	.
+.	.	.	8dd#XJ)	.	.
+=60	=60	=60	=60	=60	=60
+2E] 2EE]	4e 4d 4#G<	.	(>8eeL	.	.
+.	.	.	8b	.	.
+.	4#g 4e 4d	.	8ddn	.	.
+.	.	.	8ccJ)	.	.
+!!LO:LB:g=original
+=61	=61	=61	=61	=61	=61
+*	*^	*	*	*	*
+!	!	!	!LO:DY:rj	!	!	!
+4E 4AA\	4a 4e 4c	4ryy	p	4a	-je.	.
+4D	8.aL	4f 4d	.	4r	.	.
+.	16bJk	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62
+4A 4AA	4a 4e 4c	4ryy	.	2rdd	.	.
+4A 4D	8.aL	4f 4d	.	.	.	.
+.	16bJk	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63
+4A 4AA	4a 4e 4c	4ryy	.	2rdd	.	.
+4E	8g#XL	4e 4B	.	.	.	.
+.	8aJk	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=64	=64	=64	=64	=64	=64
+4BB	4f#X 4d#X 4B< 4A<	.	2rdd	.	.
+4E 4EE	4e 4B< 4G#X<	.	.	.	.
+=65	=65	=65	=65	=65	=65
+[>2E [<2EE^>	2b 2g#X 2d	.	2rdd	.	.
+=66	=66	=66	=66	=66	=66
+2E] 2EE]	4cc 4#g 4e	.	2rdd	.	.
+.	4g#yX 4e 4B	.	.	.	.
+=67	=67	=67	=67	=67	=67
+.	8qg#X/	.	.	.	.
+2E 2AA	2a 2e 2c	.	2rdd	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cresc.", 'fontstyle="normal" 
+!!!RDF**dynam: > = "dim.", 'fontstyle="normal"
+!!!ENC: Antoni Szymański
+!!!END: 2019-08-26
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: 2019-10-21
+!!!rism-genre: Nie ma czego trzeba
+!!!rism-key: A minor
+!!!rism-opus: op.  74, no. 13
+!!!rism-title: Il n'y a pas ce qu'il faut in A minor op.  74, no. 13
+!!!rism-permalink: https://opac.rism.info/search?id=300605199&View=rism
+!!!rism-773a-OPR: 300605186
+!!!rism-parent-permalink: https://opac.rism.info/search?id=300605186&View=rism

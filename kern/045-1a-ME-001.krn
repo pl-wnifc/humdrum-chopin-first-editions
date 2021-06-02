@@ -1,0 +1,1186 @@
+!!!!SEGMENT: 045-1a-ME-001.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Prelude
+!!!OPS: Op. 45
+!!!PTL: PRÉLUDE pour le PIANO
+!!!PPR: Mechetti
+!!!PPP: Vienna
+!!!NIFC-rismID: 1001039534
+!!!NIFC-shelfmark: PL-Wbfc 3818
+!!!OMD: Sostetuno.
+!!!system-decoration: {(s1,s2)}
+**kern	**fing	**kern	**fing	**dynam
+*part1	*part1	*part1	*part1	*part1
+*staff2	*	*staff1	*	*
+*clefF4	*	*clefG2	*	*
+*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*
+*c#:	*	*c#:	*	*
+*M2/2	*	*M2/2	*	*
+*met(c|)	*	*met(c|)	*	*
+=1	=1	=1	=1	=1
+4r	.	4r	.	p
+4g#> 4e>	.	(>4cc#/	.	.
+4f#> 4dn>	.	4b/	.	.
+4e> 4c#>	.	4a/	.	.
+=2	=2	=2	=2	=2
+4d# 4B#X	.	4g#	.	.
+4e 4c#	.	4a	.	.
+4dn 4Bn	.	4gn	.	.
+4c# 4A	.	4f#	.	.
+=3	=3	=3	=3	=3
+4B 4G#	.	4e#X	.	.
+4c# 4A	.	4f#	.	.
+4B 4G#	.	4en	.	.
+4A 4F#	.	4dn	.	.
+=4	=4	=4	=4	=4
+*^	*	*	*	*
+*	*^	*	*	*	*
+4A	2E	2rBBBByy	.	2.c#	.	.
+2.G#	.	.	.	.	.	.
+.	2D#/	4rEE	.	.	.	.
+.	.	(<4GGG#\	.	4B#X	.	.
+*	*v	*v	*	*	*	*
+=5	=5	=5	=5	=5	=5
+*	*	*	*ped	*	*
+2G# 2E	8CCC#L	.	4.d#	.	>
+!	!	!	!LO:TX:i:t=sempre legato.	!	!
+.	8CC#	.	.	.	.
+.	8GG#	.	.	.	.
+.	8EJ	.	8c#)	.	]
+2rcyy	8D#L	.	2r	.	.
+.	8C#	.	.	.	.
+.	8G#	.	.	.	.
+*	*	*	*Xped	*	*
+.	8eJ	.	.	.	.
+*v	*v	*	*	*	*
+!!LO:LB:g=original
+=6	=6	=6	=6	=6
+*	*	*^	*	*
+8d#>\L	.	2r	2reyy	.	.
+8c#>	.	.	.	.	.
+8e>	.	.	.	.	.
+8f#>J)	.	.	.	.	.
+!	!	!	!LO:N:vis=2	!	!
+2r	.	(>2gg# 2g#	8g#L	.	.
+.	.	.	8cc#	.	.
+.	.	.	8dd#	.	.
+.	.	.	8qff#/	.	.
+.	.	.	8eeJ	.	.
+=7	=7	=7	=7	=7	=7
+!	!	!	!LO:TX:a:t=P:całe nuty w pierwodruku są na środku taktu:problem	!	!
+8r	.	[2.dd#\	1gg# 1g#	.	>
+(<8CC#L	.	.	.	.	.
+8GG#	.	.	.	.	.
+8EJ	.	.	.	.	.
+8D#L	.	.	.	.	.
+8C#	.	.	.	.	.
+8G#	.	8dd#\L]	.	.	.
+8eJ	.	8cc#J)	.	.	]
+=8	=8	=8	=8	=8	=8
+*	*	*	*^	*	*
+8d#>L	.	2reyy	2rb	2.rcccyy	.	.
+8c#>	.	.	.	.	.	.
+8e>	.	.	.	.	.	.
+8g#>J)	.	.	.	.	.	.
+!	!	!LO:N:vis=4.	!	!	!	!
+4r	.	(>8gg# 8g#L	4.g#\	.	.	<
+.	.	8cc#/	.	.	.	.
+8r	.	8ee	.	4ee\	.	.
+(<[8FF#	.	8aa#XJ 8a#X	8rEyy	.	.	[
+*	*	*v	*v	*v	*	*
+=9	=9	=9	=9	=9
+*	*	*ped	*	*
+.	.	8qa#X/	.	>
+!	!	!LO:TX:a:t=P:arpeggio przed przednutką:problem	!	!
+8FF#L]	.	4.ccc#: 4.ee: 4.a#y:	.	.
+8BBB	.	.	.	.
+8FF#	.	.	.	.
+8D#J	.	8bb) 8dd# 8b	.	]
+8C#L	.	2r	.	.
+8BB	.	.	.	.
+8F#	.	.	.	.
+8d#J	.	.	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+!!LO:LB:g=original
+=10	=10	=10	=10	=10
+*	*	*^	*	*
+8c#>L	.	2rcccyy	2rb	.	.
+8B>	.	.	.	.	.
+8d#>	.	.	.	.	.
+8e>J)	.	.	.	.	.
+!	!	!	!LO:N:vis=2	!	!
+2r	.	(>2ff# 2f#	8f#L	.	>
+.	.	.	8b	.	.
+.	.	.	8cc#	.	.
+.	.	.	8qee/	.	.
+.	.	.	8ddnJ	.	.
+=11	=11	=11	=11	=11	=11
+!	!	!	!LO:TX:a:t=P:całe nuty w pierwodruku są w połowie taktu:problem	!	!
+*	*	*	*ped	*	*
+8r	.	[>2.cc#	1ff# 1f#	.	.
+(<8BBBL	.	.	.	.	.
+8FF#	.	.	.	.	.
+8DnJ	.	.	.	.	.
+8C#L	.	.	.	.	.
+8BB	.	.	.	.	.
+8F#	.	8cc#\L]	.	.	.
+8dnJ	.	8bJ)	.	.	]
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12
+8c#>L	.	2rcyy	2rb	.	.
+8B>	.	.	.	.	.
+8dn>	.	.	.	.	.
+8e>J)	.	.	.	.	.
+!	!	!LO:N:vis=4.	!	!	!
+4r	.	(>8ff# 8f#L	4.f#\	.	<
+.	.	8b/	.	.	.
+8r	.	8ddn	.	.	.
+(<[8EE	.	8gg#J 8g#	8rcyy	.	[
+*	*	*v	*v	*	*
+=13	=13	=13	=13	=13
+.	.	8qg#/	.	.
+*	*	*ped	*	*
+8EEL]	.	4.bb 4.ddn 4.g#	.	>
+8AAA	.	.	.	.
+8EE	.	.	.	.
+8C#J	.	8aa) 8cc# 8a	.	]
+8BBL	.	4r	.	.
+8AA	.	.	.	.
+8E	.	(>4aa 4cc# 4a	.	.
+*	*	*Xped	*	*
+8c#J)	.	.	.	.
+=14	=14	=14	=14	=14
+*	*	*ped	*	*
+8r	.	4aa 4cc# 4a	.	.
+(>8EE#X\L	.	.	.	.
+8C#	.	4gg# 4b 4g#	.	.
+*	*	*Xped	*	*
+8c#J)	.	.	.	.
+*	*	*ped	*	*
+8r	.	4ff# 4a 4f#	.	.
+(>8FF#L	.	.	.	.
+8C#	.	4gg# 4b 4g#	.	.
+*	*	*Xped	*	*
+8c#J)	.	.	.	.
+!!LO:LB:g=original
+=15	=15	=15	=15	=15
+*	*	*^	*	*
+*	*	*	*ped	*	*
+!	!	!	!LO:TX:a:t=P:w pierwodruku cała nuta jest na środku taktu:problem	!	!
+8r	.	[>2.ff#\ [<2.f#\	1a	.	.
+(>8DDnL	.	.	.	.	.
+8AA	.	.	.	.	.
+8F#J	.	.	.	.	.
+8EL	.	.	.	.	.
+8Dn	.	.	.	.	.
+8A	.	8.ff#\L] 8.f#\]	.	.	.
+8f#J)	.	.	.	.	.
+*	*	*	*Xped	*	*
+.	.	16eeJk 16e	.	.	.
+=16	=16	=16	=16	=16	=16
+*	*	*	*ped	*	*
+8r	.	4ee\ 4e\	2.a/	.	.
+(>8DDnL	.	.	.	.	.
+8AA	.	2ddn\ 2dn\	.	.	.
+8F#J	.	.	.	.	.
+8EL	.	.	.	.	.
+8Dn	.	.	.	.	.
+8A	.	4a^>\ 4d\	4rGyy	.	.
+8f#J)	.	.	.	.	.
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17
+*	*	*	*ped	*	*
+!	!	!	!LO:TX:a:t=P:w pierwodruku całe nuty są na środku taktu:problem	!	!
+8r	.	[<2.dn/	1b 1gn 1B	.	.
+(<8GGGnL	.	.	.	.	.
+!	!	!	!LO:TX:a:i:t=ten&colon;	!	!
+8GGn	.	.	.	.	.
+8DnJ	.	.	.	.	.
+8EL	.	.	.	.	.
+8D	.	.	.	.	.
+8Gn	.	8d/L]	.	.	.
+*	*	*	*Xped	*	*
+8EJ	.	8eJ	.	.	.
+=18	=18	=18	=18	=18	=18
+*	*	*	*ped	*	*
+8DnL	.	4.a 4.f#	2A	.	.
+8AA	.	.	.	.	.
+8DDn	.	.	.	.	.
+8F#J	.	8f# 8dn	.	.	.
+8DL	.	2a 2f# [2A	2rFyy	.	.
+8AA	.	.	.	.	.
+8GGn	.	.	.	.	.
+*	*	*	*Xped	*	*
+8FF#J	.	.	.	.	.
+*	*	*v	*v	*	*
+=19	=19	=19	=19	=19
+*	*	*ped	*	*
+8FFF#L	.	2a) 2f# 2c# 2A]	.	.
+8FF#	.	.	.	.
+8C#	.	.	.	.
+8AJ	.	.	.	.
+8G#L	.	2r	.	.
+8F#	.	.	.	.
+8c#	.	.	.	.
+*	*	*Xped	*	*
+8a>J	.	.	.	.
+!!LO:PB:g=original
+=20	=20	=20	=20	=20
+*	*	*^	*	*
+8g#>L	.	2rdd	2rcccyy	.	.
+8f#>	.	.	.	.	.
+8a>	.	.	.	.	.
+8b>J)	.	.	.	.	.
+!	!	!LO:N:vis=2	!	!	!
+2r	.	8ccc#L 8cc#	(>2ccc#/	.	>
+.	.	8ff#\	.	.	.
+.	.	8gg#	.	.	.
+.	.	8qbb/	.	.	.
+.	.	8aaJ	.	.	.
+=21	=21	=21	=21	=21	=21
+*	*	*	*ped	*	*
+!	!	!	!LO:TX:a:t=P:całe nuty w pierwodruku są na środku taktu:problem	!	!
+8r	.	[2.gg#	1ccc# 1cc#	.	.
+(<8FF#\L	.	.	.	.	.
+8C#	.	.	.	.	.
+8AJ	.	.	.	.	.
+8G#L	.	.	.	.	.
+8F#	.	.	.	.	.
+8c#	.	8gg#\L]	.	.	.
+8aJ	.	8ff#J)	.	.	]
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22
+*	*	*	*^	*	*
+8g#>L	.	2rdd	2.rddddyy	2raayy	.	.
+8f#>	.	.	.	.	.	.
+8a>	.	.	.	.	.	.
+8b>J)	.	.	.	.	.	.
+4r	.	8cc#L	.	(>4.ccc#/ 4.cc#	.	<
+.	.	8ff#\	.	.	.	.
+8r	.	8aa	4aa/	.	.	.
+*	*	*	*	*ped	*	*
+(<[8BB	.	8ddd#J 8dd#	.	8rFyy	.	[
+*	*	*v	*v	*v	*	*
+=23	=23	=23	=23	=23
+.	.	8qdd#/	.	.
+8BB\L]	.	4.fff# 4.aa 4.dd#	.	>
+8EE	.	.	.	.
+8BB	.	.	.	.
+8G#J	.	8eee) 8gg# 8ee	.	]
+8F#L	.	2r	.	.
+8E	.	.	.	.
+8B	.	.	.	.
+8g#>J	.	.	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+!!LO:LB:g=original
+=24	=24	=24	=24	=24
+*	*	*^	*	*
+8f#>L	.	2rdd	2rddyy	.	.
+8e>	.	.	.	.	.
+8g#>	.	.	.	.	.
+8a>J)	.	.	.	.	.
+!	!	!LO:N:vis=2	!	!	!
+2r	.	8bb 8bL	(>2bb/	.	.
+.	.	8ee\	.	.	.
+.	.	8ff#	.	.	.
+.	.	8qaa/	.	.	.
+.	.	8ggnJ	.	.	.
+=25	=25	=25	=25	=25	=25
+*	*	*	*ped	*	*
+!	!	!	!LO:TX:a:t=P:całe nuty w pierdwodruku są na środku taktu:problem	!	!
+8r	.	[2.ff#\	1bb 1b	.	>
+(<\8EEL	.	.	.	.	.
+8BB	.	.	.	.	.
+8GnJ	.	.	.	.	.
+8F#L	.	.	.	.	.
+8E	.	.	.	.	.
+8B	.	8ff#L]	.	.	.
+8gnJ	.	8eeJ)\	.	.	]
+*	*	*	*Xped	*	*
+=26	=26	=26	=26	=26	=26
+*	*	*	*^	*	*
+8f#>L	.	2rdd	2.rddddyy	2raayy	.	.
+8e>	.	.	.	.	.	.
+8g#>	.	.	.	.	.	.
+8a>J)	.	.	.	.	.	.
+4r	.	8bL	.	(>4.bb/ 4.b	.	<
+.	.	8ee\	.	.	.	.
+8r	.	8ggn	4ggn/	.	.	.
+*	*	*	*	*ped	*	*
+(<[<8AA	.	8ccc#J 8cc#	.	8rByy	.	.
+*	*	*v	*v	*v	*	*
+=27	=27	=27	=27	=27
+8AAL]	.	4ccc# 4ggn 4cc#	.	.
+8BB-X	.	.	.	[
+8Fn	.	2dddn 2ffn 2ddn	.	.
+8dnJ	.	.	.	.
+8cnL	.	.	.	.
+8B-X	.	.	.	.
+8fn>	.	4cccn 4ff 4ccn	.	.
+8ddny>J)	.	.	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+!!LO:LB:g=original
+=28	=28	=28	=28	=28
+*	*	*ped	*	*
+8r	.	4cccn 4ee-X 4ccn	.	.
+(>\8EE-XL	.	.	.	.
+8BB-X	.	4bb-X 4ggn 4b-X	.	.
+8GnJ	.	.	.	.
+8FnL	.	4gg 4ee- 4gn	.	.
+8E-X	.	.	.	.
+8B-X	.	4bb- 4gg 4b-	.	.
+8gnJ)	.	.	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+=29	=29	=29	=29	=29
+*	*	*ped	*	*
+8r	.	1ffn 1ddn 1b-X 1fn	.	>
+(>\8FFnL	.	.	.	.
+8Dn	.	.	.	.
+8FnJ	.	.	.	.
+8GnL	.	.	.	.
+8F	.	.	.	.
+8e-X	.	.	.	.
+8dnJ)	.	.	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+=30	=30	=30	=30	=30
+*	*	*^	*	*
+*	*	*	*ped	*	*
+!	!	!	!LO:TX:a:t=P:całe nuty w pierwodruku są na środku taktu:problem	!	!
+(>8FFFnL	.	[2ffn [<2ddn	1a 1e-X	.	.
+8FFn	.	.	.	.	.
+8Cn	.	.	.	.	.
+8E-XJ	.	.	.	.	.
+8GnL	.	4.ff] 4.dd]	.	.	.
+8Fn	.	.	.	.	.
+8dn	.	.	.	.	.
+8cnJ)	.	8ee-X	.	.	]
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+*	*	*v	*v	*	*
+=31	=31	=31	=31	=31
+*	*	*ped	*	*
+(>8GGG-XL	.	4dd-X\) 4b-X\ 4d-X\	.	.
+8GG-X	.	.	.	.
+8D-X	.	4r	.	.
+8B-XJ	.	.	.	.
+8A-XL	.	(>2bb-X 2dd- 2b-	.	.
+8G-X	.	.	.	.
+8d-X	.	.	.	.
+8b-XJ)	.	.	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+!!LO:LB:g=original
+=32	=32	=32	=32	=32
+*	*	*ped	*	*
+!	!	!	!	!LO:DY:rj
+8r	.	4aa-X 4cc-X 4a-X	.	f
+(>8CC-XL	.	.	.	.
+8GG-X	.	4gg-X 4cc- 4g-X	.	.
+8E-XJ	.	.	.	.
+8D-XL	.	4ee-X\ 4cc-\ 4e-X\	.	.
+8C-X	.	.	.	.
+8G-X	.	4gg- 4cc- 4g-	.	.
+8e-XJ)	.	.	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+=33	=33	=33	=33	=33
+*	*	*ped	*	*
+(>/8DD-XL	.	2dd-X\ 2b-X\ 2g-X\ 2d-X\	.	.
+8D-X	.	.	.	<
+8G-X	.	.	.	.
+8B-XJ	.	.	.	.
+*	*	*Xped	*	*
+8A-XL	.	2ee-X\ 2dd-\ 2b-\ 2e-X\	.	.
+8Gn	.	.	.	.
+8c-X	.	.	.	.
+8B-J)	.	.	.	.
+=34	=34	=34	=34	=34
+*^	*	*	*	*
+8D-\L	(>1D-X	.	2.ee-X\ 2.cc-X\ 2.a-X\ 2.e-X\	.	.
+8Gn	.	.	.	.	.
+8A-X	.	.	.	.	.
+8c-XJ	.	.	.	.	.
+8B-X\L	.	.	.	.	.
+8A-	.	.	.	.	.
+8e-X	.	.	4ffn 4dd-X 4cc- 4fn	.	.
+8d-XJ)	.	.	.	.	.
+*v	*v	*	*	*	*
+=35	=35	=35	=35	=35
+*	*	*^	*	*
+*	*	*	*ped	*	*
+(<8GGG-XL	.	4.ffn\ 4.fn\	2dd-X/ 2b-X/	.	>
+8GG-X	.	.	.	.	.
+8D-X	.	.	.	.	.
+*	*	*	*Xped	*	*
+8B-XJ	.	8gg-X\) 8g-X\	.	.	.
+*	*	*	*ped	*	*
+8A-XL	.	2rb	2ryy	.	]p
+8G-X	.	.	.	.	.
+8d-X>	.	.	.	.	.
+8b-X>J	.	.	.	.	.
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+!!LO:LB:g=original
+=36	=36	=36	=36	=36	=36
+*	*	*	*^	*	*
+8a-X>L	.	2rdd	2rddyy	2rgyy	.	.
+8g-X>	.	.	.	.	.	.
+8b-X>	.	.	.	.	.	.
+8cc-X>J)	.	.	.	.	.	.
+!	!	!LO:N:vis=2	!	!	!	!
+2r	.	8dd-XL	(>4..ddd-X/	2dd-X/	.	p>
+.	.	8ff-X\	.	.	.	.
+.	.	8bb-X	.	.	.	.
+.	.	8aa-XJ	.	.	.	.
+.	.	.	16ddd-/	.	.	.
+*	*	*	*v	*v	*	*
+=37	=37	=37	=37	=37	=37
+*	*	*	*ped	*	*
+!	!	!	!LO:TX:a:t=P:całe nuty w pierwodruku są na środku taktu:problem	!	!
+(<8GGG-XL	.	[2.aa-X\	1ddd-X 1ff-X 1dd-X	.	.
+8GG-X	.	.	.	.	.
+8D-X	.	.	.	.	.
+8B-XJ	.	.	.	.	.
+8A-XL	.	.	.	.	.
+8G-X	.	.	.	.	.
+8d-X	.	8aa-\L]	.	.	.
+8b-XJ	.	8gg-XJ)	.	.	]
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+=38	=38	=38	=38	=38	=38
+8a-X>L	.	2rgg	2raayy	.	.
+8g-X>	.	.	.	.	.
+8b-X>	.	.	.	.	.
+8cc-X>J)	.	.	.	.	.
+!	!	!LO:N:vis=4.	!	!	!
+4r	.	8dd-X\L	(>4.ddd-X/ 4.dd-/	.	<
+.	.	8ff-X	.	.	.
+8r	.	8bb-X	.	.	.
+(<[8FF-X	.	8dddnJ 8aa-X 8ddn	8rByy	.	[
+*	*	*v	*v	*	*
+=39	=39	=39	=39	=39
+*	*	*ped	*	*
+8FF-\L]	.	2eee-X 2ggn 2ee-X	.	>
+8EE-X	.	.	.	.
+8BB-X	.	.	.	.
+8GnJ	.	.	.	.
+8Fn\L	.	4bb-X) 4gg 4b-X	.	]
+8E-X	.	.	.	.
+8B-X	.	4ra	.	.
+8gnJ	.	.	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+!!LO:PB:g=original
+=40	=40	=40	=40	=40
+*	*	*^	*	*
+*	*	*	*^	*	*
+8fn>L	.	2rdd	2rddyy	2rcyy	.	.
+8e-X>	.	.	.	.	.	.
+8gn>	.	.	.	.	.	.
+8a-X>J)	.	.	.	.	.	.
+!	!	!	!	!LO:TX:a:t=P:2b-X\ oraz 8b-X powinny być zlane, ale rzy użyciu funkcji LO:N:vis zmienia się także górna nuta:problem	!	!
+2r	.	8bb-L 8b-X	(>4..bb-X/	2b-X\	.	>
+.	.	8ee-X\	.	.	.	.
+.	.	8ggn	.	.	.	.
+.	.	8ffnJ	.	.	.	.
+.	.	.	16bb-/	.	.	.
+*	*	*	*v	*v	*	*
+=41	=41	=41	=41	=41	=41
+*	*	*	*ped	*	*
+!	!	!	!LO:TX:a:t=P:w pierwodruku całe nuty są w połowie taktu:problem	!	!
+(<8EEE-XL	.	[<2.ffn\	1bb-X 1ggn 1b-X	.	.
+8EE-X	.	.	.	.	.
+8BB-X	.	.	.	.	.
+8GnJ	.	.	.	.	.
+8FnL	.	.	.	.	.
+8E-X	.	.	.	.	.
+8B-X	.	8ff\L]	.	.	.
+8gnJ	.	8ee-XJ)	.	.	]
+=42	=42	=42	=42	=42	=42
+*	*	*	*Xped	*	*
+8fn>L	.	2rdd	2raayy	.	.
+8e-X>	.	.	.	.	.
+8gn>	.	.	.	.	.
+8a-X>J)	.	.	.	.	.
+!	!	!LO:N:vis=4.	!	!	!
+2r	.	8b-XL	(>4.bb-X/ 4.b-X	.	<
+.	.	8ee-X\	.	.	.
+.	.	8ggn	.	.	.
+.	.	8bbnJ 8bn	8rEyy	.	.
+=43	=43	=43	=43	=43	=43
+*	*	*	*ped	*	*
+(<8AAA-XL	.	4bbn\ 4ggn\ 4bn\	2ee-X	.	.
+8AA-X	.	.	.	.	.
+8E-X	.	4cccn\) 4aa-X\ 4ccn\	.	.	[
+8cnJ	.	.	.	.	.
+8B-XL	.	2rdd	2ryy	.	.
+8A-X	.	.	.	.	.
+8e-X>	.	.	.	.	.
+8ccn>J	.	.	.	.	.
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+!!LO:LB:g=origial
+=44	=44	=44	=44	=44	=44
+*	*	*	*^	*	*
+8b-X>L	.	2rgg	2rffyy	2reyy	.	.
+8a-X>	.	.	.	.	.	.
+8ccn>	.	.	.	.	.	.
+8dd-X>J)	.	.	.	.	.	.
+!	!	!	!	!LO:TX:a:t=P:to samo co w takcie "40":problem	!	! 
+2r	.	8eee-XL 8ee-X	4..eee-X/	2ee-X\	.	>
+.	.	8gg-X\	.	.	.	.
+.	.	8cccn	.	.	.	.
+.	.	8bb-XJ	.	.	.	.
+.	.	.	16eee-/	.	.	.
+*	*	*	*v	*v	*	*
+=45	=45	=45	=45	=45	=45
+*	*	*	*ped	*	*
+!	!	!	!LO:TX:a:t=P:całe nuty powinny być na środku taktu:problem	!	!
+(<8AAA-XL	.	[2.bb-X\	1eee-X 1gg-X 1ee-X	.	.
+8AA-X	.	.	.	.	.
+8E-X	.	.	.	.	.
+8cnJ	.	.	.	.	.
+8B-XL	.	.	.	.	.
+8A-X	.	.	.	.	.
+8e-X>	.	8bb-\L]	.	.	]
+8ccn>J	.	8aa-XJ	.	.	.
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46
+8b-X>L	.	2rgg	2rffyy	.	.
+8a-X>	.	.	.	.	.
+8ccn>	.	.	.	.	.
+8dd-X>J)	.	.	.	.	.
+!	!	!LO:N:vis=4.	!	!	!
+4r	.	8eee-X 8ee-XL	(>4.eee-X/	.	.
+.	.	8gg-X\	.	.	.
+8r	.	8cccn	.	.	.
+(<[8GG-X	.	8eeenJ 8bb-X 8een	8reyy	.	.
+*	*	*v	*v	*	*
+=47	=47	=47	=47	=47
+*	*	*ped	*	*
+8GG-L]	.	2fffn 2aan 2ffn	.	.
+8FFn	.	.	.	.
+8Cn	.	.	.	.
+8AnJ	.	.	.	.
+8GnL	.	4cccn) 4aa 4ccn	.	.
+8Fn	.	.	.	.
+8cn	.	4rb	.	.
+8a>J	.	.	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+!!LO:LB:g=original
+=48	=48	=48	=48	=48
+*	*	*^	*	*
+*	*	*	*^	*	*
+8gn>L	.	2rdd	2rgyy	2rffyy	.	.
+8fn>	.	.	.	.	.	.
+8a>	.	.	.	.	.	.
+8b-X>J)	.	.	.	.	.	.
+!	!	!	!LO:TX:a:t=P:ten sam problem, co w t. 40, 44:problem	!	!	!
+2r	.	8cccL 8ccn	(>4..cccn/	2ccn\	.	.
+.	.	8ffn\	.	.	.	.
+.	.	8aa	.	.	.	.
+.	.	8ggnJ	.	.	.	.
+.	.	.	16ccc/	.	.	.
+*	*	*	*v	*v	*	*
+=49	=49	=49	=49	=49	=49
+!	!	!	!LO:TX:a:t=P:w pierwodruku całe nuty są w połowie taktu:problem	!	!
+*	*	*	*ped	*	*
+(<8FFFnL	.	[<\2.ggn	1cccn 1ccn	.	.
+8FFn	.	.	.	.	.
+8Cn	.	.	.	.	.
+8AJ	.	.	.	.	.
+8GnL	.	.	.	.	.
+8Fn	.	.	.	.	.
+8cn	.	8gg\L]	.	.	.
+8aJ	.	8ffnJ)	.	.	.
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50
+*	*	*	*^	*	*
+8gn>L	.	2rgg	2.ryy	2raayy	.	.
+8fn>	.	.	.	.	.	.
+8a>	.	.	.	.	.	.
+8b-X>J)	.	.	.	.	.	.
+!	!	!LO:N:vis=4.	!	!	!	!
+2r	.	8cccn 8ccn\L	.	(>4.cccn/	.	<
+.	.	8ffn	.	.	.	.
+.	.	8aa	4aa/	.	.	.
+.	.	8ccc#XJ 8cc#X	.	8rcyy	.	.
+*	*	*v	*v	*v	*	*
+=51	=51	=51	=51	=51
+*	*	*ped	*	*
+(>8EEEL	.	1ccc# 1aa 1ee 1cc#	.	[
+8EE	.	.	.	.
+8AA	.	.	.	.
+8EJ	.	.	.	.
+8F#L	.	.	.	.
+8E	.	.	.	.
+8c#	.	.	.	.
+8aJ)	.	.	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+!!LO:LB:g=original
+=52	=52	=52	=52	=52
+*^	*	*^	*	*
+*	*	*	*	*ped	*	*
+2reyy	8r	.	1ff#	4bb 4b	.	.
+.	(>8DD#\L	.	.	.	.	.
+.	8BB	.	.	4aa 4a	.	.
+.	8F#J	.	.	.	.	.
+4c#	8c#L	2	.	4ff# 4b 4a 4f#	.	.
+.	8D#	.	.	.	.	.
+4B	8B	2	.	4aa 4b 4a	.	.
+.	8aJ)	.	.	.	.	.
+*	*	*	*	*Xped	*	*
+.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*
+*	*	*v	*v	*	*
+=53	=53	=53	=53	=53
+*	*	*ped	*	*
+8r	.	1ee 1cc# 1a 1e	.	>
+(>\8EEL	.	.	.	.
+8AA	.	.	.	.
+8EJ	.	.	.	.
+8F#L	.	.	.	.
+8E	.	.	.	.
+8dn	.	.	.	.
+8c#J)	.	.	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+=54	=54	=54	=54	=54
+*	*	*^	*	*
+*	*	*	*ped	*	*
+(>8EEEL	.	[2ee [<2cc#	1e 1dn	.	.
+8EE	.	.	.	.	.
+8BB	.	.	.	.	.
+8EJ	.	.	.	.	.
+8F#L	.	4.ee] 4.cc#]	.	.	.
+8E	.	.	.	.	.
+8c#	.	.	.	.	.
+8BJ)	.	8ddn	.	.	]
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+*	*	*v	*v	*	*
+=55	=55	=55	=55	=55
+*	*	*ped	*	*
+(>8FFFnL	.	4ddn 4g# 4dn	.	.
+!	!	!	!	!LO:HP:i:t=cresc &colon;
+8FFn	.	.	.	<
+8Cn	.	2ccn 2a 2cn	.	.
+8AJ	.	.	.	.
+8GnL	.	.	.	.
+8Fn	.	.	.	.
+8cn	.	4aa 4cc 4a	.	.
+8aJ)	.	.	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+!!LO:LB:g=original
+=56	=56	=56	=56	=56
+*	*	*^	*	*
+8r	.	2ddn 2b-X\	4ggn 4gn	.	.
+(>8BBB-X\L	.	.	.	.	.
+8FFn	.	.	4ffn 4fn	.	.
+8DnJ	.	.	.	.	.
+8CnL	.	2rgggyy	4dd 4b- 4dny	.	.
+8BB-X	.	.	.	.	.
+8Fn	.	.	4ff 4dd 4f	.	.
+8dnJ)	.	.	.	.	.
+*	*	*v	*v	*	*
+=57	=57	=57	=57	=57
+(>8CCn\L	.	2ccn 2a 2fn 2cn	.	.
+8Cn	.	.	.	.
+8Fn	.	.	.	.
+8AJ	.	.	.	.
+8GnL	.	2ddn 2cc 2a 2dn	.	.
+8F#X	.	.	.	.
+8B-X	.	.	.	.
+8AJ	.	.	.	.
+=58	=58	=58	=58	=58
+*^	*	*	*	*
+8C\L	1Cn	.	2.ddn 2.b-X 2.gn 2.dn	.	.
+8F#	.	.	.	.	.
+8Gn	.	.	.	.	.
+8B-XJ	.	.	.	.	.
+8A\L	.	.	.	.	.
+8G	.	.	.	.	.
+8dn	.	.	4ee 4ccn 4b- 4e\	.	.
+8cnyJ)	.	.	.	.	.
+*v	*v	*	*	*	*
+=59	=59	=59	=59	=59
+*	*	*^	*	*
+*ped	*	*	*	*	*
+8r	.	2ccn 2a/	4.ee 4.e\	.	>
+(>\8FFnL	.	.	.	.	.
+8Cn	.	.	.	.	.
+*Xped	*	*	*	*	*
+8AJ	.	.	8ffn) 8fn	.	]
+*ped	*	*	*	*	*
+8GnL	.	2rb	2ryy	.	.
+8Fn	.	.	.	.	.
+8cn	.	.	.	.	.
+8aJ	.	.	.	.	.
+*	*	*v	*v	*	*
+!!LO:PB:g=original
+=60	=60	=60	=60	=60
+8fnL	.	1rdd	.	.
+8cn	.	.	.	.
+8A	.	.	.	>
+*Xped	*	*	*	*
+8d-XJ	.	.	.	.
+8cL	.	.	.	.
+8A	.	.	.	.
+8Fn	.	.	.	.
+8aJ	.	.	.	.
+=61	=61	=61	=61	=61
+8fnL	.	1rdd	.	.
+8cn	.	.	.	.
+8A	.	.	.	.
+8d-XJ	.	.	.	.
+8cL	.	.	.	.
+8A	.	.	.	.
+8Fn	.	.	.	.
+8B-XJ	.	.	.	.
+=62	=62	=62	=62	=62
+8AL	.	1rdd	.	.
+8Fn	.	.	.	.
+8Cn	.	.	.	.
+8G-XJ	.	.	.	.
+8F\L	.	.	.	.
+8C	.	.	.	.
+8AA	.	.	.	.
+8D-XJ	.	.	.	.
+=63	=63	=63	=63	=63
+*^	*	*^	*	*
+!	!	!	!	!	!	!LO:HP:i:t=cresc&colon;
+*ped	*	*	*	*	*	*
+4.rAyy	8FFn\L	.	4r	2rcyy	.	<
+.	8Cn	.	.	.	.	.
+.	N(<8AJ)	.	8r	.	.	.
+[<8Fn^	8rGG	.	8ryy	.	.	.
+!	!	!	!	!LO:TX:a:t=P:mixed beam:original	!	!
+!	!	!	!	!LO:N:vis=2	!	!
+2F]	2rGG	.	2fn	8fnL\	.	.
+*Xped	*	*	*	*	*	*
+.	.	.	.	8B-X</	.	.
+.	.	.	.	8Bn</	.	.
+.	.	.	.	8qd-X</	.	.
+.	.	.	.	8cn</J	.	.
+!!LO:LB:g=original
+=64	=64	=64	=64	=64	=64	=64
+*	*	*	*	*ped	*	*
+8EE\L	4.rcyy	.	4r	2rcyy	.	.
+8C#X	.	.	.	.	.	.
+8A#XJ	.	.	8rb	.	.	.
+*	*	*	*	*Xped	*	*
+8rGG	8ryy	.	N[<8F#<^>	.	.	.
+!	!	!	!LO:TX:a:t=P:mixed beam:original	!	!	!
+!	!	!	!LO:N:vis=2	!	!	!
+2rGG	2F#/N]	.	8f#\L	2f#/	.	.
+.	.	.	8B</	.	.	.
+.	.	.	8B#<X/	.	.	.
+.	.	.	8qd#<X/	.	.	.
+.	.	.	8c#</JN)	.	.	.
+*v	*v	*	*	*	*	*
+=65	=65	=65	=65	=65	=65
+*	*	*	*ped	*	*
+N(<8DD#\L	.	4r	2rAyy	.	.
+8C#	.	.	.	.	.
+8A#XJ	.	8r	.	.	.
+8rGG	.	N[<8F#<^>	.	.	.
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+!	!	!LO:N:vis=2	!	!	!
+2rGG	.	8f##XL	2f##X/ 2F#</N]	.	.
+.	.	8c#	.	.	.
+.	.	8d#	.	.	.
+.	.	8qf##/	.	.	.
+.	.	8eJN)	.	.	.
+*	*	*v	*v	*	*
+=66	=66	=66	=66	=66
+*^	*	*	*	*
+*	*^	*	*	*	*
+*	*	*	*	*ped	*	*
+2rddyy	2rAyy	(<8GGG#\L	.	2r	.	.
+.	.	8GG#\	.	.	.	.
+.	.	8F#\	.	.	.	.
+.	.	8An\J	.	.	.	.
+*	*	*	*	*Xped	*	*
+.	.	.	.	.	.	.
+8G#L	4.G#	2rGG	.	(>2g#	.	.
+8B#X	.	.	.	.	.	.
+8e	.	.	.	.	.	.
+8B#J 8F#)	8reeyy	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=67	=67	=67	=67	=67	=67
+2E	(<8CCC#L	.	4.d#	.	>
+.	8CC#	.	.	.	.
+.	8GG#	.	.	.	.
+.	8EJ	.	8c#)	.	]
+!	!	!	!	!	!LO:DY:b=2
+*	*	*	*ped	*	*
+2rcyy	8D#L	.	2r	.	p
+.	8C#	.	.	.	.
+.	8G#	.	.	.	.
+.	8eJ	.	.	.	.
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+*v	*v	*	*	*	*
+!!LO:LB:g=original
+=68	=68	=68	=68	=68
+*	*	*^	*	*
+8d#>L	.	2rdd	2reyy	.	.
+8c#>	.	.	.	.	.
+8e>	.	.	.	.	.
+8f#>J)	.	.	.	.	.
+!	!	!	!LO:N:vis=2	!	!
+2r	.	(>2gg# 2g#	8g#L	.	>
+.	.	.	8cc#	.	.
+.	.	.	8dd#	.	.
+.	.	.	8qff#/	.	.
+.	.	.	8eeJ	.	.
+=69	=69	=69	=69	=69	=69
+!	!	!	!LO:TX:a:t=P:całe nuty powinny być w połowie taktu:problem	!	!
+*	*	*	*ped	*	*
+8r	.	[2.dd#\	1gg# 1g#	.	.
+(<8CC#\L	.	.	.	.	.
+8GG#	.	.	.	.	.
+8EJ	.	.	.	.	.
+8D#L	.	.	.	.	.
+8C#	.	.	.	.	.
+8G#	.	8dd#\L]	.	.	.
+8eJ	.	8cc#J)	.	.	]
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+=70	=70	=70	=70	=70	=70
+8d#>L	.	2rdd	2ryy	.	.
+8c#>	.	.	.	.	.
+8e>	.	.	.	.	.
+8f#>J)	.	.	.	.	.
+!	!	!LO:N:vis=4.	!	!	!
+4r	.	(>8gg# 8g#L	4.g#\	.	<
+.	.	8cc#	.	.	.
+8r	.	8ee	.	.	.
+(<[8FF#	.	8aa#XJ 8a#X	8rGyy	.	[
+*	*	*v	*v	*	*
+=71	=71	=71	=71	=71
+.	.	8qqa#X/	.	>
+*	*	*ped	*	*
+8FF#\L]	.	4.ccc# 4.ee 4.a#y	.	.
+8BBB	.	.	.	.
+8FF#	.	.	.	.
+8D#J	.	8bb) 8dd# 8b	.	]
+8C#L	.	2r	.	.
+8BB	.	.	.	.
+8F#	.	.	.	.
+8d#J	.	.	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+!!LO:LB:g=original
+=72	=72	=72	=72	=72
+*	*	*^	*	*
+8c#>L	.	2rb	2reyy	.	.
+8B>	.	.	.	.	.
+8d#>	.	.	.	.	.
+8e>J)	.	.	.	.	.
+!	!	!	!LO:N:vis=2	!	!
+2r	.	2ff#	(>8ff# 8f#L	.	.
+.	.	.	8b	.	.
+.	.	.	8cc#	.	.
+.	.	.	8qee/	.	.
+.	.	.	8ddnJ	.	.
+=73	=73	=73	=73	=73	=73
+*	*	*	*ped	*	*
+!	!	!	!LO:TX:a:t=P:całe nuty powinny być  w połowie taktu:problem	!	!
+8r	.	[2.cc#\	1ff# 1f#	.	>
+(<8BBB\L	.	.	.	.	.
+8FF#	.	.	.	.	.
+8DnJ	.	.	.	.	.
+8C#L	.	.	.	.	.
+8BB	.	.	.	.	.
+8F#	.	8cc#\L]	.	.	.
+8dnJ	.	8bJ)	.	.	]
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+=74	=74	=74	=74	=74	=74
+8c#>L	.	2rb	2ryy	.	.
+8B>	.	.	.	.	.
+8dn>	.	.	.	.	.
+8e>J)	.	.	.	.	.
+!	!	!LO:N:vis=4.	!	!	!
+4r	.	(>8ff# 8f#L	4.f#\	.	<
+.	.	8b	.	.	.
+8r	.	8ddn	.	.	.
+(>[<8EE	.	8gg#J 8g#	8rcyy	.	[
+*	*	*v	*v	*	*
+=75	=75	=75	=75	=75
+*	*	*ped	*	*
+8EE\L]	.	4bb 4ddn 4g#	.	.
+8AAA	.	.	.	.
+8EE	.	2aa 2cc# 2a	.	.
+8C#J	.	.	.	.
+8BB\L	.	.	.	.
+8AA	.	.	.	.
+8E	.	4gg# 4cc# 4g#	.	.
+8c#J	.	.	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+!!LO:LB:g=original
+=76	=76	=76	=76	=76
+*	*	*^	*	*
+!	!	!LO:TX:a:t=P:cała nuta w połowie taktu:problem	!	!	!
+8BL	.	1cc#	2..gg# 2..g#	.	>
+8A	.	.	.	.	.
+8c#	.	.	.	.	.
+8f#J	.	.	.	.	.
+8eL	.	.	.	.	.
+8c#	.	.	.	.	.
+8A	.	.	.	.	]
+8d#J	.	.	8ff##X) 8f##X	.	.
+*	*	*v	*v	*	*
+=77	=77	=77	=77	=77
+8c#L	.	1rdd	.	.
+8A	.	.	.	.
+8E	.	.	.	.
+8f#J	.	.	.	.
+8eL	.	.	.	.
+8c#	.	.	.	.
+8A	.	.	.	.
+8d#J	.	.	.	.
+=78	=78	=78	=78	=78
+*	*	*^	*	*
+!	!	!LO:TX:B:i:t=ritenuto.	!	!	!
+8c#L	.	2rb	2ryy	.	.
+8A	.	.	.	.	.
+8E	.	.	.	.	.
+8BJ	.	.	.	.	.
+!	!	!	!LO:N:vis=2	!	!LO:DY:rj
+8AL	.	2f##X/	(<8f##X\L	.	f
+8E	.	.	8cc#	.	<
+8D#	.	.	8dd#	.	.
+.	.	.	8qff#/	.	.
+8C#J)	.	.	8eeJ	.	[
+=79	=79	=79	=79	=79	=79
+!	!	!LO:TX:a:t=P:całe nuty w połowie taktu:problem	!	!	!
+*	*	*	*ped	*	*
+1c#; 1AA:	.	1aa; 1f##X	4.dd#	.	>
+.	.	.	8cc#)	.	]
+.	.	.	2r	.	.
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+*	*	*v	*v	*	*
+!!LO:PB:g=original
+=-	=-	=-	=-	=-
+*cue	*	*cue	*	*
+!LO:TX:a:i:B:t=leggier &colon;	!	!LO:TX:a:B:i:t=a piacere.	!	!
+!	!	!LO:TX:a:t=P:brak początku łuku:problem	!	!
+8gn\L 8c#\	.	(>8ee\L 8a\	.	.
+8e 8A	.	8aa 8cc#	.	.
+8f#X 8c#	.	8dd# 8a	.	.
+8d#J 8F#	.	8aaJ 8cc#	.	.
+8f#\L 8B#X\	.	8dd#\L 8g#\	.	.
+8d# 8G#	.	8gg# 8b#X	.	.
+8fn 8cn	.	8ddn 8a-X	.	.
+8dnJ 8Fn	.	8aa-XJ 8ccn	.	.
+8f#\L 8Bny\	.	8dd#\L 8gn\	.	.
+8d# 8Gn	.	8ggn 8bny	.	.
+8e 8B	.	8cc#X 8g	.	.
+8c#yJ 8E	.	8ggJ 8b	.	.
+8e\L 8A#X\	.	8cc#\L 8f#X\	.	.
+8c# 8F#	.	8ff# 8a#X	.	.
+8e-X 8B-X	.	8ccn 8g-X	.	.
+8cnJ 8E-X	.	8gg-XJ 8b-X	.	.
+8e\L 8Any\	.	8cc#\L 8fn\	.	.
+8c# 8Fn	.	8ffn 8an	.	.
+8dn 8A	.	8bn 8f	.	.
+8BnJ 8Dn	.	8ffJ 8a	.	.
+8d#y\L 8G#X\	.	8b\L 8eny\	.	.
+8B 8Eny	.	8ee 8g#X	.	.
+8c#X 8G#	.	8a#X 8e	.	.
+8A#XJ 8C#	.	8eeJ 8g#	.	.
+8c#\L 8F##X\	.	8a#y\L 8d#X\	.	.
+8A#y 8D#X	.	8dd#X 8f##X	.	.
+8cn 8Gn	.	8an 8e-X	.	.
+8AnJ 8Cn	.	8ee-yJ 8gn	.	.
+!!LO:LB:g=original
+=-	=-	=-	=-	=-
+8c\L 8F#X\	.	8a\L 8dn\	.	.
+8A 8Dn	.	8ddn 8f#X	.	.
+8B 8F#	.	8g#X 8d	.	.
+8G#XJ 8BB	.	8ddJ 8f#	.	.
+8B\L 8Fn\	.	8g#\L 8d#\	.	.
+8A#X 8E	.	8cc#X 8gn	.	.
+8B 8F	.	8dd# 8a-X	.	.
+8dnJ 8G#X	.	8bJ 8fn	.	.
+8B\L 8Fny\	.	8dd#\L 8g#X\	.	.
+8cn 8F#X	.	8dd#X 8an	.	.
+8c#X 8Gn	.	8eeny 8b-X	.	.
+8enyJ 8B-X	.	8dd#J 8gny	.	.
+8c#\L 8Gny\	.	8ee\L 8b\	.	.
+8dny 8G#X	.	8ffn 8bn	.	.
+8d#X 8Any	.	8ff#X 8ccn	.	.
+8f#yJ 8cn	.	8dd#X 8aJ	.	.
+8d#\L 8A\	.	8ff#\ 8cc\L	.	.
+8e 8B-X	.	8ggn 8cc#X	.	.
+8fn 8Bn	.	8gg#X 8ddn	.	.
+8g#XJ 8dny	.	8ffnJ 8b	.	.
+*clefG2	*	*	*	*
+8fnL 8Bn	.	8gg#\L 8dd#\	.	.
+8f#X 8cn	.	8aa 8ee-X	.	.
+8gn 8c#X	.	8bb-X 8een	.	.
+8b-XJ 8e	.	8ggnJ 8cc#	.	.
+8gnyL 8c#	.	8bb-y\L 8ee\	.	.
+8g#X 8dn	.	8bbn 8ffn	.	.
+8a 8d#X	.	8cccn 8ff#X	.	.
+8ccnJ 8f#	.	8aaJ 8dd#X	.	.
+!!LO:LB:g=original
+=-	=-	=-	=-	=-
+8a\L 8d#\	.	8bb#X\L 8ff#\	.	.
+8a#X 8e	.	8ccc#X 8ff##X	.	>
+8cc# 8f##X	.	8eee 8aa#X	.	.
+8eeJ 8a#	.	8fff##XJ 8ccc#	.	.
+*	*	*8va	*	*
+8cc#\L 8f##\	.	8eee\L 8aa#y\	.	.
+8ee 8a#	.	8fff##y 8ccc#	.	.
+8ff##X 8cc#	.	8aaa#y 8eee	.	.
+8aa#XJ 8ee	.	8eeeeJ 8fff##	.	.
+*	*	*X8va	*	*
+*Xcue	*	*Xcue	*	*
+!LO:CL:ed	!	!	!	!
+*clefF4	*	*	*	*
+=80	=80	=80	=80	=80
+*	*	*ped	*	*
+!	!	!LO:TX:a:i:t=loco.	!	!
+4GGG#	.	(>[2gg#) 2ee 2cc# 2g#	.	f
+4r	.	.	.	.
+4e 4c# 4G# 4E	.	8gg#L]	.	.
+.	.	8ccc#	.	.
+4r	.	8bb	.	.
+.	.	8aaJ	.	.
+=81	=81	=81	=81	=81
+1rF	.	8ff##XL	.	.
+.	.	8gg#	.	.
+.	.	8ee	.	.
+.	.	8b#XJ	.	.
+.	.	8dd#L	.	.
+.	.	8ee	.	.
+.	.	8cc#	.	.
+.	.	8f##XJ	.	.
+=82	=82	=82	=82	=82
+1rF	.	1g#	.	.
+=83	=83	=83	=83	=83
+1GG#	.	1B#X<^> 1F#<	.	.
+!!LO:LB:g=original
+=84	=84	=84	=84	=84
+!LO:CL:	!	!	!	!
+*ped	*	*	*	*
+8rGG	.	2c#<) 2E<	.	.
+(<8CC#L	.	.	.	p
+8GG#	.	.	.	.
+8EJ	.	.	.	.
+8D#L	.	2r	.	]
+*Xped	*	*	*	*
+.	.	.	.	.
+8C#	.	.	.	.
+*ped	*	*	*	*
+8A^	.	.	.	.
+8e>J	.	.	.	.
+=85	=85	=85	=85	=85
+*	*	*^	*	*
+8d#>L	.	2raayy	2ryy	.	.
+8c#>	.	.	.	.	.
+8e>	.	.	.	.	.
+8gn>J)	.	.	.	.	.
+!	!	!	!LO:N:vis=4.	!	!
+2r	.	(>4.aa	8aa 8a\L	.	>
+*Xped	*	*	*	*	*
+.	.	.	.	.	.
+.	.	.	8cc#\	.	.
+.	.	.	8ff#\	.	.
+.	.	16ryy	8ee\J 8gn	.	]
+.	.	16aa	.	.	.
+=86	=86	=86	=86	=86	=86
+!	!	!LO:TX:a:t=P:cała nuta w połowie taktu powinna być:problem	!	!	!
+*	*	*	*ped	*	*
+8r	.	1ddn	2aa: 2f#:	.	.
+(>8DDnL	.	.	.	.	.
+8AA	.	.	.	.	.
+8F#J	.	.	.	.	.
+8EL	.	.	2ff# 2a	.	.
+8Dn	.	.	.	.	.
+8A	.	.	.	.	.
+8f#J)	.	.	.	.	.
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+=87	=87	=87	=87	=87	=87
+*	*	*	*^	*	*
+*	*	*	*	*ped	*	*
+8r	.	2rgggyy	2gg# 2b#X 2f#	2rDyy	.	.
+(>8GG#L	.	.	.	.	.	.
+8D#X	.	.	.	.	.	.
+8B#XJ	.	.	.	.	.	.
+4f#)	.	4.bb#X 4.b#	8b#L	8rGyy	.	>
+.	.	.	8ee	4ee/	.	.
+4r	.	.	8gg#	.	.	.
+.	.	8rbbbyy	8bb#J 8ff# 8dd#	8rGyy	.	]
+*	*	*	*v	*v	*	*
+!!LO:LB:g=original
+=88	=88	=88	=88	=88	=88
+*	*	*	*ped	*	*
+8r	.	[>2.bb#X [<2.b#X\	1ee	.	>
+(<8CC#\L	.	.	.	.	.
+8GG#	.	.	.	.	.
+8EJ	.	.	.	.	.
+8D#L	.	.	.	.	.
+8C#	.	.	.	.	.
+8G#	.	8bb#L] 8b#]\	.	.	.
+8eJ	.	8ccc#J) 8cc#	.	.	]
+*	*	*	*Xped	*	*
+.	.	.	.	.	.
+*	*	*v	*v	*	*
+=89	=89	=89	=89	=89
+*	*	*ped	*	*
+8d#>L	.	2rff	.	.
+8c#>	.	.	.	.
+8g#>	.	.	.	.
+!	!	!LO:TX:i:t=smorz&colon;	!	!
+8ee>J	.	.	.	.
+8dd#>L	.	4rfff	.	.
+8cc#>	.	.	.	.
+8ee>J)	.	8reee	.	.
+8re>	.	(>/8ccc#	.	.
+=90	=90	=90	=90	=90
+2r	.	8cccc#)	.	.
+.	.	8r	.	.
+.	.	4r	.	.
+2GG#\ 2CC#\	.	2e 2G#< 2E<	.	.
+=91	=91	=91	=91	=91
+1E 1GG# 1CC#	.	1c#	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cresc"
+!!!RDF**dynam: > = "dimin:"
+!!!ENC: Jędrzej Mróz
+!!!END: 2019-08-23
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: 2019-12-02
+!!!rism-genre: Prelude
+!!!rism-key: C-sharp minor
+!!!rism-opus: op.  45
+!!!rism-title: Prelude in C-sharp minor op.  45
+!!!rism-permalink: https://opac.rism.info/search?id=1001039534&View=rism

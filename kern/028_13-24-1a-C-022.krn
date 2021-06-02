@@ -1,0 +1,427 @@
+!!!!SEGMENT: 028_13-24-1a-C-022.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: XXII.
+!!!OPS: Op. 28
+!!!PTL: 24 | PRÉLUDES | POUR | le Piano
+!!!PPR: Catelin
+!!!PPP: Paris
+!!!NIFC-rismID: 1001065089
+!!!NIFC-shelfmark: PL-Wbfc 6584/n
+!!!OMD: Molto agitato.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*S
+*clefF4	*clefG2	*
+*k[b-e-]	*k[b-e-]	*
+*g:	*g:	*
+*M6/8	*M6/8	*
+*MM198	*MM198	*
+!	!LO:TX:t=P:problem: "XXII." po lewej stronie akolady	!
+!	!LO:TX:B:t=XXII.	!
+(>8BB-L 8BBB-	4r	f
+8.AA 8.AAA	.	.
+.	8r	.
+16GGJk 16GGG	.	.
+=1	=1	=1
+*	*^	*
+4.GG\ 4.GGG\)	8r	8ryy	.
+*	*	*	*above
+!!mixed beam:problem
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+.	(>4e- [>4c	&(>\8AL	>
+.	.	8E-</J	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+8GG\L 8GGG\	4d) 4c] 4A<&) 4D<	4.ryy	]
+(>8FF#X 8FFF#X	.	.	.
+8AAJ 8AAA	8r	.	.
+=2	=2	=2	=2
+[>4.AA\ [<4.AAA\)	8r	8ryy	.
+!!mixed beam:problem
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+.	(>4f#X [<4e-	8c\L	>
+.	.	8F#<X/J	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+8AAL] 8AAA]	4g) 4e-] 4G<	4.ryy	]
+(>8BB-\ 8BBB-\	.	.	.
+8GGJ 8GGG	8r	.	.
+=3	=3	=3	=3
+[>4.BB-\ [<4.BBB-\)	8r	8ryy	.
+!!mixed beam:problem
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+.	(>4g [<4e-	&(<\8cL	>
+.	.	8G</J	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+8BB-L] 8BBB-]	4f) 4e-] 4c&) 4F#<X	4.ryy	]
+(>8AA\ 8AAA\	.	.	.
+8CJ 8CC	8r	.	.
+=4	=4	=4	=4
+[>4.C\ [<4.CC\)	8r	8ryy	.
+!!mixed beam:problem
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+.	(>4a 4f#X	8e-\L	>
+.	.	8A</J	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+8CL] 8CC]	4b-) 4g 4B-<	4.ryy	]
+(>8D\ 8DD\	.	.	.
+8BB-J 8BBB-	8r	.	.
+=5	=5	=5	=5
+[>4.c#X [<4.C#X	8r	8ryy	.
+.	(>4gg 4ee-	8b-L	>
+.	.	8gJ	.
+8c#L] 8C#]	4ff#X\ 4dd\ 4a\ 4f#X\)	4.ryy	]
+8d 8D	.	.	.
+8AJ) 8AA	8r	.	.
+!!LO:LB:g=original
+=6	=6	=6	=6
+(>[>4.Bn [<4.BBn	8r	8ryy	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+.	(>4ff 4dd-X	8a-XL	>
+.	.	8fJ	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+8BL] 8BB]	4een\) 4cc\ 4g\ 4en\	4.ryy	]
+8c 8C	.	.	.
+8GJ) 8GG	8r	.	.
+=7	=7	=7	=7
+(>[>4.Bn [<4.BBn	8r	8ryy	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+.	(>4ff 4dd-X	8a-XL	>
+.	.	8fJ	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+8BL] 8BB]	4een\) 4cc\ 4g\ 4en\	4.ryy	]
+8c 8C	.	.	.
+8GJ 8GG)	8r	.	.
+*	*v	*v	*
+=8	=8	=8
+(>8GL 8GG	8r	.
+8F#X\ 8FF#X\	8ee-X^<\ 8cc^<\ 8a^<\ 8e-X^<\	.
+8GJ 8GG	8r	.
+8B-\L 8BB-\	4r	.
+8A 8AA)	.	.
+16r	8r	.
+(>16GJk 16GG	.	.
+=9	=9	=9
+*	*^	*
+[>4.G\ [<4.GG\	8r	8ryy	.
+.	(>4ee-/ [>4cc/	&(>8aL	.
+.	.	8e-J	.
+8G\L] 8GG\]	4dd\) 4cc\] 4a\&) 4d\	4.ryy	.
+8F#X 8FF#X	.	.	.
+8AJ 8AA)	8r	.	.
+=10	=10	=10	=10
+[4.A [4.AA	8r	8ryy	.
+.	(>4ff#X [>4ee-	8ccL	.
+.	.	8f#XJ	.
+8AL] 8AA]	4gg 4ee-] 4g)	4.ryy	.
+8B- 8BB-	.	.	.
+8GJ 8GG	8r	.	.
+=11	=11	=11	=11
+[>4.B- [<4.BB-	8ryy	8r	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+.	(>4gg [4ee-	&(>8ccL	.
+.	.	8gJ	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+8B-L] 8BB-]	4ff#X) 4ee-] 4cc&) 4f#X	4.ryy	.
+(>8A 8AA	.	.	.
+8cJ 8C	8r	.	.
+=12	=12	=12	=12
+[4.c [4.C)	8r	8ryy	.
+.	(>4aa 4ff#X	8ee-^<\L	.
+.	.	8a\J	.
+8cL] 8C]	4bb-\ 4gg\ 4b-\)	4.ryy	.
+8d 8D	.	.	.
+8B-J 8BB-	8r	.	.
+!!LO:LB:g=original
+=13	=13	=13	=13
+*Xtuplet	*	*	*
+(12gL 12G	8r	8ryy	.
+12e- 12E-	.	.	.
+.	(>4bb-^>	8ggL	.
+12dJ 12D	.	.	.
+4d 4D^<	.	8b-J)	.
+.	8r	8ryy	.
+4c#X 4C#X)	(>4aa^> 4gg	8eeL	.
+.	.	8aJ)	.
+=14	=14	=14	=14
+(>8fL 8F	8r	8ryy	.
+8d-X 8D	(>4aa-X^>	8ffL	.
+8cJ 8C	.	8aJ)	.
+!LO:TX:t=P:problem:diminuendolike accent	!	!	!
+4c 4C^<	8r	8ryy	.
+.	(>4gg^> 4ff	8ddL	.
+8Bn 8BBn)	.	8gJ)	.
+=15	=15	=15	=15
+!LO:TX:b:t=cres _:problem:dynamics with extention lines 	!	!	!
+!	!	!	!LO:HP:b:i:t=cres
+!	!	!	!LO:HP:b=2
+(>8e-L 8E-	8r	8ryy	<
+8c 8C	(>4ee-^> 4cc	8gL	.
+8B-J 8BB-	.	8e-J)	.
+8AL 8AA	8r	8ryy	.
+8c 8C	(>4ee-^> 4cc	8g-XL	.
+8A-XJ 8AA-X)	.	8e-J)	.
+*	*v	*v	*
+=16	=16	=16
+*	*	*^
+8GL 8GG	8ee-'>\L 8cc\ 8g\ 8e-\	.	.
+8G-X 8GG-X	8ee-'J 8cc 8a-X 8e-	.	.
+*	*	*below	*
+8FJ 8FF	8r	.	<
+8EnL 8EEn	4r	.	.
+8E-X 8EE-X	.	.	.
+8DJ 8DD	8r	[	[
+*	*	*v	*v
+=17	=17	=17
+*	*^	*
+*ped	*	*	*
+8D-XL 8DD-X	8r	8ryy	ff
+8d 8D-	(>4ff 4dd-X	8a-X^L	.
+*Xped	*	*	*
+8dJ 8D-	.	8fJ)	.
+*ped	*	*	*
+8dL 8D-	8r	8ryy	[
+8d 8D-	(>4gg 4ee-	8b-^L	.
+*Xped	*	*	*
+8dJ 8D-	.	8gJ)	.
+=18	=18	=18	=18
+8c\L 8C\	8r	8ryy	.
+8B- 8BB-	(>4aa-X 4ee-	8cc^L	.
+8A-XJ 8AA-X	.	8a-XJ)	.
+8G/L 8GG/	8r	8ryy	.
+8F 8FF	(>4ee- 4cc	8a-^L	.
+8E-J 8EE-	.	8e-J)	.
+=19	=19	=19	=19
+*ped	*	*	*
+8D-XL 8DD-X	8r	8ryy	.
+8d 8D-	(>4ff 4dd-X	8a^L	.
+*Xped	*	*	*
+8dJ 8D-	.	8fJ)	.
+*ped	*	*	*
+8dL 8D-	8r	8ryy	.
+8d 8D-	(>4gg 4ee-	8b-^L	.
+*Xped	*	*	*
+8dJ 8D-	.	8gJ)	.
+!!LO:LB:g=original
+=20	=20	=20	=20
+8c\L 8C\	8r	8ryy	.
+8B- 8BB-	(>4aa-X 4ee-	8cc^L	.
+8A-XJ 8AA-X	.	8a-XJ)	.
+8G/L 8GG/	8r	8ryy	.
+8F 8FF	(>4gg 4ee-	8cc^L	.
+8E-J 8EE-	.	8gJ)	.
+=21	=21	=21	=21
+*ped	*	*	*
+8DnL 8DDn	8r	8ryy	.
+8c 8C	(>4ff 4dd	8a-X^L	.
+*Xped	*	*	*
+8cJ 8C	.	8fJ)	.
+*ped	*	*	*
+8cL 8C	8r	8ryy	.
+8c 8C	(>4ff#X 4ddn	8an^L	.
+*Xped	*	*	*
+8cJ 8C	.	8f#XJ)	.
+=22	=22	=22	=22
+8B-L 8BB-	8r	8ryy	.
+8A 8AA	(>4gg 4dd	8b-^L	.
+8GJ 8GG	.	8gJ)	.
+8E-L 8EE-	8r	8ryy	.
+8D 8DD	(>4cc 4a	8g^L	.
+8CJ 8CC	.	8cJ)	.
+=23	=23	=23	=23
+*ped	*	*	*
+4BB- 4BBB-	8r	8ryy	.
+.	(>4dd 4b-	8g^L	.
+*Xped	*	*	*
+8r	.	8dJ)	.
+*ped	*	*	*
+4E-\ 4EE-\	8r	8ryy	.
+!!mixed beam:problem
+.	(>4g 4e-	8B-^\L	.
+*Xped	*	*	*
+8rBB	.	8G</J)	.
+=24	=24	=24	=24
+*ped	*	*	*
+4AA 4AAA	8r	8ryy	.
+.	(>4cc 4g	8e-^L	.
+*Xped	*	*	*
+8r	.	8cJ)	.
+*ped	*	*	*
+4D 4DD	8r	4.ryy	.
+.	(<8b-^L 8f#X	.	.
+*Xped	*	*	*
+8r	8aJ 8c)	.	.
+=25	=25	=25	=25
+*ped	*	*	*
+8D-XL 8DD-X	8r	8ryy	.
+8d 8D-	(>4ff 4dd-X	8a-X^L	.
+*Xped	*	*	*
+8dJ 8D-	.	8fJ)	.
+*ped	*	*	*
+8dL 8D-	8r	8ryy	.
+8d 8D-	(>4gg 4ee-	8b-^L	.
+*Xped	*	*	*
+8dJ 8D-	.	8gJ)	.
+=26	=26	=26	=26
+8cL 8C	8r	8ryy	.
+8B- 8BB-	(>4aa-X 4ee-	8cc^L	.
+8A-XJ 8AA-X	.	8a-XJ)	.
+8GL 8GG	8r	8ryy	.
+8F 8FF	(>4ee- 4cc	8a-^L	.
+8E-J 8EE-	.	8e-J)	.
+!!LO:LB:g=original
+=27	=27	=27	=27
+*ped	*	*	*
+8D-XL 8DD-X	8r	8ryy	.
+8d 8D-	(>4ff 4dd-X	8a^L	.
+*Xped	*	*	*
+8dJ 8D-	.	8fJ)	.
+*ped	*	*	*
+8dL 8D-	8r	8ryy	.
+8d 8D-	(>4gg 4ee-	8b-^L	.
+*Xped	*	*	*
+8dJ 8D-	.	8gJ)	.
+=28	=28	=28	=28
+8cL 8C	8r	8ryy	.
+8B- 8BB-	(>4aa-X 4ee-	8cc^L	.
+8A-XJ 8AA-X	.	8a-XJ)	.
+8GL 8GG	8r	8ryy	.
+8F 8FF	(>4gg 4ee-	8cc^L	.
+8E-J 8EE-	.	8gJ)	.
+=29	=29	=29	=29
+*ped	*	*	*
+8DnL 8DDn	8r	8ryy	.
+8c 8C	(>4ff 4dd	8a-X^L	.
+*Xped	*	*	*
+8cJ 8C	.	8fJ)	.
+*ped	*	*	*
+8cL 8C	8r	8ryy	.
+8c 8C	(>4ff#X 4ddn	8an^L	.
+*Xped	*	*	*
+8cJ 8C	.	8fJ)	.
+=30	=30	=30	=30
+!	!LO:TX:i:a:t=piu animato-_:dur=52e:ext=ud:problem:text with extention lines	!	!
+8B-L 8BB-	8r	8ryy	.
+8A 8AA	(>4gg 4dd	8b-^L	.
+8GJ 8GG	.	8gJ)	.
+8E-L 8EE-	8r	8ryy	.
+8D 8DD	(>4cc 4a	8g^L	.
+8CJ 8CC	.	8cJ)	.
+=31	=31	=31	=31
+*ped	*	*	*
+4BB- 4BBB-	8r	8ryy	.
+.	(>4dd 4b-	8g^L	.
+*Xped	*	*	*
+8r	.	8dJ)	.
+*ped	*	*	*
+4E-\ 4EE-\	8r	8ryy	.
+!!mixed beam:problem
+.	(>4g 4e-	8B-^\L	.
+*Xped	*	*	*
+8r	.	8G</J)	.
+=32	=32	=32	=32
+*ped	*	*	*
+4AA 4AAA	8r	8ryy	.
+.	(>4cc 4g	8e-^L	.
+*Xped	*	*	*
+8r	.	8cJ)	.
+*ped	*	*	*
+4D 4DD	8r	4.ryy	.
+.	(<8b-^<L 8f#X	.	.
+*Xped	*	*	*
+8r	8aJ 8c)	.	.
+=33	=33	=33	=33
+*ped	*	*	*
+4BB- 4BBB-	8r	8ryy	.
+.	(>4dd 4b-	8g^L	.
+*Xped	*	*	*
+8r	.	8dJ)	.
+4E-\ 4EE-\	8r	8ryy	.
+!!mixed beam:problem
+.	(>4g 4e-	8B-^/L	.
+8rBB	.	8G<\J)	.
+!!LO:LB:g=original
+=34	=34	=34	=34
+*ped	*	*	*
+(>4.AA\ 4.AAA\	8r	8ryy	.
+.	(>4cc	8g^L 8e-	.
+*Xped	*	*	*
+.	.	8f#XJ) 8c	.
+8BB-\L 8BBB-\	8r	8ryy	.
+!!mixed beam:problem
+8AA 8AAA)	(>4g 4e-	8B-^\L	.
+16rFF	.	8G</J)	.
+16GGJk 16GGG	.	.	.
+=35	=35	=35	=35
+[>4.GG\ [<4.GGG\	8r	8ryy	.
+!	!LO:TX:t=P:problem:nie wyswietla sie ligatura	!	!
+.	(>8e- [<8c (<8A^<L	4ryy	.
+.	8E-<J	.	.
+8GG\]L 8GGG\]	4d) 4c] 4A<) 4D<	4.ryy	.
+8FF#X 8FFF#X	.	.	.
+!	!LO:TX:t=cres _:problem:dynamics with extention lines 	!	!
+!	!	!	!LO:HP:i:t=cres
+8AAJ 8AAA	8r	.	<
+=36	=36	=36	=36
+[>4.AA\ [<4.AAA\	8r	8ryy	.
+!!mixed beam:problem
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+.	(>4f#X^> [<4e-	8c\L	.
+.	.	8F#<X/J	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+8AA\L] 8AAA\]	4g) 4e-] 4G<	4.ryy	.
+8BB- 8BBB-	.	.	.
+8GGJ 8GGG	8r	.	.
+=37	=37	=37	=37
+[>4.AA\ [<4.AAA\	8r	8ryy	.
+!!mixed beam:problem
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+.	(>4f#^>X [<4e-	8c\L	.
+.	.	8F#X</J	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+8AA\L] 8AAA\]	4g) 4e]- 4G<	4.ryy	.
+8BB- 8BBB-	.	.	.
+8GGJ 8GGG	8r	.	.
+=38	=38	=38	=38
+[4.AA [4.AAA	8r	8ryy	.
+.	(>4ff#X^> [<4ee-	8ccL	.
+.	.	8f#XJ	.
+!LO:TX:t=P:problem:diminuendolike accent	!	!	!
+8AAL^>] 8AAA]	4gg\ 4ee-\] 4g\)	4.ryy	[
+(<8BB- 8BBB-	.	.	.
+8GGJ 8GGG)	8r	.	.
+*	*v	*v	*
+=39	=39	=39
+4CC#X'< 4CCC#	4ggg 4eee- 4bb- 4gg	.
+8r	8r	.
+4r	4r	.
+8r	8r	.
+=40	=40	=40
+*ped	*	*
+4.DD 4.DDD	4.dd 4.b- 4.g 4.d	ff
+*Xped	*	*
+.	.	.
+*ped	*	*
+4.D 4.AA 4.DD	4.f#X 4.d 4.c< 4.F<	.
+*Xped	*	*
+.	.	.
+=41	=41	=41
+4qqEEE-/	.	.
+*ped	*	*
+2.D\;< 2.GG\	2.g:;> 2.d: 2.B-<: 2.G<:	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**kern: & = linked
+!!!ENC: Mateusz Mrugas
+!!!END: 2019-04-27
+!!!EED:Jędrzej Mróz
+!!!EST: 2019-05-06
+!!!rism-genre: Prelude
+!!!rism-key: G minor
+!!!rism-opus: op. 28, no. 22
+!!!rism-title: Prelude in G minor op. 28, no. 22
+!!!rism-permalink: https://opac.rism.info/search?id=1001065089&View=rism
+!!!rism-773a-OPR: 1001065100
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001065100&View=rism

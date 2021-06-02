@@ -1,0 +1,2156 @@
+!!!!SEGMENT: 048-1-BH-002.krn
+!!!COM: Fr. Chopin
+!!!OTL: 14. Nocturne
+!!!OPS: Op. 48
+!!!PTL: Deux Nocturnes
+!!!PPR: Breitkopf & Härtel
+!!!PPP: Leipzig
+!!!NIFC-rismID: 1001009037
+!!!NIFC-shelfmark: PL-Wbfc 4379/n
+!!!OMD: Andantino.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*
+*f#:	*f#:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+=1	=1	=1
+*	*^	*
+[1CC#	4r	4r	.
+.	(2c#	[2.c#^>	<
+.	4d#X 4A<	.	.
+=2	=2	=2	=2
+1CC#]	4e#X 4G#<	2c#]	.
+.	4f# 4A<	.	[[
+.	4a [>4e# [<4c#	4rFyy	>
+.	8.g# 8.e#] 8.c#]L	4B	.
+.	16f#J	.	]]
+*	*v	*v	*
+=3	=3	=3
+*ped	*	*
+!	!LO:TX:t=P:łuk pionowy od 8qA do 4f#:problem	!
+.	8qA</	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+(>12FF#L\	>4f#)	.
+12C#	.	.
+12AJ	.	.
+4F#)	(>4ff#	.
+(>12FF#L\	4ee	.
+*Xped	*	*
+12C#	.	.
+*ped	*	*
+12A#XJ	.	.
+4F#)	8ddL	.
+*Xped	*	*
+.	8cc#J	.
+=4	=4	=4
+*ped	*	*
+(>12BBL	8eeL	.
+12F#	.	.
+.	8dd	.
+12dJ	.	.
+4G#)	8cc#	.
+*Xped	*	*
+.	8bJ	.
+*ped	*	*
+(>12C#L	8cc#L/	.
+12E#X	.	.
+.	8g#/	.
+12c#J	.	.
+*tuplet	*	*
+4B)	8a/	.
+*Xped	*	*
+.	8qcc#//	.
+.	8bJ/	.
+!!LO:LB:g=original
+=5	=5	=5
+*ped	*	*
+(>12FF#L\	8aL	.
+12C#	.	.
+.	8f#	.
+12AJ	.	.
+4F#)	8ff#	.
+*Xped	*	*
+.	8ee#XJ	.
+*ped	*	*
+(>12AA#XL	4een	.
+12E	.	.
+12c#J	.	.
+4F#)	8ddL	.
+*Xped	*	*
+.	8cc#J	.
+=6	=6	=6
+*ped	*	*
+(>12BBL	8eeL	.
+12F#	.	.
+.	8dd	.
+12dJ	.	.
+4G#)	8cc#	.
+*Xped	*	*
+.	8bJ	.
+*ped	*	*
+(>12C#L	8cc#L	.
+12E#X	.	.
+.	8bJ	.
+12c#J	.	.
+!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+4B)	12bL/	.
+*Xped	*	*
+.	12a/	.
+.	12g#J/	.
+=7	=7	=7
+*^	*	*
+*	*Xtuplet	*	*
+!LO:N:vis=3	!	!	!
+(>12F#L\	12ryy	>4f#	.
+12A	6.A/	.	.
+12dJ	.	.	.
+4c#)\	.	8g#L	.
+.	6ryy	.	.
+.	.	8aJ	.
+!LO:N:vis=3	!	!	!
+(12FnL\	12ryy	[2b	.
+12A	6.A/	.	.
+12eJ	.	.	.
+*	*tuplet	*	*
+4d#X)\	.	.	.
+.	6ryy	.	.
+=8	=8	=8	=8
+!LO:N:vis=3	!	!	!
+*	*Xtuplet	*	*
+(>12EL\	12ryy	8bL]	.
+12A	6.A/	.	.
+.	.	8cc#	.
+12f#J	.	.	.
+4e)\	.	8dd	.
+.	6ryy	.	.
+.	.	8eeJ	.
+!LO:N:vis=3	!	!	!
+(>12EL\	12ryy	8gg#L	.
+12G#	6.G#/	.	.
+.	.	8ff#	.
+12eJ	.	.	.
+4d)\	.	8ee	.
+*	*tuplet	*	*
+.	6ryy	.	.
+.	.	8ddJ	.
+*v	*v	*	*
+!!LO:LB:g=original
+=9	=9	=9
+*ped	*	*
+*Xtuplet	*	*
+(>12AAL	4cc#	.
+12E	.	.
+12c#J	.	.
+4A)	8b#XL	.
+*Xped	*	*
+.	8cc#J	.
+*ped	*	*
+(>12AAL	[2dd#X	.
+12D#X	.	.
+12c#J	.	.
+*tuplet	*	*
+4F##X)	.	.
+*Xped	*	*
+.	.	.
+=10	=10	=10
+*ped	*	*
+*Xtuplet	*	*
+(>12GG#L	8dd#XL]	.
+12D#X	.	.
+.	8ee	.
+12c#J	.	.
+4G#)	8ff#	.
+*Xped	*	*
+.	8gg#J	.
+*ped	*	*
+(>12GG#L	8bbL	.
+12D#	.	.
+.	8aaJ	.
+12B#XJ	.	.
+*tuplet	*	*
+4G#)	12aaL	.
+*Xped	*	*
+.	12gg#	.
+.	12ff#J	.
+=11	=11	=11
+*ped	*	*
+*Xtuplet	*	*
+(12C#L	4gg#	.
+12G#	.	.
+12eJ	.	.
+4c#)	8cc#L	.
+*Xped	*	*
+.	8ccc#J	.
+*ped	*	*
+(>12E#XL	4bb	.
+12B	.	.
+12g#J	.	.
+*tuplet	*	*
+4c#)	8aaL	.
+*Xped	*	*
+.	8gg#J	.
+=12	=12	=12
+*ped	*	*
+*Xtuplet	*	*
+(>12F#L	8bbL	.
+12c#	.	.
+.	8aa	.
+12aJ	.	.
+4d#X)	8gg#	.
+*Xped	*	*
+.	8ff#J	.
+*ped	*	*
+(>12G#L	8gg#L	.
+12B#X	.	.
+.	8dd#XJ	.
+12g#J	.	.
+*tuplet	*	*
+4f#)	12eeL	.
+*Xped	*	*
+.	12gg#	.
+.	12ff#J	.
+!!LO:LB:g=original
+=13	=13	=13
+*ped	*	*
+*Xtuplet	*	*
+(>12C#L	8eeL	.
+12G#	.	.
+.	8cc#	.
+12eJ	.	.
+4c#)	8ccc#	.
+*Xped	*	*
+.	8bb#XJ	.
+*ped	*	*
+(12E#XL	4bbn	.
+12B	.	.
+12g#J	.	.
+*tuplet	*	*
+4c#)	8aaL	.
+*Xped	*	*
+.	8gg#J	.
+=14	=14	=14
+*ped	*	*
+*Xtuplet	*	*
+(>12F#L	8bbL	.
+12c#	.	.
+.	8aa	.
+12aJ	.	.
+4d#X)	8gg#	.
+*Xped	*	*
+.	8ff#J	.
+*ped	*	*
+(>12G#L	8gg#L	.
+12B#X	.	.
+.	8ff#J	.
+12g#J	.	.
+*tuplet	*	*
+4f#)	12ff#L	.
+*Xped	*	*
+.	12ee	.
+.	12dd#XJ	.
+=15	=15	=15
+*ped	*	*
+*Xtuplet	*	*
+(>12C#L	4cc#	.
+12G#	.	.
+12eJ	.	.
+*Xped	*	*
+4c#)	8dd#XL	.
+.	8eeJ	.
+*ped	*	*
+(>12CnL	[2ff#	.
+12F#	.	.
+12eJ	.	.
+*tuplet	*	*
+*Xped	*	*
+4A#X)	.	.
+=16	=16	=16
+*ped	*	*
+*Xtuplet	*	*
+(>12BBL	8ff#L]	.
+12F#	.	.
+.	8gg#	.
+12eJ	.	.
+4B)	8aa	.
+*Xped	*	*
+.	8bbJ	.
+*ped	*	*
+(>12BBL	8ddd#XL	.
+12F#	.	.
+.	8ccc#J	.
+12d#XJ	.	.
+*tuplet	*	*
+4A)	12ccc#L	.
+*Xped	*	*
+.	12bb	.
+.	12aaJ	.
+*tuplet	*	*
+!!LO:PB:g=original
+=17	=17	=17
+*ped	*	*
+*Xtuplet	*	*
+(>12EL	4gg#	.
+12B	.	.
+12g#J	.	.
+4d#X)	8ff##XL	.
+*Xped	*	*
+.	8gg#J	.
+*ped	*	*
+!	!LO:TX:t=cresc._:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:i:t=cresc.
+(>12EL	[>2aa#X	<
+12A#X	.	.
+12g#J	.	.
+*tuplet	*	*
+4c##X)	.	.
+*Xped	*	*
+.	.	.
+=18	=18	=18
+*ped	*	*
+*Xtuplet	*	*
+(>12D#XL	8aa#L]	.
+12A#	.	.
+.	8bb	.
+12g#J	.	.
+4d#)	8ccc#	.
+*Xped	*	*
+.	8ddd#XJ	.
+*ped	*	*
+(>12C#L	8fff#L	.
+12A#	.	.
+.	8eeeJ	.
+12f##XJ	.	.
+*tuplet	*	*
+4d#)	12eeeL	.
+*Xped	*	*
+.	12ddd#	.
+.	12ccc#J	.
+=19	=19	=19
+*ped	*	*
+(>12BBL	8eeeL	.
+12D#X	.	.
+.	8ddd#X	.
+12d#J	.	.
+4G#)	8ccc#	.
+*Xped	*	*
+.	8bbJ	.
+*ped	*	*
+*Xtuplet	*	*
+(>12C#L	8aa#XL	.
+12G#	.	.
+.	8gg#	.
+12eJ	.	.
+*tuplet	*	*
+4A#X)	8ee	.
+*Xped	*	*
+.	8cc#J	[
+!!LO:LB:g=original
+=20	=20	=20
+*ped	*	*
+*Xtuplet	*	*
+(>12D#XL	2dd#X	f
+12G#	.	.
+12d#J	.	.
+4B)	.	.
+*Xped	*	*
+.	.	.
+*ped	*	*
+(12EL	>2g#)	.
+12G#	.	.
+12eJ	.	.
+*tuplet	*	*
+4B)	.	.
+*Xped	*	*
+.	.	.
+=21	=21	=21
+*ped	*	*
+*Xtuplet	*	*
+(>12GG#L	(>2b	.
+12D#X	.	.
+12BJ	.	.
+4G#)	.	.
+*Xped	*	*
+.	.	.
+*ped	*	*
+(>12C#L	4e	.
+12E	.	.
+12BJ	.	.
+*tuplet	*	*
+4G#)	8d#XL	.
+*Xped	*	*
+.	8c#J	.
+=22	=22	=22
+*ped	*	*
+!	!LO:TX:a:i:t=ten.	!
+*Xtuplet	*	*
+(<12DD#XL/	[1d#X	.
+12AA#X/	.	.
+12G#J/	.	.
+*Xped	*	*
+4D#X/)	.	.
+*ped	*	*
+(<12DD#L/	.	.
+12AA#/	.	.
+12F##XJ/	.	.
+*tuplet	*	*
+4D#/)	.	.
+*Xped	*	*
+.	.	.
+!!LO:LB:g=original
+=23	=23	=23
+*ped	*	*
+*Xtuplet	*	*
+(>12GG#L	4d#X]	.
+12D#X	.	.
+12B#XJ	.	.
+4G#)	4g#	.
+(>12GG#L	4f#	.
+12D#	.	.
+12B#J	.	.
+*tuplet	*	*
+4G#)	8eL	.
+*Xped	*	*
+.	8d#yJ	.
+=24	=24	=24
+*ped	*	*
+*Xtuplet	*	*
+(>12GG#L	8f#L	.
+12E	.	.
+.	8e	.
+12A#XJ	.	.
+4G#)	8d#X	.
+*Xped	*	*
+.	8c#J	.
+*ped	*	*
+(>12GG#L\	8eL	.
+12C#	.	.
+.	8d#	.
+12A#J	.	.
+*tuplet	*	*
+4G#)	8c#	.
+*Xped	*	*
+.	8eJ	.
+=25	=25	=25
+*ped	*	*
+*Xtuplet	*	*
+(>12GG#L	4d#X)	.
+12D#X	.	.
+12B#XJ	.	.
+!	!LO:TX:t=dim._:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:i:t=dim.
+4G#)	(>4gg#	>
+(>12GG#L	4ff#	.
+12D#	.	.
+12B#J	.	.
+*tuplet	*	*
+4G#)	8eeL	.
+*Xped	*	*
+.	8dd#J	.
+!!LO:LB:g=original
+=26	=26	=26
+*ped	*	*
+*Xtuplet	*	*
+(>12C#L	8ff#L	.
+12G#	.	.
+.	8ee	.
+12eJ	.	.
+4A#X)	8dd#X	.
+*Xped	*	*
+.	8cc#J	.
+*ped	*	*
+(>12D#XL	8dd#L	.
+12F##X	.	.
+.	8cc#J	.
+12d#J	.	.
+*tuplet	*	*
+4c#)	12cc#L	.
+*Xped	*	*
+.	12b#X	.
+.	12a#XJ	.
+=27	=27	=27
+*ped	*	*
+*Xtuplet	*	*
+(>12GG#L	[1g#^>	.
+12D#X	.	.
+12B#XJ	.	.
+4G#)	.	.
+(>12GG#L	.	.
+12D#	.	.
+12B#J	.	.
+*tuplet	*	*
+4G#)	.	.
+=28	=28	=28
+*Xtuplet	*	*
+(>12GG#L	2g#])	.
+12D#X	.	.
+12B#XJ	.	.
+4G#)	.	.
+(>12GG#L	2r	.
+12D#	.	.
+12B#J	.	.
+*tuplet	*	*
+*Xped	*	*
+4G#)	.	]
+!!LO:PB:g=original
+=29	=29	=29
+*	*^	*
+*ped	*	*	*
+*Xtuplet	*	*	*
+(<12CC#L	2r	2ryy	<
+>12GG#	.	.	.
+12C#J	.	.	.
+*tuplet	*	*	*
+4G#)	.	.	[[
+*Xped	*	*	*
+2r	(>4c#	[2c#	>
+.	4d# 4F#<	.	]
+=30	=30	=30	=30
+1r	4e#X 4G#<	2c#]	<
+.	4f# 4A<	.	.
+.	4a [>4e# [<4c#	4rFyy	[
+!	!LO:N:n=3:vis=8	!	!
+!	!LO:N:n=2:vis=8	!	!
+.	8.g# 8.e#] 8.c#]L	4B	>
+.	16f#J	.	]]
+*	*v	*v	*
+=31	=31	=31
+.	<8qA</	]
+*ped	*	*
+!	!LO:TX:t=P:łuk pionowy od 8qA do 4f#:problem	!
+*Xtuplet	*	*
+(>12FF#L\	4f#)	.
+12C#	.	.
+12AJ	.	.
+4F#)	(>4ff#	.
+*Xped	*	*
+.	.	.
+*ped	*	*
+(>12FF#L\	4ee	.
+12C#	.	.
+12A#XJ	.	.
+*tuplet	*	*
+4F#)	8ddL	.
+*Xped	*	*
+.	8cc#J	.
+=32	=32	=32
+*ped	*	*
+*Xtuplet	*	*
+(>12BBL	8eeL	.
+12F#	.	.
+.	8dd	.
+12dJ	.	.
+4G#)	8cc#	.
+*Xped	*	*
+.	8bJ	.
+*ped	*	*
+(12C#L	8cc#L/	.
+12E#X	.	.
+.	8g#/	.
+12c#J	.	.
+*tuplet	*	*
+4B)	8a/	.
+*Xped	*	*
+.	.	.
+.	8qcc#/	.
+.	8bJ	.
+!!LO:LB:g=original
+=33	=33	=33
+*ped	*	*
+*Xtuplet	*	*
+(>12FF#L\	8aL	.
+12C#	.	.
+.	8f#	.
+12AJ	.	.
+4F#)	8ff#	.
+*Xped	*	*
+.	8ee#XJ	.
+*ped	*	*
+(>12AA#XL	4een	.
+12E	.	.
+12c#J	.	.
+*tuplet	*	*
+4F#)	8ddL	.
+*Xped	*	*
+.	8cc#J	.
+=34	=34	=34
+*ped	*	*
+*Xtuplet	*	*
+(>12BBL	8eeL	.
+12F#	.	.
+.	8dd	.
+12dJ	.	.
+4G#)	8cc#	.
+*Xped	*	*
+.	8bJ	.
+*ped	*	*
+(>12C#L	8cc#L	.
+12E#X	.	.
+.	8bJ	.
+12c#J	.	.
+*tuplet	*	*
+!	!LO:TX:a:t=P:stem-side tuplet number:problem	!
+4B)	12bL/	.
+*Xped	*	*
+.	12a/	.
+.	12g#J/	.
+=35	=35	=35
+*^	*	*
+*ped	*	*	*
+*Xtuplet	*Xtuplet	*	*
+!LO:N:vis=3	!	!	!
+(>12F#L\	12ryy	4f#	.
+12A	6.A/	.	.
+12dJ	.	.	.
+4c#)\	.	8g#L	.
+*Xped	*	*	*
+.	6ryy	.	.
+.	.	8aJ	.
+*ped	*	*	*
+!LO:N:vis=3	!	!	!
+(12FnL\	12ryy	[2b	.
+12A	6.A/	.	.
+12eJ	.	.	.
+*tuplet	*tuplet	*	*
+4d#X)\	.	.	.
+*Xped	*	*	*
+.	6ryy	.	.
+*v	*v	*	*
+=36	=36	=36
+*^	*	*
+*ped	*	*	*
+*Xtuplet	*Xtuplet	*	*
+!LO:N:vis=3	!	!	!
+(>12EL\	12ryy	8bL]	.
+12A	6.A/	.	.
+.	.	8cc#	.
+12f#J	.	.	.
+4e)\	.	8dd	.
+*Xped	*	*	*
+.	6ryy	.	.
+.	.	8eeJ	.
+*ped	*	*	*
+!LO:N:vis=3	!	!	!
+(12EL\	12ryy	[8gg#L	.
+12G#	4G#/	.	.
+.	.	8ff#J	.
+12eJ	.	.	.
+*tuplet	*	*	*
+!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+4d)\	.	12ff#L	.
+*Xped	*	*	*
+.	6ryy	12ee	.
+.	.	12ddJ	.
+*v	*v	*	*
+!!LO:LB:g=original
+=37	=37	=37
+*ped	*	*
+*Xtuplet	*	*
+(>12AAL	4cc#	.
+12E	.	.
+12c#J	.	.
+4A)	8b#XL	.
+*Xped	*	*
+.	8cc#J	.
+*ped	*	*
+(>12AAL	[2dd#X	.
+12D#X	.	.
+12c#J	.	.
+*tuplet	*	*
+4F##X)	.	.
+*Xped	*	*
+.	.	.
+=38	=38	=38
+*ped	*	*
+*Xtuplet	*	*
+(>12GG#L	8dd#XL]	.
+12D#X	.	.
+.	8ee	.
+12c#J	.	.
+4G#)	8ff#	.
+*Xped	*	*
+.	8gg#J	.
+*ped	*	*
+(>12GG#L	8bbL	.
+12D#	.	.
+.	8aaJ	.
+12B#XJ	.	.
+*tuplet	*	*
+4G#)	12aaL	.
+*Xped	*	*
+.	12gg#	.
+.	12ff#J	.
+=39	=39	=39
+*ped	*	*
+*Xtuplet	*	*
+(12C#L	4gg#	.
+12G#	.	.
+12eJ	.	.
+4c#)	8cc#L	.
+*Xped	*	*
+.	.	.
+.	8ccc#J	.
+*ped	*	*
+(>12E#XL	4bb	.
+12B	.	.
+12g#J	.	.
+*tuplet	*	*
+4c#)	8aaL	.
+*Xped	*	*
+.	8gg#J	.
+=40	=40	=40
+*ped	*	*
+*Xtuplet	*	*
+(>12F#L	8bbL	.
+12c#	.	.
+.	8aa	.
+12aJ	.	.
+4d#X)	8gg#	.
+*Xped	*	*
+.	8ff#J	.
+*ped	*	*
+(12G#L	8gg#L	.
+12B#X	.	.
+.	8dd#X	.
+12g#J	.	.
+!	!LO:TX:t=P:oznaczenie trioli bez klamry:problem	!
+*tuplet	*	*
+4f#)	12ee	.
+*Xped	*	*
+.	12gg#	.
+.	12ff#J	.
+!!LO:LB:g=original
+=41	=41	=41
+*ped	*	*
+*Xtuplet	*	*
+(>12C#L	8eeL	.
+12G#	.	.
+.	8cc#	.
+12eJ	.	.
+.	8qcc#/L	.
+.	8qdd/	.
+.	8qcc#/	.
+.	8qb#X/	.
+.	8qcc#/	.
+.	8qcc#/J	.
+4c#)	8ccc#	.
+*Xped	*	*
+.	.	.
+.	8bb#XJ	.
+*ped	*	*
+(>12E#XL	4bbn	.
+12B	.	.
+12g#J	.	.
+*tuplet	*	*
+4c#)	8aaL	.
+*Xped	*	*
+.	8gg#J	.
+=42	=42	=42
+*ped	*	*
+*Xtuplet	*	*
+(>12F#L	8bbL	.
+12c#	.	.
+.	8aa	.
+12aJ	.	.
+4d#X)	8gg#	.
+*Xped	*	*
+.	.	.
+.	8ff#J	.
+*ped	*	*
+(12G#L	8gg#L	.
+12B#X	.	.
+.	8ff#J	.
+12g#J	.	.
+*tuplet	*	*
+4f#)	12ff#L	.
+*Xped	*	*
+.	12ee	.
+.	12dd#XJ	.
+=43	=43	=43
+*ped	*	*
+*Xtuplet	*	*
+(>12C#L	4cc#	.
+12G#	.	.
+12eJ	.	.
+4c#)	8dd#XL	.
+*Xped	*	*
+.	.	.
+.	8eeJ	.
+*ped	*	*
+!	!LO:TX:t=cresc._:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:i:t=cresc.
+(>12CnL	[2ff# [>2f#	<
+12F#	.	.
+12eJ	.	.
+*tuplet	*	*
+4A#X)	.	.
+*Xped	*	*
+.	.	.
+=44	=44	=44
+*ped	*	*
+*Xtuplet	*	*
+(>12BBL	8ff#L] 8f#]	.
+12F#	.	.
+.	8gg# 8g#	.
+12eJ	.	.
+4B)	8aa 8a	.
+*Xped	*	*
+.	8bbJ 8b	.
+.	((>8qdd#X/	.
+*ped	*	*
+(>12BBL	8ddd#XL 8dd#y))	.
+12F#	.	.
+.	8ccc#J 8cc#	.
+12d#XJ	.	.
+*tuplet	*	*
+4A)	12ccc#L 12cc#	.
+*Xped	*	*
+.	12bb 12b	.
+.	12aaJ 12a	.
+!!LO:LB:g=original
+=45	=45	=45
+*ped	*	*
+*Xtuplet	*	*
+(>12EL	4gg# 4g#	.
+12B	.	.
+12g#J	.	.
+4d#X)	8ff##XL 8f##X	.
+*Xped	*	*
+.	8gg#J 8g#	.
+*ped	*	*
+(>12EL	[2aa#X [>2a#X	.
+12A#X	.	.
+12g#J	.	.
+*tuplet	*	*
+4c##X)	.	.
+*Xped	*	*
+.	.	.
+=46	=46	=46
+*ped	*	*
+*Xtuplet	*	*
+(12D#XL	8aa#XL] 8a#X]	.
+12A#X	.	.
+.	8bb 8b	.
+12g#J	.	.
+*Xped	*	*
+4d#y)	8ccc# 8cc#	.
+.	8ddd#XJ 8dd#X	.
+*ped	*	*
+(>12C#L	8fff#L 8ff#	.
+12F##X	.	.
+.	8eeeJ 8ee	.
+12eJ	.	.
+*tuplet	*	*
+4A#X)	12eeeL 12ee	[
+*Xped	*	*
+.	12ddd# 12dd#	.
+.	12ccc#J 12cc#	.
+=47	=47	=47
+*ped	*	*
+*Xtuplet	*	*
+(>12BBL	8eeeL 8ee	f
+12D#X	.	.
+.	8ddd#X 8dd#X	.
+12d#XJ	.	.
+4G#)	8ccc# 8cc#	.
+*Xped	*	*
+.	8bbJ 8b	.
+*ped	*	*
+(>12C#L	8aa#XL 8a#X	.
+12G#	.	.
+.	8gg# 8g#	.
+12eJ	.	.
+*tuplet	*	*
+4A#X)	8ee 8e	.
+*Xped	*	*
+.	8cc#J 8c#	.
+=48	=48	=48
+*ped	*	*
+*Xtuplet	*	*
+(<12DD#XL/	2dd#X 2d#X	.
+12BB/	.	.
+12BJ/	.	.
+*Xped	*	*
+(4D#X/)	.	.
+*ped	*	*
+>12EEL\	2g# 2G#	.
+12BB\	.	.
+12BJ\	.	.
+*tuplet	*	*
+4E)	.	.
+*Xped	*	*
+.	.	.
+!!LO:PB:g=original
+=49	=49	=49
+*ped	*	*
+*Xtuplet	*	*
+(12GGG#L/	2b 2B	.
+12DD#X/	.	.
+12D#XJ/	.	.
+4GG#/)	.	.
+*Xped	*	*
+.	.	.
+*ped	*	*
+(<12CC#L\	4e 4E<	.
+12GG#	.	.
+12G#J	.	.
+*tuplet	*	*
+4AA#X\)	8d#XL 8D#X<	.
+*Xped	*	*
+.	8c#J 8C#<	.
+=50	=50	=50
+*^	*	*
+*ped	*	*	*
+*	*Xtuplet	*	*
+4D#X	(>12DD#XL\	[1d#X	>
+.	12AA#X	.	.
+.	12G#J	.	.
+*Xped	*	*	*
+2.ryy	4D#)	.	.
+*ped	*	*	*
+.	(<12DD#L/	.	.
+.	12AA#/	.	.
+.	12F##XJ/	.	.
+*	*tuplet	*	*
+.	4D#/)	.	.
+*Xped	*	*	*
+.	.	.	]]
+*v	*v	*	*
+=51	=51	=51
+*ped	*	*
+*Xtuplet	*	*
+(>12GG#L	4d#X]	.
+12D#X	.	.
+12B#XJ	.	.
+4G#)	4g#	.
+*Xped	*	*
+.	.	.
+*ped	*	*
+(>12GG#L	4f#	.
+12D#	.	.
+12B#J	.	.
+*tuplet	*	*
+4G#)	8eL	.
+*Xped	*	*
+.	8d#yJ	.
+=52	=52	=52
+*ped	*	*
+*Xtuplet	*	*
+(>12GG#L\	8f#L	.
+12C#	.	.
+.	8e	.
+12A#XJ	.	.
+4G#)	8d#X	.
+.	8c#J	.
+(>12GG#L	8eL	.
+12E	.	.
+.	8d#	.
+12A#J	.	.
+*tuplet	*	*
+4G#)	8c#	.
+*Xped	*	*
+.	8eJ	.
+!!LO:LB:g=original
+=53	=53	=53
+*ped	*	*
+*Xtuplet	*	*
+(>12GG#L	4d#X	.
+12D#X	.	.
+12B#XJ	.	.
+!	!LO:TX:t=dim._:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:i:t=dim.
+4G#)	>4gg#	>
+(>12GG#L	4ff#	.
+12D#	.	.
+12B#J	.	.
+*tuplet	*	*
+4G#)	8eeL	.
+*Xped	*	*
+.	8dd#XJ	.
+=54	=54	=54
+*ped	*	*
+*Xtuplet	*	*
+(>12C#L	8ff#L	.
+12G#	.	.
+.	8ee	.
+12eJ	.	.
+4A#X)	8dd#X	.
+*Xped	*	*
+.	8cc#J	.
+*ped	*	*
+(>12D#XL	8dd#L	.
+12F##X	.	.
+.	8cc#J	.
+12d#XJ	.	.
+*tuplet	*	*
+4c#)	12cc#L	.
+.	12b#X	.
+*Xped	*	*
+.	12a#XJ	.
+=55	=55	=55
+*ped	*	*
+*Xtuplet	*	*
+(>12GG#L	[1g#	.
+12D#X	.	.
+12B#XJ	.	.
+4G#)	.	.
+.	.	.
+(>12GG#L	.	.
+12D#	.	.
+12B#J	.	.
+*tuplet	*	*
+4G#)	.	.
+=56	=56	=56
+*	*	*^
+!	!LO:TX:a:i:t=ritenuto	!	!
+*Xtuplet	*	*	*
+(>12GG#L	2g#]	.	<
+12D#X	.	]	[[
+!	!	!LO:HP:vg=1	!
+12B#XJ	.	>	.
+4G#)	.	.	.
+(>12GG#L	2e)	.	<
+12F#	.	.	.
+12B#J	.	]	.
+*tuplet	*	*	*
+*Xped	*	*	*
+4G#)	.	.	.
+*kcancel	*	*	*
+.	.	.	.
+*	*	*v	*v
+!!LO:LB:g=original
+=57||	=57||	=57||
+*k[fncngnb-e-a-d-g-]	*k[fncngnb-e-a-d-g-]	*
+*M3/4	*M3/4	*
+!	!LO:TX:B:a:t=Molto più lento.	!
+!	!LO:S:s=1:note:problem:note-level slur	!
+4D-\ 4AA- 4DD-	(>4f 4d- 4A-< 4F<	f<
+!	!LO:S:s=1:note:problem:note-level slur	!
+4E-\ 4AA- 4EE-	4g- 4c 4G-<)	.
+.	.	[
+!	!	!LO:DY:b=2
+.	.	p
+!	!LO:TX:a:t=P:stem-side tuplet number:problem	!
+4rEE	(>20Gn<LL^>/	.
+.	20A-</	.
+.	20C</	.
+.	20G-X</	.
+.	20c<JJ/	.
+=58	=58	=58
+2.rF	8.b-L	.
+.	16b--Jk	.
+.	2a-)\	.
+=59	=59	=59
+4F\ 4D- 4FF	>4a- 4d- 4A-<	f<
+4G-\ 4D- 4GG-	4b- 4d- 4B-<	.
+.	.	[
+!	!	!LO:DY:b=2
+.	.	p
+!	!LO:TX:t=P:mixed beam:problem	!
+4rEE	(>20G-<LL/	[
+.	20A</	.
+.	20B-</	.
+.	20d-\	<
+.	20g-JJ\	[[
+=60	=60	=60
+2.rF	8.ee-L	.
+.	16dd-Jk	.
+.	4b-	.
+.	8.g-L/	>
+.	16fJk/)	.
+.	.	]
+=61	=61	=61
+*ped	*	*
+!	!LO:S:s=1:note:problem:note-level slur	!
+4AA-\ 4AAA-	(>4e- 4c 4G-<	p
+!	!LO:S:s=1:note:problem:note-level slur	!
+4AA-\ 4AAA-	4f 4c 4G-<)	.
+*Xped	*	*
+4rEE	(>20Gn<LL/	.
+.	20A-</	.
+.	20C</	.
+.	20G-X</	.
+.	20c<JJ/	.
+!!LO:LB:g=original
+=62	=62	=62
+*^	*^	*
+*ped	*	*	*	*
+!	!	!	!	!LO:HP:b=2
+(<8.EnL	4DD-	8.b-L	2.d-	<
+16FJk	.	16a-Jk	.	.
+2A-/)	2ryy	2f)	.	.
+.	.	.	.	[
+*Xped	*	*	*	*
+.	.	.	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=63	=63	=63
+*ped	*	*
+!	!LO:S:s=1:note:problem:note-level slur	!
+4AA-\ 4AAA-	(>4e- 4c 4G-<	p
+!	!LO:S:s=1:note:problem:note-level slur	!
+4AA-\ 4AAA-	4f) 4c 4G-<	.
+*Xped	*	*
+!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+4rGGG	(<20G<LL/	<
+.	20A-</	.
+.	20C</	.
+.	20G-</	.
+.	20c<JJ/)	.
+.	.	[
+=64	=64	=64
+*^	*	*
+(4DD-	&(8.DD-L	>8.g-<L 8.B--</	.
+.	16AA-Jk	16f<Jk 16A-</	.
+2ryy	4D-)\ 4DD-&)	4d-< [4F</	.
+.	4C\ 4CC	4f</ 4e-< 4An< 4F<]	.
+*v	*v	*	*
+=65	=65	=65
+4BB- 4BBB-	(>4dd- 4f 4d-	.
+4D- 4DD-	4b- 4f 4B-	.
+4E- 4EE-	4cc 4gn 4d-	.
+=66	=66	=66
+.	(8qb-/	.
+8.AA-L 8.AAA-	8.a-L 8.e- 8.cn)	.
+16E-Jk 16EE-	(<16gnJk 16e- 16B-	.
+2E- 2AA-	2a- 2e- 2c)	.
+=67	=67	=67
+4AA- 4AAA-	4cc-X 4e- 4c-X	.
+4C-X 4CC-X	4a- 4e- 4A-	.
+4D- 4DD-	4b- 4f 4c-	.
+=68	=68	=68
+.	8qa-/	.
+8.GG-L 8.GGG-	8.g-L 8.d- 8.B-	.
+16D-Jk 16DD-	16fJk 16d- 16A-	.
+4D- 4GG-	4g- 4d- 4B-	<
+4D- 4DD-	4a- 4f 4d- 4A-	.
+!!LO:LB:g=original
+=69	=69	=69
+4G- 4D- 4GG-	4b- 4g- 4d- 4B-	.
+4G- 4EE-	4cc 4e- 4B-)	.
+*ped	*	*
+!	!LO:TX:a:t=P:stem-side tuplet number:problem	!
+4FF\	(>24An<LL	.
+.	24e-	.
+.	24g-X	.
+.	24en	.
+.	24f	.
+.	24ccJJ)	.
+.	.	.
+=70	=70	=70
+*^	*	*
+(<8.AnL	2.BB-	(>8.ee-L/ 8.g-	.
+16B-Jk	.	>16dd-Jk [>16f	[
+4ryy	.	(4b- 4f] 4d-)	.
+8.BnL\ 8.BBn	.	>8.ffL/ 8.a- 8.f)	<
+!	!	!LO:TX:a:i:t=stretto	!
+16cJk 16C	.	16eenJk 16gn	.
+=71	=71	=71	=71
+4en>\	4C\	4cc/	.
+(<8.BnL	2C	(>8.ffL/ 8.a- 8.f	.
+16cJk	.	>16eenJk [>16gn	.
+4e>/)	.	4cc 4g)	.
+*v	*v	*	*
+=72	=72	=72
+*ped	*	*
+!	!LO:TX:a:i:t=ritenuto	!
+2A- 2C	(>4..ee-X/ 4..g-X/ 4..e-X/	<
+.	.	.
+.	16a- 16A-	[
+4C 4CC	4a- 4g- 4e- 4A-)	.
+*Xped	*	*
+.	.	.
+=73	=73	=73
+!	!LO:S:s=1:note:problem:note-level slur	!
+4D-\ 4AA- 4DD-	(>4f 4d- 4F<	<
+!	!LO:S:s=1:note:problem:note-level slur	!
+4E-\ 4AA- 4EE-	4g- 4c 4G-<)	.
+.	.	[
+!	!	!LO:DY:b=2
+4r	(>20Gn<^>LL/	p
+!	!	!LO:HP:b=2
+.	20A-</	<
+.	20C</	.
+.	20G-X</	.
+.	20c<JJ/	.
+=74	=74	=74
+2.rF	8.b-L	[[
+.	16b--Jk	.
+.	2a-\)	.
+!!LO:PB:g=original
+=75	=75	=75
+*ped	*	*
+!	!LO:TX:a:i:t=poco ritenuto	!
+!	!LO:S:s=1:note:problem:note-level slur	!
+4En\ 4BBn 4EEn	(>4g#X 4en 4G#X<	.
+*Xped	*	*
+.	.	.
+*ped	*	*
+!	!LO:S:s=1:note:problem:note-level slur	!
+4F#X\ 4BB 4FF#X	4an 4d#X 4An<)	.
+4rEE	(>20A#X<LL/	.
+*Xped	*	*
+.	20Bn<	.
+.	20D#X<	.
+!	!	!LO:HP:b=2
+.	20An<	<
+.	20d#<JJ	.
+=76	=76	=76
+.	8qqd#X/	.
+2.rF	8.cc#XL	.
+.	16bnJk	[
+.	8a#X/	.
+.	4an/	>
+.	8g-X/)	]
+*ped	*	*
+=77	=77	=77
+!	!LO:TX:a:B:t=in tempo	!
+4AA-\ 4AAA-	4a-X 4e- 4c 4G-<	.
+4AA-\ 4AAA-	4a- 4f 4c 4G-<	.
+*Xped	*	*
+4ryy	(>20Gn<LL/	.
+.	20A-<	.
+.	20C<	.
+.	20G-X<	.
+.	20c<JJ	.
+*ped	*	*
+=78	=78	=78
+*^	*^	*
+(<8.EnL	4DD-	8.b-L	2.d-	.
+<16FJk	.	16a-Jk	.	.
+2A-)/	2ryy	2f)	.	.
+*ped	*	*	*	*
+*v	*v	*	*	*
+*	*v	*v	*
+=79	=79	=79
+!	!LO:S:s=1:note:problem:note-level slur	!
+4AA-\ 4AAA-	(>4e- 4c 4G-<	.
+!	!LO:S:s=1:note:problem:note-level slur	!
+4AA-\ 4AAA-	4f 4c 4G-<)	.
+*Xped	*	*
+!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+4rEE	(20Gn<LL/	.
+.	20A-</	.
+.	20C</	.
+.	20G-X</	.
+.	20c<JJ)/	.
+!!LO:LB:g=original
+=80	=80	=80
+*^	*	*
+!LO:TX:t=P:crescendo na pięciolinii:problem	!	!	!
+!	!	!	!LO:HP:b=2
+[4DD-	8.DD-L	(>8.g-<L 8.B--<	>
+.	16AA-Jk	16f<Jk 16A-<	.
+2rAyy	4D- 4DD-]	4d-</ 4F</)	]
+.	4C 4CC	(>4f 4e- 4An< 4F<	.
+*v	*v	*	*
+=81	=81	=81
+4BB- 4BBB-	4dd- 4f 4d-	.
+4D- 4DD-	4b- 4f 4B-	.
+4E- 4EE-	4cc 4gn 4d-	.
+=82	=82	=82
+.	(8qqb-/	.
+8.AA-L 8.AAA-	8.a-L 8.e- 8.c)	.
+[16E-Jk 16EE-	16gnJk 16e- 16B-	.
+4E-] 4AA-	2a- 2e- 2c	.
+*tuplet	*	*
+(<20EE-LL	.	.
+20FF	.	.
+20EE-	.	.
+20BBB-	.	.
+(20AAA-JJ)	.	.
+=83	=83	=83
+4AA- 4AAA-)	4cc-X 4e- 4c-X	.
+4C-X 4CC-X	4a- 4e- 4A-	.
+4D- 4DD-	4b- 4f 4c-	.
+=84	=84	=84
+.	(8qa-/	.
+8.GG-L 8.GGG-	8.g-L 8.d- 8.B-)	.
+16D-Jk 16DD-	16fJk 16d- 16A-	.
+4D- 4GG-	4g- 4d- 4B-	.
+4D- 4DD-	4a- 4f 4d- 4A-)	.
+=85	=85	=85
+4G-\ 4D-\ 4GG-\	(4b- 4g- 4d- 4B-	.
+4G-\ 4EE-\	4cc 4e- 4B-)	<
+*ped	*	*
+*	*Xtuplet	*
+!	!LO:TX:t=P:mixed beam:problem	!
+4FF\	(>24An<LL/	.
+.	24e-\	.
+.	24g-\	.
+.	24en\	.
+*	*tuplet	*
+.	24f\	.
+*Xped	*	*
+.	[>24ccJJ\	.
+=86	=86	=86
+*^	*	*
+(<8.AnL	2BB-	8.ee-L/ 8.cc] 8.g-	.
+16B-Jk	.	16dd-Jk [>16f	[
+2ryy	.	4b- 4f] 4d-)	.
+.	8.BnL 8.BBn	(>8.ffL/ 8.a- 8.f	<
+.	16cJk [>16C	16eenJk [>16gn	.
+!!LO:LB:g=original
+=87	=87	=87	=87
+!	!	!LO:TX:t=P:brak zakończenia ligatury:problem	!
+4en>\	4C\]	4cc 4gnX])	.
+(<8.BnL	2C	(>8.ffL/ 8.a- 8.f	.
+16cJk	.	16eenJk >16gn	.
+4e>\)	.	4cc 4g	.
+*v	*v	*	*
+=88	=88	=88
+*	*^	*
+*ped	*	*	*
+2A- 2C	4..ee-X 4..g-X 4..e-X	2ryy	.
+.	.	.	.
+.	16a- 16A-	.	.
+4C 4CC	4a-	4g- 4e- 4A-	.
+*Xped	*	*	*
+.	.	.	.
+*	*v	*v	*
+=89	=89	=89
+4D-\ 4AA- 4DD-	4f 4d- 4F<	.
+4E-\ 4AA- 4EE-	4g- 4c 4G-<)	.
+!	!	!LO:DY:b=2
+!	!LO:TX:a:t=P:stem-side tuplet number:problem	!
+4rEE	(>20Gn<LL^>/	p
+.	20A-<	.
+.	20C<	.
+!	!	!LO:HP:b=2
+.	20G-X<	<
+.	20c<JJ	.
+=90	=90	=90
+2.rF	8.b-L	.
+.	16b--Jk	[
+.	2a-\)	.
+=91	=91	=91
+!	!LO:TX:a:i:t=ritenuto	!
+!	!LO:S:s=1:note:problem:note-level slur	!
+4E\ 4BBn 4EEn	(>4g#X 4en 4G#X<	.
+!	!LO:S:s=1:note:problem:note-level slur	!
+4F#X\ 4BBn 4FF#X	4an 4d#X 4An<)	.
+4rEE	(>20A#X<LL	.
+.	20Bn<	.
+.	20D#X<	.
+.	20An<	.
+.	20d#X<JJ	.
+=92	=92	=92
+2.rF	8.cc#XL	.
+.	16bnJk	.
+.	8a#X	.
+.	4an	.
+.	8g-X)	.
+!!LO:LB:g=original
+=93	=93	=93
+!	!LO:TX:a:B:t=in tempo.	!
+*ped	*	*
+!	!LO:S:s=1:note:problem:note-level slur	!
+4AA-\ 4AAA-	(>4a-X 4e- 4c 4G-<	.
+!	!LO:S:s=1:note:problem:note-level slur	!
+4AA-\ 4AAA-	4a- 4f 4c 4G-<)	.
+4rEE	(>20Gn<LL/	.
+.	20A-<	.
+*Xped	*	*
+.	20C<	.
+.	20G-X<	.
+.	20c<JJ	.
+=94	=94	=94
+*^	*^	*
+*ped	*	*	*	*
+8.EnL	4.DD-:	8.b-L:	4d-	<
+*Xped	*	*	*	*
+16FJk	.	16a-Jk	.	.
+2A-	.	2f 2c)	2ryy	.
+.	4.ryy	.	.	[[
+*v	*v	*	*	*
+*	*v	*v	*
+=95	=95	=95
+!	!LO:TX:t=cresc._:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:i:t=cresc.
+4C 4CC	(<4cc 4gn 4en 4B-	<
+4C 4CC	4cc 4a- 4e 4B-)	.
+!	!LO:TX:b:i:t=stretto:dur=4q:ext=ud:problem:text with extention lines	!
+4r	(>24BnLL	.
+.	24c	.
+.	24d#X	.
+.	24en	.
+.	24g	.
+.	24b-XJJ	.
+=96	=96	=96
+(>8qFF/	.	.
+*ped	*	*
+(8.GnL)	8.dd-L 8.en	.
+16A-Jk	16ccJk [16f	.
+*Xped	*	*
+4c)	4a- 4f])	.
+(16.GLL	(>16.dd-LL 16.e	.
+32A-JJk	32ccJJk 32f	.
+8c)	8a- 8f)	[
+=97	=97	=97
+*	*^	*
+*ped	*	*	*
+4A- 4AA-	4aa- 4ee- 4cc 4g-	2ryy	ff
+4A- 4AA-	4aa- 4ff 4cc 4g-	.	.
+*Xped	*	*	*
+.	.	.	.
+4r	(>20gnLL	20ryy	.
+.	20a-	20ryy	.
+*	*Xtuplet	*Xtuplet	*
+!	!	!LO:N:vis=5	!
+.	20c	20c\	.
+.	20g-X	20ryy	.
+.	20ccJJ	20ryy	.
+*	*	*tuplet	*
+!!LO:PB:g=original
+=98	=98	=98	=98
+!	!	!LO:TX:t=P:łuk od 8qD- do 8.en:problem	!
+.	.	8qD-</	.
+*ped	*	*	*
+4ryy	8.bb-L	8.dd- 8.enL	.
+.	16aa-Jk	16fJk	.
+!	!	!LO:TX:t=P:oznaczenie "9":problem	!
+!	!LO:TX:t=P:mixed beam:problem	!	!
+4ryy	26ffLL\	4ryy	.
+.	26dd-\	.	.
+.	26a-\	.	.
+.	26f\	.	.
+*Xped	*	*	*
+.	26d-\	.	.
+*ped	*	*	*
+.	26A-</	.	.
+.	26F</	.	.
+4ryy	.	4ryy	.
+.	26D-</	.	.
+.	26BB-</	.	.
+.	26AA-</	.	.
+.	26FF</	.	.
+.	26DD-</	.	.
+.	26BBB-<JJ/)	.	.
+*	*v	*v	*
+=99	=99	=99
+*^	*	*
+4ryy	4AAA-\	(>4e- 4c 4G-<	.
+2c 2G-	2AA- 2AAA-	4..f	.
+.	.	16g-	.
+=100	=100	=100	=100
+*	*	*	*^
+!	!	!LO:TX:t=P:problem:"dim."wewnątrz diminuenda:problem	!	!
+2.c#X 2.F#X	2.AAn 2.AAAn	4f#X	>	>
+.	.	4..f#	.	.
+.	.	16f#	]	.
+*v	*v	*	*v	*v
+=101||	=101||	=101||
+*k[f#c#g#]	*k[f#c#g#]	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+*ped	*	*
+!	!LO:TX:t=P:łuk od 8qF# do 4f#:problem	!
+8qAAA#X/	8qF#</	.
+!	!LO:TX:a:B:t=Tempo primo.	!
+*Xtuplet	*	*
+!	!	!LO:DY:rj
+(<12AA#XL	>4f# 4c# 4F#<	p
+12E	.	.
+12c#J	.	.
+4F#)	4ff#	.
+(>12AA#L	4ee	.
+12E	.	.
+12c#J	.	.
+*tuplet	*	*
+4F#)	8ddL	.
+*Xped	*	*
+.	8cc#J	.
+!!LO:LB:g=original
+=102	=102	=102
+*ped	*	*
+*Xtuplet	*	*
+(>12BBL	8eeL	.
+12F#	.	.
+.	8dd	.
+12dJ	.	.
+4G#)	8cc#	.
+*Xped	*	*
+.	8bJ	.
+*ped	*	*
+(>12C#L	8cc#L\	.
+12E#X	.	.
+.	8g#	.
+12c#J	.	.
+*tuplet	*	*
+4B)	8a	.
+*Xped	*	*
+.	8qqcc#/	.
+.	8bJ	.
+=103	=103	=103
+*ped	*	*
+*Xtuplet	*	*
+(>12FF#L\	8aL	.
+12C#	.	.
+.	8f#	.
+12AJ	.	.
+.	8qf#/L	.
+.	8qg#/	.
+.	8qf#/	.
+.	8qe#X/	.
+.	8qf#/	.
+.	8qf#/J	.
+4F#)	8ff#	.
+*Xped	*	*
+.	8ee#XJ	.
+*ped	*	*
+(>12AA#XL	4een	.
+12E	.	.
+12c#J	.	.
+*tuplet	*	*
+4F#)	8ddL	.
+*Xped	*	*
+.	8cc#J)	.
+=104	=104	=104
+*ped	*	*
+(12BBL	(8eeL	.
+12F#	.	.
+.	8dd	.
+12dJ	.	.
+!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+4G#)	12dd	.
+*Xped	*	*
+.	12cc#	.
+.	12bJ	.
+*ped	*	*
+(12C#L	10cc#L<	.
+12E#	.	.
+.	10g#	.
+12c#J	.	.
+.	10a	.
+4B)	.	.
+.	10cc#	.
+*Xped	*	*
+.	10bJ)	.
+=105	=105	=105
+*ped	*	*
+*Xtuplet	*	*
+(>12FF#L\	(>4a	.
+12C#	.	.
+12AJ	.	.
+4F#)	8g#L	.
+*Xped	*	*
+.	8aJ	.
+*ped	*	*
+(>12EL	[>2a#X^>	.
+12A#X	.	.
+12f##XJ	.	.
+*tuplet	*	*
+4c#)	.	.
+*Xped	*	*
+.	.	.
+!!LO:LB:g=original
+=106	=106	=106
+*ped	*	*
+*Xtuplet	*	*
+!	!LO:TX:t=P:brak zakończenia ligatury przy 8a#:problem	!
+(>12C#L	8a#XL\]	<
+12F##X	.	.
+.	8b\	.
+12eJ	.	.
+4A#X)	8cc#\	.
+*Xped	*	*
+.	8ddJ\	.
+*ped	*	*
+(>12AA#XL	8eeL\	.
+12E	.	.
+.	8ff#\	.
+12c#J	.	.
+*tuplet	*	*
+4Gn)	8ggn	.
+*Xped	*	*
+.	8a#J	[
+=107	=107	=107
+*ped	*	*
+*Xtuplet	*	*
+(12D#XL	4b	.
+12F#	.	.
+12f#J	.	.
+4B)	8a#XL\	.
+*Xped	*	*
+.	8bJ	.
+*ped	*	*
+(>12F#L	[2b#X^>	.
+12B#X	.	.
+12anyJ	.	.
+*tuplet	*	*
+*Xped	*	*
+4d#X)	.	.
+=108	=108	=108
+*ped	*	*
+*Xtuplet	*	*
+(>12D#XL	8b#XL]	.
+12A	.	.
+.	8cc#	.
+12f#J	.	.
+4B#X)	8dd#X	.
+*Xped	*	*
+.	8ee#XJ	.
+*ped	*	*
+(>12BB#XL	8ff#L	.
+12F#	.	.
+.	8gg#	.
+12d#XJ	.	.
+*tuplet	*	*
+4A)	8aa	.
+*Xped	*	*
+.	8f#J	.
+=109	=109	=109
+*ped	*	*
+*Xtuplet	*	*
+(>12BBL	8e#XL)\	.
+12D	.	.
+.	16r	.
+12dJ	.	.
+.	(>16ee#XJk	.
+4G#)	4ee#t	.
+*Xped	*	*
+.	.	.
+.	16qdd#/L	.
+.	16qee#/J	.
+*ped	*	*
+(>12AAL	8gg#L	.
+12C#	.	.
+.	8ff#	.
+12c#J	.	.
+*tuplet	*	*
+4F#)	12ff#	.
+*Xped	*	*
+.	12ee#	.
+.	12ddnyJ	.
+!!LO:LB:g=original
+=110	=110	=110
+*ped	*	*
+*	*^	*
+*Xtuplet	*	*	*
+(12EE#XL\	8b#XL	2ryy	.
+12C#\	.	.	.
+.	8cc#	.	.
+12BnyJ\	.	.	.
+.	8qee/	.	.
+4G#)	8dd	.	.
+*Xped	*	*	*
+.	8cc#J	.	.
+*ped	*	*	*
+(12EE#L\	8c#L	4c#	.
+12C#\	.	.	.
+.	8g#	.	.
+12BJ\	.	.	.
+*tuplet	*	*	*
+4G#)	8a	4ryy	.
+*Xped	*	*	*
+.	8bnyJ	.	.
+*	*v	*v	*
+=111	=111	=111
+*ped	*	*
+*Xtuplet	*	*
+(>12FF#L\	8aL	.
+12C#	.	.
+.	8f#	.
+12AJ	.	.
+4F#)	8g#	.
+*Xped	*	*
+.	8aJ	.
+*ped	*	*
+(>12BBL	[2d^>	.
+12D	.	.
+12AJ	.	.
+*tuplet	*	*
+*Xped	*	*
+4F#)	.	.
+=112	=112	=112
+*	*^	*
+*ped	*	*	*
+*Xtuplet	*	*	*
+!	!	!LO:TX:b:t=P:mixed beam:problem	!
+(>12C#L	8aL	12dL]\	.
+12F#	.	12ryy	.
+.	8f#	.	.
+12c#J	.	12c#<J/	.
+4A)	8g#	2.ryy	.
+*Xped	*	*	*
+.	8aJ	.	.
+*ped	*	*	*
+(>12DL	2B^>)	.	.
+12F#	.	.	.
+12f#J	.	.	.
+*tuplet	*	*	*
+4G#)	.	.	.
+*Xped	*	*	*
+.	.	.	.
+*	*v	*v	*
+=113	=113	=113
+1rF	(>2fff#	>
+.	8eeeL	.
+.	8ddd	.
+.	8ccc#	.
+.	8bbJ	]
+!!LO:LB:g=original
+=114	=114	=114
+1rF	8gg#L	.
+.	8ff#	.
+.	8dd	.
+.	8cc#J	.
+.	8a#XL	.
+.	8b	.
+.	8cc#	.
+.	8qee/	.
+.	8ddJ	.
+=115	=115	=115
+*ped	*	*
+*Xtuplet	*	*
+(>12CC#L	4c#)	.
+12F#	.	.
+12f#J	.	.
+4A)	4r	.
+(>12C#L	(>2cc#	pp
+12F#	.	.
+12f#J	.	.
+*tuplet	*	*
+4A)	.	.
+*Xped	*	*
+!!LO:LB:g=original
+=116	=116	=116
+*Xtuplet	*	*
+(>12C#L	8ddL	.
+12F#	.	.
+.	8cc#	.
+12c#J	.	.
+4A)	8b	.
+.	8aJ	.
+(>12C#L	8g#L	.
+12F#	.	.
+.	8f#	.
+12c#J	.	.
+*tuplet	*	*
+4A)	8b	.
+.	8aJ	.
+=117	=117	=117
+*ped	*	*
+.	16qf#/LL	.
+.	16qg#/JJ	.
+*Xtuplet	*	*
+(>12C#L	1g#tt	.
+12F#	.	.
+12c#J	.	.
+4G#)	.	.
+(>12C#L	.	.
+12F#	.	.
+12c#J	.	.
+*tuplet	*	*
+*Xped	*	*
+4G#)	.	.
+=118	=118	=118
+*ped	*	*
+*Xtuplet	*	*
+(>12C#L	1g#ttt	.
+12E#X	.	.
+12c#J	.	.
+4G#)	.	.
+(>12C#L	.	.
+12E#	.	.
+12c#J	.	.
+*tuplet	*	*
+*Xped	*	*
+4G#)	.	.
+.	(16qf##X/LLTTT	.
+.	16qg#/JJTTT	.
+!!LO:LB:g=original
+=119	=119	=119
+*ped	*	*
+*Xtuplet	*	*
+(>12C#L	2cc#)	.
+12En	.	.
+12eJ	.	.
+*Xped	*	*
+4G#)	.	.
+*ped	*	*
+(>12GG#L	2b#X	.
+12D#X	.	.
+12d#yJ	.	.
+*tuplet	*	*
+4G#)	.	.
+*Xped	*	*
+.	.	.
+=120	=120	=120
+*ped	*	*
+*Xtuplet	*	*
+(>12BBL	2bny	.
+12D#X	.	.
+12d#yJ	.	.
+*Xped	*	*
+4F#)	.	.
+*ped	*	*
+(>12FF#L	2a#X	.
+12C#	.	.
+12c#J	.	.
+*tuplet	*	*
+4F#)	.	.
+*Xped	*	*
+.	.	.
+=121	=121	=121
+*ped	*	*
+*Xtuplet	*	*
+>12FF#L\	2an	.
+12BB#X	.	.
+12AJ	.	.
+*Xped	*	*
+4D#X	.	.
+*ped	*	*
+(>12FFnL\	[2a	>
+12BB#	.	.
+12AJ	.	.
+*tuplet	*	*
+4D#)	.	.
+*Xped	*	*
+.	.	.
+=122	=122	=122
+*ped	*	*
+*Xtuplet	*	*
+(>12EEL\	4.a]	.
+12C#	.	.
+12AJ	.	.
+4E)	.	.
+*Xped	*	*
+.	8g#	.
+*ped	*	*
+.	16qg#/L	.
+.	16qb/J	.
+(>12EE#XL\	4a	.
+12BB	.	.
+12G#J	.	.
+*tuplet	*	*
+4C#)\	4g#)	]
+*Xped	*	*
+.	.	.
+=123	=123	=123
+*ped	*	*
+.	(8qc#/L	.
+.	[<8qqcc# 8qf#	.
+.	8qcc#J&)	.
+*Xtuplet	*	*
+!	!LO:TX:t=cresc._:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:i:t=cresc.
+(>12AAL	(2ccc# 2ff# 2cc#])	<
+12C#	.	.
+12c#J	.	.
+*Xped	*	*
+4F#)	.	.
+*ped	*	*
+(>12GG#L	2bb#X 2gg# 2b#X	.
+12D#X	.	.
+12d#yJ	.	.
+*tuplet	*	*
+4G#)	.	[
+*Xped	*	*
+.	.	.
+!!LO:LB:g=original
+=124	=124	=124
+*ped	*	*
+*Xtuplet	*	*
+(>12GGnL	2bbn 2ee#X 2bn	.
+12E#X	.	.
+12e#XJ	.	.
+*Xped	*	*
+4c#)	.	.
+*ped	*	*
+(>12FF#L	2aa#X 2ff# 2a#X	.
+12F#	.	.
+12f#J	.	.
+*tuplet	*	*
+4c#)	.	.
+*Xped	*	*
+.	.	.
+=125	=125	=125
+*ped	*	*
+*Xtuplet	*	*
+(>12D#XL 12DD#X	2aan 2b 2an	.
+12F#	.	.
+12f#J	.	.
+4B)	.	.
+*Xped	*	*
+.	.	.
+*ped	*	*
+(>12DnL 12DDn	[2aa 2b#X [2a	>
+12F#	.	.
+12f#J	.	.
+*tuplet	*	*
+4B#X)	.	.
+*Xped	*	*
+.	.	.
+=126	=126	=126
+*	*^	*
+*ped	*	*	*
+*Xtuplet	*	*	*
+!	!	!LO:TX:t=P:2cc# za 4.aa 4.a:problem	!
+(12C#L 12CC#	4.aa\] 4.a\]	2cc#\	.
+12F#	.	.	.
+12f#J	.	.	.
+4c#)	.	.	.
+.	8gg# 8g#	.	]
+*Xped	*	*	*
+.	.	.	.
+.	.	.	.
+*ped	*	*	*
+.	.	16qb/L	.
+.	.	16qb/	.
+.	.	>16qcc#/	<
+.	.	16qbb/J	.
+!	!	!LO:TX:t=P:2cc# za 4.aa 4.a:problem	!
+(<12CC#L 12CCC#	4.aa\ 4.a	2cc#	.
+12C#	.	.	.
+12BJ	.	.	.
+*tuplet	*	*	*
+4E#X/)	.	.	.
+*Xped	*	*	*
+.	.	.	.
+.	8gg#\ 8g#	.	.
+=127	=127	=127	=127
+*	*	*	*^
+*Xtuplet	*	*	*	*
+*ped	*	*	*	*
+(12FF#L 12FFF#	2cc#/	4gg# 4g#	[	.
+12C#	.	.	>	.
+12AJ	.	.	.	.
+4F#/)	.	[>2.ff# [2.f#)	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+*ped	*	*	*	*
+!	!	!	!	!LO:HP:vg=1
+(>12FF#L\	(4ee\	.	.	p
+12C#	.	.	.	.
+12A#XJ	.	.	.	.
+*tuplet	*	*	*	*
+4F#)	8ddL\	.	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+.	8cc#J)	.	]	.
+*	*	*	*v	*v
+=128	=128	=128	=128
+*ped	*	*	*
+*Xtuplet	*	*	*
+!	!	!LO:TX:t=P:1ff# 1f# za początku taktu:problem	!
+(>12FF#L	(8eeL\	1ff#_> 1f#_	]
+12D	.	.	.
+.	8dd	.	.
+12BJ	.	.	.
+4F#)	8cc#	.	.
+.	8bJ	.	.
+(>12FF#L\	8ddL\	.	.
+12BB	.	.	.
+.	8cc#	.	.
+12G#J	.	.	.
+*tuplet	*	*	*
+4F#)	8b	.	.
+*Xped	*	*	*
+.	8ddJ)	.	.
+!!LO:LB:g=original
+=129	=129	=129	=129
+*ped	*	*	*
+*Xtuplet	*	*	*
+(>12FF#L\	4cc#)/	4ff#] 4f#]	.
+12C#	.	.	.
+12A#XJ	.	.	.
+4F#)	(>[2.f#	4f#	.
+(>12FF#L\	.	4e	.
+12C#	.	.	.
+12A#J	.	.	.
+*tuplet	*	*	*
+4F#)	.	8dL	.
+*Xped	*	*	*
+.	.	8c#J	.
+=130	=130	=130	=130
+*^	*	*	*
+*ped	*	*	*	*
+*Xtuplet	*	*	*	*
+12ryy	(>12BBL	2f#]	8eL>	.
+6.D	12D	.	.	.
+.	.	.	8d	.
+.	12G#J	.	.	.
+.	4F#)	.	12d	.
+*Xped	*	*	*	*
+6ryy	.	.	12c#	.
+.	.	.	12BJ	.
+*ped	*	*	*	*
+*	*^	*	*	*
+2ryy	(12CC#L\	8c#<L/	[<2c#	2ryy	.
+.	12C#	.	.	.	.
+.	.	8B<	.	.	.
+.	12c#J	.	.	.	.
+!	!	!	!LO:TX:a:i:t=sempre	!	!
+!	!	!LO:TX:a:t=P:stem-side tuplet number:problem	!	!	!
+.	4E#X)	12B<	.	.	.
+.	.	12A#X	.	.	.
+*Xped	*	*	*	*	*
+*	*tuplet	*	*	*	*
+.	.	12G#<J	.	.	.
+*	*v	*v	*	*	*
+*	*	*v	*v	*
+*v	*v	*	*
+=131	=131	=131
+*ped	*	*
+!	!	!LO:DY:a
+*Xtuplet	*	*
+(12FF#L\	(<4c#)]	p
+12C#	.	.
+12A#XJ	.	.
+.	16qB#X/LL	.
+*Xped	*	*
+.	<16qc#/JJ	.
+4F#)	2c#^<T	.
+*ped	*	*
+(>12FF#L\	.	.
+12C#	.	.
+12BJ	.	.
+*tuplet	*	*
+.	16qB#/LL	.
+.	16qc#/JJ	.
+4E#X)	8bn)	.
+*Xped	*	*
+.	8r	.
+=132	=132	=132
+*ped	*	*
+*Xtuplet	*	*
+(>12FF#L\	(>4a#X	.
+12C#	.	.
+12A#XJ	.	.
+.	16qB#X/LL	.
+*Xped	*	*
+.	16qc#/JJ	.
+4F#)	&(2c#^t	.
+*ped	*	*
+(>12FF#L\	.	.
+12C#	.	.
+12BJ	.	.
+*tuplet	*	*
+.	16qB#/LL	.
+.	16qc#/JJ	.
+4E#X)	8g#&))	.
+*Xped	*	*
+.	8r	.
+=133	=133	=133
+*ped	*	*
+*Xtuplet	*	*
+(>12FF#L\	(>4f#	.
+12C#	.	.
+12A#XJ	.	.
+.	16qB#X/LL	.
+*Xped	*	*
+.	(<16qc#/JJ	.
+4F#)	2c#^T	.
+*ped	*	*
+(>12FF#L\	.	.
+12C#	.	.
+12BJ	.	.
+*tuplet	*	*
+.	16qB#/LL	.
+.	16qc#/	.
+.	16qqc#/JJ	.
+4E#X)	8dd#X'>) 8bny'>)	.
+*Xped	*	*
+.	8r	.
+!!LO:LB:g=original
+=134	=134	=134
+*ped	*	*
+*Xtuplet	*	*
+(>12FF#L\	(>4cc#/ 4a#X/	.
+12C#\	.	.
+12A#XJ\	.	.
+.	&(16qB#X/LL	.
+*Xped	*	*
+.	16qc#/JJ	.
+4F#)	(2c#^t	.
+*ped	*	*
+(>12FF#L\	.	.
+12C#	.	.
+12BJ	.	.
+*tuplet	*	*
+.	16qB#/LL	.
+.	16qc#/	.
+.	16qqc#/JJ	.
+4E#X)	8cc#'> 8b'> 8g#&'>))	.
+*Xped	*	*
+.	8r	.
+=135	=135	=135
+*ped	*	*
+*Xtuplet	*	*
+(>12FF#^L\	4cc# 4a#X 4f#	.
+12C#	.	.
+12A#XJ	.	.
+.	16qB#/LL	<
+*Xped	*	*
+.	16qc#/JJ	.
+4F#)	2.c#^TT	.
+*ped	*	*
+(>12EE#X^L\	.	.
+12C#	.	.
+12A#J	.	.
+4F#)	.	.
+*Xped	*	*
+.	.	[[
+=136	=136	=136
+*ped	*	*
+!	!LO:TX:i:t=smorz.-:dur=4q:ext=ud:problem:text with extention lines	!
+(>12DD#X^>L\	(>1c#TTT	.
+12C#	.	.
+12A#XJ	.	.
+*Xped	*	*
+4F#)	.	.
+*ped	*	*
+(<12CC#^<L/	.	.
+12C#/	.	.
+12A#J/	.	.
+*Xped	*	*
+4F#)	.	.
+.	>8qB#X\L	.
+.	8qc#\	.
+.	8qd#X\	.
+.	8qe#X\	.
+.	8qf#\	.
+.	8qg#\	.
+.	8qa#X\	.
+.	8qbn\	.
+.	8qcc#\	.
+.	8qdd#\	.
+.	8qee#\	.
+.	8qff#\	.
+.	8qgg#\	.
+.	8qaa#\	.
+.	8qbb\	.
+.	8qccc#\	.
+.	8qddd#\	.
+.	8qeee#\	.
+.	8qfff#\	.
+.	8qggg#\J	.
+=137	=137	=137
+*ped	*	*
+4FFF#'<	4aaa#X')	.
+4r	4r	]
+!LO:TX:B:t=Fine.	!	!
+2c#:; 2F#:; 2C#:; 2FF#:;	2ff#^<; 2a#X; 2f#;	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: > = "dim."
+!!!ENC: Emilia Ziętek
+!!!END: 2018-07-26
+!!!EED: Leszek Kubiak
+!!!EST: revision finished: 2018-07-
+!!!EED2: Emilia Ziętek
+!!!EST2: revision finished 2019-08-06
+!!!rism-genre: Nocturne
+!!!rism-key: F-sharp minor
+!!!rism-opus: op.  48, no. 2
+!!!rism-title: Nocturne in F-sharp minor op.  48, no. 2
+!!!rism-permalink: https://opac.rism.info/search?id=1001009037&View=rism
+!!!rism-773a-OPR: 1001009029
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001009029&View=rism

@@ -1,0 +1,1211 @@
+!!!!SEGMENT: 040-1-TR-001.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Polonaise No. 1.
+!!!OPS: Op. 40
+!!!PTL: DEUX POLONAISES Pour Le Piano.
+!!!PPR: Troupenas
+!!!PPP: Paris
+!!!NIFC-rismID: 1001067689
+!!!NIFC-shelfmark: PL-Wbfc 6610/n
+!!!system-decoration: {(s1,s2)}
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*I"ALLo. CON BRIO.	*I"ALLo. CON BRIO.	*
+*staff2	*staff1	*
+*>[A,A,B,B,C,D,D,E,E,F,F]	*>[A,A,B,B,C,D,D,E,E,F,F]	*>[A,A,B,B,C,D,D,E,E,F,F]
+*clefF4	*clefG2	*
+*k[f#c#g#]	*k[f#c#g#]	*
+*A:	*A:	*
+*M3/4	*M3/4	*
+=1	=1	=1
+*>A	*>A	*>A
+!	!	!LO:DY:rj
+8AAL 8AAA	8aL 8c#< 8A<	f
+16r	16r	.
+16AJk 16E 16AA	16eJk 16c#	<
+8AL 8E 8AA	8eL 8c#	.
+16r	16r	.
+16AJk 16E 16AA	16eJk 16c#	.
+16BLL 16E 16AA	16f#'>LL 16d'>	.
+16B 16E 16AA	16g#'> 16d'>	.
+16B 16E 16AA	16a'> 16d'>	.
+16BJJ 16E 16AA	16b'>JJ 16d'>	.
+.	.	[
+=2	=2	=2
+8.AL 8.E 8.AA	(>8.cc#L 8.c#	.
+16AJk 16E 16AA	16aJk 16c#	.
+!	!LO:N:vis=4	!
+8A 8E 8AA	8a'> 8c#'>)	.
+*Xtuplet	*Xtuplet	*
+24GG#LL	(>24G#<LL	>
+24AA	24A<	.
+24BBJJ	24B<JJ	.
+.	.	]
+8AAL	8A<'>L)	.
+8EEJ	8E<'>J	.
+=3	=3	=3
+8AA 8AAA	8cc#L 8c#	.
+16r	16rb	.
+16A 16E 16AA	16aJk 16c#	.
+8AL 8E 8AA	8aL 8c#	.
+16r	16rb	.
+16AJk 16E 16AA	16g#Jk 16c#	.
+16ALL 16E 16AA	16a'>LL 16c#'>	.
+16A 16E 16AA	16b'> 16a'> 16c#'>	.
+16A 16E 16AA	16cc#'> 16a'> 16c#'>	.
+16BJJ 16E 16AA	16dd'>JJ 16a'> 16c#'>	.
+=4	=4	=4
+8.B#XL 8.F# 8.D#X 8.AA	(>8.ff#L 8.a 8.d#X	.
+16c#Jk 16A 16E	16eeJk 16a 16e	.
+8c# 8A 8E	8ee 8a 8e)	.
+24GG#LL	(>24G#<LL	>
+24AA	24A<	.
+24BBnyJJ	24Bny<JJ	.
+.	.	]
+8AAL	8A<'>L)	.
+8EEJ	8E<'>J	.
+!!LO:LB:g=original
+=5	=5	=5
+8GG# 8GGG#	8ccc#' 8ee#X' 8cc#'	.
+24e#XLL 24c# 24G# 24E#X	(>24gg#LL 24cc# 24g#	.
+24e# 24c# 24G# 24E#	24gg# 24cc# 24g#	.
+24e#JJ 24c# 24G# 24E#	24gg#JJ 24cc# 24g#)	.
+8e#L 8c# 8G# 8E#	8gg#L 8cc# 8g#	.
+8e#J 8c# 8G# 8E#	8gg#J 8cc# 8g#	.
+!LO:TX:t=P:problem:mixed beam	!	!
+8d#yL\ 8B#X\ 8G#\ 8F#\	16aa#X'LL 16dd#X' 16a#X'	<
+.	16bb#X' 16b#X'	.
+8GG#J/ 8GGG#/	16ccc#' 16gg#' 16cc#'	.
+.	16ddd#ni'JJ 16dd#'	[
+=6	=6	=6
+!LO:TX:t=P:problem:mixed beam	!	!
+8.CC#L/ 8.CCC#/	(>8.eee#XL 8.ccc# 8.ee#X	.
+16c#Jk\ 16C#\	16ccc#Jk 16cc#)	.
+8c#L 8C#	8ccc#'L 8cc#'	<
+16c#L 16C#	16ccc#'L 16cc#'	.
+16c#JJ 16C#	16ccc#'JJ 16cc#'	.
+16c#LL 16C#	16ccc#'LL 16cc#'	.
+16c# 16C#	16ccc#' 16cc#'	.
+16c# 16C#	16ccc#' 16cc#'	.
+16c#JJ 16C#	16ccc#'JJ 16cc#'	[
+=7	=7	=7
+*^	*	*
+2ryy	8c#L 8C#	8ccc#L 8cc#	.
+.	16.BL 16.F# 16.D	16.bbL 16.ff# 16.b	.
+.	32BJJk 32F# 32D	32bbJJk 32ff# 32b	.
+.	8BL 8F# 8D	8bbL 8ff# 8b	.
+.	8c#J 8G# 8E	8ccc#J 8cc#	.
+8eL	4A 4F#	8eeeL 8aa 8ee	>
+8dJ	.	16dddL 16dd	.
+.	.	16ccc#JJ 16cc#	]
+*v	*v	*	*
+=8	=8	=8
+8dL 8G# 8E	8bbL 8b	.
+8eJ 8d 8G# 8E	(>16.bbL 16.ee 16.b	.
+.	32ccc#JJk 32cc#	.
+[4e 4d 4G# 4E	4bb 4ee 4b	.
+8e] 8c# 8A	8aa) 8a	.
+8r	8r	.
+!!LO:LB:g=original
+=9:|!|:	=9:|!|:	=9:|!|:
+*>B	*>B	*>B
+8BBL\ 8BBB	(>8bbL 8ff# 8dd#X 8b 8a	.
+16r	16r	.
+16BJk 16BB	16ff#Jk) 16dd# 16b 16a	.
+8B 8BB	8ff#' 8dd#' 8b' 8a'	.
+*tuplet	*	*
+!LO:TX:b:t=P:note-head-side tuplet number:problem	!	!
+24AA#XLL	(>24A#X<LL	>
+24BB	24B<	.
+24C#J	24c#<J	.
+.	.	]
+8BBJ	8B<J)	.
+8E 8EE	8gg#' 8ee' 8g#'	.
+=10	=10	=10
+8BB 8BBB	8bb' 8dd#X' 8b' 8a'	.
+*Xtuplet	*tuplet	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+24BLL 24BB	(>24ff#'LL 24dd#' 24b' 24a'	.
+24B 24BB	24ff#' 24dd#' 24b' 24a'	.
+24BJJ 24BB	24ff#'JJ 24dd#' 24b' 24a'	.
+8B 8BB	8ff#' 8dd#' 8b' 8a')	.
+*tuplet	*Xtuplet	*
+!LO:TX:b:t=P:note-head-side tuplet number:problem	!	!
+24AA#XLL	(>24A#X<LL	>
+24BB	24B<	.
+24C#J	24c#<J	.
+.	.	]
+8BBJ	8B<'>J)	.
+(<8BB 8BBB	(>8gg# 8dd# 8g#	.
+=11	=11	=11
+8C#L 8CC#)	8eeL)\ 8cc# 8g# 8e	.
+16C#L 16CC#	16ee'L 16cc#' 16g#' 16e'	.
+16C#JJ 16CC#	16ee'JJ 16cc#' 16g#' 16e'	.
+8FF#L 8FFF#	8aaL 8cc# 8a	.
+8GG# 8GGG#	8gg# 8b# 8g#	.
+8AA 8AAA	8ff# 8cc# 8f#	.
+8GG#J 8GGG#	8gg#J 8dd#X 8b#X 8g# 8f#	.
+=12	=12	=12
+8C#L 8CC#	8eeL 8cc# 8g# 8e	.
+8DJ 8DD	8dd#XJ 8cc# 8a#X 8f##X 8d#X 8c#	.
+!!!SIC@EN: 8D and 8DD are missing sharp accidentals. All 16D and 16DD should be 16D# and 16DD#
+8G# 8GG#	8b#X 8g# 8d# 8B#X	<
+16DLL 16DD	16dd#LL 16d#	.
+16DJJ 16DD	16dd#JJ 16d#	.
+16DLL 16DD	16dd#LL 16d#	.
+16D 16DD	16dd# 16d#	.
+16D 16DD	16dd# 16d#	.
+16DJJ 16DD	16dd#JJ 16d#	.
+.	.	[
+!!LO:LB:g=original
+=13	=13	=13
+!LO:TX:t=P:problem:mixed beam	!	!
+8DDL/ 8DDD/	(>8ddd#XL 8aa 8ff##X 8dd# 8cc#	.
+!!!SIC@EN: 8aa is missing a sharp accidental. There should be 16aa# and 8aa# instead of 16aa and 8aa (in the next part of the measure)
+!!!SIC@EN: 8DD and 8DDD are missing sharp accidentals.
+16rE	16rcc	.
+16f##XJk\ 16d#X\ 16c#\ 16A#X\ 16F##X\	16aaJk 16ff## 16dd# 16cc#	.
+8f## 8d# 8c# 8A# 8F##	8aa` 8ff## 8dd# 8cc#)	.
+*	*tuplet	*
+!LO:TX:b:t=P:note-head-side tuplet number:problem	!	!
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+!	!	!LO:HP:a
+24C##XLL	(>24c##XLL	>
+24D#i	24d#y	.
+24E#XJ	24e#XJ	.
+.	.	]
+8D#J	8d#J)	.
+8GG# 8GGG#	8bb#X' 8gg#' 8dd#X' 8b#X'	.
+=14	=14	=14
+8DD 8DDD	8ddd#X' 8aa#X' 8ff##X' 8dd#' 8cc#'	.
+!!!SIC@EN: 8DD and 8DDD are missing sharp accidentals
+*Xtuplet	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+24f##XLL 24d 24c# 24A#X 24F##X	(>24aa#X'LL 24dd#' 24cc#' 24a#X'	.
+!!!SIC@EN: 24d is missing a sharp accidental. There should be 24d# instead of 24d (in the next part of the measure)
+24f## 24d 24c# 24A# 24F##	24aa#' 24dd#' 24cc#' 24a#'	.
+24f##JJ 24d 24c# 24A# 24F##	24aa#'JJ 24dd#' 24cc#' 24a#'	.
+8f## 8d 8c# 8A# 8F##	8aa#' 8dd#' 8cc#' 8a#')	.
+*tuplet	*	*
+!	!	!LO:HP:a
+!LO:TX:b:t=P:note-head-side tuplet number:problem	!	!
+24C##XLL	(>24c##XLL	>
+24D	24d#i	.
+!!!SIC@EN: 24D is missing a sharp accidental. There should be 8D# instead of 8D
+24E#XJ	24e#XJ	.
+.	.	]
+8DJ	8d#J)	.
+8GG# 8GGG#	8bb#X' 8gg#' 8dd#' 8b#X'	.
+=15	=15	=15
+8AA 8AAA	8ccc#' 8ff#' 8cc#'	.
+*Xtuplet	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+24ALL 24AA	(>24ff#'LL 24cc#' 24f#'	<
+24A 24AA	24ff#' 24cc#' 24f#'	.
+24AJJ 24AA	24ff#'JJ 24cc#' 24f#'	.
+8AL\ 8AA	8ff#L) 8cc# 8f#	.
+8G# 8GG#	8gg# 8ee 8cc# 8g#	.
+8F# 8FF#	8aa 8ee 8cc# 8a	.
+8BBJ 8BBB	8bbJ 8dd 8b 8a	[
+=16	=16	=16
+*	*^	*
+8EL 8EE	4ryy	8eeL\ 8g# 8e	.
+8C# 8CC#	.	16.eeL 16.a 16.e	.
+.	.	32eeJJk 32e	.
+8F# 8FF#	8ryy	8eeL 8a 8e	.
+.	8qee/	.	.
+8BB 8BBB	16ddLL 16d	8a	.
+.	16cc#JJ 16c#	.	.
+8E 8EE	8ryy	8dd 8g# 8e 8d	.
+.	8qdd/	.	.
+8EEJ 8EEE	16cc#LL	8g#J 8e 8d	.
+.	16bJJ	.	.
+*	*v	*v	*
+!!LO:LB:g=original
+=17	=17	=17
+8AAL 8AAA	8aL 8c#< 8A<	.
+16r	16r	.
+16AJk 16E 16AA	16eJk 16c#	.
+8AL 8E 8AA	8eL 8c#	<
+16r	16rf	.
+16AJk 16E 16AA	16eJk 16c#	.
+16BLL 16E 16AA	16f#'>LL 16d'>	.
+16B 16E 16AA	16g#'> 16d'>	.
+16B 16E 16AA	16a'> 16d'>	.
+16BJJ 16E 16AA	16b'>JJ 16d'>	.
+.	.	[
+=18	=18	=18
+8.AL 8.E 8.AA	(<8.cc#L 8.c#	.
+16AJk 16E 16AA	16aJk 16c#	.
+8A 8E 8AA	8a 8c#)	.
+*	*Xtuplet	*
+24GG#LL	(>24G#<LL	>
+24AA	24A<	.
+24BBJJ	24B<JJ	.
+.	.	]
+8AAL	8A<'>L)	.
+8EEJ	8E<'>J	.
+=19	=19	=19
+8AA 8AAA	8cc#L 8c#	.
+16r	16ra	.
+16A 16E 16AA	16aJk 16c#	.
+8AL 8E 8AA	8aL 8c#	.
+16r	16ra	.
+16AJk 16E 16AA	16g#Jk 16c#	.
+16ALL 16E 16AA	16a'>LL 16c#'>	.
+16A 16E 16AA	16b'> 16a'> 16c#'>	.
+16A 16E 16AA	16cc#'> 16a'> 16c#'>	.
+16BJJ 16E 16AA	16dd'>JJ 16a'> 16d'>	.
+=20	=20	=20
+8.B#XL 8.F# 8.D#X 8.AA	(<8.ff#L 8.a 8.d#X	.
+16c#Jk 16A 16E	16eeJk 16a 16e	.
+8c# 8A 8E	8ee 8a 8e)	.
+24GG#LL	(>24G#<LL	>
+24AA	24A<	.
+24BBJJ	24B<JJ	.
+.	.	]
+8AAL	8A<'>L)	.
+8EEJ	8E<'>J	.
+!!LO:LB:g=original
+=21	=21	=21
+8GG# 8GGG#	8ccc#' 8ee#X' 8cc#'	.
+*	*tuplet	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+24e#XLL 24c# 24G# 24E#X	(>24gg#LL 24cc# 24g#	.
+24e# 24c# 24G# 24E#	24gg# 24cc# 24g#	.
+24e#JJ 24c# 24G# 24E#	24gg#JJ 24cc# 24g#)	.
+8e#L 8c# 8G# 8E#	8gg#L 8cc# 8g#	.
+8e#J 8c# 8G# 8E#	8gg#J 8cc# 8g#	.
+!LO:TX:t=P:problem:mixed beam	!	!
+8d#yL\ 8B#X\ 8G#\ 8F#\	16aa#X'LL 16dd#X' 16a#X'	<
+.	16bb#X' 16b#X'	.
+8GG#J/ 8GGG#/	16ccc#' 16gg#' 16cc#'	.
+.	16ddd#i'JJ 16dd#'	[
+=22	=22	=22
+!LO:TX:t=P:problem:mixed beam	!	!
+8.CC#L/ 8.CCC#/	(>8.eee#XL 8.ccc# 8.ee#X	.
+16c#\Jk 16C#\	16ccc#Jk 16cc#)	.
+8c#L\ 8C#	8ccc#'L 8cc#'	<
+16c#L 16C#	16ccc#'L 16cc#'	.
+16c#JJ 16C#	16ccc#'JJ 16cc#'	.
+16c#LL 16C#	16ccc#'LL 16cc#'	.
+16c# 16C#	16ccc#' 16cc#'	.
+16c# 16C#	16ccc#' 16cc#'	.
+16c#JJ 16C#	16ccc#'JJ 16cc#'	[
+=23	=23	=23
+*^	*	*
+2ryy	8c#L 8C#	8ccc#L 8cc#	.
+.	16.BL 16.F# 16.D	16.bbL 16.ff# 16.b	.
+.	32BJJk 32F# 32D	32bbJJk 32ff# 32b	.
+.	8BL 8F# 8D	8bbL 8ff# 8b	.
+.	8c#J 8G# 8E	8ccc#J 8cc#	.
+8eL	4A 4F#	8eeeL 8aa 8ee	>
+8dJ	.	16dddL 16dd	.
+.	.	16ccc#JJ 16cc#	]
+*v	*v	*	*
+=24	=24	=24
+8dL 8G# 8E	8bb`L 8b	.
+8eJ 8d 8G# 8E	(>16.bbL 16.ee 16.b	.
+.	32ccc#JJk 32cc#	.
+[4e 4d 4G# 4E	4bb 4ee 4b	.
+8e] 8c# 8A	8aa 8a)	.
+8r	8r	.
+*kcancel	*kcancel	*
+!!LO:PB:g=original
+=25:|!	=25:|!	=25:|!
+*>C	*>C	*
+*k[f#c#]	*k[f#c#]	*
+!LO:TX:t=P:problem:mixed beam	!	!
+!	!LO:TX:t=P:in the source there is no keys mark in the previous staff. At the beginning of this staff there should also be gn mark:problem	!
+8DD'L/ 8DDD'/	(>2dd	ff
+16d'>L\ 16A'>\ 16F#'>\	.	.
+16d'>JJ\ 16A'>\ 16F#'>\	.	.
+8d'L 8A' 8F#'	.	.
+8d' 8A' 8F#'	.	.
+8c#' 8A' 8G'	4a	.
+8c#'J 8A' 8G'	.	.
+=26	=26	=26
+!LO:TX:t=P:problem:mixed beam	!	!
+8DD'L/ 8DDD'/	8dL	.
+16F#'>L\ 16D'>\	16rd	.
+16F#'>JJ\ 16D'>\	16AJk	.
+8F#'L 8D'	2d)	.
+8A' 8F#'	.	.
+8A' 8G' 8E'	.	.
+8A'J 8F#' 8D'	.	.
+=27	=27	=27
+8AA'L\ 8AAA'	(>2a	.
+16A'L 16E' 16C#'	.	.
+16A'JJ 16E' 16C#'	.	.
+8AL 8E 8C#	.	.
+8A 8E 8C#	.	.
+8A 8D 8BB	4e	.
+8AJ 8D 8BB	.	.
+=28	=28	=28
+8AAL 8AAA	8A<L	.
+16C#'L 16AA'	16rG<	.
+16C#JJ 16AA	16E<Jk	.
+8C#'L 8AA'	2A<)	.
+8E' 8C#'	.	.
+8E' 8D' 8BB'	.	.
+8E'J 8C#' 8AA'	.	.
+=29	=29	=29
+8GG 8GGG	8b 8g 8d 8B<	.
+*	*Xtuplet	*
+16GLL\ 16GG	24bLL 24g 24d	<
+.	24B	.
+16GJJ 16GG	.	.
+.	[<24bJJ [<24g [<24d	.
+8GL 8GG	8bL] 8g] 8d] 8B	.
+8F# 8FF#	8cc# 8a#X 8c#	.
+8BB 8BBB	8dd 8b 8f# 8d	.
+8AAJ 8AAA	8eeJ 8cc# 8a# 8e	.
+!!!SIC@EN: 8a# is missing a natural accidental
+.	.	[
+=30	=30	=30
+8DD 8DDD	8ff#' 8dd' 8a' 8f#'	.
+16dLL 16D	24ff#LL 24dd 24a	.
+.	24f#	.
+16dJJ 16D	.	.
+.	(>24ff#JJ [>24dd [>24a	.
+!	!LO:S:s=1:note:problem:note-level slur	!
+8dL 8D	8ggL) 8dd] 8a] 8f#	<
+!!!SIC@EN: there should be 8ff# instead of 8gg
+8c# 8C#	8gg#X 8ee#X 8cc# 8g#i	.
+8F# 8FF#	8aa 8ff# 8cc# 8a	.
+8EnJ 8EEn	8bbJ 8gg# 8een 8b	[
+!!LO:LB:g=original
+=31	=31	=31
+8AA 8AAA	8ccc#'L 8gg' 8cc#'	.
+*clefG2	*	*
+16aLL 16g 16e 16A	16ccc#'L 16gg' 16cc#'	.
+16aJJ 16g 16e 16A	16ccc#'JJ 16gg' 16cc#'	.
+8aL 8g 8e 8A	8ccc#'L 8gg' 8cc#'	.
+16aL 16g 16e 16A	16bb'L 16gg' 16cc#'	.
+16aJJ 16g 16e 16A	16aa'JJ 16gg' 16cc#'	.
+8aL 8f# 8A	8ddd^L 8ff# 8dd	.
+8aJ 8f# 8B#X 8A	8ddd#X^J 8aa 8dd#X	.
+=32	=32	=32
+8a 8g 8c# 8A	8eee' 8aa' 8ee'	.
+*clefF4	*	*
+*	*8va	*
+16AALL 16AAA	16aaa'LL 16aa'	.
+16AAJJ 16AAA	16aaa'JJ 16aa'	.
+8AAL 8AAA	8aaa'L 8aa'	.
+16BB-XL 16BBB-X	16ggg#X'L 16gg#X'	.
+16AAJJ 16AAA	16aaa'JJ 16aa'	.
+16GG#XLL 16GGG#X	16aaa#X'LL 16aa#X'	.
+16GGn 16GGGn	16bbb' 16bb'	.
+16FF# 16FFF#	16bbb#X' 16bb#X'	.
+16EEJJ 16EEE	16cccc#'JJ 16ccc#'	.
+=33	=33	=33
+!LO:TX:t=P:problem:mixed beam	!	!
+8DD'L/ 8DDD'/	2dddd^ 2ddd	.
+16d'>L\ 16A'>\ 16F#'>\	.	.
+16d'>5JJ\ 16A'>\ 16F#'>\	.	.
+8d'L 8A' 8F#'	.	.
+8d' 8A' 8F#'	.	.
+8c#' 8A' 8G'	4aaa 4aa	.
+8c#'J 8A' 8G'	.	.
+*	*X8va	*
+=34	=34	=34
+8D'L 8DD'	8dddL 8dd	.
+16d'L 16F#' 16D'	16r	.
+16d'JJ 16F#' 16D'	(>16aaJk 16a	.
+8d'L 8F#' 8D'	2ddd 2dd)	.
+8d' 8A' 8F#'	.	.
+8d' 8G' 8E'	.	.
+8d'J 8F#' 8D'	.	.
+=35	=35	=35
+8AA' 8AAA'	(>2aaa 2aa	.
+16A'LL 16E' 16C#'	.	.
+16A'JJ 16E' 16C#'	.	.
+8A'L 8E' 8C#'	.	.
+8A' 8E' 8C#'	.	.
+8A' 8D' 8BB'	4eee 4ee	.
+8A'J 8D' 8BB'	.	.
+!!LO:LB:g=original
+=36	=36	=36
+8AA' 8AAA'	8aaL 8a)	.
+16A'LL 16E' 16C#'	16r	.
+16A'JJ 16E' 16C#'	(>16eeJk 16e	.
+8A'L 8E' 8C#'	2aa 2a	.
+8A' 8E' 8C#'	.	.
+8A' 8D' 8BB'	.	.
+8A'J 8C#' 8AA'	.	.
+=37	=37	=37
+*	*^	*
+!LO:TX:t=P:problem:mixed beam	!	!	!
+8FFnL/ 8FFFn/	2ryy	8aa'L 8ee-' 8a')	.
+16fniL\ 16e-\ 16c#\ 16Fni\	.	(>16aaL 16ee- 16a	.
+!!!SIC@EN: 16c# is missing a natural accidental. There should be 16c and 8c instead of 16c# and 8c# (in the next part of the measure)
+16fJJ\ 16e-\ 16c#\ 16F\	.	16aaJJ 16ee- 16a	.
+8fL 8e- 8c# 8F	.	8aaL 8ee- 8a	.
+16fL 16e- 16c# 16F	.	16ggL 16ee- 16a	.
+16fJJ 16e- 16c# 16F	.	16aaJJ 16ff# 16ee- 16a	.
+!!!SIC@EN: 16ff# is missing a natural accidental. There should be 8ff instead of 8ff#.
+!LO:TX:t=P:problem:mixed beam	!	!	!
+8fL\ 8d\ 8B-X\	4bb-X)	8ff# 8ddL 8b-i	.
+8BB-iJ/ 8BBB-i/	.	8ff# 8ddJ 8b-	.
+=38	=38	=38	=38
+!LO:TX:t=P:problem:mixed beam	!	!	!
+8GGL/ 8GGG/	2ryy	8bbnL 8ff# 8bn	.
+!!!SIC@EN: 8ff# is missing a natural accidental. There should be 16ff and 8ff instead of 16ff# and 8ff# (in the next part of the measure)
+16gL\ 16f# 16d 16G	.	(>16bbL 16ff# 16b	.
+!!!SIC@EN: 16f# is missing a natural accidental. There should be 16f and 8f (in the next part of the measure)
+16gJJ 16f# 16d 16G	.	16bbJJ 16ff# 16b	.
+8gL 8f# 8d 8G	.	8bbL 8ff# 8b	.
+16gL 16f# 16d 16G	.	16aaL 16ff# 16b	.
+16gJJ 16f# 16d 16G	.	16bbJJ 16gg 16ff# 16b	.
+!LO:TX:t=P:problem:mixed beam	!	!	!
+8gL\ 8e\ 8cn\	4cccn)	8ggL 8ee 8ccni	.
+8CnJ/ 8CCn/	.	8ggJ 8ee 8cc	.
+*	*v	*v	*
+=39	=39	=39
+8AAL 8AAA	8ccc#X'L 8gg' 8cc#X'	.
+*clefG2	*	*
+16aL 16g 16e 16c# 16A	(>16ccc#L 16aa 16gg 16cc#	.
+16aJJ 16g 16e 16c# 16A	16dddJJ 16aa 16gg 16dd	.
+8aL 8g 8e 8c# 8A	8eee'L 8aa' 8gg' 8ee')	.
+16aL 16g 16e 16c# 16A	(>16ccc#L 16aa 16gg 16cc#	.
+16aJJ 16g 16e 16c# 16A	16dddJJ 16aa 16gg 16dd	.
+8aL 8g 8e 8c# 8A	16eeeLL 16aa 16gg 16ee	.
+.	16fff# 16ff#	.
+16aL 16g 16e 16c# 16A	16ggg 16ccc# 16gg	.
+16aJJ 16gn 16e 16c# 16A	16ggg#XJJ 16gg#X	.
+=40	=40	=40
+*	*8va	*
+8aL 8g 8e 8c# 8A	16aaaLL 16eee 16aa	.
+.	16aaa#X 16aa#X	.
+8aJ 8g 8e 8c# 8A	16bbb 16bb	.
+.	16cccc#JJ 16ccc#	.
+(<4a 4g 4c# 4A	4eeee 4aaa# 4eee	.
+!!!SIC@EN: 4aaa# is missing a natural accidental
+8a 8f# 8d)	8dddd 8ddd)	.
+*	*X8va	*
+!LO:TX:b:t=P:in the source clef F4 appears in the next staff:problem	!	!
+8r	8r	.
+*clefF4	*	*
+!!LO:LB:g=original
+=41	=41	=41
+.	8qd/	.
+!LO:TX:t=P:problem:mixed beam	!	!
+!LO:TX:b:t=P:there should be usual, publisher's clef F4:problem	!	!
+8DD'L/ 8DDD/	(>2dd	.
+16d'>L\ 16A'>\ 16F#'>\	.	.
+16d'>JJ\ 16A'>\ 16F#'>\	.	.
+8d'L 8A' 8F#'	.	.
+8d' 8A' 8F#'	.	.
+8c#' 8A' 8G'	4a	.
+8c#'J 8A' 8G'	.	.
+=42	=42	=42
+!!LO:TX:t=P:problem:mixed beam	!	!
+8DD'L/ 8DDD'/	8dL	.
+16F#'>L\ 16D'>\	16rd	.
+16F#'>JJ\ 16D'>\	16AJk	.
+8F#'L 8D'	2d)	.
+8A' 8F#'	.	.
+8A' 8G' 8E'	.	.
+8A'J 8F#' 8D'	.	.
+=43	=43	=43
+8AAL< 8AAA	(>2a	.
+16A'L 16E' 16C#'	.	.
+16A'JJ 16E' 16C#'	.	.
+8A'L 8E' 8C#'	.	.
+8A' 8E' 8C#'	.	.
+8A' 8D' 8BB'	4e	.
+8A'J 8D' 8BB'	.	.
+=44	=44	=44
+8AAL 8AAA	8A<L	.
+16C#'L 16AA'	16rG<	.
+16C#'JJ 16AA'	16E<Jk	.
+8C#'L 8AA'	2A<)	.
+8E' 8C#'	.	.
+8E' 8D' 8BB'	.	.
+8E'J 8C#' 8AA'	.	.
+=45	=45	=45
+8GG 8GGG	8b 8g 8d 8B<	.
+16GLL\ 16GG	24bLL 24g 24d	<
+.	24B	.
+16GJJ 16GG	.	.
+.	[<24bJJ [<24g [<24d	.
+8GL 8GG	8bL] 8g] 8d] 8B	.
+8F# 8FF#	8cc# 8a#X 8f# 8c#	.
+8BB 8BBB	8dd 8b 8f# 8d	.
+8AAJ 8AAA	8eeJ 8cc# 8a# 8e	[
+!!!SIC@EN: 8a# is missing a natural accidental
+=46	=46	=46
+8DD 8DDD	8ff# 8dd 8a 8f#	.
+16dLL 16D	24ff#LL 24dd 24a	.
+.	24f#	.
+16dJJ 16D	.	.
+.	(>24ff#JJ [>24dd [>24a	.
+!	!LO:S:s=1:note:problem:note-level slur	!
+8dL 8D	8ggL) 8dd] 8a] 8f#	.
+!!!SIC@EN: there should be 8ff# instead of 8gg
+8c# 8C#	8gg#X 8ee#X 8cc# 8g#i	.
+8F# 8FF#	8aa 8ff# 8cc# 8a	.
+8EJ 8EE	8bbJ 8gg# 8een 8b	.
+!!LO:LB:g=original
+=47	=47	=47
+8AA 8AAA	8ccc#'L 8gg' 8cc#'	.
+*clefG2	*	*
+16aLL 16g 16e 16A	16ccc#'L 16aa' 16gg' 16cc#'	.
+16aJJ 16g 16e 16A	16ccc#'JJ 16aa' 16gg' 16cc#'	.
+8aL 8g 8e 8A	8ccc#'L 8aa' 8gg' 8cc#'	.
+16aL 16g 16e 16A	16bb'L 16gg' 16cc#'	.
+16aJJ 16g 16e 16A	16aa'JJ 16gg' 16cc#'	.
+8aL 8f# 8A	8ddd^L 8aa 8ff# 8dd	.
+8aJ 8f# 8B#X 8A	8ddd#X^J 8aa 8dd#X	.
+=48	=48	=48
+8a 8g 8c# 8A	8eee' 8aa' 8ee'	.
+*clefF4	*	*
+*	*8va	*
+16AALL 16AAA	16aaa'LL 16aa'	.
+16AAJJ 16AAA	16aaa'JJ 16aa'	.
+8AAL 8AAA	8aaa'L 8aa'	.
+16BB-XL 16BBB-X	16ggg#X'L 16gg#X'	.
+16AAJJ 16AAA	16aaa'JJ 16aa'	.
+16GG#XLL 16GGG#X	16aaa#X'LL 16aa#X'	.
+16GGn 16GGGn	16bbb' 16bb'	.
+16FF# 16FFF#	16bbb#X' 16bb#X'	.
+16EEJJ 16EEE	16cccc#'JJ 16ccc#'	.
+=49	=49	=49
+!LO:TX:t=P:problem:mixed beam	!	!
+8DD'L/ 8DDD'/	2dddd^ 2ddd	.
+16d'>L\ 16A'>\ 16F#'>\	.	.
+16d'>JJ\ 16A'>\ 16F#'>\	.	.
+8d'L 8A' 8F#'	.	.
+8d' 8A' 8F#'	.	.
+8c#' 8A' 8G'	4aaa 4aa	.
+*	*X8va	*
+8c#'J 8A' 8G'	.	.
+=50	=50	=50
+8D'L 8DD'	8dddL 8dd	.
+16d'L 16F#' 16D'	16r	.
+16d'JJ 16F#' 16D'	(>16aaJk 16a	.
+8d'L 8F#' 8D'	2ddd 2dd)	.
+8d' 8A' 8F#'	.	.
+8d' 8G' 8E'	.	.
+8d'J 8F#' 8D'	.	.
+=51	=51	=51
+8AA' 8AAA'	(>2aaa 2aa	.
+16A'LL 16E' 16C#'	.	.
+16A'JJ 16E' 16C#'	.	.
+8A'L 8E' 8C#'	.	.
+8A' 8E' 8C#'	.	.
+8A' 8D' 8BB'	4eee 4ee	.
+8A'J 8D' 8BB'	.	.
+!!LO:LB:g=original
+=52	=52	=52
+8AA' 8AAA'	8aaL 8a)	.
+16A'LL 16E' 16C#'	16r	.
+16A'JJ 16E' 16C#'	(>16eeJk 16e	.
+8A'L 8E' 8C#'	2aa 2a)	.
+8A' 8E' 8C#'	.	.
+8A' 8D' 8BB'	.	.
+8A'J 8C#' 8AA'	.	.
+=53	=53	=53
+*	*^	*
+!LO:TX:t=P:problem:mixed beam	!	!	!
+8FFnL/ 8FFFn/	2ryy	8aa'L 8ee-' 8a'	.
+16fniL\ 16e-\ 16c#\ 16Fni\	.	(>16aaL 16ee- 16a	.
+!!!SIC@EN: 16c# is missing a natural accidental. There should be 16c and 8c (in the next part of the measure)
+16fJJ\ 16e-\ 16c#\ 16F\	.	16aaJJ 16ee- 16a	.
+8fL 8e- 8c# 8F	.	8aaL 8ee- 8a	.
+16fL 16e- 16c# 16F	.	16ggL 16ee- 16a	.
+16fJJ 16e- 16c# 16F	.	16aaJJ 16ffny 16ee- 16a	.
+!LO:TX:t=P:problem:mixed beam	!	!	!
+8fL\ 8d\ 8B\	4bb-X	8ffnyL 8dd 8b-yi	.
+!!!SIC@EN: 8B is missing a flat accidental. There should be 8BB- and 8BBB- (in the next part of the measure)
+8BBJ/ 8BBB/	.	8ffJ 8dd 8b-	.
+=54	=54	=54	=54
+!LO:TX:t=P:problem:mixed beam	!	!	!
+8GGL/ 8GGG/	2ryy	8bbn'L 8bn')	.
+16gL\ 16f#\ 16d\ 16G\	.	(>16bbL 16ff# 16b	.
+!!!SIC@EN: 16ff# is missing a natural accidental. There should be ff in the whole measure
+!!!SIC@EN: 16f# is missing a natural accidental. There should be f in the whole measure
+16gJJ\ 16f#\ 16d\ 16G\	.	16bbJJ 16ff# 16b	.
+8gL 8f# 8d 8G	.	8bbL 8ff# 8b	.
+16gL 16f# 16d 16G	.	16aaL 16ff# 16b	.
+16gJJ 16f# 16d 16G	.	16bbJJ 16gg 16ff# 16b	.
+!LO:TX:t=P:problem:mixed beam	!	!	!
+8gL\ 8e\ 8cn\	4cccn)	8ggL 8ee 8ccni	.
+8CnJ/ 8CCn/	.	8ggJ 8ee 8cc	.
+*	*v	*v	*
+=55	=55	=55
+8AAL 8AAA	8ccc#X'L 8gg' 8cc#X'	.
+*clefG2	*	*
+16aL 16g 16e 16c# 16A	(>16ccc#L 16aa 16gg 16cc#	.
+16aJJ 16g 16e 16c# 16A	16dddJJ 16aa 16gg 16dd	.
+8aL 8g 8e 8c# 8A	8eee'L 8aa' 8gg' 8ee')	.
+16aL 16g 16e 16c# 16A	(>16ccc#L 16aa 16gg 16cc#	.
+16aJJ 16g 16e 16c# 16A	16dddJJ 16aa 16gg 16dd	.
+8aL 8g 8e 8c# 8A	16eeeLL 16aa 16gg 16ee	.
+.	16fff# 16ff#	.
+16aL 16g 16e 16c# 16A	16ggg 16ccc# 16gg	.
+16aJJ 16gn 16e 16c# 16A	16ggg#XJJ 16gg#X	.
+=56	=56	=56
+*	*8va	*
+8aL 8g 8e 8c# 8A	16aaaLL 16eee 16aa	.
+.	16aaa#X 16aa#X	.
+8aJ 8g 8e 8c# 8A	16bbb 16bb	.
+.	16cccc#JJ 16ccc#	.
+(<4a 4g 4c# 4A	4eeee 4aaa# 4eee	.
+!!!SIC@EN: 4aaa# is missing a natural accidental
+8a 8f# 8d)	8dddd 8ddd)	.
+*	*X8va	*
+!LO:TX:b:t=P:in the source clef F4 appears in the next staff:problem	!	!
+8r	8r	.
+*clefF4	*	*
+!!LO:PB:g=original
+=57!|:	=57!|:	=57!|:
+*>D	*>D	*>D
+[<2CC#tt<	[>2C#<tt	.
+8CC#L]	8C#<L]	.
+32BBB#XLL	32BB#X<LL	.
+32CC#	32C#<	.
+32DD	32D<	.
+32EEJJJ	32E<JJJ	.
+=58	=58	=58
+8BB-X 8BBB-X	8r	.
+16d'LL 16G' 16D'	16ddd'LL 16gg' 16dd'	<
+16d'JJ 16G' 16D'	16ddd'JJ 16gg' 16dd'	.
+8d'L 8G' 8D'	8ddd'L 8gg' 8dd'	.
+8d' 8G' 8D'	8ddd' 8gg' 8dd'	.
+8d' 8G' 8D'	8ddd' 8gg' 8dd'	.
+8d'J 8G' 8D'	8ddd'J 8gg' 8dd'	[
+=59	=59	=59
+[<2DDTT<	[>2D<TT	.
+8DDL]	8D<L]	.
+32CC#LL	32C#<LL	.
+32DD	32D<	.
+32EE	32E<	.
+32FFnJJJ	32Fn<JJJ	.
+=60	=60	=60
+8BBn 8BBBn	8r	.
+16dLL 16G#X 16D	16dddLL 16gg#X 16dd	<
+16dJJ 16G# 16D	16dddJJ 16gg# 16dd	.
+8d'L 8G#' 8D'	8ddd'L 8gg#' 8dd'	.
+8d' 8G#' 8D'	8ddd' 8gg#' 8dd'	.
+8d' 8G#' 8D'	8ddd' 8gg#' 8dd'	.
+8d'J 8G#' 8D'	8ddd'J 8gg#' 8dd'	[
+=61	=61	=61
+2DDTT<	2D<TT	.
+16CC#LL	16C#<LL	.
+16DD	16D<	.
+16FFn	16Fn<	.
+16FF#XJJ	16F#X<JJ	.
+=62	=62	=62
+8Cn 8CCn	8r	.
+16dLL 16F#X 16D	16ddd'LL 16ff#X' 16dd'	<
+16dJJ 16F# 16D	16ddd'JJ 16ff#' 16dd'	.
+8dL 8F# 8D	8ddd'L 8ff#' 8dd'	.
+8dJ 8F# 8D	8ddd'J 8ff#' 8dd'	.
+.	.	[
+16CC#XLL	(>16C#X<LL	.
+16DD	16D<	.
+16FF#	16F#<	.
+16GGJJ	16G<JJ)	.
+!!LO:LB:g=original
+=63	=63	=63
+8BB 8BBB	8r	.
+16dLL 16G 16D	16dddLL 16gg 16dd	<
+16dJJ 16G 16D	16dddJJ 16gg 16dd	.
+8dL 8G 8D	8dddL 8gg 8dd	.
+16BB-XL 16BBB-X	16eeeL 16ddd 16gg#X 16ee 16dd	.
+16BB-J 16BBB-	16eeeJ 16ddd 16gg# 16ee 16dd	.
+8BB- 8BBB-	8eee 8ddd 8gg# 8ee 8dd	.
+8BB-J 8BBB-	8eeeJ 8ddd 8gg# 8ee 8dd	[
+=64	=64	=64
+8AAL 8AAA	8aaa 8ccc# 8aa	.
+!	!LO:TX:t=P:accents should be above left hand's notes:problem	!
+8BB 8BBB	8B<^TTL	.
+8AA 8AAA	8A<^TTT	.
+.	.	<
+8GG 8GGG	8G<^TTT	.
+8FF# 8FFF#	8F#<^TTT	.
+8EEJ 8EEE	8E<^TTTJ	.
+=65	=65	=65
+.	8qd/	.
+!LO:TX:t=P:problem:mixed beam	!	!
+8DDL/ 8DDD/	(>2dd	fff
+16d'>L\ 16A'>\ 16F#'>\	.	.
+16d'JJ'>\ 16A'>\ 16F#'>\	.	.
+8d'L 8A' 8F#'	.	.
+8d' 8A' 8F#'	.	.
+8c#' 8A' 8G'	4a	.
+8c#'J 8A' 8G'	.	.
+=66	=66	=66
+!LO:TX:t=P:problem:mixed beam	!	!
+8DD'L/ 8DDD'/	8dL	.
+16F#'>L\ 16D'>\	16rd	.
+16F#'>JJ\ 16D'>\	16AJk	.
+8F#'L 8D'	2d)	.
+8A' 8F#'	.	.
+8A' 8G' 8E'	.	.
+8A'J 8F#' 8D'	.	.
+=67	=67	=67
+8AA'L\ 8AAA'	(>2a	.
+16A'L 16E' 16C#'	.	.
+16A'JJ 16E' 16C#'	.	.
+8AL 8E 8C#	.	.
+8A 8E 8C#	.	.
+8A 8D 8BB	4e	.
+8AJ 8D 8BB	.	.
+=68	=68	=68
+8AAL 8AAA	8A<L	.
+16C#'L 16AA'	16rA<	.
+16C#'JJ 16AA'	16E<Jk	.
+8C#'L 8AA'	2A<)	.
+8E' 8C#'	.	.
+8E' 8D' 8BB'	.	.
+8E'J 8C#' 8AA'	.	.
+!!LO:LB:g=original
+=69	=69	=69
+8GG 8GGG	8b 8g 8d 8B<	.
+16GLL\ 16GG	24bLL 24g 24d	<
+.	24B	.
+16GJJ 16GG	.	.
+.	[<24bJJ [<24g [<24d	.
+8GL\ 8GG	8bL] 8g] 8d] 8B	.
+8F# 8FF#	8cc# 8a#X 8f# 8c#	.
+8BB 8BBB	8dd 8b 8f# 8d	.
+8AAJ 8AAA	8eeJ 8cc# 8a# 8e	.
+!!!SIC@EN: 8a# is missing a natural accidental
+.	.	[
+=70	=70	=70
+8DD 8DDD	8ff# 8dd 8a 8f#	.
+16dLL 16D	24ff#LL 24dd 24a	.
+.	24f#	.
+16dJJ 16D	.	.
+.	(>24ff#JJ [>24dd [>24a	.
+!	!LO:S:s=1:note:problem:note-level slur	!
+8dL 8D	8ggL) 8dd] 8a] 8f#	<
+!!!SIC@EN: there should be 8ff# instead of 8gg
+8c# 8C#	8gg#X 8ee#X 8cc# 8g#X	.
+8F# 8FF#	8aa 8ff# 8cc# 8a	.
+8EnJ 8EEn	8bbJ 8gg# 8een 8b	[
+=71	=71	=71
+8AA 8AAA	8ccc#'L 8gg' 8cc#'	.
+*clefG2	*	*
+16aLL 16g 16e 16A	16ccc#'L 16gg' 16cc#'	.
+16aJJ 16g 16e 16A	16ccc#'JJ 16gg' 16cc#'	.
+8aL 8g 8e 8A	8ccc#'L 8gg' 8cc#'	.
+16aL 16g 16e 16A	16bb'L 16gg' 16cc#'	.
+16aJJ 16g 16e 16A	16aa'JJ 16gg' 16cc#'	.
+8aL 8f# 8A	8ddd^L 8ff# 8dd	.
+8aJ 8f# 8B#X 8A	8ddd#X^J 8aa 8dd#X	.
+=72	=72	=72
+8a 8g 8c# 8A	8eee' 8aa' 8ee'	.
+*clefF4	*	*
+*	*8va	*
+16AALL 16AAA	16aaa'LL 16aa'	.
+16AAJJ 16AAA	16aaa'JJ 16aa'	.
+8AAL 8AAA	8aaa'L 8aa'	.
+16BB-XL 16BBB-X	16ggg#'XL 16gg#'X	.
+16AAJJ 16AAA	16aaa'JJ 16aa'	.
+16GG#XLL 16GGG#X	16aaa#X'LL 16aa#X	.
+16GGn 16GGGn	16bbb' 16bb	.
+16FF# 16FFF#	16bbb#X' 16bb#X	.
+16EEJJ 16EEE	16cccc#'JJ 16ccc#	.
+=73	=73	=73
+!LO:TX:t=P:problem:mixed beam	!	!
+8DDL/ 8DDD/	2dddd^ 2ddd	.
+16d'>L\ 16A'>\ 16F#'>\	.	.
+16d'>JJ\ 16A'>\ 16F#'>\	.	.
+8d'L 8A' 8F#'	.	.
+8d' 8A' 8F#'	.	.
+8c#' 8A' 8G'	4aaa 4aa	.
+*	*X8va	*
+8c#'J 8A' 8G'	.	.
+!!LO:LB:g=original
+=74	=74	=74
+8D'L 8DD'	8dddL 8dd	.
+16d'L 16F#' 16D'	16r	.
+16d'JJ 16F#' 16D'	(>16aaJk 16a	.
+8d'L 8F#' 8D'	2ddd 2dd)	.
+8d' 8A' 8F#'	.	.
+8d' 8G' 8E'	.	.
+8d'J 8F#' 8D'	.	.
+=75	=75	=75
+8AA' 8AAA'	(>2aaa 2aa	.
+16A'LL 16E' 16C#'	.	.
+16A'JJ 16E' 16C#'	.	.
+8A'L 8E' 8C#'	.	.
+8A' 8E' 8C#'	.	.
+8A' 8D' 8BB'	4eee 4ee	.
+8A'J 8D' 8BB'	.	.
+=76	=76	=76
+8AA' 8AAA'	8aa'L 8a')	.
+16A'LL 16E' 16C#'	16r	.
+16A'JJ 16E' 16C#'	(>16eeJk 16e	.
+8A'L 8E' 8C#'	2aa 2a)	.
+8A' 8E' 8C#'	.	.
+8A' 8D' 8BB'	.	.
+8A'J 8C#' 8AA'	.	.
+=77	=77	=77
+*	*^	*
+!LO:TX:t=P:problem:mixed beam	!	!	!
+8FFnL/ 8FFFn/	2ryy	8aa'L 8ee-' 8a'	.
+16fnyL\ 16e-\ 16c#\ 16Fni\	.	(>16aaL 16ee- 16a	.
+!!!SIC@EN: 16c# is missing a natural accidental. There should be c in the whole measure
+16fJJ\ 16e-\ 16c#\ 16F\	.	16aaJJ 16ee- 16a	.
+8fL 8e- 8c# 8F	.	8aaL 8ee- 8a	.
+16fL 16e- 16c# 16F	.	16ggL 16ee- 16a	.
+16fJJ 16e- 16c# 16F	.	16aaJJ 16gg 16ee- 16a	.
+!LO:TX:t=P:problem:mixed beam	!	!	!
+8fL\ 8d\ 8B-X\	4bb-X)	8ffnyL 8dd 8b-y	.
+8BB-iJ/ 8BBB-i/	.	8ffJ 8dd 8b-	.
+=78	=78	=78	=78
+!LO:TX:t=P:problem:mixed beam	!	!	!
+8GGL/ 8GGG/	2ryy	8bbn'L 8ff#' 8bn'	.
+!!!SIC@EN: 8ff# is missing natural accidental. There should be ff in the whole measure
+16gL\ 16f#\ 16d\ 16G\	.	(>16bbL 16ff# 16b	.
+!!!SIC@EN: 16f# is missing a natural accidental. There should be f in the whole measure
+16gJJ\ 16f#\ 16d\ 16G\	.	16bbJJ 16ff# 16b	.
+8gL 8f# 8d 8G	.	8bbL 8ff# 8b	.
+16gL 16f# 16d 16G	.	16aaL 16ff# 16b	.
+16gJJ 16f# 16d 16G	.	16bbJJ 16gg 16ff# 16b	.
+!LO:TX:t=P:problem:mixed beam	!	!	!
+8gL\ 8e\ 8cn\	4cccn)	8ggL 8ee 8ccni	.
+8CnJ/ 8CCn/	.	8ggJ 8ee 8cc	.
+*	*v	*v	*
+=79	=79	=79
+8AAL 8AAA	8ccc#X'L 8gg' 8cc#X'	.
+*clefG2	*	*
+16aL 16g 16e 16c# 16A	(>16ccc#L 16aa 16gg 16cc#	.
+16aJJ 16g 16e 16c# 16A	16dddJJ 16aa 16gg 16dd	.
+8aL 8g 8e 8c# 8A	8eee`L 8aa 8gg 8ee)	.
+16aL 16g 16e 16c# 16A	(>16ccc#L 16aa 16gg 16cc#	.
+16aJJ 16g 16e 16c# 16A	16dddJJ 16aa 16gg 16dd	.
+8aL 8g 8e 8c# 8A	16eeeLL 16aa 16gg 16ee	.
+.	16fff# 16ff#	.
+16aL 16g 16e 16c# 16A	16ggg 16ccc# 16gg	.
+16aJJ 16gn 16e 16c# 16A	16ggg#XJJ 16gg#X	.
+!!LO:LB:g=original
+=80	=80	=80
+*	*8va	*
+8aL 8g 8e 8c# 8A	16aaaLL 16eee 16aa	.
+.	16aaa#X 16aa#X	.
+8aJ 8g 8e 8c# 8A	16bbb 16bb	.
+.	16cccc#JJ 16ccc#	.
+(<4a 4g 4c# 4A	4eeee 4aaa# 4eee	.
+!!!SIC@EN: 4aaa# is missing a natural accidental
+8a 8f# 8d)	8dddd 8ddd)	.
+*	*X8va	*
+8r	8r	.
+*clefF4	*	*
+=81:|!	=81:|!	=81:|!
+*>E	*>E	*>E
+*k[f#c#g#]	*k[f#c#g#]	*
+8AAL 8AAA	8aL 8c#< 8A<	.
+16r	16r	.
+16AJk 16E 16AA	16eJk 16c#	.
+8AL 8E 8AA	8eL 8c#	<
+16r	16rf	.
+16AJk 16E 16AA	16eJk 16c#	.
+16BLL 16E 16AA	16f#'>LL 16d'>	.
+16B 16E 16AA	16g#'> 16d'>	.
+16B 16E 16AA	16a'> 16d'>	.
+16BJJ 16E 16AA	16b'>JJ 16d'>	.
+.	.	[
+=82	=82	=82
+8.AL 8.E 8.AA	(>8.cc#L 8.c#	.
+16AJk 16E 16AA	16aJk 16c#	.
+8A 8E 8AA	8a`> 8c#)	.
+!	!LO:TX:t=P:decrescendo should be just above the beam:problem	!
+24GG#LL	(>24G#<LL	>
+24AA	24A<	.
+24BBJJ	24B<JJ	.
+.	.	]
+8AAL	8A<'>L)	.
+8EEJ	8E<'>J	.
+=83	=83	=83
+8AA 8AAA	8cc#L 8c#	.
+16r	16rb	.
+16A 16E 16AA	16aJk 16c#	.
+8AL 8E 8AA	8aL 8c#	.
+16r	16rb	.
+16AJk 16E 16AA	16g#Jk 16c#	.
+16ALL 16E 16AA	16a'>LL 16c#'>	.
+16A 16E 16AA	16b'> 16a'> 16c#'>	.
+16A 16E 16AA	16cc'># 16a'> 16c#'>	.
+16BJJ 16E 16AA	16dd'>JJ 16a'> 16c#'>	.
+!!LO:PB:g=original
+=84	=84	=84
+8.B#XL 8.F# 8.D#X 8.AA	8.ff#L 8.a 8.d#X	.
+16c#Jk 16A 16E	16eeJk 16a 16e	.
+8c# 8A 8E	8ee 8a 8e	.
+!	!LO:TX:t=P:decrescendo should be just above the beam:problem	!
+24GG#LL	(>24G#<LL	>
+24AA	24A<	.
+24BBJJ	24Bn<iJJ	.
+.	.	]
+8AAL	8A<'>L)	.
+8EEJ	8E<'>J	.
+=85	=85	=85
+8GG# 8GGG#	8ccc# `8ee#X 8cc#	.
+*	*tuplet	*
+!	!LO:TUP:a	!
+24e#XLL 24c# 24G# 24E#X	(>24gg#LL 24cc# 24g#	.
+24e# 24c# 24G# 24E#	24gg# 24cc# 24g#	.
+24e#JJ 24c# 24G# 24E#	24gg#JJ 24cc# 24g#)	.
+8e#L 8c# 8G# 8E#	8gg#L 8cc# 8g#	.
+8e#J 8c# 8G# 8E#	8gg#J 8cc# 8g#	.
+!LO:TX:t=P:problem:mixed beam	!	!
+8dL\ 8B#X\ 8G#\ 8F#\	16aa#X'LL 16dd#X' 16a#X'	<
+!!!SIC@EN: 8d is missing a natural accidental
+.	16bb#i' 16b#X'	.
+8GG#J/ 8GGG#/	16ccc#' 16gg#' 16cc#'	.
+.	16ddd#i'JJ 16dd#'	[
+=86	=86	=86
+!LO:TX:t=P:problem:mixed beam	!	!
+8.CC#L/ 8.CCC#/	(>8.eee#XL 8.ccc# 8.ee#X	.
+16c#Jk\ 16C#\	16ccc#Jk 16cc#)	.
+8c#L 8C#	8ccc#'L 8cc#'	<
+16c#L 16C#	16ccc#'L 16cc#'	.
+16c#JJ 16C#	16ccc#'JJ 16cc#'	.
+16c#LL 16C#	16ccc#'LL 16cc#'	.
+16c# 16C#	16ccc#' 16cc#'	.
+16c# 16C#	16ccc#' 16cc#'	.
+16c#JJ 16C#	16ccc#'JJ 16cc#'	[
+=87	=87	=87
+*^	*	*
+2ryy	8c#L 8C#	8ccc#L 8cc#	.
+.	16.BL 16.F# 16.D	16.bbL 16.ff# 16.b	.
+.	32BJJk 32F# 32D	32bbJJk 32ff# 32b	.
+.	8BL 8F# 8D	8bbL 8ff# 8b	.
+.	8c#J 8G# 8E	8ccc#J 8cc#	.
+8eL	4A 4F#	8eeeL 8aa 8ee	>
+8dJ	.	16dddL 16dd	.
+.	.	16ccc#JJ 16cc#	]
+*v	*v	*	*
+!!LO:LB:g=original
+=88	=88	=88
+8dL 8G# 8E	8bb`L 8b	.
+8eJ 8d 8G# 8E	(>16.bbL 16.ee 16.b	.
+.	32ccc#JJk 32cc#	.
+[4e 4d 4G# 4E	4bb 4ee 4b	.
+8e] 8c# 8A	8aa 8a)	.
+8r	8r	.
+=89:|!	=89:|!	=89:|!
+=!|:	=!|:	=!|:
+*>F	*>F	*>F
+8BBL\ 8BBB	(>8bbL 8ff# 8dd#X 8b 8a	.
+16r	16r	.
+16BJk 16BB	16ff#Jk 16dd# 16b 16a)	.
+8B 8BB	8ff#' 8dd#' 8b' 8a'	.
+*tuplet	*Xtuplet	*
+!LO:TX:b:t=P:note-head-side tuplet number:problem	!	!
+24AA#XLL	(>24A#X<LL	.
+24BB	24B<	.
+24C#J	24c#<J	.
+8BBJ	8B<J)	.
+8E 8EE	8gg#' 8ee' 8g#'	.
+=90	=90	=90
+8BB 8BBB	8bb' 8ff#' 8dd#X' 8b' 8a'	.
+*Xtuplet	*tuplet	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+24BLL 24BB	(>24ff#'LL 24dd#' 24b' 24a'	.
+24B 24BB	24ff#' 24dd#' 24b' 24a'	.
+24BJJ 24BB	24ff#'JJ 24dd#' 24b' 24a'	.
+8B 8BB	8ff#' 8dd#' 8b' 8a')	.
+*tuplet	*Xtuplet	*
+!LO:TX:b:t=P:note-head-side tuplet number:problem	!	!
+24AA#XLL	(>24A#X<LL	>
+24BB	24B<	.
+24C#J	24c#<J	.
+.	.	]
+8BBJ	8B<J)	.
+(<8BB 8BBB	(>8gg# 8dd# 8g#	.
+=91	=91	=91
+8C#L 8CC#)	8eeL\ 8cc# 8g# 8e)	.
+16C#L 16CC#	16ee'L 16cc#' 16g#' 16e'	.
+16DJJ 16DD	16ee'JJ 16cc#' 16g#' 16e'	.
+8FF#L 8FFF#	8aaL 8cc# 8a	.
+8GG# 8GGG#	8gg# 8b# 8g#	.
+8AA 8AAA	8ff# 8cc# 8f#	.
+8GG#J 8GGG#	8gg#J 8dd#X 8b#X 8g# 8f#	.
+!!LO:LB:g=original
+=92	=92	=92
+8C#L 8CC#	8eeL 8g# 8e	.
+8DJ 8DD	8dd#XJ 8cc# 8a#X 8f##X 8d#X 8c#	.
+!!!SIC@EN: 8D and 8DD are missing sharp accidentals. There should be D# and DD# in the whole measure
+8G# 8GG#	8b#X 8g# 8d# 8B#X	.
+16DLL 16DD	16dd#LL 16d#	<
+16DJJ 16DD	16dd#JJ 16d#	.
+16DLL 16DD	16dd#LL 16d#	.
+16D 16DD	16dd# 16d#	.
+16D 16DD	16dd# 16d#	.
+16DJJ 16DD	16dd#JJ 16d#	.
+.	.	[
+=93	=93	=93
+!LO:TX:t=P:problem:mixed beam	!	!
+8DDL/ 8DDD/	(>8ddd#XL 8ccc# 8aa#Xi 8ff##X 8dd# 8cc#	.
+!!!SIC@EN: 8DD and 8DDD are missing sharp accidentals
+16r	16rcc	.
+16f##XJk\ 16d#X\ 16c#\ 16A#X\ 16F##X\	16aa#Jk 16ff## 16dd# 16cc# 16a#y	.
+8f## 8d# 8c# 8A# 8F##	8aa#' 8ff##' 8dd#' 8cc#' 8a#')	.
+*	*tuplet	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+24C##LL	(<24c##XLL	.
+24D#i	24d#i	.
+24E#XJ	24e#XJ	.
+8D#J	8d#J)	.
+8GG# 8GGG#	8bb#X' 8gg#' 8dd#X' 8b#X'	.
+=94	=94	=94
+8DD 8DDD	8ddd#X' 8aa#X' 8ff##X' 8dd#X' 8cc#'	.
+!!!SIC@EN: 8DD and 8DDD are missing sharp accidentals. There should be d# and D# in the next part of the measure
+*Xtuplet	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+24f##XLL 24d 24c# 24A#X 24F##X	(>24aa#X'LL 24dd#' 24cc#' 24a#X'	.
+24f## 24d 24c# 24A# 24F##	24aa#' 24dd#' 24cc#' 24a#'	.
+24f##JJ 24d 24c# 24A# 24F##	24aa#'JJ 24dd#' 24cc#' 24a#'	.
+8f## 8d 8c# 8A# 8F##	8aa#' 8dd#' 8cc#' 8a#')	.
+*tuplet	*	*
+!	!	!LO:HP:a
+!LO:TX:b:t=P:note-head-side tuplet number:problem	!	!
+24C##XLL	(>24c##XLL	>
+24D	24d#i	.
+24E#XJ	24e#XJ	.
+.	.	]
+8DJ	8d#J)	.
+8GG# 8GGG#	8bb#X' 8gg#' 8dd#' 8b#X'	.
+=95	=95	=95
+8AA 8AAA	8ccc#' 8ff#' 8cc#'	.
+*Xtuplet	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+24ALL 24AA	(>24ff#'LL 24cc#' 24f#'	<
+24A 24AA	24ff#' 24cc#' 24f#'	.
+24AJJ 24AA	24ff#'JJ 24cc#' 24f#')	.
+8AL\ 8AA	8ff#L 8cc# 8f#	.
+8G# 8GG#	8gg# 8ee 8cc# 8g#	.
+8F# 8FF#	8aa 8ee 8cc# 8a	.
+8BBJ 8BBB	8bbJ 8dd 8b 8a	[
+!!!SIC@EN: 8dd is missing a sharp accidental
+!!LO:LB:g=original
+=96	=96	=96
+*	*^	*
+8EL 8EE	4ryy	8eeL\ 8g# 8e	.
+8C# 8CC#	.	16.eeL 16.a 16.e	.
+.	.	32eeJJk 32e	.
+8F# 8FF#	8ryy	8eeL 8a 8e	.
+.	8qee/	.	.
+8BB 8BBB	16ddLL 16d	8a	.
+.	16cc#JJ 16c#	.	.
+8E 8EE	8ryy	8dd 8g# 8e 8d	.
+.	8qdd/	.	.
+8EEJ 8EEE	16cc#LL	8g#J 8e 8d	.
+.	16bJJ	.	.
+*	*v	*v	*
+=97	=97	=97
+8AAL 8AAA	8aL 8c#< 8A<	.
+16r	16r	.
+16AJk 16E 16AA	16eJk 16c#	.
+8AL 8E 8AA	8eL 8c#	.
+16r	16rf	.
+16AJk 16E 16AA	16eJk 16c#	.
+16BLL 16E 16AA	16f#'>LL 16d'>	.
+16B 16E 16AA	16g#'> 16d'>	.
+16B 16E 16AA	16a'> 16d'>	.
+16BJJ 16E 16AA	16b'>JJ 16d'>	.
+=98	=98	=98
+*	*^	*
+8.AL 8.E 8.AA	(>8.cc#L 8.c#	4.ryy	.
+16AJk 16E 16AA	16aJk 16c#	.	.
+8A 8E 8AA	2a 2c#)	.	.
+*	*	*Xtuplet	*
+24GG#LL	.	(>24G#<LL	>
+24AA	.	24A<	.
+24BBJJ	.	24B<JJ	.
+.	.	.	]
+8AAL	.	8A<'>L)	.
+8EEJ	.	8E<'>J	.
+*	*v	*v	*
+=99	=99	=99
+8AA 8AAA	8cc#L 8c#	.
+16r	16rb	.
+16A 16E 16AA	16aJk 16c#	.
+8AL 8E 8AA	8aL 8c#	.
+16r	16rb	.
+16AJk 16E 16AA	16g#Jk 16c#	.
+16ALL 16E 16AA	16aLL 16c#	.
+16A 16E 16AA	16b 16a 16c#	.
+16A 16E 16AA	16cc# 16a 16c#	.
+16BJJ 16E 16AA	16ddJJ 16a 16d	.
+=100	=100	=100
+8.B#XL 8.F# 8.D#X 8.AA	(>8.ff#L 8.a 8.d#X	.
+16c#Jk 16A 16E	16eeJk 16a 16e	.
+8c# 8A 8E	8ee 8a 8e)	.
+24GG#LL	(>24G#<LL	>
+24AA	24A<	.
+24BBniJJ	24Bn<iJJ	.
+.	.	]
+8AAL	8A<'>L)	.
+8EEJ	8E<'>J	.
+!!LO:LB:g=original
+=101	=101	=101
+8GG# 8GGG#	8ccc#' 8ee#X' 8cc#'	.
+*	*tuplet	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!
+24e#XLL 24c# 24G# 24E#X	(>24gg#LL 24cc# 24g#	.
+24e# 24c# 24G# 24E#	24gg# 24cc# 24g#	.
+24e#JJ 24c# 24G# 24E#	24gg#JJ 24cc# 24g#)	.
+8e#L 8c# 8G# 8E#	8gg#L 8cc# 8g#	.
+8e#J 8c# 8G# 8E#	8gg#J 8cc# 8g#	.
+!LO:TX:t=P:problem:mixed beam	!	!
+8d#yL\ 8B#X\ 8G#\ 8F#\	16aa#X'LL 16dd#X' 16a#X'	<
+.	16bb#X' 16b#X'	.
+8GG#J/ 8GGG#/	16ccc#' 16gg#' 16cc#'	.
+.	16ddd#i'JJ 16dd#'	[
+=102	=102	=102
+!LO:TX:t=P:problem:mixed beam	!	!
+8.CC#L/ 8.CCC#/	(>8.eee#XL 8.ccc# 8.ee#X	.
+16c#Jk\ 16C#\	16ccc#Jk 16cc#)	.
+8c#L 8C#	8ccc#'L 8cc#'	<
+16c#L 16C#	16ccc#'L 16cc#'	.
+16c#JJ 16C#	16ccc#'JJ 16cc#'	.
+16c#LL 16C#	16ccc#'LL 16cc#'	.
+16c# 16C#	16ccc#' 16cc#'	.
+16c# 16C#	16ccc#' 16cc#'	.
+16c#JJ 16C#	16ccc#'JJ 16cc#'	[
+=103	=103	=103
+*^	*	*
+2ryy	8c#L 8C#	8ccc#L 8cc#	.
+.	16.BL 16.F# 16.D	16.bbL 16.ff# 16.b	.
+.	32BJJk 32F# 32D	32bbJJk 32ff# 32b	.
+.	8BL 8F# 8D	8bbL 8ff# 8b	.
+.	8c#J 8G# 8E	8ccc#J 8cc#	.
+8eL	4A 4F#	8eeeL 8aa 8ee	.
+8dJ	.	16dddL 16dd	.
+.	.	16ccc#JJ 16cc#	.
+*v	*v	*	*
+=104	=104	=104
+8dL 8G# 8E	8bb`L 8b	.
+8eJ 8d 8G# 8E	(>16.bbL 16.ee 16.b	.
+.	32ccc#JJk 32cc#	.
+[4e 4d 4G# 4E	4bb 4ee 4b	.
+8e] 8c# 8A	8aa 8a)	.
+8r	8r	.
+==:|!	==:|!	==:|!
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental, bracket
+!!!RDF**dynam: < = "cresc.", fontstyle = "bold-italic"
+!!!ENC: Marta Lawrence
+!!!END: 2019-05-07
+!!!EED: Leszek Kubiak
+!!!EST: revision finished 2019-05-14
+!!!EED2: Zofia Niedbalska
+!!!EST: revision finished 2020-04-23
+!!!rism-genre: Polonaise
+!!!rism-key: A major
+!!!rism-opus: op. 40, no. 1
+!!!rism-title: Polonaise in A major op. 40, no. 1
+!!!rism-permalink: https://opac.rism.info/search?id=1001067689&View=rism
+!!!rism-773a-OPR: 1001067688
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001067688&View=rism

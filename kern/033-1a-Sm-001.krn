@@ -1,0 +1,371 @@
+!!!!SEGMENT: 033-1a-Sm-001.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Mazourka No. 1
+!!!OPS: OP. 33
+!!!PTL: Quatre Mazurkas pour le piano
+!!!PPR: M. Schlesinger
+!!!PPP: Paris
+!!!AFR: mazurka
+!!!NIFC-rismID: 300605144
+!!!NIFC-shelfmark: PL-Wbfc 1665/n
+!!!OMD: PRESTO.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*g#:	*g#:	*
+*M3/4	*M3/4	*
+*	*	*
+4r	(>4d#^<	.
+=1	=1	=1
+4r	8.eL	.
+.	16d#Jk	.
+4r	4b 4g# 4c##X	.
+(4DD#	4a# 4f## 4c#	.
+=2	=2	=2
+*^	*^	*
+4ryy	2GG#/)	(2.g#^>k	4r	.
+4G# 4D#\	.	.	4d# 4B	.
+4r	4ryy	.	(>8g#))L/	.
+.	.	.	8a#J	.
+*v	*v	*	*	*
+*	*v	*v	*
+=3	=3	=3
+2.r	8bL	.
+.	8cc#J	.
+.	4dd#	.
+.	8qff#/	.
+.	4ee	.
+=4	=4	=4
+*	*^	*
+4r	4ryy	(8dd#L	.
+.	.	16gg#))Jk	.
+.	.	16r	.
+4r	(2dd#^>	4ryy	.
+[4d# [4G#	.	[>4b [4g#	.
+!!LO:LB:g=original
+=5	=5	=5	=5
+4d#] 4G#]	8.dd#L	4b] 4g#]	.
+.	16cc#Jk	.	.
+(4c# 4C#	4ee	4a# 4g#	.
+4G# 4GG#)\	4dd#	4b 4g#	.
+*	*v	*v	*
+=6	=6	=6
+.	8qcc#/	.
+4r	8.bL	.
+.	16a#Jk	.
+(4C# 4CC#	4cc# 4g# 4e	.
+4GG# 4GGG#)	4b 4g# 4d#)	.
+=7	=7	=7
+4r	(>8.eL	.
+.	16d#Jk	.
+4r	4b 4g# 4c##X	.
+(4DD#\	4a# 4f##X 4c#X	.
+=8	=8	=8
+*^	*^	*
+4r	2GG#)	2g#	4r	.
+4G# 4D#	.	.	4d# 4B	.
+4G#/ 4D#/	4ryy	4b	4d# 4B	.
+*v	*v	*	*	*
+=9	=9	=9	=9
+4r	8.dd#L/	4ryy	.
+.	16cc#Jk	.	.
+(4c# 4C#	4ee	4a# 4g#	.
+4G# 4GG#\)	4dd#	4b 4g#)	.
+*	*v	*v	*
+!!LO:LB:g=original
+=10	=10	=10
+.	8qcc#/	.
+4r	(8.bL	.
+.	16a#Jk	.
+4C# 4CC#	4cc# 4g# 4e	.
+4GG# 4GGG#	4b 4g# 4d#)	.
+=11	=11	=11
+.	(>16qe/LL	.
+.	16qf#/JJ	.
+4r	8.eL	.
+.	16d#Jk	.
+4r	4b 4g#/ 4c##X/	.
+(4DD#\	4a# 4f##X 4c#X	.
+=12	=12	=12
+*	*^	*
+*	*	*^	*
+4GG#\	2g#	4r	4ryy	.
+4G#	.	4d#	2B\	.
+4Gn)	4b	4e)	.	.
+*	*	*v	*v	*
+=13	=13	=13	=13
+*^	*	*	*
+8.c#L	2F#	(8.a#L	2.e	.
+16BJk	.	16g#yXJk	.	.
+4A#	.	4f#	.	.
+4d#^>/	4ryy	4b	.	.
+=14	=14	=14	=14	=14
+8.c#L	2F#	8.a#L	2.e	.
+16BJk	.	16g#Jk	.	.
+4A#y	.	4f#	.	.
+4B/	4ryy	4g#	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+!!LO:LB:g=original
+=15	=15	=15
+*^	*^	*
+*	*	*	*^	*
+8.c#L	4F#	8.a#L	2ryy	4f# 4e	.
+16d#Jk	.	16bJk	.	.	.
+4e	2F#	4cc# 4a#	.	2f#	.
+4d#	.	4b#X/	4g##X	.	.
+*	*	*v	*v	*v	*
+=16	=16	=16	=16
+8.f#L 8.c#	[4F#	8.cc#L> 8.a#	[
+16e#XJk 16dn	.	16gg#Jk 16b	.
+2f#	8.c#L 8.F#]	[2ff# 2a#)/	.
+.	(>16d#XJk	.	.
+.	(>4c#)	.	.
+*clefG2	*	*	*
+=17	=17	=17	=17
+*	*	*^	*
+4g#)	(2c#	(8.ff#L]	4b	.
+.	.	[<16ee#XJk	.	.
+2cc#	.	4bb/	4ee#]	.
+.	4f#)	4aa#	4ff#)	.
+*clefF4	*	*	*	*
+=18	=18	=18	=18	=18
+4r	4ryy	(>8.f#M<L	4ryy	.
+.	.	[16e#XJk	.	.
+2c#	(4G# 4C#	4b	4e#]	.
+.	4F#)	4a	4f#)	.
+*clefG2	*	*	*	*
+=19	=19	=19	=19	=19
+4r	4ryy	(>8.ff#L/	4ryy	.
+.	.	16ee#XJk	.	.
+2cc#	(4g# 4c#	4bb	4ee#	.
+.	4f#)	4aa#	4ff#	.
+*clefF4	*	*	*	*
+!!LO:LB:g=original
+=20	=20	=20	=20	=20
+4r	4ryy	8.f#M<L	4ryy	.
+.	.	16e#XJk	.	.
+2c#	(4G# 4C#	4b	4e#	.
+.	4F#)	4a#	4f#)	.
+*	*	*v	*v	*
+=21	=21	=21	=21
+*ped	*	*	*
+4r	[2.E	(<4.g#	f
+4e 4c# 4G#	.	.	.
+.	.	8a#L	.
+4e 4c# 4G#	.	8g#M<	.
+.	.	8f##XJ	.
+*v	*v	*	*
+=22	=22	=22
+4e 4c# 4G# 4E]	8g#'<L	.
+*Xped	*	*
+.	8cc#'<J	.
+4r	4dd#'</	.
+4r	4ee'<^</)	.
+=23	=23	=23
+*ped	*	*
+4FF#	(4e	.
+!	!LO:TX:a:t=appassionat.	!
+4A# 4F# 4C#	4.f#^<	.
+4A# 4F# 4C#	.	.
+*Xped	*	*
+.	8c#	.
+=24	=24	=24
+*ped	*	*
+4BB	8d#L	.
+.	8f#J	.
+4B 4F# 4D#	4g#	.
+4B 4F# 4D#	4d#)	.
+!!LO:PB:g=original
+=25	=25	=25
+*ped	*	*
+4FF#	(4ee 4e	p
+4A# 4F# 4C#	4.ff#/ 4.f#/	.
+4A# 4F# 4C#	.	.
+*Xped	*	*
+!	!LO:TX:t=dim _:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:t=dim
+.	8cc# 8c#	>
+=26	=26	=26
+*ped	*	*
+4BB	8dd#L 8d#	.
+.	8ff#J 8f#	.
+4B 4F# 4D#	4gg#/ 4g#/	.
+4B 4F# 4D#	4dd# 4d#	.
+*Xped	*	*
+=27	=27	=27
+*ped	*	*
+4FF#	4ee 4e	.
+4A# 4F# 4C#	4.ff#/ 4.f#/	.
+4A# 4F# 4C#	.	.
+*Xped	*	*
+.	8cc# 8c#	]]
+=28	=28	=28
+*^	*	*
+*ped	*	*	*
+4r	2BB	2dd# 2d#	.
+4B 4F#	.	.	.
+*Xped	*	*	*
+4ryy	4r	4(<f#)	.
+=29	=29	=29	=29
+*ped	*	*	*
+4r	2.E	4.g#	f
+4e 4c# 4G#	.	.	.
+.	.	8a#L	.
+(<4e 4c# 4G#	.	8g#M<	.
+.	.	8f##XJ	.
+*v	*v	*	*
+!!LO:LB:g=original
+=30	=30	=30
+4e/ 4c#/ 4G#/ 4E/)	8g#L	.
+*Xped	*	*
+.	8cc#/J	.
+4r	4dd#'</	.
+4r	4ee'</)	.
+=31	=31	=31
+*ped	*	*
+4FF#	(4e	.
+4A# 4F# 4C#	4.f#	.
+4A# 4F# 4C#	.	.
+*Xped	*	*
+.	8c#	.
+=32	=32	=32
+*ped	*	*
+4BB	8d#L	.
+.	8f#J	.
+4B 4F# 4D#	4g#	.
+4B 4F# 4D#	4d#)	.
+*Xped	*	*
+=33	=33	=33
+*ped	*	*
+4FF#	(4ee 4e	p
+4A# 4F# 4C#	4.ff#/ 4.f#/	.
+4A# 4F# 4C#	.	.
+*Xped	*	*
+.	8cc# 8c#	.
+=34	=34	=34
+*ped	*	*
+4BB	8dd#L 8d#	.
+.	8ff#J 8f#	.
+4B 4F# 4D#	4gg#/ 4g#/	.
+4B 4F# 4D#	4dd# 4d#	.
+*Xped	*	*
+!!LO:LB:g=original
+=35	=35	=35
+*ped	*	*
+4FF#	4ee 4e	.
+4A# 4F# 4C#	4.ff#/ 4.f#/	.
+4A# 4F# 4C#	.	.
+*Xped	*	*
+.	8cc# 8c#)	.
+=36	=36	=36
+*^	*	*
+*ped	*	*	*
+4r	2BB	2dd#;< 2d#;<	.
+*Xped	*	*	*
+4B 4F#	.	.	.
+4r	4ryy	(4d#	.
+*v	*v	*	*
+=37	=37	=37
+4r	8.eL	.
+.	16d#Jk	.
+4r	4b 4g# 4c##X	.
+(4DD#\	4a# 4f##X 4c#X	.
+=38	=38	=38
+*^	*^	*
+*ped	*	*	*	*
+4r	2GG#	[2g#)	4ryy	.
+*Xped	*	*	*	*
+4G#\ 4D#\)	.	.	4d# 4B	.
+4ryy	4r	8g#L]	4ryy	.
+.	.	8a#J	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=39	=39	=39
+2.r	(8bL	.
+.	8cc#J	.
+.	4dd#	.
+.	8qff#/	.
+.	4ee	.
+!!LO:LB:g=original
+=40	=40	=40
+*	*^	*
+4r	4ryy	8dd#L	.
+.	.	(>16gg#Jk)	.
+.	.	16r	.
+4r	2dd#^	4ryy	.
+[4d# [4G#	.	[>4b [4g#	.
+=41	=41	=41	=41
+4d#] 4G#]	8.dd#L	4b] 4g#]	.
+.	16cc#Jk	.	.
+(4c# 4C#	4ee	4a# 4g#	.
+4G#\ 4GG#\)	4dd#	4b 4g#	.
+*	*v	*v	*
+=42	=42	=42
+.	8qcc#/	.
+4r	8.bL	.
+.	16a#Jk	.
+(4C# 4CC#	4cc# 4g# 4e	.
+4GG# 4GGG#)	4b 4g# 4d#)	.
+=43	=43	=43
+4r	(>8.eL	.
+.	16d#Jk	.
+4r	4b 4g# 4c##X	.
+(4DD#\	4a# 4f##X 4c#X	.
+=44	=44	=44
+*^	*^	*
+4r	2GG#)	2g#	4r	.
+4G#\ 4D#\	.	.	4d# 4B	.
+4G#\ 4D#\	4ryy	4b	4d# 4B	.
+*v	*v	*	*	*
+!!LO:LB:g=original
+=45	=45	=45	=45
+4r	8.dd#L>	4ryy	.
+.	16cc#Jk	.	.
+(4c# 4C#	4ee	4a# 4g#	.
+4G#\ 4GG#\)	4dd#	4b 4g#)	.
+*	*v	*v	*
+=46	=46	=46
+.	(>8qcc#/	.
+4r	8.bL	.
+.	16a#Jk	.
+4C# 4CC#	4cc# 4g# 4e	.
+4GG# 4GGG#	4b 4g# 4d#)	.
+=47	=47	=47
+.	(>16qe/LL	.
+.	16qf#/JJ	.
+4r	8.eL	.
+.	16d#Jk	.
+4r	4b 4g# 4c##X	.
+(<4DD#\	4a# 4f##X 4c#X	.
+=48	=48	=48
+*^	*^	*
+*ped	*	*	*	*
+4r	2GG#)	2.g#	4r	.
+!	!	!	!LO:TX:a:B:t=Fine.	!
+2G#\;< 2D#\	.	.	2d#;> 2B)	.
+.	4ryy	.	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!ENC: Marta Lawrence
+!!!END: 2018-06-06
+!!!EED: Jędrzej Mróz
+!!!EST: 2018-06-09
+!!!EED: Jacek Iwaszko
+!!!EST: revision finished 2018-10-19
+!!!EED3: Emilia Ziętek
+!!!EST3: revision finished 2018-12-09
+!!!rism-genre: Mazurka
+!!!rism-key: G-sharp minor
+!!!rism-opus: op.  33, no. 1
+!!!rism-title: Mazurka in G-sharp minor op.  33, no. 1
+!!!rism-permalink: https://opac.rism.info/search?id=300605144&View=rism
+!!!rism-773a-OPR: 300605143
+!!!rism-parent-permalink: https://opac.rism.info/search?id=300605143&View=rism

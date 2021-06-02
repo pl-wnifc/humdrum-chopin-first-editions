@@ -1,0 +1,461 @@
+!!!!SEGMENT: 074-1-G-015.krn
+!!!COM: Fryderyk Chopin
+!!!OTL: Narzeczony
+!!!OPS: Op. 74
+!!!PTL: Zbiór śpiewów polskich z towarzyszeniem fortepianu
+!!!PPR: Gebethner
+!!!PPP: Warsaw
+!!!NIFC-rismID: 300605201
+!!!NIFC-shelfmark: PL-Wbfc 963/n
+!!!OMD: Prestissimo.
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*	*part1
+*I"PIANO.	*	*	*I"CANTO.	*	*
+*staff3	*staff2	*	*staff1	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*	*
+*c:	*c:	*	*c:	*	*
+*M2/4	*M2/4	*	*M2/4	*	*
+*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1
+!	!	!LO:DY:rj	!	!	!
+16DDLL	16D<LL	p	2rdd	.	.
+16CC#X	16C#X<	.	.	.	.
+16DD	16D<	.	.	.	.
+16EE-JJ	16E<-JJ	.	.	.	.
+!	!	!LO:DY:a	!	!	!
+16EEnLL	16En<LL	<	.	.	.
+16FF	16F<	.	.	.	.
+16FF#X	16F#X<	.	.	.	.
+16GGJJ	16G<JJ	.	.	.	.
+.	.	[	.	.	.
+=2	=2	=2	=2	=2	=2
+16AA-LL	16A<-LL	>	2rdd	.	.
+16GG	16G<	.	.	.	.
+16FF#X	16F#X<	.	.	.	.
+16FFnJJ	16Fn<JJ	]	.	.	.
+16EEnLL	16En<LL	.	.	.	.
+16EE-X	16E-X<	.	.	.	.
+16DD	16D<	.	.	.	.
+16DD-XJJ	16D-X<JJ	.	.	.	.
+=3	=3	=3	=3	=3	=3
+!	!LO:TX:b:t=cresc _ :problem:dynamics with line extentions	!	!	!	!
+!	!	!LO:HP:b:t=cresc:ext=ud	!	!	!
+16DDnLL	16Dn<LL	<	2rdd	.	.
+16EE-	16E-<	.	.	.	.
+16EEn	16En<	.	.	.	.
+16FFJJ	16F<JJ	.	.	.	.
+16FF#XLL	16F#X<LL	.	.	.	.
+16GG	16G<	.	.	.	.
+16AA-	16A-<	.	.	.	.
+16AAnJJ	16An<JJ	.	.	.	.
+=4	=4	=4	=4	=4	=4
+16BB-LL	16B<-LL	.	2rdd	.	.
+16BBn	16Bn<	.	.	.	.
+16C	16c<	.	.	.	.
+16C#XJJ	16c#X<JJ	[	.	.	.
+16DLL	16dLL	.	.	.	.
+16E-	16e-	.	.	.	.
+16En	16en	.	.	.	.
+16FJJ	16fJJ	.	.	.	.
+!!LO:LB:g=original
+=5	=5	=5	=5	=5	=5
+!	!	!LO:DY:rj	!	!	!
+16G-XLL^>	16g-XLL^>	f	2rdd	.	.
+16F	16f	.	.	.	.
+16En	16en	.	.	.	.
+16E-XJJ	16e-XJJ	.	.	.	.
+16EnLL^>	16enLL^>	.	.	.	.
+16E-X	16e-X	.	.	.	.
+16D	16d	.	.	.	.
+16D-XJJ	16d-XJJ	.	.	.	.
+=6	=6	=6	=6	=6	=6
+16Dn/LL^	16dnLL^>	.	2rdd	.	.
+16D-X	16d-X	.	.	.	.
+16C	16c	.	.	.	.
+16BBnJJ	16BnJJ	.	.	.	.
+16C/LL^	16cLL^>	.	.	.	.
+16BB	16B	.	.	.	.
+16BB-X	16B-X	.	.	.	.
+16AAnJJ	16AnJJ	.	.	.	.
+=7	=7	=7	=7	=7	=7
+16BB-\LL6^<	16B-<^LL^>	.	2r	.	.
+16AAn	16An<	.	.	.	.
+16AA-X	16A-X<	.	.	.	.
+16GGJJ	16G<JJ	.	.	.	.
+16AAn\LL^<	16An<^LL^>	.	.	.	.
+16AA-X	16A-X<	.	.	.	.
+16GG	16G<	.	.	.	.
+16FF#XJJ	16F#X<JJ	.	.	.	.
+=8	=8	=8	=8	=8	=8
+16AA-\L^<	16A-<L^>	.	2r	.	.
+16GG	16G<	.	.	.	.
+16FF#X	16F#X<	.	.	.	.
+16FFnJ	16Fn<J	.	.	.	.
+16GG\LL^<	16G<^>LL	.	.	.	.
+16FF	16F<	.	.	.	.
+16EE-	16E-<	.	.	.	.
+16DDJJ	16D<JJ	.	.	.	.
+!!LO:PB:g=original
+!LO:TX:t=P:złe wyświetlanie segno:problem	!	!	!	!	!
+!LO:TX:t=𝄋	!	!	!	!	!
+!	!LO:TX:a:t=𝄋	!	!	!	!
+=9||	=9||	=9||	=9||	=9||	=9||
+*	*	*	*	*^	*
+*	*	*	*	*	*^	*
+*	*	*	*	*	*	*^	*
+!!!OMD: Agitato vivo [quarter] = 108.
+8CCL	8e-L	.	8e-	Wiatr	Czy	Gdzie-	O	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+16CCJk	8a-J 8A-^	sf	8e-	za-	nie	-żeś,	pu-	.
+16r	.	.	.	.	.	.	.	.
+8r	8e-L	.	8d	-szu-	wi-	gdzie-	-szczay-	.
+8C	8a-J 8A-	.	8c	-miał	-dzisz	-żeś	cie!	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+8CL	8fL 8d	.	8d	mię-	tam	dziew-	żal	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+16CJk	8a-^J 8A-	sf	8d	-dzy	nad	-cze	mnie	.
+16r	.	.	.	.	.	.	.	.
+8r	8fL 8d	.	8d	krze-	la-	ho-	tło-	.
+8C	8a-J 8A-	.	8d	-wy	-sem	-że?	-czy,	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+8CCL	8e-L	.	8e-	Nie	Te-	Cze-	Niech	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+!	!	!LO:DY:rj	!	!	!	!	!	!
+16CCJk	8a-J 8A-^	.sf	8e-	wczas	go	muż	zo-	.
+16r	.	.	.	.	.	.	.	.
+8r	8e-L	.	8d	nie	kru-	nie	-ba-	.
+8C	8a-J 8A-	.	8c	wczas	ków	wy-	-czę	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+8CL	8fL 8d	.	4d	ko-	sta-	bie-	żo-	.
+!	!	!LO:DY:b=2	!	!	!	!	!	!
+16CJk	8a-^J 8A-	sf	.	.	.	.	.	.
+16r	.	.	.	.	.	.	.	.
+8r	8fL 8d	.	4d	-niu	-da,	-ży?	-nę	.
+8CC	8a-J 8A-	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+!	!	!LO:DY:rj	!	!	!	!	!	!
+8BBn\ 8BBBn\	8g 8f 8d 8G<	ffz	8g	Nie	Jak	Jak-	Czy	.
+8r	8r	.	8g	wczas	pod-	-że,	ko-	.
+4BB-X\	8r	.	8cc	chłop-	-le-	jak-	-na-	.
+.	8cc 8g 8en 8c	.	8cc	-cze	-ci	-że	-jąc	.
+!!LO:PB:g=original
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+!LO:TX:a:B:t=rall.	!	!	!	!	!	!	!	!
+4AAn	8r	.	8cc	czar-	krą-	wy-	pię-	.
+.	8cc 8f 8c	.	8cc	-no-	-ży	-biedz	-kne	.
+4AA-X	8r	.	8c	-bre-	cza-	mo-	o-	.
+.	8f#X 8e- 8c	.	8d	-wy	-sem,	-że,	-czy	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+[4GG	8r	.	8e-	Le-	I	kie-	Zwró-	.
+.	8g 8e- 8c	.	8e-	-cisz	w las	-dy	-ci-	.
+.	.	<	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!LO:DY:a
+!	!	!	!	!	!	!	!	!LO:HP:a
+4G 4GG]	8r	.	8d	tu	znów	w gro-	-ła	<
+.	8f 8d 8Bn	.	8g	po	za-	-bie	w mą	[[
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+!	!	!	!	!	!	!	!	!LO:HP:a
+!	!	!	!	!	!	!	!	!LO:DY:a
+4A-	8r	.	4f	bło-	-pa-	le-	stro-	>
+.	8f 8c	<	.	.	.	.	.	.
+4AA-	8r	.	8e-	-niu.	-da.	-ży?	-nę?	]
+.	8e- 8c	[	8r	.	.	.	.	]
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+!	!	!LO:DY:rj	!	!	!	!	!	!
+8BBn	8g 8f 8d 8G<	sf	8g	Nie	Jak	Jak-	Czy	.
+8r	8r	.	8g	wczas	pod-	-że,	ko-	.
+4BB-X\	8r	.	8g	chłop-	-le-	jak-	-na-	.
+.	8g 8en 8c	.	8g	-cze	-ci	-że	-jąc	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+!	!	!	!	!	!	!	!	!LO:DY:a
+4AAn	8r	<	8cc	czar-	krą-	wy-	pię-	.
+.	8cc 8f 8c	.	8cc	-no-	-ży	-biedz	-kne	.
+4AA-X;	8r	[	8cc	-bre-	cza-	mo-	o-	.
+!	!	!LO:DY:rj	!	!	!	!	!	!
+!	!	!	!LO:TX:t=P:fermata przed 8f#X; i przed 8ee- 8cc 8f#X 8e-;:problem	!	!	!	!	!
+.	8ee- 8cc 8f#X 8e-;	ff	8f#X;	-wy	-sem,	-że,	-czy	[
+!!LO:LB:g=original
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+!	!	!	!	!	!	!	!	!LO:DY:a
+[>2GG	8ee-L 8cc 8g 8e-	pp	8g	Le-	I	kie-	zwró-	.
+.	8g 8e-	.	8g	-cisz	w las	-dy	-ci-	.
+.	8fn 8d	.	8fn	tu	znów	w gro-	-ła	.
+.	8e-J 8c	.	8e-	po	za-	-bie	w mą	]]
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+*^	*	*	*	*	*	*	*	*
+*	*^	*	*	*	*	*	*	*	*
+!	!	!	!LO:TX:a:B:t=rallent.	!	!	!	!	!	!	!
+8BnL 8G	4rC	2GG] 2GGG	2d	.	[2d	bło-	-pa-	le-	stro-	.
+8D	.	.	.	.	.	.	.	.	.	.
+8An 8F#X	4DD	.	.	.	.	.	.	.	.	.
+8DJ	.	.	.	.	.	.	.	.	.	.
+*	*v	*v	*	*	*	*	*	*	*	*
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+8BnL 8G	4GG	2d	.	2d]	-niu.	-da.	-ży?	-nę?	.
+8D	.	.	.	.	.	.	.	.	.
+8An 8F#X	4DD	.	.	.	.	.	.	.	.
+[8DJ	.	.	.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+!	!	!LO:TX:a:B:t=tempo Io prestiss.	!	!	!	!	!	!	!
+[2Bn [2G 2D_	16GGLL	[2d	.	4d	.	.	.	.	.
+.	16FF#X	.	.	.	.	.	.	.	.
+.	16GG	.	.	.	.	.	.	.	.
+.	16FF#JJ	.	.	.	.	.	.	.	.
+.	16GGLL	.	.	4r	.	.	.	.	.
+.	16FF#	.	.	.	.	.	.	.	.
+.	16GG	.	.	.	.	.	.	.	.
+.	16FF#JJ	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*v	*v	*
+*	*	*	*	*	*	*v	*v	*
+*	*	*	*	*	*v	*v	*
+=23	=23	=23	=23	=23	=23	=23
+2BnX] 2G] 2D]	16GGLL	2d]	.	2rdd	.	.
+.	16FF#X	.	.	.	.	.
+.	16GG	.	.	.	.	.
+.	16FF#JJ	.	.	.	.	.
+.	16GGLL	.	.	.	.	.
+.	16FFn	.	.	.	.	.
+.	16EEn	.	.	.	.	.
+.	16EE-XJJ	.	.	.	.	.
+*v	*v	*	*	*	*	*
+!!LO:LB:g=original
+=24	=24	=24	=24	=24	=24
+!	!	!LO:DY:b	!	!	!
+16DDLL	16D<LL	.	2rdd	.	.
+16CC#X	16C#X<	.	.	.	.
+16DD	16D<	.	.	.	.
+16EE-JJ	16E<-JJ	.	.	.	.
+!	!	!LO:DY:a	!	!	!
+16EEnLL	16En<LL	<	.	.	.
+16FF	16F<	.	.	.	.
+16FF#X	16F#X<	.	.	.	.
+16GGJJ	16G<JJ	.	.	.	.
+.	.	[	.	.	.
+=25	=25	=25	=25	=25	=25
+16AA-LL	16A<-LL	>	2rdd	.	.
+16GG	16G<	.	.	.	.
+16FF#X	16F#X<	.	.	.	.
+16FFnJJ	16Fn<JJ	.	.	.	.
+16EEnLL	16En<LL	.	.	.	.
+16EE-X	16E-X<	.	.	.	.
+16DD	16D<	.	.	.	.
+16DD-XJJ	16D-X<JJ	]	.	.	.
+=26	=26	=26	=26	=26	=26
+16DDnLL	16Dn<LL	.	2rdd	.	.
+16EE-	16E-<	.	.	.	.
+16EEn	16En<	.	.	.	.
+16FFJJ	16F<JJ	.	.	.	.
+!	!LO:TX:b:t=cresc _ :problem:dynamics with line extentions 	!	!	!	!
+!	!	!LO:HP:b:t=cresc.:ext=ud	!	!	!
+16FF#XLL	16F#X<LL	<	.	.	.
+16GG	16G<	.	.	.	.
+16AA-	16A-<	.	.	.	.
+16AAnJJ	16An<JJ	.	.	.	.
+=27	=27	=27	=27	=27	=27
+16BB-LL	16B<-LL	.	2rdd	.	.
+16BBn	16Bn<	.	.	.	.
+16C	16c<	.	.	.	.
+16C#XJJ	16c#X<JJ	.	.	.	.
+16DLL	16dLL	.	.	.	.
+16E-	16e-	.	.	.	.
+16En	16en	.	.	.	.
+16FJJ	16fJJ	ff[	.	.	.
+!!LO:LB:g=original
+=28	=28	=28	=28	=28	=28
+!	!	!LO:DY:rj	!	!	!
+16G-XLL^>	16g-XLL^>	>	2rdd	.	.
+16F	16f	.	.	.	.
+16En	16en	.	.	.	.
+16E-XJJ	16e-XJJ	.	.	.	.
+16EnLL^>	16enLL^>	.	.	.	.
+16E-X	16e-X	.	.	.	.
+16D	16d	.	.	.	.
+16D-XJJ	16d-XJJ	.	.	.	.
+=29	=29	=29	=29	=29	=29
+16Dn/LL^	16dnLL^>	.	2rdd	.	.
+16D-X	16d-X	]	.	.	.
+16C	16c	.	.	.	.
+16BBnJJ	16BnJJ	.	.	.	.
+16C/LL^	16cLL^>	.	.	.	.
+16BB	16B	.	.	.	.
+16BB-X	16B-X	.	.	.	.
+16AAnJJ	16AnJJ	.	.	.	.
+=30	=30	=30	=30	=30	=30
+16BB-\LL6^<	16B-<^LL^>	.	2r	.	.
+16AAn	16An<	.	.	.	.
+16AA-X	16A-X<	.	.	.	.
+16GGJJ	16G<JJ	.	.	.	.
+16AAn\LL^<	16An<^LL^>	.	.	.	.
+16AA-X	16A-X<	.	.	.	.
+16GG	16G<	.	.	.	.
+16FF#XJJ	16F#X<JJ	.	.	.	.
+=31	=31	=31	=31	=31	=31
+16AA-\L^<	16A-<L^>	.	2r	.	.
+16GG	16G<	.	.	.	.
+16FF#X	16F#X<	.	.	.	.
+16FFnJ	16Fn<J	.	.	.	.
+!	!LO:TX:a:B:t=Dal Segno.	!	!	!	!
+16GG\LL^<	16G<^>LL	.	.	.	.
+16FF	16F<	.	.	.	.
+16EE-	16E-<	.	.	.	.
+16DDJJ	16D<JJ	.	.	.	.
+!!LO:PB:g=original
+!LO:TX:t=P:złe wyświetlanie segno:problem	!	!	!	!	!
+!LO:TX:t=𝄋	!	!	!	!	!
+!	!LO:TX:a:t=𝄋	!	!	!	!
+==32|!	==32|!	==32|!	==32|!	==32|!	==32|!
+!!!OMD: Agitato vivo.
+8CCL	8e-L	.	8e-	Gdy	.
+!	!	!LO:DY:b=2	!	!	!
+16CCJk	8a-J 8A-^	sf	8e-	u-	.
+16r	.	.	.	.	.
+8r	8e-L	.	8d	-sły-	.
+8C	8a-J 8A-	.	8c	-szy	.
+=33	=33	=33	=33	=33	=33
+8CL	8fL 8d	.	8d	me	.
+!	!	!LO:DY:b=2	!	!	!
+16CJk	8a-^J 8A-	sf	8d	wo-	.
+16r	.	.	.	.	.
+8r	8fL 8d	.	8d	-ła-	.
+8CC	8a-J 8A-	.	8d	-nie	.
+=34	=34	=34	=34	=34	=34
+8CCL	8e-L	.	8e-	Płacz	.
+!	!	!LO:DY:b=2	!	!	!
+16CCJk	8a-J 8A-^	sf	8e-	mój	.
+16r	.	.	.	.	.
+8r	8e-L	.	8d	nad	.
+8C	8a-J 8A-	.	8c	swą	.
+=35	=35	=35	=35	=35	=35
+8CL	8fL 8d	.	4d	gło-	.
+16CJk	8a-^J 8A-	.	.	.	.
+16r	.	.	.	.	.
+8r	8fL 8d	.	4d	-wą	.
+8CC	8a-J 8A-	.	.	.	.
+=36	=36	=36	=36	=36	=36
+*	*	*^	*	*	*
+!	!	!LO:DY:rj	!	!	!	!
+8BBn\ 8BBBn\	8g 8f 8d 8G<	sf	f	8g	Mo-	.
+8r	8r	.	.	8g	-że	.
+4BB-X\	8r	.	.	8cc	z tru-	.
+.	8cc 8g 8en 8c	.	.	8cc	-mny	.
+*	*	*v	*v	*	*	*
+!!LO:PB:g=original
+=37	=37	=37	=37	=37	=37
+!LO:TX:a:B:t=rall.	!	!	!	!	!
+4AAn	8r	.	8cc	je-	.
+.	8cc 8f 8c	.	8cc	-szcze	.
+4AA-X	8r	.	8c	wsta-	.
+.	8f#X 8e- 8c	.	8d	-nie	.
+=38	=38	=38	=38	=38	=38
+[4GG	8r	.	8e-	Za-	.
+!	!	!	!	!	!LO:DY:a
+!	!	!	!	!	!LO:HP:a
+.	8g 8e- 8c	<	8e-	-cznie	<
+4G 4GG]	8r	.	8d	żyć	.
+.	8f 8d 8Bn	.	8g	na	[[
+=39	=39	=39	=39	=39	=39
+!	!	!	!	!	!LO:HP:a
+!	!	!	!	!	!LO:DY:a
+4A-	8r	.	4f	no-	>
+.	8f 8c	<	.	.	.
+4AA-	8r	.	8e-	wo!	]
+.	8e- 8c	[	8r	.	]
+=40	=40	=40	=40	=40	=40
+!	!	!LO:DY:rj	!	!	!
+8BBn	8g 8f 8d 8G<	sf	8g	Mo-	.
+8r	8r	.	8g	-że	.
+4BB-X\	8r	.	8g	z tru-	.
+.	8g 8en 8c	.	8g	-mny	.
+=41	=41	=41	=41	=41	=41
+!	!	!	!	!	!LO:DY:a
+4AAn	8r	<	8cc	je-	.
+.	8cc 8f 8c	.	8cc	-szcze	.
+4AA-X;	8r	[	8cc	wsta-	.
+!	!	!	!LO:TX:t=P:fermata przed 8f#X; i przed 8ee- 8cc 8f#X 8e-;:problem	!	!
+.	8ee- 8cc 8f#X 8e-;	ff	8f#X;	-nie	[
+!!LO:LB:g=original
+=42	=42	=42	=42	=42	=42
+!	!	!	!	!	!LO:DY:a
+(<2GG	8ee-/L 8cc/ 8g/ 8e-/	pp	8g	Za-	.
+.	8g 8e-	.	8g	-cznie	.
+.	8f 8d	.	8fn	żyć	.
+.	8e-J 8c	.	8e-	na	]]
+=43	=43	=43	=43	=43	=43
+*^	*	*	*	*	*
+!	!LO:TX:a:t=P:problem:mixed beam	!	!	!	!	!
+8c>\L	4FF)	4d/	.	<4a-	no-	.
+8A-/J	.	.	.	.	.	.
+8BnL 8F	4GG	4f	.	4Bn	.	.
+8GJ	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44
+*	*	*^	*	*	*	*
+(<16GGLL	2CC	4E-< 4c<	4ryy	.	4c	-wo!	.
+!	!	!	!	!	!LO:TX:a:B:t=rall.	!	!
+16FF#X	.	.	.	.	.	.	.
+16GG	.	.	.	.	.	.	.
+16FF#JJ	.	.	.	.	.	.	.
+*	*	*clefF4	*	*	*	*	*
+!	!	!	!LO:TX:t=rallentando sempre più.	!	!	!	!
+!	!	!LO:TX:t=P:4Bn/ 4D/ przed 8A-L:problem	!	!	!	!	!
+16FFnLL	.	8A-L	4Bn/ 4D/	.	4r	.	.
+16EE-	.	.	.	.	.	.	.
+16DD	.	8F\J	.	.	.	.	.
+16DD-XJJ)	.	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45
+!LO:N:vis=2	!	!	!	!	!	!	!
+16CCLL	(<2CC	4c\ 4E-\	4ryy	.	2rdd	.	.
+16DD-X	.	.	.	.	.	.	.
+16DDn	.	.	.	.	.	.	.
+16EE-JJ	.	.	.	.	.	.	.
+16EEnLL	.	8A-\L	4Bn/ 4D/	>	.	.	.
+16FF	.	.	.	.	.	.	.
+16GG	.	8FJ	.	]]	.	.	.
+!	!	!	!LO:TX:t=P:złe wyświetlanie "dim.":problem	!	!	!	!
+!	!	!	!	!LO:DY:b	!	!	!
+16AA-JJ)	.	.	.	>	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46
+(<16GGLL	2CC	4c\ 4En\	4rEEyy	.	2rdd	.	.
+16FF#X	.	.	.	.	.	.	.
+16GG	.	.	.	.	.	.	.
+16FF#JJ	.	.	.	.	.	.	.
+!	!	!LO:TX:t=P:LO:TX:t=P:4Bn/ 4D/ przed 8A-L:problem	!	!	!	!	!
+16FFnLL	.	8A-\L	4Bn/ 4D/	>	.	.	.
+16EE-X	.	.	.	.	.	.	.
+!	!	!LO:TX:t=P:złe wyświetlanie "pp":problem	!	!	!	!	!
+16DD	.	8FJ	.	pp]	.	.	.
+16DD-XJJ)	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+!LO:N:vis=2	!	!	!	!	!	!	!
+(<16CCLL	2CC	4c\ 4En\	4rDDyy	]	2rdd	.	.
+16DD-X	.	.	.	.	.	.	.
+16DDn	.	.	.	.	.	.	.
+16EE-JJ	.	.	.	.	.	.	.
+!	!	!LO:TX:t=P:LO:TX:t=P:4Bn/ 4D/ przed 8A-L:problem	!	!	!	!	!
+16EEnLL	.	8A-L	4Bn/ 4D/	>	.	.	.
+16FF	.	.	.	.	.	.	.
+16GG	.	8F\J	.	]	.	.	.
+16AA-JJ)	.	.	.	.	.	.	.
+*v	*v	*	*	*	*	*	*
+*	*v	*v	*	*	*	*
+=48	=48	=48	=48	=48	=48
+2GG 2CC	2c 2En	.	2rdd	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!system-decoration: (s1){(s2,s3)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cresc.", 'fontstyle="normal"
+!!!RDF**dynam: > = "dim.", 'fontstyle="normal"
+!!!ENC: Antoni Szymański
+!!!END: 2019-08-26
+!!!EED: Emilia Ziętek
+!!!EST: revision finished 2019-10-15
+!!!rism-genre: Narzeczony
+!!!rism-key: C minor
+!!!rism-opus: op.  74, no. 15
+!!!rism-title: Le promis in C minor op.  74, no. 15
+!!!rism-permalink: https://opac.rism.info/search?id=300605201&View=rism
+!!!rism-773a-OPR: 300605186
+!!!rism-parent-permalink: https://opac.rism.info/search?id=300605186&View=rism

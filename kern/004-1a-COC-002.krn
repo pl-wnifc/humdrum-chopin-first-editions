@@ -1,0 +1,595 @@
+!!!!SEGMENT: 004-1a-COC-002.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Sonata.
+!!!OPS: Op. 4
+!!!PTL: The Classical Pianist, a Selection of Movements From The Works of the Great Masters, edited by Brinley Richards.
+!!!OCL: Cocks & Co.
+!!!NIFC-rismID: F.7377
+!!!NIFC-shelfmark: F.7377
+!!!OMD: Menuetto.
+!!!OMD: [half-dot] = 80.
+!!!system-decoration: {(s1,s2)}
+**kern	**fing	**kern	**fing	**dynam
+*part1	*part1	*part1	*part1	*part1
+*staff2	*staff2	*staff1	*staff1	*
+*>[A,A,B,B,C,C,D,D,A,B]	*	*>[A,A,B,B,C,C,D,D,A,B]	*	*
+*clefF4	*	*clefG2	*	*
+*k[b-e-a-]	*	*k[b-e-a-]	*	*
+*c:	*	*c:	*	*
+*M3/4	*	*M3/4	*	*
+*>A	*	*>A	*	*
+!LO:TX:a:Bi:t=Scherzando.	!	!LO:TX:a:B:t=Allegretto.	!	!LO:DY:rj:b=2
+4BB-`<	.	4r	.	p
+!	!	!LO:TX:a:t=P:MENUETTO. w źródle po lewej stronie akolady:problem	!	!
+=1	=1	=1	=1	=1
+!	!	!	!	!LO:HP:b=2
+4E-	.	4r	.	>
+8DL\	.	4r	.	.
+8CJ	.	.	.	] p
+4BB-	.	4B-<`>	.	.
+=2	=2	=2	=2	=2
+*	*^	*	*	*
+*	*	*	*	*	*^
+!	!	!	!LO:S:s=1:note:problem:note-level slur	!	!LO:HP:a	!LO:HP:b=2
+(<4G	.	.	(>4e- 4B-<	.	>	>
+4F)	.	.	8dL 8A-<	.	.	.
+.	.	.	8cJ)	.	]	.
+4F	.	+	4B- 4A-<	.	.	]
+*	*	*	*	*	*v	*v
+=3	=3	=3	=3	=3	=3
+!	!	!	!LO:S:s=1:note:problem:note-level slur	!	!LO:HP:a
+(<4E-	.	1	(>4g 4B-< 4G<	.	>
+8DL	.	.	4f 4B-< 4A-<)	.	.
+8CJ)	.	.	.	.	]
+4BB-	.	.	4f 4B-< 4A-<	.	.
+*	*v	*v	*	*	*
+=4	=4	=4	=4	=4
+!	!	!LO:S:s=1:note:problem:note-level slur	!	!LO:HP:a
+(<4G	.	(>4e- 4B-<	.	>
+4F)	.	8dL 8A-<	.	.
+.	.	8cJ)	.	]
+4F	.	4B- 4A-<	.	.
+=5	=5	=5	=5	=5
+*	*^	*	*	*
+!	!	!	!	!	!LO:HP:a
+4E-	.	.	4g 4e- 4B-< 4G<	.	<
+8DL 8DD	.	4	8fL 8B-< 8F<	.	.
+8D-XJ 8DD-X	.	3	8gJ 8e- 8B-< 8G<	.	.
+4C 4CC	.	.	4a- 4e- 4A-<	.	[
+!LO:TX:b:t=P:znak Segno pod podwójną kreską taktową:problem	!	!	!LO:TX:a:t=P:znak Segno nad podwójną kreską taktową:problem	!	!
+*	*v	*v	*	*	*
+!!LO:LB:g=original
+=6||	=6||	=6||	=6||	=6||
+*	*	*	*	*^
+!	!	!LO:TX:b:t=P:w źródle gruba podwójna kreska taktowa:problem	!	!	!
+4C-X 4CC-X	.	4an 4g-X 4e- 4An	.	<	<
+8BB-L 8BBB-	.	8b-L 8gn 8e- 8B-	.	.	.
+8AAnJ 8AAAn	.	8cc-XJ 8g-X 8e- 8c-X	.	.	.
+4AA-X 4AAA-X	.	4ccn 4g- 4e- 4cn	.	[	.
+*	*	*	*	*v	*v
+=7	=7	=7	=7	=7
+4GG 4GGG	.	4cc`> 4gn 4e- 4c	.	sf
+4G 4GG\	.	4bn`> 4g 4d	3	sf
+4r	.	4r	.	.
+=8	=8	=8	=8	=8
+*	*^	*	*	*
+4G`>	.	2	4b-X`< 4g 4d	.	.
+4F`>	.	3	4b-`< 4a- 4d	.	.
+!LO:TX:a:Bi:t=ten;	!	!	!	!	!
+[>4B-	.	.	4r	.	.
+*	*v	*v	*	*	*
+=9	=9	=9	=9	=9
+*	*	*^	*	*^
+!	!	!LO:TX:b:t=P:wyświetla się dodatkowe 'p' między pięcioliniami:problem	!	!	!	!
+!	!	!	!	!	!LO:DY:rj:a	!LO:HP:b=2
+(>4B-]	.	4f	4d	.	p	>
+8A-L	.	(<8fL	4c	.	.	.
+8GJ)	.	8gJ)	.	.	.	]
+4F	.	4a-	4c	.	.	.
+*	*	*	*	*	*v	*v
+=10	=10	=10	=10	=10	=10
+*	*^	*	*	*	*
+!	!	!	!	!	!	!LO:HP:b=2
+(>4A-	.	.	4f	4d 4c-X	3	>
+4G)	.	.	(<8e-L	4B-	.	.
+.	.	.	8fJ)	.	.	]
+4G	.	2	4g	4B-	.	.
+*	*	*	*v	*v	*	*
+=11	=11	=11	=11	=11	=11
+*^	*	*	*	*	*
+!	!	!	!	!	!	!LO:HP:b=2
+(>4c	(<4A-	.	1	2e-	.	>
+8B-L	8GL	.	+	.	.	.
+8A-J)	8FJ)	.	1	.	.	]
+4G	4E-	.	.	[<4e-	.	.
+*	*	*v	*v	*	*	*
+=12	=12	=12	=12	=12	=12
+2B- 2F	2BB-^<	.	4e-]	.	.
+.	.	.	8dL	4	.
+.	.	.	8cJ	3	.
+4ryy	4BBB-	.	4B-< 4A-< 4F<	.	.
+*v	*v	*	*	*	*
+!!LO:LB:g=original
+=13	=13	=13	=13	=13
+*	*	*ped	*	*
+!	!	!LO:TX:b:t=P:znak pedalizcji przed nutą:problem	!	!LO:DY:rj
+4E- 4EE-	.	4g`> 4e- 4G	.	p
+4e- 4E-	.	4gg 4ee- 4g	.	fz
+*	*	*Xped	*	*
+4E- 4EE-	.	4g`> 4e- 4G	.	.
+=14	=14	=14	=14	=14
+4BBn 4BBBn	.	4g`> 4e- 4G	.	.
+4e- 4E-	.	4gg 4ee- 4g	.	fz
+4C 4CC	.	4g`> 4e- 4G	.	.
+=15	=15	=15	=15	=15
+*^	*	*	*	*
+*	*	*	*ped	*	*
+*	*	*	*8va	*	*
+!	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+4BB-X 4BBB-X	4ryy	.	(>12bbb-L 12ggg	.	.
+.	.	.	12bb- 12gg	.	.
+.	.	.	12gggJ 12eee-)	.	.
+*clefG2	*	*	*	*	*
+4g 4e-	2B-	.	4gg 4ee-	.	.
+*	*	*	*Xped	*	*
+4a- 4f	.	.	4bb- 4dd	.	.
+*v	*v	*	*	*	*
+=16	=16	=16	=16	=16
+4g 4e-	.	4eee- 4ee-	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:b:Bi:t=Fine.	!	!
+*clefF4	*	*	*	*
+4E-	.	4r	.	.
+=:|!|:	=:|!|:	=:|!|:	=:|!|:	=:|!|:
+*>B	*	*>B	*	*
+4r	.	4gg 4ee-	.	.
+=17	=17	=17	=17	=17
+*	*	*8va	*	*
+!	!	!LO:TX:b:Bi:t=leggiero.	!	!
+4r	.	(>12gggL 12eee-	.	.
+.	.	12gg 12ee-	.	.
+.	.	(<12eee-J 12ccc)	.	.
+4r	.	8ee- 8cc)	.	.
+.	.	8r	.	.
+*clefG2	*	*	*	*
+4e- 4c	4 2	4gg 4ee-	.	.
+=18	=18	=18	=18	=18
+!LO:TX:a:t=P:stem-side tuplet number:problem	!	!	!	!
+!	!	!LO:TX:a:Bi:t=ten.	!	!
+!	!	!LO:S:s=1:note:problem:note-level slur	!	!
+(<12a-L 12f	.	(<2aa- &(<2ff	.	>
+12A- 12F	.	.	.	.
+12fJ 12c)	.	.	.	]]
+*clefF4	*	*	*	*
+8F 8C	2	.	.	.
+8r	.	.	.	.
+4A- 4F	+	4ccc) 4aa-&)/	.	.
+!!LO:LB:g=original
+=19	=19	=19	=19	=19
+!LO:TX:a:Bi:t=ten;	!	!	!	!
+!LO:S:s=1:note:problem:note-level slur	!	!	!	!
+(>2F^< &(>2BB-	.	(>12fffL 12ddd	.	.
+.	.	12ff 12dd	.	.
+.	.	12dddJ 12bb-)	.	.
+.	.	8dd 8b-	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:Bi:t=loco	!	!
+.	.	8r	.	.
+4d) 4B-&)	.	4ff 4dd	.	.
+=20	=20	=20	=20	=20
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!	!
+(>12gL 12e-	.	2gg^< 2ee-	.	.
+12G 12E-	.	.	.	.
+12e-J 12B-)	.	.	.	.
+8E- 8BB-\	.	.	.	.
+8r	.	.	.	.
+4G 4E-	.	4bb- 4gg	.	.
+=21	=21	=21	=21	=21
+!LO:S:s=1:note:problem:note-level slur	!	!	!	!
+(>2E- &(>2AA-\	.	(>12eee-L 12ccc	.	.
+.	.	12ee- 12cc	.	.
+.	.	(>12cccJ 12aa-)	.	.
+.	.	8cc 8a-)	.	.
+.	.	8r	.	.
+4c) 4A-&)	.	4aa- 4ee-	.	.
+=22	=22	=22	=22	=22
+2F 2FF	.	(12ddL 12cc	.	<
+.	.	12ccc 12aa-	.	.
+.	.	12dddJ 12ccc)	.	.
+*	*	*8va	*	*
+.	.	8cccc`> 8aaa-	.	[
+*	*	*X8va	*	*
+!	!	!LO:TX:a:Bi:t=loco	!	!
+.	.	8r	.	.
+4F 4FF	.	4dd`> 4cc	.	>]
+=23	=23	=23	=23	=23
+2A- 2AA-	.	(>12ddL 12cc	.	<
+.	.	12ccc 12ff	.	.
+.	.	12dddJ 12ccc)	.	.
+*	*	*8va	*	*
+.	.	8cccc`> 8fff	.	[
+*	*	*X8va	*	*
+!	!	!LO:TX:a:Bi:t=loco	!	!
+.	.	8r	.	.
+4A- 4AA-	.	4dd`> 4cc	.	>]
+=24	=24	=24	=24	=24
+4G 4GG\	.	(>12ddL 12bn	.	<
+.	.	12bbn 12gg	.	.
+.	.	12dddJ 12bb)	.	.
+*	*	*8va	*	*
+4r	.	8bbbn`> 8ggg	.	[
+*	*	*X8va	*	*
+!	!	!LO:TX:a:Bi:t=loco	!	!
+.	.	8r	.	.
+*clefG2	*	*	*	*
+4g	.	4dd^^> 4b^<	.	pp
+!!LO:LB:g=original
+=25	=25	=25	=25	=25
+(<12gL	.	(>12ddL 12b-X	.	.
+12d	.	12bb- 12gg	.	.
+12gJ)	.	12ddJ 12b-)	.	.
+4en`<	.	4dd-X`> 4b-	.	>
+4e^^<	.	4cc^^> 4b-	1 2	]
+=26	=26	=26	=26	=26
+(<12fL	.	(>12ccL 12an	.	.
+12c	.	12aan 12ff	.	.
+12fJ)	.	12ccJ 12a)	.	.
+4d`<	.	4cc-X`> 4a-X	1 3	>
+4d^^<	.	4b-^^> 4a-\	.	]
+=27	=27	=27	=27	=27
+*	*^	*	*	*
+(>4e-	.	.	(>12b-L 12g	.	<
+.	.	.	12gg 12ee-	.	.
+.	.	.	12bb-J 12gg)	1	.
+*clefF4	*	*	*	*	*
+4E-)	.	.	8ggg`> 8eee-	.	.
+.	.	.	8r	.	.
+!LO:TX:b:Bi:t=ben marcato.	!	!	!	!	!
+(>4E- &(<4EE-	.	3	4ggg 4ccc#X 4gg	.	fz
+=28	=28	=28	=28	=28	=28
+4D) 4DD&)	.	4	(>12fff#XL 12ddd	4	>
+.	.	.	12aan 12ff#X	1	.
+.	.	.	12ff#J 12dd)	3 4	]
+4d 4D	.	.	8a-`< 8f#X	4 1	.
+.	.	.	8r	.	.
+(>4G &(<4GG\	.	4	4ffn 4bn 4fn	.	fz
+=29	=29	=29	=29	=29	=29
+4c) 4C&)	.	2	(>12gL 12en	.	<
+.	.	.	12een 12cc	.	.
+.	.	.	[>12ggJ [<12ee)	.	.
+4G'> 4GG\	.	.	4eeen`> 4ccc 4gg] 4ee]	.	[
+(>4An &(<4AAn	.	4	4eee-X 4ccc 4ff 4ee-X	.	fz
+=30	=30	=30	=30	=30	=30
+*	*	*	*8va	*	*
+4B-) 4BB-&)	.	3	(>12ffL 12dd	.	<
+.	.	.	12ddd 12bb-	.	.
+.	.	.	[>12fffJ [<12ddd)	.	.
+4F'< 4FF	.	.	4dddd 4bbb- 4fff] 4ddd]	.	[
+*	*	*	*X8va	*	*
+!	!	!	!LO:TX:a:Bi:t=loco	!	!
+(>4F#X &(<4FF#X	.	3	4ddd 4ccc 4aan 4dd	.	fz
+*	*v	*v	*	*	*
+!!LO:LB:g=original
+=31	=31	=31	=31	=31
+*	*	*^	*	*
+!	!	!LO:TX:b:Bi:t=leggieriss.	!	!	!
+2.G) 2.GG&)	.	(>12dddL 12bbn	2ryy	.	>
+.	.	12gg 12dd	.	.	.
+.	.	12bbJ 12gg)	.	.	.
+.	.	(<12ddL 12bn/	.	.	.
+.	.	12gg 12dd	.	.	.
+.	.	12bJ 12g)	.	.	.
+*	*	*	*Xtuplet	*	*
+.	.	(>12ddL	12b	.	.
+.	.	12g	[<6d	.	]
+.	.	12ccJ 12an)	.	.	.
+*	*	*	*tuplet	*	*
+=32	=32	=32	=32	=32	=32
+!	!	!	!	!	!LO:HP:a
+2G 2GG	.	4bn 4g	2.d]	.	p >
+.	.	(4b-X 4g	.	.	.
+4F 4FF	.	4b- 4a-X)	.	.	] pp
+=33	=33	=33	=33	=33	=33
+*	*^	*	*	*	*
+(<4E- 4EE-	.	3	4ee- 4b- 4g	4e-	.	.
+8DL 8DD	.	.	4r	2ryy	.	.
+8CJ 8CC)	.	.	.	.	.	.
+4BB- 4BBB-	.	3	4B-`<	.	.	.
+*	*v	*v	*	*	*	*
+*	*	*v	*v	*	*
+=34	=34	=34	=34	=34
+*	*	*	*	*^
+!	!	!LO:S:s=1:note:problem:note-level slur	!	!	!
+!	!	!	!	!LO:HP:a	!LO:HP:b=2
+4G 4GG	.	(>4e- 4B-<	.	>	>
+4F 4FF	.	8dL 8A-<	.	.	.
+.	.	8cJ)	.	]	.
+4F 4FF	.	4B-< 4A-<	.	.	]
+=35	=35	=35	=35	=35	=35
+!	!	!	!	!LO:HP:a	!LO:HP:b=2
+(<4E- 4EE-	.	4g 4B-< 4G<	.	>	>
+8DL 8DD	.	4f 4B-< 4A-<	.	.	.
+8CJ 8CC)	.	.	.	.	.
+4BB- 4BBB-	.	4f 4B-< 4A-<	.	]	]
+=36	=36	=36	=36	=36	=36
+!LO:TX:b:Bi:t=Dal Segno al fine.:dur=6q:problem:text with extention lines	!	!	!	!	!
+!	!	!LO:S:s=1:note:problem:note-level slur	!	!	!
+!	!	!	!	!LO:HP:a	!LO:HP:b=2
+4G 4GG	.	(>4e- 4B-<	.	>	>
+4F 4FF	.	8dL 8A-<	.	.	.
+.	.	8cJ)	.	]	]
+4F 4FF	.	4B-< 4A-<	.	.	.
+*	*	*	*	*v	*v
+=37	=37	=37	=37	=37
+!	!	!	!	!LO:HP:a
+4E- 4EE-	.	4e- 4B-< 4G<	.	<
+8DL 8DD	.	8fL 8B-< 8F<	.	.
+8D-XJ 8DD-X	.	8gJ 8e- 8B-< 8G<	.	.
+!	!	!LO:TX:b:t=P:w źródle gruba podwójna kreska taktowa:problem	!	!
+4C 4CC	.	4a- 4e- 4A-<	.	[
+!LO:TX:b:t=P:znak Segno pod podwójną kreską taktową:problem	!	!LO:TX:a:t=P:znak Segno nad podwójną kreską taktową:problem	!	!
+!!LO:PB:g=original
+=||	=||	=||	=||	=||
+!!!OMD: TRIO.
+*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*	*
+*M3/4	*	*M3/4	*	*
+*>C	*	*>C	*	*
+!	!	!LO:TX:a:Bi:t=con espress;	!	!
+4r	.	(>4B-	+	p
+!	!	!LO:TX:a:t=P:TRIO. w źródle po lewej stronie akolady:problem	!	!
+=38	=38	=38	=38	=38
+4r	.	4b-'< 4g-	4	.
+4r	.	4b-'< 4a-	.	.
+(>4BB-'<	.	4b-'< 4g-	.	.
+=39	=39	=39	=39	=39
+*	*^	*	*	*
+4B-'> 4G-	.	2	4b-'< 4e-	.	.
+4B-'> 4A-	.	1	4b-'< 4dn	.	.
+4B-'> 4G-	.	.	4b-'< 4e-	.	.
+*	*v	*v	*	*	*
+=40	=40	=40	=40	=40
+4B-'> 4E-	.	4b-'< 4g-	3	.
+4B-'> 4Dn	.	4b-'< 4a-	2	.
+4B-'> 4E-)	.	4gg- 4b- 4g-)	.	.
+=41	=41	=41	=41	=41
+2B- 2BB-	.	2ff: 2ddn: 2b-: 2f:	.	p
+4r	.	4r	.	.
+=42	=42	=42	=42	=42
+*	*	*^	*	*
+!	!	!	!	!	!LO:DY:rj
+2C-X	.	4rff	2g- 2e-	.	p
+.	.	[>2ee-	.	.	<
+4c-X	.	.	4a- 4f	.	[[
+=43	=43	=43	=43	=43	=43
+!	!	!LO:TX:a:t=P:brak końca ligatury:problem	!	!	!
+2B-	.	(>4ee-]	2b- 2g-	.	>
+.	.	4dd-)	.	.	.
+(>4F	.	(>4cc-	4a- 4d-	.	]
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=44	=44	=44	=44	=44
+*	*^	*	*	*
+.	.	.	16qqcc-/	.	.
+4G-	.	.	4b- 4g- 4d-	.	.
+4A-	.	.	4a- 4f 4c-	.	.
+4An	.	+	4g- 4e- 4cn	.	.
+=45	=45	=45	=45	=45	=45
+4B-)	.	1	4f 4dn)	.	.
+(<12BB-L	2	.	4r	.	.
+12AAn	.	.	.	.	.
+12C-J)	.	.	.	.	.
+4BB-	.	.	4r	.	.
+*	*v	*v	*	*	*
+=46	=46	=46	=46	=46
+!	!	!	!	!LO:HP:b=2
+4B- 4G-	.	4r	.	<
+!	!	!	!	!LO:HP:b=2
+4B- 4A-	.	(>12bb-L	.	[ >
+.	.	12aan	.	.
+.	.	12ccc-J)	.	.
+4B- 4G-	.	4bb-	.	]
+=47	=47	=47	=47	=47
+4B- 4E-	.	(>4b-'> 4g-	.	<
+4B- 4Dn	.	4b-'> 4a-	.	[ >
+4B- 4E-	.	4b-'> 4g-	.	]
+=48	=48	=48	=48	=48
+4B- 4G-	.	4b-'> 4e-	.	.
+4B- 4A-	.	4b-'> 4dn	.	<
+4B- 4G- 4E-	.	4gg-'> 4b- 4e-/	.	[[
+=49	=49	=49	=49	=49
+4B- 4F 4BB-	.	4ff'> 4b- 4dn)	.	>]
+4r	.	4r	.	.
+4r	.	8r	.	.
+.	.	8b-	.	<[
+!!LO:LB:g=original
+=50	=50	=50	=50	=50
+*	*	*ped	*	*
+4G-: 4BB-: 4EE-:	.	(>4bb-	3	.
+4r	.	8gg-L	1	>
+.	.	8ee-	+	.
+8r	.	8b-	3	.
+8BB-	.	8e-J)	.	]
+=51	=51	=51	=51	=51
+*	*	*^	*	*
+*^	*	*	*	*	*
+!	!	!	!	!	!	!LO:HP:b=2
+(>4B-	2ryy	.	[>2.g-	[<2.e-	.	>
+8G-L	.	.	.	.	.	.
+8E-	.	2	.	.	.	.
+8BB-	4BB-	+	.	.	.	]
+[<8BBB-J)	.	.	.	.	.	.
+*v	*v	*	*	*	*	*
+=52	=52	=52	=52	=52	=52
+*	*^	*	*	*	*
+*	*	*	*Xped	*	*	*
+2BB- 2BBB-]	.	.	2g-]	4e-]	.	.
+.	.	.	.	4B-<	.	.
+4BB-	.	1	4dn 4A-<	4ryy	1 3	.
+*	*v	*v	*	*	*	*
+*	*	*v	*v	*	*
+=53	=53	=53	=53	=53
+4E-	.	4e- 4G-<	.	.
+4EE-	.	4r	.	.
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>D	*	*>D	*	*
+!	!	!LO:TX:a:Bi:t=ten;	!	!
+4r	.	[>4dd-X	.	.
+=54	=54	=54	=54	=54
+*	*^	*^	*	*
+*	*	*	*ped	*	*	*
+4GG-`<	.	.	[>4ddd- [<4bb-	2.dd-]	3	.
+*clefG2	*	*	*	*	*	*
+(<4g- 4B-	1	4	(>8ddd-L] 8bb-]	.	.	<
+.	.	.	8cccn 8aan	.	.	.
+4b- 4d-)	+	3	8eee- 8ccc-X	.	.	.
+*	*	*	*Xped	*	*	*
+.	.	.	8ddd-J 8bb-)	.	.	[[
+*clefF4	*	*	*	*	*	*
+=55	=55	=55	=55	=55	=55	=55
+*	*	*	*ped	*	*	*
+!	!	!	!	!LO:TX:b:t=P:diminuendolike accent:problem	!	!
+4DD-	.	.	4rccc	[<2.dd-^	.	.
+(>4f &(<4A-	.	3	8ccc-L 8aa-	.	.	.
+.	.	.	8ddd-J 8bb-	.	.	.
+4d-) 4F&)	1	4	4ccc- 4aa-	.	.	.
+*	*	*	*Xped	*	*	*
+*	*v	*v	*	*	*	*
+!!LO:LB:g=original
+=56	=56	=56	=56	=56	=56
+*	*	*ped	*	*	*
+4GG-`<	.	[>4bb- [<4gg-	2.dd-]	.	.
+*clefG2	*	*	*	*	*
+(<4g- 4B-	1	(>8bb-L] 8gg-]	.	.	.
+.	.	8aan 8ff	.	.	.
+4b- 4d-)	.	8ccc-X 8aa-X	.	.	.
+*	*	*Xped	*	*	*
+.	.	8bb-J 8gg-)	.	.	.
+*clefF4	*	*	*	*	*
+=57	=57	=57	=57	=57	=57
+*	*	*	*^	*	*
+*	*	*ped	*	*	*	*
+4BB-'<	.	4rccc	2.ddn	4ryy	.	.
+!LO:TX:a:t=P:diminuendolike accent:problem	!	!	!	!	!	!
+2B->^<	.	(<8aa-L 8ff	.	4f\	.	.
+.	.	8bb-J 8gg-)	.	.	.	.
+*	*	*Xped	*	*	*	*
+.	.	4aa- 4ff	.	4b-\	.	.
+*	*	*	*v	*v	*	*
+*	*	*v	*v	*	*
+=58	=58	=58	=58	=58
+*^	*	*	*	*
+4rc	2.E-	.	[>4gg- [<4ee-	3	.
+4e- 4B- 4G-	.	.	8gg-L] 8ee-]	.	>
+.	.	.	8ff 8ddn	.	.
+4e- 4c-X 4G-	.	.	8aa-^> 8ff-X	.	.
+.	.	.	8gg-J 8ee-	.	]
+=59	=59	=59	=59	=59	=59
+*	*	*	*^	*	*
+*	*^	*	*	*	*	*
+*	*	*	*	*ped	*	*	*
+4rc	4ryy	2.BB-\	.	4rff	[2.g-	.	.
+8d-XL	4G-	.	.	8ff-XL	.	.	.
+8e-J	.	.	.	8gg-J	.	.	.
+4d-	4G-	.	.	4ff-	.	.	.
+*	*	*	*	*Xped	*	*	*
+*	*v	*v	*	*	*	*	*
+*v	*v	*	*	*	*	*
+=60	=60	=60	=60	=60	=60
+*	*	*	*	*^	*
+8.c-L 8.C-	.	8.ee-L 8.g-]/	2ryy	.	.	<
+16c-Jk	.	16ee-Jk 16gn	.	.	+	.
+4c-	.	4ee- 4a-/	.	.	1	.
+(>4c-	.	(>4ee- 4an	8g-XL	.	.	[
+.	.	.	[>8fJ	.	.	.
+*	*	*	*	*v	*v	*
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=61	=61	=61	=61	=61
+*^	*	*^	*	*
+!LO:TX:b:Bi:t=legatiss;	!	!	!	!	!	!
+!	!	!	!	!LO:TX:b:t=P:brak końca ligatury:problem	!	!
+(<4B-)\	N[>2.B-/	.	4ddn 4b-])	4f	3	.
+4An\	.	.	4r	2ryy	.	.
+4A-X\	.	.	4r	.	.	.
+*	*	*	*v	*v	*	*
+=62	=62	=62	=62	=62	=62
+2B-N] 2G-	4E-	.	8.ee-^>L 8.e-	2	.
+.	.	.	16ff'>Jk 16f	4	.
+.	4D-	.	(>12gg-'>L 12g-	3	.
+.	.	.	12aa-'> 12a-	.	.
+.	.	.	12bb-'>J 12b-)	.	<
+4An 4G-	4C-	.	(>12ccc-'>L 12cc-	.	.
+.	.	.	12ddd-'> 12dd-	.	.
+.	.	.	12eee-'>J 12ee-)	.	[
+=63	=63	=63	=63	=63	=63
+!	!	!	!LO:S:s=1:note:problem:note-level slur	!	!
+4rA	2.BB-)	.	(>2eee- &(>2ee-	.	fz
+(>8A-L 8F	.	.	.	.	.
+8c-J	.	.	.	.	.
+8B- 8A- 8F)	.	.	8dddn) 8ddn&)	.	.
+8rF	.	.	8r	.	.
+=64	=64	=64	=64	=64	=64
+2B- 2G-	4E-	.	8.ee-L 8.e-	.	.
+.	.	.	16ff'>Jk 16f	.	<
+.	4D-	.	(>12gg-'>L 12g-	.	.
+.	.	.	12aa-'> 12a-	.	.
+.	.	.	12bb-'>J 12b-)	.	.
+4An 4G-	4C-	.	(>12ccc-'>L 12cc-	.	.
+.	.	.	12ddd-'> 12dd-	.	.
+.	.	.	12eee-'>J 12ee-)	.	[
+!!LO:LB:g=original
+=65	=65	=65	=65	=65	=65
+!	!	!	!LO:S:s=1:note:problem:note-level slur	!	!
+4rF	2.BB-	.	(>2eee- &(>2ee-	.	fz
+(<8A-L 8F	.	.	.	.	>
+8c-J	.	.	.	.	]
+8B- 8A- 8F)	.	.	8dddn) 8ddn&)	.	.
+8rF	.	.	8r	.	.
+*v	*v	*	*	*	*
+=66	=66	=66	=66	=66
+!LO:TX:b:Bi:t=stacc;	!	!	!	!
+8.EE-L 8.EEE-	.	4ggg- 4eee- 4bb- 4gg-	.	f
+16FF'>Jk 16FFF	.	.	.	.
+(<12GG-'>L 12GGG-	.	4eee- 4bb- 4gg- 4ee-	.	.
+12AA-'> 12AAA-	.	.	.	.
+12BB-'>J 12BBB-)	.	.	.	.
+(<12C-'>L 12CC-	.	4ccc- 4gg- 4ee- 4cc-	.	.
+12D-'> 12DD-	.	.	.	.
+12E-'>J 12EE-)	.	.	.	.
+=67	=67	=67	=67	=67
+*	*	*^	*	*
+*	*	*	*^	*	*
+!	!	!LO:TX:b:t=P:note position:problem	!	!	!	!
+2E-^< 2EE-	.	2ccc- 2aa-	4ee-	2cc-	.	ff
+!	!	!	!LO:N:vis=2	!	!	!
+.	.	.	4ff	.	.	.
+4Dn'< 4DDn	.	8bb-L	4ff 4b-	4ryy	.	.
+.	.	8aa-J	.	.	.	.
+*	*	*	*v	*v	*	*
+*	*	*v	*v	*	*
+=68	=68	=68	=68	=68
+8E-`< 8EE-	.	8gg-`> 8ee- 8b-	.	.
+16r	.	16r	.	.
+(>16A-	.	(>16ff 16cc- 16a-	+ 2 4	.
+!LO:N:vis=2	!	!	!	!
+4B-)	.	4b- 4g-)	1	.
+4BB-\	.	4ddn 4a- 4f	3	.
+=69	=69	=69	=69	=69
+4E-	.	4ee- 4g- 4e-	.	.
+4EE-	.	4r	.	.
+=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: > = "dim.", fontstyle= "bold-italic"
+!!!RDF**dynam: < = "cres:", fontstyle= "bold-italic"
+!!!RDF**kern: N = linked
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2019-09-16
+!!!EED:
+!!!EST:
+!!!rism-genre: Sonata
+!!!rism-key: c minor
+!!!rism-opus: Op. 4
+!!!rism-title: Sonata in c minor op. 4 Menuetto

@@ -1,0 +1,334 @@
+!!!!SEGMENT: 074-1c-LW-009.krn
+!!!COM: Fryderyk Chopin
+!!!OTL: Eine Melodie
+!!!OPS: op. 74
+!!!PTL: 17 | POLISH SONGS | BY | WITWICKI, ZALESKI, MICKIEWICZ, ETC, | FOR | A SOPRANO OR TENOR VOICE | WITH ACCOMPANIMENT FOR THE | Pianoforte
+!!!PPR: Stanley Lucas, Weber & Co.
+!!!PPP: London
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: PL-Wbfc 6139/n
+!!!OMD: ANDANTE. M. M. [quarter] = 92.
+!!!system-decoration: (s1){(s2,s3)}
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*	*part1
+*staff3	*staff2	*	*staff1	*	*
+*	*I"PIANO.	*	*	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[f#]	*k[f#]	*	*k[f#]	*	*
+*G:	*G:	*	*G:	*	*
+*M4/4	*M4/4	*	*M4/4	*	*
+*met(c)	*met(c)	*	*met(c)	*	*
+=1	=1	=1	=1	=1	=1
+*	*^	*	*	*	*
+1D 1GG	(<8BL	4.B	.	1rdd	.	.
+.	8d	.	.	.	.	.
+.	8g	.	.	.	.	.
+.	8f#J 8A	8ryy	.	.	.	.
+.	8aL 8c	4rEyy	.	.	.	.
+.	8g 8B	.	.	.	.	.
+.	8cc 8e	4rFyy	.	.	.	.
+.	8bJ 8d)	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+!	!	!LO:TX:b:t=P:note position:problem	!	!	!	!
+2D/ 2DD/	2a 2A	(<2.f#	.	1rdd	.	.
+2r	2rdd	.	.	.	.	.
+.	.	4fn)	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+1C 1FFn	(<8AL	4.A\	.	1rdd	.	.
+.	8c	.	.	.	.	.
+.	8fn	.	.	.	.	.
+.	8eJ 8G	8ryy	.	.	.	.
+.	8gL 8B-X	4rDyy	.	.	.	.
+.	8f 8A	.	.	.	.	.
+.	8b-X 8d	4rEyy	.	.	.	.
+.	8aJ 8c)	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=4	=4	=4	=4	=4	=4
+1C 1CC	2.g 2.e (<2.G	.	1rdd	.	.
+.	4f#X 4e 4A)	.	.	.	.
+!!LO:LB:g=original
+=5	=5	=5	=5	=5	=5
+*	*	*	*	*^	*
+!	!	!	!	!	!	!LO:HP:a
+4BB 4BBB	4f# 4d#X 4A	.	2cc	Loug	Sie	>
+4r	4r	.	.	.	.	.
+2r	2r	.	4b	time	tru-	.
+.	.	.	4a#X	theor	-gen	]
+=6	=6	=6	=6	=6	=6	=6
+1rF	1rdd	.	2.b	cross	lang	.
+.	.	.	4f#	they	ihr	.
+=7	=7	=7	=7	=7	=7	=7
+!	!	!	!	!	!	!LO:HP:a
+1BB 1BBB	1g 1e	.	4g	bore	Kreuz	<
+.	.	.	4a	with	in	.
+.	.	.	4b	grief	Gram	.
+.	.	.	4cc#X	and	und	[
+=8	=8	=8	=8	=8	=8	=8
+2BB/ 2BBB/	2f#/ 2A/	.	2.dd#Xt	weep-	Pla-	.
+2r	2r	.	.	.	.	.
+!	!	!	!	!	!	!LO:HP:a
+.	.	.	8cc#XL	-ing,	-ge,	<
+.	.	.	8dd#J	.	.	[
+=9	=9	=9	=9	=9	=9	=9
+2C/ 2CC/	2e/ 2G/	.	2ee	Of	blieb	.
+2r	2r	.	4.ddn	hap-	ih-	.
+.	.	.	8ccn	-py	-nen	.
+!!LO:LB:g=original
+=10	=10	=10	=10	=10	=10	=10
+2r	2r	.	(<(>4b	days	nur...	.
+.	.	.	4cc)	...	...	.
+4r	4r	.	4g)	the	...	.
+4F# 4C	4e	>	4a	re-	Er-	.
+=11	=11	=11	=11	=11	=11	=11
+4B 4BB	4g#X 4e	.	4b\	-mem-	-inn-	.
+4r	4r	.	4a#X	-brance	-rung	.
+2r	2r	.	4an	on-	schö-	.
+.	.	.	4g#X	-ly	-ner	.
+=12	=12	=12	=12	=12	=12	=12
+4BB	4d#X 4B 4A	.	(<2.g#X	keep-	Ta-	.
+4r	4r	.	.	.	.	.
+2r	2r	.	.	.	.	.
+.	.	.	4f#)	.	.	.
+=13	=13	=13	=13	=13	=13	=13
+!	!LO:TX:a:t=P:stem-side tuplet number:problem	!	!	!	!	!
+2EE	6B 6G#X	p	4e	-ing;	-ge.	.
+.	6B 6G#	.	.	.	.	.
+.	.	.	4r	.	.	.
+.	6B 6G#	.	.	.	.	.
+!	!LO:TX:a:t=P:stem-side tuplet number:problem	!	!	!	!	!
+4BB	/6B 6G#/	.	2r	.	.	.
+.	6B 6G#	.	.	.	.	.
+4EE	.	.	.	.	.	.
+.	6B 6G#	.	.	.	.	.
+!!LO:LB:g=original
+=14	=14	=14	=14	=14	=14	=14
+*	*Xtuplet	*	*	*	*	*
+2BB	6B 6G#X	.	1rdd	.	.	.
+.	6B 6G#	.	.	.	.	.
+.	6B 6G#	.	.	.	.	.
+4EE	6B 6G#	.	.	.	.	.
+.	6B 6G#	.	.	.	.	.
+4BB	.	.	.	.	.	.
+.	6B 6G#	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15
+2DD#X	6B 6G#X	.	2r	.	.	.
+.	6B 6G#	.	.	.	.	.
+.	6B 6G#	.	.	.	.	.
+4BB	6B 6G#	.	4r	.	.	.
+.	6B 6G#	.	.	.	.	.
+4DD#	.	.	4g#X	A	Schon	.
+.	6B 6G#	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16
+2BB	6B 6G#X	.	2.g#X	land	wink-	.
+.	6B 6G#	.	.	.	.	.
+.	6B 6G#	.	.	.	.	.
+4DDn	6B 6G#	.	.	.	.	.
+.	6B 6G#	<	.	.	.	.
+!	!	!	!LO:TX:a:t=P:cres: powinno być nad górną pięciolinią:problem	!	!	!LO:HP:a
+4D	.	.	4a#X	of	-te	<
+.	6B 6G#	.	.	.	.	.
+*	*clefG2	*	*	*	*	*
+=17	=17	=17	=17	=17	=17	=17
+2E-X	6e-X 6c 6A-X	.	2.ccn	pro-	das	.
+.	6e- 6c 6A-	.	.	.	.	.
+.	6e- 6c 6A-	.	.	.	.	.
+4E-	6e- 6c 6A-	.	.	.	.	.
+.	6e- 6c 6A-	.	.	.	.	.
+4EE-X	.	.	4dd-X	-mise	ver-	.
+.	6e- 6c 6A-	.	.	.	.	.
+!!LO:LB:g=original
+=18	=18	=18	=18	=18	=18	=18
+2E-X	6e-X 6d-X 6G	.	4ffn	on-	-heiss'-	.
+.	6e- 6d- 6G	>	.	.	.	.
+!	!	!	!	!	!	!LO:HP:a
+.	.	.	4ee-X	-ward	-ne	>
+.	6e- 6d- 6G	.	.	.	.	.
+4EE-X	(>6e- 6d- 6G	.	4dd-X	seem'd	Land	.
+.	6e- 6d- 6G	.	.	.	.	.
+4E-	.	.	4b-X	to	auf	.
+.	6e- 6d- 6G	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19
+2AA-X	6g 6d-X	.	(>2.b-X	call...	Er-	.
+.	6g 6d-	.	.	.	.	.
+.	6g 6d-	.	.	.	.	.
+4E-X	6g 6d-	.	.	.	.	.
+.	6g 6d-	.	.	.	.	.
+4AA-	.	.	4cc)	....	.	.
+.	6g 6d-	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20
+2AA-X	6a-X 6c	.	4a-X	-them,	-den,	.
+.	6a- 6c	.	.	.	.	.
+.	.	.	4g	That	das	.
+.	6a- 6c	.	.	.	.	.
+4E-X	6a- 6c	.	4a-	should	e-	.
+.	6a- 6c	.	.	.	.	.
+4AA-	.	.	4g	be	-wig	.
+.	6a- 6c	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21
+*	*Xtuplet	*	*	*	*	*
+!	!	!	!	!	!	!LO:HP:a
+2DD-X/	6fn 6d-X 6A-X	.	2fn	theirs,	ih-	<
+.	6f 6d- 6A-	.	.	.	.	.
+.	6f 6d- 6A-	.	.	.	.	.
+4AA-X/	6f 6d- 6A-	.	4g	what-	-rem	.
+.	6f 6d- 6A-	.	.	.	.	.
+4DD-/	.	.	4a-X	-so-	Ge-	[
+.	6f 6d- 6A-	.	.	.	.	.
+!!LO:PB:g=original
+=22	=22	=22	=22	=22	=22	=22
+2AA-X/	6f-X 6d-X 6A-X	.	2b-X\	-e'er	-schlecht	.
+.	6f- 6d- 6A-	.	.	.	.	.
+.	6f- 6d- 6A-	.	.	.	.	.
+!	!	!	!	!	!	!LO:HP:a
+4DD-X	6f- 6d- 6A-	.	4a-X	might	soll-	<
+.	6f- 6d- 6A-	.	.	.	.	.
+4AA-/	.	.	4b-\	be-	-te	.
+.	6f- 6d- 6A-	.	.	.	.	[
+=23	=23	=23	=23	=23	=23	=23
+!	!	!	!LO:TX:t=P:diminuendolike accent:problem	!	!	!
+2CC/	6en 6c 6A-X	>	(<2.cc^>	-fall...	wer-	.
+.	6e 6c 6G	.	.	.	.	.
+.	.	]	.	.	.	.
+.	6e 6c 6G	.	.	.	.	.
+4C/	6e 6c 6G	.	.	.	.	.
+.	6e 6c 6G	.	.	.	.	.
+4CC/	.	.	8b-XL	...	.	.
+.	6e 6c 6G	.	.	.	.	.
+.	.	.	8a-XJ)	...	.	.
+=24	=24	=24	=24	=24	=24	=24
+2C/	6e 6c 6G	.	2g	them.	-den.	.
+.	6e 6c 6G	.	.	.	.	.
+.	6e 6c 6G	.	.	.	.	.
+4CC/	6e 6c 6G	.	2r	.	.	.
+.	6e 6c 6G	.	.	.	.	.
+4C/	.	.	.	.	.	.
+.	6e 6c 6G	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25
+!	!	!LO:DY:rj	!	!	!	!
+4BB/ 4BBB/	4e 4B 4G	p	2g	Ah	Ihr	.
+4r	4r	.	.	.	.	.
+2r	2r	.	4f#X	their	Glau-	.
+.	.	.	4e	be-	-ben,	.
+!!LO:LB:g=original
+=26	=26	=26	=26	=26	=26	=26
+!	!	!	!	!	!	!LO:HP:a
+1rF	1rdd	.	2.b	lief,	ach,	>
+.	.	.	4a	their	ihr	]
+=27	=27	=27	=27	=27	=27	=27
+1rF	1rdd	.	4a	hopes,	Hof-	.
+.	.	.	4g	were	-fen	.
+.	.	.	4f#	all	war	.
+.	.	.	4e	too	ver-	.
+=28	=28	=28	=28	=28	=28	=28
+4AA/ 4AAA/	4e 4c 4F#	.	2f#	dar-	-mes-	.
+4r	4r	.	.	.	.	.
+2r	2r	.	4a	-ing;	-sen;	.
+.	.	.	4r	.	.	.
+=29	=29	=29	=29	=29	=29	=29
+1rF	1rdd	.	2g	Ne'er	nie	.
+.	.	.	4f#	shall	wer-	.
+.	.	.	4e	they	-den	.
+=30	=30	=30	=30	=30	=30	=30
+!	!	!	!LO:TX:a:t=P:diminuendolike accent:problem	!	!	!
+2BB 2BBB	2e 2B 2G	.	2.b^>	rest,	sie	.
+2r	2r	.	.	.	.	.
+.	.	.	4a	but	die	.
+!!LO:LB:g=original
+=31	=31	=31	=31	=31	=31	=31
+1rF	1rdd	.	4a	on-	hei-	.
+.	.	.	4g	-ward	-sse	.
+.	.	.	4f#	still	Sehn-	.
+.	.	.	4e	be	-sucht	.
+=32	=32	=32	=32	=32	=32	=32
+!	!	!	!	!	!	!LO:DY:a:rj
+2.C#X/ 2.CC#X/	2.g 2.e 2.A#X	sf	2ee	far-	stil-	f>
+.	.	.	4e	-ing;	-len!	]
+4r;	4r;	.	4r;	.	.	.
+=33	=33	=33	=33	=33	=33	=33
+!	!	!	!	!	!	!LO:DY:a:rj
+1BB 1BBB	1g 1e 1B 1G	sf	2b	Soon	Sie	ff
+!	!	!	!	!	!	!LO:HP:a
+.	.	.	.	.	.	>
+.	.	.	4cc	they	sol-	.
+.	.	.	4b	shall,	-len,	]
+=34	=34	=34	=34	=34	=34	=34
+!	!	!	!	!	!	!LO:HP:a
+1rF	1rdd	.	(>4gg	ah!...	ach,...	>
+.	.	.	4ff#	...	...	.
+.	.	.	4ee)	...	...	]
+.	.	.	4cc	from	sie	.
+=35	=35	=35	=35	=35	=35	=35
+1rF	1rdd	.	(<4b\	off	sol-	.
+.	.	.	4f#/	the	.	.
+.	.	.	(>4g)	earth	.	.
+.	.	.	4e)	.	-len	.
+!!LO:LB:g=original
+=36	=36	=36	=36	=36	=36	=36
+!	!	!	!	!	!	!LO:HP:a
+2BB 2BBB	2d#X 2A	.	4d#X	they	un-	>
+.	.	.	4cc	shall	-ter	.
+2r	2r	.	4b	per-	-ge	.
+.	.	.	4d#	-ish;	-hen,	]
+=37	=37	=37	=37	=37	=37	=37
+!	!	!LO:DY:rj	!	!	!	!
+2BB-X 2BBB-X	2e 2c 2G	p	1rdd	.	.	.
+2r	2r	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38
+!	!	!	!	!	!	!LO:HP:a
+1rF	1rdd	.	4e	they	un-	>
+.	.	.	4dd	shall	-ter	.
+.	.	.	4cc	per-	-ge-	.
+.	.	.	4e	-ish;	-hen,	]
+=39	=39	=39	=39	=39	=39	=39
+1AA-X (<1AAA-X	(>1fn 1c 1Fn	.	1rdd	.	.	.
+=40	=40	=40	=40	=40	=40	=40
+*	*^	*	*	*	*	*
+!LO!	!	!LO:TX:t=P:note position:problem	!	!LO:DY:rj	!	!	!
+2D-X 2DD-X	1fn 1A-	2d-X	.	1rdd	.	.	.
+2C 2CC	.	2dn	.	.	.	.	.
+*	*v	*v	*	*	*	*	*
+=41	=41	=41	=41	=41	=41	=41
+!	!	!	!	!	!	!LO:HP:a
+2BB 2BBB)	2f#X) 2d#X 2An	.	2d#X	None	sol-	<
+2r	2r	.	2cc	their	-len	[
+!!LO:LB:g=original
+=42	=42	=42	=42	=42	=42	=42
+!	!	!	!	!	!	!LO:HP:a
+1rF	1rdd	.	2b	name	sein	>
+.	.	.	2d#X	shall	ver	]
+=43	=43	=43	=43	=43	=43	=43
+1rF	1rdd	.	(<2f#	cher-	ges-	.
+.	.	.	4e#X	.	.	.
+.	.	.	4f#	.	.	.
+=44	=44	=44	=44	=44	=44	=44
+1rF	1rdd	.	4g	.	.	.
+.	.	.	4f#	.	.	.
+.	.	.	4a	.	.	.
+.	.	.	4g)	.	.	.
+=45	=45	=45	=45	=45	=45	=45
+!	!	!LO:DY:rj	!	!	!	!
+1BB 1EE	(<8GL	p	4e	-ish.	-sen.	.
+.	8B	.	.	.	.	.
+.	8e 8G	.	4r	.	.	.
+.	8d#X 8F#J	.	.	.	.	.
+.	8f# 8AL	.	2r	.	.	.
+.	8e 8G	.	.	.	.	.
+.	8a 8c	.	.	.	.	.
+.	8g 8BJ)	.	.	.	.	.
+*	*	*	*	*v	*v	*
+=46	=46	=46	=46	=46	=46
+1BB 1BBB	1f# 1d#X 1B 1A	.	1rdd	.	.
+=47	=47	=47	=47	=47	=47
+1BB 1EE	1e 1B 1G	.	1rdd	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cres:", 'fontstyle="italic"
+!!!RDF**dynam: > = "dim:", 'fontstyle="italic"
+!!!RDF**kern: N = linked
+!!!ENC: Jędrzej Mróz
+!!!END: 2020-01-29
+!!!EED: 
+!!!EST: 

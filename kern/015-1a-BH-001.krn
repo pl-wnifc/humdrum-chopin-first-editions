@@ -1,0 +1,1374 @@
+!!!!SEGMENT: 015-1a-BH-001.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: 1er Nocturne
+!!!OPS: Op. 15
+!!!PTL: Trois Nocturnes pour le piano
+!!!PPR: Breitkopf & Härtel
+!!!PPP: Leipzig
+!!!NIFC-rismID:  1001035841
+!!!NIFC-shelfmark: PL-Wbfc 676/n
+!!!OMD: [quarter] = 69.
+!!!OMD: Andante cantabile.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M3/4	*M3/4	*
+*MM69	*MM69	*
+*kcancel	*kcancel	*kcancel
+!	!LO:TX:t=semplice e tranquillo.	!
+4r	(4cc	.
+=1	=1	=1
+*^	*	*
+*	*^	*	*
+!	!LO:TX:b:t=sempre legato.	!	!	!
+!LO:TX:b:t=P:2.F przed 12A 12f:problem	!	!	!	!
+!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!
+4f	(>12AL 12f	2.F\	2ff	.
+.	12c	.	.	.
+.	12cJ	.	.	.
+*	*Xtuplet	*	*	*
+4f	12AL 12f)	.	.	.
+.	12c	.	.	.
+.	12cJ	.	.	.
+4e	12AL 12e	.	4ee	.
+.	12c	.	.	.
+.	12cJ	.	.	.
+=2	=2	=2	=2	=2
+!LO:TX:b:t=P:2.F przed 12A 12d:problem	!	!	!	!
+4d	12AL 12d	2.F\	4dd	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4e	12GL 12e	.	4ee	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4c	12GL 12c	.	4cc)	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+=3	=3	=3	=3	=3
+!LO:TX:b:t=P:2.F przed 12G 12d:problem	!	!	!	!
+4d	12GL 12d	2.F\	(>8.ddL	<
+.	12B-	.	.	.
+.	12B-J	.	.	.
+.	.	.	16eeJk	.
+4e	12GL 12e	.	4ff	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4c	12GL 12c	.	4gg	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+=4	=4	=4	=4	=4
+4c	12c 12FL	4F/	2.aa)	[
+.	12A	.	.	.
+.	12AJ	.	.	.
+4c#X	12GL	4E/	.	.
+.	12A	.	.	.
+.	12AJ	.	.	.
+4d	12FL	4D/	.	.
+.	12A	.	.	.
+.	12AJ	.	.	.
+!!LO:LB:g=original
+=5	=5	=5	=5	=5
+4Bn	12FL	4D/	(4gg	.
+.	12G	.	.	.
+.	12GJ	.	.	.
+4B-X	12FL	4D-X/	8.aaL	>
+.	12G	.	.	.
+.	12GJ	.	.	.
+.	.	.	16ggJk	.
+*	*	*	*Xtuplet	*
+4B-	12EL	4C/	12ggL	.
+.	12G	.	12ff	.
+.	12GJ	.	12eeJ	]
+=6	=6	=6	=6	=6
+4A	12CL 12E	4E/	4.ff	.
+.	12F	.	.	.
+.	12FJ	.	.	.
+!LO:TX:b:t=P:2BBn przed 12D 12A:problem	!	!	!	!
+4A	12DL 12A	2BBn\	.	.
+.	12F	.	.	.
+.	.	.	8ee	.
+.	12FJ	.	.	<
+4A	12DL 12A	.	12ddL	.
+.	12F	.	12ee	.
+.	12FJ	.	12ffJ)	[
+=7	=7	=7	=7	=7
+!	!	!	!LO:TX:t=poco cresc. e rite-nuto.:dur=6q:ext=ud:problem:text with extention lines	!
+4G#X	12DL	4BBn/	(>2ee	.
+.	12E	.	.	.
+.	12EJ	.	.	.
+4A	12AAL	4C/	.	.
+.	12E	.	.	.
+.	12EJ	.	.	.
+*ped	*	*	*	*
+4A	12BBL 12FF 12A:	4rGGGyy	12eeL	.
+.	12D	.	12dd	.
+*Xped	*	*	*	*
+.	12DJ	.	12aJ	.
+=8	=8	=8	=8	=8
+*ped	*	*	*	*
+4G#X	12BBnL 12EE 12G#:	4ryy	2bn)	.
+.	12Bn	.	.	.
+.	12BJ	.	.	.
+4e 4G#	12G#L	4e	.	.
+.	12B	.	.	.
+*Xped	*	*	*	*
+.	12BJ	.	.	.
+!	!	!	!LO:TX:a:t=dolciss.	!
+*ped	*	*	*	*
+4e	12B-L 12G	4e 4B-	(12ccL	p
+.	12c	.	12.dd	.
+*Xped	*	*	*	*
+.	12cJ	.	.	.
+.	.	.	24ccJk	.
+*	*	*	*tuplet	*
+!!LO:LB:g=original
+=9	=9	=9	=9	=9
+.	.	.	8qqcc/	.
+*ped	*	*	*	*
+!LO:TX:b:t=P:2.F przed 12A 12f:problem	!	!	!	!
+4f	12AL 12f	2.F\	2ff)	.
+.	12c	.	.	.
+.	12cJ	.	.	.
+4f	12AL 12f	.	.	.
+.	12c	.	.	.
+*Xped	*	*	*	*
+.	12cJ	.	.	.
+!	!	!	!LO:TX:a:t=delicatissimo.	!
+!	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+!	!	!	!LO:TX:a:t=P:"3" zamiast "7":problem	!
+4e	12AL 12e	.	(<28ee/LL	.
+.	.	.	28ff	.
+.	.	.	28eeJ	.
+.	12c	.	.	.
+.	.	.	14ggJ)	.
+.	12cJ	.	.	.
+.	.	.	14r	.
+=10	=10	=10	=10	=10
+!LO:TX:b:t=P:2.F przed 12A 12d:problem	!	!	!	!
+!	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+!	!	!	!LO:TX:a:t=P:"3" zamiast "7":problem	!
+4d/ 4A/	12AL	2F.\	(<28dd/LL	.
+.	.	.	28ee	.
+.	.	.	28ddJ	.
+.	12B-	.	.	.
+.	.	.	14ffJ)	.
+.	12B-J	.	.	.
+.	.	.	14r	.
+*	*	*	*tuplet	*
+4e	12GL 12e	.	(>4ee^	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4F 4c	12GL	.	4cc)	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+=11	=11	=11	=11	=11
+!LO:TX:b:t=P:2F przed 12G 12d:problem	!	!	!	!
+4d	12GL 12d	2F\	(>8.ddL	<
+.	12B-	.	.	.
+.	12B-J	.	.	.
+.	.	.	16eeJk	.
+4e	12GL 12e	.	4ff	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4c 4F/	12GL	4ryy	4gg	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+=12	=12	=12	=12	=12
+4c	12FL	4F/	2.aa)	[
+.	12A	.	.	.
+.	12AJ	.	.	.
+!LO:TX:b:t=P:2E przed 12G 12c#:problem	!	!	!	!
+4c#X	12GL 12c#	2E\	.	.
+.	12A	.	.	.
+.	12AJ	.	.	.
+4c#	12GL 12c#	.	.	.
+.	12A	.	.	.
+.	12AJ	.	.	.
+!!LO:LB:g=original
+=13	=13	=13	=13	=13
+!LO:TX:b:t=P:2E przed 12G 12d-:problem	!	!	!	!
+4d-X	12GL 12d-	2E\	(2bb-	>
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4cn	12GL 12cn	.	.	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4dn	12F#L	4A/	4aa)	]
+.	12c	.	.	.
+.	12cJ	.	.	.
+=14	=14	=14	=14	=14
+*	*	*	*	*^
+!	!	!	!	!	!LO:HP:b=2
+4e	12GL	4B-/	(>4gg	<	<
+.	12c	.	.	.	.
+.	12cJ	.	.	.	.
+.	.	.	8qaa/L	.	.
+.	.	.	8qgg/	.	.
+.	.	.	8qff/	.	.
+.	.	.	8qgg/J	.	.
+4fn	12FnL	4A/	4aa	.	.
+.	12c	.	.	.	.
+.	12cJ	.	.	.	.
+4g#X	12BnL 12g#X	4rFFyy	4ff)	.	.
+.	12d	.	.	[	[
+.	12dJ	.	.	.	.
+*v	*v	*v	*	*	*
+*	*	*v	*v
+=15	=15	=15
+.	(>8qqa/	.
+*^	*	*
+*ped	*	*	*
+4rfyy	12CL	4cc	<
+.	12c	.	.
+.	12cJ	.	.
+4A 4f	12AL	4ff	.
+.	12c	.	.
+*Xped	*	*	*
+.	12cJ	.	.
+4G 4e	12GL	4ee	.
+.	12c	.	.
+.	12cJ	.	.
+.	.	.	[
+=16	=16	=16	=16
+*	*^	*	*
+!LO:TX:b:t=P:2F przed 12G 12d-:problem	!	!	!	!
+4d-	12GL 12d-	2F\	2.gg)	>
+.	12Bn	.	.	.
+.	12BJ	.	.	.
+4d-	12GL 12d-	.	.	.
+.	12B	.	.	.
+.	12BJ	.	.	.
+4d-	12EL	4G/	.	.
+.	12B-X	.	.	.
+.	12B-J	.	.	]
+!!LO:LB:g=original
+=17	=17	=17	=17	=17
+*	*v	*v	*	*
+!LO:TX:t=P:2d- i 2E- przed 12G:problem	!	!	!
+2d-\ 2E-	12GL	(2bb-	>
+.	12B-	.	.
+.	12B-J	.	.
+.	12GL	.	.
+.	12B-	.	.
+.	12B-J	.	.
+4d- 4G-	12E-L	4aa	.
+.	12A	.	.
+.	12AJ	.	.
+*	*^	*	*
+=18	=18	=18	=18	=18
+4c#X	12E-L	4GnX/	4gg	.
+.	12A	.	.	.
+.	12AJ	.	.	.
+.	.	.	8qaa/L	.
+.	.	.	8qgg/	.
+.	.	.	8qff#X/	.
+.	.	.	8qgg/J	.
+4cn	12DL	4F#/	4aa	.
+.	12A	.	.	.
+.	12AJ	.	.	.
+4Bn	12DL	4Fn/	4ffn	.
+.	12G	.	.	.
+.	12GJ	.	.	.
+.	.	.	.	]
+=19	=19	=19	=19	=19
+*	*	*^	*	*
+*ped	*	*	*	*	*
+!	!LO:N:vis=3.	!	!	!	!
+4rgyy	12CL	2.C/	4rCCCyy	4cc)	.
+.	12c	.	.	.	.
+.	12cJ	.	.	.	.
+4f/	12B-XL 12G 12f	.	4ryy	([4gg	>
+.	12c	.	.	.	.
+.	12cJ	.	.	.	.
+4e/	12B-L 12e	.	4rCCCyy	8.ggL]	.
+.	12c	.	.	.	.
+.	12cJ	.	.	.	.
+*Xped	*	*	*	*	*
+.	.	.	.	16ffJk	.
+*	*	*v	*v	*	*
+=20	=20	=20	=20	=20
+4f	12f 12AL	4F/	4ff)	]
+.	12c	.	.	.
+.	12cJ	.	.	.
+*ped	*	*	*	*
+4rfyy	12BBnL	2rDDDyy	(2ddd^	>
+.	12A-X	.	.	.
+.	12A-J	.	.	.
+4d	12FL 12d	.	.	.
+.	12A-	.	.	.
+*Xped	*	*	*	*
+.	12A-J	.	.	.
+!	!	!	!LO:TX:a:t=dolciss.	!
+!	!	!	!LO:TX:t=P: dolciss powinno wyświetlić nie nad przednutkami:problem	!
+.	.	.	8qee/L	.
+.	.	.	8qff/	.
+.	.	.	8qee/	.
+.	.	.	8qdd/	.
+.	.	.	8qee/	]
+.	.	.	8qgg/	.
+.	.	.	8qff/	.
+.	.	.	8qdd/J)	.
+*v	*v	*v	*	*
+!!LO:LB:g=original
+=21	=21	=21
+*^	*	*
+*	*^	*	*
+*	*	*^	*	*
+!	!LO:N:vis=3.	!	!	!	!
+*ped	*	*	*	*	*
+!!mixed beam:problem
+4rgyy	12CCL/	2.CC\	4rGGGGyy	4cc	.
+.	12c'>\	.	.	.	.
+.	12c'>\J	.	.	.	.
+!LO:TX:b:t=P:4f powinno wyświeltić się z 12f:problem	!	!	!	!	!
+4f/	12f 12B-L 12G	.	4ryy	(>[4gg	>
+.	12c	.	.	.	.
+.	12cJ	.	.	.	.
+*Xped	*	*	*	*	*
+4e/	12B-L 12e	.	4rEEEyy	8.ggL]	.
+.	12c	.	.	.	.
+.	12cJ	.	.	.	.
+.	.	.	.	16ffJk	]
+*	*	*v	*v	*	*
+=22	=22	=22	=22	=22
+!LO:TX:b:t=P:2.F przed 12A 12f:problem	!	!	!	!
+4f	12AL 12f	[2.F\	2ff	.
+.	12c	.	.	.
+.	12cJ	.	.	.
+4f	12AL 12f	.	.	.
+.	12c	.	.	.
+.	12cJ	.	.	.
+4e	12AL 12e	.	4ee	.
+.	12c	.	.	.
+.	12cJ	.	.	.
+=23	=23	=23	=23	=23
+!	!	!	!LO:TX:t=smor-zan-do.:dur=4q:ext=ud:problem:text with extention lines	!
+!LO:TX:b:t=P:2.F przed 12A 12f:problem	!	!	!	!
+!	!LO:TX:a:t=P:na raz w lewej ręce być może jeszcze dźwięk 12c:problem	!	!	!
+4d	12AL 12d	2.F\]	4dd	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4e	12GL 12e	.	4ee	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4c	12GL 12c	.	4cc	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+=24	=24	=24	=24	=24
+12ryy	12GL	4ryy	4dd	.
+6F 6d	12ryy	.	.	.
+.	12B-J	.	.	.
+12ryy	12GL	4ryy	4ee)	.
+6e 6F	12ryy	.	.	.
+.	12B-J	.	.	.
+4rdyy	4rD;	4rBBByy	4r;	.
+*v	*v	*v	*	*
+!!LO:PB:g=original
+=25||	=25||	=25||
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
+*^	*	*
+*	*	*Xtuplet	*
+!	!	!LO:TX:a:t=con fuoco. [quarter] = 84.	!
+(<(<24CLL	4FF	(>24fLL 24A-	f
+24BBn	.	24a- 24c	.
+24C	.	24f 24A-	.
+24D-	.	24a- 24c	.
+24C	.	24f 24A-	<
+24BBJJ)	.	24a-JJ 24c	.
+24CLL	2ryy	24fLL 24A-	.
+24BB-X	.	24a- 24c	.
+24AA-	.	24f 24A-	.
+24GG	.	24a- 24c	.
+24FF	.	24f 24A-	.
+24EEnJJ	.	24a-JJ 24c	.
+24FFLL	.	24fLL 24A-	.
+24EE-X	.	24a- 24c	.
+24DD-	.	24f 24A-	.
+24CC	.	24a- 24c	.
+24BBB-	.	24f 24A-	.
+24AAA-JJ)	.	24a-JJ 24c	[
+*v	*v	*	*
+=26	=26	=26
+*	*ped	*
+(>\24FFFLL	24fLL 24B-	.
+24DD-	24a- 24d-	.
+24FF	24f 24B-	.
+24BB-	24a- 24d-	.
+24D-)	24f 24B-	.
+48r	24a-JJ 24d-	.
+48F'JJk	.	.
+4F^	24fLL 24B-	.
+.	24a- 24d-	.
+.	24f 24B-	.
+.	24a- 24d-	.
+.	24f 24B-	.
+.	24a-JJ 24d-	.
+4r	24fLL 24B-	.
+.	24g 24d-	.
+.	24f 24B-	.
+.	24g 24d-	.
+.	24f 24B-	.
+*	*Xped	*
+.	24gJJ 24d-	.
+!!LO:LB:g=original
+=27	=27	=27
+*^	*	*
+(<24D-LL	4FF	24gLL 24B-	.
+24C	.	24b- 24f	.
+24D-	.	24g 24B-	<
+24E-	.	24b- 24f	.
+24D-	.	24g 24B-	.
+24CJJ	.	24b-JJ 24f	.
+24D-LL	2rCCyy	24gLL 24B-	.
+24C	.	24b- 24f	.
+24BB-	.	24g 24B-	.
+24AAn	.	24b- 24f	.
+24BB-	.	24g 24B-	.
+24AA-XJJ	.	24b-JJ 24f	.
+24GGLL	.	24gLL 24B-	.
+24FF	.	24b- 24f	.
+24EE-	.	24g 24B-	.
+24DD-	.	24b- 24f	.
+24CC	.	24g 24B-	.
+24BBB-JJ)	.	24b-JJ 24f	[[
+*v	*v	*	*
+=28	=28	=28
+*	*ped	*
+24FFF\'LL	24g-XLL 24B-	.
+!	!	!LO:HP:b=2
+(>24GG-X	24b- 24e-	<
+24C	24g- 24B-	.
+24E-	24b- 24e-	.
+24G-X)	24g- 24B-	.
+48r	24b-JJ 24e-	.
+48c'JJk	.	[
+4c^	24g-LL 24B-	.
+.	24b- 24e-	.
+.	24g- 24B-	.
+.	24b- 24e-	.
+.	24g- 24B-	.
+.	24b-JJ 24e-	.
+*	*Xped	*
+4r	24g-LL 24An	.
+.	24an 24e-	.
+.	24g- 24A	.
+.	24a 24e-	.
+.	24g- 24A	.
+.	24aJJ 24e-	.
+!!LO:LB:g=original
+=29	=29	=29
+*^	*	*
+(<8.cL	[<2.D-	24ccLL 24f	sf
+.	.	24ff 24an	.
+.	.	24cc 24f	.
+.	.	24ff 24a	.
+.	.	24cc 24f	.
+16d-Jk	.	.	.
+.	.	24ffJJ 24a	.
+4B-	.	24dd-LL 24f	.
+.	.	24ff 24b-	.
+.	.	24dd- 24f	.
+.	.	24ff 24b-	.
+!	!	!LO:TX:t=cre-scen-do.:dur=8es:ext=ud:problem:text with extention lines	!
+.	.	24dd- 24f	.
+.	.	24ffJJ 24b-	.
+4A-)	.	24dd-LL 24f	.
+.	.	24ff 24cc-X	.
+.	.	24dd- 24f	.
+*ped	*	*	*
+.	.	24ff 24cc-	.
+.	.	24dd- 24f	.
+.	.	24ffJJ 24cc-	.
+=30	=30	=30	=30
+(<8.A-L	2.D-]	24dd-LL 24f	.
+.	.	24ff 24cc-X	.
+.	.	24dd- 24f	.
+.	.	24ff 24cc-	.
+.	.	24dd- 24f	.
+*Xped	*	*	*
+16B-Jk	.	.	.
+.	.	24ffJJ 24cc-	.
+4G-X	.	24dd-LL 24g-X	<
+.	.	24gg-X 24cc-	.
+.	.	24dd- 24g-	.
+.	.	24gg- 24cc-	.
+.	.	24dd- 24g-	.
+.	.	24gg-JJ 24cc-	.
+*ped	*	*	*
+[>4F)	.	24dd-LL 24a-	.
+.	.	24aa- 24cc-	.
+.	.	24dd- 24a-	.
+.	.	24aa- 24cc-	.
+.	.	24dd- 24a-	.
+.	.	24aa-JJ 24cc-	[
+!!LO:LB:g=original
+=31	=31	=31	=31
+*	*	*^	*
+!	!LO:TX:b:B:i:t=sf	!	!	!
+4F]	[<2.D- 2.GG-^X	8.aa-L	24cc-XLL	ff
+.	.	.	24dd-	.
+.	.	.	24cc-	.
+.	.	.	24dd-	.
+.	.	.	24cc-	.
+.	.	16bb-Jk	.	.
+*Xped	*	*	*	*
+.	.	.	24dd-JJ	.
+(>4G-X	.	4gg-X	24b-LL	.
+.	.	.	24dd-	.
+.	.	.	24b-	.
+.	.	.	24dd-	.
+.	.	.	24b-	.
+.	.	.	24dd-JJ	.
+4A-	.	4ff	24a-LL	.
+.	.	.	24dd-	.
+.	.	.	24a-	.
+.	.	.	24dd-	.
+.	.	.	24a-	.
+.	.	.	24dd-JJ	.
+=32	=32	=32	=32	=32
+4B-	2.D-]	4ee-	24g-XLL	.
+.	.	.	24dd-	.
+.	.	.	24g-	.
+.	.	.	24dd-	.
+.	.	.	24g-	.
+.	.	.	24dd-JJ	.
+*ped	*	*	*	*
+4A-)	.	2ff)	24fLL	.
+.	.	.	24dd-	.
+.	.	.	24f	.
+!	!	!	!	!LO:HP:a
+.	.	.	24dd-	>
+.	.	.	24f	.
+.	.	.	24dd-JJ	.
+4d-	.	.	24fLL	.
+.	.	.	24dd-	.
+.	.	.	24f	.
+.	.	.	24dd-	.
+.	.	.	24f	.
+.	.	.	24dd-JJ	.
+!!LO:LB:g=original
+=33	=33	=33	=33	=33
+8qqDD-/	.	.	.	.
+(>4F	4rEEyy	(>8.aa-L	24cc-XLL	pp
+!	!	!	!LO:TX:t=e	!
+.	.	.	24dd-	.
+.	.	.	24cc-	.
+!	!	!	!LO:TX:t=poco	!
+.	.	.	24dd-	.
+.	.	.	24cc-	.
+.	.	16bb-Jk	.	.
+.	.	.	24dd-JJ	.
+*Xped	*	*	*	*
+!	!	!	!LO:TX:t=rittenuto.	!
+4G-X	[2D-	4gg-X	24b-LL	.
+.	.	.	24dd-	.
+.	.	.	24b-	.
+.	.	.	24dd-	.
+.	.	.	24b-	.
+.	.	.	24dd-JJ	.
+4A-	.	4ff	24a-LL	.
+.	.	.	24dd-	.
+.	.	.	24a-	.
+.	.	.	24dd-	.
+.	.	.	24a-	.
+.	.	.	24dd-JJ	.
+=34	=34	=34	=34	=34
+4B-	2.D-]	4ee-	24g-XLL	.
+.	.	.	24dd-	.
+.	.	.	24g-	.
+.	.	.	24dd-	.
+.	.	.	24g-	.
+.	.	.	24dd-JJ	.
+*ped	*	*	*	*
+4A-	.	2ff	24fLL	.
+.	.	.	24dd-	.
+.	.	.	24f	.
+.	.	.	24dd-	.
+.	.	.	24f	.
+.	.	.	24dd-JJ	.
+!	!	!	!	!LO:HP:a
+4d-)	.	.	24fLL	>
+.	.	.	24dd-	.
+.	.	.	24f	.
+.	.	.	24cc	.
+.	.	.	24f	.
+*Xped	*	*	*	*
+.	.	.	24bnJJ	.
+*v	*v	*	*	*
+!!LO:LB:g=original
+=35	=35	=35	=35
+16qC/	.	.	.
+*ped	*	*	*
+!	!	!LO:TX:a:B:t=a Tempo.	!
+24enLL	8.ggL	24b-LL	.
+.	.	.	>
+24c	.	24cc	.
+24e	.	24b-	.
+24c	.	24cc	.
+24e	.	24b-	.
+.	16aa-Jk	.	.
+24cJJ	.	24ccJJ	]
+*Xped	*	*	*
+!	!	!	!LO:DY:a
+8f	8ff)	24a-LL	.
+.	.	24cc	<
+.	.	24a-	.
+8r	8rgggyy	24cc	.
+.	.	(>24ee- 24g	.
+.	.	24b-JJ	.
+4r	4raaayy	24dd-\LL 24f\	.
+.	.	24a-	.
+.	.	24cc 24e-	.
+!	!	!LO:TX:t=cresc.	!
+.	.	24g	.
+.	.	24b- 24d-	.
+.	.	24fJJ	[
+*	*v	*v	*
+=36	=36	=36
+*M6/8	*M6/8	*
+*	*	*
+*	*^	*
+*	*	*	*^
+2r.	8a-L	16cLL	>	.
+.	.	16e-	.	.
+.	8g	16B-	.	.
+.	.	16d-	.	.
+.	8fJ	16A-	.	.
+.	.	16cJJ	.	.
+!	!	!	!	!LO:HP:a
+.	8gL	16B-LL	.	>
+.	.	16d-	.	.
+.	8f	16A-	.	.
+.	.	16c	.	.
+.	8enJ	16G	]	.
+.	.	16cJJ)	.	.
+*	*v	*v	*	*
+*	*	*v	*v
+!!LO:PB:g=original
+=37	=37	=37
+*M3/4	*M3/4	*
+*	*	*
+*^	*	*
+!	!	!LO:TX:a:t=con fuoco.	!
+(<24CLL	4FF	(>24fLL 24A-	f
+24BBn	.	24a- 24c	.
+24C	.	24f 24A-	.
+24D-	.	24a- 24c	.
+24C	.	24f 24A-	.
+24BBJJ	.	24a-JJ 24c	.
+24CLL	2rAAAyy	24fLL 24A-	<
+24BB-X	.	24a- 24c	.
+24AA-	.	24f 24A-	.
+24GG	.	24a- 24c	.
+24FF	.	24f 24A-	.
+24EEnJJ	.	24a-JJ 24c	.
+24FFLL	.	24fLL 24A-	.
+24EE-X	.	24a- 24c	.
+24DD-	.	24f 24A-	.
+24CC	.	24a- 24c	.
+24BBB-	.	24f 24A-	.
+24AAA-JJ)	.	24a-JJ 24c	[[
+*v	*v	*	*
+=38	=38	=38
+!	!	!LO:HP:b=2
+*	*ped	*
+24FFFLL	24fLL 24B-	<
+(24DD-\	24a- 24d-	.
+24FF	24f 24B-	.
+24BB-	24a- 24d-	.
+24D-)	24f 24B-	.
+48r	24a-JJ 24d-	.
+48F'JJk	.	.
+4F^	24fLL 24B-	[
+.	24a- 24d-	.
+.	24f 24B-	.
+.	24a- 24d-	.
+.	24f 24B-	.
+.	24a-JJ 24d-	.
+*	*Xped	*
+4r	24fLL 24B-	.
+.	24g 24d-	.
+.	24f 24B-	.
+.	24g 24d-	.
+.	24f 24B-	.
+.	24gJJ 24d-)	.
+!!LO:LB:g=original
+=39	=39	=39
+*^	*	*
+(<24D-LL	4FF	24gLL 24B-	fz
+24C	.	24b- 24f	.
+24D-	.	24g 24B-	.
+24E-	.	24b- 24f	.
+24D-	.	24g 24B-	<
+24CJJ	.	24b-JJ 24f	.
+24D-LL	8yyr	24gLL 24B-	.
+24C	.	24b- 24f	.
+24BB-	.	24g 24B-	.
+24AAn	4ryy	24b- 24f	.
+24BB-	.	24g 24B-	.
+24AA-XJJ	.	24b-JJ 24f	.
+24GGLL	.	24gLL 24B-	.
+24FF	.	24b- 24f	.
+24EE-	.	24g 24B-	.
+24DD-	8ryy	24b- 24f	.
+24CC	.	24g 24B-	.
+24BBB-JJ)	.	24b-JJ 24f	.
+.	.	.	[
+*v	*v	*	*
+=40	=40	=40
+*	*ped	*
+24FFF\'LL	24g-XLL 24B-	.
+!	!	!LO:HP:b=2
+(>24GG-X	24b- 24e-	<
+24C	24g- 24B-	.
+24E-	24b- 24e-	.
+24G-X)	24g- 24B-	.
+48r	24b-JJ 24e-	.
+48c'JJk	.	[
+!LO:N:vis=4.	!	!
+4c^	24g-LL 24B-	.
+.	24b- 24e-	<
+.	24g- 24B-	.
+.	24b- 24e-	.
+.	24g- 24B-	.
+.	24b-JJ 24e-	.
+4r	24g-LL 24An	.
+*	*Xped	*
+.	24an 24e-	.
+.	24g- 24A	.
+.	24a 24e-	.
+.	24g- 24A	.
+.	24aJJ 24e-	[[
+!!LO:LB:g=original
+=41	=41	=41
+*^	*	*
+*	*^	*	*
+8.E-\L	2.A-/	2.AA-\	(>24a-XLL 24c^<	fz
+.	.	.	24cc 24g-X	.
+.	.	.	24a- 24c	.
+.	.	.	24cc 24g-	.
+.	.	.	24a- 24c	.
+(>16FJk	.	.	.	.
+.	.	.	24ccJJ 24g-	.
+4D-\)	.	.	24a-LL 24d-	.
+.	.	.	24dd- 24g-	.
+!	!	!	!LO:TX:t=cre-scen-do.:dur=2qe:ext=ud:problem:text with extention lines	!
+.	.	.	24a- 24d-	<
+.	.	.	24dd- 24g-	.
+.	.	.	24a- 24d-	.
+.	.	.	24dd-JJ 24g-	.
+4C	.	.	24a-LL 24e-	.
+.	.	.	24ee- 24g-	.
+.	.	.	24a- 24e-	.
+.	.	.	24ee- 24g-	.
+.	.	.	24a- 24e-	[
+.	.	.	24ee-JJ 24g-	.
+*v	*v	*v	*	*
+=42	=42	=42
+8.BBnL 8.BBBn	24a-LL 24e-	.
+.	24ee- 24g-X	.
+.	24a- 24e-	.
+.	24ee- 24g-	.
+.	24a- 24e-	.
+(16CJk 16CC	.	.
+.	24ee-JJ 24g-	.
+*	*ped	*
+2AA- 2AAA-)	24a-LL 24e-	.
+.	24ee- 24g-	.
+.	24a- 24e-	.
+.	24ee- 24g-	.
+.	24a- 24e-	.
+.	24ee-JJ 24g-	.
+.	24a-LL 24e-	.
+.	24ee- 24g-	.
+.	24a- 24e-	.
+.	24ee- 24g-	.
+.	24a- 24e-	.
+*	*Xped	*
+.	24ee-JJ) 24g-	.
+!!LO:LB:g=original
+=43	=43	=43
+*^	*	*
+*^	*	*	*
+8.F\L	2.B-/	2.BB-\	24r	.
+.	.	.	(>24dd/ 24a-LL/	.
+.	.	.	24b- 24d-	]
+.	.	.	24dd/ 24a-/	.
+.	.	.	24b-/ 24d-/	.
+(>16G-Jk	.	.	.	.
+.	.	.	24dd/ 24a-JJ/	.
+!	!	!	!LO:TX:t=cre-scen-do:dur=2qs:ext=ud:problem:text with extention lines	!
+4E-\)	.	.	24b- 24d-LL	<
+.	.	.	24ee-/ 24a-/	.
+.	.	.	24b- 24d-	.
+.	.	.	24ee-/ 24a-/	.
+.	.	.	24d- 24b-	.
+.	.	.	24ee-/ 24a-JJ/	.
+4D\	.	.	24b-/ 24fLL/	.
+.	.	.	24ff/ 24a-/	.
+.	.	.	24b- 24f	.
+.	.	.	24ff/ 24a-/	.
+.	.	.	24b- 24f	.
+.	.	.	24ff/ 24a-JJ/	[[
+*v	*v	*v	*	*
+=44	=44	=44
+8.C#XL 8.CC#X	24b-/LL 24f/	.
+.	24ff 24a-	.
+.	24b- 24f	.
+.	24ff 24a-	.
+.	24b- 24f	.
+(16DnJk 16DDn	.	.
+.	24ffJJ 24a-	.
+!LO:TX:t=P:zbędna kropka przy 2BB-:problem	!	!
+!LO:N:vis=2.	!	!
+2BB- 2BBB-)	24b-/LL 24f/	.
+.	24ff 24a-	.
+.	24b- 24f	.
+.	24ff 24a-	.
+.	24b- 24f	.
+.	24ffJJ 24a-	.
+.	24b-/LL 24f/	.
+.	24ff 24a-	.
+.	24b- 24f	.
+.	24ff 24a-	.
+.	24b- 24f	.
+.	24ffJJ 24a-)	.
+!!LO:LB:g=original
+=45	=45	=45
+16qqBB-/	.	.
+*	*^	*
+*ped	*	*	*
+!	!	!LO:TX:a:t=sempre legato.	!
+24dnLL	(<8.ff^L	24a-LL	p
+24B-	.	24b-	fz
+24d	.	24a-	.
+24B-	.	24b-	.
+24d	.	24a-	.
+.	16gg-XJk)	.	.
+*Xped	*	*	*
+24B-JJ	.	24b-JJ	.
+*ped	*	*	*
+24e-LL 24E-	4ee-	24g-XLL	.
+24B-	.	24b-	.
+24e-	.	24g-	.
+24B-	.	24b-	.
+24e-	.	24g-	.
+*Xped	*	*	*
+24B-JJ	.	24b-JJ	.
+16qqBB-/	.	.	.
+*ped	*	*	*
+24dLL	(>8.ff^L	24a-LL	pp
+24B-	.	24b-	.
+24d	.	24a-	.
+24B-	.	24b-	.
+24d	.	24a-	.
+.	16gg-XJk)	.	.
+*Xped	*	*	*
+24B-JJ	.	24b-JJ	.
+=46	=46	=46	=46
+*ped	*	*	*
+24e-LL 24E-	4ee-	24g-XLL	.
+24B-	.	24b-	.
+24e-	.	24g-	.
+24B-	.	24b-	.
+24e-	.	24g-	.
+*Xped	*	*	*
+24B-JJ	.	24b-JJ	.
+16qqAA-/	.	.	>
+*ped	*	*	*
+24cLL	(>8.ee-L	24g-LL	.
+24A-	.	24a-	.
+24c	.	24g-	.
+.	.	.	]
+24A-	.	24a-	.
+24c	.	24g-	.
+.	16ffJk)	.	.
+*Xped	*	*	*
+24A-JJ	.	24a-JJ	.
+*ped	*	*	*
+24d-LL 24D-	[4dd-	24fLL	.
+24A-	.	24a-	.
+24d-	.	24f	.
+24A-	.	24a-	.
+24d-	.	24f	.
+24A-JJ	.	24a-JJ	.
+!!LO:LB:g=original
+=47	=47	=47	=47
+24d-LL	4dd-]	24fLL	>
+24A-	.	24a-	.
+24d-	.	24f	.
+24A-	.	24a-	.
+24d-	.	24f	.
+*Xped	*	*	*
+24A-JJ	.	24a-JJ	.
+16qqFF/	.	.	.
+*ped	*	*	*
+!	!	!LO:TX:t=rall.	!
+24AnLL	(>8.ccL	24e-LL	.
+24F	.	24f	.
+24A	.	24e-	.
+24F	.	24f	.
+24A	.	24e-	.
+!	!LO:TX:t=P:16dd- powinno wyświetlić się w pionie z 24F i 24f:problem	!	!
+.	16dd-Jk)	.	.
+*Xped	*	*	*
+24FJJ	.	24fJJ	.
+*ped	*	*	*
+24B-LL 24BB-	[4b-	24d-LL	.
+24F	.	24f	.
+24B-	.	24d-	.
+!	!	!LO:TX:t=e	!
+24F	.	24f	.
+24B-	.	24d-	.
+24FJJ	.	24fJJ	.
+*	*v	*v	*
+=48	=48	=48
+*M6/8	*M6/8	*
+*	*	*
+*	*^	*
+!	!LO:TX:t=calan-do.:dur=qe:ext=ud:problem:text with extention lines	!	!
+16B-LL	(>4.b-]	16d-LL	.
+16F	.	16f	.
+16B-	.	16d-	.
+16F	.	16f	.
+16B-	.	16d-	.
+16FJJ	.	16fJJ	.
+!	!	!LO:TX:t=do.	!
+16B-LL	4an^	16d-LL	.
+16F	.	16f	.
+16B-	.	16d-	.
+16F	.	16f	.
+16B-	8g	16d-	.
+*Xped	*	*	*
+16FJJ	.	16fJJ)	.
+*	*v	*v	*
+!!LO:PB:g=original
+=||49	=||49	=||49
+*k[b-]	*k[b-]	*
+*kcancel	*kcancel	*kcancel
+*M3/4	*M3/4	*
+*	*	*
+*^	*	*
+!	!	!LO:TX:a:t=a Tempo 1. [quarter] = 69.	!
+!	!	!LO:TX:t=sotto voce.	!
+.	.	(>8qc/L	.
+.	.	8qf/	.
+.	.	8qa/J	.
+*ped	*	*	*
+4rdyy	12FF'L)	(>2ff)	.
+.	12c	.	.
+.	12cJ	.	.
+4f	12AL 12f	.	.
+.	12c	.	.
+.	12cJ	.	.
+4e	12AL 12e	4ee	.
+.	12c	.	.
+*Xped	*	*	*
+.	12cJ	.	.
+=50	=50	=50	=50
+*	*^	*	*
+!LO:TX:b:t=P:2.F przed 12A 12d:problem	!	!	!	!
+4d	12AL 12d	2.F\	4dd	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4e	12GL 12e	.	4ee	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4c	12GL 12c	.	4cc)	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+=51	=51	=51	=51	=51
+!LO:TX:b:t=P:2.F przed 12G 12d:problem	!	!	!	!
+4d	12GL 12d	2.F\	(>8.ddL	<
+.	12B-	.	.	.
+.	12B-J	.	.	.
+.	.	.	16eeJk	.
+4e	12GL 12e	.	4ff	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4c	12GL 12c	.	4gg	.
+.	12B-	.	.	.
+.	12B-J	.	.	[
+=52	=52	=52	=52	=52
+4c	12FL 12c	4rAAAyy	2.aa)	.
+.	12A	.	.	.
+.	12AJ	.	.	.
+4c#X	12GL	4E/	.	.
+.	12A	.	.	.
+.	12AJ	.	.	.
+4d	12FL	4D/	.	.
+.	12A	.	.	.
+.	12AJ	.	.	.
+=53	=53	=53	=53	=53
+4Bn	12FL	4D/	(4gg	>
+.	12G	.	.	.
+.	12GJ	.	.	.
+4B-	12FL	4D-/	8.aaL	.
+.	12G	.	.	.
+.	12GJ	.	.	.
+.	.	.	16ggJk	.
+4B-	12EL	4C/	12ggL	.
+.	12G	.	12ff	.
+.	12GJ	.	12eeJ	]
+!!LO:LB:g=original
+=54	=54	=54	=54	=54
+4A	12EL 12C	4ryy	4.ff	.
+.	12F	.	.	.
+.	12FJ	.	.	.
+!LO:TX:b:t=P:2BB przed 12D 12A:problem	!	!	!	!
+4A	12DL 12A	2BBn\	.	.
+.	12F	.	.	.
+.	.	.	8ee	<
+.	12FJ	.	.	.
+*	*	*	*tuplet	*
+!	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+4A	12DL 12A	.	(28ddLL	.
+.	.	.	28ee	.
+.	.	.	28dd	.
+.	12F	.	.	.
+.	.	.	28cc#X	.
+.	.	.	28dd	.
+.	12FJ	.	.	.
+.	.	.	28ee	.
+.	.	.	28ffJJ)	[
+=55	=55	=55	=55	=55
+4G#X	12DL	4BBn/	4.ee)	.
+.	12E	.	.	.
+.	12EJ	.	.	.
+4A	12AAL	4C/	.	.
+.	12E	.	.	.
+!	!	!	!LO:TX:t=poco cresc.	!
+.	.	.	(>[8ee^<	.
+.	12EJ	.	.	.
+*	*	*	*Xtuplet	*
+4A: 4FF	12BBL 12FF:	4rGGGyy	12eeL]	.
+.	12D	.	12dd	.
+.	12DJ	.	12aJ	.
+*	*	*	*tuplet	*
+=56	=56	=56	=56	=56
+!	!	!	!LO:TX:t=e	!
+4G#X	12BBnL 12EE 12G#:	2rBBBByy	2bn	.
+.	12Bn	.	.	.
+.	12BJ	.	.	.
+!	!LO:TX:a:t=ritenuto.	!	!	!
+4e	12G#L 12e	.	.	.
+.	12B	.	.	.
+.	12BJ	.	.	.
+!	!	!	!LO:TX:a:t=dolciss.	!
+!	!	!LO:N:vis=4.	!LO:N:vis=8	!
+4e	12B-XL 12Gn	4B-/	[16ccL	.
+!	!	!	!LO:N:vis=16	!
+.	.	.	32ccL]	.
+.	12c	.	.	.
+!	!	!	!LO:N:vis=16	!
+.	.	.	32bn	.
+!	!	!	!LO:N:vis=16	!
+.	.	.	(>32cc	.
+.	.	.	16qqcc/	.
+!	!	!	!LO:N:vis=16	!
+.	.	.	32ee)	.
+.	12cJ	.	.	.
+!	!	!	!LO:N:vis=16	!
+.	.	.	32dd	.
+!	!	!	!LO:N:vis=16	!
+.	.	.	32ccJJ)	.
+=57	=57	=57	=57	=57
+!LO:TX:b:t=P:2.F przed 12A 12f:problem	!	!	!	!
+4f	12AL 12f	2.F\	(2ff	<
+.	12c	.	.	.
+.	12cJ	.	.	[
+4f	12AL 12f	.	.	.
+.	12c	.	.	.
+.	12cJ	.	.	.
+!	!	!	!LO:TX:a:t=P:"3" zamiast "7" w trioli:problem	!
+!	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+4e	12AL 12e	.	(28ee/LL	.
+.	.	.	28ff	.
+.	.	.	28eeJ	.
+.	12c	.	.	.
+.	.	.	14ggJ))	.
+.	12cJ	.	.	.
+.	.	.	14r	.
+!!LO:LB:g=original
+=58	=58	=58	=58	=58
+!LO:TX:b:t=P:2F przed 12A 12d:problem	!	!	!	!
+!	!	!	!LO:TX:a:t=P:"3" zamiast "7" w trioli:problem	!
+!	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+4d	12AL 12d	2F\	(>28ddLL	.
+.	.	.	28ee	.
+.	.	.	28ddJ	.
+.	12B-	.	.	.
+.	.	.	14ffJ)	.
+.	12B-J	.	.	.
+.	.	.	14r	.
+4e	12GL 12e	.	(4ee^<	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4c 4F/	12GL	4ryy	4cc)	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+=59	=59	=59	=59	=59
+!LO:TX:b:t=P:2.F przed 12G 12d:problem	!	!	!	!
+4d	12GL 12d	2.F\	(8.ddL	.
+.	12B-	.	.	<
+.	12B-J	.	.	.
+.	.	.	16eeJk	.
+4e	12GL 12e	.	4ff	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4F 4c	12GL	.	4gg	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+=60	=60	=60	=60	=60
+4c	12c 12FL	4rGGGyy	2.aa)	[
+.	12A	.	.	.
+.	12AJ	.	.	.
+!LO:TX:b:t=P:2E przed 12G 12c#:problem	!	!	!	!
+4c#X	12GL 12c#	2E\	.	<
+.	12A	.	.	[
+.	12AJ	.	.	.
+4c# 4G	12GL	.	.	.
+.	12A	.	.	.
+.	12AJ	.	.	.
+=61	=61	=61	=61	=61
+!LO:TX:b:t=P:2E przed 12G 12d-:problem	!	!	!	!
+4d-X	12GL 12d-	2E\	(2bb-	>
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4cn	12GL 12cn	.	.	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4dn 4A	12AL	4F#X/	4aa	.
+.	12c	.	.	.
+.	12cJ	.	.	]
+*v	*v	*	*	*
+!!LO:LB:g=original
+=62	=62	=62	=62
+*	*	*	*^
+!	!	!	!	!LO:HP:b=2
+4e 4G	12B-L	4gg	<	<
+!LO:TX:t=P:crescendo pod dolną pięciolinią:problem	!	!	!	!
+.	12c	.	.	.
+.	12cJ	.	.	.
+.	.	8qaaL	.	.
+.	.	8qgg	.	.
+.	.	8qff	.	.
+.	.	8qggJ	.	.
+4f 4A	12AL	4aa	[	.
+.	12c	.	.	.
+.	12cJ	.	.	.
+4g# 4Bn	12BnL	4ff#y)	.	.
+.	12d	.	.	.
+.	12dJ	.	.	[
+*v	*v	*	*	*
+*	*	*v	*v
+=63	=63	=63
+.	8qqa/	[
+*^	*	*
+*ped	*	*	*
+4rfyy	12CL	(4cc	.
+.	12c	.	.
+.	12cJ	.	.
+4f	12AL	4ff	.
+.	12c	.	.
+.	12cJ	.	.
+4e	12GL 12e	4ee	<
+.	12c	.	.
+.	12cJ	.	.
+=64	=64	=64	=64
+*	*^	*	*
+!LO:TX:b:t=P:2F przed 12G 12d-:problem	!	!	!	!
+!	!	!LO:TX:a:t=P: w źródle 2gg bez kropki:problem	!	!
+4d-	12GL 12d-	2F\	2.gg)	.
+.	12Bn	.	.	[
+.	12BJ	.	.	.
+4d-	12GL 12d-	.	.	.
+.	12B	.	.	.
+.	12BJ	.	.	.
+4d-	12EL	4G/	.	.
+.	12B-X	.	.	.
+.	12B-J	.	.	.
+=65	=65	=65	=65	=65
+*	*	*^	*	*
+!LO:TX:b:t=P:2E- 2d- przed  przed 12G:problem	!	!	!	!	!
+4rbyy	2E- 2d-X	12G\L	2ryy	(2bb-	.
+.	.	12B-\	.	.	.
+.	.	12B-\J	.	.	.
+4ryy	.	12G\L	.	.	.
+.	.	12B-\	.	.	.
+.	.	12B-\J	.	.	.
+4ryyX	4G- 4d-/	12E-\L	4ryy/	4aa	.
+.	.	12A\	.	.	.
+.	.	12A\J	.	.	.
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=66	=66	=66	=66	=66
+4Gn 4c#X	12E-L	4ryy	4gg	.
+.	12A	.	.	.
+.	12AJ	.	.	.
+.	.	.	8qaa/L	.
+.	.	.	8qgg/	.
+.	.	.	8qff#X/	.
+.	.	.	8qgg/J	.
+4D 4F# 4cn	12F# 12DL	4ryy	4aa	.
+.	12A	.	.	.
+.	12AJ	.	.	.
+4F 4B	12DL	4ryy	4ffn	.
+.	12G	.	.	.
+.	12GJ	.	.	.
+=67	=67	=67	=67	=67
+*	*	*^	*	*
+*ped	*	*	*	*	*
+!	!LO:N:vis=3.	!	!	!	!
+4rfyy	12CL	2.C/	4rDDDyy	4cc)	.
+.	12c	.	.	.	.
+.	12cJ	.	.	.	.
+4f/	12G 12B-XL 12f	.	4ryy	([4gg	>
+.	12c	.	.	.	.
+.	12cJ	.	.	.	.
+4e/	12B-L 12e	.	4rGGGyy	8.ggL]	]
+.	12c	.	.	.	.
+*Xped	*	*	*	*	*
+.	12cJ	.	.	.	.
+.	.	.	.	16ffJk	.
+*	*	*v	*v	*	*
+=68	=68	=68	=68	=68
+4F 4f	12F 12AL	4ryy	4ff)	.
+.	12c	.	.	.
+.	12cJ	.	.	.
+*ped	*	*	*	*
+4rfyy	12BBnL	2rDDDyy	(>2ddd^<	.
+.	12A-X	.	.	.
+.	12A-J	.	.	.
+4d	12FL 12d	.	.	.
+.	12A-	.	.	.
+*Xped	*	*	*	*
+.	12A-J	.	.	.
+*v	*v	*v	*	*
+!	!LO:TX:a:t=P:dolciss. pod przednutkami:problem	!
+!	!LO:TX:t=dolciss.	!
+.	(<8qee/L	.
+.	8qff/	.
+.	8qee/	.
+.	8qdd/	.
+.	8qee/	.
+!	!LO:TX:a:t=P:bez belkowania (8qee):problem	!
+.	16qqee/	.
+.	8qgg/	.
+.	8qff/	.
+.	8qdd/J)	.
+=69	=69	=69
+*^	*	*
+*	*^	*	*
+*	*	*^	*	*
+*ped	*	*	*	*	*
+!!mixed beam:problem
+!	!LO:N:vis=3.	!	!	!	!
+4reyy	12CCL/	4rCCCyy\	2.CC\	4cc)	.
+.	12c\	.	.	.	.
+.	12c\J	.	.	.	.
+4f/	12B-XL 12G 12f	4ryy	.	([4gg	>
+.	12c	.	.	.	.
+.	12cJ	.	.	.	.
+4e/	12B-L 12e	4rAAAyy	.	8.ggL]	]
+.	12c	.	.	.	.
+*Xped	*	*	*	*	*
+.	12cJ	.	.	.	.
+.	.	.	.	16ffJk	.
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=70	=70	=70	=70	=70
+*ped	*	*	*	*
+*	*	*^	*	*
+!LO:TX:t=P:2.F przed 12A 12f:problem	!	!	!	!	!
+4f	12AL	2.F\	2.F/	2ff	pp
+.	12c	.	.	.	.
+.	12cJ	.	.	.	.
+4f	12AL 12f	.	.	.	.
+.	12c	.	.	.	.
+.	12cJ	.	.	.	.
+!	!	!	!	!	!LO:HP:t=dim
+4e	12AL 12e	.	.	4ee	>
+.	12c	.	.	.	.
+*Xped	*	*	*	*	*
+.	12cJ	.	.	.	.
+*	*	*v	*v	*	*
+=71	=71	=71	=71	=71
+!	!	!	!LO:TX:t=rall.	!
+*ped	*	*	*	*
+!LO:TX:t=P:2.F przed 12 A 12d:problem	!	!	!	!
+4d	12AL 12d	2.F\	4dd	.
+.	12B-	.	.	.
+*Xped	*	*	*	*
+.	12B-J	.	.	.
+*ped	*	*	*	*
+4e	12GL 12e	.	4ee	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4c	12GL 12c	.	4cc	.
+.	12B-	.	.	.
+*Xped	*	*	*	*
+.	12B-J	.	.	.
+=72	=72	=72	=72	=72
+*ped	*	*	*	*
+!LO:TX:t=P:2.F przed 12G 12d:problem	!	!	!	!
+!	!	!	!LO:TX:t=smorzando.-_:dur=9q:ext=ud:problem:text with extention lines	!
+4d	12GL 12d	2.F\	4dd	.
+.	12B-	.	.	.
+*Xped	*	*	*	*
+.	12B-J	.	.	.
+*ped	*	*	*	*
+4e	12GL 12e	.	4ee	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+4c	12GL 12c	.	4cc)	.
+.	12B-	.	.	.
+.	12B-J	.	.	.
+*v	*v	*v	*	*
+=73	=73	=73
+!	!LO:TX:a:t=P:Przednutki źle się wyświetlają:problem	!
+.	(8qFF<L\	.
+.	8qC<	.
+.	8qG<	.
+.	8qB-<	.
+.	8qqc<J	.
+.	8qe/L	.
+.	8qb-/	.
+.	8qcc/J)	.
+*Xped	*	*
+2.ryy	(2.gg	.
+=74	=74	=74
+*ped	*	*
+!	!LO:TX:a:t=P:pedalizacja również wyświetla się w złych miejscach:problem	!
+.	(>8qFF<\L	.
+.	8qC<	.
+.	8qA<J	.
+.	8qc/L	.
+.	8qf/	.
+.	8qa/	.
+.	8qcc/J)	.
+!	!LO:TX:B:a:t=Fine.	!
+2.ryy	2.ff)	.
+!!LO:PB:g=original
+==	==	==
+*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cres."
+!!!RDF**dynam: > = "dim.",fontstyle="normal"
+!!!ENC:Leszek Kubiak
+!!!END:2018-07-25
+!!!EED: Tomasz Sierawski
+!!!EST: revision finished 2018-07-30
+!!!EED2: Jędrzej Mróz
+!!!EST: revision finished 2019-08-01
+!!!rism-genre: Nocturne
+!!!rism-key: F major
+!!!rism-opus: op. 15, no. 1
+!!!rism-title: Nocturne in F major op. 15, no. 1
+!!!rism-permalink: https://opac.rism.info/search?id=1001035841&View=rism
+!!!rism-773a-OPR: 1001035840
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001035840&View=rism

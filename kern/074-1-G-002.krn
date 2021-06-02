@@ -1,0 +1,471 @@
+!!!!SEGMENT: 074-1-G-002.krn
+!!!COM: Fryderyk Chopin
+!!!OTL: Wiosna
+!!!OPS: op. 74
+!!!PTL: Zbiór śpiewów polskich z towarzyszeniem fortepianu
+!!!PPR: Gebethner
+!!!PPP: Warsaw
+!!!NIFC-rismID: 300605188
+!!!NIFC-shelfmark: PL-Wbfc 963/n
+!!!OMD: Andantino.
+!!!OMD: M. M. [quarter-dot] = 69.
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*	*part1
+*staff3	*staff2	*	*staff1	*	*
+*I"PIANO.	*I"PIANO.	*	*I"CANTO.	*	*
+*clefG2	*clefG2	*	*clefG2	*	*
+*k[b-e-]	*k[b-e-]	*	*k[b-e-]	*	*
+*g:	*g:	*	*g:	*	*
+*M6/8	*M6/8	*	*M6/8	*	*
+*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1
+*^	*	*	*	*	*
+!LO:TX:a:B:t=sempre legato.	!	!LO:TX:a:B:t=e semplice.	!	!	!	!
+!	!	!	!LO:DY:rj	!	!	!
+!	!	!	!LO:DY:a	!	!	!
+8B-L	2.G	4g	p	4g	Bły-	.
+8d	.	.	.	.	.	.
+8gJ	.	8dd	.	8dd	-szczą	.
+8AL	.	4cc	.	4cc	kro-	.
+8d	.	.	.	.	.	.
+8f#XJ	.	8dd	.	8dd	-ple	.
+=2	=2	=2	=2	=2	=2	=2
+8B-L	2.G	4.b-	.	4.b-	ro-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-sy	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+8B-L	2.G	8.gL	<	8.gL	Mru-	<
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+8gJ	.	8b-J	.	8b-	-czy	.
+8AL	.	8.ccL	.	8.ccL	zdróy	.
+8d	.	.	.	.	.	.
+.	.	16ddk	.	16ddJ	.	.
+8f#XJ	.	8ccJ	[	8cc	po	[
+=4	=4	=4	=4	=4	=4	=4
+8B-L	2.G	4.b-	>	4.b-	bło-	>
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4a	.	4a	-ni	]
+8d	.	.	]	.	.	.
+8f#XJ	.	8r	.	8r	.	.
+=5	=5	=5	=5	=5	=5	=5
+8B-L	2.G	4g	.	4g	U-	.
+8d	.	.	.	.	.	.
+8gJ	.	8dd	.	8dd	-kry-	.
+8AL	.	4cc	.	4cc	-ta	.
+8d	.	.	.	.	.	.
+8f#XJ	.	8dd	.	8dd	we	.
+!!LO:LB:g=original
+=6	=6	=6	=6	=6	=6	=6
+8B-L	2.G	4.b-	.	4.b-	wrzo-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-sy	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7
+8B-L	2.G	8.gL	<	8.gL	Gdzieś	<
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+8gJ	.	8b-J	.	8b-	ja-	.
+8AL	.	8.ccL	.	8.ccL	-łów-	.
+8d	.	.	.	.	.	.
+.	.	16ddk	.	16ddJ	.	.
+8f#XJ	.	8ccJ	[	8cc	-ka	[
+=8	=8	=8	=8	=8	=8	=8
+8B-L	4.G	4.b-	>	4.b-	dzwo-	>
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+!	!LO:N:vis=	!	!	!	!	!
+8FnL	4.Fn	4.a	.	4a	-ni	]
+8e-	.	.	]	.	.	.
+8fJ	.	.	.	8r	.	.
+=9	=9	=9	=9	=9	=9	=9
+8dL	2.B-	4b-	.	4b-	Pięk-	.
+8f	.	.	.	.	.	.
+8b-J	.	8ff	.	8ff	-ną	.
+8cL	.	4een	.	4een	mi-	.
+8f	.	.	.	.	.	.
+8aJ	.	8ff	.	8ff	-łą	.
+=10	=10	=10	=10	=10	=10	=10
+8dL	2.B-	4.dd	.	4.dd	bło-	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4.cc	.	4.cc	-nią	.
+8f	.	.	.	.	.	.
+8aJ	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11
+8dL	2.B-	8.b-L	<	8.b-L	Le-	<
+8f	.	.	.	.	.	.
+.	.	16cck	.	16ccJ	.	.
+8b-J	.	8ddJ	.	8dd	-ci	.
+8cL	.	8.ee-L	.	8.ee-XL	wzrok	.
+8f	.	.	.	.	.	.
+.	.	16ffk	.	16ffJ	.	.
+8aJ	.	8ee-J	[	8ee-	we-	[
+=12	=12	=12	=12	=12	=12	=12
+8dL	2.B-	4.dd	>	4.dd	-so-	>
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4.cc	.	4cc	-ło,	]
+8f	.	.	]	.	.	.
+8aJ	.	.	.	8r	.	.
+!!LO:LB:g=original
+=13	=13	=13	=13	=13	=13	=13
+8dL	2.B-	4b-	.	4b-	W ko-	.
+8f	.	.	.	.	.	.
+8b-J	.	8ff	.	8ff	-ło	.
+8cL	.	4een	.	4een	kwia-	.
+8f	.	.	.	.	.	.
+8aJ	.	8ff	.	8ff	-ty	.
+=14	=14	=14	=14	=14	=14	=14
+8dL	2.B-	4.dd	.	4.dd	wo-	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4.cc	.	4.cc	-nią	.
+8f	.	.	.	.	.	.
+8aJ	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15
+8dL	2.B-	8.b-L	<	8.b-L	Kwi-	<
+8f	.	.	.	.	.	.
+.	.	16cck	.	16ccJ	.	.
+8b-J	.	8ddJ	.	8dd	-tną	.
+8cL	.	8.ee-L	.	8.ee-XL	ga-	.
+8f	.	.	.	.	.	.
+.	.	16ffk	.	16ffJ	.	.
+8aJ	.	8ee-J	[	8ee-	-je	[
+=16	=16	=16	=16	=16	=16	=16
+8dL	4.B-	4dd	.	4.dd	w ko-	>
+8f	.	.	.	.	.	.
+8b-J	.	8r	.	.	.	.
+8cL	4.A	[4.dd^<	.	4dd	-ło,	]
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	8r	.	.
+=17	=17	=17	=17	=17	=17	=17
+8B-L	2.G	4dd]	p	8dd	Paś	.
+8d	.	.	.	8r	.	.
+8gJ	.	8dd	.	8dd	się	.
+8AL	.	4cc	.	8cc	błą-	.
+8d	.	.	.	8r	.	.
+8f#XJ	.	8dd	.	8dd	-kay	.
+=18	=18	=18	=18	=18	=18	=18
+8B-L	2.G	4.b-	.	4.b-	trzód-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-ko	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+!!LO:PB:g=original
+=19	=19	=19	=19	=19	=19	=19
+8B-L	2.G	8.gL	.	8.gL	Ja	.
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+8gJ	.	8b-J	.	8b-/	pod	.
+8AL	.	8.ccL	.	8.ccL	ska-	.
+8d	.	.	.	.	.	.
+.	.	16ddk	.	16ddJ	.	.
+8f#XJ	.	8ccJ	.	8cc	-łą	.
+=20	=20	=20	=20	=20	=20	=20
+8B-L	2.G	4.b-	.	4.b-	się-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-dę	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21
+8B-L	2.G	4g	.	8g	Piosn-	.
+8d	.	.	.	8r	.	.
+8gJ	.	8dd	.	8dd	-kę	.
+8AL	.	4cc	.	8cc	lu-	.
+8d	.	.	.	8r	.	.
+8f#XJ	.	8dd	.	8dd	-bą	.
+=22	=22	=22	=22	=22	=22	=22
+8B-L	2.G	4.b-	.	4.b-	słod-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-ką	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23
+8B-L	2.G	8.gL	.	8.gL	Spie-	.
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+8gJ	.	8b-J	.	8b-	-wać	.
+8AL	.	8.ccL	.	8.ccL	so-	.
+8d	.	.	.	.	.	.
+.	.	16ddk	.	16ddJ	.	.
+8f#XJ	.	8ccJ	.	8cc	-bie	.
+=24	=24	=24	=24	=24	=24	=24
+8B-L	4.G	4.b-	.	4.b-	bę-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8FL	4.F	4.a^<	.	4.a	-dę	.
+8e-	.	.	.	.	.	.
+8fJ	.	.	.	.	.	.
+!!LO:LB:g=original
+=25	=25	=25	=25	=25	=25	=25
+8dL	2.B-	4b-	.	8b-	U-	.
+8f	.	.	.	8r	.	.
+8b-J	.	8ff	.	8ff	-stroń	.
+8cL	.	4een	.	8een	mi-	.
+8f	.	.	.	8r	.	.
+8aJ	.	8ff	.	8ff	-ła,	.
+=26	=26	=26	=26	=26	=26	=26
+8dL	2.B-	4.dd	.	4.dd	ci-	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4.cc	.	4.cc	-cha!	.
+8f	.	.	.	.	.	.
+8aJ	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27
+8dL	2.B-	8.b-L	.	8.b-L	Ja-	.
+8f	.	.	.	.	.	.
+.	.	16cck	.	16ccJ	.	.
+8b-J	.	8ddJ	.	8dd	-kiś	.
+8cL	.	8.ee-L	.	8.ee-L	żal	.
+8f	.	.	.	.	.	.
+.	.	16ffk	.	16ffJ	.	.
+8aJ	.	8ee-J	.	8ee-	w pa-	.
+=28	=28	=28	=28	=28	=28	=28
+8dL	2.B-	4.dd	.	4.dd	-mię-	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4.cc	.	4.cc	-ci	.
+8f	.	.	.	.	.	.
+8aJ	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29
+8dL	2.B-	4b-	.	8b-	Cze-	.
+8f	.	.	.	8r	.	.
+8b-J	.	8ff	.	8ff	-goś	.
+8cL	.	4een	.	8een	ser-	.
+8f	.	.	.	8r	.	.
+8aJ	.	8ff	.	8ff	-ce	.
+=30	=30	=30	=30	=30	=30	=30
+8dL	2.B-	4.dd	.	4.dd	wzdy-	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4.cc	.	4.cc	-cha	.
+8f	.	.	.	.	.	.
+8aJ	.	.	.	.	.	.
+!!LO:LB:g=original
+=31	=31	=31	=31	=31	=31	=31
+8dL	2.B-	8.b-L	.	8.b-L	W o-	.
+8f	.	.	.	.	.	.
+.	.	16ccJk	.	16ccJ	.	.
+8b-J	.	8dd	.	8dd	-ku	.
+8cL	.	8.ee-L	.	8.ee-L	łza	.
+8f	.	.	.	.	.	.
+.	.	16ffJk	.	16ffJ	.	.
+8aJ	.	8ee-	.	8ee-	się	.
+=32	=32	=32	=32	=32	=32	=32
+8dL	4.B-	8dd	.	4.dd	krę-	.
+8f	.	4r	.	.	.	.
+8b-J	.	.	.	.	.	.
+8cL	4.A	[4.dd^<	.	4dd	-ci	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	8r	.	.
+=33	=33	=33	=33	=33	=33	=33
+8B-L	2.G	4dd]	.	4dd	Łza	.
+8d	.	.	.	.	.	.
+8gJ	.	8dd	.	8dd	wy-	.
+8AL	.	4cc	.	4cc	-bie-	.
+8d	.	.	.	.	.	.
+8f#XJ	.	8dd	.	8dd	-gła	.
+=34	=34	=34	=34	=34	=34	=34
+8B-L	2.G	4.b-	.	4.b-	z o-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-ka,	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35
+8B-L	2.G	8.gL	.	8.gL	Ze	.
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+8gJ	.	8b-J	.	8b-	mną	.
+8AL	.	8.ccL	.	8.ccL	stru-	.
+8d	.	.	.	.	.	.
+.	.	16ddk	.	16ddJ	.	.
+8f#XJ	.	8ccJ	.	8cc	-myk	.
+=36	=36	=36	=36	=36	=36	=36
+8B-L	2.G	4.b-	.	4.b-	śpie-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4a	-wa	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	8r	.	.
+!!LO:PB:g=original
+=37	=37	=37	=37	=37	=37	=37
+8B-L	2.G	4g	.	4g	Do	.
+8d	.	.	.	.	.	.
+8gJ	.	8dd	.	8dd	mnie	.
+8AL	.	4cc	.	4cc	sie	.
+8d	.	.	.	.	.	.
+8f#XJ	.	8dd	.	8dd	z wy-	.
+=38	=38	=38	=38	=38	=38	=38
+8B-L	2.G	4.b-	.	4.b-	-so	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-ka	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39
+8B-L	2.G	8.gL	.	8.gL	Sko-	.
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+8gJ	.	8b-J	.	8b-	-wro-	.
+8AL	.	8.ccL	.	8.ccL	-nek	.
+8d	.	.	.	.	.	.
+.	.	16ddk	.	16ddJ	.	.
+8f#XJ	.	8ccJ	.	8cc	od-	.
+=40	=40	=40	=40	=40	=40	=40
+8B-L	4.G	4.b-	.	4.b-	-zy-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8FL	4.F	4.a	.	4a	-wa	.
+8e-	.	.	.	.	.	.
+8fJ	.	.	.	8r	.	.
+=41	=41	=41	=41	=41	=41	=41
+8dL	2.B-	4b-	.	8b-	Jak-	.
+8f	.	.	.	8r	.	.
+8b-J	.	8ff	.	8ff	-że	.
+8cL	.	4een	.	8een	ła-	.
+8f	.	.	.	8r	.	.
+8aJ	.	8ff	.	8ff	-dny	.
+=42	=42	=42	=42	=42	=42	=42
+8dL	2.B-	4.dd	.	4.dd	chy-	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4.cc	.	4.cc	-ży	.
+8f	.	.	.	.	.	.
+8aJ	.	.	.	.	.	.
+!!LO:LB:g=original
+=43	=43	=43	=43	=43	=43	=43
+8dL	2.B-	8.b-L	.	8.b-L	Le-	.
+8f	.	.	.	.	.	.
+.	.	16cck	.	16ccJ	.	.
+8b-J	.	8ddJ	.	8dd	-dwo	.
+8cL	.	8.ee-L	.	8.ee-L	wi-	.
+8f	.	.	.	.	.	.
+.	.	16ffk	.	16ffJ	.	.
+8aJ	.	8ee-J	.	8ee-	-dny	.
+=44	=44	=44	=44	=44	=44	=44
+8dL	2.B-	4.dd	.	4.dd	o-	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4.cc	.	4cc	-ku	.
+8f	.	.	.	.	.	.
+8aJ	.	.	.	8r	.	.
+=45	=45	=45	=45	=45	=45	=45
+8dL	2.B-	4b-	.	8b-	Co-	.
+8f	.	.	.	8r	.	.
+8b-J	.	8ff	.	8ff	-raz	.
+8cL	.	4een	.	8een	wy-	.
+8f	.	.	.	8r	.	.
+8aJ	.	8ff	.	8ff	-żéy	.
+=46	=46	=46	=46	=46	=46	=46
+8dL	2.B-	4.dd	.	4.dd	wy-	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4cc	.	4cc	-żéy	.
+8f	.	.	.	.	.	.
+8aJ	.	8r	.	8r	.	.
+=47	=47	=47	=47	=47	=47	=47
+8dL	2.B-	8.b-L	.	8.b-L	Już	.
+8f	.	.	.	.	.	.
+.	.	16ccJk	.	16ccJ	.	.
+8b-J	.	8dd	.	8dd	zgi-	.
+8cL	.	8.ee-L	.	8.ee-L	-nął	.
+8f	.	.	.	.	.	.
+.	.	16ffJk	.	16ffJ	.	.
+8aJ	.	8ee-	.	8ee-	w o-	.
+=48	=48	=48	=48	=48	=48	=48
+8dL	4.B-	8dd	.	4.dd	bło-	.
+8f	.	4r	.	.	.	.
+8b-J	.	.	.	.	.	.
+8cL	4.A	[4.dd^<	.	4dd	-ku.	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	8r	.	.
+=49	=49	=49	=49	=49	=49	=49
+8B-L	2.G	4dd]	.	8dd	U-	.
+8d	.	.	.	8r	.	.
+8gJ	.	8dd	.	8dd	-le-	.
+8AL	.	4cc	.	8cc	-ciał	.
+8d	.	.	.	8r	.	.
+8f#XJ	.	8dd	.	8dd	sczę-	.
+!!LO:LB:g=original
+=50	=50	=50	=50	=50	=50	=50
+8B-L	2.G	4.b-	.	4.b-	-śli-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-wy!	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51
+8B-L	2.G	8.gL	.	8.gL	Tam	.
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+8gJ	.	8b-J	.	8b-	swą	.
+8AL	.	8.ccL	.	8.ccL	piosn-	.
+8d	.	.	.	.	.	.
+.	.	16ddk	.	16ddJ	.	.
+8f#XJ	.	8ccJ	.	8cc	-kę	.
+=52	=52	=52	=52	=52	=52	=52
+8B-L	2.G	4.b-	.	4.b-	gło-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-si....	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53
+8B-L	2.G	4g	.	8g	I	.
+8d	.	.	.	8r	.	.
+8gJ	.	8dd	.	8dd	zie-	.
+8AL	.	4cc	.	8cc	-mi	.
+8d	.	.	.	8r	.	.
+8f#XJ	.	8dd	.	8dd	śpiew	.
+=54	=54	=54	=54	=54	=54	=54
+8B-L	2.G	4.b-	.	4.b-	tkli-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-wy	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55
+!LO:TX:a:t=rall. e	!	!	!	!LO:TX:a:t=rall. e	!	!
+8B-L	2.G	8.gL	.	8.gL	Do	.
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+!	!	!	!	!	!	!LO:HP:a
+8gJ	.	8b-J	>	8b-	nie-	>
+8AL	.	4cc	.	8cc	-bios	.
+8d	.	.	.	8r	.	.
+8f#XJ	.	8dd	.	8dd	za-	.
+*v	*v	*	*	*	*	*
+=56	=56	=56	=56	=56	=56
+2.d 2.B- 2.G	(4.g	pp	(4.g	-no-	pp
+.	4gg)	.	4gg)	-si!	.
+.	8r	.	8r	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!ENC: Antoni Szymański
+!!!END: 2019-08-26
+!!!EED: Jędrzej Mróz
+!!!EST: revision finished 2019-10-09
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!system-decoration: (s1){(s2,s3)}
+!!!RDF**dynam: > = "dim.", 'fontstyle="normal"
+!!!RDF**dynam: < = "cresc.", 'fontstyle="normal" 
+!!!rism-genre: Wiosna
+!!!rism-key: G minor
+!!!rism-opus: op.  74, no. 2
+!!!rism-title: Le Printemps in G minor op.  74, no. 2
+!!!rism-permalink: https://opac.rism.info/search?id=300605188&View=rism
+!!!rism-773a-OPR: 300605186
+!!!rism-parent-permalink: https://opac.rism.info/search?id=300605186&View=rism

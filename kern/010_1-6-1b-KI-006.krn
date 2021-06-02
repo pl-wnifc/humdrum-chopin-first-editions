@@ -1,0 +1,848 @@
+!!!!SEGMENT: 010_1-6-1b-KI-006.krn
+!!!COM: F. Chopin
+!!!OTL: Etude No. 6
+!!!OPS: Op. 10
+!!!PTL: Douxe GRANDE ETUDES pour le pianoforte
+!!!PPR: Kistner
+!!!PPP: Leipzig
+!!!NIFC-rismID: 300605316
+!!!NIFC-shelfmark: PL-Wbfc 2438/n
+!!!OMD: ANDANTE
+!!!OMD:[quarter-dot]=69.
+**kern	**fing	**kern	**fing	**dynam
+*part1	*	*part1	*	*part1
+*staff2	*	*staff1	*	*
+*clefF4	*	*clefG2	*	*
+*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*	*
+*e-:	*	*e-:	*	*
+*M6/8	*	*M6/8	*	*
+*MM103.5	*	*MM103.5	*	*
+8r	.	8g-	.	p
+=1	=1	=1	=1	=1
+!	!	!	!	!LO:DY:a
+*^	*	*	*	*
+!LO:TX:b:B:i:t=sempre legatissimo.	!	!	!	!	!
+16B-LL	2.E-	2	[4.g-	.	.
+16c-	.	1	.	.	.
+16An	.	3	.	.	.
+16c-	.	1	.	.	.
+16B-	.	2	.	.	.
+16G-JJ	.	4	.	.	.
+!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w dół:problem	!	!	!	!	!
+16B-LL/	.	.	4g-]	.	.
+16c-	.	.	.	.	<
+16A	.	.	.	.	.
+16c-	.	.	.	.	.
+!	!	!	!	!	!LO:DY:a
+16B-	.	.	16fLL	.	.
+16e->JJ	.	.	[>16e-JJ	.	.
+=2	=2	=2	=2	=2	=2
+*	*	*	*^	*	*
+(<16c-LL	2.F	.	4.b-	2e-_	.	[
+16d-	.	.	.	.	.	.
+16B-	.	.	.	.	.	.
+16d-	.	.	.	.	.	.
+16c-	.	.	.	.	.	.
+16A-JJ	.	.	.	.	.	.
+16c-LL	.	.	4.a-	.	.	.
+16d-	.	.	.	.	.	.
+16B-	.	.	.	8.e-L]	.	.
+16d-	.	.	.	.	.	.
+16c-	.	.	.	.	.	.
+[16A-JJ)	.	.	.	[>16fJk	2	.
+!!LO:LB:g=original
+=3	=3	=3	=3	=3	=3	=3
+(<16A-LL]	2.Dn	3	[4.cc-	2.f]	5	>
+16B-	.	2	.	.	.	.
+16Gn	.	4	.	.	.	.
+16B-	.	2	.	.	.	.
+16A-	.	3	.	.	.	]
+16FJJ	.	4	.	.	.	.
+!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w dół:problem	!	!	!	!	!	!
+16A-LL/	.	.	4cc-]	.	.	.
+16B-	.	.	.	.	.	.
+16Gn	.	.	.	.	.	.
+16B-	.	.	.	.	.	.
+16A-	.	.	16b-LL	.	.	.
+16f>JJ)	.	.	16fJJ	.	2	.
+=4	=4	=4	=4	=4	=4	=4
+*	*^	*	*	*	*	*
+16GnLL	2.D-X	4.rCCCyy	1	2.b-	[2f-X	.	.
+16A-	.	.	2	.	.	.	.
+16F#X	.	.	3	.	.	.	.
+16A-	.	.	1	.	.	.	.
+16G	.	.	2	.	.	.	.
+16EnJJ	.	.	4	.	.	.	.
+!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w dół:problem	!	!	!	!	!	!	!
+16GLL/	.	4rGGGyy	2	.	.	.	.
+16A-	.	.	1	.	.	.	.
+16F#X	.	.	.	.	8.f-L]/	.	.
+16A-	.	.	.	.	.	.	.
+16Gny	.	[>8Gny\	.	.	.	.	.
+16e-X>JJ	.	.	.	.	[16e-XJk	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+16GnXLL]	2.C-	4.rFFFyy	.	[4.ee-	2.e-]	.	f
+16A-	.	.	.	.	.	.	>
+16F#X	.	.	.	.	.	.	.
+16A-	.	.	.	.	.	.	.
+16Gny	.	.	.	.	.	.	.
+16E-XJJ	.	.	.	.	.	.	.
+!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w dół:problem	!	!	!	!	!	!	!
+16A-LL/	.	4rEEEyy	.	8ee-L]	.	.	]
+16B-	.	.	.	.	.	.	.
+16G	.	.	.	16dd-L	.	.	.
+16B-	.	.	.	16cc-	.	.	.
+16A-	.	[>8A-\	.	16a-	.	.	.
+16e->JJ	.	.	.	16e-JJ	.	.	.
+*	*v	*v	*	*	*	*	*
+!!LO:LB:g=original
+=6	=6	=6	=6	=6	=6	=6
+16A-LL]	4.BB-	.	[4g-^	4.dn	.	.
+16B-	.	.	.	.	.	.
+16Gn	.	.	.	.	.	.
+16B-	.	.	.	.	.	.
+16A-	.	.	16g-LL]	.	.	.
+16FJJ	.	.	16fJJ	.	.	.
+16G-XLL	4.C-	.	4.e-	4.rByy	.	.
+16A-	.	.	.	.	.	.
+16F	.	.	.	.	.	.
+16A-	.	.	.	.	.	.
+16G-	.	.	.	.	.	.
+16E-JJ	.	.	.	.	.	.
+*	*	*	*v	*v	*	*
+=7	=7	=7	=7	=7	=7
+*	*^	*	*	*	*
+*	*	*	*^	*	*	*
+16A-LL	4.AA-	4.rDDDyy	1	.	4.f-X^> 4.c-^>	.	.
+16B-	.	.	2	.	.	.	.
+16Gn	.	.	1	.	.	.	.
+16B-	.	.	2	.	.	.	.
+16A-	.	.	1	.	.	.	.
+16F-XJJ	.	.	2	.	.	.	.
+!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w dół:problem	!	!	!	!	!	!	!
+16G-XLL/	4.AAn	4rGGGyy	1	.	4.e- 4.c	.	.
+16A-	.	.	1	.	.	.	.
+16Fn	.	.	2	.	.	.	.
+16A-	.	.	1	.	.	.	.
+16G-	.	8G-\	.	2	.	.	.
+!	!	!	!	!	!LO:TX:a:t=P:1 palec nad nutą:problem	!	!
+16c->JJ	.	.	1	.	.	.	.
+*	*v	*v	*	*	*	*	*
+*	*	*v	*v	*	*	*
+!!LO:LB:g=original
+=8	=8	=8	=8	=8	=8
+.	.	.	8qqe-/	.	.
+*	*	*	*^	*	*
+*	*	*	*	*	*	*
+!LO:TX:b:B:i:t=sempre legato.	!	!	!	!	!	!
+*	*	*^	*	*	*	*
+16FLL	2.BB-	1	5	4.dn	4.B-	.	.
+16G-	.	2	.	.	.	.	<
+!	!	!	!	!	!	!	!
+16En	.	3	.	.	.	.	.
+16G-	.	1	.	.	.	.	.
+16F	.	2	.	.	.	.	.
+16A-JJ	.	1	.	.	.	.	[
+16G-LL	.	.	.	8e-L 8c-	4rGyy	.	<
+16B--JJ	.	.	.	.	.	.	.
+16GnLL	.	.	.	8en 8cn	.	.	.
+16B-XJJ	.	.	.	.	.	.	.
+16A-LL	.	.	.	8fJ	16d-XLL	.	.
+16c-JJ	.	.	.	.	16dnJJ	.	.
+*	*	*v	*v	*	*	*	*
+*	*	*	*	*	*	*
+=9	=9	=9	=9	=9	=9	=9
+16B-LL	2.E-	.	(4.g-^	4.e-	.	.
+16c-	.	.	.	.	.	.
+16An	.	.	.	.	.	.
+16c-	.	.	.	.	.	.
+16B-	.	.	.	.	.	.
+16G-JJ	.	.	.	.	.	.
+!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w dół:problem	!	!	!	!	!	!
+16B-LL/	.	.	4g-)	4.rcyy	.	.
+16c-	.	.	.	.	.	.
+16A	.	.	.	.	.	.
+16c-	.	.	.	.	.	.
+16B-	.	.	16fLL	.	.	.
+16e->JJ	.	.	[<16e-JJ	.	.	.
+=10	=10	=10	=10	=10	=10	=10
+(<16c-LL	2.F	.	4.b-^	2e-_	.	.
+16d-	.	.	.	.	.	.
+16B-	.	.	.	.	.	.
+16d-	.	.	.	.	.	.
+16c-	.	.	.	.	.	.
+16A-JJ	.	.	.	.	.	.
+16c-LL	.	.	4.a-	.	.	.
+16d-	.	.	.	.	.	.
+16B-	.	.	.	8.e-L]	.	.
+16d-	.	.	.	.	.	.
+16c-	.	.	.	.	.	.
+[16A-JJ)	.	.	.	[16fJk	.	.
+!!LO:LB:g=original
+=11	=11	=11	=11	=11	=11	=11
+16A-LL]	2.Dn	.	[4.cc-	2.f]	.	.
+16B-	.	.	.	.	.	.
+16Gn	.	.	.	.	.	.
+16B-	.	.	.	.	.	.
+16A-	.	.	.	.	.	.
+16FJJ	.	.	.	.	.	.
+!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w dół:problem	!	!	!	!	!	!
+16A-LL/	.	.	4cc-]	.	.	.
+16B-	.	.	.	.	.	.
+16G	.	.	.	.	.	.
+16B-	.	.	.	.	.	.
+16A-	.	.	16b-LL	.	.	.
+16f>JJ	.	.	16fJJ	.	.	.
+=12	=12	=12	=12	=12	=12	=12
+16GnLL	2.D-	.	2.b-	[2f-X	.	.
+16A-	.	.	.	.	.	.
+16F#X	.	.	.	.	.	.
+16A-	.	.	.	.	.	.
+16G	.	.	.	.	.	.
+16EnJJ	.	.	.	.	.	.
+!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w dół:problem	!	!	!	!	!	!
+16GLL/	.	.	.	.	.	.
+16A-	.	.	.	.	.	.
+16F#	.	.	.	8.f-L]/	.	.
+16A-	.	.	.	.	.	.
+16G	.	.	.	.	.	.
+16e-X>JJ	.	.	.	[16e-XJk	.	.
+=13	=13	=13	=13	=13	=13	=13
+16GnLL	2C-	.	[4.ee-^	2.e-]	.	.
+16A-	.	.	.	.	.	>
+16F#X	.	.	.	.	.	.
+16A-	.	.	.	.	.	.
+16G	.	.	.	.	.	.
+16E-JJ	.	.	.	.	.	.
+!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w dół:problem	!	!	!	!	!	!
+16A-LL/	.	.	8ee-L]	.	.	.
+16B-	.	.	.	.	.	]
+16G	8ryy	.	16dd-L	.	.	.
+16B-	.	.	16cc-	.	.	.
+16A-	[>8A-\	.	16a-	.	.	.
+16e->JJ	.	.	16e-JJ	.	.	.
+!!LO:LB:g=original
+=14	=14	=14	=14	=14	=14	=14
+16A-LL]	4.BB-	.	[4g-	4.dn	.	.
+16B-	.	.	.	.	.	.
+16Gn	.	.	.	.	.	.
+16B-	.	.	.	.	.	.
+16A-	.	.	16g-LL]	.	.	.
+16FJJ	.	.	16fJJ	.	.	.
+16G-XLL	4.C-	.	4.e-	4.rByy	.	.
+16A-	.	.	.	.	.	.
+16F	.	.	.	.	.	.
+16A-	.	.	.	.	.	.
+16G-	.	.	.	.	.	.
+16E-JJ	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15
+*	*	*^	*	*	*	*
+!LO:TX:t=P:palcowanie dotyczy szesnastek:problem	!	!	!	!	!	!	!
+16A-LL	4.AA-	1	.	4.f-X	4.c-	.	.
+16B-	.	2	.	.	.	.	.
+16Gn	.	1	.	.	.	.	.
+16B-	.	2	.	.	.	.	.
+16A-	.	1	.	.	.	.	.
+16F-XJJ	.	.	.	.	.	.	.
+16FnLL	4.BB-	.	.	[<4dn	4.A-	.	.
+16G	.	.	.	.	.	.	.
+16En	.	.	.	.	.	.	.
+16G	.	.	.	.	.	.	.
+16Fny	.	.	.	16dLL]	.	.	.
+[<16BB-JJ	.	2	.	16e-JJ	.	.	.
+*	*	*	*	*v	*v	*	*
+=16	=16	=16	=16	=16	=16	=16
+(>16BB-LL]	4EE-	.	5	4.e- 4.G-	.	.
+16C-	.	.	.	.	.	.
+!LO:TX:b:B:i:t=pesante.	!	!	!	!	!	!
+16AAn	.	.	.	.	.	.
+16C-	.	.	.	.	.	.
+16BB-	8rAAAyy	.	.	.	.	.
+16GG-JJ	.	.	.	.	.	.
+16EE-LL	4.rFFFyy	4	.	4r	.	.
+16FF	.	1	.	.	.	.
+16DDn	.	3	.	.	.	.
+16FF	.	1	.	.	.	.
+16EE-	.	2	.	8r	.	.
+16CC-JJ)	.	4	.	.	.	.
+!!LO:PB:g=original
+=17	=17	=17	=17	=17	=17	=17
+*	*	*	*	*^	*	*^
+4.rAyy	4.BB-\ 4.BBB-	2	.	4.f 4.e-	16B-<LL	4 5	.	.
+!	!	!	!	!	!	!	!LO:HP:a	!
+.	.	3	.	.	16c-<	.	<	.
+.	.	1	.	.	16An<	.	.	.
+.	.	3	.	.	16c-<	.	.	.
+.	.	2	.	.	16B-<	.	.	.
+.	.	1	.	.	16F<JJ	.	.	.
+!	!	!	!	!	!LO:TX:t=P:cres powinno wyświetlić się słownie:problem	!	!	!
+4rAyy	4.BB-	.	.	4f 4dn	16B-<LL	4 5	.	.
+.	.	.	.	.	16c-<	.	.	<
+.	.	.	.	.	16A<	.	.	.
+.	.	.	.	.	16c-<	.	.	.
+16rGyy	.	.	.	8gn 8d-X	16B-<	4 5	[	.
+[16F\	.	.	.	.	16F<JJ	.	.	.
+*	*	*v	*v	*	*	*	*	*
+*	*	*	*v	*v	*	*v	*v
+=18	=18	=18	=18	=18	=18
+16FLL]	4.FF	.	4.a- 4.gn 4.c- 4.A-	.	[
+16Gn	.	1	.	.	.
+16En	.	2	.	.	.
+16G	.	1	.	.	.
+16F	.	2	.	.	.
+16CnJJ	.	3	.	.	.
+16BBnLL	4.rAAAyy	4	4.a- 4.f 4.dn 4.A-	.	.
+16C	.	1	.	.	.
+16AA#X	.	3	.	.	.
+16C	.	1	.	.	.
+16BB	.	2	.	.	.
+16BBBnJJ	.	5	.	.	.
+=19	=19	=19	=19	=19	=19
+*	*	*	*^	*	*^
+!	!	!	!	!	!	!LO:HP:a	!
+4.rcyy	4.CC-/	4	4.gn 4.f	16dnLL	.	<	.
+.	.	.	.	16e-	.	.	.
+.	.	.	.	16c#X	.	.	.
+.	.	.	.	16e-	.	.	.
+.	.	.	.	16d	.	.	.
+.	.	.	.	16GnJJ	.	.	.
+*	*	*^	*	*	*	*	*
+!	!	!	!	!	!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w górę:problem	!	!	!
+4rByy	4.C-/	.	1_3	4gn 4en	16cnLL\	.	.	.
+.	.	.	.	.	16d	.	.	<
+.	.	.	.	.	16Bn	.	.	.
+.	.	.	.	.	16d	.	.	.
+16rAyy	.	.	.	8an 8e-X	16c	.	.	.
+[16Gn\	.	.	1	.	16Gn<JJ	.	[	.
+*	*	*v	*v	*	*	*	*v	*v
+*	*	*	*v	*v	*	*
+!!LO:LB:g=original
+=20	=20	=20	=20	=20	=20
+16GnXLL]	4GGny	.	4.b- 4.an 4.dn 4.B-	.	.
+16An	.	.	.	.	.
+16F#X	.	.	.	.	.
+16A	.	.	.	.	.
+16Gny	8ryy	.	.	.	.
+16DnJJ	.	.	.	.	.
+16C#XLL	4.rAAAyy	.	[>4b- 4gn [>4en [<4B-	.	.
+16D	.	.	.	.	<
+16BB#X	.	.	.	.	.
+16D	.	.	.	.	.
+16C#	.	.	8a#X] 8e] 8A#X]	.	.
+(<16FF##JJ	.	.	.	.	.
+*v	*v	*	*	*	*
+*kcancel	*	*kcancel	*	*
+=21|!	=21|!	=21|!	=21|!	=21|!
+*k[f#c#g#d#]	*	*k[f#c#g#d#]	*	*
+*	*	*^	*	*
+4.GG#)	.	(>4.b 4.e	16BLL	.	fp
+.	.	.	16f#	.	.
+!LO:TX:b:B:i:t=legato.	!	!	!	!	!
+.	.	.	16d#	.	.
+.	.	.	16f#	.	.
+.	.	.	16e	.	.
+.	.	.	16BJJ	.	.
+(<4.C# 4.CC#	.	4a	16eLL	.	.
+.	.	.	16f#	.	.
+.	.	.	16d#	.	.
+.	.	.	16f#	.	.
+.	.	8g#	16e	.	.
+.	.	.	16BJJ	.	.
+=22	=22	=22	=22	=22	=22
+4.FF# 4.FFF#	.	4.g# 4.e	16c#LL	.	.
+.	.	.	16d#	.	.
+.	.	.	16B#X	.	.
+.	.	.	16d#	.	.
+.	.	.	16c#	.	.
+.	.	.	16AJJ	.	.
+!	!	!	!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w górę:problem	!	!
+!	!	!LO:N:vis=4	!	!	!
+4GG# 4GGG#	.	4.f# 4.e)	16c#LL\	.	.
+.	.	.	16d#	.	.
+.	.	.	16B#	.	.
+.	.	.	16d#	.	.
+8AA 8AAA)	.	.	16c#	.	.
+.	.	.	16F#<JJ	.	.
+!!LO:LB:g=original
+=23	=23	=23	=23	=23	=23
+*^	*	*	*	*	*
+!	!	!	!	!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w górę:problem	!	!
+4.BB\	2.BBB	.	4.a 4.e	16c#LL\	.	.
+.	.	.	.	16d#	.	.
+.	.	.	.	16B#X	.	.
+.	.	.	.	16d#	.	.
+.	.	.	.	16c#	.	.
+.	.	.	.	16F#<JJ	.	.
+!	!	!	!	!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w górę:problem	!	!
+4BB\	.	.	4g# 4d#	16BnLL\	.	.
+.	.	.	.	16c#	.	.
+.	.	.	.	16An	.	.
+.	.	.	.	16c#	.	.
+8BB\	.	.	8f# 8d#	16B	.	.
+.	.	.	.	16F#<JJ	.	.
+*v	*v	*	*	*	*	*
+=24	=24	=24	=24	=24	=24
+!	!	!	!	!	!LO:DY:b
+2.BB 2.EE	.	4f# 4d#	16BLL	.	p
+.	.	.	16c#	.	.
+.	.	.	16A	.	.
+.	.	.	16c#	.	.
+!	!	!	!	!	!LO:HP:a
+.	.	8g# 8e	16B	.	<
+.	.	.	16G#JJ	.	.
+.	.	4.g# 4.e	16BLL	.	[
+.	.	.	16c#	.	.
+.	.	.	16A	.	.
+.	.	.	16c#	.	.
+.	.	.	16B	.	.
+.	.	.	16G#JJ	.	.
+=25	=25	=25	=25	=25	=25
+(<4.BB#X 4.BBB#X	.	(>4.g#^> 4.f#^>	16d#LL	.	.
+.	.	.	16e	.	.
+.	.	.	16c##X	.	.
+.	.	.	16e	.	.
+.	.	.	16d#	.	.
+.	.	.	16G#JJ	.	.
+!	!	!	!	!	!LO:HP:a
+4.C# 4.CC#	.	4g# 4e	16c#XLL	.	<
+.	.	.	16d#	.	.
+.	.	.	16B#X	.	.
+.	.	.	16d#	.	.
+.	.	8g# 8e	16c#	.	[
+.	.	.	16G#JJ	.	.
+!!LO:LB:g=original
+=26	=26	=26	=26	=26	=26
+*^	*	*	*	*	*
+!LO:TX:b:t=P:palcowanie pod 2.GG#:problem	!	!	!	!	!	!
+!	!	!	!	!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w górę:problem	!	!
+2.GG#)	4ryy	1_3	4.cc# 4.g#	16d#LL\	.	.
+!	!	!	!	!	!	!LO:HP:a
+.	.	.	.	16e	.	>
+.	.	.	.	16c##X	.	.
+.	.	.	.	16e	.	]
+.	16ryy	.	.	16d#	.	.
+.	16G#	.	.	16G#<JJ	.	.
+.	4.rCCyy	.	4b#X 4g#)	16d#LL	.	.
+.	.	.	.	16e	.	.
+.	.	.	.	16c##	.	.
+.	.	.	.	16e	.	.
+.	.	.	8r	16d#	.	.
+.	.	.	.	16G#JJ	.	.
+*v	*v	*	*	*	*	*
+=27	=27	=27	=27	=27	=27
+4.BB#X 4.BBB#X	.	4.g# 4.f#	16d#LL	.	.
+.	.	.	16e	.	.
+.	.	.	16c##X	.	.
+.	.	.	16e	.	.
+.	.	.	16d#	.	.
+.	.	.	16G#JJ	.	.
+!	!	!	!	!	!LO:HP:a
+4.C# 4.CC#	.	4g# 4e	16c#XLL	.	<
+.	.	.	16d#	.	.
+.	.	.	16B#X	.	.
+.	.	.	16d#	.	.
+.	.	8g# 8e	16c#	.	[
+.	.	.	16G#JJ	.	.
+=28	=28	=28	=28	=28	=28
+2.GG# 2.GGG#	.	4.ee 4.b#X	16g#XLL	.	>
+.	.	.	16a	.	.
+.	.	.	16f##X	.	.
+.	.	.	16a	.	.
+.	.	.	16g#	.	.
+.	.	.	16d#JJ	.	.
+.	.	4.dd# 4.b#	16g#LL	.	.
+.	.	.	16a	.	.
+.	.	.	16f##	.	.
+.	.	.	16a	.	.
+.	.	.	16g#	.	.
+.	.	.	16d#JJ	.	]
+*kcancel	*	*kcancel	*kcancel	*	*
+!!LO:LB:g=original
+=29|!	=29|!	=29|!	=29|!	=29|!	=29|!
+*k[b-e-a-d-g-c-]	*	*k[b-e-a-d-g-c-]	*	*	*
+!	!	!	!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w górę:problem	!	!
+4.C- 4.CC-	.	(>4.a- 4.g-	16e-LL\	.	.
+.	.	.	16f-X	.	<
+.	.	.	16dn	.	.
+.	.	.	16f-	.	.
+.	.	.	16e-	.	.
+.	.	.	16G-<JJ	.	.
+4.E- 4.EE-	.	4cc- 4a-	16fnLL	.	.
+!	!	!	!	!	!LO:HP:a
+.	.	.	16g-	.	>
+.	.	.	16en	.	.
+.	.	.	16g-	.	.
+.	.	8cc- 8a-	16f	.	]
+.	.	.	16c-JJ	.	.
+=30	=30	=30	=30	=30	=30
+4.Dn 4.DDn	.	4cc- 4a-	16fLL	.	.
+.	.	.	16g-	.	.
+.	.	.	16en	.	.
+!	!	!	!LO:TX:B:i:t=stretto	!	!
+.	.	.	16g-	.	.
+.	.	8b- 8a-)	16f	.	.
+.	.	.	16B-JJ	.	.
+4.F\ 4.FF	.	(>4dd- 4b-	16gnLL	.	.
+!	!	!	!LO:TX:B:i:t=e	!	!
+.	.	.	16a-	.	.
+.	.	.	16f#X	.	.
+!	!	!	!LO:TX:B:i:t=cres.	!	!
+.	.	.	16a-	.	.
+.	.	8dd- 8b-	16g	.	.
+.	.	.	16d-JJ	.	.
+=31	=31	=31	=31	=31	=31
+4.En 4.EEn	.	4dd- 4b-	16gnLL	.	.
+.	.	.	16a-	.	.
+.	.	.	16f#X	.	.
+.	.	.	16a-	.	.
+.	.	8ccn 8b-)	16g	.	.
+.	.	.	16cnJJ	.	.
+4Gn 4GGn	.	(>4ee- 4cc	16anLL	.	.
+.	.	.	16b-	.	.
+.	.	.	16g#X	.	.
+.	.	.	16b-	.	.
+8G- 8GG-	.	8ee- 8cc	16a	.	.
+.	.	.	16e-JJ	.	.
+!!LO:LB:g=original
+=32	=32	=32	=32	=32	=32
+2.E- 2.EE-	.	4.gg- 4.ccn	16anLL	.	f
+.	.	.	16b-	.	>
+.	.	.	16g#X	.	.
+.	.	.	16b-	.	.
+.	.	.	16a	.	]
+.	.	.	16g-XJJ	.	.
+.	.	4.ff 4.cc	16aLL	.	.
+.	.	.	16b-	.	.
+.	.	.	16g#X	.	.
+.	.	.	16b-	.	.
+.	.	.	16a	.	.
+.	.	.	16f#JJ	.	.
+=33	=33	=33	=33	=33	=33
+4.Dn 4.DDn	.	4.b- 4.a-)	16fnLL	.	.
+.	.	.	16g-	.	.
+.	.	.	16en	.	.
+.	.	.	16g-	.	.
+.	.	.	16f	.	.
+.	.	.	16B-JJ	.	.
+4.D-X 4.DD-X	.	4b- 4a-	16f-XLL	.	.
+.	.	.	16g-	.	.
+.	.	.	16e-X	.	.
+.	.	.	16g-	.	.
+.	.	8b- 8gn	16en	.	.
+.	.	.	16B-JJ	.	.
+=34	=34	=34	=34	=34	=34
+2.Cn 2.CCn	.	4.b- 4.gn	16e-LL	.	.
+.	.	.	16f	.	.
+.	.	.	16dn	.	.
+.	.	.	16f	.	.
+.	.	.	16e-	.	.
+.	.	.	16B-JJ	.	.
+.	.	4.an 4.g-X	16e-XLL	.	.
+.	.	.	16f	.	.
+.	.	.	16d	.	.
+.	.	.	16f	.	.
+.	.	.	16e-	.	.
+.	.	.	16AnJJ	.	.
+!!LO:PB:g=original
+=35	=35	=35	=35	=35	=35
+2.C-X 2.CC-X	.	(>4.an 4.g-	16e-LL	.	.
+.	.	.	16f	.	.
+.	.	.	16dn	.	.
+.	.	.	16f	.	.
+.	.	.	16e-	.	.
+.	.	.	16AnJJ	.	.
+.	.	4a-X^> 4fn^>	16dLL	.	.
+.	.	.	16e-	.	.
+.	.	.	16c#X	.	.
+.	.	.	16e-	.	.
+.	.	8a- 8f	16d	.	.
+.	.	.	16AJJ	.	.
+=36	=36	=36	=36	=36	=36
+2.BB- 2.BBB-	.	4.a-X 4.f-X	16d-LL	.	>
+.	.	.	16e-	.	.
+.	.	.	16cn	.	]
+.	.	.	16e-	.	.
+.	.	.	16d-	.	.
+.	.	.	16A-JJ	.	.
+.	.	4.gn 4.f-)	16d-LL	.	.
+.	.	.	16e-	.	.
+.	.	.	16c	.	.
+.	.	.	16e-	.	.
+.	.	.	16d-	.	.
+.	.	.	16GnJJ	.	.
+=37	=37	=37	=37	=37	=37
+[<2.AAn [2.AAAn	.	(>4.gn 4.en	16c#XLL	.	.
+.	.	.	16d#X	.	.
+.	.	.	16B#X	.	.
+.	.	.	16d#	.	.
+.	.	.	16c#	.	.
+.	.	.	16GnJJ	.	.
+.	.	4g 4e	16cnLL	.	.
+.	.	.	16dn	.	.
+.	.	.	16Bn	.	.
+.	.	.	16d	.	.
+.	.	8g 8e	16c	.	.
+.	.	.	16GJJ	.	.
+!!LO:LB:g=original
+=38	=38	=38	=38	=38	=38
+!	!	!	!	!	!LO:DY:a
+!LO:TX:b:t=P:brak zakończenia ligatur:problem	!	!	!	!	!
+!	!	!	!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w górę:problem	!	!
+2.AAnX] 2.AAAnX]	.	4.gn^ 4.d#X	16BnLL\	.	.
+!	!	!	!LO:TX:a:B:i:t=poco riten.	!	!
+.	.	.	16cn	.	.
+.	.	.	16A#X	.	.
+.	.	.	16c	.	.
+.	.	.	16B	.	.
+.	.	.	16F#X<JJ	.	.
+!	!	!	!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w górę:problem	!	!
+.	.	4.f#X 4.d#)	16BLL\	.	.
+.	.	.	16cn	.	.
+.	.	.	16A#X	.	.
+.	.	.	16c	.	.
+.	.	.	16B	.	.
+.	.	.	16F#X<JJ	.	.
+=39	=39	=39	=39	=39	=39
+!	!	!	!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w górę:problem	!	!
+[<2.BB-X\ [2.BBB-X\	.	(>4.g-X^> 4.dn^>	16B-XLL\	.	.
+!	!	!	!LO:TX:a:B:i:t=smorz.	!	!
+.	.	.	16c-	.	.
+.	.	.	16An	.	.
+.	.	.	16c-	.	.
+.	.	.	16B-	.	.
+.	.	.	16Fn<JJ	.	.
+!	!	!	!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w górę:problem	!	!
+.	.	4f 4d	16B-LL\	.	.
+.	.	.	16c-	.	.
+.	.	.	16A	.	.
+.	.	.	16c-	.	.
+.	.	8f 8d	16B-	.	.
+.	.	.	16F<JJ	.	.
+*	*	*v	*v	*	*
+=40	=40	=40	=40	=40
+*^	*	*	*	*
+16AnLL	2.BB-] 2.BBB-]	.	4.f 4.cn)	.	.
+16B-	.	.	.	.	.
+16G#X	.	.	.	.	.
+16B-	.	.	.	.	.
+16A	.	.	.	.	.
+16FJJ	.	.	.	.	.
+16B-LL	.	.	4.f 4.dn	.	.
+16c-X	.	.	.	.	<
+16An	.	.	.	.	.
+16c-	.	.	.	.	.
+16B-	.	.	.	.	.
+16FJJ	.	.	.	.	.
+.	.	.	.	.	[
+!!LO:LB:g=original
+=41	=41	=41	=41	=41	=41
+16B-LL	2.E-	.	[4.g-	.	.
+16c-	.	.	.	.	.
+16An	.	.	.	.	.
+16c-	.	.	.	.	.
+16B-	.	.	.	.	.
+16G-JJ	.	.	.	.	.
+!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w dół:problem	!	!	!	!	!
+!	!	!	!LO:N:vis=4.	!	!
+16B-LL/	.	.	4g-]	.	.
+16c-	.	.	.	.	.
+16A	.	.	.	.	.
+16c-	.	.	.	.	.
+!	!	!	!LO:TX:t=P:złe renderowanie:problem	!	!
+16B-	.	.	16fLL	.	.
+16e->JJ	.	.	[<16e-JJ	.	.
+=42	=42	=42	=42	=42	=42
+*	*	*	*^	*	*
+16c-LL	2.F	.	4.b-	2e-]	.	.
+16d-	.	.	.	.	.	.
+16B-	.	.	.	.	.	.
+16d-	.	.	.	.	.	.
+16c-	.	.	.	.	.	.
+16A-JJ	.	.	.	.	.	.
+16c-LL	.	.	4.a-	.	.	.
+16d-	.	.	.	.	.	.
+16B-	.	.	.	8.e-L\	.	.
+16d-	.	.	.	.	.	.
+16c-	.	.	.	.	.	.
+[16A-JJ	.	.	.	[16fJk	.	.
+=43	=43	=43	=43	=43	=43	=43
+16A-LL]	2.Dn	.	[4.cc-^>	2f]	.	.
+16B-	.	.	.	.	.	.
+16Gn	.	.	.	.	.	.
+16B-	.	.	.	.	.	.
+16A-	.	.	.	.	.	.
+16FJJ	.	.	.	.	.	.
+!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w dół:problem	!	!	!	!	!	!
+16A-LL/	.	.	4.cc-]	.	.	.
+16B-	.	.	.	.	.	.
+16G	.	.	.	8ryy	.	.
+16B-	.	.	.	.	.	.
+16A-	.	.	.	16b-LL/	.	.
+16f>JJ	.	.	.	16fJJ	.	.
+!!LO:LB:g=original
+=44	=44	=44	=44	=44	=44	=44
+16GnLL	2D-	.	2.b-	[2f-X	.	.
+16A-	.	.	.	.	.	.
+16F#X	.	.	.	.	.	.
+16A-	.	.	.	.	.	.
+16Gny	.	.	.	.	.	.
+16EnJJ	.	.	.	.	.	.
+!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w dół:problem	!	!	!	!	!	!
+16GnyLL/	.	.	.	.	.	.
+16A-	.	.	.	.	.	.
+16F#	8ryy	.	.	8.f-L]/	.	.
+16A-	.	.	.	.	.	.
+16Gny	8Gny\	.	.	.	.	.
+16e->JJ	.	.	.	[16e-Jk	.	.
+=45	=45	=45	=45	=45	=45	=45
+*	*^	*	*	*	*	*
+16GnXLL	2.C-	4.rFFFyy	.	[4.ee-	2e-]	.	.
+16A-	.	.	.	.	.	.	>
+16F#X	.	.	.	.	.	.	.
+16A-	.	.	.	.	.	.	.
+16Gny	.	.	.	.	.	.	]
+16E-XJJ	.	.	.	.	.	.	.
+16A-LL/	.	4rDDDyy	.	8ee-L]	.	.	.
+!LO:TX:t=P:tylko ostatnia szesnastka ma caudę w dół:problem	!	!	!	!	!	!	!
+16B-	.	.	.	.	.	.	.
+16Gny	.	.	.	16dd-L	4ryy	.	.
+16B-	.	.	.	16cc-	.	.	.
+16A-	.	[>8A-\	.	16a-	.	.	.
+16e->JJ	.	.	.	16e-JJ	.	.	.
+*	*v	*v	*	*	*	*	*
+=46	=46	=46	=46	=46	=46	=46
+16A-LL]	4.BB-	.	[4g-^>	4.dn	.	.
+16B-	.	.	.	.	.	.
+16Gn	.	.	.	.	.	.
+16B-	.	.	.	.	.	.
+16A-	.	.	16g-LL]	.	.	.
+16FJJ	.	.	16fJJ	.	.	.
+16G-XLL	4.C-	.	4.e-	4.rAyy	.	.
+16A-	.	.	.	.	.	.
+16F	.	.	.	.	.	.
+16A-	.	.	.	.	.	.
+16G-	.	.	.	.	.	.
+16E-JJ	.	.	.	.	.	.
+!!LO:LB:g=original
+=47	=47	=47	=47	=47	=47	=47
+16A-LL	4.AA-	1	(>4.f-X^> 4.c-^>	4.rGyy	.	.
+16B-	.	2	.	.	.	.
+16Gn	.	1	.	.	.	.
+16B-	.	2	.	.	.	.
+16A-	.	1	.	.	.	.
+16F-XJJ	.	2	.	.	.	.
+16FnLL	4.BB-	.	[4dn	4.B-	.	<
+16G-X	.	.	.	.	.	.
+16En	.	.	.	.	.	.
+16G-	.	.	.	.	.	.
+16F	.	.	16.dLL]	.	.	.
+16BB-JJ	.	.	.	.	.	.
+.	.	.	32e-JJk)	.	.	.
+.	.	.	.	.	.	[
+=48	=48	=48	=48	=48	=48	=48
+16A-LL	4.AA-	.	(>4f-X 4c-	4.rGyy	.	.
+16B-	.	.	.	.	.	.
+16Gn	.	.	.	.	.	.
+16B-	.	.	.	.	.	.
+16A-	.	.	8ryy	.	.	.
+16F-XJJ	.	.	.	.	.	.
+16FnLL	4.BB-	.	[4dn	4.B-	.	.
+16G-X	.	.	.	.	.	.
+16En	.	.	.	.	.	.
+16G-	.	.	.	.	.	<
+16F	.	.	16.dLL]	.	.	.
+16BB-JJ	.	.	.	.	.	.
+.	.	.	32e-JJk)	.	.	.
+.	.	.	.	.	.	[
+*	*	*	*v	*v	*	*
+=49	=49	=49	=49	=49	=49
+16A-LL	4.AA-	.	(>4.f-X 4.c-	.	.
+16B-	.	.	.	.	.
+16Gn	.	.	.	.	.
+16B-	.	.	.	.	.
+16A-	.	.	.	.	.
+!LO:TX:a:B:i:t=sosten.	!	!	!	!	!
+16F-XJJ	.	.	.	.	.
+16AnLL	8AAnL	.	8cc#XL 8en 8c#X	.	.
+.	.	.	.	.	<
+16EnJJ	.	.	.	.	.
+16BnLL	8BBn	.	8g#X 8e	.	.
+16EJJ	.	.	.	.	.
+16c#XLL	8C#XJ	.	8anJ 8e)	.	[
+!LO:TX:b:t=P:brak początku ligatury:problem	!	!	!	!	!
+[>16EJJ	.	.	.	.	.
+!!LO:LB:g=original
+=50	=50	=50	=50	=50	=50
+*	*	*	*^	*	*
+*	*	*^	*	*	*	*
+16F-XLL]	4.AA-	.	.	16a-LL	4.c-	.	.
+16F-	.	.	.	16g-JJ	.	.	.
+16E-	.	.	.	4f-^>	.	.	.
+16F-	.	.	.	.	.	.	.
+16G-	.	.	.	.	.	.	.
+16A-JJ	.	.	.	.	.	.	.
+4rAyy	(4.BB-^>	.	3	4e-	16c-LL	.	.
+!	!	!	!	!	!LO:TX:t=P:dimin. powinno wyświetlić się nad:problem	!	!
+!	!	!	!	!	!	!	!LO:HP:a
+.	.	.	.	.	16B-	.	>
+.	.	.	.	.	16AnJ	.	.
+.	.	.	.	.	8.B-J	.	.
+16FnLL\	.	1	.	8dn	.	.	.
+!LO:TX:a:t=P:ligatura się nie wyświetla 16G- do 4G-:problem	!	!	!	!	!	!	!
+[&16G-JJ	.	1	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51
+!	!	!	!	!	!LO:TX:t=P:cauda od 4G- do górnej pięciolinii:problem	!	!
+(>16BB-LL\	[2.EE-\)	1	.	[<2.e-	4G-<]&/	.	.
+16C-X	.	.	.	.	.	.	.
+!LO:TX:a:B:i:t=smorz.	!	!	!	!	!	!	!
+16BB-	.	.	.	.	.	.	.
+16Dn	.	.	1	.	.	.	.
+16E-JJ)	.	.	2	.	2ryy	.	.
+(<16FLL	.	1	.	.	.	.	.
+16G-JJ)	.	.	.	.	.	.	.
+16C-LL\	.	.	.	.	.	.	.
+16BB-	.	.	.	.	.	.	.
+!LO:TX:a:B:i:t=rallent.	!	!	!	!	!	!	!
+16D	.	.	.	.	.	.	.
+16E-JJ	.	.	.	.	.	.	.
+!LO:TX:a:t=P:16F i 16G- połączone belką przez kreskę taktową:problem	!	!	!	!	!	!	!
+(<16F	.	.	.	.	.	.	.
+*	*	*	*	*v	*v	*	*
+=52	=52	=52	=52	=52	=52	=52
+!LO:TX:t=P:nie wyświetla kropki 2EE- i ligatury od 2EE- do 2.EE-:problem	!	!	!	!	!	!
+!	!LO:N:vis=2.	!	!	!	!	!
+16G-)	[2EE-]	.	.	2.e-_	.	.
+16C-LL\	.	.	.	.	.	.
+16BB-	.	.	.	.	.	.
+16Dn	.	.	.	.	.	.
+16E-JJ	.	.	.	.	.	.
+16FLL	.	.	.	.	.	.
+16G-JJ	.	.	.	.	.	.
+16C-LL\	.	.	.	.	.	.
+16BB-	[4BB-/	.	3	.	.	.
+16D	.	.	1	.	.	.
+16E-JJ	.	.	2	.	.	.
+16F	.	.	.	.	.	.
+*	*	*v	*v	*	*	*
+=53	=53	=53	=53	=53	=53
+!LO:TX:B:t=FINE.	!	!	!	!	!
+2.Gn^>	2.BB-;] 2.EE-]	2	2.e-;]	.	.
+*v	*v	*	*	*	*
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: > = "dimin.", fontstyle= "bold-italic"
+!!!RDF**dynam: < = "cres.", fontstyle= "bold-italic"
+!!!ENC: Leszek Kubiak
+!!!END: 2018-09-24
+!!!EED: Emilia Ziętek
+!!!EST: revision finished 2018-09-24
+!!!rism-genre: Etude
+!!!rism-key: E-flat minor
+!!!rism-opus: op.  10, no. 6
+!!!rism-title: Etude in E-flat minor op.  10, no. 6
+!!!rism-permalink: https://opac.rism.info/search?id=300605316&View=rism
+!!!rism-773a-OPR: 300605310
+!!!rism-parent-permalink: https://opac.rism.info/search?id=300605310&View=rism

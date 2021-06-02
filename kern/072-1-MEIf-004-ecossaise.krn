@@ -1,0 +1,237 @@
+!!!!SEGMENT: 072-1-MEIf-004-ecossaise.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Écossaises No 2
+!!!PTL: TROIS ÉCOSSAISES
+!!!OPS: op. 72
+!!!PPR: J. Meissonnier fils
+!!!PPP: Paris
+!!!NIFC-rismID: 1001007953
+!!!NIFC-shelfmark: PL-Wbfc 4764/n
+!!!system-decoration: {(s1,s2)}
+**kern	**fing	**kern	**fing	**dynam
+*part1	*	*part1	*	*
+*>[A,A1,A,A2,B,B1,B,B2]	*	*>[A,A1,A,A2,B,B1,B,B2]	*	*
+*	*	*I"N|o. 2.	*	*
+*staff2	*	*staff1	*	*
+*clefF4	*	*clefG2	*	*
+*k[f#]	*	*k[f#]	*	*
+*M2/4	*	*M2/4	*	*
+*>A	*	*>A	*	*
+8r	.	16b\LL	.	.
+.	.	16ccJJ	.	.
+=1!|:	=1!|:	=1!|:	=1!|:	=1!|:
+*^	*	*	*	*
+*	*	*	*Xtuplet	*	*
+!	!	!	!	!	!LO:DY:rj
+4GG/	8GG\L	.	(>24ddLL	.	f
+.	.	.	24ee	.	.
+.	.	.	24ddJ	.	.
+.	8DJ 8B	.	8bbJ)	.	.
+4D#/	8D#X\L	.	(>24ccLL	.	.
+.	.	.	24ddni	.	.
+.	.	.	24ccJ	.	.
+.	8F#J 8c	.	8aaJ)	.	.
+=2	=2	=2	=2	=2	=2
+4E/	8E\L	.	(>24bLL	.	.
+.	.	.	24cc	.	.
+.	.	.	24bJ	.	.
+.	8GJ 8B	.	8ggJ)	.	.
+*ped	*	*	*	*	*
+4C/	8C\L	.	(>16aLL	1	<
+.	.	.	16ee	2	.
+.	8AJ 8e	.	16aa	4	.
+*Xped	*	*	*	*	*
+.	.	.	16eeeJJ)	5	.
+*v	*v	*	*	*	*
+=3	=3	=3	=3	=3
+*ped	*	*	*	*
+8D/L	.	(>16ddLL	.	.
+.	.	16gg	.	.
+*clefG2	*	*	*	*
+8dJ	.	16bb	.	.
+.	.	16dddJJ	.	.
+*	*	*8va	*	*
+8b/L 8dd/	.	16gggLL	.	.
+.	.	16bbb	.	.
+8dJ	.	16eeee	.	.
+*Xped	*	*	*	*
+.	.	16ddddJJ)	.	[
+=4	=4	=4	=4	=4
+8a/L 8ccni/	.	(>16cccc#XLL	.	.
+.	.	16ccccn	.	.
+8dJ	.	16eee	.	.
+.	.	16fff#JJ	.	.
+8g/ 8b/	.	16aaaLL	.	>
+.	.	16ggg	.	.
+8r	.	16ddd	.	.
+.	.	16bbJJ)	.	]
+*	*	*X8va	*	*
+*clefF4	*	*	*	*
+!!LO:LB:g=original
+=5	=5	=5	=5	=5
+*^	*	*	*	*
+4GG/	8GG\L	.	(>24ddLL	.	.
+.	.	.	24ee	.	.
+.	.	.	24ddJ	.	.
+.	8DJ 8B	.	8bbJ)	.	.
+4D#	8D#X\L	.	(>24ccLL	.	.
+.	.	.	24ddni	.	.
+.	.	.	24ccJ	.	.
+.	8F#J 8c	.	8aaJ)	.	.
+=6	=6	=6	=6	=6	=6
+4E/	8E\L	.	(>24bLL	.	.
+.	.	.	24cc	.	.
+.	.	.	24bJ	.	.
+.	8GJ 8B	.	8ggJ)	.	.
+*ped	*	*	*	*	*
+4C/	8C\L	.	(>16aLL	.	<
+.	.	.	16ee	.	.
+.	8AJ 8e	.	16aa	.	.
+*Xped	*	*	*	*	*
+.	.	.	16eeeJJ)	.	.
+*v	*v	*	*	*	*
+=7	=7	=7	=7	=7
+8D/L	.	(>16ddLL	.	.
+.	.	16gg	.	.
+*clefG2	*	*	*	*
+8dJ	.	16bb	.	.
+.	.	16dddJJ	.	.
+*	*	*8va	*	*
+8g 8b/L 8dd/	.	16gggLL	.	.
+.	.	16bbb	.	.
+8dJ	.	16eeee	.	.
+.	.	16ddddJJ)	.	[
+=8	=8	=8	=8	=8
+!!!LO:TX:a:B:t=1|a.
+*>A1	*	*>A1	*	*
+8a/L 8cc/	.	(>16ccccLL	.	.
+.	.	16aaa	.	.
+8dJ	.	16eee	.	.
+.	.	16fff#JJ	.	.
+8g/ 8b/	.	8ggg)	.	.
+.	.	.	.	.
+*	*	*X8va	*	*
+8r	.	16bLL	.	.
+.	.	16ccJJ	.	.
+=9:!|	=9:!|	=9:!|	=9:!|	=9:!|
+!!!LO:TX:a:B:t=2|a.
+*>A2	*	*>A2	*	*
+*	*	*8va	*	*
+8a/L 8cc/	.	(>16ccccXLL	.	.
+.	.	16aaa	.	.
+8dJ	.	16eee	.	.
+.	.	16fff#JJ	.	.
+8g/ 8b/	.	8ggg)	.	.
+*	*	*X8va	*	*
+8r	.	8b	.	.
+*clefF4	*	*	*	*
+!!LO:LB:g=original
+=10!|:	=10!|:	=10!|:	=10!|:	=10!|:
+*>B	*	*>B	*	*
+(>16BB\LL	.	4b^<\ 4dd#X\ 4ff#\ 4bb\	.	.
+16B	.	.	.	.
+16AA#X	5	.	.	.
+16BBJJ)	4	.	.	.
+(>16C#X\LL	3	4a#X^<\ 4ee\ 4ff#\ 4aa#X\	.	.
+16c#X	.	.	.	.
+16BB#	5	.	.	.
+16C#JJ)	4	.	.	.
+=11	=11	=11	=11	=11
+*	*	*	*^	*
+!	!	!LO:TX:b:t=P:jedynki połączone łukiem; palcowanie dwóch górnych nut po prawej stronie:problem	!	!	!
+(>16D#X\LL	3	4an^<\ 4b\ 4ff#\ 4aan\	5 3	1 1	.
+16d#X	.	.	.	.	.
+16C#X	.	.	.	.	.
+16D#JJ)	.	.	.	.	.
+(>16E\LL	.	4g^<\ 4b\ 4ee\ 4gg\	.	.	.
+16e	.	.	.	.	.
+16D#	.	.	.	.	.
+16EJJ)	.	.	.	.	.
+*	*	*	*v	*v	*
+=12	=12	=12	=12	=12
+(>16F#\LL	.	4a\ 4b\ 4dd#X\ 4ff#\	.	.
+16f#	.	.	.	.
+16E#X	.	.	.	.
+16F#JJ)	.	.	.	.
+(>16G\LL	.	4g\ 4b\ 4ee\	.	.
+16g	.	.	.	.
+16F#	.	.	.	.
+16GJJ)	.	.	.	.
+=13	=13	=13	=13	=13
+8cni\L	.	4e/ 4f#/ 4a#X/	.	.
+(>16dniL	.	.	.	.
+16cJJ	.	.	.	.
+16BLL	.	4d#X/ 4f#/ 4b/	.	.
+16F#	.	.	.	.
+16D#X	3	.	.	.
+16BBJJ)	4	.	.	.
+=14	=14	=14	=14	=14
+*^	*	*	*	*
+4GG	8GG\L	.	(>24ddnLL	.	.
+.	.	.	24ee	.	.
+.	.	.	24ddJ	.	.
+.	8DJ 8B	.	8bbJ)	.	.
+4D#/	8D#\L	.	(>24ccLL	.	.
+.	.	.	24dd	.	.
+.	.	.	24ccJ	.	.
+.	8F#J 8c	.	8aaJ)	.	.
+!!LO:LB:g=original
+=15	=15	=15	=15	=15	=15
+4E	8E\L	.	(>24b\LL	.	.
+.	.	.	24cc	.	.
+.	.	.	24bJ	.	.
+.	8GJ 8B	.	8ggJ)	.	.
+*ped	*	*	*	*	*
+4C	8C\L	.	(>16a\LL	.	<
+.	.	.	16ee	.	.
+.	8AJ 8e	.	16aa	.	.
+*Xped	*	*	*	*	*
+.	.	.	.	.	.
+.	.	.	16eeeJJ)	.	.
+*v	*v	*	*	*	*
+=16	=16	=16	=16	=16
+8D/L	.	(>16dd\LL	.	.
+.	.	16gg	.	.
+*clefG2	*	*	*	*
+8dJ	.	16bb	.	.
+.	.	16dddJJ	.	.
+*	*	*8va	*	*
+8b/L 8dd/	.	16ggg\LL	.	.
+.	.	16bbb	.	.
+8dJ	.	16eeee	.	.
+.	.	16ddddJJ)	.	[
+=17	=17	=17	=17	=17
+!!!LO:TX:a:B:t=1|a.
+*>B1	*	*>B1	*	*
+8a/L 8cc/	.	(>16ccccLL	.	>
+.	.	16aaa	.	.
+8dJ	.	16eee	.	.
+.	.	16fff#JJ	.	.
+8g/ 8b/	.	8ggg)	.	]
+.	.	.	.	.
+*	*	*X8va	*	*
+8r	.	8b\	.	.
+*clefF4	*	*	*	*
+=18:!|	=18:!|	=18:!|	=18:!|	=18:!|
+!!!LO:TX:a:B:t=2|a.
+*>B2	*	*>B2	*	*
+*	*	*8va	*	*
+*clefG2	*	*	*	*
+8a/L 8cc/	.	(>16ccccLL	.	>
+.	.	16aaa	.	.
+8dJ	.	16eee	.	.
+.	.	16fff#JJ	.	.
+8g/ 8b/	.	8ggg\)	.	]
+*	*	*X8va	*	*
+8r	.	8r	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: i = editorial accidental, bracket
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!ENC: Mateusz Mrugas
+!!!END: 2020-05-30
+!!!EED: Jędrzej Mróz
+!!!EST: 2020-06-05

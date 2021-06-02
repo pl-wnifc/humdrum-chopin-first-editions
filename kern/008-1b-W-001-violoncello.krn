@@ -1,0 +1,1572 @@
+!!!!SEGMENT: 008-1b-W-001-violoncello.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: FIRST GRAND TRIO
+!!!OPS: Op. 8
+!!!PPR: Wessel
+!!!OMV: 1
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: PL-Wbfc F.7151 a, b.
+!!!OMD: Metr|e. [quarter] = 152.
+!!!OMD: ALLEGRO con FUOCO.
+**kern	**dynam
+*part2	*part2
+*staff2	*
+*clefF4	*
+*k[b-e-]	*
+*g:	*
+*M2/2	*
+*met(c|)	*
+*>[A1,A2,B]	*>[A1,A2,B]
+=1	=1
+*>A	*>A
+!LO:TX:b:B:i:t=Risoluto.	!
+2GG	.
+4AA'<	.
+4BB-'<	.
+=2	=2
+4C'<	.
+4BB-'<	.
+2r	.
+=3	=3
+1rF	.
+=4	=4
+1rF	.
+=5	=5
+!LO:TX:t=P:problem:obie główki w drugą stronę	!
+(>2A	>
+2G	.
+=6	=6
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2F#X)	]
+2r	.
+=7	=7
+!LO:TX:t=P:znak pionowy i poziomy w takcie:problem	!
+1rF	.
+=8	=8
+1rF	.
+=9	=9
+1rF	.
+=10	=10
+!LO:TX:b:B:i:t=espress.	!
+(>4G	.
+4c	.
+4G	.
+4d	.
+=11	=11
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2e-	>
+4d	.
+8cL	.
+8B-J	]]
+=12	=12
+4.G	]
+16ALL	.
+16B-JJ	.
+!	!LO:DY:rj
+4F#X)	p
+*clefG2	*
+4dd	.
+!!LO:LB:g=original
+=13	=13
+4g	<
+[>4gg	[[
+8ggL]	>
+8ff	.
+8ee-	.
+8ddJ	]
+=14	=14
+8ffL	]
+8ee-J	.
+4r	.
+!LO:TX:t=P:problem:diminuendolike accent	!
+(<2bn^<t	.
+16qqa/LL	.
+16qqb/JJ)	.
+=15	=15
+(>4cc	<
+8ddL	.
+8ee-J	[
+4dd	>
+4cc)	]]
+=16	=16
+(<4b-/	.
+/8.gL	.
+16aJk	.
+4b-/	>
+4a/	]]
+=17	=17
+2g)	p
+*clefF4	*
+(</2D	pp
+=18	=18
+2C	.
+2BB-	.
+=19	=19
+2AA	.
+2GG)	.
+=20	=20
+2DD	.
+(>/2D	.
+=21	=21
+2BBn	.
+2C	.
+=22	=22
+!LO:TX:t=P:problem:obie główki w drugą stronę	!
+2D	.
+2E-)	.
+!!LO:LB:g=original
+=23	=23
+(<2FF#X	.
+2GG)	.
+=24	=24
+(<2C	>
+2BB-)	]
+=25	=25
+(<2C	]
+2D/	.
+=26	=26
+4E-X)	.
+4r	.
+!LO:TX:a:B:i:t=Rit&colon;	!
+(<2FF#X	.
+=27	=27
+2GG)	.
+(<2C#X	.
+=28	=28
+2D/)	.
+(2DD	.
+=29	=29
+!LO:TX:a:B:i:t=Tempo.	!
+8GG)	.
+8r	.
+4r	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+(2D^<	.
+=30	=30
+8G)	.
+8r	.
+4r	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+(2D	.
+=31	=31
+8G)	.
+8r	.
+(>4G	.
+8C/)	.
+8r	.
+(<4CC	.
+=32	=32
+4DD)	.
+2D/	.
+(>4d	.
+=33	=33
+4G)	.
+4r	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+(>2F	pp
+!!LO:LB:g=original
+=34	=34
+!LO:TX:t=P:problem:łuk kończy się skierowany w dół	!
+4BB-)	.
+4r	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+(>2F	p
+=35	=35
+4BB-)	.
+(>4B-	.
+4A)	.
+(<4FF#X	.
+=36	=36
+4GG)	.
+4r	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2E-^<	.
+=37	=37
+1C	.
+=38	=38
+4E-:^> 4AA-X: 4CC:	.
+4r	]
+4r	.
+8CC`<L	.
+8CC#X`<J	.
+=39	=39
+8DD`<	.
+8r	.
+4r	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+!	!LO:DY:rj
+(>2E-	p
+=40	=40
+8D)	.
+8r	.
+4r	.
+*clefG2	*
+!LO:TX:t=P:problem:główka w drugą stronę	!
+(>2ee-	.
+=41	=41
+8dd)	.
+8r	.
+4r	.
+*8va	*
+!LO:TX:t=P:problem:główka w drugą stronę	!
+(>2eee-	.
+=42	=42
+8ddd)	.
+*X8va	*
+8r	.
+4r	.
+2r	.
+*clefF4	*
+=43	=43
+4.G	.
+8C#X	.
+8D/	.
+8r	.
+8r	.
+(<8FF#X	.
+!!LO:LB:g=original
+=44	=44
+8GG)	.
+8r	.
+8r	.
+(<8C#X	.
+8D/)	.
+8r	.
+8r	.
+(<8FF#X	.
+=45	=45
+4GG)	.
+4BB-`<	.
+4C`<	.
+4r	.
+=46	=46
+4D/	.
+4r	.
+4F#X: 4AA: 4DD:	.
+8.D/L	.
+16DJk	.
+=47	=47
+(>\16GGLL	.
+16BB-	<
+16D	.
+.	.
+16F#XJJ	[
+16GLL	>
+16B-	.
+16A	.
+16GJJ	]
+16F#X^<LL)	.
+16A	.
+16E-^<	.
+16AJJ	.
+16D^<LL	.
+16A	.
+16C^<	.
+16AJJ	.
+=48	=48
+16BB-LL	.
+16GG	<
+16BB-	.
+16DJJ	.
+.	[
+16GLL	.
+16B-	.
+16A	.
+16GJJ	.
+16F#X^<LL	.
+16A	.
+16E-^<	.
+16AJJ	.
+(>16D^<LL	.
+16A	.
+16d	.
+16cJJ	.
+!!LO:LB:g=original
+=49	=49
+16B-LL	.
+16A	.
+16G	.
+16F#XJJ	.
+16GLL	.
+16Fn	.
+16E-	.
+16DJJ	.
+16CLL	.
+16BBn	.
+16C	.
+16DJJ	.
+16E-LL	.
+16G	.
+16c	.
+16e-JJ)	.
+=50	=50
+8en	.
+8r	.
+*clefG2	*
+8cc#X^<L	.
+8een^<J	.
+8gg^<L	.
+8aa^<J	.
+4bb-^<	.
+=51	=51
+*clefF4	*
+!LO:TX:t=P:problem:klucz F4 na kresce taktowej	!
+4r	.
+(>4D	<
+4G	.
+4B-	[
+*clefG2	*
+!LO:TX:t=P:problem:brak kreski taktowej	!
+=52	=52
+*	*^
+4dd	.	.
+4gg^<	.	.
+8dd)	.	.
+8r	.	.
+*clefF4	*	*
+!	!LO:TX:t=P:powinno być tylko jedni "fz" na górze:problem	!LO:DY:a
+4F#X: 4AA: 4DD:	fz	.
+!	!	!LO:DY:a
+.	.	p
+*	*v	*v
+=53	=53
+4GG	.
+!	!LO:DY:rj
+(<4BB-	p<
+4C	.
+!LO:TX:t=P:łuk kończy się na kresce taktowej:problem	!
+4D/)	[
+!!LO:LB:g=original
+=54	=54
+4GG	.
+!	!LO:DY:rj
+(<4BB-	p<
+4C	.
+4D/)	[
+=55	=55
+(>4En	[
+4F#X	.
+4G	.
+4E-X	.
+=56	=56
+4C	.
+4C#X	.
+4D/	.
+4DD)	.
+=57	=57
+(<8.GGL	.
+16AAJk	.
+4BB-	.
+4C	.
+4D/)	.
+=58	=58
+(<8.GGL	.
+16AAJk	.
+4BB-	.
+4C	.
+4D/)	.
+=59	=59
+(>4En	<
+4F#X	[
+8GL	>
+8Fn	.
+8E-X	.
+8DJ)	]
+=60	=60
+!LO:TX:a:i:B:t=poco rit.	!
+4C	.
+4C#X	.
+2D^</	.
+=61	=61
+!LO:TX:a:i:B:t=a tempo.	!
+4E-	<
+4G	[
+4A-X	>
+8FL	.
+8DJ	]
+!!LO:LB:g=original
+=62	=62
+4BB-	[
+(>4E-	.
+4BB-)	.
+(>4F	.
+=63	=63
+4BB-)	.
+.	.
+(>4G	<
+4A-X)	[
+16qqB-/LL	.
+16qqA-/JJ	.
+8GL	.
+8A-J	.
+=64	=64
+(>4B-	.
+.	.
+4e-	<
+4B-	.
+4f	.
+.	[
+=65	=65
+4g	>
+4e-)	.
+(>4G	]
+4c	.
+=66	=66
+4B-	<
+4Bn	.
+4c)	[
+(4D/	.
+=67	=67
+4GG)	.
+(>\8GL	.
+8cJ	f
+8B-)	.
+4G^<	.
+(8c	.
+=68	=68
+*	*^
+!LO:TX:B:t=Rall.:dur=w:ext=ut:problem:text with extention lines	!	!
+8B-L)	.	.
+(>8A	<	.
+8G	.	.
+8cJ	.	<
+8B-L	.	.
+8A	.	.
+8B-	.	.
+8cJ	[[	.
+*	*v	*v
+!!LO:LB:g=original
+=69	=69
+!LO:TX:a:i:B:t=Tempo.	!
+!LO:TX:t=P:brak zakończenia łuku:problem	!
+4d)	f
+4r	.
+2r	.
+=70	=70
+2r	.
+4r	.
+!	!LO:DY:rj
+[4D	p
+=71	=71
+4D]	.
+(4G	.
+4D)	.
+(4A	.
+=72	=72
+4B-)	.
+4r	.
+(2DD	.
+=73	=73
+4GG)	.
+[4d^<	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(12dL]	>
+12G	.
+12dJ)	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(12dL	.
+12D	.
+12cJ)	]
+=74	=74
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(12B-L	.
+12G	.
+12B-J)	.
+[4d^<	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(12dL]	.
+12D	.
+12dJ)	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+(12dL	.
+12D	.
+12cJ)	.
+=75	=75
+4B-	.
+4r	.
+(2GG^<	.
+=76	=76
+!!LO:TX:a:B:t=1|ma.
+*>A1	*>A1
+4FF#X)	.
+4r	.
+2r	.
+!!LO:LB:g=original
+=77	=77
+!LO:TX:a:t=P:łamanie systemu tutaj:problem	!
+2BBn	.
+2C	.
+=78	=78
+1D	.
+=79:|!	=79:|!
+!!LO:TX:a:B:t=2|da.
+*>A2	*>A2
+1FF#X	.
+=80	=80
+1FFn	.
+=81	=81
+1EEn	.
+==82|!	==82|!
+*>B	*>B
+!	!LO:DY:a:rj
+2DD	f
+!LO:TX:a:i:B:t=Risoluto.	!
+.	.
+4EEn'<	.
+4FF'<	.
+=83	=83
+!	!LO:HP:a
+4GG'<	>
+4FF'<	]
+2r	.
+=84	=84
+1rF	.
+=85	=85
+1rF	.
+=86	=86
+!LO:TX:t=P:problem:główka w drugą stronę	!
+(>2B-^<	.
+4A	.
+8GL<	.
+8AJ	.
+=87	=87
+4c	.
+4B-)	.
+2r	.
+=88	=88
+!LO:TX:t=P:znak pionowy i poziomy w takcie:problem	!
+1rF	.
+=89	=89
+1rF	.
+=90	=90
+1rF	.
+=91	=91
+!	!LO:DY:rj
+(<4AA	<p
+4D/	.
+4AA	.
+4En/	[
+!!LO:LB:g=original
+=92	=92
+!LO:TX:t=P:łuk kończy się nad nutami:problem	!
+4G	>
+8F)	]
+8r	.
+2r	.
+=93	=93
+!	!LO:DY:rj
+(>4En	p<
+.	.
+4A	.
+4E	.
+4Bn	[
+=94	=94
+4d	>
+8c)	]
+8r	.
+2r	.
+=95	=95
+(>4En	<
+.	.
+4A	.
+4E	.
+4Bn	.
+=96	=96
+.	[
+4d	>
+8c)	]
+8r	.
+2r	.
+=97	=97
+(>4BBn	<
+4En	.
+4BB	.
+4F#X	.
+.	[
+=98	=98
+4A	>
+8G)	]
+8r	.
+2r	.
+=99	=99
+!LO:TX:t=P:problem:główka w drugą stronę	!
+(2F#X	<
+4G	.
+4A	.
+.	[
+=100	=100
+4c	>
+8B-)	]
+8r	.
+2r	.
+!!LO:LB:g=original
+=101	=101
+!LO:TX:t=P:problem:główka w drugą stronę	!
+(>2A	<
+4B-	.
+4c	[
+=102	=102
+4e-	>
+8d)	]
+8r	.
+2r	.
+=103	=103
+!LO:TX:t=P:problem:główka w drugą stronę	!
+(>2c#X	.
+4d	.
+4en)	.
+=104	=104
+4f	.
+8gL	.
+8fJ	.
+4en	.
+4d	.
+=105	=105
+!LO:TX:B:i:b:t=Dolce.	!
+!LO:TX:t=P:problem:główki w drugą stronę	!
+2en	<
+[2f#X	[
+=106	=106
+4f#X]	]
+4en	>
+4d#X	]
+4dn	.
+=107	=107
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2.c#X	pp
+(4g	.
+=108	=108
+4f#X	.
+4d^<	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2c)	.
+=109	=109
+(>1Bn	.
+=110	=110
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2c	.
+2d-X	.
+=111	=111
+[>1c	.
+!!LO:LB:g=original
+=112	=112
+!LO:TX:t=P:problem:brak zakończenia łuku	!
+(>4c])	.
+4e-X	<
+4d	.
+4f	.
+=113	=113
+.	[
+4e-	.
+!LO:TX:i:B:b:t=sempre	!
+4g-X)	.
+4r	.
+[>4A-X	.
+=114	=114
+(>4A-X]	p
+4d-X	.
+4A-	.
+4e-	.
+=115	=115
+4A-X	.
+!LO:N:vis=4	!
+4f)	.
+4r	.
+!LO:N:vis=2	!
+4r	.
+=116	=116
+(>4Dn	.
+4A-X	.
+4D	.
+4B-	.
+=117	=117
+4D	<
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2c-X	[>
+4B-	]
+=118	=118
+4G-X)	]
+4r	.
+2r	.
+=119	=119
+(>4B-	.
+.	<
+4e-	.
+4B-	.
+.	[
+4f	.
+=120	=120
+4B-	.
+4g)	.
+2r	.
+=121	=121
+.	.
+!LO:TX:a:B:t=1	!
+1r	.
+!!LO:PB:g=original
+=122	=122
+4C	.
+(>4F	.
+4C	.
+4G	.
+=123	=123
+4C	.
+4A-X)	.
+2r	.
+=124	=124
+(>4C	.
+4F	.
+4C	.
+4G	.
+=125	=125
+4C	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+.	<
+2A-X)	[>
+4G	]
+=126	=126
+(>4G	.
+4c	<
+4G	.
+.	[
+4d	.
+=127	=127
+4G	.
+4en)	.
+2r	.
+=128	=128
+(>4G	<
+4c	.
+4G	.
+4d	.
+=129	=129
+4G	[
+4en)	.
+2r	.
+=130	=130
+[<1C	.
+=131	=131
+2.C]	.
+4r	.
+=132	=132
+(>4G	p
+4en	.
+4G#X	.
+4f	.
+=133	=133
+4A	.
+4f#X)	.
+2r	.
+!!LO:LB:g=original
+=134	=134
+.	.
+!LO:TX:B:a:t=1	!
+1r	.
+=135	=135
+!	!LO:DY:rj
+(>4F#X	p>
+2d)	]
+4r	.
+=136	=136
+1rc	.
+=137	=137
+1rc	.
+=138	=138
+!LO:TX:a:B:i:t=risoluto.	!LO:DY:rj
+(<2GG	f
+4AA	.
+4BB-	.
+=139	=139
+4C	.
+4BB-)	.
+2r	.
+=140	=140
+1rF	.
+=141	=141
+1rF	.
+=142	=142
+!LO:TX:t=P:problem:główki w drugą stronę	!
+(>2A\	.
+2G	.
+=143	=143
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2F#X)	.
+2r	.
+=144	=144
+.	.
+!LO:TX:B:a:t=1	!
+1rF	.
+=145	=145
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2.F	.
+8.A-XL	.
+16GJk	.
+=146	=146
+4G	.
+(4c	.
+4G)	.
+4d	.
+=147	=147
+4G	<
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2e-	[>
+4d	]
+=148	=148
+(>4.c	.
+8d	.
+8e-L	.
+8d	.
+8c	.
+8B-J)	.
+=149	=149
+(>4.G	<
+16ALL	.
+16B-JJ	[
+4F#X)	.
+4r	.
+!!LO:LB:g=original
+=150	=150
+!LO:TX:t=P:problem:główki półnut w drugą stronę	!
+2B-	.
+(<2Bnt	.
+16qqA/LL	.
+16qqB/JJ)	.
+=151	=151
+4c	<
+.	.
+[>4g	.
+(>8gL]	[>
+8f	.
+8e-	.
+8dJ	]
+=152	=152
+8fL	>
+8e-	.
+8d)	]
+[>8cJ	.
+8c]	.
+4B-^<	.
+[>8A	.
+=153	=153
+8AL]	.
+(>8G	.
+8B-)	.
+16r	.
+(>16AJk	.
+4.G)	.
+8F#X	.
+=154	=154
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2G\	.
+!	!LO:DY:a
+(</2D	pp
+=155	=155
+2C^<	.
+2BB-	.
+=156	=156
+2AA	.
+2GG	.
+=157	=157
+2DD)	.
+(</2D	.
+=158	=158
+2BBn)	.
+(>2C	.
+.	.
+=159	=159
+!LO:TX:t=P:problem:główki półnut w drugą stronę	!
+2D	<
+2E-)	[
+=160	=160
+(<2FF#X	.
+2GG)	.
+!!LO:LB:g=original
+=161	=161
+(<2C	.
+2BB-)	.
+=162	=162
+(<2C	.
+2D/)	.
+=163	=163
+4E-	.
+4r	.
+(<2FF#X	.
+=164	=164
+2GG)	.
+!LO:TX:a:B:i:t=Rit&colon;	!
+(<2C#X	.
+=165	=165
+2D/)	.
+(<2DD	.
+=166	=166
+!LO:TX:a:B:i:t=Tempo.	!
+8GG)	.
+8r	.
+4r	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+(>2D	f
+=167	=167
+8G)	.
+8r	.
+4r	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+(>2D	.
+=168	=168
+8G)	.
+8r	.
+!	!LO:DY:rj
+(>4G	p
+8C)	.
+8r	.
+(<4CC	.
+=169	=169
+4DD)	.
+[4D/	.
+4D/`<]	.
+(>4d	.
+=170	=170
+4G)	.
+4r	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+!	!LO:DY:rj
+(>2F^<	pp
+=171	=171
+4BB-)	.
+4r	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+(>2F^<	.
+=172	=172
+4BB-)	.
+4r	.
+(<2AA	.
+!!LO:LB:g=original
+=173	=173
+4GG)	.
+4r	.
+(<2GG#X	.
+=174	=174
+4AA)	.
+2.AA	.
+=175	=175
+(<1AA	.
+=176	=176
+4D/)	.
+4r	.
+2r	.
+=177	=177
+4C#X	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2c#^<	.
+8d	.
+8r	.
+=178	=178
+4GG	.
+4r	.
+2r	.
+=179	=179
+4AA	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2A^<	.
+(<4AA	.
+=180	=180
+4D/)	.
+8r	.
+(>8D	.
+8GL	<
+8A	.
+8B-	.
+8BnJ	[[
+=181	=181
+4c)	.
+8r	.
+(>8C	.
+8FL	<
+8G	.
+8G#X	.
+8AJ	[[
+=182	=182
+4B-)	.
+8r	.
+(>8BB-	.
+8EnL	.
+8F	.
+8G	.
+!LO:TX:t=P:problem:łuk kończy się na kresce taktowej	!
+8GGJ)	.
+!!LO:LB:g=original
+=183	=183
+4AA`<	.
+4BB-`<	.
+4GG`<	.
+(<4AA	.
+=184	=184
+4DD)	.
+8r	.
+8DD	.
+(</16GGLL	.
+16D	.
+16B-	.
+16DJJ)	.
+(</16GGLL	.
+16D	.
+16Bn	.
+16DJJ)	.
+=185	=185
+(<16C/LL	.
+16G	.
+16enJJ)	.
+16rE	.
+8r	.
+8CC	.
+(<16FFLL	.
+16C	.
+16A	.
+16CJJ)	.
+(<16FFLL	.
+16C	.
+16A	.
+16CJJ)	.
+=186	=186
+!LO:TX:t=P:mixed beam:problem	!
+(>16BB-/LL	.
+16D/	.
+16d\	.
+16c\JJ	.
+16B-LL	.
+16A	.
+16G	.
+16B-JJ	.
+16ALL	.
+16G	.
+16F	.
+16EnJJ	.
+8D	.
+8GG#X/)	.
+=187	=187
+1AA^<	.
+=188	=188
+!	!LO:DY:rj
+(>4D	p<
+.	.
+4F	.
+4G	.
+4A	[
+!!LO:LB:g=original
+=189	=189
+!LO:TX:t=P:łuk kończy się nad nutą:problem	!
+4D/)	.
+!	!LO:HP:a
+(<4FF	<
+.	.
+4GG	.
+4AA	.
+=190	=190
+4BBn	.
+4C#X	.
+4D/	.
+4BB-X)	[
+=191	=191
+(<4GG	.
+4GG#X	.
+4AA)	.
+(>4A	.
+=192	=192
+8.DL)	.
+16EnJk	.
+(>4F	.
+4G	.
+4A	.
+=193	=193
+4D)	.
+(4FF	.
+4GG	.
+4AA	<
+=194	=194
+4BBn	.
+.	.
+4C#X	.
+.	[
+8DL	.
+8Cn	.
+8BB-X	.
+8AAJ)	.
+=195	=195
+4GG	.
+(<4GG#X	.
+4AA)	.
+(>4A	.
+=196	=196
+4B-	<
+4d	[
+4e-	>
+8cL	]
+8AJ	.
+=197	=197
+!LO:TX:B:i:t=Dolce.	!
+4F)	.
+!	!LO:HP:a
+4B-	<
+4F	.
+4c	[
+!!LO:LB:g=original
+=198	=198
+4F	>
+4d	.
+4e-	]
+8cL	.
+8AJ	.
+=199	=199
+(>4F	.
+4B-	.
+4F	.
+4c	.
+=200	=200
+4d)	.
+(>4B-	.
+4D	.
+4G	.
+=201	=201
+4F	.
+4F#X	.
+4G	.
+4AA/)	.
+.	<
+=202	=202
+4D/	.
+2D^</	[
+(>4G#X	.
+=203	=203
+4A)	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2B-	.
+(<4C	.
+=204	=204
+4F)	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2F^<	.
+(>4F	.
+=205	=205
+4En)	.
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2A^<	.
+(<4AA	.
+=206	=206
+4D/)	.
+2G	.
+(<4GG	.
+=207	=207
+4C)	.
+(>4F	.
+4C)	.
+4En	.
+=208	=208
+[>1E-X	ff
+=209	=209
+1E-]	.
+=210	=210
+1D	.
+=211	=211
+(<1D-X	.
+!!LO:LB:g=original
+=212	=212
+2C#X)	.
+2r	.
+=213	=213
+.	.
+!LO:TX:a:B:t=1	!
+1r	.
+=214	=214
+8D	.
+4d^<	.
+(>8f#X	.
+8g)	.
+4d^<	.
+(>8f#	.
+=215	=215
+8g)	.
+4d^<	.
+8f#X	.
+(>8gL	>
+8e-X	.
+8d	.
+8cJ)	]
+=216	=216
+8d`>	.
+8r	.
+4r	.
+2r	.
+=217	=217
+.	.
+!LO:TX:a:B:t=1	!
+1r	.
+=218	=218
+!LO:TX:a:i:B:t=Più mosso.	!
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(</12GGL	f
+12D	.
+12B-J)	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(</12B-L	.
+12D	.
+12GGJ)	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(</12GGL	.
+12D	.
+12B-J)	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(</12B-L	.
+12D	.
+12GGJ)	.
+=219	=219
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(</12GGL	.
+12D	.
+12B-J)	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(</12B-L	.
+12D	.
+12GGJ)	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(</12GGL	.
+12D	.
+12B-J)	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(</12B-L	.
+12D	.
+12GGJ)	.
+=220	=220
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(</12DDL	.
+12C	.
+12F#XJ)	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(</12F#L	.
+12C	.
+12DDJ)	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(</12DDL	.
+12C	.
+12F#J)	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(</12F#L	.
+12C	.
+12DDJ)	.
+!!LO:LB:g=original
+=221	=221
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(<12DDL>	.
+12C	.
+12F#XJ)	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!
+(<12F#L>	.
+12C	.
+12DDJ)	.
+*Xtuplet	*
+(<12DDL>	.
+12C	.
+12F#J)	.
+(<12F#L>	.
+12C	.
+12DDJ)	.
+=222	=222
+(<12GGL>	p
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+(<12GGL>	.
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+=223	=223
+(<12GGL>	.
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+(<12GGL>	.
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+=224	=224
+(<12DDL>	.
+12C	.
+12F#XJ)	.
+(<12F#L>	.
+12C	.
+12DDJ)	.
+(<12DDL>	.
+12C	.
+12F#J)	.
+(<12F#L>	.
+12C	.
+12DDJ)	.
+=225	=225
+(<12DDL>	.
+12C	.
+12F#XJ)	.
+(<12F#L>	.
+12C	.
+12DDJ)	.
+(<12DDL>	.
+12C	.
+12F#J)	.
+(<12F#L>	.
+12C	.
+12DDJ)	.
+=226	=226
+(<12GGL>	.
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+(<12GGL>	.
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+!!LO:LB:g=original
+=227	=227
+(<12GGL>	.
+12D	.
+12BnJ)	.
+(<12BL>	.
+12D	.
+12GGJ)	.
+(<12GGL>	.
+12D	.
+12BJ)	.
+(<12BL>	.
+12D	.
+12GGJ)	.
+=228	=228
+(>12GG 12CCL/	.
+12E-\	.
+12cJ\)	.
+(>12cL	.
+12E-	.
+12GGJ)	.
+(>12GG 12CCL/	.
+12E-\	.
+12cJ\)	.
+(>12cL	.
+12E-	.
+12GGJ)	.
+=229	=229
+(>12GG 12CCL/	.
+12E-\	.
+12cJ\)	.
+!LO:TX:t=P:mixed beam:problem	!
+(>12cL\	.
+12E-\	.
+12CCJ/)	.
+(</12DDL>	.
+12AA	.
+12F#XJ)	.
+(<12F#L>	.
+12AA	.
+12DDJ)	.
+=230	=230
+(<12GGL>	f
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+(<12GGL>	.
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+=231	=231
+(<12GGL>	.
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+(<12GGL>	.
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+=232	=232
+(<12DDL>	.
+12C	.
+12F#XJ)	.
+(<12F#L>	.
+12C	.
+12DDJ)	.
+(<12DDL>	.
+12C	.
+12F#J)	.
+(<12F#L>	.
+12C	.
+12DDJ)	.
+!!LO:LB:g=original
+=233	=233
+(<12DDL>	.
+12C	.
+12F#XJ)	.
+(<12F#L>	.
+12C	.
+12DDJ)	.
+(<12DDL>	.
+12C	.
+12F#J)	.
+(<12F#L>	.
+12C	.
+12DDJ)	.
+=234	=234
+(<12GGL>	.
+12D	pp
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+(<12GGL>	.
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+=235	=235
+(<12GGL>	.
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+(<12GGL>	.
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+=236	=236
+(<12DDL>	.
+12C	.
+12F#XJ)	.
+(<12F#L>	.
+12C	.
+12DDJ)	.
+(<12DDL>	.
+12C	.
+12F#J)	.
+(<12F#L>	.
+12C	.
+12DDJ)	.
+=237	=237
+(<12DDL>	.
+12C	.
+12F#XJ)	.
+(<12F#L>	.
+12C	.
+12DDJ)	.
+(<12DDL>	.
+12C	.
+12F#J)	.
+(<12F#L>	.
+12C	.
+12DDJ)	.
+=238	=238
+(<12GGL>	.
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	<
+(<12GGL>	.
+12D	.
+12B-J)	.
+(<12B-L>	.
+12D	.
+12GGJ)	.
+!!LO:LB:g=original
+=239	=239
+(</12GGL	.
+12D	.
+12BnJ)	.
+(</12BL	.
+12D	.
+12GGJ)	.
+(</12GGL	.
+12D	.
+12BJ)	.
+(</12BL	.
+12D	.
+12GGJ)	.
+=240	=240
+4c/ 4E-/ 4GG/ 4CC/	.
+4r	.
+2r	.
+=241	=241
+!LO:TX:a:B:t=Pizz.	!
+!LO:TX:B:t=Rit&colon;.:dur=4w3q:ext=ut:problem:text with extention lines	!
+4DD`<	.
+4D/`<	.
+4D/`<	.
+4r	.
+=242	=242
+!LO:TX:B:t=Arco.	!
+!	!LO:DY:rj
+2B-/ 2D/ 2GG/	f
+2BB-/ 2GG/	.
+=243	=243
+4D`< 4GG`<	.
+4D`< 4GG`<	.
+2r	.
+=244	=244
+!LO:TX:t=P:problem:główki półnut w drugą stronę	!
+(>2B-	pp
+2F#X	.
+=245	=245
+!LO:TX:t=P:problem:główka w drugą stronę	!
+2.G)	.
+4r	.
+!LO:TX:B:t=Con Fuoco.	!
+.	.
+=246	=246
+*	*^
+!LO:TX:t=P:Cres. na górze:problem	!	!LO:HP:a
+[>1D [1GG	.	<
+.	<	.
+=247	=247	=247
+1D_> 1GG_	[	.
+*	*v	*v
+=248	=248
+2.D] 2.GG]	ff
+4D/`<	.
+=249	=249
+4GG	.
+4r	.
+2r	.
+==	==
+*-	*-
+!!!system-decoration: s1,s2{(s3,s4)}
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: > = "dim."
+!!!RDF**dynam: < = "Cres.", fontstyle="italic"
+!!!RDF**kern: i = editorial accidental
+!!!ENC: Mateusz Mrugas
+!!!END: 2019-10-24
+!!!EED: Jędrzej Mróz
+!!!EST: revision finished 2019-10-27
+!!!rism-genre: Trio
+!!!rism-key: G minor
+!!!rism-opus: op. 8
+!!!rism-title: Trio in G minor op. 8
+!!!rism-permalink: https://opac.rism.info/search?id=300605222&View=rism

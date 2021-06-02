@@ -1,0 +1,694 @@
+!!!!SEGMENT: 006-1b-Sm-003.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Mazourka No. 3.
+!!!OPS: Op. 6
+!!!PTL: Cinq Mazurkas
+!!!PPR: M. Schlesinger
+!!!PPP: Paris
+!!!NIFC-rismID: M/174
+!!!NIFC-shelfmark: PL-Wmfc M/174
+!!!OMD: Vivace.
+!!!OMD: Metr: M: [half] = 60.
+!!!SIC: Augmentation dot missing in tempo 
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*>[A,B,B,C]	*>[]	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*E:	*E:	*
+*M3/4	*M3/4	*
+*MM180	*MM180	*
+=1-	=1-	=1-
+*>A	*>A	*
+4B' 4E	2.r	p
+4B' 4E	.	.
+4B^ 4E	.	.
+=2	=2	=2
+4B' 4E	2.r	.
+4B' 4E	.	.
+4B^ 4E	.	.
+=3	=3	=3
+4B' 4E	2.r	.
+4B^ 4E	.	.
+4B' 4E	.	.
+=4	=4	=4
+4B^ 4E	2.r	.
+4B' 4E	.	.
+4B^ 4E	.	.
+*	*clefF4	*
+=5	=5	=5
+4B' 4E	(<8C#'L	.
+.	8BB'J	.
+4B' 4E	4AA'	.
+4B^ 4E	4GG#')	.
+=6	=6	=6
+.	(<16qGG#/LL	.
+.	16qFF#/JJ	.
+4B' 4E	2.EE^>)	.
+4B' 4E	.	.
+4B^ 4E	.	.
+!!LO:LB:g=original
+=7	=7	=7
+*	*clefF4	*
+4B' 4E	8C#`L	.
+.	16r	.
+.	(<16BB'Jk	.
+4B' 4E	4AA'	.
+4B^ 4E	4GG#')	.
+=8	=8	=8
+.	16qGG#/LL	.
+.	16qFF#/JJ	.
+4B' 4E	2EE^>	.
+4B' 4E	.	.
+4r	4B 4E	.
+*	*clefG2	*
+=9	=9	=9
+*ped	*	*
+.	.	.
+4EE`	8B`L 8G#	f
+.	16r	.
+.	(<16eJk 16B	.
+4B 4E	4g# 4e)	.
+4B^ 4E	4b^> 4g#	.
+=10	=10	=10
+4B 4E	8ee\`L 8b\	<
+.	16r	.
+.	(>16g#\Jk 16e\	.
+4B 4E	4b\ 4g#\)	.
+*Xped	*	*
+4e^ 4B 4G# 4E	4ee^ 4b	.
+=11	=11	=11
+*	*^	*
+(>4d#' 4B 4A 4E	(>12ff#L	4dd#	.
+.	12gg#	.	.
+.	12ff#J)	.	.
+4d#' 4B 4A 4E	2ryy	8ee#X`>L 8cc##X	.
+.	.	(>8ff# 8dd#	<
+4d#' 4B 4A 4E	.	8gg# 8ee#	.
+.	.	8aaJ 8ff#)	[
+*	*v	*v	*
+!!LO:LB:g=original
+=12	=12	=12
+4e' 4B 4G# 4E	8ccc#`L 8aa	[
+.	16r	.
+.	(16bbJk 16gg#	.
+4e' 4B 4G# 4E	2gg#^< 2ee)	.
+4e') 4B 4G# 4E	.	.
+=13	=13	=13
+*	*^	*
+(>4d#' 4B 4A 4E	(12ff#L	4dd#	.
+.	12gg#	.	.
+.	12ff#J)	.	.
+4d#' 4B 4A 4E	2ryy	8ee#X`>L 8cc##X	.
+.	.	(>8ff# 8dd#	<
+4d#' 4B 4A 4E	.	8gg# 8ee#	.
+.	.	8aaJ 8ff#)	[
+*	*v	*v	*
+=14	=14	=14
+4e' 4B 4G# 4E	8ccc#`L 8aa	[
+.	16r	.
+.	(16bbJk 16gg#	.
+4e' 4B 4G# 4E	2gg#^< 2ee)	.
+4e') 4B 4G# 4E	.	.
+=15	=15	=15
+*ped	*	*
+.	.	.
+4FF#	8ff#`L 8dd#	.
+.	16r	.
+.	(16eeJk 16cc#	.
+4e 4A#X 4F#	(2cc#^<\ 2f#\)	.
+*Xped	*	*
+4e 4A# 4F#	.	.
+=16	=16	=16
+*	*^	*
+*ped	*	*	*
+.	.	.	.
+4BBB	8.ryy	8dd#`L 8b)	.
+.	.	16r	.
+.	2b^	16f#Jk	.
+4F# 4BB	.	2B	.
+4F# 4BB	.	.	.
+*Xped	*	*	*
+.	16r	.	.
+*	*v	*v	*
+*	*clefF4	*
+!!LO:LB:g=original
+=17	=17	=17
+4F# 4BB	(<8GG#'L	p
+.	8FF#'J	.
+4F# 4BB	4EE'	.
+4F#^ 4BB	4DD#')	.
+=18	=18	=18
+.	(16qDD#/LL	.
+.	16qCC#/JJ	.
+4F# 4BB	()<2.BBB^>	.
+4F# 4BB	.	.
+4F#^ 4BB	.	.
+=19	=19	=19
+4F# 4BB	8GG#L)	.
+.	16r	.
+.	(<16FF#'Jk	.
+4F# 4BB	4EE'	.
+4F#^ 4BB	4DD#')	.
+=20	=20	=20
+.	(16qDD#/LL	.
+.	16qCC#/JJ	.
+4F# 4BB	2BBB^>)	.
+4F# 4BB	.	.
+4F#^ 4BB	4r	.
+*	*clefG2	*
+=21	=21	=21
+4EE\	(8B<L 8G#<	f
+.	16r<	.
+.	16eJk 16B<)	.
+4B 4E	4g# 4e	.
+4B^ 4E	4b^> 4g#	.
+=22	=22	=22
+4B 4E	8ee`L 8b	<
+.	16r	.
+.	(16g#Jk 16e	.
+4B 4E	4b 4g#)	.
+4e 4B 4G# 4E	4ee^ 4b	.
+!!LO:LB:g=original
+=23	=23	=23
+*	*^	*
+4d# 4B 4A 4E	(12ff#L	4dd#	.
+.	12gg#	.	.
+.	12ff#J)	.	.
+4d# 4B 4A 4E	2ryy	8ee#X`>L 8cc##X	<
+.	.	(>8ff# 8dd#	.
+4d# 4B 4A 4E	.	8gg# 8ee#	.
+.	.	8aaJ 8ff#)	[
+*	*v	*v	*
+=24	=24	=24
+4e 4B 4G# 4E	8ccc#`L 8aa	.
+.	16r	.
+.	(16bbJk 16gg#	.
+4e 4B 4G# 4E	2gg#^< 2ee)	.
+4e 4B 4G# 4E	.	.
+=25	=25	=25
+*	*^	*
+4d# 4B 4A 4E	(>12ff#L	4dd#	.
+.	12gg#	.	.
+.	12ff#J)	.	.
+4d# 4B 4A 4E	2ryy	8ee#X`>L 8cc##X	.
+.	.	(>8ff# 8dd#	.
+4d# 4B 4A 4E	.	8gg# 8ee#	.
+.	.	8aaJ 8ff#)	.
+*	*v	*v	*
+=26	=26	=26
+4e 4B 4G# 4E	8ccc#'L 8aa'	.
+.	16r	.
+.	(16bbJk 16gg#	.
+4e 4B 4G# 4E	2gg#^< 2ee)	.
+4e 4B 4G# 4E	.	.
+=27	=27	=27
+*ped	*	*
+4FF#	8ff#L 8dd#	.
+.	16r	.
+.	(>16eeJk 16cc#	.
+4e^ 4A#X 4F#	2cc#^\ 2f#\)	.
+4e 4A# 4F#	.	.
+!!LO:LB:g=original
+=28	=28	=28
+*	*^	*
+*ped	*	*	*
+4BBB	8.ryy	8dd#`L 8b	.
+.	.	16r	.
+.	2b^	16f#Jk	.
+4F# 4BB	.	2B^	.
+4F# 4BB	.	.	.
+.	16r	.	.
+*	*v	*v	*
+*	*clefF4	*
+=29	=29	=29
+4F# 4BB	(<8GG#'L	.
+.	8FF#'J	.
+4F# 4BB	4EE'	.
+4F#^ 4BB	4DD#')	.
+=30	=30	=30
+.	16qDD#/LL	.
+.	16qCC#/JJ	.
+4F# 4BB	(<2.BBB^>	.
+4F# 4BB	.	.
+4F#^ 4BB	.	.
+=31	=31	=31
+4F# 4BB	8GG#L)	.
+.	16r	.
+.	(<16FF#Jk	.
+4F# 4BB	4EE	.
+4F#^ 4BB	4DD#)	.
+=32	=32	=32
+.	16qDD#/LL	.
+.	16qCC#/JJ	.
+4F# 4BB	2BBB^>	.
+4F# 4BB	.	.
+4F#^ 4BB	4r	.
+*	*clefG2	*
+!!LO:PB:g=original
+=33!|:	=33!|:	=33!|:
+*>B	*>B	*
+*ped	*	*
+4BB 4BBB	8.ff#`L 8.dd# 8.b 8.f#	ff
+.	16ff#`Jk 16dd# 16b	.
+4f# 4B	4ff#^ 4ddn 4b	.
+*Xped	*	*
+4r	4r	.
+=34	=34	=34
+*ped	*	*
+4F# 4FF#	8aaL 8cc# 8a	.
+.	16r	.
+.	(>16aaJk 16cc#	.
+4f# 4c# 4F#	(>)>4aa^< 4cc#	.
+4r	8gg#L 8b	.
+*Xped	*	*
+.	8ff#J 8a	.
+=35	=35	=35
+4C# 4CC#	8.eeL) 8.g#	p
+.	16dd#Jk 16f#	.
+(>4c#' 4G# 4C#	(>4cc#\ 4e\	.
+4c# 4G# 4C#	4ee 4g#)	.
+=36	=36	=36
+4c# 4G# 4C#	8.eeL 8.g#	.
+.	16dd#Jk 16f#	.
+4c# 4G# 4C#	4cc#\ 4e\	.
+4c#) 4G# 4C#	4ee 4g#	.
+=37	=37	=37
+*ped	*	*
+4F# 4FF#	8.ff#'L 8.cc# 8.a 8.f#	ff
+.	16ff#Jk 16cc# 16a	.
+4f# 4c# 4F#	4ff#^ 4cc# 4a	.
+4r	4r	.
+!!LO:LB:g=original
+=38	=38	=38
+*	*^	*
+*	*	*^	*
+*ped	*	*	*	*
+4BB 4BBB	2ryy	8aa`>L 8cc#	2ryy	.
+.	.	16r	.	.
+.	.	(>16aaJk 16cc#	.	.
+4d#' 4B 4F#	.	4aa 4cc#	.	.
+4BB	4dd#\	8gg#/L	8b\L	.
+*Xped	*	*	*	*
+.	.	8ff#J)	8a\J	.
+*	*v	*v	*v	*
+=39	=39	=39
+4E 4EE	8ee\L 8g#\	p
+.	16r	.
+.	(16cc#Jk 16a	.
+4B 4E	4b'\ 4g#\	.
+4B 4E	4ee^<'\) 4e\	.
+=40	=40	=40
+4B 4E	8ee\`L 8e\	.
+.	16r	.
+.	(>16cc#Jk 16a	.
+4B 4E	4b\ 4g#\	.
+4B 4E	4ee^<\) 4e\	.
+=41:|!	=41:|!	=41:|!
+*>C	*>C	*
+*	*^	*
+.	.	8qb/	p
+4d# 4B 4A 4E	4.ryy	8bbL	.
+.	.	16r	.
+.	.	(16aa#Xk	.
+4d# 4B 4A 4E	.	8aan	.
+.	4.b	8b	>
+4d# 4B 4A 4E	.	8gg#	.
+.	.	8ff#J	]
+=42	=42	=42	=42
+4e 4B 4G# 4E	8ryy	8eeL	<
+!	!	!LO:N:vis=2	!
+.	2b	8b	.
+4e 4B 4G# 4E	.	8gg#'>	.
+.	.	8aa#X'>J	[
+4e 4B 4G# 4E	.	([>4bb	.
+.	8ryy	.	.
+!!LO:LB:g=original
+=43	=43	=43	=43
+4d# 4B 4A 4E	4.ryy	8bbL] 8b))	>
+.	.	(>8aa#X	]
+4d# 4B 4A 4E	.	8aan	.
+.	4.b	8b	>
+4d# 4B 4A 4E	.	8gg#	]
+.	.	8ff#J)	.
+=44	=44	=44	=44
+4e 4B 4G# 4E	8ryy	(>8eeL	.
+.	4b	8b	.
+4e 4B 4G# 4E	.	8dd#	.
+.	4.ryy	8cc#MJ	.
+4e 4B 4G# 4E	.	(>4b)	.
+=45	=45	=45	=45
+4d# 4B 4A 4E	4.ryy	8bb'>L)	.
+.	.	16r	.
+.	.	(16aa#Xk	.
+4d# 4B 4A 4E	.	8aan	>
+.	4.b	8b	.
+4d# 4B 4A 4E	.	8gg#	.
+.	.	8ff#J	]
+*	*v	*v	*
+=46	=46	=46
+4e 4B 4G# 4E	8eeL)	.
+.	(8b	<
+*clefG2	*	*
+(>\8g#L	8gg#	<
+8a#XJ	8aa#XJ)	.
+[>4b\)	([4bb	[ f
+=47	=47	=47
+8b\L]	8bbL]	.
+(8a#X	8aa#X	.
+8f#	8ff#	.
+8an	8aan	.
+8g#	8gg#	.
+8eJ	8eeJ	.
+!!LO:LB:g=original
+=48	=48	=48
+!	!LO:TX:b:B:t=stretto. 	!
+8f#\L	8ff#L	.
+8d#	8dd#	.
+8e	8ee	>
+8c#	8cc#	.
+8e	8ee	.
+8cnJ	8ccnJ)	.
+=49	=49	=49
+!	!LO:TX:a:B:t=risvegliato.	!
+8B\)	(>\8.bL	.
+8r	.	.
+.	16g#Jk	.
+*clefF4	*	*
+(4dn 4B 4E	4e\	.
+4d 4B 4E	8f#\L	.
+.	8g#J	.
+=50	=50	=50
+*	*	*^
+4c# 4A	8aL	<	.
+.	8cc#J	.	.
+!	!	!	!
+.	.	.	.
+!	!	!	!LO:HP:b=2
+4e 4B 4G#)	4.ee	[	<
+(>4e 4B 4Gn	.	.	.
+.	8ee#X)	.	[
+*	*	*v	*v
+=51	=51	=51
+4e 4c# 4F#	(8ff#^L	[
+.	8a#J)	.
+4dn 4B)	4b	.
+(4d 4B 4Fn	(8cc#L	.
+.	8ddnJ)	.
+=52	=52	=52
+4dn 4B 4E	(8ee^L	.
+.	8g#J)	.
+4c# 4A)	4a\	.
+4A 4AA	(>8bL	.
+.	8cc#J)	.
+!!LO:LB:g=original
+=53	=53	=53
+>4E 4EE	(>8.bM\L	.
+.	16g#Jk	.
+4dn 4B 4E	4e\	.
+4d (>4B 4E	8f#\L	.
+.	8g#J	.
+=54	=54	=54
+*	*	*^
+!	!	!	!LO:HP:b=2
+4c# 4A	8aL	<	<
+.	8cc#J	[	.
+4e 4B 4G#	4.ee	.	.
+4e 4B 4Gn	.	.	[
+.	8ee#X)	.	.
+*	*	*v	*v
+=55	=55	=55
+4e 4c# 4F#	(>8ff#^<L	[
+.	8a#XJ)	.
+4dn 4B)	4b	.
+(>4d 4B 4E	(>\8cc#^>L	.
+.	8g#J)	.
+=56	=56	=56
+4c# 4A)	(4a\	.
+4A' 4AA	4aa)	.
+4AA' 4AAA	8r	.
+.	(<8a#X	.
+=57	=57	=57
+4E 4EE	8.bL	p
+.	16g#Jk	.
+4dn 4B 4E	4e)	.
+4d 4B 4E	(<8f#L	<
+.	8g#J	.
+=58	=58	=58
+4c# 4A	8a/L	.
+.	8cc#J)	[
+4e 4B 4G#	4.ee	.
+4e 4B 4Gn	.	.
+.	8ee#X	.
+!!LO:LB:g=original
+=59	=59	=59
+(4e 4c# 4F#	(>8ff#L	.
+.	8a#XJ)	.
+4d# 4A 4F#	4b	.
+4dn 4A 4Fn	(>8cc#L	.
+.	8ddnJ	.
+=60	=60	=60
+4dn 4B 4E	8eeL	.
+.	8g#J)	.
+4c# 4Gn 4E	4a\`	.
+4c# 4G 4E-X	(>8b\L	.
+.	8cc#J	.
+=61	=61	=61
+4dn 4F# 4Dn	8bM\L)	.
+.	16r	.
+.	16g#Jk	.
+4B 4G# 4D	(>4e\	.
+4B 4E 4D	8f#\L	.
+.	8g#J	.
+=62	=62	=62
+4c# 4E 4C#	8aL	<
+.	8cc#J	.
+4A 4E 4C#	4.ee)	[
+4A 4E 4Cn	.	.
+.	(>8ee#X	.
+=63	=63	=63
+4A 4D# 4BB)	8ff#L	.
+*ped	*	*
+.	8a#XJ)	.
+4EE	4b	.
+4dn 4B 4E	(>\8cc#L	.
+.	8g#J)	.
+*Xped	*	*
+=64	=64	=64
+4c# 4A	(4a\	.
+4e 4A	4aa)	.
+4e 4A	4r	.
+*	*clefF4	*
+!!LO:PB:g=original
+=65	=65	=65
+4e 4A	(</8F#'L	p
+.	8E'J	.
+4e 4A	4Dn'/	.
+4e^< 4A	4C#'/)	.
+=66	=66	=66
+.	(16qC#/LL	.
+.	16qBB/JJ	.
+4e 4A	2.AA^>)	.
+4e 4A	.	.
+4e^< 4A	.	.
+=67	=67	=67
+4e 4A	(<8F#'/L	.
+.	16r	.
+.	16E'Jk	.
+4e 4A	4Dn'/	.
+4e^< 4A	4C#'/	.
+=68	=68	=68
+*	*^	*
+.	(<16qC#/LL	.	.
+.	16qBB/JJ	.	.
+4e 4A	2AA))	4ryy	.
+*	*clefG2	*	*
+!	!LO:TX:a:t=P:za dużo kluczy:problem	!	!
+4e 4A	.	4r	.
+4r	4e^> 4A	4ryy	.
+*	*v	*v	*
+=69	=69	=69
+*ped	*	*
+.	.	.
+4EE\	8B<L 8G#<	f
+.	16r	.
+.	(<16eJk 16B	.
+4B 4E	4g#` 4e)	.
+4B 4E	4b^ 4g#	.
+!!LO:LB:g=original
+=70	=70	=70
+4B 4E	8ee\`L 8b\	<
+.	16r	.
+.	(16g#Jk 16e	.
+4B 4E	4b\ 4g#\)	.
+*Xped	*	*
+4e 4B 4G# 4E	4ee^ 4b	.
+=71	=71	=71
+*	*^	*
+4d# 4B 4A 4E	(12ff#L	4dd#	.
+.	12gg#	.	.
+.	12ff#J)	.	.
+4d# 4B 4A 4E	2ryy	8ee#XL 8cc##X	.
+.	.	.	<
+.	.	(>8ff# 8dd#	.
+4d# 4B 4A 4E	.	8gg# 8ee#	.
+.	.	8aaJ 8ff#	[
+*	*v	*v	*
+=72	=72	=72
+4e 4B 4G# 4E	8ccc#L 8aa)	.
+.	16r	.
+.	(>16bbJk 16gg#	.
+4e 4B 4G# 4E	2gg#^<) 2ee	.
+4e 4B 4G# 4E	.	.
+=73	=73	=73
+*	*^	*
+4d# 4B 4A 4E	(>12ff#L	4dd#	.
+.	12gg#	.	.
+.	12ff#J)	.	.
+4d# 4B 4A 4E	2ryy	8ee#X`>L 8cc##X	.
+.	.	(>8ff# 8dd#	<
+4d# 4B 4A 4E	.	8gg# 8ee#	.
+.	.	8aaJ 8ff#)	[
+*	*v	*v	*
+=74	=74	=74
+4e 4B 4G# 4E	8ccc#L 8aa	.
+.	16r	.
+.	(>16bbJk 16gg#	.
+4e 4B 4G# 4E	2gg#^<) 2ee	.
+4e 4B 4G# 4E	.	.
+!!LO:LB:g=original
+=75	=75	=75
+*ped	*	*
+4FF#	8ff#`L 8dd#	.
+.	16r	.
+.	(>16eeJk 16cc#	.
+4e 4A#X 4F#	2cc#^\) 2f#\	.
+*Xped	*	*
+4e 4A# 4F#	.	.
+=76	=76	=76
+*	*^	*
+*ped	*	*	*
+.	.	.	.
+4BBB	8.ryy	8dd#`L 8b	.
+.	.	16r	.
+.	(>2b^	16f#Jk	.
+4F# 4BB	.	2B)	.
+*Xped	*	*	*
+4F#^ 4BB	.	.	.
+.	16r	.	.
+*	*v	*v	*
+*	*clefF4	*
+=77	=77	=77
+4F# 4BB	(<8GG#'L	p
+.	8FF#'J	.
+4F# 4BB	4EE'	.
+4F#^ 4BB	4DD#'	.
+=78	=78	=78
+.	16qDD#/LL	.
+.	16qCC#/JJ	.
+4F# 4BB	(<)<2.BBB	.
+4F# 4BB	.	.
+4F#^ 4BB	.	.
+=79	=79	=79
+4F# 4BB	(<8GG#'L)	.
+.	16r	.
+.	16FF#'Jk	.
+4F# 4BB	4EE'	.
+4F#^ 4BB	4DD#'	.
+!!LO:LB:g=original
+=80	=80	=80
+.	16qDD#/LL	.
+.	16qCC#/JJ	.
+4F# 4BB	2BBB)	.
+4F# 4BB	.	.
+4F#^ 4BB	4r	.
+*	*clefG2	*
+=81	=81	=81
+4EE'\	8B<L 8G#<	f
+.	16r	.
+.	16eJk 16B	.
+4B 4E	4g# 4e	.
+4B^ 4E	4b^ 4g#	.
+=82	=82	=82
+4B 4E	8ee\L 8b\	<
+.	16r	.
+.	(>16g#Jk 16e	.
+4B 4E	4b\ 4g#\)	.
+4B^ 4E	4ee^ 4b	.
+=83	=83	=83
+*	*^	*
+4d# 4B 4A 4E	(>12ff#L	4dd#	<
+.	12gg#	.	.
+.	12ff#J)	.	.
+4d# 4B 4A 4E	2ryy	(>8ee#X`>L 8cc##X	.
+.	.	(>8ff# 8dd#	.
+4d# 4B 4A 4E	.	8gg# 8ee#	.
+.	.	8aaJ 8ff#)	[
+*	*v	*v	*
+=84	=84	=84
+4e 4B 4G# 4E	8ccc#'L 8aa'	.
+.	16r	.
+.	(>16bbJk 16gg#	.
+4e 4B 4G# 4E	2gg#^< 2ee)	.
+4e 4B 4G# 4E	.	.
+!!LO:LB:g=original
+=85	=85	=85
+*	*^	*
+4d# 4B 4A 4E	(>12ff#L	4dd#	.
+.	12gg#	.	.
+.	12ff#J)	.	.
+4d# 4B 4A 4E	2ryy	>8ee#X`>L 8cc##X	<
+.	.	(>8ff# 8dd#	.
+4d# 4B 4A 4E	.	8gg# 8ee#	.
+.	.	8aaJ 8ff#)	[
+*	*v	*v	*
+=86	=86	=86
+4e 4B 4G# 4E	8ccc#L 8aa	.
+.	16r	.
+.	(>16bbJk 16gg#	.
+4e 4B 4G# 4E	2gg#^< 2ee)	.
+4e 4B 4G# 4E	.	.
+=87	=87	=87
+4e 4A	(>8ff#'L 8cc#	p
+.	8ff#'J 8ccn	.
+4d# 4B	4ff#') 4b	<
+4d# 4B	(>4gg# 4a	[
+=88	=88	=88
+4e 4B 4E	(>)>2ee 2g#	.
+4e 4B 4E	.	.
+4e 4G#	4eee') 4ee'	.
+=89	=89	=89
+*	*^	*
+4e 4A	2ryy	(>8ff#'^<L 8cc#	.
+.	.	8ff#'J 8cc#	.
+4e 4A	.	4ff# 4ccn^<)	.
+4d# 4A	4gg#	8bL 8gg#	.
+.	.	8aJ	.
+*	*v	*v	*
+=90	=90	=90
+*	*ped	*
+(4e 4B 4E	(>4ee 4g#	pp
+4E 4EE)	4eee) 4ee	.
+!LO:TX:b:B:t=Fine.	!	!
+4r	4r	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cres.",fontstyle="normal"
+!!!RDF**dynam: > = "dim.",fontstyle="normal"
+!!!ENC:Jacek Iwaszko
+!!!END:2017-08-29
+!!!EED: Mateusz Mrugas
+!!!EST: revision finished 2018-11-27
+!!!EED2: Leszek Kubiak
+!!!EST: revision finished 2018-12-06
+!!!rism-genre: Mazurka
+!!!rism-key: E major
+!!!rism-opus: op. 6, no 3
+!!!rism-title: Mazurka in E major op. 6, no 3
+!!!rism-permalink: 
+!!!rism-773a-OPR: 
+!!!rism-parent-permalink: 

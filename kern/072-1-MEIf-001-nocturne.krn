@@ -1,0 +1,1091 @@
+!!!!SEGMENT: 072-1-MEIf-001-nocturne.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Nocturne.
+!!!OPS: Op. 72
+!!!PTL: Œuvres Posthumes pour Piano de Fréd. Chopin [...] Nocturne, Marche Funèbre et Trois Écossaises. Œuvres posthumes. 7e. Livraison.
+!!!PPR: J. Meissonnier Fils
+!!!PPP: Paris
+!!!NIFC-rismID: 1001007926
+!!!NIFC-shelfmark: PL-Wbfc 4764/n
+!!!OMD: Andante.
+!!!OMD: [quarter] = 69
+!!!system-decoration: {(s1,s2)}
+**kern	**fing	**kern	**fing	**dynam
+*part1	*part1	*part1	*part1	*part1
+*staff2	*	*staff1	*	*
+*	*	*I"PIANO.	*	*
+*clefF4	*	*clefG2	*	*
+*k[f#]	*	*k[f#]	*	*
+*e:	*	*e:	*	*
+*M4/4	*	*M4/4	*	*
+*met(c)	*	*met(c)	*	*
+*MM69	*	*MM69	*	*
+=1	=1	=1	=1	=1
+*Xtuplet	*	*	*	*
+*ped	*	*	*	*
+!LO:TX:t=P:text encoded with !!!OMD is not displayed:problem	!	!	!	!
+!LO:TX:t=P:(1827) on the left side of accolade, under 'PIANO':problem	!	!	!	!
+!LO:TX:t=P:[quarter]=69 on the left side of accolade, below 'PIANO':problem	!	!	!	!
+(<12EEL	.	1r	.	p
+!LO:TX:a:i:t=molto legato.	!	!	!	!
+12BB	.	.	.	.
+12GJ)	.	.	.	.
+(>12EL	.	.	.	.
+12c	.	.	.	.
+12BJ)	.	.	.	.
+(<12EEL	.	.	.	.
+12BB	.	.	.	.
+12GJ)	.	.	.	.
+(>12EL	.	.	.	.
+12c	.	.	.	.
+*Xped	*	*	*	*
+12BJ)	.	.	.	.
+=2	=2	=2	=2	=2
+.	.	8qb/	.	p
+*ped	*	*	*	*
+12EEL	.	2.gg	.	.
+12BB	.	.	.	.
+12GJ	.	.	.	.
+12EL	.	.	.	.
+12c	.	.	.	.
+12BJ	.	.	.	.
+12EEL	.	.	.	.
+12BB	.	.	.	.
+12GJ	.	.	.	.
+12EL	.	(>8ff#L	.	.
+12c	.	.	.	.
+.	.	8eeJ)	.	.
+*Xped	*	*	*	*
+12BJ	.	.	.	.
+=3	=3	=3	=3	=3
+*ped	*	*	*	*
+12FF#L	.	[>2dd#	.	.
+12BB	.	.	.	.
+12AJ	.	.	.	.
+12F#L	.	.	.	.
+12c	.	.	.	.
+*Xped	*	*	*	*
+12BJ	.	.	.	.
+*ped	*	*	*	*
+12GGL	.	4dd#]	.	.
+12BB	.	.	.	.
+12GJ	.	.	.	.
+12EL	.	8.eeL	.	.
+12c	.	.	.	.
+*Xped	*	*	*	*
+12BJ	.	.	.	.
+.	.	16ccJk	.	.
+=4	=4	=4	=4	=4
+*ped	*	*	*	*
+12DD#XL	.	4.b/	.	.
+12BB	.	.	.	.
+12AJ	.	.	.	.
+12F#L	.	.	.	.
+12c	.	.	.	.
+*Xped	*	*	*	*
+.	.	8f#	.	>
+12BJ	.	.	.	.
+*ped	*	*	*	*
+12EEL	.	(<8ccL 8a	.	.
+12BB	.	.	.	.
+.	.	8b 8g	.	.
+12GJ	.	.	.	.
+12EL	.	8a 8f#	.	.
+12c	.	.	.	.
+.	.	8gJ 8e)	.	.
+*Xped	*	*	*	*
+12BJ	.	.	.	]
+!!LO:LB:g=original
+=5	=5	=5	=5	=5
+*ped	*	*	*	*
+12BBBL	.	4f# 4d#X	.	<
+12BB	.	.	.	.
+*Xped	*	*	*	*
+12BJ	.	.	.	[[
+*ped	*	*	*	*
+12A#XL	.	4g 4e	.	>
+12G	.	.	.	.
+*Xped	*	*	*	*
+12AA#XJ	.	.	.	.
+*ped	*	*	*	*
+(>12BBL	.	8f# 8d#	.	]
+12BBB	.	.	.	.
+.	.	8r	.	]
+12BBJ	.	.	.	.
+12D#XL	.	4r	.	.
+12F#	.	.	.	.
+*Xped	*	*	*	*
+12BJ)	.	.	.	.
+=6	=6	=6	=6	=6
+*	*	*^	*	*
+12GGL	.	4b 4dn	4ryy	.	p
+12D	.	.	.	.	.
+12BJ	.	.	.	.	.
+12GL	.	2b	4fn	.	.
+12e	.	.	.	.	.
+12dJ	.	.	.	.	.
+12FF#L	.	.	4f#X	.	<
+12F#	.	.	.	.	.
+12c#XJ	.	.	.	.	.
+12eL	.	4cc#X	4a#X	.	.
+12c#	.	.	.	.	.
+12F#J	.	.	.	.	.
+=7	=7	=7	=7	=7	=7
+*ped	*	*	*	*	*
+12BBL	.	2dd	2b	.	.
+12F#	.	.	.	.	.
+12dJ	.	.	.	.	.
+12BL	.	.	.	.	.
+12g>	.	.	.	.	.
+*Xped	*	*	*	*	*
+12f#>J	.	.	.	.	.
+*ped	*	*	*	*	*
+12e#>L	.	4dd	2b	.	.
+12d>	.	.	.	.	.
+12BJ	3	.	.	.	>
+12G#XL\	4	4dd	.	.	.
+12E#X\	1	.	.	.	.
+*Xped	*	*	*	*	*
+12EE#XJ\	.	.	.	.	.
+=8	=8	=8	=8	=8	=8
+*ped	*	*	*	*	*
+12FF#L	.	[>2cc#	2b	.	.
+12F#	1 5	.	.	.	.
+12c#XJ	3	.	.	.	.
+12e>L	.	.	.	.	.
+12gn>	.	.	.	.	.
+*Xped	*	*	*	*	*
+12f#>J	.	.	.	.	.
+*ped	*	*	*	*	*
+12e>L	.	2cc#]	2a#X	.	.
+12c#>	.	.	.	.	.
+12A#XJ	.	.	.	.	.
+12F#L	.	.	.	.	.
+12FF#	.	.	.	.	.
+*Xped	*	*	*	*	*
+12FFF#J	.	.	.	.	.
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=9	=9	=9	=9	=9
+*ped	*	*	*	*
+12BBBL	.	4b/	.	.
+12BB	.	.	.	.
+12F#J	.	.	.	.
+12AL	.	4d#X	.	<
+!LO:TX:i:t=riten.	!	!	!	!
+12c	.	.	.	.
+*Xped	*	*	*	*
+12BJ	.	.	.	.
+12GL	.	4e	.	.
+12c	.	.	.	.
+12BJ	.	.	.	.
+12F#L	.	4f#	.	.
+12c	.	.	.	[
+12BJ	.	.	.	.
+=10	=10	=10	=10	=10
+!	!	!LO:TX:t=P:'tempo.' should be above mf:problem	!	!
+!	!	!LO:TX:b:t=tempo.	!	!
+12EEL	.	2.gg 2.g	.	mf
+12BB	.	.	.	.
+12GJ	.	.	.	.
+12EL	.	.	.	.
+12c	.	.	.	.
+12BJ	.	.	.	.
+12EEL	.	.	.	.
+12BB	.	.	.	.
+12GJ	.	.	.	.
+12EL	.	(>8ff#L 8f#	.	.
+12c	.	.	.	.
+.	.	8eeJ 8e)	.	.
+12BJ	.	.	.	.
+=11	=11	=11	=11	=11
+*	*	*Xtuplet	*	*
+12FF#L\	.	[>2dd#X\ [<2d#X\	.	.
+12BB\	.	.	.	.
+12AJ\	.	.	.	.
+12F#L	.	.	.	.
+12c	.	.	.	.
+12BJ	.	.	.	<
+12GGL\	.	(>12dd#L] 12d#\]	.	.
+12BB\	.	12ee 12e\	.	.
+12GJ\	.	12ff#J 12f#\)	.	.
+12EL	.	(>12ff#L 12f#	.	.
+12c	.	12gg 12g	.	.
+12BJ	.	12aaJ 12a)	.	.
+.	.	.	.	[
+=12	=12	=12	=12	=12
+*	*	*^	*	*
+12DD#XL	.	4.bb 4.b	4ryy	.	.
+12BB	.	.	.	.	.
+12AJ	.	.	.	.	.
+12F#L	.	.	8ryy	.	.
+12c	.	.	.	.	.
+.	.	8b	8a	.	.
+12BJ	.	.	.	.	.
+12EEL	.	4b	12aL	.	.
+12BB	.	.	12g#X	.	.
+12GJ	.	.	12gnJ	.	.
+12EL	.	12bL	12gL	.	.
+12c	.	12a	12f#	.	.
+12BJ	.	12gJ	12eJ	.	.
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=13	=13	=13	=13	=13
+*ped	*	*	*	*
+12BBBL	.	4f# 4d#X	.	.
+12BB	.	.	.	.
+*Xped	*	*	*	*
+12BJ	.	.	.	.
+*ped	*	*	*	*
+12A#XL	.	[>12gL 12e	.	.
+12BB	.	12ee 12g_<	.	.
+*Xped	*	*	*	*
+12BBBJ	.	12eeJ 12g]	.	.
+*ped	*	*	*	*
+12BBL	.	2dd#X 2f#	.	.
+12BBB	.	.	.	.
+12BBJ	.	.	.	.
+(>12D#XL	.	.	.	.
+12F#	.	.	.	.
+*Xped	*	*	*	*
+12BJ)	.	.	.	.
+=14	=14	=14	=14	=14
+*	*	*^	*	*
+*ped	*	*	*	*	*
+12BBL	.	[>4ddn	4f#	.	p
+12BBB	.	.	.	.	.
+12BBJ	.	.	.	.	.
+12DnL	.	4dd_>	8gL	.	.
+12G	.	.	.	.	.
+*Xped	*	*	*	*	*
+.	.	.	8fnJ	.	.
+12BJ	.	.	.	.	.
+*ped	*	*	*	*	*
+12cL	.	4dd]	2e	.	.
+12B	.	.	.	.	.
+12cJ	.	.	.	.	.
+12GL	.	[>4cc	.	.	.
+12E	.	.	.	.	.
+*Xped	*	*	*	*	*
+12CJ	.	.	.	.	.
+=15	=15	=15	=15	=15	=15
+*ped	*	*	*	*	*
+12GGL\	.	8ccL]	2fn	.	.
+.	.	.	.	.	>
+12D\	.	.	.	.	.
+.	.	8b	.	.	.
+12GJ\	.	.	.	.	.
+12BL	.	8aT>	.	.	.
+12e	.	.	.	.	.
+*Xped	*	*	*	*	*
+.	.	8gJ	.	.	.
+12dJ	.	.	.	.	]
+*ped	*	*	*	*	*
+12cL	.	4g	2e	.	.
+12C	.	.	.	.	.
+12EJ	.	.	.	.	.
+12GL	.	8gL	.	.	.
+12c	.	.	.	.	.
+*Xped	*	*	*	*	*
+.	.	8gJ	.	.	.
+12eJ	.	.	.	.	.
+=16	=16	=16	=16	=16	=16
+*ped	*	*	*	*	*
+12c#XL	.	4a	2g 2e	.	.
+!LO:TX:i:t=poco a poco.:dur=3qe:ext=s:problem:text with extention lines	!	!	!	!	!
+12C#X	.	.	.	.	.
+12EJ	.	.	.	.	.
+12AL	.	8aL	.	.	.
+12fn>	.	.	.	.	.
+*Xped	*	*	*	*	*
+.	.	8aJ	.	.	.
+12e>J	.	.	.	.	.
+*ped	*	*	*	*	*
+12DDL	.	4a	2fni	.	.
+12D	1 5	.	.	.	.
+12FnJ	4	.	.	.	.
+12AL	.	8aL	.	.	.
+12e	.	.	.	.	.
+.	.	8aJ	.	.	.
+*Xped	*	*	*	*	*
+12dJ	.	.	.	.	.
+!!LO:PB:g=original
+=17	=17	=17	=17	=17	=17
+*	*^	*	*	*	*
+*ped	*	*	*	*	*	*
+12DD#XL	.	.	4b	2a 2f#X	.	<
+12D#X	.	1 5	.	.	.	.
+12F#XJ	.	4	.	.	.	.
+12BL	2	.	8bL	.	.	.
+12g	.	.	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	.	8bJ	.	.	.
+12f#J	.	.	.	.	.	.
+*ped	*	*	*	*	*	*
+12EEL	.	.	4b	2g	.	.
+12E	.	.	.	.	.	.
+12GJ	.	.	.	.	.	.
+12BL	.	.	4cc#X 4b	.	.	.
+12g	.	.	.	.	.	.
+*Xped	*	*	*	*	*	*
+12eJ	.	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=18	=18	=18	=18	=18	=18
+*ped	*	*	*	*	*
+!	!	!	!	!	!LO:DY:rj
+12FF#L	.	2dd 2b	2f#	.	f
+12F#	.	.	.	.	.
+12dJ	.	.	.	.	.
+12BL	.	.	.	.	.
+*Xped	*	*	*	*	*
+12g	.	.	.	.	.
+12f#J	.	.	.	.	.
+*ped	*	*	*	*	*
+12FF#L	.	2cc#X	4b	.	.
+.	.	.	.	.	>
+12F#	.	.	.	.	.
+12dJ	.	.	.	.	.
+12c#XL	.	.	4a#X	.	]
+12g	.	.	.	.	.
+*Xped	*	*	*	*	*
+12f#J	.	.	.	.	.
+=19	=19	=19	=19	=19	=19
+*ped	*	*	*	*	*
+12BBBL	.	2dd#X	2an^<	.	.
+12BB	.	.	.	.	.
+12F#J	.	.	.	.	.
+12BL	.	.	.	.	.
+*Xped	*	*	*	*	*
+12g	.	.	.	.	.
+12f#J	.	.	.	.	.
+*ped	*	*	*	*	*
+12EEL	.	(>4ee	2g	.	.
+.	.	.	.	.	>
+12BB	.	.	.	.	.
+12GJ	.	.	.	.	.
+12BL	.	4b)	.	.	]
+12f#	.	.	.	.	.
+*Xped	*	*	*	*	*
+12eJ	.	.	.	.	.
+=20	=20	=20	=20	=20	=20
+*ped	*	*	*	*	*
+12FF#L	.	2a#X	(>4g	.	.
+12C#X	.	.	.	.	.
+12EJ	.	.	.	.	.
+12A#XL	.	.	8f#L	.	.
+12d	.	.	.	.	.
+*Xped	*	*	*	*	*
+.	.	.	8eJ)	.	.
+12c#XJ	.	.	.	.	.
+*ped	*	*	*	*	*
+12FF#L	.	2b	2d	.	.
+12D	.	.	.	.	.
+12F#J	.	.	.	.	.
+12BL	.	.	.	.	.
+12A#	.	.	.	.	.
+*Xped	*	*	*	*	*
+12BJ	.	.	.	.	.
+!!LO:LB:g=original
+=21	=21	=21	=21	=21	=21
+*ped	*	*	*	*	*
+12FF#L	.	2b	2.c#X	.	.
+12C#X	.	.	.	.	.
+12FnJ	.	.	.	.	.
+12F#L	.	.	.	.	.
+12A	.	.	.	.	.
+*Xped	*	*	*	*	*
+12GJ	.	.	.	.	.
+*ped	*	*	*	*	*
+12FF#L	.	2a#X	.	.	.
+12C#	.	.	.	.	.
+12FnJ	.	.	.	.	.
+12F#L	.	.	4e	.	.
+12E#X	.	.	.	.	.
+*Xped	*	*	*	*	*
+12F#J	.	.	.	.	.
+*	*	*v	*v	*	*
+=22	=22	=22	=22	=22
+*ped	*	*	*	*
+12BBBL	.	2b 2d#X	.	.
+12FF#	.	.	.	.
+12F#J	.	.	.	.
+12D#XL	.	.	.	.
+*Xped	*	*	*	*
+!LO:SIC:s=12C#:v:t= 12C is missing a sharp accidental	!	!	!	!
+12C	.	.	.	.
+12BBJ	.	.	.	.
+*ped	*	*	*	*
+12BBBL	.	4r	.	.
+12FF#	.	.	.	.
+12F#J	.	.	.	.
+12D#L	.	4r	.	.
+12C#	.	.	.	.
+*Xped	*	*	*	*
+12BBJ	.	.	.	.
+=23	=23	=23	=23	=23
+*ped	*	*	*	*
+!LO:TX:a:i:t=aspiratamente.	!	!	!	!
+12BBBL	.	2dd#X/ 2b/	.	.
+12FF#	.	.	.	.
+12F#J	.	.	.	.
+12D#XL	.	.	.	.
+*Xped	*	*	*	*
+12C#X	.	.	.	.
+12BBJ	.	.	.	.
+.	.	8qcc# 8qa/	.	.
+*ped	*	*	*	*
+12BBBL	.	2cc#i 2a/	.	.
+12FF#	.	.	.	.
+12F#J	.	.	.	.
+12D#L	.	.	.	.
+12C#X	.	.	.	.
+*Xped	*	*	*	*
+12BBJ	.	.	.	.
+=24	=24	=24	=24	=24
+.	.	8qb 8qg#/	.	.
+*ped	*	*	*	*
+12BBBL	.	2.b 2.g#i	.	.
+12BB	.	.	.	.
+12G#XJ	.	.	.	.
+12EL	.	.	.	.
+*Xped	*	*	*	*
+12C#X	.	.	.	.
+12BBJ	.	.	.	.
+*ped	*	*	*	*
+12BBBL	.	.	.	.
+12BB	.	.	.	.
+!	!	!LO:TX:b:i:t=cres-cen-do.:problem:dynamics with extention lines	!	!
+!	!	!	!	!LO:HP:b:i:t=cres-cen-do.
+.	.	.	.	<
+12G#J	.	.	.	.
+!	!	!LO:SIC:s=4cc:v:t=there should be 4cc instead of 4cc#	!	!
+12EL	.	4cc# 4a/	.	.
+12C#	.	.	.	.
+*Xped	*	*	*	*
+12BBJ	.	.	.	.
+!!LO:LB:g=original
+=25	=25	=25	=25	=25
+*	*	*^	*	*
+*ped	*	*	*	*	*
+12BBBL	.	4.cc#X 4.a#X/	2ryy	.	.
+12BB	.	.	.	.	.
+12GnJ	.	.	.	.	.
+12EL	.	.	.	.	.
+12C#X	.	.	.	.	.
+.	.	8dd#X 8b/	.	.	.
+12BBJ	.	.	.	.	.
+12BBBL	.	8eeL 8cc#	4ryy	.	.
+12BB	.	.	.	.	.
+.	.	8ff# 8dd#	.	.	.
+12GJ	.	.	.	.	.
+12EL	.	8gg 8ee	4a#	.	.
+.	.	.	.	.	[
+12C#	.	.	.	.	.
+.	.	8ggJ 8ee	.	.	.
+*Xped	*	*	*	*	*
+12BBJ	.	.	.	.	.
+=26	=26	=26	=26	=26	=26
+*ped	*	*	*	*	*
+12BBBL	.	4gg 4ee	2b^	.	.
+12FF#	.	.	.	.	.
+12F#J	.	.	.	.	.
+12D#XL	.	2.ff# 2.dd#X	.	.	.
+12C#X	.	.	.	.	.
+12BBJ	.	.	.	.	.
+12BBBL	.	.	4r	.	.
+12FF#	.	.	.	.	.
+12F#J	.	.	.	.	.
+12D#L	.	.	4r	.	.
+12C#	.	.	.	.	.
+*Xped	*	*	*	*	*
+12BBJ	.	.	.	.	.
+*	*	*v	*v	*	*
+=27	=27	=27	=27	=27
+*ped	*	*	*	*
+12BBBL	.	2dd#X 2b 2d#X	.	f
+12FF#	.	.	.	.
+12F#J	.	.	.	.
+12D#XL	.	.	.	.
+*Xped	*	*	*	*
+12C#X	.	.	.	.
+12BBJ	.	.	.	.
+*ped	*	*	*	*
+12BBBL	.	4.cc#X 4.a 4.d#	.	.
+12FF#	.	.	.	.
+12F#J	.	.	.	.
+12D#L	.	.	.	.
+12C#	.	.	.	.
+.	.	8b 8a 8d#	.	.
+*Xped	*	*	*	*
+12BBJ	.	.	.	.
+=28	=28	=28	=28	=28
+*	*	*^	*	*
+*ped	*	*	*	*	*
+12BBBL	.	4cc#X	[<2g#X [<2e	.	.
+12BB	.	.	.	.	.
+12G#XJ	.	.	.	.	.
+12EL	.	2b	.	.	.
+*Xped	*	*	*	*	*
+12C#X	.	.	.	.	.
+12BBJ	.	.	.	.	.
+*ped	*	*	*	*	*
+12BBBL	.	.	2g#] 2e]	.	.
+12BB	.	.	.	.	.
+12G#J	.	.	.	.	.
+12EL	.	4b	.	.	.
+12C#	.	.	.	.	.
+*Xped	*	*	*	*	*
+12BBJ	.	.	.	.	.
+!!LO:LB:g=original
+=29	=29	=29	=29	=29	=29
+*ped	*	*	*	*	*
+12BBBL	.	[>2a#X	4.gn 4.e	.	.
+12BB	.	.	.	.	.
+12GnJ	.	.	.	.	.
+12EL	.	.	.	.	.
+12C#X	.	.	.	.	.
+!	!	!	!LO:TX:b:i:t=poco dim.:dur=4es:ext=s:problem:text with extention lines	!	!
+.	.	.	8f# 8d#X	.	.
+*Xped	*	*	*	*	*
+12BBJ	.	.	.	.	.
+*ped	*	*	*	*	*
+12BBBL	.	2a#]	8gL 8e	.	.
+12BB	.	.	.	.	.
+.	.	.	8f# 8d#	.	.
+12GJ	.	.	.	.	.
+12EL	.	.	8g 8e	.	.
+12C#	.	.	.	.	.
+.	.	.	8gJ 8e	.	.
+*Xped	*	*	*	*	*
+12BBJ	.	.	.	.	.
+=30	=30	=30	=30	=30	=30
+!	!	!	!	!	!LO:HP:b=2
+*ped	*	*	*	*	*
+12BBBL	.	2.an 2.f#	4e^<	.	<
+12BB	.	.	.	.	.
+12F#J	.	.	.	.	.
+.	.	.	.	.	[
+12AL	.	.	2d#X	.	.
+!LO:TX:i:t=riten.	!	!	!	!	!
+12c	.	.	.	.	.
+*Xped	*	*	*	*	*
+12BJ	.	.	.	.	.
+12AL	1	.	.	.	.
+12F#	.	.	.	.	.
+12D#XJ	.	.	.	.	.
+12CL	4	4r	4ryy	.	.
+12BB	1	.	.	.	.
+12BBBJ	.	.	.	.	.
+.	.	8qb/	.	.	.
+*	*	*v	*v	*	*
+=31	=31	=31	=31	=31
+.	.	8qb/	.	f
+*ped	*	*	*	*
+!	!	!LO:TX:b:t=tempo.	!	!
+12EEL	3 5	2.gg	.	.
+12BB	3	.	.	.
+12GJ	.	.	.	.
+12EL	.	.	.	.
+12c	.	.	.	.
+12BJ	.	.	.	.
+12EEL	.	.	.	.
+12BB	.	.	.	.
+12GJ	.	.	.	.
+12EL	.	(>16bt>LL	.	.
+.	.	16a#X	.	.
+12c	.	.	.	.
+.	.	16b	.	.
+12BJ	.	.	.	.
+*Xped	*	*	*	*
+.	.	16eeJJ)	.	.
+*	*	*tuplet	*	*
+!!LO:LB:g=original
+=32	=32	=32	=32	=32
+12FF#L	.	2.dd#X	.	.
+12BB	.	.	.	.
+12AJ	.	.	.	.
+12F#L	.	.	.	.
+12c	.	.	.	.
+12BJ	.	.	.	.
+12GGL	.	.	.	.
+12BB	.	.	.	.
+12GJ	.	.	.	.
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+12EL	.	(>24eeT>LL	.	<
+.	.	24dd#X	.	.
+12c	.	24ee	.	.
+.	.	24ff#	.	.
+12BJ	.	24gg	.	.
+.	.	24aaJJ)	.	[[
+=33	=33	=33	=33	=33
+12DD#XL	.	2.bb	.	.
+12BB	.	.	.	.
+12AJ	.	.	.	.
+12F#L	.	.	.	.
+12c	.	.	.	.
+12BJ	.	.	.	.
+12EEL	.	.	.	.
+12BB	.	.	.	.
+12GJ	.	.	.	.
+*	*	*8va	*	*
+12EL	.	(>24bbt>LL	.	<
+.	.	24ccc#X	.	.
+12c	.	24ddd#X	.	.
+.	.	24eee	.	.
+12BJ	.	24fff#	.	.
+.	.	24gggJJ)	.	[[
+=34	=34	=34	=34	=34
+*^	*	*	*	*
+*	*	*^	*	*	*
+.	.	.	.	8qdd#X/	.	.
+12BBBL	4ryy	.	.	4fff#^>	.	.
+12BB	.	.	.	.	.	.
+12F#J	.	.	.	.	.	.
+*	*	*	*	*rscale:2	*	*
+*ped	*	*	*	*	*	*
+!	!	!	!	!LO:TX:t=P:in the source the group of notes looks like a tuplet. There is '8' above the group:problem	!	!
+12GL\	4G/	.	.	(>32eeeLL<	.	>
+.	.	.	.	32ccc#X	.	.
+.	.	.	.	32aa#X	.	.
+12BB	.	.	.	.	.	.
+.	.	.	.	32ggn	.	.
+*	*	*	*	*X8va	*	*
+.	.	.	.	32ee	.	.
+.	.	.	.	32cc#	.	.
+12A#XJ	.	.	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	.	.	32a#	.	.
+.	.	.	.	32eJJ)	.	]
+*	*	*	*	*rscale:1	*	*
+12BL	4ryy	.	.	4b 4d#i	.	.
+12BB	.	.	5	.	.	>
+12AA#J	.	.	4	.	.	.
+12BBL	4ryy	.	5	4r	.	.
+12D#	.	.	.	.	.	.
+12F#J	.	.	.	.	.	.
+*	*	*v	*v	*	*	*
+*v	*v	*	*	*	*
+!!LO:PB:g=original
+=35	=35	=35	=35	=35
+!	!	!	!	!LO:DY:rj
+12GGL	.	4dn	.	p
+12D	.	.	.	.
+12BJ	.	.	.	.
+.	.	16qqe/LL	.	.
+.	.	16qqf#/	.	.
+.	.	16qqg/	.	.
+.	.	16qqa/JJ	.	.
+*	*	*Xtuplet	*	*
+12GL	.	12bL>	.	.
+12e	.	12b	.	.
+12dJ	.	12bJ	.	.
+12FF#L	.	4b/	.	.
+12F#	.	.	.	.
+12dJ	.	.	.	.
+12eL	.	(<40a#XtLLL>	.	<
+.	.	40g#X	.	.
+.	.	40a#	.	.
+.	.	40b	.	.
+12c#X	.	.	.	.
+!	!	!LO:SIC:s=40cc#:v:t= 40cc is missing a sharp accidental	!	!
+.	.	40cc	.	.
+.	.	40ddn	.	.
+.	.	40ee	.	.
+12F#J	.	.	.	.
+.	.	40ff#	.	.
+.	.	40gg#X	.	.
+.	.	40aa#XJJJ)	.	[[
+=36	=36	=36	=36	=36
+*	*	*8va	*	*
+*ped	*	*	*	*
+12BBL	.	2bb	.	.
+12F#	.	.	.	.
+12dJ	.	.	.	.
+12BL	.	.	.	.
+12g>	.	.	.	.
+*Xped	*	*	*	*
+12f#>J	.	.	.	.
+*ped	*	*	*	*
+12e#XL	.	[<2bbT>	.	.
+12d	.	.	.	.
+12BJ	.	.	.	.
+12E#XL\	.	.	.	.
+12D	.	.	.	.
+*Xped	*	*	*	*
+12EE#XJ	.	.	.	.
+.	.	16qqaa#X/LL	2	.
+.	.	16qqbb/	1	.
+.	.	16qqccc#X/JJ	3	.
+=37	=37	=37	=37	=37
+*	*	*^	*	*
+*	*	*	*	*^	*
+*ped	*	*	*	*	*	*
+12FF#L	.	2ccc#Xt>	2bb]	3 5	.	.
+12F#	.	.	.	.	.	.
+12c#XJ	.	.	.	.	.	.
+12eL	.	.	.	.	.	.
+12g	.	.	.	.	.	.
+*Xped	*	*	*	*	*	*
+12f#J	.	.	.	.	.	.
+*ped	*	*	*	*	*	*
+12eL	.	4ccc#t	2aa#X	.	2	.
+12c#	.	.	.	.	.	.
+12A#XJ	.	.	.	.	.	.
+.	.	.	.	.	.	<
+12F#L	.	(<44bb#XLLL	.	.	.	.
+.	.	44ccc#	.	.	.	.
+.	.	44ddd	.	.	.	.
+.	.	44ddd#X	.	.	.	.
+12FF#	.	.	.	.	.	.
+.	.	44eee	.	.	.	.
+.	.	44fffn	.	.	.	.
+.	.	44fff#X	.	.	.	.
+.	.	44ggg	.	1	.	.
+12FFF#J	.	.	.	.	.	.
+.	.	44ggg#X	.	2	.	.
+*Xped	*	*	*	*	*	*
+.	.	44aaa	.	3	.	.
+.	.	44aaa#XJJJ)	.	4	.	[
+*	*	*	*	*v	*v	*
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=38	=38	=38	=38	=38
+*ped	*	*	*	*
+12BBBL	.	4bbb 4bb	.	.
+*	*	*X8va	*	*
+12BB	.	.	.	.
+12F#J	.	.	.	.
+12AL	.	4d#X	.	<
+12c	.	.	.	.
+*Xped	*	*	*	*
+12BJ	.	.	.	.
+12GL	.	4e	.	.
+12c	.	.	.	.
+12BJ	.	.	.	.
+12F#L	.	4f#	.	.
+12c	.	.	.	[[
+12BJ	.	.	.	.
+=39	=39	=39	=39	=39
+*ped	*	*	*	*
+12EEL	.	2.gg 2.g	.	f
+12BB	.	.	.	.
+12GJ	.	.	.	.
+12EL	.	.	.	.
+*Xped	*	*	*	*
+12c	.	.	.	.
+12BJ	.	.	.	.
+*ped	*	*	*	*
+12EEL	.	.	.	.
+12BB	.	.	.	.
+12GJ	.	.	.	.
+12EL	.	(>8ff#L 8f#	.	.
+12c	.	.	.	.
+.	.	8eeJ 8e	.	.
+*Xped	*	*	*	*
+12BJ	.	.	.	.
+=40	=40	=40	=40	=40
+*ped	*	*	*	*
+12FF#L\	.	[>2dd#X [<2d#X\)	.	.
+12BB	.	.	.	.
+12AJ	.	.	.	.
+12F#L	.	.	.	.
+*Xped	*	*	*	*
+12c	.	.	.	.
+12BJ	.	.	.	.
+*ped	*	*	*	*
+12EEL\	.	(>12dd#L<] 12d#]	.	.
+12BB	.	12ee 12e	.	<
+12GJ	.	12ff#J 12f#)	.	.
+12EL	.	(>12ggL 12g	.	.
+12c	.	12aa 12a	.	.
+*Xped	*	*	*	*
+12BJ	.	24r	.	.
+.	.	24bbJk 24b)	.	[[
+=41	=41	=41	=41	=41
+*	*	*^	*	*
+*ped	*	*	*	*	*
+12BBBL	.	12bbL< 12b	2ryy	.	[
+12BB	.	12bb 12b	.	.	.
+12BJ	.	12bbJ 12b	.	.	.
+12F#L	.	12bbL< 12b	.	.	.
+12c	.	12b^<	.	.	.
+*Xped	*	*	*	*	*
+12BJ	.	12b^<J 12a	.	.	.
+*ped	*	*	*	*	*
+12EEL	.	12bL	12aL	.	>
+12BB	.	12b	12g#	.	.
+12GJ	.	12bJ	12gnJ	.	]
+12EL	.	(>12bL	12gL	.	>
+12c	.	12a	12f#	.	.
+*Xped	*	*	*	*	*
+12BJ	.	12gJ)	12eJ	.	]
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=42	=42	=42	=42	=42
+*ped	*	*	*	*
+12BBBL	.	4f# 4d#X	.	]
+12BB	.	.	.	.
+*Xped	*	*	*	*
+12BJ	.	.	.	.
+*ped	*	*	*	*
+12A#XL	.	[>12gL 12e	.	.
+12BB	.	12ee 12g_>	.	.
+*Xped	*	*	*	*
+12BBBJ	.	12eeJ 12g]	.	.
+12BBL	.	2dd#X 2f#	.	.
+12BBB	.	.	.	.
+12BBJ	.	.	.	.
+12D#XL	.	.	.	.
+12F#	.	.	.	.
+12BJ	.	.	.	.
+=43	=43	=43	=43	=43
+*	*	*^	*	*
+12cL	.	[>2dd#X	[>2a [<2f#	.	.
+12C	.	.	.	.	.
+12BBJ	.	.	.	.	.
+12CL\	.	.	.	.	.
+12D	.	.	.	.	.
+12CJ	.	.	.	.	.
+12BBL	.	4dd#]	2a] 2f#]	.	.
+12BBB	.	.	.	.	.
+12BBJ	1 5	.	.	.	.
+12F#L	3	4dd#	.	.	.
+12c	.	.	.	.	.
+12BJ	.	.	.	.	.
+=44	=44	=44	=44	=44	=44
+12BBL	.	2ee	2g 2e	.	.
+12BBB	.	.	.	.	.
+12BBJ	.	.	.	.	.
+12EL	.	.	.	.	.
+12c	.	.	.	.	.
+12BJ	.	.	.	.	.
+*ped	*	*	*	*	*
+12A#XL	.	4ee	2g 2e	.	.
+12G	.	.	.	.	.
+12EJ	.	.	.	.	.
+12AA#XL	.	4ee	.	.	.
+12GG	.	.	.	.	.
+*Xped	*	*	*	*	*
+12AAA#XJ	.	.	.	.	.
+=45	=45	=45	=45	=45	=45
+*ped	*	*	*	*	*
+12BBBL	.	2gg	2b 2g	.	.
+12BB	.	.	.	.	.
+12EJ	.	.	.	.	.
+12GL	.	.	.	.	.
+12c	.	.	.	.	.
+*Xped	*	*	*	*	*
+12BJ	2 1	.	.	.	.
+.	.	16qqff#/LL	.	.	.
+.	.	16qqee/JJ	.	.	.
+*ped	*	*	*	*	*
+!	!	!LO:S:s=1:note:problem:note-level slur	!	!	!
+12BBL	5	(<4ee	2b^< 2a 2f#	.	.
+12AA#X	4	.	.	.	.
+12BBJ	1	.	.	.	.
+12BBBL	5	4dd#X	.	.	.
+12AAA#X	4	.	.	.	.
+*Xped	*	*	*	*	*
+12BBBJ	5	.	.	.	.
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=46	=46	=46	=46	=46
+*ped	*	*	*	*
+12EEL	3 5	2.ee) 2.b 2.g#X	.	.
+12BB	.	.	.	.
+12BJ	.	.	.	.
+12G#XL	.	.	.	.
+12F#	.	.	.	.
+12EJ	.	.	.	.
+12EEL	.	.	.	.
+12BB	.	.	.	.
+12BJ	.	.	.	.
+12G#L	.	4r	.	.
+12F#	.	.	.	.
+*Xped	*	*	*	*
+12EJ	.	.	.	.
+=47	=47	=47	=47	=47
+*ped	*	*	*	*
+12EEL	.	2gg#X 2ee	.	.
+12BB	.	.	.	.
+12BJ	.	.	.	.
+12G#XL	.	.	.	.
+12F#	.	.	.	.
+12EJ	.	.	.	.
+12EEL	.	2ff# 2dd	.	.
+12BB	.	.	.	.
+12BJ	.	.	.	.
+12G#L	.	.	.	.
+12F#	.	.	.	.
+*Xped	*	*	*	*
+12EJ	.	.	.	.
+.	.	16qqee/ 16qqcc#X/	.	.
+=48	=48	=48	=48	=48
+*ped	*	*	*	*
+12EEL/	.	2.ee 2.cc#X	.	.
+12E	.	.	.	.
+12c#XJ	.	.	.	.
+12AL	.	.	.	.
+12F#	.	.	.	.
+12EJ	.	.	.	.
+12EEL/	.	.	.	.
+12E	.	.	.	.
+12c#J	.	.	.	.
+12AL	.	4ffn 4dd	.	.
+12F#	.	.	.	.
+*Xped	*	*	*	*
+12EJ	.	.	.	.
+=49	=49	=49	=49	=49
+*	*	*^	*	*
+*ped	*	*	*	*	*
+12EEL/	.	4.ff#X 4.dd#X	2ryy	.	.
+12E	.	.	.	.	.
+12cnJ	.	.	.	.	.
+12AL	.	.	.	.	.
+12F#	.	.	.	.	.
+.	.	8gg#X 8ee	.	.	.
+12EJ	.	.	.	.	<
+12EEL/	.	8aaL 8ff#	4ryy	.	.
+12E	.	.	.	.	.
+.	.	8bb 8gg#	.	.	.
+12cJ	.	.	.	.	.
+12AL	.	8cccn 8aa	4dd#	.	.
+12F#	.	.	.	.	.
+.	.	8cccJ 8aa	.	.	.
+*Xped	*	*	*	*	*
+12EJ	.	.	.	.	[
+!!LO:LB:g=original
+=50	=50	=50	=50	=50	=50
+*ped	*	*	*	*	*
+12EEL	.	4ccc 4aa	2ee	.	.
+.	.	.	.	.	>
+12BB	.	.	.	.	.
+12BJ	.	.	.	.	.
+.	.	.	.	.	]
+12G#XL	.	4bb 4gg#X	.	.	.
+12F#	.	.	.	.	.
+12EJ	.	.	.	.	.
+12EEL	.	4r	2ryy	.	.
+12BB	.	.	.	.	.
+12BJ	.	.	.	.	.
+12G#L	.	4r	.	.	.
+12F#	.	.	.	.	.
+*Xped	*	*	*	*	*
+12EJ	.	.	.	.	.
+=51	=51	=51	=51	=51	=51
+*ped	*	*	*	*	*
+12EEL	.	[>4gg#X [<4ee/	4ryy	.	.
+12BB	.	.	.	.	.
+12BJ	.	.	.	.	.
+12G#XL	.	12gg#L] 12ee]	[<4g#	.	.
+12F#	.	12gg# 12ee	.	.	.
+12EJ	.	12gg#J 12ee	.	.	.
+12EEL	.	8gg#L	N[<4dd 4g#]	.	.
+12BB	.	.	.	.	.
+.	.	[>8ff#J	.	.	.
+12BJ	.	.	.	.	.
+12G#L	.	12ff#L] 12ddN]	4g#	.	.
+12F#	.	12ff# 12dd	.	.	.
+*Xped	*	*	*	*	*
+12EJ	.	12ff#J 12dd	.	.	.
+=52	=52	=52	=52	=52	=52
+.	.	8qff#/	.	.	.
+*ped	*	*	*	*	*
+12EEL	.	2ee	2cc# 2a	.	.
+12E	.	.	.	.	.
+12c#XJ	.	.	.	.	.
+12AL	.	.	.	.	.
+12F#	.	.	.	.	.
+12EJ	.	.	.	.	.
+12EEL	.	4r	2ryy	.	.
+12E	.	.	.	.	.
+12c#J	.	.	.	.	.
+12AL	.	4r	.	.	.
+12F#	.	.	.	.	.
+*Xped	*	*	*	*	*
+12EJ	.	.	.	.	.
+=53	=53	=53	=53	=53	=53
+*ped	*	*	*	*	*
+12EEL	.	[>2dd#X	4.ccn 4.a	.	.
+12E	.	.	.	.	>
+12cnJ	.	.	.	.	.
+12AL	.	.	.	.	]]
+12F#	.	.	.	.	.
+.	.	.	8b 8g#X	.	.
+*Xped	*	*	*	*	*
+12EJ	.	.	.	.	.
+12EEL	.	2dd#]	8ccL 8a	.	.
+12E	.	.	.	.	.
+.	.	.	8b 8g#	.	.
+12cJ	.	.	.	.	.
+12AL	.	.	8cc 8a	.	.
+12F#	.	.	.	.	.
+.	.	.	8ccJ 8a	.	.
+12EJ	.	.	.	.	.
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=54	=54	=54	=54	=54
+*ped	*	*	*	*
+!LO:TX:t=P:pedal mark should be before the notes:problem	!	!	!	!
+12EEL\	.	2.ee 2.b 2.g#X	.	.
+12BB	.	.	.	.
+12BJ	.	.	.	.
+12G#XL	.	.	.	.
+12F#	.	.	.	.
+12EJ	.	.	.	.
+12EEL\	.	.	.	.
+12BB	.	.	.	.
+12BJ	.	.	.	.
+12G#L	.	4r	.	.
+12F#	.	.	.	.
+*Xped	*	*	*	*
+12EJ	.	.	.	.
+=55	=55	=55	=55	=55
+*ped	*	*	*	*
+12EEL	.	[>2.a [<2.f# [<2.d#X	.	pp
+12E	.	.	.	.
+12cJ	.	.	.	.
+12AL	.	.	.	.
+12F#	.	.	.	.
+12EJ	.	.	.	.
+12EEL	.	.	.	.
+12E	.	.	.	.
+12cJ	.	.	.	.
+12AL	.	4a] 4f#] 4d#]	.	.
+12F#	.	.	.	.
+*Xped	*	*	*	*
+12EJ	.	.	.	.
+=56	=56	=56	=56	=56
+*ped	*	*	*	*
+!LO:TX:i:t=Ca-lan-do.:dur=4qe:ext=ud:problem:text with extention lines	!	!	!	!
+!LO:TX:t=P:'Ca-lan-do.' starts before the notes:problem	!	!	!	!
+12EEL\	.	4g#X 4e	.	.
+12BB	.	.	.	.
+12BJ	.	.	.	.
+12G#XL	.	4r	.	.
+12F#	.	.	.	.
+12EJ	.	.	.	.
+12EEL\	.	4r	.	.
+12BB	.	.	.	.
+12BJ	.	.	.	.
+12G#L	.	4r	.	.
+12F#	.	.	.	.
+*Xped	*	*	*	*
+[<12EJ	.	.	.	.
+*	*	*clefF4	*	*
+=57	=57	=57	=57	=57
+2.e^< 2.G#X 2.E]	.	2.EE^>	.	.
+4r	.	4r	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental, bracket
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cresc.", fontstyle= "italic"
+!!!RDF**dynam: > = "dim.", fontstyle= "italic"
+!!!ENC: Zofia Niedbalska
+!!!END: 2020-06-08
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: 2020-07-17

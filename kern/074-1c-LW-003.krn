@@ -1,0 +1,585 @@
+!!!!SEGMENT: 074-1c-LW-003.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: No. 3. Troubled Waters. (Trübe Wellen.)
+!!!OPS: Op. 74
+!!!PTL: 17 Polish Songs
+!!!PPR: Stanley Lucas, Weber & Co.
+!!!PPP: London
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: 6139/n
+!!!OMD: Allegretto.
+!!!OMD: M.M. [quarter] = 96.
+!!!system-decoration: (s1){(s2,s3)}
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff2	*	*staff1	*	*
+*	*I"PIANO.	*	*	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*	*
+*f#:	*f#:	*	*f#:	*	*
+*M2/4	*M2/4	*	*M2/4	*	*
+*MM96	*MM96	*	*MM96	*	*
+=1	=1	=1	=1	=1	=1
+!	!	!LO:DY:rj	!	!	!
+4FF#	4.dd	p	2rdd	.	.
+[<4F#	.	.	.	.	.
+.	8cc#	.	.	.	.
+=2	=2	=2	=2	=2	=2
+*^	*	*	*	*	*
+*	*^	*	*	*	*	*
+2e#X	4d	2F#]\	(>8bL	<	2rdd	.	.
+.	.	.	8cc#	.	.	.	.
+.	4B	.	8dd	.	.	.	.
+.	.	.	8gg#J)	[	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+2f#	4A	2F#\	4ff#	.	2rdd	.	.
+.	4c#	.	4ff#	.	.	.	.
+*	*v	*v	*	*	*	*	*
+*v	*v	*	*	*	*	*
+=4	=4	=4	=4	=4	=4
+4FF#	4.dd	.	2rdd	.	.
+[<4F#	.	.	.	.	.
+.	8cc#	.	.	.	.
+=5	=5	=5	=5	=5	=5
+*^	*	*	*	*	*
+*	*^	*	*	*	*	*
+2e#X	4d	2F#]\	8bL	<	2rdd	.	.
+.	.	.	8cc#	.	.	.	.
+.	4B	.	8dd	.	.	.	.
+.	.	.	8gg#J	[	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2f#	4A	2F#\	2ff#	>	2rdd	.	.
+.	4c#	.	.	]	.	.	.
+*	*v	*v	*	*	*	*	*
+*v	*v	*	*	*	*	*
+=7	=7	=7	=7	=7	=7
+!LO:TX:a:Bi:t=rubato.	!	!	!	!	!
+4c# 4F# 4E 4AA#X	(>8ee#XL	.	2rdd	.	.
+.	8ff#	.	.	.	.
+4B 4F# 4D 4BB	8eenT>	.	.	.	.
+.	8ddJ)	.	.	.	.
+!!LO:LB:g=original
+=8	=8	=8	=8	=8	=8
+!	!	!	!LO:TX:a:t=P:w źródle od tego systemu pojawia się pięciolinia partii wokalnej:problem	!	!
+4B 4E#X 4C#	(>8b#XL	.	2rdd	.	.
+.	8cc#	.	.	.	.
+4B 4F# 4D	8bnT>	.	.	.	.
+.	8aJ)	.	.	.	.
+=9	=9	=9	=9	=9	=9
+4d 4F# 4BB	(<8g#t>L	.	2rdd	.	.
+.	8f#	.	.	.	.
+4B 4E#X 4C#	8g#	.	.	.	.
+.	8cc#J)	.	.	.	.
+=10	=10	=10	=10	=10	=10
+!LO:TX:a:Bi:t=rit&colon;	!	!	!	!	!
+4FF#	4f# 4A	.	2rdd	.	.
+!	!	!LO:HP:b=2	!	!	!
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!	!	!
+(>12E#XL	4a 4c#^>	>	.	.	.
+12F#	.	.	.	.	.
+12C#J)	.	]	.	.	.
+=11	=11	=11	=11	=11	=11
+4FF#	4f# 4A	.	2rdd	.	.
+!	!	!LO:HP:b=2	!	!	!
+(>12E#XL	4a 4c#^>	>	.	.	.
+12F#	.	.	.	.	.
+12C#J)	.	]	.	.	.
+=12	=12	=12	=12	=12	=12
+2FF#	2f# 2A	.	2rdd	.	.
+=13	=13	=13	=13	=13	=13
+!!!OMD: Più Lento. [quarter] = 60.
+*	*	*	*	*^	*
+!	!	!	!	!LO:TX:a:t=P:w źródle pod angielskim tekstem alternatywna wersja w języku niemieckim:problem	!	!
+!	!	!LO:DY:rj	!	!	!	!
+4A	4cc# 4a 4e	p	4cc#	Brook-	Kommst	.
+4D	4b 4f# 4d	.	4dd	-let,	von	.
+=14	=14	=14	=14	=14	=14	=14
+2E	2g# 2e 2d	.	8b/	troub-	fern	.
+.	.	.	8f#	-led	da-	.
+.	.	.	8g#	are	-her	.
+.	.	.	8e	thy	ge-	.
+!!LO:LB:g=original
+=15	=15	=15	=15	=15	=15	=15
+2AA	2a 2e 2c#	.	4cc#	wa-	-zo-	.
+.	.	.	(<16qqcc#/LL	.	.	.
+.	.	.	16qqb/JJ	.	.	.
+.	.	.	4a)	-ters;	-gen,	.
+=16	=16	=16	=16	=16	=16	=16
+4F#	4a 4f# 4c#	.	4a	Hast	Quell',	.
+4BB	4g#X 4d	.	4b/	thou	so	.
+=17	=17	=17	=17	=17	=17	=17
+2C#	2g# 2e#X 2c# 2B	.	8g#	from	trüb'	.
+.	.	.	8d#X	a-	sind	.
+.	.	.	8e#X	-far	dei-	.
+.	.	.	8c#	been	-ne	.
+=18	=18	=18	=18	=18	=18	=18
+4FF#	2f# 2c# 2A	.	4a	dri-	Wo-	.
+4F#	.	.	4f#	-ven?	-gen,	.
+=19	=19	=19	=19	=19	=19	=19
+[<2BB^<	4r	.	4r	.	.	.
+.	8f# 8d 8G#	.	8g#	Is	schmolz	.
+.	8r	.	8g#	it	der	.
+=20	=20	=20	=20	=20	=20	=20
+4BB]	4f# 4d 4G#	.	8g#	that	Schnee	.
+.	.	.	8g#	the	zu	.
+!	!	!LO:HP:b=2	!	!	!	!
+8AAL	4f# 4d 4G#	<	8f#	snow	wil-	.
+8BBJ	.	[	8g#	and	-den	.
+=21	=21	=21	=21	=21	=21	=21
+2C#	4f# 4c# 4A	.	4b/	temp-	Güs-	.
+.	4f# 4c# 4A	.	4a	-est	-sen,	.
+!!LO:LB:g=original
+=22	=22	=22	=22	=22	=22	=22
+[>2D^>\	4r	.	4r	.	.	.
+.	4f# 4B 4G#	.	8g#	All	hat-	.
+.	.	.	8g#	thy	-die	.
+=23	=23	=23	=23	=23	=23	=23
+4D]	4f# 4B 4G#	.	8g#	banks	U-	.
+.	.	.	8g#	have	-fer	.
+8C#L\	4f# 4B 4G#	.	8f#	ruth-	dir	.
+8DJ	.	.	8g#	-less	zer-	.
+=24	=24	=24	=24	=24	=24	=24
+4D#X	4f# 4B#X 4G#	[ >	4bn/	ri-	-ris-	.
+4GG#	4f# 4B# 4G#	]	8a	-ven,	-sen,	.
+.	.	.	8g#	have	zer-	.
+=25	=25	=25	=25	=25	=25	=25
+*	*^	*	*	*	*	*
+!	!	!	!	!LO:TX:a:Bi:t=riten&colon;	!	!	!
+2C#\	(>4f#	2c# 2Bn 2G#	sf	(<4.g#^<	ri-	-ris-	.
+!	!	!LO:TX:b:Bi:t=riten&colon;	!	!	!	!	!
+.	.	.	.	.	.	.	.
+.	4e#X)	.	.	.	.	.	.
+.	.	.	.	8f#)	.	.	.
+*	*v	*v	*	*	*	*	*
+=26	=26	=26	=26	=26	=26	=26
+4FF#	4f# 4c# 4A	.	4f#	-ven.	-sen?	.
+4r	(>8cc#L	pp	4r	.	.	.
+.	8bJ)	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27
+!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!	!	!
+2rF	(<12aL	.	2rdd	.	.	.
+.	12cc#	.	.	.	.	.
+.	12g#J	.	.	.	.	.
+.	12f#L	.	.	.	.	.
+.	12cc#	.	.	.	.	.
+.	12aJ)	.	.	.	.	.
+!!LO:LB:g=original
+=28	=28	=28	=28	=28	=28	=28
+!	!	!LO:DY:rj	!	!	!	!
+4A	4cc# 4a 4e	p	4cc#	Rests	Wohl	.
+4D	4b 4f# 4d	.	4dd	the	ist	.
+=29	=29	=29	=29	=29	=29	=29
+2E	2g# 2e 2d	.	8b/	snow	Shnee	.
+.	.	.	8f#	up-	auf	.
+.	.	.	8g#	-on	Ber-	.
+.	.	.	8e	the	-ges-	.
+=30	=30	=30	=30	=30	=30	=30
+2AA	2a 2e 2c#	.	8cc#L	moun-	-hö-	.
+.	.	.	(>16cc#L	.	.	.
+.	.	.	16bJJ)	.	.	.
+.	.	.	4a	-tain,	-hen,	.
+=31	=31	=31	=31	=31	=31	=31
+4F#	4a 4f# 4c#	.	4a/	Flow'rs	Blu-	.
+4BB	4g# 4d	.	4b/	a-	-men	.
+=32	=32	=32	=32	=32	=32	=32
+2C#	2g# 2e#X 2c# 2B	.	8g#	-long	viel	.
+.	.	.	8d#X	my	an	.
+.	.	.	8e#X	banks	U-	.
+.	.	.	8c#	are	-fern	.
+=33	=33	=33	=33	=33	=33	=33
+4FF#	2f# 2c# 2A	.	4a	blow-	ste-	.
+4F#	.	.	4f#	-ing,	-hen,	.
+!!LO:PB:g=original
+=34	=34	=34	=34	=34	=34	=34
+2BB#	4f# 4d#X 4G#	.	4.g#	But	doch	.
+.	4f# 4d# 4G#	.	.	.	.	.
+.	.	.	8g#	where	wo	.
+=35	=35	=35	=35	=35	=35	=35
+2BBn	4fn 4dn 4G#	<	8g#	clear	rein	.
+.	.	.	8g#	my	und	.
+.	4e 4d 4G#	.	8a	foun-	klar	.
+.	.	.	8b/	-tain	die	.
+=36	=36	=36	=36	=36	=36	=36
+2AA	4e 4c# 4A	.	4cc#	gush-	Wel-	.
+.	4a 4e 4c#	.	4cc#	-es,	-le,	.
+=37	=37	=37	=37	=37	=37	=37
+2BB	8gnL 8d	.	8cc#	There	sitzt	.
+.	8B	.	8b	a	ein	.
+.	8g 8d	.	8dd	mo-	Weib	.
+.	8BJ	.	8gn	-ther's	an	.
+=38	=38	=38	=38	=38	=38	=38
+*^	*	*	*	*	*	*
+2C#	4rBBB	8f#L 8c#	.	4f#	tears	mei-	.
+.	.	8G#X	.	.	.	.	.
+.	4CC#\	8e#X 8c#	.	4g#X	are	-ner	.
+.	.	8G#J	.	.	.	.	.
+*v	*v	*	*	*	*	*	*
+=39	=39	=39	=39	=39	=39	=39
+2BB#X 2BBB#X	8g#L 8f# 8d#X/	sf	4dd#X	flow-	Quel-	.
+.	8G#	.	.	.	.	.
+.	8g# 8f# 8d#/	.	4g#	-ing,	le,	.
+.	8G#J	.	.	.	.	.
+!!LO:LB:g=original
+=40	=40	=40	=40	=40	=40	=40
+!	!	!LO:DY:rj	!	!	!	!
+2BB#X 2BBB#X	8g# 8f# 8d#XL	p	4.g#	But	doch	.
+.	8G#	.	.	.	.	.
+.	8g# 8f# 8d#	.	.	.	.	.
+.	8G#J	.	8g#	where	wo	.
+=41	=41	=41	=41	=41	=41	=41
+4BBn 4BBBn	8g# 8fn 8dnXL	.	8g#	clear	rein	.
+.	8G#	.	8g#	my	und	.
+.	.	<	.	.	.	.
+4EE	8g# 8e 8dX	.	8a	foun-	klar	.
+.	8G#J	.	8b/	-tain	die	.
+=42	=42	=42	=42	=42	=42	=42
+2AA 2AAA	8a 8e 8c#L	.	4cc#	gush-	Wel-	.
+.	8A	.	.	.	.	.
+.	8a 8e 8c#	.	4cc#	-es,	-le,	.
+.	8AJ	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43
+2BB 2BBB	8g#L 8d	.	8cc#/	There	sitzt	.
+.	.	>	.	.	.	.
+.	8B	.	8b/	a	ein	.
+.	8g# 8d	.	8a	mo-	Weib	.
+.	8BJ	.	8g#	-ther's	an	.
+=44	=44	=44	=44	=44	=44	=44
+2C# 2CC#	8a 8f#L 8c#	.	4f#	tears	mei-	.
+.	8A	.	.	.	.	.
+.	8a 8e 8c#	.	4a	are	-ner	.
+.	8AJ	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45
+2C# 2CC#	8e# 8c#L	.	(>4g#	flow-	Quel-	.
+.	8B	.	.	.	.	.
+.	8e# 8c#	.	4cc#)	.	.	.
+.	8BJ	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46
+2FF#;<	2f# 2c# 2A;>	.	2f#;>	-ing.	-le.	.
+*	*	*	*	*v	*v	*
+!!LO:LB:g=original
+=47	=47	=47	=47	=47	=47
+!	!	!	!LO:TX:b:Bi:t=Tempo 1o.	!	!
+4FF#	4.dd	p	2rdd	.	.
+[<4F#	.	.	.	.	.
+.	8cc#	.	.	.	.
+=48	=48	=48	=48	=48	=48
+*^	*	*	*	*	*
+*	*^	*	*	*	*	*
+2e#X	4d	2F#_<\	(>8bL	<	2rdd	.	.
+.	.	.	8cc#	.	.	.	.
+.	4B	.	8dd	.	.	.	.
+.	.	.	8gg#J)	[	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49
+!	!LO:TX:a:t=P:note position:problem	!	!	!	!	!	!
+2f#	4A	2F#]\	4ff#	.	2rdd	.	.
+.	4c#	.	4ff#	.	.	.	.
+*	*v	*v	*	*	*	*	*
+*v	*v	*	*	*	*	*
+=50	=50	=50	=50	=50	=50
+4FF#	4.dd	.	2rdd	.	.
+[<4F#	.	.	.	.	.
+.	8cc#	.	.	.	.
+=51	=51	=51	=51	=51	=51
+*^	*	*	*	*	*
+*	*^	*	*	*	*	*
+2e#X	4d	2F#_<\	(>8bL	<	2rdd	.	.
+.	.	.	8cc#	.	.	.	.
+.	4B	.	8dd	.	.	.	.
+.	.	.	8gg#J)	[	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52
+!	!LO:TX:a:t=P:note position:problem	!	!	!	!	!	!
+2f#	4A	2F#]\	2ff#	.	2rdd	.	.
+.	4c#	.	.	.	.	.	.
+*	*v	*v	*	*	*	*	*
+*v	*v	*	*	*	*	*
+=53	=53	=53	=53	=53	=53
+!LO:TX:a:Bi:t=rubato.	!	!	!	!	!
+4c# 4F# 4E 4AA#X	(>8ee#XL	.	2rdd	.	.
+.	8ff#	.	.	.	.
+4B 4F# 4D 4BB	8eenT>	.	.	.	.
+.	8ddJ)	.	.	.	.
+=54	=54	=54	=54	=54	=54
+4B 4E#X 4C#	(>8b#XL	.	2rdd	.	.
+.	8cc#	.	.	.	.
+4B 4F# 4D	8bnT>	.	.	.	.
+.	8aJ)	.	.	.	.
+!!LO:LB:g=original
+=55	=55	=55	=55	=55	=55
+4d 4F# 4BB	(<8g#t>L	.	2rdd	.	.
+.	8f#	.	.	.	.
+4B 4E#X 4C#	8g#	.	.	.	.
+.	8cc#J)	.	.	.	.
+=56	=56	=56	=56	=56	=56
+4FF#	4f# 4A	.	2rdd	.	.
+!	!	!LO:HP:b=2	!	!	!
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!	!	!
+(>12E#XL	4a 4c#^>	>	.	.	.
+12F#	.	.	.	.	.
+12C#J)	.	]	.	.	.
+=57	=57	=57	=57	=57	=57
+4FF#	4f# 4A	.	2rdd	.	.
+!	!	!LO:HP:b=2	!	!	!
+(>12E#XL	4a 4c#^>	>	.	.	.
+12F#	.	.	.	.	.
+12C#J)	.	]	.	.	.
+=58	=58	=58	=58	=58	=58
+2FF#	2f# 2A	.	2rdd	.	.
+=59||	=59||	=59||	=59||	=59||	=59||
+!!!OMD: Più lento. [quarter] = 60.
+*	*	*	*	*^	*
+!	!	!LO:DY:rj	!	!	!	!
+4A	4cc# 4a 4e	p	4cc#	Sev'n	Sie-	.
+4D	4b 4f# 4d	.	4dd	sweet	-ben	.
+=60	=60	=60	=60	=60	=60	=60
+2E	2g# 2e 2d	.	8b/	daugh-	Töch-	.
+.	.	.	8f#	-ters	-ter-	.
+.	.	.	8g#	had	-lein	.
+.	.	.	8e	been	ge-	.
+=61	=61	=61	=61	=61	=61	=61
+2AA	2a 2e 2c#	.	4cc#	giv'n	-bo-	.
+.	.	.	(<16qqcc#/LL	.	.	.
+.	.	.	16qqb/JJ	.	.	.
+.	.	.	4a)	her,	-ren,	.
+!!LO:LB:g=original
+=62	=62	=62	=62	=62	=62	=62
+4F#	4a 4f# 4c#	.	4a/	Sev'n	sie-	.
+4BB	4g# 4d	.	4b/	in	-ben	.
+=63	=63	=63	=63	=63	=63	=63
+2C#	2g# 2e#X 2c# 2B	.	8g#	sring-	Töch-	.
+.	.	.	8d#X	-time	-ter-	.
+.	.	.	8e#X	have	-lein	.
+.	.	.	8c#	been	ver-	.
+=64	=64	=64	=64	=64	=64	=64
+4FF#	2f# 2c# 2A	.	4a	tak-	-lo-	.
+4F#	.	.	4f#	-en;	-ren;	.
+=65	=65	=65	=65	=65	=65	=65
+[<2BB^>	4r	.	4r	.	.	.
+.	8f# 8d 8G#	.	8g#	'Tis	un-	.
+.	8r	.	8g#	when	-ter	.
+=66	=66	=66	=66	=66	=66	=66
+4BB]	4f# 4d 4G#	.	8g#	spring	duft'	.
+.	.	.	8g#	is	gen	.
+8AAL	4f# 4d 4G#	<	8f#	fresh	Len-	.
+8BBJ	.	.	8g#	and	-zes-	.
+.	.	[	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67
+!	!	!	!	!	!	!LO:HP:a
+2C#	4f# 4c# 4A	.	4b/	frag-	-ga-	>
+.	4f# 4c# 4A	.	4a	-rant	-ben	]
+!!LO:PB:g=original
+=68	=68	=68	=68	=68	=68	=68
+[>2D^>	4r	.	4r	.	.	.
+.	.	.	.	.	.	.
+.	4f# 4B 4G#	.	8g#	That	hat	.
+.	.	.	8g#	her	die	.
+=69	=69	=69	=69	=69	=69	=69
+4D]	4f# 4B 4G#	.	8g#	grief	Mut-	.
+.	.	.	8g#	a-	-ter	.
+8C#L\	4f# 4B 4G#	<	8f#	-new	sie	.
+8DJ	.	[	8g#	doth	be-	.
+=70	=70	=70	=70	=70	=70	=70
+!	!	!	!	!	!	!LO:HP:a
+4D#X	4f# 4B#X 4G#	>	4bn/	wak-	-gra-	>
+4GG#	4f# 4B# 4G#	]	8a	-en,	-ben,	.
+.	.	.	.	.	.	]
+.	.	.	8g#	doth	be-	.
+=71	=71	=71	=71	=71	=71	=71
+*	*^	*	*	*	*	*
+!	!	!	!	!LO:TX:a:Bi:t=riten&colon;	!	!	!
+2C#	(>4f#	2c# 2Bn 2G#	.	(<4.g#^>	wak-	-gra-	.
+.	4e#X)	.	.	.	.	.	.
+.	.	.	.	8f#)	.	.	.
+*	*v	*v	*	*	*	*	*
+=72	=72	=72	=72	=72	=72	=72
+4FF#	4f# 4c# 4A	.	4f#	-en.	-ben.	.
+4r	(>8cc#L	pp	4r	.	.	.
+.	8bJ)	.	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73
+!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!	!	!
+2rF	(<12aL	.	2rdd	.	.	.
+.	12cc#	.	.	.	.	.
+.	12g#J	.	.	.	.	.
+.	12f#L	.	.	.	.	.
+.	12cc#	.	.	.	.	.
+.	12aJ)	.	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74
+4A	4cc# 4a 4e	.	4cc#	Day	Tag	.
+4D	4b 4f# 4d	.	4dd	and	und	.
+=75	=75	=75	=75	=75	=75	=75
+2E	2g# 2e 2d	.	8b/	night,	Nacht	.
+.	.	.	8f#	with	in	.
+.	.	.	8g#	fruit-	Gram	.
+.	.	.	8e	-less	und	.
+!!LO:LB:g=original
+=76	=76	=76	=76	=76	=76	=76
+2AA	2a 2e 2c#	.	8cc#L	yearn-	Seh-	.
+.	.	.	(>16cc#L	.	.	.
+.	.	.	16bJJ	.	.	.
+.	.	.	4a)	-ing,	-nen,	.
+=77	=77	=77	=77	=77	=77	=77
+4F#	4a 4f# 4c#	.	4a	Weeps	weint	.
+4BB	4g# 4d	.	4b/	she,	und	.
+=78	=78	=78	=78	=78	=78	=78
+2C#	2g# 2e#X 2c# 2B	.	8g#	weeps	weint	.
+.	.	.	8d#X	she	sie	.
+.	.	.	8e#X	for	heis-	.
+.	.	.	8c#	her	-se	.
+=79	=79	=79	=79	=79	=79	=79
+4FF#	2f# 2c# 2A	.	4a	daugh-	Thrä-	.
+4F#	.	.	4f#	-ters;	-nen,	.
+=80	=80	=80	=80	=80	=80	=80
+2BB#	4f# 4d#X 4G#	.	4.g#	When	weint	.
+.	4f# 4d# 4G#	.	.	.	.	.
+.	.	.	8g#	her	und	.
+=81	=81	=81	=81	=81	=81	=81
+2BBn	4fn 4dn 4G#	<	8g#	tears	weint	.
+.	.	.	8g#	with	in	.
+.	4e 4d 4G#	.	8a	me	mei-	.
+.	.	.	8b/	are	-ne	.
+=82	=82	=82	=82	=82	=82	=82
+2AA	4e 4c# 4A	.	4cc#	ming-	Quel-	.
+.	4a 4e 4c#	.	4cc#	-led,	-le,	.
+!!LO:LB:g=original
+=83	=83	=83	=83	=83	=83	=83
+2BB	8gnL 8d	.	8cc#	Troub-	trü-	.
+.	8B	.	8b	-led	-be	.
+.	8g 8d	.	8dd	are	wird	.
+.	8BJ	.	8gn	my	die	.
+=84	=84	=84	=84	=84	=84	=84
+*^	*	*	*	*	*	*
+!	!	!	!	!	!	!	!LO:HP:a
+2C#	4rBBB	8f#L 8c#	.	4.f#	crys-	kla-	<
+.	.	8G#X	.	.	.	.	.
+.	4CC#	8e#X 8c#	.	.	.	.	[[
+.	.	8G#J	.	8g#X	-tal	-re	.
+*v	*v	*	*	*	*	*	*
+=85	=85	=85	=85	=85	=85	=85
+!	!	!	!	!	!	!LO:HP:a
+2BB#X 2BBB#X	8g#L 8f# 8d#X	.	4dd#X	wa-	Wel-	>
+.	8G#	.	.	.	.	.
+.	8g# 8f# 8d#	.	4g#	-ters,	le,	]]
+.	8G#J	.	.	.	.	.
+=86	=86	=86	=86	=86	=86	=86
+!	!	!LO:DY:rj	!	!	!	!
+2BB#X 2BBB#X	8g#L 8f# 8d#X	sf	(</4b	When	weint	.
+.	8G#	.	.	.	.	.
+.	8g# 8f# 8d#	.	8a)	.	.	.
+.	8G#J	.	8g#	her	und	.
+=87	=87	=87	=87	=87	=87	=87
+!	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!
+4BBn 4BBBn	8g#L 8fn 8dn	<	(<24g#L/	tears	weint	.
+.	.	.	24a	.	.	.
+.	.	.	24g#J)	.	.	.
+.	8G#	.	(<16f#L	with	in	.
+.	.	.	16g#J)	.	.	.
+4EE	8g# 8e 8d	.	8a	me	mei-	.
+.	8BJ	.	8b/	are	-ne	.
+=88	=88	=88	=88	=88	=88	=88
+2AA 2AAA	8aL 8e 8c#	.	4dd	ming-	Quel-	.
+.	8A	.	.	.	.	.
+.	8a 8e 8c#	.	4cc#	-led,	-le,	.
+.	8AJ	.	.	.	.	.
+!!LO:LB:g=original
+=89	=89	=89	=89	=89	=89	=89
+2BB 2BBB	8gL 8d	.	8cc#/	Troub-	trü-	.
+.	8B	>	8b/	-led	-be	.
+.	8g 8d	.	8a	are	wird	.
+.	8BJ	.	8g	my	die	.
+=90	=90	=90	=90	=90	=90	=90
+2C# 2CC#	8aL 8f# 8c#	.	(<4.f#/	crys-	kla-	.
+.	8A	.	.	.	.	.
+.	8a 8f# 8c#	.	.	.	.	.
+.	8AJ	.	8a)	-tal	-re	.
+=91	=91	=91	=91	=91	=91	=91
+2C# 2CC#	8e#XL 8c#	.	(>4g#X	wa-	Wel-	.
+.	8B	.	.	.	.	.
+.	8e# 8c#	.	4cc#)	.	.	.
+.	8BJ	.	.	.	.	.
+=92	=92	=92	=92	=92	=92	=92
+2FF#;<	2f# 2c# 2A;>	.	2f#;>	-ters.	-le.	.
+*	*	*	*	*v	*v	*
+=93	=93	=93	=93	=93	=93
+!	!LO:TX:a:Bi:t=Tempo 1o.	!	!	!	!
+4FF#	4.dd	p	2rdd	.	.
+[<4F#	.	.	.	.	.
+.	8cc#	.	.	.	.
+=94	=94	=94	=94	=94	=94
+*^	*	*	*	*	*
+*	*^	*	*	*	*	*
+2e#X	4d	2F#_<\	(>8bL	<	2rdd	.	.
+.	.	.	8cc#	.	.	.	.
+.	4B	.	8dd	.	.	.	.
+.	.	.	.	.	.	.	.
+.	.	.	8gg#J)	[	.	.	.
+=95	=95	=95	=95	=95	=95	=95	=95
+!	!LO:TX:a:t=P:note position:problem	!	!	!	!	!	!
+2f#	4A	2F#\]	4ff#	.	2rdd	.	.
+.	4c#	.	4ff#	.	.	.	.
+*	*v	*v	*	*	*	*	*
+*v	*v	*	*	*	*	*
+=96	=96	=96	=96	=96	=96
+4FF#	4.dd	.	2rdd	.	.
+[<4F#	.	.	.	.	.
+.	8cc#	.	.	.	.
+!!LO:LB:g=original
+=97	=97	=97	=97	=97	=97
+*^	*	*	*	*	*
+*	*^	*	*	*	*	*
+2e#X	4d	2F#_<\	(>8bL	<	2rdd	.	.
+.	.	.	8cc#	.	.	.	.
+.	4B	.	8dd	.	.	.	.
+.	.	.	8gg#J)	[	.	.	.
+=98	=98	=98	=98	=98	=98	=98	=98
+!	!LO:TX:a:t=P:note position:problem	!	!	!	!	!	!
+2f#	4A	2F#\]	2ff#	.	2rdd	.	.
+.	4c#	.	.	.	.	.	.
+*	*v	*v	*	*	*	*	*
+*v	*v	*	*	*	*	*
+=99	=99	=99	=99	=99	=99
+!LO:TX:a:Bi:t=rubato.	!	!	!	!	!
+4c# 4F# 4E 4AA#X	(>8ee#XL	.	2rdd	.	.
+.	8ff#	.	.	.	.
+4B 4F# 4D 4BB	8eenT>	.	.	.	.
+.	8ddJ)	.	.	.	.
+=100	=100	=100	=100	=100	=100
+4B 4E#X 4C#	(>8b#XL	.	2rdd	.	.
+.	8cc#	.	.	.	.
+4B 4F# 4D	8bnT>	.	.	.	.
+.	8aJ)	.	.	.	.
+=101	=101	=101	=101	=101	=101
+4d 4F# 4BB	(<8g#t>L	.	2rdd	.	.
+.	8f#	.	.	.	.
+4B 4E#X 4C#	8g#	.	.	.	.
+.	8cc#J)	.	.	.	.
+=102	=102	=102	=102	=102	=102
+!LO:TX:a:Bi:t=rit&colon;	!	!	!	!	!
+4FF#	4f# 4A	.	2rdd	.	.
+!	!	!LO:HP:b=2	!	!	!
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!	!	!
+(>12E#XL	4a 4c#^>	>	.	.	.
+12F#	.	.	.	.	.
+12C#J)	.	]	.	.	.
+=103	=103	=103	=103	=103	=103
+4FF#	4f# 4A	.	2rdd	.	.
+!	!	!LO:HP:b=2	!	!	!
+(>12E#XL	4a 4c#^>	>	.	.	.
+12F#	.	.	.	.	.
+12C#J)	.	]	.	.	.
+=104	=104	=104	=104	=104	=104
+2FF#	2f# 2A	.	2rdd	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cres:" fontstyle="bold-italic"
+!!!RDF**dynam: > = "dim:" fontstyle="bold-italic"
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2020-01-29
+!!!EED: Mateusz Mrugas
+!!!EST: revision finished 2020-02-04
+!!!rism-genre: Troubled Waters
+!!!rism-key: F-sharp minor
+!!!rism-opus: Op. 74, No. 3
+!!!rism-title: Troubled Waters in F-sharp minor Op. 74 No. 3

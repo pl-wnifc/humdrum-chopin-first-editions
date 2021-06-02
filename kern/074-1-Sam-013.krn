@@ -1,0 +1,360 @@
+!!!!SEGMENT: 074-1-Sam-013.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: No. 13. Melancholie
+!!!OPS: Op. 74
+!!!PTL: 16 | Polnische Lieder | von Witwicki, Zaleski Mickiewicz etc. | für eine Singstimme | mit Begleitung des Pianoforte
+!!!PPR: Schlesinger
+!!!PPP: Berlin
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: PL-Wbfc 6138/n
+!!!OMD: Lento.
+!!!OMD: M.M. [quarter] = 63.
+!!!system-decoration: (s1){(s2,s3)}
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff2	*	*staff1	*	*
+*	*I"PIANO.	*	*I"SINGSTIMME.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[]	*k[]	*	*k[]	*	*
+*a:	*a:	*	*a:	*	*
+*M2/4	*M2/4	*	*M2/4	*	*
+*MM63	*MM63	*	*MM63	*	*
+=1	=1	=1	=1	=1	=1
+*	*^	*	*	*	*
+!LO:TX:a:Bi:t=e legato.:dur=2q:ext=s:problem:text with extention lines	!	!	!	!	!	!
+!	!	!	!LO:DY:rj	!	!	!
+4A 4AA	4a 4e 4c	4ryy	p	2r	.	.
+4A 4D	8.aL	4f 4d	.	.	.	.
+.	16bJk	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+4A 4AA	4a 4e 4c	4ryy	.	2r	.	.
+4A 4D	8.aL	4f 4d	.	.	.	.
+.	16bJk	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+4A 4AA	4a 4e 4c	4ryy	.	2r	.	.
+4BB	8.g#XL	4e 4B	.	.	.	.
+.	16aJk	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=4	=4	=4	=4	=4	=4
+4BB	4f#X 4d#X 4B< 4A<	.	2r	.	.
+4EE	4e 4B< 4G#X<	.	.	.	.
+!LO:TX:b:t=[segno]	!LO:TX:a:t=[segno]	!	!LO:TX:a:t=[segno]	!	!
+=5||	=5||	=5||	=5||	=5||	=5||
+*	*	*	*	*^	*
+*	*	*	*	*	*^	*
+*	*	*	*	*	*	*	*above
+!	!	!	!LO:TX:a:i:t=con espressione.	!	!	!	!
+!	!	!LO:DY:rj	!	!	!	!	!LO:DY:rj
+2E 2EE\	2e 2d 2G#X<	p	4e	1. Trüb’	2. Son-	3. Sin-	p <
+.	.	.	8.b	ist	-ne,	-gen	[
+.	.	.	16cc	der	wann	und	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2E 2AA	2e 2c 2A<	.	(<4a	Him-	strahlst	lie-	.
+.	.	.	&(8qb/	.	.	.	.
+.	.	.	8a&))	.	.	.	.
+.	.	.	8g	-mel,	du	-ben,	.
+=7	=7	=7	=7	=7	=7	=7	=7
+4AA\	2d 2B< 2A<	.	4f	trüb’	hel-	lie-	.
+4DD^>\	.	.	8g	ists	-le	-ben	.
+.	.	.	8f	im	mir	und	.
+!!LO:LB:g=original
+=8	=8	=8	=8	=8	=8	=8	=8
+2E 2AA	2e 2c 2A<	.	4.e	Her-	wie-	sin-	<
+.	.	.	8ee	-zen,	-der,	-gen,	[
+=9	=9	=9	=9	=9	=9	=9	=9
+2E 2EE	2g#X 2d	.	8ddL	trüb	wann	so	.
+.	.	.	8ccJ	.	.	.	.
+.	.	.	8b	ist	seh	träumt'	.
+.	.	.	8cc	das	ich	ich	.
+=10	=10	=10	=10	=10	=10	=10	=10
+!	!	!	!	!LO:TX:a:t=P:w źródle brak myślnika rozdzielającego sylaby "Welt-all":problem	!	!	!
+4F 4FF	4a 4c 4A	.	4a	Welt-	blau	einst	.
+4D 4DD	4a 4f 4B 4A	.	4b/	-all,	den	mein	.
+=11	=11	=11	=11	=11	=11	=11	=11
+*ped	*	*	*	*	*	*	*
+!LO:TX:b:t=P:znak pealizacji przed nutą:problem	!	!	!	!	!	!	!
+!	!	!	!LO:TX:t=P:w źródle triola połączona łukiem, bez klamry:problem	!	!	!	!
+!	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!	!
+2E 2EE	2g#X 2e 2d 2B	.	(<12eL	dun-	Him-	gan-	.
+.	.	.	12fJ	.	.	.	.
+.	.	.	12e)	-kel	.	.	.
+*Xped	*	*	*	*	*	*	*
+.	.	.	4g#X	und	-mels-	-zes	.
+=12	=12	=12	=12	=12	=12	=12	=12
+!	!	!	!	!LO:TX:a:t=P:w źródle brak myślnika rozdzielającego sylaby "schau-rig":problem	!	!	!
+4A 4AA\	4a 4e 4c	.	4a	schau-	-bo-	Le-	.
+4E	4e 4c 4A	.	8cc	-rig;	-gen,	-ben,	.
+.	.	.	8r	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+*ped	*	*	*	*	*	*	*
+!LO:TX:b:t=P:znak pealizacji przed nutą:problem	!	!	!	!	!	!	!
+!	!	!LO:DY:rj	!	!	!	!	!
+[<2C	[>2e [<2c [>2G<	mf	4cc	tief	ach	doch	<
+.	.	.	8dd	in	mei-	für	.
+.	.	.	8ee	der	-ne	wen	[
+=14	=14	=14	=14	=14	=14	=14	=14
+!	!	!	!	!	!	!LO:TX:a:t=P:w źródle brak myślnika rozdzielającego sylaby "soll-ten":problem	!
+2C]	2e] 2c] 2G<]	.	4g	Brust	Lie-	soll-	.
+*Xped	*	*	*	*	*	*	*
+.	.	.	4a	da	-der,	-ten	.
+!!LO:LB:g=original
+=15	=15	=15	=15	=15	=15	=15	=15
+2GG	2d 2B< 2G<	.	4b	wüh-	fröh-	Lie-	.
+.	.	.	8cc	-len	-li-	-der	>
+.	.	.	8b	die	-che	er-	]
+=16	=16	=16	=16	=16	=16	=16	=16
+!	!	!	!	!LO:TX:a:t=P:w źródle brak myślnika rozdzielającego sylaby "Schmer-zen":problem	!	!	!
+2DD	2f 2d 2A<	.	4a	Schmer-	Lie-	-klin-	.
+.	.	.	8b/	-zen,	-der,	-gen,	.
+.	.	.	8r	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+*ped	*	*	*	*	*	*	*
+!LO:TX:b:t=P:znak pealizacji przed nutą:problem	!	!	!	!	!	!	!
+2E 2EE	2e 2d 2B< 2#G<	.	4g#X	Al-	ihr	wem	.
+.	.	.	8e	-les	auch	soll-	.
+*Xped	*	*	*	*	*	*	*
+.	.	.	8e	ist	ihr	-te	.
+=18	=18	=18	=18	=18	=18	=18	=18
+4AA\	4e 4c 4A	.	(>4a	stumm,	seid	mei-	.
+4DD\	4f 4d 4A<	.	8.dd)	.	.	.	.
+.	.	.	16a	ver-	von	-ne	.
+=19	=19	=19	=19	=19	=19	=19	=19
+4EE\	4e 4c 4A<	.	4cc	-ö-	mir	Lie-	.
+4E\	4e 4d 4#G<	.	8.b	-det	fort-	-be	.
+.	.	.	16cc	und	-ge-	ich	.
+=20	=20	=20	=20	=20	=20	=20	=20
+!	!	!	!	!LO:TX:a:t=P:w źródle brak myślnika rozdzielającego sylaby "trau-rig":problem	!	!	!
+4AA\	4e 4c 4A<	.	4a	trau-	-zo-	ge-	.
+4C\	4e 4c 4Gn<	.	4gn	-rig,	-gen,	-ben?	.
+!!LO:PB:g=original
+=21	=21	=21	=21	=21	=21	=21	=21
+*ped	*	*	*	*	*	*	*
+[<2C	[>2e [<2c [>2G<	.	4cc	tief	ach	doch	<
+.	.	.	8dd	in	mei-	für	.
+.	.	.	8ee	der	-ne	wen	[
+=22	=22	=22	=22	=22	=22	=22	=22
+2C]	2e] 2c] 2G<]	.	4g	Brust	Lie-	soll-	.
+*Xped	*	*	*	*	*	*	*
+.	.	.	4a	da	-der,	-ten	.
+=23	=23	=23	=23	=23	=23	=23	=23
+2GG\	2d 2B< 2G<	.	4b	wüh-	fröh-	Lie-	.
+.	.	.	8cc	-len	-li-	-der	>
+.	.	.	8b	die	-che	er-	]
+=24	=24	=24	=24	=24	=24	=24	=24
+!	!	!	!	!LO:TX:a:t=P:w źródle brak myślnika rozdzielającego sylaby "Schmer-zen":problem	!	!	!
+2DD\	2f 2d 2A<	.	4a	Schmer-	Lie-	-klin-	.
+.	.	.	8b	-zen,	-der,	-gen,	.
+.	.	.	8r	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+2E 2EE\	2e 2d 2B< 2#G<	.	4g#X	Al-	ihr	wem	.
+.	.	.	8e	-les	auch	soll-	.
+.	.	.	8e	ist	ihr	-te	.
+=26	=26	=26	=26	=26	=26	=26	=26
+4AA\	4e 4c 4A<	.	(>4a	stumm,	seid	mei-	.
+4D 4DD\	4f 4d 4A<	.	8dd)	.	.	.	.
+.	.	.	8a	ver-	von	-ne	.
+=27	=27	=27	=27	=27	=27	=27	=27
+[>2E [<2EE	[>2e [<2c [>2A<	.	4cc	-ö-	mir	Lie-	.
+!	!	!	!	!	!LO:TX:a:t=P:w źródle brak myślnika rozdzielającego sylaby "fort-ge-":problem	!	!LO:HP:a
+.	.	.	8b	-det	fort-	-be	<
+.	.	.	8a	und	-ge-	ich	.
+!!LO:LB:g=original
+=28	=28	=28	=28	=28	=28	=28	=28
+!	!	!	!	!	!	!	!LO:DY:rj
+2E] 2EE]\	2e] 2c] 2A<]	.	[>2ee	trau-	-zo-	ge-	sf
+=29	=29	=29	=29	=29	=29	=29	=29
+!	!	!	!	!	!	!	!LO:HP:a
+[>2E [<2EE	2e 2B< 2A<	.	(>8eeL]	.	.	.	>
+.	.	.	8ff	.	.	.	.
+.	.	.	8ee	.	.	.	.
+.	.	.	8dd#XJ)	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30
+2E] 2EE]	4e 4d 4B< 4G#<	.	(>8eeL	.	.	.	.
+.	.	.	8b	.	.	.	.
+.	4#g 4e 4d	.	8ddn	.	.	.	.
+.	.	.	8ccJ)	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31
+*	*^	*	*	*	*	*	*
+!	!	!	!LO:DY:rj	!	!	!	!	!
+4A 4AA	4a 4e 4c	4ryy	p	4a	-rig.	-gen.	-ben?	.
+4A 4D	8.aL	4f 4d	.	4r	.	.	.	.
+.	16bJk	.	.	.	.	.	.	.
+*	*	*	*	*	*	*v	*v	*
+*	*	*	*	*	*v	*v	*
+=32	=32	=32	=32	=32	=32	=32
+4A 4AA	4a 4e 4c	4ryy	.	2rdd	.	.
+4A 4D	8.aL	4f 4d	.	.	.	.
+.	16bJk	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33
+4A 4AA	4a 4e 4c	4ryy	.	2rdd	.	.
+4E	8.g#XL	4e 4B	.	.	.	.
+.	16aJk	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=34	=34	=34	=34	=34	=34
+4BB	4f#X 4d#X 4B< 4A<	.	2rdd	.	.
+!LO:TX:b:Bi:t=Del Segno.	!	!	!	!	!
+4E 4EE	4e 4B< 4G#X<	.	.	.	.
+!LO:TX:b:t=[segno]	!LO:TX:a:t=[segno]	!	!LO:TX:a:t=[segno]	!	!
+!!LO:LB:g=original
+=35|!	=35|!	=35|!	=35|!	=35|!	=35|!
+!	!	!	!LO:TX:a:i:t=con espressione.	!	!
+!	!	!LO:DY:a:rj	!	!	!LO:DY:rj
+!	!LO:TX:a:Bi:t=e legato.	!	!	!	!
+2E 2EE\	2e 2d 2B< 2G#X<	p	4e	O	p <
+.	.	.	8.b	wie	.
+.	.	.	16cc	so	[
+=36	=36	=36	=36	=36	=36
+2E 2AA	2e 2c 2A<	.	(<4a	kalt	.
+.	.	.	&(<8qb/	.	.
+.	.	.	8a&))	.	.
+.	.	.	8g	mein	.
+=37	=37	=37	=37	=37	=37
+4AA	2d 2B< 2A<	.	4f	Herz,	.
+4DD^>	.	.	8g	mei-	.
+.	.	.	8f	-ne	.
+=38	=38	=38	=38	=38	=38
+!	!	!	!	!LO:TX:a:t=P:w źródle brak myślnika rozdzielającego sylaby "Glie-der!":problem	!
+2E 2AA	2e 2c 2A<	.	4.e	Glie-	<
+.	.	.	8ee	-der!	[
+=39	=39	=39	=39	=39	=39
+2E 2EE\	2g#X 2d 2B	.	8ddL	möch-	.
+.	.	.	8ccJ	.	.
+.	.	.	8b	-te	.
+.	.	.	8cc	so	.
+=40	=40	=40	=40	=40	=40
+4F 4FF\	4a 4c 4A	.	4a	gern	.
+4D 4DD	4a 4f 4B< 4A<	.	4b\	vom	.
+=41	=41	=41	=41	=41	=41
+*ped	*	*	*	*	*
+!	!	!	!LO:TX:t=P:w źródle triola połączona łukiem, bez klamry:problem	!	!
+!	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+2E 2EE	2g#X 2e 2d 2B<	.	(<12eL	Le-	.
+.	.	.	12fJ	.	.
+.	.	.	12e)	.	.
+*Xped	*	*	*	*	*
+.	.	.	4g#X	-ben	.
+=42	=42	=42	=42	=42	=42
+!	!	!	!	!LO:TX:a:t=P:w źródle brak myślnika rozdzielającego sylaby "schei-den":problem	!
+4A 4AA\	4a 4e 4c	.	4a	schei-	.
+4E 4AA\	4e 4c 4A<	.	8cc	-den,	.
+.	.	.	8r	.	.
+!!LO:PB:g=original
+=43	=43	=43	=43	=43	=43
+!	!	!	!	!LO:TX:a:t=P:w źródle brak myślnika rozdzielającego sylaby "Him-mel":problem	!
+!	!	!LO:DY:rj	!	!	!
+*ped	*	*	*	*	*
+[<2C	[>2e [<2c [>2G<	mf	(4cc	Him-	<
+.	.	.	8dd	-mel,	.
+.	.	.	8ee)	o	[
+=44	=44	=44	=44	=44	=44
+2C]	2e] 2c] 2G<]	.	4g	gieb	.
+*Xped	*	*	*	*	*
+.	.	.	4a	mir	.
+=45	=45	=45	=45	=45	=45
+!	!	!	!	!LO:TX:a:t=P:w źródle brak myślnika rozdzielającego sylaby "Fröh-lich-keit":problem	!
+2GG	2d 2B< 2G<	.	4b	Fröh-	.
+.	.	.	8cc	-lich-	>
+.	.	.	8b	-keit	]
+=46	=46	=46	=46	=46	=46
+2DD	2f 2d 2A<	.	4a	wie-	.
+.	.	.	4b/	-der,	.
+=47	=47	=47	=47	=47	=47
+2E 2EE	2e 2d 2B< 2#G<	.	4g#X	o-	.
+.	.	.	8e	-der	.
+.	.	.	8e	er-	.
+=48	=48	=48	=48	=48	=48
+4AA\	4e 4c 4A<	.	(>4a	-lös’	.
+4DD\	4f 4d 4A<	.	8.dd)	mich	.
+.	.	.	16a	von	.
+=49	=49	=49	=49	=49	=49
+4EE\	4e 4c 4A<	.	(>4cc	mei-	.
+4E\	4e 4d 4G#<	.	8.b)	.	.
+.	.	.	16cc	-nen	.
+=50	=50	=50	=50	=50	=50
+4AA\	4e 4c 4A<	.	4a	Lei-	.
+4C\	4e 4c 4Gn<	.	4gn	-den,	.
+!!LO:LB:g=original
+=51	=51	=51	=51	=51	=51
+[<2C	[>2e [<2c [>2G<	.	(>4cc	Him-	.
+.	.	.	8dd	-mel,	.
+.	.	.	8ee)	o	.
+=52	=52	=52	=52	=52	=52
+2C]	2e] 2c] 2G<]	.	4g	gieb	.
+.	.	.	4a	mir	.
+=53	=53	=53	=53	=53	=53
+!	!	!	!	!LO:TX:a:t=P:w źródle brak myślnika rozdzielającego sylaby "Fröh-lich-keit":problem	!
+2GG	2d 2B< 2G<	.	4b	Fröh-	.
+.	.	.	8cc	-lich-	>
+.	.	.	8b	-keit	]
+=54	=54	=54	=54	=54	=54
+2DD\	2f 2d 2A<	.	4a	wie-	.
+.	.	.	4b/	-der,	.
+=55	=55	=55	=55	=53	=53
+2E 2EE\	2e 2d 2B< 2#G<	.	4g#X	o-	.
+.	.	.	8e	-der	.
+.	.	.	8e	er-	.
+=56	=56	=56	=56	=56	=56
+4AA	4e 4c 4A<	.	(>4a	lös’	.
+4D 4DD	4f 4d 4A<	.	8dd)	mich	.
+.	.	.	8a	von	.
+=57	=57	=57	=57	=57	=57
+[>2E [<2EE	[>2e [<2c [>2A<	.	(>4cc	mei-	.
+!	!	!	!	!	!LO:HP:a
+.	.	.	8b)	.	<
+.	.	.	8a	nen	.
+!!LO:LB:g=original
+=58	=58	=58	=58	=57	=57
+!	!	!	!	!	!LO:DY:rj
+2E] 2EE]	2e] 2c] 2A<]	.	[>2ee	Lei-	sf
+=59	=59	=59	=59	=57	=57
+[<2E [<2EE	2e 2B< 2A<	.	(>8eeL]	.	.
+.	.	.	8ff	.	.
+.	.	.	8ee	.	.
+.	.	.	8dd#XJ)	.	.
+=60	=60	=60	=60	=60	=60
+2E] 2EE]	4e 4d 4#G<	.	(>8eeL	.	.
+.	.	.	8b	.	.
+.	4#g 4e 4d	.	8ddn	.	.
+.	.	.	8ccJ)	.	.
+=61	=61	=61	=61	=61	=61
+*	*^	*	*	*	*
+4A 4AA\	4a 4e 4c	4ryy	p	4a	-den.	.
+4A 4D	8.aL	4f 4d	.	4r	.	.
+.	16bJk	.	.	.	.	.
+*	*	*	*	*	*	*below
+=62	=62	=62	=62	=62	=62	=62
+4A 4AA	4a 4e 4c	4ryy	.	2r	.	.
+4A 4D	8.aL	4f 4d	.	.	.	.
+.	16bJk	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63
+4A 4AA	4a 4e 4c	4ryy	.	2r	.	.
+4E	8g#XL	4e 4B	.	.	.	.
+.	8aJk	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=64	=64	=64	=64	=64	=64
+4BB	4f#X 4d#X 4B< 4A<	.	2r	.	.
+4E 4EE	4e 4B< 4G#X<	.	.	.	.
+=65	=65	=65	=65	=65	=65
+[>2E [<2EE^>	2b 2g#X 2d	.	2r	.	.
+=66	=66	=66	=66	=66	=66
+2E] 2EE]	4cc 4#g 4e	.	2r	.	.
+.	4g#yX 4e 4B	.	.	.	.
+=67	=67	=67	=67	=67	=67
+.	8qg#X/	.	.	.	.
+2E 2AA	2a 2e 2c	.	2r	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: > = "dim", fontstyle="bold-italic"
+!!!RDF**dynam: < = "cresc", fontstyle="bold-italic"
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2020-02-10
+!!!EED: Emilia Ziętek
+!!!EST: 2020-02-25
+!!!rism-genre: Melancholie
+!!!rism-key: A minor
+!!!rism-opus: Op. 74, No. 13
+!!!rism-title: Melancholie in A minor Op. 74 No. 13

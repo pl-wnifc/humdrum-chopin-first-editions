@@ -1,0 +1,339 @@
+!!!!SEGMENT: 074-1-G-004.krn
+!!!COM: Fryderyk Chopin
+!!!OTL: Hulanka
+!!!OPS: Op. 74
+!!!PTL: Zbiór śpiewów polskich z towarzyszeniem fortepianu
+!!!PPR: Gebethner
+!!!PPP: Warsaw
+!!!NIFC-rismID: 300605190
+!!!NIFC-shelfmark: PL-Wbfc 963/n
+!!!OMD: Vivace
+!!!OMD: M M [half-dot] = 63.
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*	*part1
+*staff3	*staff2	*	*staff1	*	*
+*I"PIANO.	*	*	*I"CANTO.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[]	*k[]	*	*k[]	*	*
+*C:	*C:	*	*C:	*	*
+*M3/4	*M3/4	*	*M3/4	*	*
+*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*
+!	!	!LO:DY:rj	!	!	!
+4GG\ 4GGG\	4G<	f	2.rdd	.	.
+4GG\ 4GGG\	4G<	.	.	.	.
+!	!LO:TX:t=P:błędne wyświetlanie:problem	!	!	!	!
+16FF#\qqL	16F#<qqL	.	.	.	.
+16EEqqJ	16E<qqJ	.	.	.	.
+4DD\	4D<	sf	.	.	.
+=2	=2	=2	=2	=2	=2
+!	!	!LO:DY:rj	!	!	!
+4GG\ 4GGG\	4G<	f	2.rdd	.	.
+4GG\ 4GGG\	4G<	.	.	.	.
+!	!LO:TX:t=P:błędne wyświetlanie:problem	!	!	!	!
+16FF#\qqL	16F#<qqL	.	.	.	.
+16EEqqJ	16E<qqJ	.	.	.	.
+4DD\	4D<	sf	.	.	.
+=3	=3	=3	=3	=3	=3
+!	!	!LO:DY:rj	!	!	!
+4GG\ 4GGG\	4G<	f	2.rdd	.	.
+4GG\ 4GGG\	4G<	.	.	.	.
+!	!LO:TX:t=P:błędne wyświetlanie:problem	!	!	!	!
+16FF#\qqL	16F#<qqL	.	.	.	.
+16EEqqJ	16E<qqJ	.	.	.	.
+4DD\	4D<	sf	.	.	.
+=4	=4	=4	=4	=4	=4
+4GG\ 4GGG\	4G<	.	2.rddyy	.	.
+4GG\ 4GGG\	4G<	.	.	.	.
+4GG\ 4GGG\	4f^> 4B< 4G<	.	.	.	.
+=5|!	=5|!	=5|!	=5|!	=5|!	=5|!
+*	*	*	*	*^	*
+!	!	!	!LO:TX:a:B:t=risoluto.	!	!	!
+!	!	!LO:TX:t=P:złe wyświetlanie "mf":problem	!	!	!	!
+!	!	!LO:DY:rj	!	!	!	!
+4C 4CC	4e 4c 4G<	mf	8e	Szyn-	Cóż	.
+.	.	.	8d	-ka-	tak	.
+4C 4CC	4e 4c 4G<	.	4.c	-recz-	bra-	.
+4C 4CC	4e 4c 4G<	.	.	.	.	.
+.	.	.	8d	-ko	-cie	.
+!!LO:LB:g=original
+=6	=6	=6	=6	=6	=6	=6
+4CC 4C	4e 4c 4G<	.	8e	Sza-	Wciąż	.
+!	!LO:TX:b:t=cresc. _ :problem:dynamics with line extensions	!	!LO:TX:a:t=cresc. _ :problem:dynamics with line extensions	! 	!	!
+!	!	!LO:HP:b:t=cresc.:ext=ud	!	!	!	!LO:HP:a:t=cresc.:ext=ud
+!	!	!	!	!	!	!LO:HP:a
+.	.	<	.	.	.	<
+.	.	.	8f	-fa-	du-	.
+4CC 4C	4e 4c 4G<	.	4.g	-recz-	-ma-	.
+4CC 4C	4e 4c 4G<	.	.	.	.	.
+.	.	.	8a	-ko	-cie,	.
+=7	=7	=7	=7	=7	=7	=7
+4CC 4C	4e 4c 4G<	.	8g	Bóy	Bierz-	.
+.	.	.	8a	się	tam	.
+4CC 4C	4e 4c 4G<	.	4g	Bo-	smut-	.
+4CC 4C	4e 4c 4G<	[[	4cc	-ga	-ki	[[
+*ped	*	*	*	*	*	*
+=8	=8	=8	=8	=8	=8	=8
+!	!	!	!	!	!	!LO:DY:a
+!	!	!	!	!	!	!LO:DY:rj
+!	!	!LO:DY:rj	!	!	!	!
+2.GG 2.GGG;<	2.g 2.d 2.B< 2.G<	ff	2.dd;>	stóy!	czart!	sf
+*Xped	*	*	*	*	*	*
+.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9
+2.GG\	4r	p	8f	Tam	Peł-	.
+.	.	.	8a	się	-no	.
+.	4f/ 4B</ 4G</	.	4f	śmie-	nę-	.
+.	.	.	(<16qqf/LL	.	.	.
+.	.	.	16qqe/JJ)	.	.	.
+.	4f/ 4B</ 4G</	.	4d^>	-jeszcz	-dzy,	.
+=10	=10	=10	=10	=10	=10	=10
+2.C\	4r	.	8e	A	Ot	.
+.	.	.	8g	tu	piy	.
+.	4e/ 4c/ 4G</	.	4e	le-	prę-	.
+.	.	.	(<16qqe/LL	.	.	.
+.	.	.	16qqd/JJ)	.	.	.
+.	4e/ 4c/ 4G</	.	4c^>	-jesz	dzéy,	.
+!!LO:LB:g=original
+=11	=11	=11	=11	=11	=11	=11
+2.GG\	4r	.	8d	Miód	Świat	.
+!	!	!	!	!	!	!LO:HP:a
+.	.	.	.	.	.	<
+.	.	.	8e	na	ten	.
+.	4f 4B< 4G<	.	4f	kaf-	dja-	.
+.	4f 4B< 4G<	.	4a	-tan	bła	[
+=12	=12	=12	=12	=12	=12	=12
+2C\	4r	.	2.g	móy.	wart!	.
+.	4e 4c 4G<	.	.	.	.	.
+4C#X	4e^> 4B-X< 4G<	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13
+4D	4f 4d 4A<	.	8f	Tam	Peł-	.
+!	!LO:TX:t=legato.	!	!	!	!	!
+.	.	.	.	.	.	.
+.	.	.	8a	się	-no	.
+4C\	4f 4d 4A-X<	.	4f	śmie-	nę-	.
+.	.	.	(<16qqf/LL	.	.	.
+.	.	.	16qqe/JJ)	.	.	.
+4BB	4f^> 4d 4G<	.	4d^>	-jesz	-dzy,	.
+=14	=14	=14	=14	=14	=14	=14
+4C	4e 4c 4G<	.	8e	A	Ot	.
+.	.	.	8g	tu	piy	.
+4AA	4e 4c 4A<	.	4e	le-	prę-	.
+.	.	.	(<16qqe/LL	.	.	.
+.	.	.	16qqd/JJ)	.	.	.
+4EE	4e^> 4c 4G<	.	4c^>	-jesz	-dzéy,	.
+=15	=15	=15	=15	=15	=15	=15
+4FF\	4d 4c 4A	.	8d	Miód	Świat	.
+.	.	.	8a	na	ten	.
+4GG	4f 4B< 4G<	.	4.g^>	kaf-	dja-	.
+4GG	4f 4B< 4G<	.	.	.	.	.
+.	.	.	8BJ	-tan	-bła	.
+=16	=16	=16	=16	=16	=16	=16
+4C\ 4CC\	4e 4c 4G<	.	2.c	móy!	wart!	.
+4G\ 4C\	4r	.	.	.	.	.
+4G^> 4C	4r	.	.	.	.	.
+*	*	*	*	*v	*v	*
+!!LO:PB:g=original
+=17|!	=17|!	=17|!	=17|!	=17|!	=17|!
+!	!	!LO:DY:rj	!	!	!
+*ped	*	*	*	*	*
+!LO:TX:t=[segno]	!LO:TX:a:t=[segno]	!	!LO:TX:a:t=[segno]	!	!
+!LO:TX:t=P:złe wyświetlanie segno:problem	!	!	!	!	!
+4B 4G 4F 4C	(>8g\L]	f<	2.rdd	.	.
+.	8ddJ	.	.	.	.
+4B 4G 4F 4C	4.gg)	[	.	.	.
+4B 4G 4F 4C	.	>	.	.	.
+.	8ee	]	.	.	.
+=18	=18	=18	=18	=18	=18
+4B 4G 4F 4C	(8ddL	.	2.rdd	.	.
+.	8gJk)	.	.	.	.
+*Xped	*	*	*	*	*
+4B 4G 4F 4C	4.dd	.	.	.	.
+4c 4G 4E 4C	.	.	.	.	.
+.	8ccT	.	.	.	.
+=19	=19	=19	=19	=19	=19
+*ped	*	*	*	*	*
+4B 4G 4F 4C	(8gL	<	2.rdd	.	.
+.	8ddJk	.	.	.	.
+4B 4G 4F 4C	8ggL	[	.	.	.
+.	8ff#X	.	.	.	.
+4B 4G 4F 4C	8gg	.	.	.	.
+.	8eeJ)	.	.	.	.
+=20	=20	=20	=20	=20	=20
+4B 4G 4F 4C	(8ddL	.	2.rdd	.	.
+*Xped	*	*	*	*	*
+.	8gJk)	.	.	.	.
+4c 4G 4E 4C	4cc	.	.	.	.
+4c 4G 4E 4C	(8eeL	.	.	.	.
+.	8ff#XJ)	.	.	.	.
+=21	=21	=21	=21	=21	=21
+4B 4G 4F 4C	(8ggL	.	2.rdd	.	.
+.	8gJk)	.	.	.	.
+4c 4G 4E 4C	4cc	.	.	.	.
+4c 4G 4E 4C	(8eeL	.	.	.	.
+.	8ff#XJ)	.	.	.	.
+=22	=22	=22	=22	=22	=22
+4B 4G 4F 4C	(8ggL	.	2.rdd	.	.
+.	8gJk)	.	.	.	.
+4c 4G 4E 4C	4cc	.	.	.	.
+4c 4G 4E 4C	(8eeL	.	.	.	.
+.	8ff#XJ)	.	.	.	.
+!!LO:LB:g=original
+=23	=23	=23	=23	=23	=23
+*ped	*	*	*	*	*
+4B 4G 4F 4C	(8ggL	.	2.rdd	.	.
+.	8aaJk	.	.	.	.
+4B 4G 4F 4C	4gg	.	.	.	.
+4B 4G 4F 4C	8ddL	.	.	.	.
+*Xped	*	*	*	*	*
+.	8eeXJ)	.	.	.	.
+=24	=24	=24	=24	=24	=24
+*ped	*	*	*	*	*
+4c 2G 2E 2C	4cc	.	2.rdd	.	.
+4C 4CC	4cc 4gg 4ee 4ccc	sf	.	.	.
+*Xped	*	*	*	*	*
+!LO:TX:a:B:t=FINE.	!	!	!	!	!
+4r	4r	.	.	.	.
+=25|!	=25|!	=25|!	=25|!	=25|!	=25|!
+*	*	*	*	*	*
+!	!	!LO:DY:rj	!	!	!
+4GG\ 4GGG\	4G<	f	2.rdd	.	.
+4GG\ 4GGG\	4G<	.	.	.	.
+!	!LO:TX:t=P:błędne wyświetlanie:problem	!	!	!	!
+16FF#\qqL	16F#<qqL	.	.	.	.
+16EEqqJ	16E<qqJ	.	.	.	.
+4DD\	4D<	sf	.	.	.
+=26	=26	=26	=26	=26	=26
+*	*	*	*	*	*
+!	!	!LO:DY:rj	!	!	!
+4GG\ 4GGG\	4G<	f	2.rdd	.	.
+4GG\ 4GGG\	4G<	.	.	.	.
+!	!LO:TX:t=P:błędne wyświetlanie:problem	!	!	!	!
+16FF#\qqL	16F#<qqL	.	.	.	.
+16EEqqJ	16E<qqJ	.	.	.	.
+4DD\	4D<	sf	.	.	.
+=27	=27	=27	=27	=27	=27
+*	*	*	*	*	*
+!	!	!LO:DY:rj	!	!	!
+4GG\ 4GGG\	4G<	f	2.rdd	.	.
+4GG\ 4GGG\	4G<	.	.	.	.
+!	!LO:TX:t=P:błędne wyświetlanie:problem	!	!	!	!
+16FF#\qqL	16F#<qqL	.	.	.	.
+16EEqqJ	16E<qqJ	.	.	.	.
+4DD\	4D<	sf	.	.	.
+=28	=28	=28	=28	=28	=28
+4GG\ 4GGG\	4G<	.	2.rddyy	.	.
+4GG\ 4GGG\	4G<	.	.	.	.
+4GG\ 4GGG\	4f^> 4B< 4G<	.	.	.	.
+=29|!	=29|!	=29|!	=29|!	=29|!	=29|!
+*	*	*	*	*^	*
+*	*	*	*	*	*^	*
+!	!	!	!LO:TX:a:B:t=risoluto.	!	!	!	!
+!	!	!LO:DY:rj	!	!	!	!	!
+!	!LO:TX:t=P:złe wyświetlanie "mf":problem	!	!	!	!	!	!
+4C 4CC	4e 4c 4G<	mf	8e	Nie	Pia-	Piy	.
+.	.	.	8d	da-	-ne	lub	.
+4C 4CC	4e 4c 4G<	.	4.c	ru-	no-	ki-	.
+4C 4CC	4e 4c 4G<	.	.	.	.	.	.
+.	.	.	8d	-ję	gi	jem	.
+!!LO:LB:g=original
+=30	=30	=30	=30	=30	=30	=30	=30
+4CC 4C	4e 4c 4G<	.	8e	Wy-	Zbłą-	Się	.
+!	!LO:TX:b:t=cresc. _ :problem:dynamics with line extensions	!	!LO:TX:a:t=cresc. _ :problem:dynamics with line extensions	!	!	!	!
+!	!	!LO:HP:b:t=cresc.:ext=ud	!	!	!	!	!LO:HP:b:t=cresc.:ext=ud
+!	!	!	!	!	!	!	!LO:HP:a
+.	.	<	.	.	.	.	<
+.	.	.	8f	-ca-	-dzą	po-	.
+4CC 4C	4e 4c 4G<	.	4.g	-łu-	z dro-	bi-	.
+4CC 4C	4e 4c 4G<	.	.	.	.	.	.
+.	.	.	8a	-ję	-gi	-jem,	.
+=31	=31	=31	=31	=31	=31	=31	=31
+4CC 4C	4e 4c 4G<	.	8g	Ja-	Cóż	Bieg-	.
+.	.	.	8a	-kie	za	niy	.
+4CC 4C	4e 4c 4G<	.	4g	ocz-	wiel-	dziew-	.
+4CC 4C	4e 4c 4G<	[[	4cc	-ko	-ki	czę	[[
+=32	=32	=32	=32	=32	=32	=32	=32
+!	!	!	!	!	!	!	!LO:DY:a
+!	!	!	!	!	!	!	!LO:DY:rj
+!LO:TX:t=P:dolna oktawa zapisana jako "8":problem	!	!LO:DY:rj	!	!	!	!	!
+!LO:TX:t=P:pod tym i kolejnym taktem alternatywna wersja:problem	!	!	!	!	!	!	!
+[<2.GG/;< 2.GGG	2.g [2.d [>2.B<; [2.G<	ff	2.dd;>	brew!	srom?	w czas!	sf
+.	.	.	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33
+!	!	!	!	!	!	!	!LO:DY:rj
+!	!LO:TX:t=P:złe wyświetlanie "p":problem	!	!	!	!	!	!LO:DY:a
+2.GG\] 2.GGG	4d] 4B<] 4G<]	p	8f	Nóż-	Krzy-	By	p
+.	.	.	8a	-ki	-kiem	po-	.
+.	4f/ 4B</ 4G</	.	4f	ma-	żo-	-go-	.
+.	.	.	(<16qqf/LL	.	.	.	.
+.	.	.	16qqe/JJ)	.	.	.	.
+.	4f/ 4B</ 4G</^>	.	4d^>	-łe	-ny	-dzić	.
+=34	=34	=34	=34	=34	=34	=34	=34
+2.C\	4r	.	8e	Ząb-	Roz-	Nie	.
+.	.	.	8g	ki	-bu-	za-	.
+.	4e/ 4c/ 4G</	.	4e	bia-	-dzony-	-szko-	.
+.	.	.	(<16qqe/LL	.	.	.	.
+.	.	.	16qqd/JJ)	.	.	.	.
+.	4e^>/ 4c/ 4G</	.	4c^>	-łe,	-ny,	-dzić	.
+!!LO:PB:g=original
+=35	=35	=35	=35	=35	=35	=35	=35
+2.GG\	4r	.	8d	Méy	Tra-	O-	.
+!	!	!	!	!	!	!	!LO:HP:a
+.	.	.	.	.	.	.	<
+.	.	.	8e	spa-	-fisz	-bléy	.
+.	4f 4B< 4G<	.	4f	-li	gdzie	mio-	.
+.	4f 4B< 4G<	.	4a	mnie	twóy	-dem	[
+=36	=36	=36	=36	=36	=36	=36	=36
+2C\	4r	.	2.g^>	krew!	dom.	nas!	.
+.	4e 4c 4G<	.	.	.	.	.	.
+4C#X	4e 4B-X< 4G<	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+!	!LO:TX:B:t=legato.	!	!	!	!	!	!
+4D	4f 4d 4A<	.	8f	Nóż-	Krzy-	By	.
+.	.	.	.	.	.	.	.
+.	.	.	8a	-ki	-kiem	po-	.
+4C\	4f 4d 4A-X<	.	4f	ma-	żo-	-go-	.
+.	.	.	(<16qqf/LL	.	.	.	.
+.	.	.	16qqe/JJ)	.	.	.	.
+4BB	4f 4d 4G<	.	4d^>	-łe	-ny	-dzić	.
+=38	=38	=38	=38	=38	=38	=38	=38
+4C	4e 4c 4G<	.	8e	Ząb-	Ro-	Nie	.
+.	.	.	8g	-ki	-bu-	za-	.
+4AA	4e 4c 4A<	.	4e	bia-	-dzo-	-szko-	.
+.	.	.	(<16qqe/LL	.	.	.	.
+.	.	.	16qqd/JJ)	.	.	.	.
+4EE	4e^> 4c 4G<	.	4c^>	-łe	-ny,	-dzić	.
+=39	=39	=39	=39	=39	=39	=39	=39
+4FF/	4d 4c 4A	.	8d	Héy	Tra-	O-	.
+.	.	.	8a	spa-	-fisz	bléy	.
+4GG	4f 4B< 4G<	.	4.g^>	-li	gdzie	mio-	.
+4GG	4f 4B< 4G<	.	.	.	.	.	.
+.	.	.	8BJ	mnie	twóy	-dem	.
+=40	=40	=40	=40	=40	=40	=40	=40
+!	!	!	!LO:TX:t=P:złe wyświetlanie segno:problem	!	!	!	!
+4C\ 4CC\	4e 4c 4G<	.	2.c	krew!	dom.	nas!	.
+4C\ 4CC\	4e 4c 4G<	.	.	.	.	.	.
+!LO:TX:B:t=𝄋	!	!	!	!	!	!	!
+!LO:TX:t=P:złe wyświetlanie segno:problem	!	!	!LO:TX:a:B:t=𝄋	!	!	!	!
+!LO:TX:B:t=D.S.	!	!	!	!	!	!	!
+4C\ 4CC\	4e 4c 4G<	.	.	.	.	.	.
+*	*	*	*	*	*v	*v	*
+*	*	*	*	*v	*v	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!system-decoration: (s1){(s2,s3)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!ENC: Antoni Szymański
+!!!END: 2019-08-26
+!!!EED: Jędrzej Mróz
+!!!EST: revision finished 2019-10-14
+!!!rism-genre: Hulanka
+!!!rism-key: C major
+!!!rism-opus: op.  74, no. 4
+!!!rism-title: L'orgie in C major op.  74, no. 4
+!!!rism-permalink: https://opac.rism.info/search?id=300605190&View=rism
+!!!rism-773a-OPR: 300605186
+!!!rism-parent-permalink: https://opac.rism.info/search?id=300605186&View=rism

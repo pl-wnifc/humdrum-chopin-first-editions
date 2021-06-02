@@ -1,0 +1,875 @@
+!!!!SEGMENT: 009-1-KI-002.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: 2d Nocturne
+!!!OPS: Op. 9
+!!!PTL: Trois Nocturnes pour le Pianoforte
+!!!PPR: Kistner
+!!!PPP: Leipzig
+!!!NIFC-rismID: 1001013451
+!!!NIFC-shelfmark: PL-Wbfc 4255/n
+!!!OMD: M. M. [quarter] = 132
+!!!SIC: Quarter note in MM (there should be eighth note)
+!!!OMD: Andante.
+**kern	**fing	**kern	**fing	**dynam
+*part1	*	*part1	*	*part1
+*staff2	*	*staff1	*	*
+*clefF4	*	*clefG2	*	*
+*k[b-e-a-]	*	*k[b-e-a-]	*	*
+*E-:	*	*E-:	*	*
+*M12/8	*	*M12/8	*	*
+*MM66	*	*MM66	*	*
+!	!	!LO:TX:b:t=P:"espress." rozpoczyna się pod oznaczeniem metrum:problem	!	!
+!	!	!LO:TX:b:i:t=espress.	!	!
+8r	.	8b-	.	.
+=1	=1	=1	=1	=1
+*ped	*	*	*	*
+8EE-'L	.	[4.gg	.	.
+(8e- 8G	.	.	.	.
+!	!	!LO:TX:b:i:t=dolce.	!	!
+.	.	.	.	.
+*Xped	*	*	*	*
+8gJ 8e- 8B-)	.	.	.	.
+*ped	*	*	*	*
+!LO:TX:b:t=P:there is hand written dot above 8C, maybe to show that there should be 8E-. Staccatto is blurred:problem	!	!	!	!
+!LO:SIC:s=8E-'L:v	!	!	!	!
+8C'L	.	(8ggL]	.	.
+(8d 8A-	.	8ff	.	.
+*Xped	*	*	*	*
+!LO:SIC:s=8a-J 8d 8c-):v	!	!	!	!
+8a-J 8d- 8c)	.	8ggJ	.	.
+*ped	*	*	*	*
+8EE-'L	.	4.ff	.	.
+(>8e- 8G	.	.	.	.
+*Xped	*	*	*	*
+8gJ 8e- 8B-)	.	.	.	.
+*ped	*	*	*	*
+8DD'L	.	4ee-)	.	.
+(8e- 8G	.	.	.	.
+*Xped	*	*	*	*
+8gJ 8e- 8B-)	.	(>8b-	.	.
+=2	=2	=2	=2	=2
+*ped	*	*	*	*
+8CCL	.	4gg	.	.
+8en 8G	.	.	.	.
+*Xped	*	*	*	*
+!	!	!LO:TX:b:t=P:w źródle obiegnik równo nad nutą 8cc:problem	!	!
+8gJ 8e 8B-	.	8cc$	.	<
+*ped	*	*	*	*
+8CL	.	4ccc	.	[
+8e 8G	.	.	.	.
+*Xped	*	*	*	*
+8b-J 8e 8c	.	8gg	.	.
+*ped	*	*	*	*
+8FFL	.	4.bb-	.	.
+8d-X 8F	.	.	.	.
+*Xped	*	*	*	*
+8eJ 8d- 8B-	.	.	.	.
+*ped	*	*	*	*
+8FFL	.	4aa-	.	.
+8c 8F	.	.	.	.
+*Xped	*	*	*	*
+8fJ 8c 8A-	.	8gg)	.	.
+=3	=3	=3	=3	=3
+*ped	*	*	*	*
+8BB-L	.	4.ff	.	.
+8d 8F	.	.	.	.
+*Xped	*	*	*	*
+8a-J 8d 8B-	.	.	.	.
+*ped	*	*	*	*
+8BBnL	.	(4gg	.	.
+8f 8G	.	.	.	.
+*Xped	*	*	*	*
+8gJ 8f 8d	.	8dd)	.	.
+*ped	*	*	*	*
+8CL	.	4.ee-	.	.
+8e- 8G	.	.	.	.
+*Xped	*	*	*	*
+8gJ 8e- 8c	.	.	.	.
+*ped	*	*	*	*
+8AAnL	.	4.cc	.	.
+8e- 8G-X	.	.	.	.
+*Xped	*	*	*	*
+8g-XJ 8e- 8c	.	.	.	.
+!!LO:LB:g=original
+=4	=4	=4	=4	=4
+*ped	*	*	*	*
+8BB-yL	.	(8b-L	.	.
+8e- 8F	.	8ddd)	.	.
+*Xped	*	*	*	*
+8a-J 8e- 8B-	.	(8cccJ	.	.
+*ped	*	*	*	*
+8BBB-L	.	16bb-LL	.	.
+.	.	16aa-	.	.
+8d 8F	.	16gg	.	.
+.	.	16aa-)	.	.
+*Xped	*	*	*	*
+!	!	!	!	!LO:DY:rj
+8a-J 8B-	.	(16cc	.	f
+.	.	16ddJJ	.	.
+*ped	*	*	*	*
+8EE-L	.	4.ee-)	.	.
+8e- 8Gny	.	.	.	.
+8gnyJ 8e- 8B-	.	.	.	.
+8E-L	.	4r	.	.
+8e- 8G	.	.	.	.
+8gJ 8e- 8B-	.	(8b-	.	.
+=5	=5	=5	=5	=5
+8E-'L	.	4.gg	.	p
+(8e- 8G	.	.	.	.
+*Xped	*	*	*	*
+8gJ 8e- 8B-)	.	.	.	.
+*ped	*	*	*	*
+8E-'L	.	16ffLL)	.	.
+.	.	16gg	.	.
+(8d 8A-	.	16ffM	.	.
+.	.	16een	.	.
+*Xped	*	*	*	*
+8a-J 8d 8c-X)	.	16ff	.	.
+.	.	16ggJJ	.	.
+*ped	*	*	*	*
+8E-'L	.	8ff	.	.
+(8e- 8G	.	[4ee-X^<	.	.
+*Xped	*	*	*	*
+8gJ 8e- 8B-)	.	.	.	.
+*ped	*	*	*	*
+8D'L	.	16ee-LL]	.	.
+.	.	16ff	.	.
+(8e- 8G	.	16ee-M	.	.
+.	.	16dd	.	.
+*Xped	*	*	*	*
+8gJ 8e- 8B-)	.	16ee-	.	.
+.	.	16ffJJ	.	.
+=6	=6	=6	=6	=6
+*	*	*	*	*^
+*ped	*	*	*	*	*
+8CL	.	16ggLL	.	<	.
+.	.	16bn	.	.	.
+8en 8G	.	16cc	.	.	.
+!	!	!LO:TX:a:t=P:hand written flat:problem	!	!	!
+!	!	!LO:SIC:s=(16dd-^:v	!	!	!
+.	.	(16dd^	.	.	.
+8gJ 8e 8B-	.	16cc)	.	.	.
+.	.	(16ff^J	.	.	<
+8CL	.	16eenL)	.	.	.
+.	.	(16aa-^	.	.	.
+8e 8G	.	16gg)	.	.	.
+!	!	!LO:SIC:s=(16ddd-:v	!	!	!
+.	.	(16ddd	.	.	.
+*Xped	*	*	*	*	*
+8b-J 8e 8c	.	16ccc	.	.	.
+.	.	16ggJJ)	.	[	.
+*ped	*	*	*	*	*
+8FFL	.	4.bb-	.	>	.
+8d-X 8F	.	.	.	.	.
+*Xped	*	*	*	*	*
+8eJ 8d- 8B-	.	.	.	]	.
+*ped	*	*	*	*	*
+8FFL	.	4aa-	.	.	.
+8c 8F	.	.	.	.	.
+*Xped	*	*	*	*	*
+8fJ 8c 8A-	.	8gg	.	.	.
+*	*	*	*	*v	*v
+!!LO:LB:g=original
+=7	=7	=7	=7	=7
+*ped	*	*	*	*
+8BB-L	.	4.ffT	.	.
+8d 8F	.	.	.	.
+*Xped	*	*	*	*
+8a-J 8d 8B-	.	.	.	.
+.	.	16qqee-/LL	.	.
+.	.	16qqff/JJ	.	.
+*ped	*	*	*	*
+8BBnL	.	8ggL	.	.
+8f 8G	.	(8gg	.	.
+*Xped	*	*	*	*
+8gJ 8f 8d	.	8ddJ)	.	.
+*ped	*	*	*	*
+8CL	.	(4.ee-	.	.
+8e- 8G	.	.	.	.
+*Xped	*	*	*	*
+8gJ 8e- 8c	.	.	.	.
+*ped	*	*	*	*
+8AAnL	.	4.cc)	.	.
+8e- 8G-X	.	.	.	.
+*Xped	*	*	*	*
+8g-XJ 8e- 8c	.	.	.	.
+=8	=8	=8	=8	=8
+*ped	*	*	*	*
+8BB-L	.	(8b-L	.	.
+8e- 8F	.	8ddd)	.	.
+*Xped	*	*	*	*
+8a-J 8e- 8B-	.	(8ccc'J	.	.
+*ped	*	*	*	*
+8BBB-L	.	16bb-'LL	.	.
+.	.	16aa-'	.	.
+8d 8F	.	16gg'	.	.
+.	.	16aa-'	.	.
+.	.	8qaa-/	.	.
+*Xped	*	*	*	*
+8a-J 8B-	.	16cc	.	.
+.	.	16ddJJ)	.	.
+*ped	*	*	*	*
+8EE-L	.	[4.ee-	.	.
+8e- 8G	.	.	.	.
+8gJ 8e- 8B-	.	.	.	.
+8E-L	.	8ee-L]	.	.
+8e- 8G	.	8dd	.	.
+*Xped	*	*	*	*
+8gJ 8e- 8B-	.	8ee-J	.	.
+=9	=9	=9	=9	=9
+*ped	*	*	*	*
+8BB-'L	.	4.ff	.	p
+(8d 8F	.	.	.	.
+8fJ 8d 8B-)	.	.	.	.
+!	!	!LO:TX:a:t=P:long accent:problem	!	!
+8BB-'L	.	(4gg^<	.	.
+(8d 8F	.	.	.	.
+*Xped	*	*	*	*
+8fJ 8d 8B-)	.	8ff)	.	.
+*ped	*	*	*	*
+8AAn'L	.	(4.ff	.	pp
+(8c 8F	.	.	.	.
+8fJ 8c)	.	.	.	.
+8AA'L	.	4.cc)	.	.
+(8c 8F	.	.	.	.
+*Xped	*	*	*	*
+8fJ 8c)	.	.	.	.
+!!LO:LB:g=original
+=10	=10	=10	=10	=10
+*ped	*	*	*	*
+!	!	!LO:TX:b:i:t=poco ritard.:	!	!
+8AA-XL	.	(8ee-'L	.	.
+8c 8E-	.	8ee-'	.	.
+8e-J 8c 8A-	.	8ee-'J	.	.
+!LO:TX:b:t=P:mixed beam:problem	!	!	!	!
+8AAA-/L	.	8ee-L)	.	.
+8c-X\ 8E-\	.	(16ddnL	.	.
+.	.	16ee-	.	.
+*Xped	*	*	*	*
+8e-\J 8c-\ 8A-\	.	16.ff	.	.
+.	.	32ee-JJk	.	.
+*ped	*	*	*	*
+8EE-'L	.	4.ee-)	.	.
+(8e- 8G	.	.	.	.
+8gJ 8e- 8B-)	.	.	.	.
+8E-'L	.	4.b-	.	.
+(8e- 8G	.	.	.	.
+*Xped	*	*	*	*
+8gJ 8e- 8B-)	.	.	.	f
+=11	=11	=11	=11	=11
+!	!	!LO:TX:b:i:t=Tempo 1o.	!	!
+*ped	*	*	*	*
+8EEnL	.	4.bb-	.	.
+8d-X 8En	.	.	.	.
+*Xped	*	*	*	*
+8gJ 8d- 8B-	.	.	.	.
+*ped	*	*	*	*
+8EEL	.	4aan	.	.
+8c 8E	.	.	.	.
+*Xped	*	*	*	*
+8gJ 8c 8B-	.	8gg	.	.
+*ped	*	*	*	*
+8FFL	.	4.ff 4.an	.	.
+8e-X 8F	.	.	.	.
+*Xped	*	*	*	*
+8fJ 8e- 8c	.	.	.	.
+*ped	*	*	*	*
+8GGL	.	4.dd 4.b-	.	.
+!LO:SIC:s=8dn 8G:v	!	!	!	!
+8d- 8G	.	.	.	.
+*Xped	*	*	*	*
+!LO:SIC:s=8b-J 8d 8B-:v	!	!	!	!
+8gJ 8d- 8B-	.	.	.	.
+=12	=12	=12	=12	=12
+*ped	*	*	*	*
+8CCL	.	4.ee-/ 4.g/	.	.
+8e- 8G	.	.	.	.
+*Xped	*	*	*	*
+8gJ 8e- 8c	.	.	.	.
+*ped	*	*	*	*
+8FFL	.	(8dd'/L 8an/	.	.
+8e- 8F	.	8cc' 8a	.	.
+*Xped	*	*	*	*
+8fJ 8e- 8c	.	8dd'J 8a	.	.
+8dL 8B-	.	8b-L 8f)	.	.
+!	!	!LO:TX:b:i:t=poco rallent.	!	!
+!	!	!	!	!LO:HP:a
+8d#X 8An	.	(8bn' 8f#X	.	<
+8G#XJ	.	8b'J 8en	.	.
+8GnL	.	8cc'L 8b-X 8e	.	.
+8e- 8c 8F	.	8cc' 8an 8fn	.	.
+8fJ 8B-	.	8dd'J 8a-X)	.	[
+!!LO:LB:g=original
+=13	=13	=13	=13	=13
+!	!	!LO:TX:a:i:t=Tempo 1o.	!	!
+!	!	!LO:TX:a:t=P:'Tempo 1o.' is above 16qqg:problem	!	!
+.	.	16qqg/LL	.	fz
+.	.	16qqb-/	.	.
+.	.	16qqee-/JJ	.	.
+*ped	*	*	*	*
+8EE-L	.	4gg	.	p
+8e- 8G	.	.	.	.
+*Xped	*	*	*	*
+!	!	!LO:TX:a:t=P:hand written mark resembling natural sign:problem	!	!
+!	!	!LO:SIC:s=(16an\LL:v	!	!
+8gJ 8e- 8B-	.	(16a-\LL	.	.
+.	.	16b-JJ	.	.
+8E-L	.	16cc-XLL	.	.
+.	.	16b-	.	.
+8d 8A-	.	16cc#X	.	.
+.	.	16dd	.	.
+8a-J 8d 8B-	.	16.gg	.	.
+.	.	32ffJJk)	.	.
+8E-L	.	4ff	.	.
+8e- 8G	.	.	.	.
+8gJ 8e- 8B-	.	[8ee-	.	.
+8DL	.	16ee-LL]	.	.
+.	.	16ff	.	.
+8e- 8G	.	16ee-M	.	.
+.	.	16dd	.	.
+8gJ 8e- 8B-	.	16ee-	.	.
+.	.	16ffJJ	.	.
+=14	=14	=14	=14	=14
+8CL	.	16ggLL	.	<
+.	.	16bn	.	.
+8en 8G	.	16cc	.	.
+.	.	(16dd-X	.	.
+8gJ 8e 8B-	.	16cc)	.	.
+.	.	(16ffJJ	.	[[
+8CL	.	16eenLL)	.	<
+.	.	(16aa-	.	.
+8e 8G	.	16gg)	.	.
+.	.	(16ddd-y	.	.
+8b-J 8e 8c	.	16ccc	.	.
+.	.	16ggJJ	.	.
+8FFL	.	4.bb-X)	.	.
+8d-X 8F	.	.	.	.
+!LO:SIC:s=8eJ 8d- 8B-:v	!	!	!	!
+8e-J 8d- 8B-	.	.	.	.
+8FFL	.	4aa-	.	>
+8c 8F	.	.	.	.
+8fJ 8c 8A-	.	8gg	.	]
+=15	=15	=15	=15	=15
+8BB-L	.	4.ffT	.	p
+8d 8F	.	.	.	.
+8a-J 8d 8B-	.	.	.	.
+.	.	16qqee-/LL	.	.
+.	.	16qqff/JJ	.	.
+8BBnL	.	8gg'L	.	.
+8f 8G	.	(8gg^<	.	.
+8gJ 8f 8d	.	8ddJ)	.	.
+8CL	.	4.ee-	.	<
+8e- 8G	.	.	.	.
+8gJ 8e- 8c	.	.	.	.
+8AAnL	.	4.cc	.	.
+8e- 8G-X	.	.	.	[
+8g-XJ 8e- 8c	.	.	.	.
+!!LO:LB:g=original
+=16	=16	=16	=16	=16
+8BB-L	.	(8b-L	.	.
+8e- 8F	.	8ddd)	.	.
+8a-J 8e- 8B-	.	(8ccc#X'J	.	.
+*	*	*Xtuplet	*	*
+!	!	!LO:TX:a:t=P:fingering should be under the slur:problem	!	!
+!	!	!LO:TX:b:t=P:double beam:problem	!	!
+8BBB-L	.	104%3cccn'LL	5	.
+.	.	104%3bbn'	5	.
+.	.	104%3bb-X'	4	.
+.	.	104%3aan'	5	.
+.	.	104%3aa-X'	.	.
+8d 8F	.	.	.	.
+.	.	104%3ff'	.	.
+.	.	104%3dd'	.	.
+.	.	104%3cc-X'^<)	.	.
+.	.	104%3b-	.	.
+8a-J 8d 8B-	.	.	.	.
+.	.	104%3dd	.	.
+.	.	104%3gg	5	.
+.	.	104%3ff	4	.
+.	.	104%3ee-JJ	2	.
+*	*	*tuplet	*	*
+8EE-L	.	[4.ee-	1	.
+8e- 8G	.	.	.	.
+8gJ 8B-	.	.	.	.
+8E-L	.	8ee-L]	.	.
+8e- 8G	.	8dd	.	.
+8gJ 8B-	.	8ee-J	.	.
+=17	=17	=17	=17	=17
+8BB-L	.	(4.ff	.	.
+8d 8F	.	.	.	.
+8fJ 8d 8B-	.	.	.	.
+8BB-L	.	4gg	.	.
+8d 8F	.	.	.	.
+8fJ 8d 8B-	.	8ff)	.	.
+8AAnL	.	(4.ff	.	.
+8c 8F	.	.	.	.
+8fJ 8c	.	.	.	.
+8AAL	.	4.cc)	.	.
+8c 8F	.	.	.	.
+8fJ 8c	.	.	.	.
+=18	=18	=18	=18	=18
+!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+8AA-XL	.	(32%3ee-L	.	.
+.	.	32%3ee-	.	.
+8c 8E-	.	.	.	.
+.	.	32%3ee-	.	.
+8e-J 8c 8A-	.	.	.	.
+.	.	32%3ee-J	.	.
+8AAA-L\	.	8ee-L	.	.
+8c-X 8E-	.	16ddL	.	.
+.	.	16ee-	.	.
+8e-J 8c- 8A-	.	16.ff	.	.
+.	.	32ee-JJk	.	.
+8EE-L	.	4.ee-)	.	.
+8e- 8G	.	.	.	.
+8gJ 8e- 8B-	.	.	.	.
+8E-L	.	4.b-	.	<
+8e- 8G	.	.	.	.
+8gJ 8e- 8B-	.	.	.	[
+!!LO:PB:g=original
+=19	=19	=19	=19	=19
+8EEnL	.	(4.bb-	.	f
+8d-X 8Eni	.	.	.	.
+8gJ 8d- 8B-	.	.	.	.
+8EEL	.	4aan)	.	.
+8c 8E	.	.	.	.
+8gJ 8c 8B-	.	8gg	.	.
+8FFL	.	4.ff 4.an	.	>
+8e- 8F	.	.	.	.
+8anJ 8e- 8c	.	.	.	.
+8GGL	.	4.dd 4.b-	.	]
+!LO:SIC:s=8d 8G:v	!	!	!	!
+8d- 8G	.	.	.	.
+!LO:SIC:s=8b-J 8d 8B-:v	!	!	!	!
+8b-J 8d- 8B-	.	.	.	.
+=20	=20	=20	=20	=20
+8CCL	.	4.ee- 4.g	.	.
+8e- 8G	.	.	.	.
+8gJ 8e- 8c	.	.	.	.
+8FFL	.	(8dd'/L 8an/	.	.
+8e- 8F	.	8cc' 8a	.	.
+8fJ 8e- 8c	.	8dd'J 8a)	.	.
+!	!	!LO:TX:i:t=poco rall.	!	!
+!	!	!	!	!LO:HP:a
+8dL 8B-	.	(8b-'L 8f	.	<
+8d#X 8An	.	8bn' 8f#X	.	.
+8G#XJ	.	8b'J 8en	.	.
+8GnL	.	8cc'L 8b-X 8e	.	.
+8e-X 8c 8F	.	8cc' 8a 8fn	.	.
+8fJ 8B-	.	8dd'J 8a-X)	.	.
+.	.	.	.	[
+=21	=21	=21	=21	=21
+!	!	!LO:TX:a:i:t=Tempo 1o.	!	!
+!	!	!LO:TX:a:t=P:'Tempo 1o.' above 16qg:problem	!	!
+.	.	(16qg/LL	.	.
+.	.	16qb-/	.	.
+.	.	16qee-/JJ)	.	fz
+8EE-'L	.	4gg	.	p
+8e- 8G	.	.	.	.
+!	!	!LO:TX:a:t=P:hand written natural preceding 16a-:problem	!	!
+!	!	!LO:SIC:s=(16an\LL:v	!	!
+8gJ 8e- 8B-	.	(16a-\LL	.	.
+.	.	16b-JJ	.	.
+8E-'L	.	16cc-X^>LL	.	.
+.	.	16b-	.	.
+(8d 8A-	.	16cc#X	.	.
+.	.	16dd	.	.
+8a-J 8d 8B-)	.	16.gg^>	.	.
+.	.	32ffJJk)	.	.
+8E-'L	.	4ff	.	>
+(8e- 8G	.	.	.	.
+.	.	.	.	]
+8gJ 8e- 8B-)	.	[8ee-	.	.
+(8DL	.	16ee-LL]	.	.
+.	.	16ff	.	<
+8e- 8G	.	16ee-T	.	.
+.	.	16dd	.	.
+8gJ 8e- 8B-)	.	16ee-	.	.
+.	.	(16ffJJ	.	[[
+!!LO:LB:g=original
+=22	=22	=22	=22	=22
+8CL	.	16ggLL)	.	.
+.	.	16bn	.	.
+(8en 8G	.	16ccny	.	.
+.	.	(16dd-X^	.	.
+8gJ 8e 8B-)	.	16cc)	.	.
+.	.	(16ff^JJ	.	.
+8CL	.	16eenLL)	.	<
+.	.	(16aa-^	.	.
+8e 8G	.	16gg)	.	.
+.	.	(16ddd-y	.	.
+8b-J 8e 8c	.	16ccc	.	.
+.	.	16ggJJ	.	.
+.	.	8qgg/	.	.
+8FFL	.	4.bb-X)	.	[
+8d-X 8B- 8F	.	.	.	.
+8enJ 8d- 8B-	.	.	.	.
+8FFL	.	4aa-	.	.
+8c 8F	.	.	.	.
+8fJ 8c 8A-	.	8gg	.	.
+=23	=23	=23	=23	=23
+8BB-L	.	4.ffT	.	.
+8d 8F	.	.	.	.
+8a-J 8d 8B-	.	.	.	.
+.	.	16qqee-/LL	.	.
+.	.	16qqff/JJ	.	.
+8BBnL	.	8gg`L	.	.
+8f 8G	.	(>8gg	.	.
+8gJ 8f 8d	.	8ddJ)	.	.
+8CL	.	4.ee-	.	.
+8e- 8G	.	.	.	.
+8gJ 8e- 8c	.	.	.	.
+8AAnL	.	4.cc	.	.
+8e- 8G-X	.	.	.	.
+8g-XJ 8e- 8c	.	.	.	.
+=24	=24	=24	=24	=24
+8BB-L	.	(16b-KL	.	.
+.	.	8ddd'	.	.
+8e- 8F	.	.	.	.
+.	.	16.ccc#X'L	.	.
+8a-J 8e- 8B-	.	.	.	.
+.	.	16cccn'	.	.
+.	.	32bbn'JJk	.	.
+8BBB-L	.	16bb-X'LL	.	.
+.	.	16aan'JJ)	.	.
+8d 8F	.	32aa-X`LLL	.	.
+.	.	(32an	.	.
+.	.	32b-	.	.
+.	.	32bn	.	.
+*	*	*Xtuplet	*	*
+8a-J 8d 8B-	.	48cc	.	.
+.	.	48cc#X	.	.
+.	.	48dd	.	.
+.	.	48gg	.	.
+!	!	!LO:TX:a:t=P:fingering under slur:problem	!	!
+.	.	48ff	3	.
+.	.	48ee-JJJ)	.	.
+*	*	*tuplet	*	*
+8EE-L	.	2.ee-^	.	.
+8e- 8G	.	.	.	.
+8gJ 8e- 8B-	.	.	.	.
+8E-L	.	.	.	.
+8e- 8G	.	.	.	.
+8gJ 8e- 8B-	.	.	.	.
+!!LO:LB:g=original
+=25	=25	=25	=25	=25
+*ped	*	*	*	*
+!LO:TX:a:t=P:problem:pedal mark before 8EE-:problem	!	!	!	!
+8EE-L	.	4.ee-	.	p
+8e- 8c-X 8A-	.	.	.	.
+8a-J 8e- 8c-	.	.	.	.
+8E-L	.	(8ffL	.	.
+8e- 8c- 8A-	.	8ee-	.	.
+*Xped	*	*	*	*
+8a-J 8e- 8c-	.	8ffJ	.	.
+*ped	*	*	*	*
+8EE-L	.	2.gg)	.	.
+(8e- 8G	.	.	.	.
+8gJ 8e- 8B-)	.	.	.	.
+8E-'L	.	.	.	.
+(8e- 8G	.	.	.	.
+*Xped	*	*	*	*
+8gJ 8e- 8B-)	.	.	.	.
+=26	=26	=26	=26	=26
+*ped	*	*	*	*
+8EE-L	.	[4.ee-	.	pp
+8e- 8c-X 8A-	.	.	.	.
+8a-J 8e- 8c-	.	.	.	.
+8E-L	.	(16ee-LL]	.	.
+.	.	16ff	.	.
+8e- 8c- 8A-	.	16ee-)	.	.
+.	.	(16ff	.	.
+*Xped	*	*	*	*
+8a-J 8e- 8c-	.	16ee-	.	.
+.	.	16ffJJ	.	.
+*ped	*	*	*	*
+!	!	!LO:TX:b:i:t=poco rubato.	!	!
+8EE-L	.	4gg)	.	.
+8e- 8B- 8G	.	.	.	.
+!	!	!LO:TX:a:t=P:turn above 8ee-:problem	!	!
+8gJ 8e- 8B-	.	(8ee-$	.	.
+8E-L	.	8eee-L)	5	.
+8e- 8G	.	8ddd	5	.
+*Xped	*	*	*	*
+8gJ 8e- 8B-	.	8cccJ	5	.
+=27	=27	=27	=27	=27
+!	!	!LO:TX:b:i:t=sempre pp.	!	!
+*ped	*	*	*	*
+8E-L	.	4bb-	4	.
+8d 8F	.	.	.	.
+8a-J 8B-	.	(8aan	5	.
+8E-L	.	8aa-XL)	.	.
+8d 8F	.	8cc	.	.
+*Xped	*	*	*	*
+8a-J 8B-	.	8ddJ	.	.
+*ped	*	*	*	*
+8E-L	.	8ee-L	.	.
+8e- 8G	.	16ffL	.	.
+.	.	16ee-M	.	.
+*Xped	*	*	*	*
+8gJ 8B-	.	16dd	.	.
+.	.	16ee-JJ	.	.
+.	.	(>8qee-/	.	.
+*ped	*	*	*	*
+!	!	!LO:TX:b:i:t=dolciss.	!	!
+8AAnL	.	8ggg'L)	.	.
+!	!	!LO:TX:a:t=P:fingering under slur:problem	!	!
+8e- 8F	.	(16fff'L	5	.
+.	.	16eee-'	4	.
+*Xped	*	*	*	*
+8fJ 8e- 8c	.	16ddd'	5	.
+.	.	16ccc'JJ	5	.
+!!LO:LB:g=original
+=28	=28	=28	=28	=28
+*ped	*	*	*	*
+8BB-L	.	8ccc-XL	5	.
+!	!	!LO:TX:b:t=P:in this group fingering is under the slur:problem	!	!
+8e- 8F	.	8bb-	4	.
+*Xped	*	*	*	*
+8a-J 8e- 8B-	.	8bb--J)	5	.
+!LO:TX:b:t=P:mixed beam:problem	!	!	!	!
+*ped	*	*	*	*
+8BBB-/L	.	(16bb--LL	5	.
+.	.	16aa-JJ)	4	.
+8d\ 8F\	.	(16aa-LL	4	.
+.	.	16ggJJ)	5	.
+*Xped	*	*	*	*
+8a-\J 8d\ 8B-\	.	(16.ggLL	5	.
+.	.	32ffJJk	4	.
+*ped	*	*	*	*
+8EE-L	.	2.ee-^<)	3	.
+8e- 8G	.	.	.	.
+8gJ 8e- 8B-	.	.	.	.
+8E-L	.	.	.	.
+8e- 8G	.	.	.	.
+*Xped	*	*	*	*
+8gJ 8e- 8B-	.	.	.	.
+=29	=29	=29	=29	=29
+*ped	*	*	*	*
+!LO:TX:b:t=P:mixed beam:problem	!	!	!	!
+8AAA-/L	.	[4.ee-	.	p
+8c-X\ 8A-\ 8E-\	.	.	.	.
+8e-\J 8c-\ 8A-\	.	.	.	.
+*	*	*Xtuplet	*	*
+8a-L 8e- 8c-	.	64%3ee-LL]	.	.
+.	.	(64%3ff	.	.
+.	.	64%3ee-	.	.
+8e- 8c- 8A-	.	.	.	.
+.	.	64%3ff	.	.
+.	.	64%3ee-)	.	.
+.	.	(64%3ff	.	<
+*Xped	*	*	*	*
+8c-J 8A- 8E-	.	.	.	.
+.	.	64%3ee-	.	.
+.	.	64%3ffJJ)	.	.
+*	*	*tuplet	*	*
+*ped	*	*	*	*
+8EE-L	.	4.gg	.	[
+8e- 8G	.	.	.	.
+8gJ 8e- 8B-	.	.	.	.
+8E-L	.	4r	.	.
+8e- 8G	.	.	.	.
+*Xped	*	*	*	*
+8gJ 8e- 8B-	.	8r	.	.
+=30	=30	=30	=30	=30
+!	!	!LO:TX:b:i:t=con forza.	!	!
+!LO:TX:b:t=P:mixed beam, also in the 3rd group:problem	!	!	!	!
+8AAA-/L	.	8ee-`\L	.	.
+8c-X\ 8A-\ 8E-\	.	(>16a-L	.	.
+.	.	16b-	.	.
+!	!	!LO:TX:a:t=P:trill under slur:problem	!	!
+8e-\J 8c-\ 8A-\	.	16a-T	.	.
+.	.	16gJJ	.	.
+8c-L 8A- 8E-	.	16a-LL	.	.
+.	.	16cc-X	.	.
+8e- 8c- 8A-	.	16ee-	.	.
+.	.	16aa-	.	.
+8c-J 8A- 8E-	.	16eee-)	.	.
+*ped	*	*	*	*
+.	.	32rgg	.	.
+.	.	(32fffJJk	.	.
+*	*	*8va	*	*
+8EE-/L	.	(8gggL	.	.
+8e-\ 8G\	.	8eee-J))	.	.
+*Xped	*	*	*	*
+8g\J 8e-\ 8B-\	.	4eeee- 4eee-	.	>
+*ped	*	*	*	*
+8AAnL	.	.	.	]]
+!	!	!LO:TX:b:i:t=stretto.	!	!
+8e- 8F	.	8ddddL 8ddd	.	.
+*Xped	*	*	*	*
+!LO:SIC:s=8fJ 8e- 8cn:v	!	!	!	!
+!	!	!LO:SIC:s=8ccccJ 8cccn:v	!	!
+8fJ 8e- 8c-	.	8ccccJ 8ccc-	.	.
+!!LO:LB:g=original
+=31	=31	=31	=31	=31
+*^	*	*	*	*
+*ped	*	*	*	*	*
+2.ryy	8BB-L	.	8cccc-XL 8ccc-\	.	.
+.	8e- 8B- 8F	.	8bbb- 8bb-	.	.
+*Xped	*	*	*	*	*
+.	8a-J 8e- 8B-	.	8bbb--J 8bb--	.	.
+*ped	*	*	*	*	*
+.	8BBnL	.	8aaa-XL 8aa-X\	.	.
+.	8f 8G	.	8ggg 8gg	.	.
+*Xped	*	*	*	*	*
+.	8gJ 8f 8d	.	8dddJ 8dd	.	.
+*ped	*	*	*	*	*
+4.ryy	8CL	.	8eee- 8ee-	.	.
+.	8e- 8G	.	4.eeee-^< 4.eee-	.	.
+*Xped	*	*	*	*	*
+.	8gJ 8c	.	.	.	.
+*ped	*	*	*	*	*
+8ryy	8AAn\`>	.	.	.	.
+!LO:TX:a:t=P:8e-L 8c should be above 4F:problem	!	!	!	!	!
+8e-L 8c	4F	.	8fffL 8ff	.	.
+*Xped	*	*	*	*	*
+!	!	!	!LO:SIC:s=8ccccnJ 8cccn:v	!	!
+8fJ 8e- 8c	.	.	8cccc-J 8ccc-	.	.
+*v	*v	*	*	*	*
+=32	=32	=32	=32	=32
+*	*	*ped	*	*
+*Xtuplet	*	*	*	*
+!	!	!LO:N:vis=2	!	!
+(32%3BBB-L	.	2.cccc-X 2.ccc-X	.	ff
+!LO:TX:a:i:t=senza - - Tempo.:dur=5qs:ext=cd:problem:text with extention lines	!	!	!	!
+32%3BB-	.	.	.	.
+32%3F	.	.	.	.
+32%3A-	.	.	.	.
+32%3d	.	.	.	.
+32%3B-	.	.	.	.
+*clefG2	*	*	*	*
+32%3f	.	.	.	.
+32%3a-J)	.	.	.	.
+*tuplet	*	*	*	*
+2.dd	.	2.bbb-; 2.bb-	.	.
+=-	=-	=-	=-	=-
+*	*	*	*	*^
+*	*	*cue	*	*	*
+*	*	*Xtuplet	*	*	*
+1.ryy	.	64%3cccc-XLL	.	.	.
+.	.	64%3bbb-	.	.	.
+.	.	64%3ccccn	.	.	.
+.	.	64%3aaanJJ	.	.	.
+.	.	64%3cccc-LL	.	.	.
+.	.	64%3bbb-	.	.	.
+.	.	64%3ccccn	.	.	.
+.	.	64%3aaanJJ	.	.	.
+.	.	64%3cccc-LL	.	<	.
+.	.	64%3bbb-	.	.	.
+.	.	64%3ccccn	.	.	.
+.	.	64%3aaaJJ	.	.	.
+.	.	64%3cccc-LL	.	.	.
+.	.	64%3bbb-	.	.	.
+.	.	64%3ccccn	.	.	.
+.	.	64%3aaaJJ	.	.	.
+.	.	64%3cccc-LL	.	.	.
+.	.	64%3bbb-	.	.	.
+.	.	64%3ccccn	.	.	.
+.	.	64%3aaaJJ	.	.	.
+.	.	64%3cccc-LL	.	.	.
+.	.	64%3bbb-	.	.	.
+.	.	64%3ccccn	.	.	.
+.	.	64%3aaaJJ	.	.	.
+.	.	64%3cccc-LL	.	.	.
+.	.	64%3bbb-	.	.	.
+.	.	64%3ccccn	.	.	.
+!	!	!LO:TX:a:t=P:'cres.' should be between the lines of graphic crescendo mark:problem	!	!	!
+.	.	64%3aaaJJ	.	.	<
+.	.	64%3cccc-LL	.	.	.
+.	.	64%3bbb-	.	.	.
+*clefF4	*	*	*	*	*
+.	.	64%3ccccn	.	.	.
+.	.	64%3aaaJJ	.	[[	.
+*	*	*	*	*v	*v
+!!LO:LB:g=original
+=-	=-	=-	=-	=-
+!	!	!LO:TX:b:t=P:part of this line is erased:problem	!	!
+1.ryy	.	64%3cccc-LL	.	.
+.	.	64%3bbb-	.	.
+.	.	64%3ccccn	.	.
+.	.	64%3aaanJJ	.	.
+.	.	64%3cccc-LL	.	.
+.	.	64%3bbb-	.	.
+.	.	64%3ccccn	.	.
+.	.	64%3aaaJJ	.	.
+.	.	64%3cccc-LL	.	.
+.	.	64%3bbb-	.	.
+.	.	64%3ccccn	.	.
+.	.	64%3aaaJJ	.	.
+.	.	64%3cccc-LL	.	.
+.	.	64%3bbb-	.	.
+.	.	64%3ccccn	.	.
+.	.	64%3aaaJJ	.	.
+.	.	64%3cccc-LL	.	.
+.	.	64%3bbb-	.	.
+.	.	64%3dddd	.	.
+.	.	64%3ccccnJJ	.	.
+!	!	!LO:TX:b:i:t=rallent.	!	!
+.	.	64%3bbb-LL	.	.
+.	.	64%3aaan	.	.
+.	.	64%3aaa-	.	.
+.	.	64%3gggJJ	.	.
+.	.	(64%3fffLL	.	.
+.	.	64%3ddd	.	.
+!	!	!LO:TX:b:i:t=smorz.	!	!
+.	.	64%3eee-	.	.
+.	.	64%3cccniJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+!	!	!LO:TX:b:t=P:single beam:problem	!	!
+.	.	64%3bb-L	.	.
+.	.	64%3aa-	.	.
+.	.	64%3cc	.	.
+.	.	64%3ddJ)	.	.
+*	*	*Xcue	*	*
+*	*	*tuplet	*	*
+=33	=33	=33	=33	=33
+*^	*	*	*	*
+!	!	!	!LO:TX:a:i:t=Tempo 1o.	!	!
+*ped	*	*	*	*	*
+8ryy	(8EE-L	.	(8ee-L 8g	.	ppp
+4B-	8B-	.	8b-	.	.
+.	8BB-J	.	8ggJ	.	.
+8ryy	8E-L	.	8ee-L 8g	.	.
+4B-	8B-	.	8b-	.	.
+.	8BB-J)	.	8ggJ	.	.
+8ryy	(8EE-L	.	8ee-L 8g	.	.
+4B-	8B-	.	8b-	.	.
+.	8BB-J	.	8ggJ	.	.
+8ryy	8E-L	.	8ee-L 8g	.	.
+!LO:TX:a:t=P:ligature looks like it was starting at 8BB-:problem	!	!	!	!	!
+[4B-	>8B-	.	8b-	.	.
+.	8BB-J)	.	8ggJ)	.	.
+*v	*v	*	*	*	*
+=34	=34	=34	=34	=34
+4.B-] 4.E-	.	4.ee- 4.g	.	pp
+*clefG2	*	*	*	*
+4.b- 4.e-	.	4.eee- 4.gg	.	.
+*clefF4	*	*	*	*
+2.BB-;<\ 2.EE-\	.	2.e-; 2.G<	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental, bracket
+!!!ENC: Tomasz Sierawski
+!!!END: 2018-06-18
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: 2018-06-20
+!!!EED2: Zofia Niedbalska
+!!!EST2: 2019-08-19
+!!!EED3: Zofia Niedbalska
+!!!EST3: 2020-07-20
+!!!RDF**kern: i = editorial accidental
+!!!RDF**dynam: < = cres.
+!!!rism-genre: Nocturne
+!!!rism-key: E-flat major
+!!!rism-opus: op.  9, no. 2
+!!!rism-title: Nocturne in E-flat major op.  9, no. 2
+!!!rism-permalink: https://opac.rism.info/search?id=1001013451&View=rism
+!!!rism-773a-OPR: 1001013447
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001013447&View=rism

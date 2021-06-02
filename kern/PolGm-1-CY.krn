@@ -1,0 +1,457 @@
+!!!!SEGMENT: PolGm-1-CY.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Polonaise g minor
+!!!OPS: Op. Posth.
+!!!PTL: Polonoise pour le Piano-Forte [...]
+!!!PPR: Cybulski
+!!!PPP: Warsaw
+!!!NIFC-rismID: 1001081060
+!!!NIFC-shelfmark: PL-Wmfc M/375
+!!!system-decoration: {(s1,s2)}
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*	*I"Polonoise	*
+*clefF4	*clefG2	*
+*k[b-e-]	*k[b-e-]	*
+*M3/4	*M3/4	*
+=1	=1	=1
+4G 4GG\	4g [<4d 4B-	.
+8D 8DD\	8f#X 8d] 8c 8A	.
+8r	8r	.
+4r	4r	.
+=2	=2	=2
+4F#X 4FF#X\	4a [<4d 4B-	.
+8G 8GG\	8g 8d] 8B-	.
+8r	8r	.
+4r	4r	.
+=3	=3	=3
+8GL	8b-L 8g 8d	.
+16GL	16b-L 16g 16d	.
+16GJJ	16b-JJ 16g 16d	.
+8GL	8b-L 8g 8d	.
+8GJ	8b-J 8g 8d	.
+8F#XL	8ccL 8a 8d	.
+8GJ	8b-J 8g 8d	.
+=4	=4	=4
+*tremolo	*	*
+8DL	8aL 8f#X 8d	.
+8D	8b- 8g 8d	.
+8D	8a 8f# 8d	.
+8DJ	8b-J 8g 8d	.
+*Xtremolo	*	*
+4D	4a 4f# 4d	.
+=5	=5	=5
+32GGGLLL	16ryy	.
+32GGJJJ	.	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+(<48GLLL/	16ryy	.
+48B-	.	.
+48dJJJ)	.	.
+16ryy	(>48gLLL	.
+.	48b-	.
+.	48ddJJJ)	.
+16ryy	32ggLLL/	.
+.	32bb-JJJ	.
+8r>	[>4ddd/	.
+8dd>L 8b->	.	.
+8dd> 8b->	16dddLL]/	.
+.	16bb-	.
+8dd>J 8b->	16aa	.
+.	16ggJJ	.
+!!LO:LB:g=original
+=6	=6	=6
+8f#X>L	16bb-LL	.
+.	16aa	.
+8dd>J 8a>	16gg#X	.
+.	16aaJJ	.
+*tremolo	*	*
+8dd>L 8a>	2aa	.
+8dd> 8a>	.	.
+8dd> 8a>	.	.
+8dd>J 8a>	.	.
+*Xtremolo	*	*
+=7	=7	=7
+8g>L	4.bb-	.
+8dd> 8b->	.	.
+8dd> 8b->	.	.
+8dd>J 8b->	8aaL	.
+8c#X>L	8gg	.
+8a>J 8en>	8aaJ	.
+=8	=8	=8
+8d>L	8ddL\	.
+.	16qqeee#	.
+8a> 8f#X>	8ddd\	.
+8a> 8f#>	8ddd\	.
+8a>J 8f#>	8dddJ\	.
+4a> 4f#>	4ddd\	.
+=9	=9	=9
+32GGGLLL	16ryy	.
+32GGJJJ	.	.
+(<48GLLL/	16ryy	.
+48B-	.	.
+48dJJJ)	.	.
+16ryy	(>48gLLL	.
+.	48b-	.
+.	48ddJJJ)	.
+16ryy	32ggLLL/	.
+.	32bb-JJJ	.
+8r>	[>4ddd/	.
+8dd>L 8b->	.	.
+8dd> 8b->	16dddLL]/	.
+.	16bb-	.
+8dd>J 8b->	16aa	.
+.	16ggJJ	.
+=10	=10	=10
+8f#X>L	16bb-LL	.
+.	16aa	.
+8dd>J 8a>	16gg#X	.
+.	16aaJJ	.
+*tremolo	*	*
+8dd>L 8a>	2aa	.
+8dd> 8a>	.	.
+8dd> 8a>	.	.
+8dd>J 8a>	.	.
+*Xtremolo	*	*
+=11	=11	=11
+8g>L	4.bb-	.
+8dd> 8b->	.	.
+8dd> 8b->	.	.
+8dd>J 8b->	8gg	.
+8c>L	8eee-L	.
+8a>J 8f>	8cccJ	.
+!!LO:LB:g=original
+=12	=12	=12
+8b->L 8g> 8d>	16bb-LL	.
+.	16ddd	.
+8cc>J 8a> 8f>	16ff#X	.
+.	16aaJJ	.
+!	!LO:TX:a:t=P:note position:problem	!
+.	8qqaa 8qqff#/	.
+!	!LO:TX:a:t=P:note position:problem	!
+8r>	2gg/	.
+8cc>L 8a> 8d>	.	.
+8b->J 8g>	.	.
+!LO:TX:a:t=P:in the whole source the repetition marks have a four dots:problem	!	!
+8ryy	.	.
+=13:|!|:	=13:|!|:	=13:|!|:
+4B- 4BB-\	4b- [<4f 4d	.
+8F 8FF\	8a 8f] 8e- 8c	.
+8r	8r	.
+4r	4r	.
+=14	=14	=14
+!	!LO:S:s=3:note:problem:note-level slur	!
+4A 4AA\	4cc 4f (<4e-	.
+8B- 8BB-\	8b- 8f 8d)	.
+8r	8r	.
+4r	4r	.
+=15	=15	=15
+8B-L	8ddL 8b- 8f	.
+16B-L	16ddL 16b- 16f	.
+16B-JJ	16ddJJ 16b- 16f	.
+8B-L	8ddL 8b- 8f	.
+8B-J	8ddJ 8b- 8f	.
+8AL	8ee-L 8cc 8f	.
+8B-J	8ddJ 8b- 8f	.
+=16	=16	=16
+*tremolo	*	*
+8FL	8ccL 8a 8f	.
+8F	8ddJ 8b- 8f	.
+8F	8ccL 8a 8f	.
+8FJ	8ddJ 8b- 8f	.
+*Xtremolo	*	*
+4F	4cc 4a 4f	.
+=17	=17	=17
+.	16qqff/	.
+8dL 8B-	[>4ddd	.
+8FJ	.	.
+*tremolo	*	*
+!LO:TX:a:t=P:in the source the notation form of this groups is two slashes:problem	!	!
+8dL 8B-	16dddLL]	.
+.	16ccc	.
+8F	16bb-	.
+.	16aaJJ	.
+.	16qqccc/	.
+8d 8B-	16bb-LL	.
+.	16aa	.
+8FJ	16bb-	.
+.	16ggJJ	.
+*Xtremolo	*	*
+=18	=18	=18
+8dL 8B-	4ff	.
+8FJ	.	.
+*tremolo	*	*
+!LO:TX:a:t=P:in the source the notation form of this groups is two slashes:problem	!	!
+8dL 8B-	8r	.
+*	*clefF4	*
+8F	8FFL	.
+8d 8B-	8FF	.
+8FJ	8FFJ	.
+*Xtremolo	*	*
+!!LO:LB:g=original
+=19	=19	=19
+8e-L 8A	4FF	.
+8FJ	.	.
+*tremolo	*	*
+!LO:TX:a:t=P:in the source the notation form of this groups is two slashes:problem	!	!
+8e-L 8A	16FFLL	.
+.	16GG	.
+8F	16AA	.
+.	16GGJJ	.
+8e- 8A	16FFLL	.
+.	16EE-	.
+8FJ	16DD	.
+.	16CCJJ	.
+*Xtremolo	*	*
+=20	=20	=20
+8dL 8B-	4BBB-	.
+8FJ	.	.
+*tremolo	*	*
+!LO:TX:a:t=P:in the source the notation form of this groups is two slashes:problem	!	!
+8dL 8B-	8r	.
+*	*clefG2	*
+8F	8ffL	.
+8d 8B-	8ff	.
+8FJ	8ffJ	.
+*Xtremolo	*	*
+=21	=21	=21
+8e-L 8A	[>4ff	.
+8FJ	.	.
+*tremolo	*	*
+!LO:TX:a:t=P:in the source the notation form of this groups is two slashes:problem	!	!
+8e-L 8A	16ffLL]	.
+.	16gg	.
+8F	16aa	.
+.	16ggJJ	.
+8e- 8A	16ffLL	.
+.	16ee-	.
+8FJ	16dd	.
+.	16ccJJ	.
+*Xtremolo	*	*
+=22	=22	=22
+8dL 8B- 8F\	16b-LL	.
+.	16a	.
+8e-J 8c 8G	16ee-	.
+.	16aJJ	.
+!	!LO:TX:a:t=P:note position:problem	!
+.	4qqa/	.
+!	!LO:TX:a:t=P:note position:problem	!
+8r	2b-\	.
+8e- 8c 8F\	.	.
+4d 4B-\	.	.
+!!LO:PB:g=original
+=23:|!	=23:|!	=23:|!
+*M3/4	*M3/4	*
+!	!LO:TX:a:B:t=Trio	!
+!	!LO:TX:t=P:'Trio' on the left side of accolade:problem	!
+!LO:TX:a:t=P:mixed beam:problem	!	!
+8BB-L/	16dddLL	.
+.	16fff	.
+8dJ 8B- 8F\	16bb-	.
+.	16dddJJ	.
+*tremolo	*	*
+8dL 8B- 8F	16ffLL	.
+.	16bb-	.
+8d 8B- 8F	16dd	.
+.	16ffJJ	.
+8d 8B- 8F	8.b-L	.
+8dJ 8B- 8F	.	.
+.	16ggJk	.
+*Xtremolo	*	*
+=24	=24	=24
+!LO:TX:a:t=P:mixed beam:problem	!	!
+8FFL/	8.ffL	.
+8e-J 8A 8F\	.	.
+.	16eenJk	.
+*tremolo	*	*
+8e-L 8A 8F	4ee-X	.
+8e- 8A 8F	.	.
+8e- 8A 8F	4r	.
+8e-J 8A 8F	.	.
+*Xtremolo	*	*
+=25	=25	=25
+!LO:TX:a:t=P:mixed beam:problem	!	!
+8FFL/	16cccLL	.
+.	16eee-	.
+8e-J 8A 8F\	16aa	.
+.	16cccJJ	.
+*tremolo	*	*
+8e-L 8A 8F	16ffLL	.
+.	16aa	.
+8e- 8A 8F	16ee-	.
+.	16ffJJ	.
+8e- 8A 8F	8.ccL	.
+8e-J 8A 8F	.	.
+.	16ffJk	.
+*Xtremolo	*	*
+=26	=26	=26
+!LO:TX:a:t=P:mixed beam:problem	!	!
+8BB-L/	8.eenL	.
+8dJ 8B- 8F\	.	.
+.	16ee-XJk	.
+*tremolo	*	*
+8dL 8B- 8F	4dd	.
+8d 8B- 8F	.	.
+8d 8B- 8F	4r	.
+8dJ 8B- 8F	.	.
+*Xtremolo	*	*
+!!LO:LB:g=original
+=27	=27	=27
+16DLL	16dddLL	.
+16B-	16fff	.
+16F	16bb-	.
+16B-JJ	16dddJJ	.
+!LO:TX:a:t=P:in the source the notation form of this group is double slash:problem	!	!
+16DLL	16ffLL	.
+16B-	16bb-	.
+16F	16dd	.
+16B-JJ	16ffJJ	.
+!LO:TX:a:t=P:in the source the notation form of this group is double slash:problem	!	!
+16DLL	8.b-L	.
+16B-	.	.
+16F	.	.
+16B-JJ	16ggJk	.
+=28	=28	=28
+16E-LL	8.ffL	.
+16c	.	.
+16G	.	.
+16cJJ	16eenJk	.
+!LO:TX:a:t=P:in the source the notation form of this group is double slash:problem	!	!
+16E-LL	4ee-X	.
+16c	.	.
+16G	.	.
+16cJJ	.	.
+!LO:TX:a:t=P:in the source the notation form of this group is double slash:problem	!	!
+16E-LL	4r	.
+16c	.	.
+16G	.	.
+16cJJ	.	.
+=29	=29	=29
+16FLL	16cccLL	.
+16e-	16eee-	.
+16A	16aa	.
+16e-JJ	16cccJJ	.
+!LO:TX:a:t=P:in the source the notation form of this group is double slash:problem	!	!
+16ALL	4ff	.
+16e-	.	.
+16A	.	.
+16e-JJ	.	.
+!LO:TX:a:t=P:in the source the notation form of this group is double slash:problem	!	!
+16ALL	8ffssL	.
+16e-	.	.
+16A	16ggL	.
+16e-JJ	16aaJJ	.
+=30	=30	=30
+8dL 8B- 8F	8bb-L	.
+8e-J 8A 8F	16dddL	.
+.	16cccJJ	.
+!	!LO:TX:a:t=P:note position:problem	!
+.	8qqccc/	.
+!	!LO:TX:a:t=P:note position:problem	!
+8r	2bb-	.
+8e- 8A 8F	.	.
+4d 4B-	.	.
+=31:|!|:	=31:|!|:	=31:|!|:
+8e-L 8A	8bbnL	.
+8FJ	8ccc	.
+8e-L 8A	8ddd	.
+8FJ	8ccc	.
+8e-L 8A	8bb	.
+8FJ	8cccJ	.
+!!LO:LB:g=original
+=32	=32	=32
+8e-L 8A	16cccLL	.
+.	16eee-	.
+8FJ	16aa	.
+.	16cccJJ	.
+*tremolo	*	*
+!LO:TX:a:t=P:in the source the form of notation this groups is two slashes:problem	!	!
+8e-L 8A	16ffLL	.
+.	16aa	.
+8F	16cc	.
+.	16ffJJ	.
+8e- 8A	8a	.
+8FJ	8r	.
+*Xtremolo	*	*
+=33	=33	=33
+*	*8va	*
+8dL 8B-	8eeenL	.
+8FJ	8fff	.
+8dL 8B-	8ggg	.
+8FJ	8fff	.
+8dL 8B-	8eee	.
+8FJ	8fffJ	.
+=34	=34	=34
+8dL 8B-	16fffLL	.
+.	16bbb-	.
+8FJ	16ddd	.
+.	16fffJJ	.
+8dL 8B-	16bb-LL	.
+.	16ddd	.
+8FJ	16ff	.
+.	16bb-JJ	.
+!LO:TX:a:t=P:in the source the notation form of this group is slash:problem	!	!
+8dL 8B-	8dd	.
+*	*X8va	*
+!	!LO:TX:a:t=Loco	!
+8FJ	8r	.
+=35	=35	=35
+!LO:TX:a:t=P:mixed beam:problem	!	!
+8BB-L/	16dddLL	.
+.	16fff	.
+8dJ 8B- 8F\	16bb-	.
+.	16dddJJ	.
+*tremolo	*	*
+8dL 8B- 8F	16ffLL	.
+.	16bb-	.
+8d 8B- 8F	16dd	.
+.	16ffJJ	.
+8d 8B- 8F	8.b-L	.
+8dJ 8B- 8F	.	.
+.	16ggJk	.
+*Xtremolo	*	*
+=36	=36	=36
+!LO:TX:a:t=P:mixed beam:problem	!	!
+8FFL/	8.ffL	.
+8e-J 8A 8F\	.	.
+.	16eenJk	.
+*tremolo	*	*
+8e-L 8A 8F	4ee-X	.
+8e- 8A 8F	.	.
+8e- 8A 8F	4r	.
+8e-J 8A 8F	.	.
+*Xtremolo	*	*
+!!LO:LB:g=original
+=37	=37	=37
+!LO:TX:a:t=P:mixed beam:problem	!	!
+8FFL/	16cccLL	.
+.	16eee-	.
+8e-J 8A 8F\	16aa	.
+.	16cccJJ	.
+*tremolo	*	*
+8e-L 8A 8F	4ff	.
+8e- 8A 8F	.	.
+8e- 8A 8F	8ffssL	.
+8e-J 8A 8F	16ggL	.
+.	16aaJJ	.
+*Xtremolo	*	*
+=38	=38	=38
+8dL 8B- 8F	8bb-L	.
+8e-J 8B- 8F	16dddL	.
+.	16cccJJ	.
+.	8qqccc/	.
+8r	2bb-	.
+8e- 8A 8F	.	.
+4d 4B-	.	.
+=:|!	=:|!	=:|!
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cresc." fontstyle="bold-italic"
+!!!RDF**dynam: > = "dim." fontstyle="bold-italic"
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2020-07-17
+!!!EED:
+!!!EST:

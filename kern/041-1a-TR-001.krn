@@ -1,0 +1,496 @@
+!!!!SEGMENT: 041-1a-TR-001.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Mazourka No. 1.
+!!!OPS: Op. 41
+!!!PTL: QUATRE Mazurkas Pour LE PIANO
+!!!PPR: Troupenas
+!!!PPP: Paris
+!!!AFR: mazurka
+!!!NIFC-rismID: M/176
+!!!NIFC-shelfmark: PL-Wmfc M/176
+!!!OMD: Andantino.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*e:	*e:	*
+*M3/4	*M3/4	*
+=1-	=1-	=1-
+*	*^	*
+4E	(>4b 4g#X 4e 4d	2ryy	p
+4E	4b 4g# 4e 4d	.	.
+4E	8.ccL	4g# 4e 4d	.
+.	16bJk	.	.
+=2	=2	=2	=2
+2.E\ 2.AA\	4b	2.e 2.c	.
+.	8.aL	.	.
+.	16g#XJk	.	.
+.	4a)	.	.
+*	*v	*v	*
+=3	=3	=3
+*^	*	*
+4ryy	4BB	(>4f# 4d#X 4B< 4A<	.
+4ryy	4BB	4f# 4d# 4B< 4A<	.
+4d#y 4B 4A	4BB	8.gnyL	.
+.	.	16f#Jk	.
+=4	=4	=4	=4
+4c 4A	2.E 2.EE	8f#L	.
+.	.	8e	.
+.	.	8qf#/	.
+2B 2G	.	8e	.
+.	.	8d#XJ	.
+.	.	4e)	.
+*v	*v	*	*
+=5	=5	=5
+*	*^	*
+4E	2ryy	(>4b\ 4g#X\ 4e\ 4dny\	.
+4E	.	4b\ 4g#\ 4e\ 4d\	.
+4E	8.ccL	4g# 4e 4d	.
+.	16bJk	.	.
+!!LO:LB:g=original
+=6	=6	=6	=6
+2.E\ 2.AA\	8eeL	4g#X 4e 4d	.
+.	8b	.	.
+.	16qa/LL	.	.
+.	16qb/JJ	.	.
+.	8a	N[>2c	.
+.	8g#J	.	.
+.	4a	.	.
+*	*v	*v	*
+=7	=7	=7
+8cLN]	8ccL	.
+8GnJ	8gnJ	.
+4Fn	4fn	.
+8.EL	8.eL	.
+16GJk	16gJk	.
+=8	=8	=8
+*^	*	*
+*	*^	*	*
+4r	2E/	4rGG	(>2e)	.
+4B 4G	.	4BB 4EE\	.	.
+4ryy	4r	4ryy	4b	.
+*v	*v	*v	*	*
+=9	=9	=9
+*	*^	*
+4r	4b	2ryy	.
+4E	4b\ 4g#X\ 4e\ 4d\	.	.
+4E	8.ccL	4g# 4e 4d	.
+.	16bJk	.	.
+=10	=10	=10	=10
+2.E\ 2.AA\	4b	2.e 2.c	.
+.	8.aL	.	.
+.	16g#XJk	.	.
+.	4a)	.	.
+*	*v	*v	*
+=11	=11	=11
+*^	*	*
+4ryy	4BB	(>4f# 4d#X 4B< >4A<	.
+4ryy	4BB	4f# 4d# 4B< 4A<	.
+4d#y 4B 4A	4BB	8.gnyL	.
+.	.	16f#Jk	.
+=12	=12	=12	=12
+4c 4A	2.E 2.EE	>8f#L	.
+.	.	8e	.
+.	.	8qf#/	.
+2B 2G	.	8e	.
+.	.	8d#X	.
+.	.	8e	.
+.	.	8gJ	.
+*v	*v	*	*
+!!LO:LB:g=original
+=13	=13	=13
+*	*^	*
+4r	4b\)	4ryy	.
+4E	(>4b 4g#X 4e 4d	4ryy	.
+4E	8.ccL	4g# 4e 4d	.
+.	16bJk	.	.
+=14	=14	=14	=14
+2.E\ 2.AA\	8eeL	4g#X 4e 4d	.
+.	8b	.	.
+.	16qa/LL	.	.
+.	16qb/JJ	.	.
+.	8a	N[>2c	.
+.	8g#J	.	.
+.	4a	.	.
+*	*v	*v	*
+=15	=15	=15
+8cLN]	8ccL	.
+8GnJ	8gnJ	.
+4Fn	4fn	.
+8.EL	8.eL	.
+16GJk	16gJk	.
+=16	=16	=16
+*^	*	*
+*	*^	*	*
+4r	2.E/	4rGG	2.e)	.
+4B 4G	.	4BB 4EE\	.	.
+4B 4G	.	[>4BB 4EE\	.	.
+*	*v	*v	*	*
+=17	=17	=17	=17
+*ped	*	*	*
+4r	4BBB' 4BB]	(>2d#X	f
+4B 4F#	4BB	.	<
+*Xped	*	*	*
+4ryy	[>4BB	4e 4c#X 4F#<	.
+*v	*v	*	*
+=18	=18	=18
+*	*^	*
+*ped	*	*	*
+4BB\]	4f# 4d#X 4F#<	4ryy	.
+4B 4F# 4BB	4..dd#X	4f# 4d#	.
+.	.	.	[
+[4B [4F# [4BB	.	[>4f# [4d#	.
+.	16dd#	.	.
+*Xped	*	*	*
+=19	=19	=19	=19
+4B] 4F#] 4BB]	2dd#X	4f#] 4d#X]	.
+4c#X 4F# 4BB	.	4g#X 4e	.
+[4c# [4F# [4BB	4dd#^	[>4a#X [4e	.
+!!LO:LB:g=original
+=20	=20	=20	=20
+4c#X] 4F#] 4BB]	2dd#X	4a#X] 4e]	.
+4c# 4F# 4BB	.	4g#y 4e	.
+4c# 4F# 4BB	4dd#^	4a# 4e	.
+*	*v	*v	*
+=21	=21	=21
+*ped	*	*
+4BBB	4dd#X 4b 4d#X)	.
+4F# 4BB	(>8d#L 8B	<
+.	8e 8c#X	.
+[4F# [4BB	8a#X 8f#	.
+*Xped	*	*
+.	8g#XJ 8e	.
+=22	=22	=22
+*	*^	*
+*ped	*	*	*
+4F#] 4BB]	4f# 4d#X	4ryy	.
+4B 4F# 4BB	4..dd#X	4f# 4d#	[
+4B 4F# 4BB	.	4f# 4d#	.
+*Xped	*	*	*
+.	16dd#	.	.
+=23	=23	=23	=23
+4r	2dd#X	4r	.
+4A#X 4D#X	.	4g#X 4e#X	.
+[4A# [4D#	4dd#^	[>4a#X [4f#	.
+=24	=24	=24	=24
+4A#X] 4D#X]	2dd#X	4a#X] 4f#]	.
+4A#y 4D#y	.	4g#y 4e#y	.
+4A# 4D#	4dd#^	4a# [>4f#	.
+=25	=25	=25	=25
+*ped	*	*	*
+4BBB	4dd#X 4b)	4f#]	.
+4F# 4BB	(>4d#X 4B^>	2ryy	<
+[4F# [4BB	4eny 4c#y	.	.
+*Xped	*	*	*
+=26	=26	=26	=26
+*ped	*	*	*
+4F#] 4BB]	4f# 4d#X	4ryy	.
+4B 4F# 4BB	4..dd#X	4f# 4d#	[
+[4B [4F# [4BB	.	[>4f# [4d#	.
+.	16dd#	.	.
+*Xped	*	*	*
+!!LO:LB:g=original
+=27	=27	=27	=27
+4B] 4F#] 4BB]	2dd#X	4f#] 4d#X]	.
+4c#X 4F# 4BB	.	4g#X 4e	.
+[4c# 4F# [4BB	4dd#^	[>4a#X [4e	.
+=28	=28	=28	=28
+4c#X] 4F# 4BB]	2dd#X	4a#X] 4e]	.
+4c# 4F# 4BB	.	4g#y 4e	.
+4c# 4F# 4BB	4dd#^	4a# 4e	.
+*	*v	*v	*
+=29	=29	=29
+*ped	*	*
+4BBB'	4dd#X 4b 4d#X)	.
+4F# 4BB	(>8d#L (<8B	<
+.	8e 8c#X	.
+[4F# [4BB	12a#X 12f#	.
+.	12g#X 12e	.
+*Xped	*	*
+.	12f#J 12d#	.
+=30	=30	=30
+*	*^	*
+*ped	*	*	*
+4F#] 4BB]	4f# 4d#X)	4ryy	.
+.	.	.	[
+4B 4F# 4BB	4..dd#X	4f# 4d#	.
+4B 4F# 4BB	.	4f# 4d#	.
+*Xped	*	*	*
+.	16dd#	.	.
+=31	=31	=31	=31
+4r	2dd#X	4r	.
+4A#X 4D#X	.	4g#X 4e#X	.
+[4A# [4D#	4dd#^	[>4a#X [4f#	.
+=32	=32	=32	=32
+4A#X] 4D#X]	2dd#X	4a#] 4f#]	.
+4A# 4D#	.	4g#X 4e#X	.
+4A# 4D#	4dd#^	4a#X 4f#	.
+=33	=33	=33	=33
+*ped	*	*	*
+4GG#X	4dd#X	4r	.
+4d#X 4G#X	4.ee	4b#X 4f#	.
+4d# 4G#	.	4b# [<4f#	.
+*Xped	*	*	*
+.	8dd#	.	.
+!!LO:PB:g=original
+=34	=34	=34	=34
+*^	*	*	*
+4A	2.C#X	8cc#XL	4f#]	.
+.	.	8b#XJ	.	.
+4G#X	.	2cc#	4e	.
+4Gn	.	.	4bn	.
+=35	=35	=35	=35	=35
+*ped	*	*	*	*
+4FF#	4ryy	8dd#XL	4a#X	.
+.	.	8cc#X	.	.
+8BL	4F#	8g#X	4e	.
+8A#X	.	8f#	.	.
+*Xped	*	*	*	*
+8G#X	4ryy	8b	4e	.
+8F#J	.	8cc#J	.	.
+*v	*v	*	*	*
+=36	=36	=36	=36
+*ped	*	*	*
+4BB	2.dd#X)	4r	.
+4B 4F#	.	4d#X	.
+*Xped	*	*	*
+.	.	.	.
+4AA#X	.	4d#	.
+=37	=37	=37	=37
+*ped	*	*	*
+4GG#X	(4b	4r	.
+4B 4E#X	4.cc	4g#X 4d#X	.
+*Xped	*	*	*
+.	.	.	.
+4EE#X	.	4g# 4d#	.
+.	8b	.	.
+=38	=38	=38	=38
+*ped	*	*	*
+.	16qa#X/LL	.	.
+.	16qb/JJ	.	.
+*^	*	*	*
+4r	2AA#X	8a#yL	4ryy	.
+.	.	8g##XJ	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+4A#X\ 4E#X\	.	2a#y)	4g#X 4c##X	.
+4ryy	4EE#X	.	4g# 4c##	.
+=39	=39	=39	=39	=39
+4r	2FF##X	(4a#X	4r	.
+4Eny	.	4.b	4c#X	.
+[<4D#X	4DD#X	.	4f##X [4c#	.
+.	.	8f##	.	.
+=40	=40	=40	=40	=40
+4D#X]	2GG#X	8a#XL	4c#X]	.
+.	.	8anJ	.	.
+4D#	.	4g#X	4B	.
+4F#	4AA#X	8f#L	[4c#X	.
+.	.	8eJ	.	.
+*v	*v	*	*	*
+!!LO:LB:g=original
+=41	=41	=41	=41
+*ped	*	*	*
+4BBB	2d#X	4c#X]	f<
+4BB\	.	4B</ 4F#</	.
+*Xped	*	*	*
+[<4BB\	4ryy	4e 4c# 4F#<	.
+=42	=42	=42	=42
+*ped	*	*	*
+4BB]\	4f# 4d#X 4F#<	4ryy	.
+4B 4F# 4BB	4..dd#X	4f# 4d#	.
+[4B [4F# [4BB	.	[>4f# [4d#	[
+*Xped	*	*	*
+.	16dd#	.	.
+=43	=43	=43	=43
+4B] 4F#] 4BB]	2dd#X	4f#] 4d#X]	.
+4c#X 4F# 4BB	.	4g#X 4e	.
+[4c# [4F# [4BB	4dd#^	[>4a#X [4e	.
+=44	=44	=44	=44
+4c#X] 4F#] 4BB]	2dd#X	4a#X] 4e]	.
+4c# 4F# 4BB	.	4g#y 4e	.
+4c# 4F# 4BB	4dd#^	4a# 4e	.
+*	*v	*v	*
+=45	=45	=45
+*ped	*	*
+4BBB	4dd#X 4b 4d#X)	.
+4F# 4BB	(>8d#L (8B	<
+.	8e 8c#X	.
+[4F# [4BB	8a#X 8f#	.
+.	8g#XJ 8e	.
+*Xped	*	*
+.	.	.
+=46	=46	=46
+*	*^	*
+*ped	*	*	*
+4F#] 4BB]	4f# 4d#X)	4ryy	.
+.	.	.	[
+4B 4F# 4BB	4..dd#X	4f# 4d#	.
+4B 4F# 4BB	.	4f# 4d#	.
+*Xped	*	*	*
+.	16dd#	.	.
+=47	=47	=47	=47
+4r	2dd#X	4r	.
+4A#X 4D#X	.	4g#X 4e#X	.
+[4A# [4D#	4dd#^	[>4a#X [4f#	.
+!!LO:LB:g=original
+=48	=48	=48	=48
+4A#X] 4D#X]	2dd#X	4a#X] 4f#]	.
+4A#y 4D#y	.	4g# 4e#	.
+4A# 4D#	4dd#^	4a# [4f#	.
+=49	=49	=49	=49
+*ped	*	*	*
+4BBB	4dd#X 4b)	4f#]	.
+4F# 4BB	(>4d#X 4B^>	2ryy	<
+[4F# [4BB	4eny 4c#y	.	.
+*Xped	*	*	*
+.	.	.	.
+=50	=50	=50	=50
+*ped	*	*	*
+4F#] 4BB]	4f# 4d#X	4ryy	.
+4B 4F# 4BB	4..dd#X	4f# 4d#	[
+[4B [4F# [4BB	.	[>4f# [4d#	.
+*Xped	*	*	*
+.	16dd#	.	.
+=51	=51	=51	=51
+4B] 4F#] 4BB]	2dd#X	4f#] 4d#X]	.
+4c#X 4F# 4BB	.	4g#X 4e	.
+[4c# [4F# [4BB	4dd#^	[>4a#X [4e	.
+=52	=52	=52	=52
+4c#X] 4F#] 4BB]	2dd#X	4a#X] 4e]	.
+4c# 4F# 4BB	.	4g 4e	.
+4c# 4F# 4BB	4dd#^	4a# 4e	.
+*	*v	*v	*
+=53	=53	=53
+*ped	*	*
+4BBB	4dd#X 4b 4d#X)	.
+4F# 4BB	(>8d#L (8B	<
+.	8e 8c#X	.
+[4F# [4BB	12a#X 12f#	.
+*Xped	*	*
+.	12g#X 12e	.
+.	12f#J 12d#	.
+=54	=54	=54
+*	*^	*
+*ped	*	*	*
+4F#] 4BB]	4f# 4d#X)	4ryy	[
+4B 4F# 4BB	4..dd#X	4f# 4d#	.
+4B 4F# 4BB	.	4f# 4d#	.
+*Xped	*	*	*
+.	16dd#	.	.
+!!LO:LB:g=original
+=55	=55	=55	=55
+4r	2dd#X	4r	.
+4A#X 4D#X	.	4g#X 4e#X	.
+[4A# [4D#	4dd#^	[>4a#X [4f#	.
+=56	=56	=56	=56
+4A#X] 4D#X]	2dd#X	4a#] 4f#]	.
+4A# 4D#	.	4g#X 4e#X	.
+.	.	.	<
+4A# 4D#	4dd#X\ 4a#X\ 4f#^\	4ryy	.
+=57	=57	=57	=57
+*^	*	*	*
+2ryy	4B 4G#X 4Dn	4ee\ 4b\ 4e\	2ryy	[
+.	4B 4G# 4E 4D	4ee\ 4\b 4e\	.	.
+8.cL	4G# 4E 4D	8.ccL	4ee 4e	.
+16BJk	.	16bJk	.	.
+=58	=58	=58	=58	=58
+*	*	*	*^	*
+4B	2.E 2.C	2.ee	4b/	2.e	.
+8.AL	.	.	8.aL/	.	.
+16G#XJk	.	.	16g#XJk/	.	.
+4A	.	.	4a/	.	.
+*	*	*	*v	*v	*
+*v	*v	*	*	*
+=59	=59	=59	=59
+*ped	*	*	*
+4BB\ 4BBB\	4b 4f# 4d#X 4B< 4A<	2ryy	.
+4BB\ 4BBB\	4b 4f# 4d# 4B< 4A<	.	.
+4BB\ 4BBB\	4b 4d# 4B< 4A<	8.gL/	.
+*Xped	*	*	*
+.	.	16f#Jk/	.
+=60	=60	=60	=60
+*^	*	*	*
+8AL	2.BB 2.EE	2.b 2.B	8f#L	.
+8G	.	.	8e	.
+.	.	.	8qf#/	.
+8G	.	.	8e	.
+8F#J	.	.	8d#XJ	.
+4G	.	.	4e	.
+*v	*v	*	*	*
+=61	=61	=61	=61
+*ped	*	*	*
+4E 4EE	2ryy	4ee\ 4b\ 4g#X\ 4e\ 4d\	.
+4B 4E	.	4ee\ 4b\ 4g#\ 4e\ 4d\	.
+*Xped	*	*	*
+4B 4E	8.ccL	4ee 4g# 4e 4d	.
+.	16bJk	.	.
+!!LO:LB:g=original
+=62	=62	=62	=62
+*^	*	*^	*
+4ryy	2.E 2.AA	2.ee	8bL/	4g#X 4e 4d\	.
+.	.	.	8b/	.	.
+.	.	.	8qb/	.	.
+8cL	.	.	8a/	2ryy	.
+8BJ	.	.	8g#J/	.	.
+[4c	.	.	4a	.	.
+*v	*v	*	*	*	*
+*	*v	*v	*v	*
+=63	=63	=63
+8cL]	8ccL	.
+8GnJ	8gnJ	.
+4Fn	4fn	.
+8.EL	8.eL	.
+16GJk	16gJk	.
+=64	=64	=64
+*^	*	*
+*	*^	*	*
+4r	[>2E/	4rGG	[2e	.
+4B 4G	.	4BB 4EE\	.	.
+4c 4A	8.EL]/	4AA\	8.eL]	.
+.	16GJk/	.	16gJk	.
+=65	=65	=65	=65	=65
+4r	[>2E/	4rGG	[2e	.
+4B 4G	.	4BB 4EE\	.	.
+4c 4A	8.EL]/	4AA\	8.eL]	.
+.	16GJk/	.	16gJk	.
+=66	=66	=66	=66	=66
+4r	2E	4rGG	2e	.
+4c 4A	.	4AA\	.	.
+4r	4G	4rGG	4g	.
+*v	*v	*v	*	*
+=67	=67	=67
+!	!LO:TX:i:t=rallent&colon;	!
+8cL	8ccL	.
+8GJ	8gJ	.
+4Fn	4fn	.
+8.EL	8.eL	.
+16GJk	16gJk	.
+=68	=68	=68
+*^	*	*
+*	*^	*	*
+4r	2.E	4rGG	2.e;)	.
+!LO:TX:t=FINE	!	!	!	!
+2B 2G	.	2BB 2EE\	.	.
+*v	*v	*v	*	*
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!ENC: Emilia Ziętek
+!!!END: 2018-06-05
+!!!EED: Jędrzej Mróz
+!!!EST: 2018-06-07
+!!!EED2: Jacek Iwaszko
+!!!EST2: revision finished 2018-10-25
+!!!EED3: Marta Lawrence
+!!!EST3: revision finished 2018-11-18
+!!!rism-genre: Mazurka
+!!!rism-key: E minor
+!!!rism-opus: op. 41, no 1  
+!!!rism-title: Mazurka in E minor op. 41, no 1
+!!!rism-permalink: 
+!!!rism-773a-OPR: 
+!!!rism-parent-permalink: 

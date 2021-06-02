@@ -1,0 +1,202 @@
+!!!!SEGMENT: 006-1b-Sm-005.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Mazourka No. 5.
+!!!OPS: Op. 6
+!!!PTL: Cinq Mazurkas
+!!!PPR: M. Schlesinger
+!!!PPP: Paris
+!!!NIFC-rismID: M/174
+!!!NIFC-shelfmark: PL-Wmfc M/174 
+!!!OMD: Vivo.
+!!!OMD: [half] = 60.
+!!!SIC: ????? is the OMD tempo marking correct?
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M3/4	*M3/4	*
+*MM180	*MM180	*
+=1-	=1-	=1-
+!LO:TX:a:t=P:problem:Znak pedalizacji pod nutą	!	!
+*ped	*	*
+!LO:TX:a:t=semplice.	!	!
+(>4G' 4GG\	2.r	f
+4G' 4GG\	.	.
+4G' 4GG\	.	.
+=2	=2	=2
+!	!	!LO:HP:b=2
+4G' 4GG\	2.r	>
+4G' 4GG\	.	.
+!LO:TX:a:t=diminuendo.	!	!
+4G' 4GG\	.	.
+!LO:TX:a:t=P:problem:'diminuendo.' nad łukiem	!	!
+=3	=3	=3
+4G' 4GG\	2.r	.
+4G' 4GG\	.	.
+4G' 4GG\	.	]
+=4	=4	=4
+4G' 4GG\	2.r	.
+4G' 4GG\	.	.
+4G') 4GG\	.	.
+!!LO:LB:g=original
+=5|!	=5|!	=5|!
+!	!LO:TX:a:t=P:problem:przed 'mezza voce.' znak dal segno S al fine	!
+4f 4B 4G	(>12ddL	.
+*Xped	*	*
+!	!LO:TX:a:t=mezza voce	!
+.	12ee	.
+!	!LO:TX:b:t=P:problem:'3' nad nutami	!
+.	12ddJ	.
+4e 4c 4G	4g^>\)	.
+(>4e^< 4c 4G	(>8.ccL	.
+.	16eeJk)	.
+=6	=6	=6
+4f') 4B' 4G'	(12ddL	.
+.	12ee	.
+!	!LO:TX:b:t=P:problem:'3' nad nutami	!
+.	12ddJ)	.
+4e' 4c 4G	4g^\	.
+(>4e^< 4c 4G	(>8.ccL	<
+.	16eeJk	[[
+=7	=7	=7
+4f) 4B 4G	4aa	fz
+.	.	>
+4f 4B 4G	8.ggL	]
+.	16eek	.
+4f 4B 4G	8.ff	.
+.	16ddJk)	.
+=8	=8	=8
+*ped	*	*
+!LO:TX:a:t=P:problem:Znak pedalizacji pod nutą	!	!
+4C'\	(>8.ccL	<
+.	16eek	.
+4e 4c 4G	8.gg	[
+.	16bbk	fz
+(>4e 4c 4G	8.ddd	>
+*Xped	*	*
+.	16cccJk)	]]
+!!LO:LB:g=original
+=9	=9	=9
+4f) 4B 4G	(>12ddL	.
+.	12ee	.
+!	!LO:TX:b:t=P:problem:'3' nad nutami	!
+.	12ddJ)	.
+4e' 4c 4G	4g^>\	.
+(>4e^< 4c 4G	(>8.ccL	.
+.	16eeJk)	.
+=10	=10	=10
+4f) 4B 4G	(12ddL	.
+.	12ee	.
+!	!LO:TX:b:t=P:problem:'3' nad nutami	!
+.	12ddJ)	.
+4e' 4c 4G	4g^>\	.
+(>4e^< 4c 4G	(>8.ccL	<
+.	16eeJk	[[
+=11	=11	=11
+4f) 4B 4G	4aa	fz
+4f' 4B 4G	8.ggL	>
+.	16eek	]
+4f' 4B 4G	8.ff	.
+.	16ddJk)	.
+=12	=12	=12
+*ped	*	*
+!LO:TX:a:t=P:problem:Znak pedalizacji pod nutą	!	!
+4C'\	(8.ccL	<
+.	16ddk	[
+!	!	!LO:HP:b=2
+4e 4c 4G	8.ee	<
+*Xped	*	*
+.	16bk	.
+!LO:S:s=2:note:problem:note-level slur	!	!
+4e (>4c 4A	8.dd	[ >
+.	16ccJk)	]
+!!LO:LB:g=original
+=13	=13	=13
+!	!LO:TX:a:t=sotto voce.	!
+4c) 4F#X 4D	(<12aL	]
+.	12b	.
+!	!LO:TX:b:t=P:problem:'3' pod nutami	!
+.	12aJ)	.
+4B' 4G 4D	(<4d^>	.
+(4B^< 4G 4D	8.gL	.
+.	16bJk)	.
+=14	=14	=14
+4c 4F#X 4D)	(<12aL	.
+.	12b	.
+!	!LO:TX:b:t=P:problem:'3' pod nutami	!
+.	12aJ)	.
+4B' 4G 4D	(<4d^>	.
+(>4B^< 4G 4D	8.gL	<
+.	16bJk)	[[
+=15	=15	=15
+4c) 4F#X 4D	(>4ee	fz
+4c' 4F# 4D	8.ddL	>
+.	16bk	]
+4c' 4F# 4D	8.cc	.
+.	16aJk)	.
+=16	=16	=16
+*ped	*	*
+4GG'	(>8.gL	<
+.	16bk	.
+4B 4G 4D	8.dd	.
+.	16ff#Xk	[[
+!LO:S:s=2:note:problem:note-level slur	!	!
+4B (>4G 4D	8.aa	sf >
+*Xped	*	*
+.	16ggJk)	]]
+!!LO:LB:g=original
+=17	=17	=17
+4c') 4F#X 4D	(<12aL	[
+.	12b	.
+!	!LO:TX:b:t=P:problem:'3' pod nutami	!
+.	12aJ)	.
+4B' 4G 4D	(<4d^>	.
+(>4B^< 4G 4D	8.gL	.
+.	16bJk)	.
+=18	=18	=18
+4c) 4F#X 4D	(<12aL	.
+.	12b	.
+!	!LO:TX:b:t=P:problem:'3' pod nutami	!
+.	12aJ)	.
+4B' 4G' 4D'	(<4d^>	.
+(>4B^< 4G 4D	8.gL	<
+.	16bJk)	.
+=19	=19	=19
+4c) 4F#X 4D	(>4ff#X	[ fz
+4c' 4F#' 4D'	8.eeL	>
+.	16bk	.
+4c' 4F#' 4D'	8.cc	]
+.	16aJk)	.
+=20	=20	=20
+*	*	*^
+*ped	*	*	*
+4GG'	(>8.gL	<	.
+!LO:TX:b::t=dol Segno senza Fine.	!	!	!
+.	16bk	.	.
+4B 4G 4D	8.dd	.	.
+.	16ff#Xk	.	<
+4B 4G 4D	8.aa	[ >	.
+*Xped	*	*	*
+.	16ggJk)	]	.
+*	*	*v	*v
+!	!LO:TX:a:t=P:problem:znak Segno nad końcowymi kreskami taktowymi	!
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cres.", fontstyle="normal"
+!!!ENC: Jacek Iwaszko
+!!!END: 2017-08-29
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: 2018-12-25
+!!!rism-genre: Mazurka
+!!!rism-key: C major
+!!!rism-opus: op. 6, no 5
+!!!rism-title: Mazurka in C major op. 6, no 5
+!!!rism-permalink:
+!!!rism-773a-OPR: 
+!!!rism-parent-permalink: 

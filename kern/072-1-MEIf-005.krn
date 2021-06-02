@@ -1,0 +1,264 @@
+!!!!SEGMENT: 072-1-MEIf-005.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Éccosaise No. 3
+!!!OPS: Op. 72
+!!!PTL: ŒUVRES | POSTHUMES | POUR | PIANO | DE | FRÉD. CHOPIN
+!!!PPR: J. Meissonnier fils
+!!!PPP: Paris
+!!!NIFC-rismID: 1001007955
+!!!NIFC-shelfmark: PL-Wbfc 4764/n
+**kern	**kern	**dynam
+*part1	*part1	*
+*I"N|o. 3.	*	*
+*>[A,A1,A,A2]	*>[A,A1,A,A2]	*
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
+*M2/4	*M2/4	*
+8r	8a-\	.
+=1!|:	=1!|:	=1!|:
+*>A	*>A	*
+*	*^	*
+*ped	*Xtuplet	*	*
+8D-L	(>24aa-L	8ffL	mf
+.	24bb-L	.	.
+.	24aa-JJ	.	.
+8A-J 8d- 8f	8rcccyy	16dd-L	.
+*Xped	*	*	*
+.	.	16bb-JJ)	.
+*ped	*	*	*
+8AA-L	(>24aa-L	8gg-L	.
+.	24bb-L	.	.
+.	24aa-JJ	.	.
+8A-J 8e- 8g-	8reeeyy	16ccL	.
+.	.	16eee-JJ)	.
+=2	=2	=2	=2
+8AA-L	(>24aa-L	8gg-L	.
+.	24bb-L	.	.
+.	24aa-JJ	.	.
+8A-J 8e- 8g-	8reeeyy	16ee-L	.
+*Xped	*	*	*
+.	.	.	.
+.	.	16cccJJ)	.
+*ped	*	*	*
+8D-L	(>24aa-L	8ffL	.
+.	24bb-L	.	.
+.	24aa-JJ	.	.
+8A-J 8d- 8f	8rgggyy	16dd-L	.
+.	.	16ddd-JJ)	.
+=3	=3	=3	=3
+8D-L	(>24aa-LL	8ffL	.
+.	24bb-	.	.
+.	24aa-JJ	.	.
+8A-J 8d- 8f	8raayy	16dd-L	.
+*Xped	*	*	*
+.	.	.	.
+.	.	16bb-JJ)	.
+*ped	*	*	*
+8AA-L	(>24aa-L	8gg-L	.
+.	24bb-L	.	.
+.	24aa-JJ	.	.
+8A-J 8e- 8g-	8rcccyy	16ccL	.
+.	.	16eee-JJ)	.
+=4	=4	=4	=4
+8AA-L	(>24aa-LL	8gg-L	.
+.	24bb-	.	.
+.	24aa-JJ	.	.
+8A-J 8e- 8g-	16ryy	16ee-L	.
+*Xped	*	*	*
+.	.	.	.
+.	16ryy	16cccJJ)	.
+*ped	*	*	*
+8D-L	8ryy	8ff 8ddd-	.
+8A-J 8d- 8f	8r	8r	.
+!!LO:LB:g=original
+=5	=5	=5	=5
+8D-L	(>24aa-L	8ffL	.
+.	24bb-L	.	.
+.	24aa-JJ	.	.
+8A-J 8d- 8f	8rcccyy	16dd-L	.
+*Xped	*	*	*
+.	.	.	.
+.	.	16bb-JJ)	.
+*ped	*	*	*
+8AA-L	(>24aa-L	8gg-L	.
+.	24bb-L	.	.
+.	24aa-JJ	.	.
+8A-J 8e- 8g-	8reeeyy	16ccL	.
+.	.	16eee-JJ)	.
+=6	=6	=6	=6
+8AA-L	(>24aa-L	8gg-L	.
+.	24bb-L	.	.
+.	24aa-JJ	.	.
+8A-J 8e- 8g-	8reeeyy	16ee-L	.
+*Xped	*	*	*
+.	.	.	.
+.	.	16cccJJ)	.
+*ped	*	*	*
+8D-L	(>24aa-L	8ffL	.
+.	24bb-L	.	.
+.	24aa-JJ	.	.
+8A-J 8d- 8f	8rgggyy	16dd-L	.
+.	.	16ddd-JJ)	.
+=7	=7	=7	=7
+8D-L	(>24aa-LL	8ffL	.
+.	24bb-	.	.
+.	24aa-JJ	.	.
+8A-J 8d- 8f	8raayy	16dd-L	.
+*Xped	*	*	*
+.	.	.	.
+.	.	16bb-JJ)	.
+*ped	*	*	*
+8AA-L	(>24aa-L	8gg-L	.
+.	24bb-L	.	.
+.	24aa-JJ	.	.
+8A-J 8e- 8g-	8rcccyy	16ccL	.
+.	.	16eee-JJ)	.
+=8	=8	=8	=8
+8AA-L	(>24aa-LL	8gg-L	.
+.	24bb-	.	.
+.	24aa-JJ	.	.
+8A-J 8e- 8g-	16ryy	16ee-L	.
+*Xped	*	*	*
+.	16ryy	16cccJJ)	.
+*ped	*	*	*
+8D-L	8ryy	8ff 8ddd-	.
+8A-J 8d- 8f	8r	8r	.
+*Xped	*	*	*
+.	.	.	.
+*	*v	*v	*
+!!LO:LB:g=original
+=9	=9	=9
+*	*8va	*
+*ped	*	*
+8AAnL	(>8cccc'<L	f>
+8FJ 8c 8f	16ggg-T>L	.
+*Xped	*	*
+.	16fffJJ	.
+*ped	*	*
+8BB-L	16eee-LL	.
+.	16ddd-	.
+8B-J 8d- 8f	16ccct>	.
+*Xped	*	*
+.	16bb-JJ)	.
+*	*X8va	*
+=10	=10	=10
+*ped	*	*
+8E-L	(>16aa-LL	.
+.	16gg-	.
+8B-J 8d- 8g-	16ff	.
+*Xped	*	*
+.	16ee-JJ	.
+*ped	*	*
+8A-L	16dd-LL	.
+.	16cc	.
+8cJ 8g-	16b-	.
+*Xped	*	*
+.	16a-JJ)	]
+=11	=11	=11
+*ped	*	*
+8AA-L	(>\16gnLL	<
+.	16a-	.
+8A-J 8c 8g-	16b-	.
+*Xped	*	*
+.	16ccJJ	.
+*ped	*	*
+8D-L	16dd-LL	.
+.	16ee-	.
+8A-J 8d- 8f	16ff	.
+*Xped	*	*
+.	16gg-XJJ	.
+=12	=12	=12
+*ped	*	*
+8AA-L	16ggnLL	.
+.	16aa-	.
+8A-J 8c 8g-	16bb-	.
+.	16cccJJ	.
+*Xped	*	*
+.	.	.
+*	*8va	*
+*ped	*	*
+8D-L	16ddd-LL	.
+.	16eee-	.
+8A-J 8d- 8f	16eeen	.
+*Xped	*	*
+.	16fffJJ)	[
+!!LO:LB:g=original
+=13	=13	=13
+*ped	*	*
+8AAnL	(>8ccccL	>
+8FJ 8c 8f	16ggg-T>L	.
+*Xped	*	*
+.	16fffJJ	.
+*ped	*	*
+8BB-L	16eee-LL	.
+.	16ddd-	.
+8B-J 8d- 8f	16ccct>	.
+*Xped	*	*
+.	16bb-JJ)	.
+*	*X8va	*
+=14	=14	=14
+*ped	*	*
+8E-L	(>16aa-LL	.
+.	16gg-	.
+8B-J 8d- 8g-	16ff	.
+*Xped	*	*
+.	16ee-JJ	.
+*ped	*	*
+8A-L	16dd-LL	.
+.	16cc	.
+8cJ 8g-	16b-	.
+*Xped	*	*
+.	16a-JJ)	]
+=15	=15	=15
+*ped	*	*
+8AA-L	(>16bb-LL	.
+.	16cc	<
+8A-J 8c 8g-	16gg- 16aa-	.
+*Xped	*	*
+.	16fffJJ)	.
+*ped	*	*
+8D-L	(>16eee-LL	.
+.	16ff	.
+8A-J 8d- 8f	16aa- 16ddd-	.
+*Xped	*	*
+.	16bbb-JJ)	.
+=16	=16	=16
+!!LO:TX:a:t=1|a.
+*>A1	*A1	*
+*ped	*8va	*
+8AA-L	(>16aaa-LL	.
+.	16ccc	.
+8A-J 8e- 8g-	16ggg- 16aaa-	.
+*Xped	*	*
+.	16ccccJJ)	.
+!	!	!LO:DY:rj
+8d- 8f^>	8fff 8dddd-	f
+*	*X8va	*
+8r	8a-\	.
+=17:|!	=17:|!	=17:|!
+!!LO:TX:a:t=2|a.
+*>A2	*A2	*
+*ped	*8va	*
+8AA-L	(>16aaa-LL	.
+.	16ccc	.
+8A-J 8e- 8g-	16ggg- 16aaa-	.
+*Xped	*	*
+.	16ccccJJ)	.
+8d- 8f^>	8fff 8dddd-	.
+*	*X8va	*
+8r	8r	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**kern: i = editorial accidental
+!!!RDF**dynam: > = "dim.", fontstyle="italic"
+!!!RDF**dynam: < = "cresc.", fontstyle="italic"
+!!!ENC: Jędrzej Mróz
+!!!END: 2020-05-27
+!!!EED: Mateusz Mrugas
+!!!EST: revision finished 2020-05-30

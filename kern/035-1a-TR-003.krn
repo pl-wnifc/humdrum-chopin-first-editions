@@ -1,0 +1,1029 @@
+!!!!SEGMENT: 035-1a-TR-003.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Sonate. Marche.
+!!!OPS: Op. 35
+!!!PTL: Sonate pour le Piano
+!!!OMV: 3
+!!!PPR: Troupenas
+!!!PPP: Paris
+!!!NIFC-rismID: 300605122
+!!!NIFC-shelfmark: PL-Wbfc 2061/n
+!!!OMD: Lento.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
+*b:	*b:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+*>[A,B,B,C,C1,C,C2,D]	*>[A,B,B,C,C1,C,C2,D]	*
+*>A	*>A	*
+=1	=1	=1
+*^	*	*
+!	!	!	!LO:DY:rj
+4F\	4BB- 4FF 4BBB-	(>4B-<	p
+4G-\	4D- 4GG- 4DD-	8.B-<L	.
+.	.	16B-<Jk	.
+4F\	4BB- 4FF 4BBB-	2B-<	.
+4G-\	4D- 4GG- 4DD-	.	.
+=2	=2	=2	=2
+4F\	4BB- 4FF 4BBB-	4B-<	.
+4G-\	4D- 4GG- 4DD-	8.B-<L	.
+.	.	16B-<Jk	.
+4F\	4BB- 4FF 4BBB-	2B-<)	.
+4G-\	4D- 4GG- 4DD-	.	.
+=3	=3	=3	=3
+4F\	4BB- 4FF 4BBB-	(>4B-<	.
+4G-\	4D- 4GG- 4DD-	8.B-<L	.
+.	.	16B-<Jk	.
+4F\	4BB- 4FF 4BBB-	4B-<	.
+4G-\	4D- 4GG- 4DD-	8.d-L	.
+.	.	16cJk	.
+=4	=4	=4	=4
+.	.	8qd-	.
+4F	4BB- 4FF 4BBB-	8.cL	.
+.	.	16B-	.
+4G-	4D- 4GG- 4DD-	8.B-	.
+.	.	16B-Jk	.
+4F	4BB- 4FF 4BBB-	2B-)	.
+4G-	4D- 4GG- 4DD-	.	.
+=5	=5	=5	=5
+4F	4BB- 4FF 4BBB-	(>4d- 4B-	.
+!	!	!LO:TX:a:t=P:8B- instead of 8.B-:problem	!
+4G-	4D- 4GG- 4DD-	8.d-L 8B-	.
+.	.	16d-Jk	.
+4F	4BB- 4FF 4BBB-	4d- 4B-	.
+4G-	4D- 4GG- 4DD-	8.fL 8.d-	.
+.	.	16e-Jk 16c	.
+!!LO:LB:g=original
+=6	=6	=6	=6
+.	.	8qf/	.
+4F	4BB- 4FF 4BBB-	8.e-L 8.c	.
+.	.	16d-k 16B-	.
+4G-	4D- 4GG- 4DD-	8.d- 8.B-	.
+.	.	16d-Jk 16B-	.
+4F	4BB- 4FF 4BBB-	2d- 2B-)	.
+4G-	4D- 4GG- 4DD-	.	.
+*v	*v	*	*
+=7	=7	=7
+*	*^	*
+4BB-\ 4FF\ 4BBB-\	(>8b-L	4d- 4B-	>
+.	8a-	.	.
+.	8qa-/	.	.
+4D-\ 4GG-\ 4DD-\	8.g-	4d- 4B-	]]
+.	16fJk	.	.
+4BB-\ 4FF\ 4BBB-\	4f	4d- 4B-	.
+4D-\ 4GG-\ 4DD-\	4d-	4B-	.
+=8	=8	=8	=8
+4BB-\ 4FF\ 4BBB-\	8b-L	4d- 4B-	.
+.	8a-	.	.
+.	8qa-/	.	.
+4D-\ 4GG-\ 4DD-\	8.g-	4d- 4B-	.
+.	16fJk	.	.
+4BB-\ 4FF\ 4BBB-\	4f	4d- 4B-	.
+4D-\ 4GG-\ 4DD-\	4d-)	4B-	.
+*	*v	*v	*
+=9	=9	=9
+*^	*	*
+4F\	4BB- 4FF 4BBB-	(>4B-<	.
+4G-\	4D- 4GG- 4DD-	8.B-<L	.
+.	.	16B-<Jk	.
+4F\	4BB- 4FF 4BBB-	4B-<	.
+4G-\	4D- 4GG- 4DD-	8.d-L	.
+.	.	16cJk	.
+=10	=10	=10	=10
+.	.	8qd-	.
+4F	4BB- 4FF 4BBB-	8.cL	.
+.	.	16B-	.
+4G-	4D- 4GG- 4DD-	8.B-	.
+.	.	16B-Jk	.
+4F	4BB- 4FF 4BBB-	2B-)	.
+4G-	4D- 4GG- 4DD-	.	.
+*v	*v	*	*
+!!LO:LB:g=original
+=11	=11	=11
+*	*^	*
+!	!	!	!LO:DY:rj
+!	!	!LO:TX:a:t=P:2dd- between 8bb- 8b- and 8aa- 8a-. Decrescendo starts below 2dd-:problem	!
+*ped	*	*	*
+4BB- 4FF 4BBB-	(8bb-\L 8b-\	2dd-	fz >
+.	8aa- 8a-	.	.
+.	8qqa-/L	.	.
+.	8qqdd-/	.	.
+.	8qqaa-/J	.	.
+4D- 4GG- 4DD-	8.gg- 8.g-	.	.
+.	16ffJk 16f	.	]
+4BB- 4FF 4BBB-	4ff\ 4dd-\ 4f\	2ryy	.
+*Xped	*	*	*
+4D- 4GG- 4DD-	4dd-\ 4b-\ 4d-\)	.	.
+=12	=12	=12	=12
+*ped	*	*	*
+!	!	!LO:TX:a:t=P:2dd- between 8bb- 8b- and 8aa- 8a-. Decrescendo starts below 2dd-:problem	!
+4BB- 4FF 4BBB-	(8bb-\L 8b-\	2dd-	fz >
+.	8aa- 8a-	.	.
+.	8qqa-/L	.	.
+.	8qqdd-/	.	.
+.	8qqaa-/J	.	.
+4D- 4GG- 4DD-	8.gg- 8.g-	.	.
+.	16ffJk 16f	.	]
+4BB- 4FF 4BBB-	4ff\ 4dd-\ 4f\	2ryy	.
+*Xped	*	*	*
+4D- 4GG- 4DD-	4dd-\ 4b-\ 4d-\)	.	.
+=13	=13	=13	=13
+*ped	*	*	*
+!	!	!LO:TX:a:t=P:in measures 13 and 14 notes from the second subspine are right behind notes from first subspine:problem	!
+4BB- 4FF 4BBB-	(>4b- 4B-	4f	.
+4D- 4GG- 4DD-	8.b-L 8.B-	4g-	.
+.	16b-Jk 16B-	.	.
+4BB- 4FF 4BBB-	4b- 4B-	4f	.
+4D- 4GG- 4DD-	8.dd-L 8.d-	4g-	.
+*Xped	*	*	*
+.	.	.	.
+.	16ccJk 16c	.	.
+=14	=14	=14	=14
+4BB- 4FF 4BBB-	8.ccL 8.c	4f	.
+.	16b-k 16B-	.	.
+4D- 4GG- 4DD-	8b- 8B-	4g-	.
+.	8b-J 8B-	.	.
+4BB- 4FF 4BBB-	4b- 4B-	4f	.
+4AA- 4AAA-	4cc 4a- 4g- 4c)	4ryy	.
+*	*v	*v	*
+=15	=15	=15
+*ped	*	*
+4DD- 4DDD-	4dd- 4f 4d-	f
+8.d-L 8.A- 8.D-	(>8.ffL 8.dd- 8.f	<
+16e-Jk	16gg-Jk 16g-	.
+8.fL 8.A- 8.D-	8.aa-L 8.dd- 8.a-	.
+16g-Jk	16bb-Jk 16b-	.
+8.a-L 8.e- 8.A-	8.cccL 8.aa- 8.cc	.
+!	!LO:TX:a:t=P:the slur looks like it was ending in the next line:problem	!
+16fJk	16ddd-Jk 16dd-)	[
+!!LO:LB:g=original
+=16	=16	=16
+*ped	*	*
+4AA- 4AAA-	2fff [2ccc [>2aa- 2ff	>
+*clefG2	*	*
+8.ccL 8.g- 8.e-	.	.
+16b-Jk 16g- 16d-	.	.
+8.b-L 8.g- 8.d-	4.eee- 4.ccc] 4.aa-] 4.ee-	]
+16a-Jk 16g- 16c	.	.
+8.a-L 8.g- 8.c	.	.
+.	16r	.
+16e-Jk 16c 16An	(16gg- 16ee- 16cc 16g-	.
+!LO:CL:ed	!	!
+*clefF4	*	*
+=17	=17	=17
+*ped	*	*
+4BB- 4BBB-	4ff 4ee- 4cc 4f	.
+*Xped	*	*
+4d- 4B- 4F	8.ffL 8.dd- 8.b- 8.f	.
+.	16ggnJk 16gn	.
+*ped	*	*
+4D- 4DD-	8.aanL 8.ff 8.dd- 8.an	.
+.	16bb-Jk 16b-	.
+*Xped	*	*
+4f 4d- 4B- 4F	8.cccL 8.ff 8.cc	.
+.	16ddd-Jk 16dd-	.
+=18	=18	=18
+*ped	*	*
+4FF 4FFF	2ddd-:/ 2gg-:/ 2een:/ 2b-:/	.
+!!!SIC@EN: 2gg- instead of 2ggn
+*Xped	*	*
+4gn> 4d-> 4B- 4F	.	.
+!LO:TX:b:i:t=sempre f	!	!
+4an> 4c 4An 4F	4ccc 4ff 4cc	.
+4F^	4r	.
+=19	=19	=19
+*	*^	*
+*ped	*	*	*
+16qqGGn/LL	.	.	f
+16qqAA-/JJ	.	.	.
+!	!	!LO:TX:a:t=P:4f and 4e- after notes from the first subspine:problem	!
+!LO:TX:t=P:pedal mark below 16qqGGn:problem	!	!	!
+!LO:TX:t=P:trill between 4G-< and 2AA-:problem	!	!	!
+2AA-TT	4a- 4c 4A-< 4G-<	4f	.
+.	4a- 4c 4A-< 4G-<	4e-	.
+*Xped	*	*	*
+16qqGG/LL	.	.	.
+16qqAA-/JJ	.	.	.
+4D-	4a- 4d- 4F<)	2ryy	.
+4D-^	4r	.	.
+=20	=20	=20	=20
+*ped	*	*	*
+16qqEEn/LL	.	.	.
+16qqFF/JJ	.	.	.
+!LO:TX:t=P:pedal mark below 16qqEEn:problem	!	!	!
+!LO:TX:t=P:trill between 4E-< and 2FF-:problem	!	!	!
+2FF-TT	(4f 4An< 4E-<	4d-	.
+!!!SIC@EN: 2FF- instead of 2FF
+.	4f 4A< 4E-<	4c	.
+*Xped	*	*	*
+16qqEE/L	.	.	p
+16qqFF-/J	.	.	.
+!!!SIC@EN: 16qqFF- instead of 16qqFF
+!LO:TX:t=P:pedal up mark below 16qqEE:problem	!	!	!
+(4GG-^<	2B-< 2D-<)	2ryy	.
+8FF-L	.	.	.
+!!!SIC@EN: 8FF- instead of 8FF
+8DD-J	.	.	.
+*	*v	*v	*
+=21	=21	=21
+*^	*	*
+4ryy	4BBB-)	(>4B-< 4F< 4BB-<	.
+!	!	!	!LO:DY:rj
+4G-\	4D- 4GG- 4DD-	8.B-<L	p
+.	.	16B-<Jk	.
+4F\	4BB- 4FF 4BBB-	4B-<	.
+4G-\	4D- 4GG- 4DD-	8.d-<L	.
+.	.	16c<Jk	.
+!!LO:LB:g=original
+=22	=22	=22	=22
+.	.	8qd-<	.
+4F\	4BB- 4FF 4BBB-	8.c<L	.
+.	.	16B-<	.
+4G-\	4D- 4GG- 4DD-	8.B-<	.
+.	.	16B-<Jk	.
+2ryy	4BB- 4FF 4BBB-	4B-< 4F<)	.
+!	!	!LO:TX:a:t=P:lack of dot next to 8.F-<:problem	!
+!	!	!	!LO:DY:a
+!	!	!	!LO:DY:rj
+.	8.BB--L 8.BBB-X	8.d-L 8.A--< 8.F-<	ff <
+!!!SIC@EN: 8.BBB- instead of 8.BBB--
+.	16AA-Jk 16AAA-	16e-Jk 16c 16G-<	.
+*v	*v	*	*
+=23	=23	=23
+4DD- 4DDD-	4f 4d- 4F<	.
+8.d-L 8.A- 8.D-	(8.ffL 8.dd- 8.f	.
+16e-Jk	16gg-Jk 16g-	.
+8.fL 8.A- 8.D-	8.aa-L 8.dd- 8.a-	.
+16g-Jk	16bb-Jk 16b-	.
+8.a-L 8.e- 8.A-	8.cccL 8.aa- 8.cc	.
+16fJk	16ddd-Jk 16dd-	[
+=24	=24	=24
+*ped	*	*
+4AA- 4AAA-	2fff [2ccc [>2aa- 2ff	>
+*clefG2	*	*
+8.ccL 8.g- 8.e-	.	.
+16b-Jk 16g- 16d-	.	.
+8.b-L 8.g- 8.d-	4.eee- 4.ccc] 4.aa-] 4.ee-)	]
+16a-Jk 16g- 16c	.	.
+*Xped	*	*
+8.a-L 8.g- 8.c	.	.
+.	16r	.
+16e-Jk 16c 16An	(16gg- 16ee- 16cc 16g-	.
+*clefF4	*	*
+=25	=25	=25
+*ped	*	*
+4BB- 4BBB-	4ff 4ee- 4cc 4f	.
+*Xped	*	*
+4d- 4B- 4F	8.ffL 8.dd- 8.b- 8.f	.
+.	16ggnJk 16gn	.
+*ped	*	*
+4D- 4DD-	8.aanL 8.ff 8.dd- 8.an	.
+.	16bb-Jk 16b-	.
+4f 4d- 4B- 4F	8.cccL 8.ff 8.cc	.
+*Xped	*	*
+.	16ddd-Jk 16dd-	.
+=26	=26	=26
+*ped	*	*
+4FF 4FFF	2ddd-:/ 2gg-:/ 2een:/ 2b-:/	.
+!!!SIC@EN: 2gg- instead of 2ggn
+4gn> 4d-> 4B- 4F	.	.
+4an> 4c 4An 4F	4ccc 4ff 4cc	.
+!	!LO:TX:a:t=P:the slur looks like it was ending in the next line:problem	!
+4F^	4r)	.
+!!LO:PB:g=original
+=27	=27	=27
+*	*^	*
+*ped	*	*	*
+!LO:TX:t=P:pedal mark is below 16qqGGn:problem	!	!	!
+16qqGGn/LL	.	.	f
+16qqAA-/JJ	.	.	.
+!	!	!LO:TX:a:t=P:4f and 4e- are right behind the notes from the first subspine:problem	!
+!LO:TX:t=P:trill is between 4G-< and 2AA-:problem	!	!	!
+2AA-TT	4a- 4c 4A-< 4G-<	4f	.
+.	4a- 4c 4A-< 4G-<	4e-	.
+16qqGG/LL	.	.	.
+16qqAA-/JJ	.	.	.
+*Xped	*	*	*
+4D-	4a- 4d- 4F<	2ryy	.
+4D-^	4r	.	.
+=28	=28	=28	=28
+*ped	*	*	*
+!LO:TX:t=P:pedal mark below 16qqEEn:problem	!	!	!
+16qqEEn/LL	.	.	.
+16qqFF/JJ	.	.	.
+!	!	!LO:TX:a:t=P:4d- and 4c are right behind the notes from the first subspine:problem	!
+!LO:TX:t=P:trill between 4E-< and 2FF-:problem	!	!	!
+2FF-TT	(4f 4An< 4E-<	4d-	.
+!!!SIC@EN: 2FF- instead of 2FF
+.	4f 4A< 4E-<	4c	.
+*Xped	*	*	*
+!LO:TX:t=P:pedal up below 16qqEE:problem	!	!	!
+16qqEE/LL	.	.	p
+16qqFF-/JJ	.	.	.
+!!!SIC@EN: 16qqFF- instead of 16qqFF
+(>4GG-^<	2B-< 2D-<)	2ryy	.
+8FF-L	.	.	.
+!!!SIC@EN: 8FF- instead of 8FF
+8DD-J	.	.	.
+*	*v	*v	*
+=29	=29	=29
+*^	*	*
+4ryy	4BBB-)	(>4B-< 4F< 4BB-<	.
+!	!	!	!LO:DY:rj
+4G-\	4D-\ 4GG- 4DD-	8.B-<L	p
+.	.	16B-<Jk	.
+4F\	4BB-\ 4FF 4BBB-	4B-<	.
+4G-\	4D-\ 4GG- 4DD-	8.d-<L	.
+.	.	16c<Jk	.
+=30	=30	=30	=30
+.	.	8qd-<	.
+4F\	4BB- 4FF 4BBB-	8.c<L	.
+.	.	16B-<	.
+4G-\	4D- 4GG- 4DD-	8.B-<	.
+.	.	16B-<Jk	.
+2ryy	4D- 4FF 4BBB-	4B-< 4F<)	.
+.	4AA- 4AAA-	4rd<	.
+*v	*v	*	*
+*>B	*>B	*
+=31!|:	=31!|:	=31!|:
+*ped	*	*
+!LO:TX:t=P:pedal mark before 8DD-:problem	!	!
+(>8DD-L<	(2ff	pp
+8AA-	.	.
+8F	.	.
+8d-J)	.	.
+(8DD-L<	8gg-L	.
+8AA-	8ff	.
+8F	8ee-	.
+*Xped	*	*
+8d-J)	8dd-J	.
+!!LO:LB:g=original
+=32	=32	=32
+*ped	*	*
+(8EE-L	4cc	.
+8AA-	.	.
+8G-	4bb-	.
+8cJ)	.	.
+(>8EE-L	2aa-)	.
+8AA-	.	.
+8G-	.	.
+*Xped	*	*
+8cJ)	.	.
+=33	=33	=33
+*ped	*	*
+(8AAA-L<	(2gg-	.
+8AA-	.	.
+8G-	.	.
+8cJ)	.	.
+(8AAA-L<	8aa-L	.
+8AA-	8gg-	.
+8G-	8ff	.
+*Xped	*	*
+8cJ)	8ee-J	.
+=34	=34	=34
+*ped	*	*
+(8DD-L<	4dd-	.
+8AA-	.	.
+8F	4ddd-	.
+8d-J)	.	.
+(8DD-L<	2aa-)	.
+8AA-	.	.
+8F	.	.
+*Xped	*	*
+8d-J)	.	.
+=35	=35	=35
+*ped	*	*
+(8DD-L<	(2ff	.
+8AA-	.	.
+8F	.	.
+*Xped	*	*
+8d-J)	.	.
+*ped	*	*
+(8BBB-L	8gg-L	.
+8BB-	8ff	.
+8A-	8ee-	.
+*Xped	*	*
+8dnJ)	8ddnJ	.
+=36	=36	=36
+*ped	*	*
+(>8EE-L	8ee-L	.
+8BB-	8ddn	.
+8G-	8ee-	.
+*Xped	*	*
+8e-J)	8ffJ	.
+*ped	*	*
+(8GG-L	8gg-L)	.
+8E-	(8b-	.
+8B-	8ff	.
+*Xped	*	*
+8e-J)	8ee-J	.
+=37	=37	=37
+.	16qqcc/LL	.
+.	16qqdd-/JJ	.
+*ped	*	*
+(>8GGnL	2dd-TT)	.
+8En	.	.
+8d-	.	.
+*Xped	*	*
+8b-J)	.	.
+.	16qqcc/LL	.
+.	16qqdd-/JJ	.
+.	8qcc/	.
+*ped	*	*
+(>8AA-L	(8bb-L	.
+8E-X	8aa-	.
+8c	8gg-	.
+*Xped	*	*
+8g-XJ)	8a-J	.
+!!LO:LB:g=original
+=38	=38	=38
+*ped	*	*
+(8AAA-L<	2ee-	.
+8AA-	.	.
+8G-	.	.
+*Xped	*	*
+8cJ)	.	.
+*ped	*	*
+(>8DD-L<	4dd-)	.
+8AA-	.	.
+8F	4r	.
+*Xped	*	*
+8d-J)	.	.
+*>C	*>C	*
+=39:|!	=39:|!	=39:|!
+*ped	*	*
+(8AAA-L<	(2cc	.
+8AA-	.	.
+8E-	.	.
+8cJ)	.	.
+(8AAA-L<	8dd-L	.
+8AA-	8cc	.
+8E-	8b-	.
+*Xped	*	*
+8cJ)	8a-J	.
+=40	=40	=40
+*ped	*	*
+!	!LO:TX:b:t=cresc _:problem:dynamics with extention line	!
+!	!	!LO:HP:b:i:t=cresc
+(8BBB-L<	4g-\	<
+!!!SIC@EN: 4g- instead of 4gn
+8BB-	.	.
+8E-	4ff	.
+8d-J)	.	.
+(8BBB-L<	2ee-)	.
+8BB-	.	.
+8E-	.	.
+*Xped	*	*
+8d-J)	.	.
+=41	=41	=41
+*ped	*	*
+(8BBB-L<	(2dd-	.
+8BB-	.	.
+8En	.	.
+8d-J)	.	.
+(8BBB-L<	8ee-L	.
+8BB-	8dd-	.
+8E	8cc	.
+*Xped	*	*
+8d-J)	8b-J	.
+=42	=42	=42
+*ped	*	*
+8CCL	4an\	.
+8C	.	.
+8G-	4gg-	.
+*Xped	*	*
+8e-J	.	.
+*ped	*	*
+8CCL	2ff)	.
+8C	.	.
+8F	.	.
+*Xped	*	*
+8e-J	.	.
+=43	=43	=43
+*ped	*	*
+8DD-L	(2ff	.
+8D-	.	.
+8B-	.	.
+*Xped	*	*
+8fJ	.	.
+*ped	*	*
+8DD-L	8gg-L	.
+8D-	8ff	.
+8B-	8ee-	.
+*Xped	*	*
+8fJ	8dd-J	[
+!!LO:LB:g=original
+=44	=44	=44
+*ped	*	*
+(>8EE-L	4dd-	.
+8E-	.	.
+8B-	4cc)	.
+*Xped	*	*
+8g-J)	.	.
+*ped	*	*
+(>8FFL	8r	.
+8F	(8ccL	.
+.	8qee-/	.
+8B-	8.dd-	.
+*Xped	*	*
+8fJ)	.	.
+.	16ccJk	.
+=45	=45	=45
+*ped	*	*
+8GG-L	4cc	>
+8G-	.	.
+8B-	4b-)	]
+*Xped	*	*
+8e-J	.	.
+*ped	*	*
+8GG-L	8r	.
+8G-	(8ccL	<
+.	8qee-/LL	.
+8B-	8.dd-	.
+*Xped	*	*
+8enJ	.	.
+.	16ccJk	.
+=46	=46	=46
+*ped	*	*
+8FFL	4cc	.
+8C	.	.
+8An	4ff	.
+*Xped	*	*
+8fJ	.	.
+*ped	*	*
+8EE-L	4gg-	[ >
+8E-	.	.
+8A	4a-\)	]
+!!!SIC@EN: 8A instead of 8A-
+*Xped	*	*
+8g-J 8c	.	.
+=47	=47	=47
+*ped	*	*
+(8DD-L<	(2ff	pp
+8AA-	.	.
+8F	.	.
+8d-J)	.	.
+(>8DD-L<	8gg-L	.
+8AA-	8ff	.
+8F	8ee-	.
+*Xped	*	*
+8d-J)	8dd-J	.
+=48	=48	=48
+*ped	*	*
+(8EE-L	4cc	.
+8AA-	.	.
+8G-	4bb-	.
+8cJ)	.	.
+(8EE-L	2aa-)	.
+8AA-	.	.
+8G-	.	.
+*Xped	*	*
+8cJ)	.	.
+=49	=49	=49
+*ped	*	*
+(8AAA-L<	(2gg-	.
+8AA-	.	.
+8G-	.	.
+8cJ)	.	.
+(8AAA-L<	8aa-L	.
+8AA-	8gg-	.
+8G-	8ff	.
+*Xped	*	*
+8cJ)	8ee-J	.
+!!LO:LB:g=original
+=50	=50	=50
+*ped	*	*
+(>8DD-L<	4dd-	.
+8AA-	.	.
+8F	4ddd-	.
+8d-J)	.	.
+(>8DD-L<	2aa-)	.
+8AA-	.	.
+8F	.	.
+*Xped	*	*
+8d-J)	.	.
+=51	=51	=51
+*ped	*	*
+(>8DD-L<	(2ff	.
+8AA-	.	.
+8F	.	.
+*Xped	*	*
+8d-J)	.	.
+*ped	*	*
+(8BBB-L	8gg-L	.
+8BB-	8ff	.
+8A-	8ee-	.
+*Xped	*	*
+8dnJ)	8ddnJ	.
+=52	=52	=52
+.	16qqee-/LL	.
+.	16qqff/JJ	.
+*ped	*	*
+(>8EE-L	8ee-L	.
+8BB-	8ddn	.
+8G-	8ee-	.
+*Xped	*	*
+8e-J)	8ffJ	.
+*ped	*	*
+(>8GG-L	8gg-L)	.
+8E-	(8b-	.
+8B-	8ff	.
+*Xped	*	*
+8e-J)	8ee-J	.
+=53	=53	=53
+.	16qqcc/LL	.
+.	16qqdd-/JJ	.
+*ped	*	*
+(>8GGnL	2dd-T)	.
+8En	.	.
+8d-	.	.
+*Xped	*	*
+8b-J)	.	.
+.	16qqcc/LL	.
+.	16qqdd-/JJ	.
+.	8qcc/	.
+*ped	*	*
+(>8AA-L	(8bb-L	.
+8E-X	8aa-	.
+8c	8gg-	.
+*Xped	*	*
+8g-XJ)	8a-J	.
+!!LO:TX:a:t=1|a. volta.
+*>C1	*>C1	*
+=54	=54	=54
+*ped	*	*
+(8AAA-L<	2ee-	.
+8AA-	.	.
+8G-	.	.
+*Xped	*	*
+8cJ)	.	.
+*ped	*	*
+(>8DD-L<	4dd-)	.
+8AA-	.	.
+8F	4r	.
+*Xped	*	*
+8d-J)	.	.
+!!LO:TX:a:t=2|a. volta.
+*>C2	*>C2	*
+=55:|!	=55:|!	=55:|!
+(8AAA-L<	2ee-	.
+8AA-	.	.
+8G-	.	.
+8cJ)	.	.
+4d- 4F 4D-	4dd-	.
+4r	4r	.
+*>D	*>D	*
+!!LO:PB:g=original
+=56|!	=56|!	=56|!
+*^	*	*
+!	!	!	!LO:DY:rj
+4F\	4BB- 4FF 4BBB-	(>4B-<	p
+4G-\	4D- 4GG- 4DD-	8.B-<L	.
+.	.	16B-<Jk	.
+4F\	4BB- 4FF 4BBB-	2B-<	.
+4G-\	4D- 4GG- 4DD-	.	.
+=57	=57	=57	=57
+!	!	!LO:TX:b:t=cresc _:problem:dynamics with extention lines	!
+!	!	!	!LO:HP:b:i:t=cresc
+4F\	4BB- 4FF 4BBB-	4B-<	<
+4G-\	4D- 4GG- 4DD-	8.B-<L	.
+.	.	16B-<Jk	.
+4F\	4BB- 4FF 4BBB-	2B-<)	.
+4G-\	4D- 4GG- 4DD-	.	.
+=58	=58	=58	=58
+4F\	4BB- 4FF 4BBB-	(>4B-<	.
+4G-\	4D- 4GG- 4DD-	8.B-<L	.
+.	.	16B-<Jk	.
+4F\	4BB- 4FF 4BBB-	4B-<	.
+4G-\	4D- 4GG- 4DD-	8.d-L	.
+.	.	16cJk	.
+=59	=59	=59	=59
+.	.	8qd-	.
+4F	4BB- 4FF 4BBB-	8.cL	.
+.	.	16B-	.
+4G-	4D- 4GG- 4DD-	8.B-	.
+.	.	16B-Jk	.
+4F	4BB- 4FF 4BBB-	2B-)	.
+4G-	4D- 4GG- 4DD-	.	.
+=60	=60	=60	=60
+4F	4BB- 4FF 4BBB-	(>4d- 4B-	.
+4G-	4D- 4GG- 4DD-	8.d-L 8.B-	.
+.	.	16d-Jk	.
+4F	4BB- 4FF 4BBB-	4d- 4B-	.
+4G-	4D- 4GG- 4DD-	8.fL 8.d-	.
+.	.	16e-Jk 16c	.
+=61	=61	=61	=61
+.	.	8qf	.
+4F	4BB- 4FF 4BBB-	8.e-L 8.c	.
+.	.	16d-k 16B-	.
+4G-	4D- 4GG- 4DD-	8.d- 8.B-	.
+.	.	16d-Jk 16B-	.
+4F	4BB- 4FF 4BBB-	2d- 2B-)	.
+4G-	4D- 4GG- 4DD-	.	[
+*v	*v	*	*
+!!LO:LB:g=original
+=62	=62	=62
+*	*^	*
+4BB-\ 4FF\ 4BBB-\	(8b-L	4d- 4B-	>
+.	8a-	.	.
+.	8qa-	.	.
+4D-\ 4GG-\ 4DD-\	8.g-	4d- 4B-	.
+.	16fJk	.	.
+4BB-\ 4FF\ 4BBB-\	4f	4d- 4B-	.
+4D-\ 4GG-\ 4DD-\	4d-	4B-	]
+=63	=63	=63	=63
+4BB-\ 4FF\ 4BBB-\	8b-L	4d- 4B-	.
+.	8a-	.	.
+.	8qa-/	.	.
+4D-\ 4GG-\ 4DD-\	8.g-	4d- 4B-	.
+.	16fJk	.	.
+4BB-\ 4FF\ 4BBB-\	4f	4d- 4B-	.
+4D-\ 4GG-\ 4DD-\	4d-)	4B-	.
+*	*v	*v	*
+=64	=64	=64
+*^	*	*
+4F\	4BB- 4FF 4BBB-	(>4B-<	.
+4G-\	4D- 4GG- 4DD-	8.B-<L	.
+.	.	16B-<Jk	.
+4F\	4BB- 4FF 4BBB-	4B-<	.
+4G-\	4D- 4GG- 4DD-	8.d-L	.
+.	.	16cJk	.
+=65	=65	=65	=65
+.	.	8qd-	.
+4F	4BB- 4FF 4BBB-	8.cL	.
+.	.	16B-	.
+4G-	4D- 4GG- 4DD-	8.B-	.
+.	.	16B-Jk	.
+4F	4BB- 4FF 4BBB-	2B-)	.
+4G-	4D- 4GG- 4DD-	.	.
+*v	*v	*	*
+=66	=66	=66
+*	*^	*
+*ped	*	*	*
+!	!	!LO:TX:a:t=P:2dd- after 8bb- 8b-. Decrescendo starts below 2dd-:problem	!
+4BB- 4FF 4BBB-	(8bb-L< 8b-	2dd-	fz >
+.	8aa- 8a-	.	.
+.	8qqa-/L	.	.
+.	8qqdd-/	.	.
+.	8qqaa-/J	.	.
+4D- 4GG- 4DD-	8.gg- 8.g-	.	.
+.	16ffJk 16f	.	]
+4BB- 4FF 4BBB-	4ff 4dd- 4f	2ryy	.
+*Xped	*	*	*
+4D- 4GG- 4DD-	4dd-\ 4b-\ 4d-\	.	.
+=67	=67	=67	=67
+*ped	*	*	*
+!	!	!LO:TX:a:t=P:2dd- after 8bb- 8b-. Decrescendo starts below 2dd-:problem	!
+4BB- 4FF 4BBB-	8bb-L< 8b-	2dd-	fz >
+.	8aa- 8a-	.	.
+.	8qqa-/L	.	.
+.	8qqdd-/	.	.
+.	8qqaa-/J	.	.
+4D- 4GG- 4DD-	8.gg- 8.g-	.	.
+.	16ffJk 16f	.	]
+4BB- 4FF 4BBB-	4ff 4dd- 4f	2ryy	.
+*Xped	*	*	*
+4D- 4GG- 4DD-	4dd-\ 4b-\ 4d-\)	.	.
+!!LO:LB:g=original
+=68	=68	=68	=68
+*ped	*	*	*
+!	!	!LO:TX:a:t=P:in measures 68 and 69 notes from the second subspine are right behind the notes from the first subspine:problem	!
+4BB- 4FF 4BBB-	(>4b- 4B-	4f	.
+4D- 4GG- 4DD-	8.b-L 8.B-	4g-	.
+.	16b-Jk 16B-	.	.
+4BB- 4FF 4BBB-	4b- 4B-	4f	.
+4D- 4GG- 4DD-	8.dd-L 8.d-	4g-	.
+*Xped	*	*	*
+.	16ccJk 16c	.	.
+=69	=69	=69	=69
+*ped	*	*	*
+4BB- 4FF 4BBB-	8.ccL 8.c	4f	.
+.	16b-k 16B-	.	.
+4D- 4GG- 4DD-	8b- 8B-	4g-	.
+.	8b-J 8B-	.	.
+4BB- 4FF 4BBB-	4b- 4B-)	4f	.
+*Xped	*	*	*
+4AA- 4AAA-	4cc 4a- 4g- 4c	4ryy	.
+*	*v	*v	*
+=70	=70	=70
+*ped	*	*
+4DD- 4DDD-	(>4dd- 4f 4d-	ff
+8.d-L 8.A- 8.D-	8.ffL 8.dd- 8.f	<
+16e-Jk	16gg-Jk 16g-	.
+8.fL 8.A- 8.D-	8.aa-L 8.dd- 8.a-	.
+16g-Jk	16bb-Jk 16b-	.
+8.a-L 8.e- 8.A-	8.cccL 8.aa- 8.cc	.
+*Xped	*	*
+16fJk	16ddd-Jk 16dd-	[
+=71	=71	=71
+*ped	*	*
+4AA- 4AAA-	2fff [2ccc [>2aa- 2ff	>
+*clefG2	*	*
+8.ccL 8.g- 8.e-	.	.
+16b-Jk 16g- 16d-	.	.
+8.b-L 8.g- 8.d-	4.eee- 4.ccc] 4.aa-] 4.ee-)	]
+16a-Jk 16g- 16c	.	.
+*Xped	*	*
+8.a-L 8.g- 8.c	.	.
+.	16r	.
+16e-Jk 16c 16An	(16gg- 16ee- 16cc 16g-	.
+!LO:CL:ed	!	!
+*clefF4	*	*
+=72	=72	=72
+*ped	*	*
+4BB- 4BBB-	4ff 4ee- 4cc 4f	.
+4d- 4B- 4F	8.ffL 8.dd- 8.b- 8.f	.
+*Xped	*	*
+.	.	.
+.	16ggnJk 16gn	.
+*ped	*	*
+4D- 4DD-	8.aanL 8.ff 8.dd- 8.an	.
+.	16bb-Jk 16b-	.
+4f 4d- 4B- 4F	8.cccL 8.cc	.
+*Xped	*	*
+.	.	.
+.	16ddd-Jk 16dd-	.
+=73	=73	=73
+*ped	*	*
+4FF 4FFF	2ddd-/ 2gg-/ 2een/ 2b-/	.
+!!!SIC@EN: 2gg- instead of 2ggn
+4gn> 4d-> 4B- 4F	.	.
+*Xped	*	*
+.	.	.
+4an> 4c 4An 4F	4ccc 4ff 4cc)	.
+4F^	4r	.
+!!LO:LB:g=original
+=74	=74	=74
+*	*^	*
+*ped	*	*	*
+!LO:TX:t=P:pedal mark below 16qqGGn:problem	!	!	!
+16qqGGn/LL	.	.	f
+16qqAA-/JJ	.	.	.
+!LO:TX:t=P:trill between 4G-< and 2AA-:problem	!	!	!
+!	!	!LO:TX:a:t=P:in measures 74 and 75 notes from the second subspine right behind the notes from the first subspine:problem	!
+2AA-TT	4a- 4c 4A-< 4G-<	4f	.
+.	4a- 4c 4A-< 4G-<	4e-	.
+16qqGG/LL	.	.	.
+16qqAA-/JJ	.	.	.
+*Xped	*	*	*
+4D-	4a- 4d- 4F<	2ryy	.
+4D-^	4r	.	.
+=75	=75	=75	=75
+*ped	*	*	*
+!LO:TX:t=P:pedal mark below 16qqEEn:problem	!	!	!
+16qqEEn/LL	.	.	.
+16qqFF/JJ	.	.	.
+!LO:TX:t=P:trill should be between 4E-< and 2FF-:problem	!	!	!
+2FF-TT	(4f 4An< 4E-<	4d-	.
+!!!SIC@EN:2FF- instead of 2FF
+.	4f 4A< 4E-<	4c	.
+*Xped	*	*	*
+!LO:TX:t=P:pedal up below 16qqEE:problem	!	!	!
+16qqEE/LL	.	.	p
+(>16qqFF-/JJ	.	.	.
+!!!SIC@EN:16qqFF- instead of 16qqFF
+4GG-^<	2B-< 2D-<)	2ryy	.
+8FF-L	.	.	.
+!!!SIC@EN:8FF- instead of 8FF
+8DD-J	.	.	.
+*	*v	*v	*
+=76	=76	=76
+*^	*	*
+4ryy	4BBB-)	(>4B-< 4F< 4BB-<	.
+!	!	!	!LO:DY:rj:ignore
+4G-\	4D- 4GG- 4DD-	8.B-<L	p
+.	.	16B-<Jk	.
+4F\	4BB- 4FF 4BBB-	4B-<	.
+4G-\	4D- 4GG- 4DD-	8.d-<L	.
+.	.	16c<Jk	.
+=77	=77	=77	=77
+.	.	8qd-<	.
+4F\	4BB- 4FF 4BBB-	8.c<L	.
+.	.	16B-<	.
+4G-\	4D- 4GG- 4DD-	8.B-<	.
+.	.	16B-<Jk	.
+4ryy	4BB- 4FF 4BBB-	4B-< 4F<)	.
+!	!	!	!LO:DY:a
+!	!	!	!LO:DY:rj
+4ryy	8.BB--L 8.BBB-X	8.d-L 8.A--<	ff <
+!!!SIC@EN: 8.BBB- instead of 8.BBB--
+.	16AA-Jk 16AAA-	16e-Jk 16c 16G-<	.
+*v	*v	*	*
+=78	=78	=78
+*ped	*	*
+4DD-/ 4DDD-/	4f 4d- 4F<	.
+8.d-L 8.A- 8.D-	(8.ffL 8.dd- 8.f	.
+16e-Jk	16gg-Jk 16g-	.
+8.fL 8.A- 8.D-	8.aa-L 8.dd- 8.a-	.
+16g-Jk	16bb-Jk 16b-	.
+8.a-L 8.e- 8.A-	8.cccL 8.aa- 8.cc	.
+*Xped	*	*
+16fJk	16ddd-Jk 16dd-	[
+=79	=79	=79
+*ped	*	*
+4AA- 4AAA-	2fff [2ccc [>2aa- 2ff	>
+*clefG2	*	*
+8.ccL 8.g- 8.e-	.	.
+16b-Jk 16g- 16d-	.	.
+8.b-L 8.g- 8.d-	4.eee- 4.ccc] 4.aa-] 4.ee-)	]
+16a-Jk 16g- 16c	.	.
+*Xped	*	*
+8.a-L 8.g- 8.c	.	.
+.	16r	.
+16e-Jk 16c 16An	(>16gg- 16ee- 16cc 16g-	.
+!LO:CL:ed	!	!
+*clefF4	*	*
+!!LO:LB:g=original
+=80	=80	=80
+*ped	*	*
+4BB- 4BBB-	4ff 4ee- 4cc 4f	.
+4d- 4B- 4F	8.ffL 8.dd- 8.b- 8.f	.
+*Xped	*	*
+.	.	.
+.	16ggnJk 16gn	.
+*ped	*	*
+4D- 4DD-	8.aanL 8.ff 8.dd- 8.an	.
+.	16bb-Jk 16b-	.
+4f 4d- 4B- 4F	8.cccL 8.ff 8.cc	.
+*Xped	*	*
+.	.	.
+.	16ddd-Jk 16dd-	.
+=81	=81	=81
+*ped	*	*
+4FF 4FFF	2ddd-:/ 2gg-:/ 2een:/ 2b-:/	.
+!!!SIC@EN: 2gg- instead of 2ggn
+4gn> 4d-> 4B- 4F	.	.
+*Xped	*	*
+.	.	.
+4an> 4c 4An 4F	4ccc 4ff 4cc)	.
+4F^	4r	.
+=82	=82	=82
+*	*^	*
+*ped	*	*	*
+!LO:TX:t=P:pedal mark below 16qqGGn:problem	!	!	!
+16qqGGn/LL	.	.	f
+16qqAA-/JJ	.	.	.
+!LO:TX:t=P:trill between 4G-< and 2AA-:problem	!	!	!
+!	!	!LO:TX:a:t=P:in measures 82 and 83 notes from the second subspine are right behind notes from the first subspine:problem	!
+2AA-TT	4a- 4c 4A-< 4G-<	4f	.
+.	4a- 4c 4A-< 4G-<	4e-	.
+16qqGG/LL	.	.	.
+16qqAA-/JJ	.	.	.
+4D-	4a- 4d- 4F<	2ryy	.
+*Xped	*	*	*
+.	.	.	.
+4D-^	4r	.	.
+=83	=83	=83	=83
+*ped	*	*	*
+!LO:TX:t=P:pedal mark below 16qqEEn:problem	!	!	!
+16qqEEn/LL	.	.	.
+16qqFF/JJ	.	.	.
+!LO:TX:t=P:trill between 4E-< and 2FF-:problem	!	!	!
+2FF-TT	(4f 4An< 4E-<	4d-	.
+!!!SIC@EN: 2FF- instead of 2FF
+.	4f 4A< 4E-<	4c	.
+*Xped	*	*	*
+!LO:TX:t=P:pedal up below 16qqEE:problem	!	!	!
+16qqEE/LL	.	.	p
+16qqFF-/JJ	.	.	.
+!!!SIC@EN: 16qqFF- instead of 16qqFF
+(4GG-^<	2B-< 2D-<)	2ryy	.
+8FF-L	.	.	.
+!!!SIC@EN: 8FF- instead of 8FF
+8DD-J	.	.	.
+*	*v	*v	*
+=84	=84	=84
+*^	*	*
+4ryy	4BBB-)	(>4B-< 4F< 4BB-<	.
+!	!	!	!LO:DY:rj:ignore
+4G-\	4D- 4GG- 4DD-	8.B-<L	p
+.	.	16B-<Jk	.
+4F\	4BB- 4FF 4BBB-	4B-<	.
+4G-\	4D- 4GG- 4DD-	8.d-<L	.
+.	.	16c<Jk	.
+=85	=85	=85	=85
+.	.	8qd-<	.
+4F\	4BB- 4FF 4BBB-	8.c<L	.
+.	.	16B-<	.
+4G-\	4D- 4GG- 4DD-	8.B-<	.
+.	.	16B-<Jk	.
+2ryy	2D-; 2FF 2BBB-	2B-<^>; 2F<)	.
+*v	*v	*	*
+!!LO:PB:g=original
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!ENC: Zofia Niedbalska
+!!!END: 2019-09-04
+!!!EED: Jędrzej Mróz
+!!!EST: 2019-09-04
+!!!rism-genre: Sonata
+!!!rism-key: B-flat minor
+!!!rism-opus: op.  35
+!!!rism-title: Sonata in B-flat minor op.  35
+!!!rism-permalink: https://opac.rism.info/search?id=300605122&View=rism

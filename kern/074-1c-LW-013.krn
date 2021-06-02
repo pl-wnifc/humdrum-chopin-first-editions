@@ -1,0 +1,356 @@
+!!!!SEGMENT: 074-1c-LW-013.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: No. 13. Melancholy. (Melancholie.)
+!!!OPS: Op. 74
+!!!PTL: 17 | POLISH SONGS
+!!!PPR: Stanley Lucas, Weber & Co.
+!!!PPP: London
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: 6139/n
+!!!OMD: LENTO. M. M. [quarter] = 63.
+!!!system-decoration: (s1){(s2,s3)}
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*	*part1
+*staff3	*staff2	*	*staff1	*	*
+*	*I"PIANO.	*	*I"	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[]	*k[]	*	*k[]	*	*
+*a:	*a:	*	*a:	*	*
+*M2/4	*M2/4	*	*M2/4	*	*
+*MM63	*MM63	*	*MM63	*	*
+=1	=1	=1	=1	=1	=1
+*	*^	*	*	*	*
+!LO:TX:a:i:t=legato.	!	!	!	!	!	!
+!	!	!	!LO:DY:rj	!	!	!
+!	!	!	!	!LO:TX:t=P:w źródle brak pustych 4 taktów partii wokalnej; system zawiera tylko pierwsze 4 takty partii fotepianu:problem	!	!
+4A 4AA	4a 4e 4c	4ryy	p	2rdd	.	.
+4A 4D	8.aL	4f 4d	.	.	.	.
+.	16bJk	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+4A 4AA	4a 4e 4c	4ryy	.	2rdd	.	.
+4A 4D	8.aL	4f 4d	.	.	.	.
+.	16bJk	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+4A 4AA	4a 4e 4c	4ryy	.	2rdd	.	.
+4BB	8.g#XL	4e 4B	.	.	.	.
+.	16aJk	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=4	=4	=4	=4	=4	=4
+4BB	4f#X 4d#X 4B 4A	.	2rdd	.	.
+!LO:TX:t=P:w miejscu kreski taktowej kończącej ten takt powinny być dwie grube kreski:problem	!	!	!	!	!
+4EE/	4e 4B 4G#X	.	.	.	.
+!!LO:LB:g=original
+=5||:	=5||:	=5||:	=5||:	=5||:	=5||:
+*	*	*	*	*^	*
+*	*	*	*	*	*^	*
+*	*	*	*	*	*	*^	*
+!	!	!LO:DY:rj	!	!	!	!	!	!
+!	!	!	!LO:TX:a:i:t=con espressione.	!	!	!	!	!
+!	!	!	!	!	!	!	!	!LO:HP:a
+!	!	!	!	!	!	!	!	!LO:DY:a:rj
+!	!	!	!LO:TX:t=P:w miejscu spacji za "1." i "2." (x2) wyświetla się kreska / łuczek:problem	!	!	!	!	!
+!	!	!	!LO:TX:t=P:w całej pieśni tekst niemiecki zapisany kursywą:problem	!	!	!	!	!
+!	!	!	!LO:TX:t=P:w źródle w miejscu myślinków rozdzielających sylaby występują podkreślniki:problem	!	!	!	!	!
+2E 2EE	2e 2d 2G#X	p	4e	1. Dark	2. When	1. Trüb’	2. Son-	p <
+.	.	.	8.b	are	will	ist	-ne,	[
+.	.	.	16cc	the	the	der	wann	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+!	!	!	!LO:TX:t=P:w źródle w miejscu linii podkreślnikowych, oznaczających przedłużenie sylaby, występują kropki:problem	!	!	!	!	!
+2E 2AA	2e 2c 2A	.	(<4a	heav’ns,_	sun	Him-	strahlst_	.
+.	.	.	8qb/	.	.	.	.	.
+.	.	.	8a)	.	.	.	.	.
+.	.	.	8g	and	his	-mel,	du	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+4AA/	2d 2B 2A	.	4f	dark	bright-	trüb’	hel-	.
+4DD^>	.	.	8g	is	-ness	ist’s	-le	.
+.	.	.	8f	my	re-	im	mir	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+!	!	!	!	!	!	!	!	!LO:HP:a
+2E 2AA	2e 2c 2A	.	4.e	spi-	kin-	Her-	wie-	<
+.	.	.	8ee	-rit,	-dle?	-zen,	-der,	[
+!!LO:LB:g=original
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+2E 2EE	2g#X 2d	.	(>8ddL	Dark	When	trüb’	wann	.
+.	.	.	8ccJ)	.	.	.	.	.
+.	.	.	8b	is	shall	ist	seh’	.
+.	.	.	8cc	the	I	das	ich	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+4F 4FF	4a 4c 4A	.	4a	world,	see	Welt-	blau	.
+4D 4DD	4a 4f 4B 4A	.	4b	with	heav’n’s	-all,	den	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+!	!	!	!LO:TX:t=P:nie powinna się wyświetlać kwadratowa klamra:problem	!	!	!	!	!
+2E 2EE	2g#X 2e 2d 2B	.	(>12eL	sor-	blue	dun-	Him-	.
+.	.	.	12fJ	.	.	.	.	.
+.	.	.	12e)	-row	vault	-kel	.	.
+.	.	.	4g#X	o’er-	a-	und	-mels-	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+4A 4AA\	4a 4e 4c	.	4a	-cloud-	-bove	schau-	-bo-	.
+4E	4e 4c 4A	.	8cc	-ed;	me?	-rig,	-gen?	.
+.	.	.	8r	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+!	!	!LO:DY:rj	!	!	!	!	!	!LO:HP:a
+[<2C	[>2e [<2c [<2G	mf	4cc	Deep	Mute	tief	ach,	<
+.	.	.	8dd	in	are	in	mei-	.
+.	.	.	8ee	my	my	der	-ne	[[
+!!LO:LB:g=original
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+2C]	2e] 2c] 2G]	.	4g	heart	songs,	Brust	Lie-	.
+.	.	.	4a	there	my	da	-der,	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+2GG	2d 2B 2G	.	4b	dwell-	songs,	wüh-	fröh-	.
+!	!	!	!	!	!	!	!	!LO:HP:a
+.	.	.	8cc	-eth	once	-len	-li-	>
+.	.	.	8b	but	so	die	-che	]
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+2DD	2f 2d 2A	.	4a	sad-	joy-	Schmer-	Lie-	.
+.	.	.	8b	-ness,	-ous,	-zen,	-der,	.
+.	.	.	8r	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+2E 2EE	2e 2d 2B 2#G	.	4g#X	All	Songs	Al-	ihr	.
+.	.	.	8e	things	that	-les	auch,	.
+.	.	.	8e	in	to	ist	ihr	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+4AA/	4e 4c 4A	.	(>4a	si-	joy	stumm,	seid	.
+4DD/	4f 4d 4A	.	8.dd)	-lence	.	.	.	.
+.	.	.	16a	and	no	ver-	von	.
+!!LO:PB:g=original
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+4EE	4e 4c 4A	.	4cc	gloom	long-	-ö-	mir	.
+4E	4e 4d 4#G	.	8.b	are	-er	-det	fort-	.
+.	.	.	16cc	en-	can	und	-ge-	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+4AA	4e 4c 4A	.	4a	-shroud-	move	trau-	-zo-	.
+4C	4e 4c 4Gn	.	4gn	-ed.	me.	-rig,	-gen,	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+[<2C	[>2e [<2c [<2G	.	4cc	Deep	Mute	tief	auch	<
+.	.	.	8dd	in	are	in	mei-	.
+.	.	.	8ee	my	my	der	-ne	[
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+2C]	2e] 2c] 2G]	.	4g	heart	songs,	Brust	Lie-	.
+.	.	.	4a	there	my	da	-der,	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+2GG	2d 2B 2G	.	4b	dwell-	songs,	wüh-	fröh-	.
+!	!	!	!	!	!	!	!	!LO:HP:a
+.	.	.	8cc	-eth	once	-len	-li-	>
+.	.	.	8b	but	so	die	-che	]
+!!LO:LB:g=original
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+2DD/	2f 2d 2A	.	4a	sad-	joy-	Schmer-	Lie-	.
+.	.	.	8b/	-ness,	-ous,	-zen,	-der,	.
+.	.	.	8r	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+2E 2EE	2e 2d 2B 2#G	.	4g#X	All	Songs	Al-	ihr	.
+.	.	.	8e	things	that	-les	auch,	.
+.	.	.	8e	in	to	ist	ihr	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+4AA	4e 4c 4A	.	(>4a	si-	joy	stumm,	seid	.
+4D 4DD	4f 4d 4A	.	8dd)	-lence	.	.	.	.
+.	.	.	8a	and	no	ver	von	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+[>2E [<2EE	[>2e [<2c [<2A	.	4cc	gloom	long-	ö-	mir	.
+!	!	!	!LO:TX:t=P:"cres:" powinno być nad górną pięciolinią, ale nie działa komenda przenosząca:problem	!	!	!	!	!
+.	.	.	8b	are	-er	-det	fort-	<
+.	.	.	8a	en-	can	und	-ge-	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+!	!	!	!	!	!	!	!	!LO:DY:a:rj
+2E] 2EE]	2e] 2c] 2A]	.	[>2ee	shroud-	move_	trau-	-zo-	sf
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+!	!	!	!	!	!	!	!	!LO:HP:a
+[>2E [<2EE	2e 2B 2A	.	(>8eeL]	.	.	.	.	>
+.	.	.	8ff	.	.	.	.	.
+.	.	.	8ee	.	.	.	.	.
+.	.	.	8dd#XJ	.	.	.	.	.
+!!LO:LB:g=original
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+2E] 2EE]	4e 4d 4B 4G#	.	8eeL	.	.	.	.	.
+.	.	.	8b	.	.	.	.	.
+.	4#g 4e 4d	.	8ddn	.	.	.	.	.
+.	.	.	8ccJ)	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+*	*^	*	*	*	*	*	*	*
+!	!	!	!LO:DY:rj	!	!	!	!	!	!
+4A 4AA	4a 4e 4c	4ryy	p	4a	-ed.	me.	-rig.	-gen.	.
+4A 4D	8.aL	4f 4d	.	4r	.	.	.	.	.
+.	16bJk	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*v	*v	*
+*	*	*	*	*	*	*v	*v	*
+*	*	*	*	*	*v	*v	*
+=32	=32	=32	=32	=32	=32	=32
+4A 4AA	4a 4e 4c	4ryy	.	2rdd	.	.
+4A 4D	8.aL	4f 4d	.	.	.	.
+.	16bJk	.	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33
+4A 4AA	4a 4e 4c	4ryy	.	2rdd	.	.
+4E	8.g#XL	4e 4B	.	.	.	.
+.	16aJk	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=34	=34	=34	=34	=34	=34
+4BB	4f#X 4d#X 4B 4A	.	2rdd	.	.
+4E 4EE	4e 4B 4G#X	.	.	.	.
+!!LO:PB:g=original
+==35:|!|:	==35:|!|:	==35:|!|:	==35:|!|:	==35:|!|:	==35:|!|:
+*	*	*	*	*^	*
+*	*	*	*	*	*^	*
+*	*	*	*	*	*	*^	*
+!	!	!	!	!	!	!	!	!LO:HP:a
+!	!	!	!	!	!	!	!	!LO:DY:a:rj
+!	!	!	!LO:TX:a:i:t=con espressione.	!	!	!	!	!
+!	!	!LO:DY:rj	!	!	!	!	!	!
+!	!	!	!LO:TX:t=P:w miejscu spacji za "3." i "4." (x2) wyświetla się kreska / łuczek:problem	!	!	!	!	!
+2E 2EE	2e 2d 2G#X	p	4e	3. Sing-	4. Cold	3. Sin-	4. O,	p <
+.	.	.	8.b	-ing	are	-gen	wie	[
+.	.	.	16cc	and	my	und	so	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+2E 2AA	2e 2c 2A	.	(<4a	lov-	limbs,_	lie-	kalt_	.
+.	.	.	8qb/	.	.	.	.	.
+.	.	.	8a)	.	.	.	.	.
+.	.	.	8g	-ing,	my	-ben,	mein	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+4AA	2d 2B 2A	.	4f	lov-	heart	lie-	Herz,	.
+4DD^>	.	.	8g	-ing	faint	-ben	mei-	.
+.	.	.	8f	and	and	und	-ne	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+!	!	!	!	!	!	!	!	!LO:HP:a
+2E 2AA	2e 2c 2A	.	4.e	sing-	wea-	sin-	Glie-	<
+.	.	.	8ee	-ing,	-ry	-gen,	-der!	[
+!!LO:LB:g=original
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+2E 2EE	2g#X 2d	.	(>8ddL	Thus	Death,	so	möch-	.
+.	.	.	8ccJ)	.	.	.	.	.
+.	.	.	8b	in	when	träumt’	-te	.
+.	.	.	8cc	a	it	ich	so	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+4F 4FF	4a 4c 4A	.	4a	dream	comes,	einst	gern	.
+4D 4DD	4a 4f 4B 4A	.	4b\	all	I’ll	mein	vom	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41
+!	!	!	!LO:TX:t=P:nie powinna się wyświetlać kwadratowa klamra:problem	!	!	!	!	!
+2E 2EE	2g#X 2e 2d 2B	.	(>12eL	day	wel-	gan-	Le-	.
+.	.	.	12fJ	.	.	.	.	.
+.	.	.	12e)	I	-come	.	.	.
+.	.	.	4g#X	was	with	-zes	-ben	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42
+4A 4AA\	4a 4e 4c	.	4a	liv-	glad-	Le-	schei-	.
+4E	4e 4c 4A	.	8cc	-ing:	-ness;	-ben,	-den,	.
+.	.	.	8r	.	.	.	.	.
+!!LO:LB:g=original
+=43	=43	=43	=43	=43	=43	=43	=43	=43
+!	!	!LO:DY:rj	!	!	!	!	!	!LO:HP:a
+[<2C	[>2e [<2c [<2G	mf	4cc	Whom	Make	doch	Him-	<
+.	.	.	8dd	should	me,	für	-mel,	.
+.	.	.	8ee	I	kind	wen	o	[
+=44	=44	=44	=44	=44	=44	=44	=44	=44
+2C]	2e] 2c] 2G]	.	4g	now	heav’n,	soll-	gieb	.
+.	.	.	4a	with	once	-ten	mir	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45
+2GG	2d 2B 2G	.	4b	songs	more	Lie-	Fröh-	.
+!	!	!	!	!	!	!	!	!LO:HP:a
+.	.	.	8cc	be	make	-der	-lich-	>
+.	.	.	8b	de-	me	er-	-keit	]
+=46	=46	=46	=46	=46	=46	=46	=46	=46
+2DD	2f 2d 2A	.	4a	-light-	joy-	-klin-	wie-	.
+.	.	.	8b\	-ing,	-ful,	-gen,	-der,	.
+.	.	.	8r	.	.	.	.	.
+!!LO:PB:g=original
+=47	=47	=47	=47	=47	=47	=47	=47	=47
+2E 2EE	2e 2d 2B 2#G	.	4g#X	Or	Or,	wem	o-	.
+.	.	.	8e	un-	in	soll-	-der	.
+.	.	.	8e	-to	thy	-te	er	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48
+4AA/	4e 4c 4A	.	(>4a	whom_	love,_	mei-	lös’	.
+4DD/	4f 4d 4A	.	8.dd)	.	.	.	mich	.
+.	.	.	16a	my	re-	-ne	von	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49
+4EE	4e 4c 4A	.	4cc	love	-lease	Lie-	mei-	.
+4E\	4e 4d 4#G	.	8.b	should	me	-be	.	.
+.	.	.	16cc	be	from	ich	-nen	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50
+4AA	4e 4c 4A	.	4a	giv-	sad-	ge-	Lei-	.
+4C	4e 4c 4Gn	.	4gn	-ing?	-ness,	-ben?	-den,	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51
+[<2C	[>2e [<2c [<2G	.	4cc	Whom	Make	doch	Him-	<
+.	.	.	8dd	should	me,	für	-mel,	.
+.	.	.	8ee	I	kind	wen	o	[
+!!LO:LB:g=original
+=52	=52	=52	=52	=52	=52	=52	=52	=52
+2C]	2e] 2c] 2G]	.	4g	now	heav’n,	soll-	gieb	.
+.	.	.	4a	with	once	-ten	mir	.
+=53	=53	=53	=53	=53	=53	=53	=53	=53
+2GG	2d 2B 2G	.	4b	songs	more	Lie-	Fröh-	.
+!	!	!	!	!	!	!	!	!LO:HP:a
+.	.	.	8cc	be	make	-der	-lich-	>
+.	.	.	8b	de-	me	er-	-keit	]
+=54	=54	=54	=54	=54	=54	=54	=54	=54
+2DD/	2f 2d 2A	.	4a	light-	joy-	klin-	wie-	.
+.	.	.	8b/	-ing,	-ful,	-gen,	-der,	.
+.	.	.	8r	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=53	=53
+2E 2EE	2e 2d 2B 2#G	.	4g#X	Or	Or,	wem	o-	.
+.	.	.	8e	un-	in	soll-	-der	.
+.	.	.	8e	-to	thy	-te	er-	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56
+4AA	4e 4c 4A	.	(>4a	whom_	love,_	mei-	lös’	.
+4D 4DD	4f 4d 4A	.	8dd)	.	.	.	mich	.
+.	.	.	8a	-my	re-	-ne	von	.
+!!LO:LB:g=original
+=57	=57	=57	=57	=57	=57	=57	=57	=57
+[>2E [<2EE	[>2e [<2c [<2A	.	4cc	love	-lease	Lie-	mei-	.
+!	!	!	!LO:TX:t=P:"cres:" powinno być nad górną pięciolinią, ale nie działa komenda przenosząca:problem	!	!	!	!	!LO:HP:a
+.	.	.	8b	should	me	-be	.	<
+.	.	.	8a	be	from	ich	nen	.
+=58	=58	=58	=58	=58	=58	=57	=57	=57
+!	!	!	!	!	!	!	!	!LO:DY:a:rj
+2E] 2EE]	2e] 2c] 2A]	.	[>2ee	giv-	sad-	ge-	Lei-	sf
+=59	=59	=59	=59	=59	=59	=57	=57	=57
+!	!	!	!	!	!	!	!	!LO:HP:a
+[>2E [<2EE	2e 2B 2A	.	(>8eeL]	.	.	.	.	>
+.	.	.	8ff	.	.	.	.	.
+.	.	.	8ee	.	.	.	.	.
+.	.	.	8dd#XJ	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60
+2E] 2EE]	4e 4d 4#G	.	8eeL	.	.	.	.	.
+.	.	.	8b	.	.	.	.	.
+.	4#g 4e 4d	.	8ddn	.	.	.	.	.
+.	.	.	8ccJ)	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61
+*	*^	*	*	*	*	*	*	*
+!	!	!	!LO:DY:rj	!	!	!	!	!	!
+4A 4AA\	4a 4e 4c	4ryy	p	4a	-ing?	-ness.	-ben?	-den.	.
+4A 4D	8.aL	4f 4d	.	4r	.	.	.	.	.
+.	16bJk	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*v	*v	*
+*	*	*	*	*	*	*v	*v	*
+*	*	*	*	*	*v	*v	*
+!!LO:LB:g=original
+=62	=62	=62	=62	=62	=62	=62
+!	!	!	!	!LO:TX:t=P:w źródle brak pustych 6 ostatnich taktów partii wokalnej; utwór kończy 6 taktów z samą partią fortepianu:problem	!	!
+4A 4AA	4a 4e 4c	4ryy	.	2rdd	.	.
+4A 4D	8.aL	4f 4d	.	.	.	.
+.	16bJk	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63
+4A 4AA	4a 4e 4c	4ryy	.	2rdd	.	.
+4E	8g#XL	4e 4B	.	.	.	.
+.	8aJk	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=64	=64	=64	=64	=64	=64
+4BB	4f#X 4d#X 4B 4A	.	2rdd	.	.
+4E 4EE	4e 4B 4G#X	.	.	.	.
+=65:!||	=65:!||	=65:!||	=65:!||	=65:!||	=65:!||
+[>2E [<2EE^>	2b 2g#X 2d	.	2rdd	.	.
+=66	=66	=66	=66	=66	=66
+2E] 2EE]	4cc 4#g 4e	.	2rdd	.	.
+.	4g#yX 4e 4B	.	.	.	.
+=67	=67	=67	=67	=67	=67
+.	8qg#X/	.	.	.	.
+!	!LO:TX:t=P:w źródle obie kreski końcące utwór są grube:problem	!	!	!	!
+2E 2AA	2a 2e 2c	.	2rdd	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cres:", 'fontstyle="italic" 
+!!!RDF**dynam: > = "dim:", 'fontstyle="italic"
+!!!ENC: Antoni Szymański
+!!!END: 2020-02-10
+!!!EED: 
+!!!EST: 

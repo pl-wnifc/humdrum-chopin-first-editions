@@ -1,0 +1,275 @@
+!!!!SEGMENT: 074-1c-LW-005.krn
+!!!COM: Fryderyk Chopin
+!!!OTL: A MAIDEN'S LOVE.
+!!!OTL: WAS EIN JUNGES MÄDCHEN LIEBT.
+!!!OPS: op. 74
+!!!PTL: 17 | POLISH SONGS | BY | WITWICKI, ZALESKI, MICKIEWICZ, ETC, | FOR | A SOPRANO OR TENOR VOICE | WITH ACCOMPANIMENT FOR THE | Pianoforte
+!!!PPR: Stanley Lucas, Weber & Co.
+!!!PPP: London
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: PL-Wbfc 6139/n
+!!!OMD: ALLEGRO. M.M. [quarter]. = 72.
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*	*part1
+*staff3	*staff2	*	*staff1	*	*
+*I"PIANO.	*	*	*I"VOICE.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]	*	*
+*A:	*A:	*	*A:	*	*
+*M6/8	*M6/8	*	*M6/8	*	*
+*MM108	*MM108	*	*MM108	*	*
+=1	=1	=1	=1	=1	=1
+*^	*	*	*	*	*
+!	!	!LO:TX:i:b:t=legato.	!	!	!	!
+!	!	!	!LO:DY:rj	!	!	!
+(>4B	[<2.E	(<4dd/ 4g#/	p	2.rdd	.	.
+8c#)	.	8a#X 8f##X)	.	.	.	.
+(>4d	.	(<4b 4g#	.	.	.	.
+8A#X)	.	8cc#/ 8f##/)	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+(>4B	2.E]	(<4dd/ 4g#/	.	2.rdd	.	.
+8c#)	.	8a#X 8f##X)	.	.	.	.
+(>4d	.	(<4b 4g#	.	.	.	.
+8A#X)	.	8f##/ 8cc#/)	.	.	.	.
+*v	*v	*	*	*	*	*
+=3	=3	=3	=3	=3	=3
+.	8qee/	.	.	.	.
+[>2.B [<2.E	[>2.dd [<2.g#	.	2.rdd	.	.
+=4	=4	=4	=4	=4	=4
+4.B] 4.E]	4.dd] 4.g#]	.	2.rdd	.	.
+4r	4r	.	.	.	.
+8r	8r	.	.	.	.
+!!LO:LB:g=original
+=5||	=5||	=5||	=5||	=5||	=5||
+*	*	*	*	*^	*
+!	!LO:TX:i:b:t=e sempre legatiss.	!	!	!	!	!
+!	!	!	!	!	!	!LO:DY:a:rj
+!	!	!LO:DY:rj	!	!	!	!
+4.AA\ 4.AAA\	8E</L	p	4a	Brooks	Bäch-	mf
+.	8c#/	.	.	.	.	.
+.	8a/J	.	8b	de-	-lein	.
+4.AA\ 4.AAA\	8E</L	.	8cc#	-light	lie-	.
+.	8c#/	.	8d#X	in	-bet	.
+.	8a/J	.	8e	the	die	.
+=6	=6	=6	=6	=6	=6	=6
+!	!	!	!LO:TX:t=P:problem:słowa zapisane w źródle bez podziału na sylaby zakodowane bez kreseczek między sylabami	!	!	!
+4.AA\ 4.AAA\	8D#X</L	.	4g#	mea	Blu-	.
+.	8B#X</	.	.	.	.	.
+.	8a/J	.	8f#	dows	-men-	.
+4.AA\ 4.AAA\	8E</L	.	4e	fair,	-au,	.
+.	8c#/	.	.	.	.	.
+.	8a/J	.	8r	.	.	.
+=7	=7	=7	=7	=7	=7	=7
+4.AA\ 4.AAA\	8E</L	.	(<8bL	Deer	Reh-	.
+.	8d/	.	8f#J)	.	.	.
+.	8g#/J	.	8a	seek	-lein	.
+4.AA\ 4.AAA\	8E</L	.	8g#	e-	lie-	.
+.	8d/	.	8f#	-ver	-bet	.
+.	8g#/J	.	8e	the	die	.
+=8	=8	=8	=8	=8	=8	=8
+4.AA\ 4.AAA\	8E</L	.	[>4.ee	wood-	Wäl-	.
+.	8c#/	.	.	.	.	.
+.	8a/J	.	.	.	.	.
+4.AA\ 4.AAA\	8E</L	.	4ee]	.	.	.
+.	8c#/	.	.	.	.	.
+.	8a/J	.	8cc#	-land,	-der,	.
+!!LO:LB:g=original
+=9	=9	=9	=9	=9	=9	=9
+4.AA\ 4.AAA\	8E</L	.	(>8eeL	Birds,	Vög-	.
+.	8c#/	.	8aJ)	.	.	.
+.	8a/J	.	8b	they	-lein	.
+4.AA\ 4.AAA\	8E</L	.	8cc#	love	lie-	.
+.	8c#/	.	8d#X	the	-bet	.
+.	8a/J	.	8e	ex-	den	.
+=10	=10	=10	=10	=10	=10	=10
+4.AA\ 4.AAA\	8D#X</L	.	4g#	-panse	Him-	.
+.	8B#X</	.	.	.	.	.
+.	8a/J	.	8f#	of	-mel	.
+!	!	!	!	!	!	!LO:HP:a
+4.AA\ 4.AAA\	8E</L	.	(<8eL	air	blau,	<
+.	8c#/	.	8g#J)	.	.	.
+.	8a/J	.	8a	Then,	doch	[
+=11	=11	=11	=11	=11	=11	=11
+!	!	!	!	!	!	!LO:HP:a
+2.FF#/	8A/L	.	4cc#	maid-	Mägd-	>
+.	8c#/	.	.	.	.	.
+.	8a/J	.	8b	-en,	-lein,	.
+.	8A/L	.	(<8aL	what	was	]
+.	8c#/	.	8g#J)	.	.	.
+.	8a/J	.	8f#	dost	denn	.
+!!LO:LB:g=original
+=12	=12	=12	=12	=12	=12	=12
+[>4.C#/ [<4.CC#/	8G#/L	.	4e#X	thou	liebst	.
+.	8c#/	.	.	.	.	.
+.	8e#X/J	.	8#g	love?	du?	.
+8C#'</] 8CC#'</]	8g#;<	.	8r;>	.	.	.
+8r	8r	.	8.e	'Tis	Liebst	.
+8r	8r	.	.	.	.	.
+.	.	.	16e	the	den	.
+=13	=13	=13	=13	=13	=13	=13
+!	!	!	!LO:TX:i:a:t=scherzando.	!	!	!
+8E	8r	.	16g#	mer-	Son-	.
+.	.	.	16f#	-ry	-nen-	.
+8r	8g#L 8d	.	8.e	sun,	-schein,	.
+8r	8g#J 8d	.	.	.	.	.
+.	.	.	16ee	or	liebst	.
+8E	8r	.	16dd#X	moon	Mond	.
+.	.	.	16ee	light	und	.
+8r	8g#L 8d	.	8b	ten-	Ster-	.
+8r	8g#J 8d	.	8ee	-der,	-ne,	.
+=14	=14	=14	=14	=14	=14	=14
+8A	8r	.	16cc#	Grave	Tanz	.
+.	.	.	16b	or	und	.
+8r	8aL 8e 8c#	.	8a	gay	Spiel	.
+8r	8aJ 8e 8c#	.	8cc#	thine	hast	.
+8AA	8r	.	16b#X	hours	du	.
+.	.	.	16cc#	that	so	.
+8r	8aL 8f# 8c#	.	8a	ren	ger-	.
+8r	8aJ 8f# 8c#	.	8f#	der;	-ne,	.
+!!LO:PB:g=original
+=15	=15	=15	=15	=15	=15	=15
+8BB	8r	.	16d#X	'Tis	heu-	.
+.	.	.	16f#	to-	-te	.
+8r	8anyL 8d#X 8B	.	8.a#X	-day	liebst	.
+8r	8aJ 8d# 8B	.	.	.	.	.
+.	.	.	16b	a	du	.
+8BB	8r	.	16cc#	burst	Lust-	.
+.	.	.	16b	of	-ge-	.
+8r	8aL 8d# 8B	.	8a#	glad-	-sän-	.
+8r	8aJ 8d# 8B	.	8b	-ness,	-ge,	.
+=16	=16	=16	=16	=16	=16	=16
+4.E	8r	.	16g#	And	lie-	.
+.	.	.	16an	to-	-best	.
+.	4g# 4dn 4B	.	8b	-mor-	mor-	.
+!	!	!	!LO:TX:i:a:t=rall&colon;	!	!	!
+.	.	.	8e	-row	-gen	.
+4r;>	4r;>	.	8.fn;>^<	plain-	Trau-	.
+.	.	.	16e	-tive	-er-	.
+8rF	8r	.	16d#X	sad-	-klän-	.
+.	.	.	16e	-ness:	-ge;	.
+!!LO:LB:g=original
+=17	=17	=17	=17	=17	=17	=17
+*	*	*	*^	*	*	*
+!	!	!	!LO:TX:i:a:t=Tempo 1|o.	!	!	!	!
+4.AA\ 4.AAA\	8E<L	.	(<8ee	8eeL	But	doch	.
+!	!	!	!	!	!	!	!LO:HP:a
+.	8c#	.	8a)	8aJ	tho'	.	.
+.	8aJ	.	8b	2ryy	thy	ein	<
+4.AA\ 4.AAA\	8E<L	.	8cc#	.	heart	Tag	.
+.	8c#	.	8d#X	.	now	wird	.
+.	8aJ	.	8e	.	be	er-	[
+*	*	*	*v	*v	*	*	*
+=18	=18	=18	=18	=18	=18	=18
+!	!	!	!	!	!	!LO:HP:a
+4.AA\ 4.AAA\	8D#X<L	.	(<4g#	rov-	-schei-	>
+.	8B#X	.	.	.	.	.
+.	8aJ	.	8f#)	.	.	.
+4.AA\ 4.AAA\	8E<L	.	8e	-ing,	-nen,	]]
+.	8c#	.	8g#	Some	dann	.
+.	8aJ	.	8a	day	liebst	.
+=19	=19	=19	=19	=19	=19	=19
+*	*	*	*^	*	*	*
+4.AA\ 4.AAA\	8E<L	.	(<8b	8bL	one,	du	.
+.	8d	.	8f#)	8f#J	on-	.	.
+.	8g#J	.	8a	2ryy	-ly	nur	.
+4.AA 4.AAA	8E<L	.	8g#	.	one,	Ei-	.
+.	8d	.	8f#	.	thou'lt	-nen,	.
+.	8g#J	.	8e	.	be	nur	.
+*	*	*	*v	*v	*	*	*
+!!LO:LB:g=original
+=20	=20	=20	=20	=20	=20	=20
+4.AA 4.AAA	8E<L	.	[<4.e	lov-	Ei-	.
+.	8c#	.	.	.	.	.
+.	8aJ	.	.	.	.	.
+4.AA 4.AAA	8E<L	.	8eL]	.	.	.
+.	8c#	.	8aJ	.	.	.
+.	8aJ	.	8cc#	-ing,	-nen,	.
+=21	=21	=21	=21	=21	=21	=21
+*	*	*	*^	*	*	*
+4.AA 4.AAA	8E<L	.	(<8ee	8eeL	But	doch	.
+.	8c#	.	8a)	8aJ	tho'	.	.
+.	8aJ	.	8b	2ryy	thy	ein	.
+4.AA 4.AAA	8E<L	.	8cc#	.	heart	Tag	.
+.	8c#	.	8d#X	.	now	wird	.
+.	8aJ	.	8e	.	be	er-	.
+=22	=22	=22	=22	=22	=22	=22	=22
+4.AA\ 4.AAA\	8D#X<L	.	(<4g#	4.ryy	rov-	-schei-	.
+.	8B#X	.	.	.	.	.	.
+.	8aJ	.	8f#)	.	.	.	.
+4.AA\ 4.AAA\	8E<L	.	(<8e	8eL	-ing,	-nen,	.
+.	8c#	.	8g#)	8g#J	Some	.	.
+.	8aJ	.	8a	8ryy	day	dann	.
+*	*	*	*v	*v	*	*	*
+!!LO:LB:g=original
+=23	=23	=23	=23	=23	=23	=23
+4.D\ 4.DD\	8BLn	.	8b	one,	liebst	.
+.	8f#	.	8cc#	on-	du	.
+.	8aJ	.	8b	-ly	nur	.
+4.E\ 4.EE\	8BL	.	8g#	one,	Ei-	.
+.	8d	.	8f#	thou'lt	-nen,	.
+.	8g#J	.	8g#	be	nur	.
+=24	=24	=24	=24	=24	=24	=24
+4.AA/ 4.AAA/	8c#L	.	4b^>\	lov-	Ei-	.
+.	8e	.	.	.	.	.
+.	8aJ	.	8a	-ing.	-nen.	.
+8AAL	(>16eeLL	<	4r	.	.	.
+.	16ff#	.	.	.	.	.
+8E	16gg#	.	.	.	.	.
+.	16aa	.	.	.	.	.
+8c#J	16bb	.	8r	.	.	.
+.	16ccc#JJ)	[	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25
+*^	*	*	*	*	*	*
+4.ryy	8c# 8Gn 8E	8aa#XL	.	2.rdd	.	.	.
+.	4d 4F# 4D^>	(>16bbL	.	.	.	.	.
+.	.	16aan	.	.	.	.	.
+.	.	16ggnyX	.	.	.	.	.
+.	.	16ff#JJ)	.	.	.	.	.
+4E	8EL	8ee#XL	.	.	.	.	.
+.	8G#X	(>16ff#Lt>	.	.	.	.	.
+.	.	16een	.	.	.	.	.
+8ryy	8dJ	16dd	.	.	.	.	.
+.	.	16bJJ)	.	.	.	.	.
+*v	*v	*	*	*	*	*	*
+!!LO:LB:g=original
+=26	=26	=26	=26	=26	=26	=26
+8AAL	4a	.	2.rdd	.	.	.
+8E	.	.	.	.	.	.
+8c#J	(>16cc#LL	.	.	.	.	.
+.	16ddJJ	<	.	.	.	.
+8AAL	16eeLL	.	.	.	.	.
+.	16ff#	.	.	.	.	.
+8E	16gg#	.	.	.	.	.
+.	16aa	.	.	.	.	.
+8c#J	16bb	.	.	.	.	.
+.	16ccc#JJ)	[	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27
+*^	*	*	*	*	*	*
+4.rayy	8c# 8Gn 8E	8aa#XL	.	2.rdd	.	.	.
+.	4d 4F# 4D^>	(>16bbL	.	.	.	.	.
+.	.	16aan	.	.	.	.	.
+.	.	16gg#yX	.	.	.	.	.
+.	.	16ff#JJ)	.	.	.	.	.
+4E	8EL	8ee#XL	.	.	.	.	.
+.	8G#X	(>16ff#LT>	.	.	.	.	.
+.	.	16een	.	.	.	.	.
+8ryy	8dJ	16dd	.	.	.	.	.
+.	.	16bJJ)	.	.	.	.	.
+*v	*v	*	*	*	*	*	*
+=28	=28	=28	=28	=28	=28	=28
+8AAL	4a	.	2.rdd	.	.	.
+8E	.	.	.	.	.	.
+8c#J	8r	.	.	.	.	.
+4AA	4r	.	.	.	.	.
+8r	8r	.	.	.	.	.
+*	*	*	*	*v	*v	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!ENC: Mateusz Mrugas
+!!!END: 2020-02-01
+!!!EED: Jędrzej Mróz
+!!!EST: revision finished 2020-02-06
+!!!system-decoration: (s1){(s2,s3)}

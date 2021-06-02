@@ -1,0 +1,137 @@
+!!!!SEGMENT: 028_1-12-1a-C-007.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Prelude VII
+!!!OPS: Op. 28
+!!!PTL: 24 Preludes pour le Piano
+!!!PPR: Catelin
+!!!PPP: Paris
+!!!NIFC-rismID:  1001065071
+!!!NIFC-shelfmark: PL-Wbfc 6583/n
+!!!OMD: Andantino.
+**kern	**kern	**fing	**dynam
+*part1	*part1	*	*part1
+*staff2	*staff1	*	*S
+*clefF4	*clefG2	*	*
+*I"VII.	*	*	*
+*k[f#c#g#]	*k[f#c#g#]	*	*
+*A:	*A:	*	*
+*M3/4	*M3/4	*	*
+*MM92	*MM92	*	*
+!	!LO:TX:b:Bi:t=dolce.	!	!LO:DY:rj
+4r	(>4e	.	p
+=1	=1	=1	=1
+*ped	*	*	*
+4EE	8.cc#L	.	.
+.	16ddJk	.	.
+4e 4E	4b 4g# 4d	.	.
+4e 4E	4b 4g# 4d	.	.
+=2	=2	=2	=2
+2e 2E	2b 2g# 2d)	.	.
+*Xped	*	*	*
+4r	(>4ff# 4dd	.	.
+=3	=3	=3	=3
+*ped	*	*	*
+4AA	8.dd#XL 8.b#X	.	.
+.	16eeJk 16cc#	.	.
+4e 4A	4aa 4cc#	.	.
+4e 4A	4aa 4cc#	.	.
+!!LO:LB:g=original
+=4	=4	=4	=4
+2e 2A	2aa 2cc#)	.	.
+*Xped	*	*	*
+4r	(>4cc# 4e	.	.
+=5	=5	=5	=5
+*	*^	*	*
+*ped	*	*	*	*
+4EE	8.a#XL 8.c#	4ryy	.	.
+.	16bJ [<16d	.	.	.
+4B 4E	4dd 4f#	2d_<	.	.
+4B 4E	4dd 4f#	.	.	.
+=6	=6	=6	=6	=6
+2B 2E	2dd 2f#)	2d]	.	.
+*Xped	*	*	*	*
+4r	(>4g#X 4d	4ryy	.	.
+*	*v	*v	*	*
+=7	=7	=7	=7
+*ped	*	*	*
+4AAA	8.g#L 8.d	.	.
+.	16aJk 16c#	.	.
+4e 4A 4E	4cc# 4c#	.	.
+4e 4A 4E	4cc# 4c#	.	.
+!!LO:LB:g=original
+=8	=8	=8	=8
+2e 2A 2E	2cc# 2c#)	.	.
+*Xped	*	*	*
+4r	(>[<4e	.	.
+=9	=9	=9	=9
+*	*^	*	*
+*ped	*	*	*	*
+4EE	8.cc#L	4g# 4e]	.	.
+.	16ddJk	.	.	.
+4e 4E	4b 4g# 4d	2ryy	.	.
+4e 4E	4b 4g# 4d	.	.	.
+*	*v	*v	*	*
+=10	=10	=10	=10
+2e 2E	2b 2g# 2d)	.	.
+*Xped	*	*	*
+4r	(>4ff# 4dd	.	.
+=11	=11	=11	=11
+*	*^	*	*
+*ped	*	*	*	*
+4AA	4ryy	8.dd#iL 8.b#X	.	<
+.	.	[>16eeJk [<16cc#	.	.
+4a 4e 4A	4ccc# 4aa	2ee] 2cc#]	.	.
+*Xped	*	*	*	*
+4a 4e 4A	4ccc# 4aa	.	.	.
+*	*v	*v	*	*
+=12	=12	=12	=12
+*ped	*	*	*
+!	!LO:TX:b:t=P:fingering on the right side of 2cc# and 2a#X; slur connecting "1" and "1" on the right side:problem	!	!
+2f# 2e 2c# 2F#	2ccc# 2aa#X 2ee 2cc# 2a#X)	1 1	[
+*Xped	*	*	*
+4r	(>4cc# 4a#	.	.
+!!LO:LB:g=original
+=13	=13	=13	=13
+*ped	*	*	*
+4BBB	8.cc#L 8.a#X	.	.
+.	16ddJk 16b	.	.
+4d 4F#	4ff# 4b	.	.
+*Xped	*	*	*
+4d 4B 4F#	4ff# 4a#	.	.
+=14	=14	=14	=14
+*ped	*	*	*
+2d 2B 2E	2ff# 2g#)	.	.
+*Xped	*	*	*
+4r	(>4g# 4d	.	.
+=15	=15	=15	=15
+*	*^	*	*
+*ped	*	*	*	*
+4AAA	8.bL 8.d	4ryy	.	.
+.	16aJk 16c#	.	.	.
+.	[<8qqa/	.	.	.
+4e 4A 4E	4aa 4cc#	2a_<	.	.
+4e 4A	4aa 4cc#	.	.	.
+*	*v	*v	*	*
+=16	=16	=16	=16
+2e 2A	2aa 2cc# 2a])	.	.
+4r	4r	.	.
+==	==	==	==
+*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**kern: i = editorial accidental
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2019-05-11
+!!!EED:Leszek Kubiak
+!!!EST: 2019-05-16
+!!!EED2: Emilia Ziętek
+!!!EST2: 2020-05-03
+!!!rism-genre: Prelude
+!!!rism-key: A major
+!!!rism-opus: op. 28, no. 7
+!!!rism-title: Prelude in A major op. 28, no. 7
+!!!rism-permalink: https://opac.rism.info/search?id=1001065071&View=rism
+!!!rism-773a-OPR: 1001065063
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001065063&View=rism

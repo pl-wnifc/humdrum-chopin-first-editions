@@ -1,0 +1,478 @@
+!!!!SEGMENT: 074-1-Sam-002.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: FRÜHLING
+!!!OPS: Op. 74
+!!!PTL: 16 | Polnische Lieder | von Witwicki, Zaleski Mickiewicz etc. | für eine Singstimme | mit Begleitung des Pianoforte
+!!!PPR: Schlesinger
+!!!PPP: Berlin
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: PL-Wbfc 6138/n
+!!!OMD: Andantino. M. M. [quarter-dot] = 69.
+!!!system-decoration: (s1){(s2,s3)}
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff2	*	*staff1	*	*
+*	*I"PIANO.	*	*I"SINGSTIMME.	*	*
+*clefF-4	*clefG2	*	*clefG2	*	*
+*k[b-e-]	*k[b-e-]	*	*k[b-e-]	*	*
+*g:	*g:	*	*g:	*	*
+*M6/8	*M6/8	*	*M6/8	*	*
+*	*	*	*	*	*
+=1	=1	=1	=1	=1	=1
+*^	*	*	*	*	*
+*clefG-2	*	*	*	*	*	*
+!LO:TX:a:i:t=sempre legato.:dur=6e	!	!LO:TX:a:i:t=e semplice.	!	!	!	!
+!	!	!	!LO:DY:a:rj	!	!	!
+!	!	!	!	!LO:TX:t=P:"Andantino." nad "M. M....":problem	!	!
+!LO:TX:b:t=P:partia lewej ręki fortepianu rozpoczyna się kluczem F-4 i od razu następuje zmiana na G-2; ta zmiana się nie wyświetla:problem	!	!	!	!	!	!
+8B-L	2.G	4g	.	4g	Glänzt	.
+8d	.	.	.	.	.	.
+8gJ	.	8dd	.	8dd	auf	.
+!	!	!	!	!LO:TX:t=P:w całej pieśni przy dzieleniu wyrazów są podkreśliniki, a nie myślniki:problem	!	!
+8AL	.	4cc	.	4cc	al-	.
+8d	.	.	.	.	.	.
+8f#XJ	.	8dd	.	8dd	-len	.
+=2	=2	=2	=2	=2	=2	=2
+8B-L	2.G	4.b-	.	4.b-	Blü-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-then	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+8B-L	2.G	8.gL	<	8.gL	Tröpf-	<
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+8gJ	.	8b-J	.	8b-	-chen	.
+8AL	.	8.ccL	.	8.ccL	Thau	.
+8d	.	.	.	.	.	.
+.	.	16ddk	.	16ddJ	.	.
+8f#XJ	.	8ccJ	[	8cc	so	[
+=4	=4	=4	=4	=4	=4	=4
+8B-L	2.G	4.b-	>	4.b-	hel-	>
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4a	]	4a	-le,	]
+8d	.	.	.	.	.	.
+8f#XJ	.	8r	.	8r	.	.
+=5	=5	=5	=5	=5	=5	=5
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+8B-L	2.G	4g	.	4g	sanf-	.
+8d	.	.	.	.	.	.
+8gJ	.	8dd	.	8dd	-te	.
+8AL	.	4cc	.	4cc	Win-	.
+8d	.	.	.	.	.	.
+8f#XJ	.	8dd	.	8dd	de	.
+!!LO:LB:g=original
+=6	=6	=6	=6	=6	=6	=6
+8B-L	2.G	4.b-	.	4.b-	ko-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-sen,	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+8B-L	2.G	8.gL	<	8.gL	mur-	.
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+8gJ	.	8b-J	.	8b-	-melt	.
+8AL	.	8.ccL	.	8.ccL	leis’	.
+8d	.	.	.	.	.	.
+.	.	16ddk	.	16ddJ	.	.
+8f#XJ	.	8ccJ	[	8cc	die	.
+=8	=8	=8	=8	=8	=8	=8
+8B-L	4.G	4.b-	>	4.b-	Quel-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8FnL	4.Fn	4.a	.	4a	-le;	.
+8e-	.	.	.	.	.	.
+8fJ	.	.	]	8r	.	.
+=9	=9	=9	=9	=9	=9	=9
+8dL	2.B-	4b-	.	4b-	durch	.
+8f	.	.	.	.	.	.
+8b-J	.	8ff	.	8ff	das	.
+8cL	.	4een	.	4een	Thal	.
+8f	.	.	.	.	.	.
+8aJ	.	8ff	.	8ff	so	.
+=10	=10	=10	=10	=10	=10	=10
+8dL	2.B-	4.dd	.	4.dd	rei-	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-XL	.	4.cc	.	4.cc	-zend	.
+8f	.	.	.	.	.	.
+8aJ	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11
+8dL	2.B-	8.b-L	<	8.b-L	schweift	<
+8f	.	.	.	.	.	.
+.	.	16cck	.	16ccJ	.	.
+8b-J	.	8ddJ	.	8dd	so	.
+8cL	.	8.ee-XL	.	8.ee-XL	gern	.
+8f	.	.	.	.	.	.
+.	.	16ffk	.	16ffJ	.	.
+8aJ	.	8ee-J	[	8ee-	der	[[
+=12	=12	=12	=12	=12	=12	=12
+8dL	2.B-	4.dd	>	(>4.dd	Blick,	>
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4.cc	.	4cc)	.	]]
+8f	.	.	.	.	.	.
+8aJ	.	.	]	8r	.	.
+!!LO:LB:g=original
+=13	=13	=13	=13	=13	=13	=13
+8dL	2.B-	4b-	.	4b-	Al-	.
+8f	.	.	.	.	.	.
+8b-J	.	8ff	.	8ff	-les	.
+8cL	.	4een	.	4een	blüht	.
+8f	.	.	.	.	.	.
+8aJ	.	8ff	.	8ff	und	.
+=14	=14	=14	=14	=14	=14	=14
+8dL	2.B-	4.dd	.	4.dd	duf-	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4.cc	.	4.cc	-tet	.
+8f	.	.	.	.	.	.
+8aJ	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15
+8dL	2.B-	8.b-L	<	8.b-L	wie	.
+8f	.	.	.	.	.	.
+.	.	16cck	.	16ccJ	.	.
+8b-J	.	8ddJ	.	8dd	ein	.
+8cL	.	8.ee-XL	.	8.ee-XL	jun-	.
+8f	.	.	.	.	.	.
+.	.	16ffk	.	16ffJ	.	.
+8aJ	.	8ee-J	[	8ee-	-ges	.
+=16	=16	=16	=16	=16	=16	=16
+8dL	4.B-	4dd	.	(>4.dd	Glück;	.
+8f	.	.	.	.	.	.
+8b-J	.	8r	.	.	.	.
+8cL	4.A	[>4.dd^<	.	4dd)	.	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	8r	.	.
+=17	=17	=17	=17	=17	=17	=17
+8B-L	2.G	4dd]	p	8dd	aus	.
+8d	.	.	.	8r	.	.
+8gJ	.	8dd	.	8dd	der	.
+8AL	.	4cc	.	8cc	Näh’	.
+8d	.	.	.	8r	.	.
+8f#XJ	.	8dd	.	8dd	und	.
+=18	=18	=18	=18	=18	=18	=18
+8B-L	2.G	4.b-	.	4.b-	Fer-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-ne	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+!!LO:PB:g=original
+=19	=19	=19	=19	=19	=19	=19
+8B-L	2.G	8.gL	.	8.gL	Heer-	.
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+8gJ	.	8b-J	.	8b-\	-den	.
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+8AL	.	8.ccL	.	8.ccL	glöck-	.
+8d	.	.	.	.	.	.
+.	.	16ddk	.	16ddJ	.	.
+8f#XJ	.	8ccJ	.	8cc	-klein	.
+=20	=20	=20	=20	=20	=20	=20
+8B-L	2.G	4b-	.	4.b-	tö-	.
+8d	.	.	.	.	.	.
+8gJ	.	8ryy	.	.	.	.
+8cL	.	4a	.	4.a	-nen,	.
+8d	.	.	.	.	.	.
+8f#XJ	.	8ryy	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21
+8B-L	2.G	4g	.	8g	die	.
+8d	.	.	.	8r	.	.
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+8gJ	.	8dd	.	8dd	Schal-	.
+8AL	.	4cc	.	8cc	-mei	.
+8d	.	.	.	8r	.	.
+8f#XJ	.	8dd	.	8dd	er-	.
+=22	=22	=22	=22	=22	=22	=22
+8B-L	2.G	4.b-	.	4.b-	-wek-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-ket	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23
+*	*^	*	*	*	*	*
+8B-L	2.G	4ryy	8.gL	.	8.gL	träu-	.
+8d	.	.	.	.	.	.	.
+.	.	.	16ak	.	16aJ	.	.
+8gJ	.	8ryy	8b-J	.	8b-	-me-	.
+8AL	.	4A\	8.ccL	.	8.ccL	-ri-	.
+8d	.	.	.	.	.	.	.
+.	.	.	16ddk	.	16ddJ	.	.
+8f#XJ	.	8ryy	8ccJ	.	8cc	-sches	.
+*	*v	*v	*	*	*	*	*
+=24	=24	=24	=24	=24	=24	=24
+8B-L	4.G	4.b-	.	4.b-	Seh-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8FnL	4.Fn	4.a^<	.	4.a	-nen;	.
+8e-	.	.	.	.	.	.
+8fJ	.	.	.	.	.	.
+!!LO:LB:g=original
+=25	=25	=25	=25	=25	=25	=25
+8dL	2.B-	4b-	.	8b-	und	.
+8f	.	.	.	8r	.	.
+8b-J	.	8ff	.	8ff	nun	.
+8cL	.	4een	.	8een	sing’	.
+8f	.	.	.	8r	.	.
+8aJ	.	8ff	.	8ff	ich	.
+=26	=26	=26	=26	=26	=26	=26
+8dL	2.B-	4.dd	.	4.dd	lei-	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4.cc	.	4.cc	-se	.
+8f	.	.	.	.	.	.
+8aJ	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27
+8dL	2.B-	8.b-L	.	8.b-L	mir	.
+8f	.	.	.	.	.	.
+.	.	16cck	.	16ccJ	.	.
+8b-J	.	8ddJ	.	8dd	ein	.
+8cL	.	8.ee-XL	.	8.ee-XL	al	.
+8f	.	.	.	.	.	.
+.	.	16ffk	.	16ffJ	.	.
+8aJ	.	8ee-J	.	8ee-	tes	.
+=28	=28	=28	=28	=28	=28	=28
+!	!	!	!	!LO:TX:t=P:w źródle przecinek za kreską podkreślnikową:problem	!	!
+8dL	2.B-	4.dd	.	(>4.dd	Lied,_	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4.cc	.	4.cc)	.	.
+8f	.	.	.	.	.	.
+8aJ	.	.	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29
+8dL	2.B-	4b-	.	8b-	das	.
+8f	.	.	.	8r	.	.
+8b-J	.	8ff	.	8ff	aus	.
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+8cL	.	4een	.	8een	schö-	.
+8f	.	.	.	8r	.	.
+8aJ	.	8ff	.	8ff	-nen	.
+=30	=30	=30	=30	=30	=30	=30
+8dL	2.B-	4.dd	.	4dd	Ta-	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	8ryy	.	.
+8e-L	.	4.cc	.	4cc	-gen	.
+8f	.	.	.	.	.	.
+8aJ	.	.	.	8ryy	.	.
+!!LO:LB:g=original
+=31	=31	=31	=31	=31	=31	=31
+8dL	2.B-	8.b-L	.	8.b-L	durch	.
+8f	.	.	.	.	.	.
+.	.	16cck	.	16ccJ	.	.
+8b-J	.	8ddJ	.	8dd	dir	.
+8cL	.	8.ee-XL	.	8.ee-XL	See-	.
+8f	.	.	.	.	.	.
+.	.	16ffk	.	16ffJ	.	.
+8aJ	.	8ee-J	.	8ee-	-le	.
+=32	=32	=32	=32	=32	=32	=32
+!	!	!	!	!LO:TX:t=P:w źródle średnik za kreską podkreślnikową:problem	!	!
+8dL	4.B-	8dd	.	[>4.dd	zieht;_	.
+8f	.	4r	.	.	.	.
+8b-J	.	.	.	.	.	.
+8cL	4.A	[>4.dd^<	.	4dd]	.	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	8r	.	.
+=33	=33	=33	=33	=33	=33	=33
+8B-L	2.G	4dd]	.	4dd	und	.
+8d	.	.	.	.	.	.
+8gJ	.	8dd	.	8dd	es	.
+8AL	.	4cc	.	4cc	quilt	.
+8d	.	.	.	.	.	.
+8f#XJ	.	8dd	.	8dd	die	.
+=34	=34	=34	=34	=34	=34	=34
+8B-L	2.G	4.b-	.	4.b-	Thrä-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-ne,	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=35	=35	=35	=35	=35	=35	=35
+8B-L	2.G	8.gL	.	8.gL	und	.
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+8gJ	.	8b-J	.	8b-	das	.
+8AL	.	8.ccL	.	8.ccL	Bäch-	.
+8d	.	.	.	.	.	.
+.	.	16ddk	.	16ddJ	.	.
+8f#XJ	.	8ccJ	.	8cc	-lein	.
+=36	=36	=36	=36	=36	=36	=36
+8B-L	2.G	4.b-	.	4.b-	klin-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4a	-get,	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	8r	.	.
+!!LO:PB:g=original
+=37	=37	=37	=37	=37	=37	=37
+8B-L	2.G	4g	.	4g	ü-	.
+8d	.	.	.	.	.	.
+8gJ	.	8dd	.	8dd	-ber	.
+8AL	.	4cc	.	4cc	mir	.
+8d	.	.	.	.	.	.
+8f#XJ	.	8dd	.	8dd	die	.
+=38	=38	=38	=38	=38	=38	=38
+8B-L	2.G	4.b-	.	4.b-	Ler-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-che	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39
+8B-L	2.G	8.gL	.	8.gL	Ju-	.
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+8gJ	.	8b-J	.	8b-	-bel-	.
+8AL	.	8.ccL	.	8.ccL	lie	.
+8d	.	.	.	.	.	.
+.	.	16ddk	.	16ddJ	.	.
+8f#XJ	.	8ccJ	.	8cc	der	.
+=40	=40	=40	=40	=40	=40	=40
+8B-L	4.G	4.b-	.	4.b-	sin-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8FnL	4.Fn	4.a	.	4a	-get;	.
+8e-	.	.	.	.	.	.
+8fJ	.	.	.	8r	.	.
+=41	=41	=41	=41	=41	=41	=41
+8dL	2.B-	4b-	.	8b-	schwing’	.
+8f	.	.	.	8r	.	.
+8b-J	.	8ff	.	8ff	dich	.
+8cL	.	4een	.	8een	auf	.
+8f	.	.	.	8r	.	.
+8aJ	.	8ff	.	8ff	o	.
+=42	=42	=42	=42	=42	=42	=42
+8dL	2.B-	4.dd	.	4.dd	Ler-	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4.cc	.	4.cc	-che,	.
+8f	.	.	.	.	.	.
+8aJ	.	.	.	.	.	.
+!!LO:LB:g=original
+=43	=43	=43	=43	=43	=43	=43
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+8dL	2.B-	8.b-L	.	8.b-L	schwin-	.
+8f	.	.	.	.	.	.
+.	.	16cck	.	16ccJ	.	.
+8b-J	.	8ddJ	.	8dd	-ge	.
+8cL	.	8.ee-XL	.	8.ee-XL	dich	.
+8f	.	.	.	.	.	.
+.	.	16ffk	.	16ffJ	.	.
+8aJ	.	8ee-J	.	8ee-	em-	.
+=44	=44	=44	=44	=44	=44	=44
+!	!	!	!	!LO:TX:t=P:nie wyświetla się linia pokreślnikowa; w źródle przecinek za tą linią:problem	!	!
+8dL	2.B-	4.dd	.	(>4.dd	-por,_	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4.cc	.	4cc)	.	.
+8f	.	.	.	.	.	.
+8aJ	.	.	.	8r	.	.
+=45	=45	=45	=45	=45	=45	=45
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+8dL	2.B-	4b-	.	8b-	im-	.
+8f	.	.	.	8r	.	.
+8b-J	.	8ff	.	8ff	-mer	.
+8cL	.	4een	.	8een	hoch	.
+8f	.	.	.	8r	.	.
+8aJ	.	8ff	.	8ff	und	.
+=46	=46	=46	=46	=46	=46	=46
+8dL	2.B-	4.dd	.	4.dd	hö-	.
+8f	.	.	.	.	.	.
+8b-J	.	.	.	.	.	.
+8e-L	.	4cc	.	4cc	-her	.
+8f	.	.	.	.	.	.
+8aJ	.	8r	.	8r	.	.
+=47	=47	=47	=47	=47	=47	=47
+8dL	2.B-	8.b-L	.	8.b-L	zu	.
+8f	.	.	.	.	.	.
+.	.	16cck	.	16ccJ	.	.
+8b-J	.	8ddJ	.	8dd	der	.
+8cL	.	8.ee-XL	.	8.ee-XL	En-	.
+8f	.	.	.	.	.	.
+.	.	16ffk	.	16ffJ	.	.
+8aJ	.	8ee-J	.	8ee-	-gel	.
+=48	=48	=48	=48	=48	=48	=48
+8dL	4.B-	8dd	.	[>4.dd	Chor;	.
+8f	.	4r	.	.	.	.
+8b-J	.	.	.	.	.	.
+8cL	4.A	[>4.dd^<	.	4dd]	.	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	8r	.	.
+=49	=49	=49	=49	=49	=49	=49
+8B-L	2.G	4dd]	.	8dd	dort	.
+8d	.	.	.	8r	.	.
+8gJ	.	8dd	.	8dd	als	.
+8AL	.	4cc	.	8cc	ird’	.
+8d	.	.	.	8r	.	.
+8f#XJ	.	8dd	.	8dd	scher	.
+!!LO:LB:g=original
+=50	=50	=50	=50	=50	=50	=50
+8B-L	2.G	4.b-	.	4.b-	Bo-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-te	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=51	=51	=51	=51	=51	=51	=51
+8B-L	2.G	8.gL	.	8.gL	mögst	.
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+8gJ	.	8b-J	.	8b-	du	.
+8AL	.	8.ccL	.	8.ccL	Kun-	.
+8d	.	.	.	.	.	.
+.	.	16ddk	.	16ddJ	.	.
+8f#XJ	.	8ccJ	.	8cc	-de	.
+=52	=52	=52	=52	=52	=52	=52
+8B-L	2.G	4.b-	.	4.b-	ge-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-ben:	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=53	=53	=53	=53	=53	=53	=53
+8B-L	2.G	4g	.	8g	wie	.
+8d	.	.	.	8r	.	.
+8gJ	.	8dd	.	8dd	so	.
+8AL	.	4cc	.	8cc	schön	.
+8d	.	.	.	8r	.	.
+8f#XJ	.	8dd	.	8dd	der	.
+=54	=54	=54	=54	=54	=54	=54
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!
+8B-L	2.G	4.b-	.	4.b-	Früh-	.
+8d	.	.	.	.	.	.
+8gJ	.	.	.	.	.	.
+8cL	.	4.a	.	4.a	-ling,	.
+8d	.	.	.	.	.	.
+8f#XJ	.	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55
+!LO:TX:a:i:t=rall. e	!	!	!	!LO:TX:a:i:t=rall. e	!	!
+8B-L	2.G	8.gL	.	8.gL	wie	.
+8d	.	.	.	.	.	.
+.	.	16ak	.	16aJ	.	.
+!	!	!	!	!	!	!LO:HP:a
+8gJ	.	8b-J	>	8b-	so	>
+8AL	.	4cc	.	8cc	kurz	.
+8d	.	.	.	8r	.	.
+8f#XJ	.	8dd	.	8dd	das	.
+*v	*v	*	*	*	*	*
+=56	=56	=56	=56	=56	=56
+2.d 2.B- 2.G	(>4.g	pp	(>4.g	Le-	pp
+.	4gg)	.	4gg)	-ben.	.
+.	8r	.	8r	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: > = "dim.", fontstyle="italic"
+!!!RDF**dynam: < = "cresc.", fontstyle="italic"
+!!!ENC: Antoni Szymański
+!!!END: 2020-02-07
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: 2020-02-23

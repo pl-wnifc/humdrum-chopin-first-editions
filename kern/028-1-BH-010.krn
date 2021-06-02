@@ -1,0 +1,352 @@
+!!!!SEGMENT: 028-1-BH-010.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Preludium No. 10
+!!!OPS: Op. 28
+!!!PTL: Vingt-quatre PRELUDES pour le Piano
+!!!PPR: Breitkopf & Härtel
+!!!PPP: Leipzig
+!!!NIFC-rismID: 1001013122
+!!!NIFC-shelfmark: PL-Wbfc 4372/n
+!!!OMD: All.o molto.
+**kern	**kern	**dynam
+*part1	*part1	*
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*I"N|o. 10.	*	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*c#:	*c#:	*
+*M3/4	*M3/4	*
+*MM144	*MM144	*
+*ped	*	*
+*	*8va	*
+!	!LO:TX:b:Bi:t=leggiero.	!
+!	!LO:TUP:a	!
+4r	(>24ggg#LL	>
+.	24aaa	.
+.	24ggg#	.
+.	24aaa	]
+.	24ggg#	.
+.	24fff##XJJ	.
+=1	=1	=1
+!	!LO:TX:a:t=P:all tuplets without brace:problem	!
+!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+!	!LO:TUP:a	!
+4e: 4G#: 4C#:	24cccc#LL 24ggg#	>
+.	24aaa	.
+.	24ggg#	.
+.	16eee	.
+.	.	]
+.	16ddd#JJ	.
+!	!LO:TUP:a	!
+4r	24ggg#LL 24ccc#	>
+.	24ddd#	.
+.	24ccc#	.
+*Xped	*	*
+.	16aa	]
+.	16gg#JJ	.
+*ped	*	*
+!	!LO:TUP:b	!
+8A 8C# 8FF#	24ccc#LL 24ff#	>
+.	24gg#	.
+.	24ff#	.
+8r	16ee	.
+*Xped	*	*
+.	16dd#JJ	]
+*	*X8va	*
+=2	=2	=2
+*ped	*	*
+!	!LO:TX:a:B:t=loco	!
+!	!LO:TUP:a	!
+8e: 8G#: 8C#:	24gg#LL 24cc#	.
+.	24dd#	>
+.	24cc#	.
+8r	16a	.
+*Xped	*	*
+.	.	.
+.	16g#JJ	]
+!	!LO:TUP:b	!
+*ped	*	*
+8A: 8C#: 8FF#:	24cc#LL 24f#	>
+.	24g#	.
+.	24f#	.
+8r	16e	]
+*Xped	*	*
+.	.	.
+.	16d#JJ	.
+!	!LO:TUP:b	!
+*ped	*	*
+8E: 8GG#: 8CC#:	24g#LL 24c#	>
+.	24d#	.
+.	24c#	]
+8r	16B<	.
+*Xped	*	*
+.	16A<JJ	.
+!!LO:LB:g=original
+=3	=3	=3
+*^	*	*
+*	*	*^	*
+4rFF	2ryy	4ryy	2.G#<^>	.
+2GG#\	.	4B#X< 4D#<	.	.
+.	4GGG#\	(>4A#X< 4C#<	.	.
+=4	=4	=4	=4	=4
+!LO:TX:a:t=P:problem:2G# przed innymi nutami	!	!	!	!
+8GG#L\	2ryy	8.B#X<L 8.D#<	2G#<)	.
+16rGG	.	.	.	.
+16GG#Jk	.	16c#<Jk 16E<	.	.
+2GG#\	.	4d#< 4B#< 4F#<	.	.
+.	4GGG#	4e 4G#<	4ryy	.
+*	*	*v	*v	*
+*v	*v	*	*
+=5	=5	=5
+*ped	*	*
+*	*8va	*
+!	!LO:TUP:a	!
+4e: 4G#: 4C#:	24cccc#LL 24ggg#	>
+.	24aaa	.
+.	24ggg#	.
+.	.	]
+.	16eee	.
+.	16ddd#JJ	.
+!	!LO:TUP:a	!
+4r	24ggg#LL 24ccc#	>
+.	24ddd#	.
+.	24ccc#	.
+.	.	]
+.	16aa	.
+*Xped	*	*
+.	.	.
+.	16gg#JJ	.
+*ped	*	*
+!	!LO:TUP:b	!
+8A:\ 8C#: 8FF#:	24ccc#LL 24ff#	>
+.	24gg#	.
+.	24ff#	.
+8r	16ee	]
+*Xped	*	*
+.	16dd#JJ	.
+*	*X8va	*
+=6	=6	=6
+*ped	*	*
+!	!LO:TUP:a	!
+!	!LO:TX:a:B:t=loco	!
+8e: 8G#: 8C#:	24gg#LL 24cc#	>
+.	24dd#	.
+.	24cc#	.
+8r	16a	]
+*Xped	*	*
+.	16g#JJ	.
+*ped	*	*
+!	!LO:TUP:b	!
+8A:\ 8C#: 8FF#:	24cc#LL 24f#	>
+.	24g#	.
+.	24f#	.
+8r	16e	]
+*Xped	*	*
+.	.	.
+.	16d#JJ	.
+*ped	*	*
+!	!LO:TUP:b	!
+8E: 8GG#: 8CC#:	24g#LL 24c#	>
+.	24d#	.
+.	24c#	.
+8r	16B	]
+*Xped	*	*
+.	.	.
+.	16A#XJJ)	.
+!!LO:PB:g=original
+=7	=7	=7
+*^	*	*
+*	*^	*	*
+*	*	*	*^	*
+2.G#	4rFF	4ryy	4r	4ryy	.
+!	!	!	!LO:S:s=1:note:problem:note-level slur	!	!
+.	2D#/	4DD#	(>2d#^>	4B<	.
+.	.	16qqCC##X/LL	.	.	.
+.	.	16qqDD#/JJ	.	.	.
+*ped	*	*	*	*	*
+!	!	!LO:TX:a:t=P:problem: tryl bezpośrednio nad 4DD# 	!	!	!
+.	.	4DD#t	.	4A#X</ 4F##X<	.
+.	.	16qqCC##/LL	.	.	.
+*Xped	*	*	*	*	*
+.	.	16qqDD#/JJ	.	.	.
+*	*	*	*v	*v	*
+*	*v	*v	*	*
+*v	*v	*	*
+=8	=8	=8
+8GG#L	8.B<L 8.G#< 8.D#<	.
+16rFF	.	.
+16GG#Jk	16c#<Jk 16A#X< 16D#<	.
+4GG#	4d#< 4B< 4D#<	.
+!	!LO:S:s=1:note:problem:note-level slur	!
+4GGG#	4g#^) 4G#<	.
+=9	=9	=9
+*ped	*	*
+*	*8va	*
+!	!LO:TUP:a	!
+8A 8C# 8FF#	(>24cccc#LL 24fff#	>
+.	24ggg#	.
+.	24fff#	.
+.	.	]
+*Xped	*	*
+8r	16dddn	.
+.	16ccc#JJ	>
+!	!LO:TUP:a	!
+*ped	*	*
+8dn 8F# 8BB	24fff#LL 24bb	.
+.	24ccc#	.
+.	24bb	]
+8r	16aa	.
+*Xped	*	*
+.	16gg#JJ	.
+!	!LO:TUP:b	!
+*ped	*	*
+8A 8C# 8FF#	24ccc#LL 24ff#	>
+.	24gg#	.
+.	24ff#	]
+8r	16ddn	.
+*Xped	*	*
+.	16cc#JJ	.
+*	*X8va	*
+=10	=10	=10
+*ped	*	*
+!	!LO:TX:a:B:t=loco	!
+!	!LO:TUP:a	!
+8dn: 8F# 8BB	24ff#LL 24b	>
+.	24cc#	.
+.	24b	]
+*Xped	*	*
+8r	16a	.
+.	16g#JJ	.
+*ped	*	*
+!	!LO:TUP:b	!
+8A 8C# 8FF#	24cc#LL 24f#	>
+.	24g#	.
+.	24f#	.
+8ryy	16dn	]
+.	16c#JJ	.
+!	!LO:TUP:b	!
+4r	24f#LL 24B	>
+.	24c#	.
+.	24B	]
+.	16A<	.
+.	16G#<JJ)	.
+*Xped	*	*
+.	.	.
+=11	=11	=11
+*^	*	*
+*	*^	*	*
+2.F#^	4rEE	4ryy	4ryy	.
+.	2A< 2C#<	4FF#	4c#	.
+.	.	4DD#	4d#	.
+=12	=12	=12	=12	=12
+4ryy	4ryy	8GG#L\	8.B#X<L 8.G#< 8.D#<	.
+.	.	16rGG	.	.
+.	.	16GG#Jk	16c#<Jk 16G#< 16E<	.
+2B#y	4F#	2GG#\	4d#	.
+.	4GGG#\	.	4e^ 4G#<	.
+*	*v	*v	*	*
+*v	*v	*	*
+!!LO:LB:g=original
+=13	=13	=13
+*ped	*	*
+*	*8va	*
+!	!LO:TUP:a	!
+4e: 4G#: 4C#:	(>24cccc#LL 24ggg#	.
+.	24aaa	.
+.	24ggg#	.
+.	16eee	.
+.	16ddd#JJ	.
+!	!LO:TUP:a	!
+4r	24ggg#LL 24ccc#	>
+.	24ddd#	.
+.	24ccc#	]
+.	16aa	.
+*Xped	*	*
+.	.	.
+.	16gg#JJ	.
+!	!LO:TUP:b	!
+*ped	*	*
+8A 8C# 8FF#	24ccc#LL 24ff#	>
+.	24gg#	.
+.	24ff#	]
+8r	16ee	.
+*Xped	*	*
+.	16dd#JJ	.
+*	*X8va	*
+=14	=14	=14
+*ped	*	*
+!	!LO:TX:a:B:t=loco	!
+!	!LO:TUP:a	!
+8e 8G# 8C#	24gg#LL 24cc#	>
+.	24dd#	.
+.	24cc#	]
+*Xped	*	*
+8r	16a	.
+.	16g#JJ	.
+*ped	*	*
+!	!LO:TUP:b	!
+8A 8C# 8FF#	24cc#LL 24f#	>
+.	24g#	.
+.	24f#	]
+8r	16e	.
+*Xped	*	*
+.	16d#JJ	.
+*ped	*	*
+.	.	>
+!	!LO:TUP:b	!
+8E 8GG# 8CC#	24g#LL 24c#	.
+.	24d#	.
+.	24c#	]
+8r	16B<	.
+.	16A<JJ)	.
+*Xped	*	*
+.	.	.
+=15	=15	=15
+*^	*	*
+*	*^	*	*
+2.G#^	4rFF	2ryy	4ryy	.
+.	2GG#\	.	(>4B#X< 4D#<	.
+.	.	4GGG#	4c#< 4E<	.
+*	*v	*v	*	*
+*v	*v	*	*
+=16	=16	=16
+8GG#L\	8.d#<L 8.B#X< 8.F#<	.
+16rFF	.	.
+16GG#Jk	16eJk 16G#<	.
+4CC#\	4c#< 4E<)	.
+4rFF	(>[4a^ [>4A<	.
+=17	=17	=17
+*^	*	*
+*	*	*^	*
+4rFF	2ryy	4a]	2A<]	.
+2GG#\	.	4B#X< 4D#<	.	.
+.	4GGG#	4c#< 4E<	4ryy	.
+*	*	*v	*v	*
+*v	*v	*	*
+=18	=18	=18
+8GG#L\	8d#<L 8B#X< 8G#< 8F#<	.
+16rFF	16r<	.
+!	!LO:S:s=1:note:problem:note-level slur	!
+16GG#Jk	(>16eJk 16B#< 16G#<)	.
+!	!LO:S:s=1:note:problem:note-level slur	!
+4CC#\	4c#) 4E<	.
+!	!LO:TX:b:B:t=Fine	!
+4r	4r	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!ENC: Marta Lawrence
+!!!END: 2019-06-02
+!!!EED: Emilia Ziętek
+!!!EST: revision finished 2019-06-12
+!!!EED2: Emilia Ziętek
+!!!EST2: 2020-05-02
+!!!rism-genre: Prelude
+!!!rism-key: C-sharp minor
+!!!rism-opus: op.  28, no. 10
+!!!rism-title: Prelude in C-sharp minor op.  28, no. 10
+!!!rism-permalink: https://opac.rism.info/search?id=1001013122&View=rism
+!!!rism-773a-OPR: 1001013083
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001013083&View=rism

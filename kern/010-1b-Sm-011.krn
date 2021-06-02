@@ -1,0 +1,544 @@
+!!!!SEGMENT: 010-1b-Sm-011.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Etude N. 11.
+!!!OPS: Op. 10
+!!!PTL: Etudes Pour le Piano
+!!!PPR: M. Schlesinger
+!!!PPP: Paris
+!!!NIFC-rismID: 300605135
+!!!NIFC-shelfmark: PL-Wbfc 1628/n
+!!!OMD: Allegretto.
+!!!OMD: [quarter] = 76.
+**kern	**fing	**kern	**fing	**dynam
+*part1	*	*part1	*	*part1
+*staff2	*	*staff1	*	*
+*clefF4	*	*clefG2	*	*
+*k[b-e-a-]	*	*k[b-e-a-]	*	*
+*c:	*	*c:	*	*
+*M3/4	*	*M3/4	*	*
+*MM76	*	*MM76	*	*
+8r	.	(>8bb-	.	.
+=1	=1	=1	=1	=1
+*ped	*	*	*	*
+8EE-	.	8eee-`L 8gg 8b-:)	.	fz
+8g 8B- 8E-:L	.	(>8bb- 8gg 8b-:	.	.
+8g 8B- 8E-:	.	8aan 8gg 8b-:	.	.
+8g 8B- 8E-:	.	8bb- 8gg 8b-:	.	.
+8g 8B- 8E-:	.	8ccc 8gg 8b-:	.	.
+*Xped	*	*	*	*
+8g 8B- 8E-:J	.	8bb-J 8gg 8b-:)	.	.
+=2	=2	=2	=2	=2
+*ped	*	*	*	*
+8a- 8B- 8D:L	.	8fff' 8aa- 8b-:L	.	.
+!	!	!LO:TX:a:i:t=P:Bemol przy 8aa-:problem	!	!
+8a- 8B- 8D:	.	(>8bb- 8aa- 8b-:	.	.
+8a- 8B- 8D:	.	8aan 8aa- 8b-:	.	.
+8a- 8B- 8D:	.	8bb- 8aa- 8b-:	.	.
+8a- 8B- 8D:	.	8ccc 8aa- 8b-:	.	.
+8a-J 8B- 8D:	.	8bb- 8aa- 8b-:J)	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+=3	=3	=3	=3	=3
+8g 8B- 8E-:L	.	8ggg 8bb- 8gg 8b-:L	.	.
+8a- 8d 8B- 8F:	.	(>8ddd 8bb- 8dd:	.	.
+8g 8e- 8B- 8G:	.	8eee- 8bb- 8ee- 8b-:	.	.
+8Bn 8E- 8GG:	.	8ddd 8ee- 8bn:	.	.
+8c 8E- 8AA-:	.	8ccc 8ee- 8cc:	.	.
+8e- 8F 8AAn:J	.	8fff 8ff 8cc:J)	.	<
+!!LO:LB:g=original
+=4	=4	=4	=4	=4
+!	!	!LO:TX:a:i:t=P:Łuk zaczyna się wcześniej niż na 8eee-:problem	!	!
+8e- 8G 8BB-:L	.	(>8eee-L 8gg 8b-	.	.
+8e- 8An 8G-X 8BB-:	.	8eee- 8aan 8gg-X 8cc	.	>]
+8d 8B- 8F 8BB-:	.	8dddn 8bb- 8ff 8b-	.	<
+8en 8B- 8Gn 8C:	.	8ddd-X 8ggn 8een 8b-	.	.
+8f 8A 8C:	.	8ccc 8aa-X 8ff 8a-	.	[<
+8g 8c 8G 8C:J	.	8eeenJ 8bb- 8gg 8cc)	.	.
+=5	=5	=5	=5	=5
+*ped	*	*	*	*
+8FF/	.	8fff' 8aa- 8cc:L	.	.
+8a- 8c 8F:L	.	(>8ccc' 8aa- 8cc:	.	<
+8a- 8c 8F:	.	8bbn 8aa- 8bn:	.	[[
+8a- 8c 8F:	.	8ccc 8aa- 8cc:	.	.
+8a- 8c 8F:	.	8ddd-X 8aa- 8dd-X:	.	>
+*Xped	*	*	*	*
+8a- 8c 8F:J	.	8ccc 8aa- 8cc:)J	.	]
+=6	=6	=6	=6	=6
+*ped	*	*	*	*
+8g 8c 8B- 8En:L	.	8ggg' 8bb-X 8gg 8cc:L	.	.
+!	!	!LO:TX:a:i:t=P:Bemol przy 8bb-:problem	!	!
+8g 8c 8B- 8E:	.	(>8ccc 8bb- 8gg 8cc:	.	.
+8g 8c 8B- 8E:	.	8bbn 8bb- 8gg 8bn:	.	.
+(8g 8c 8B- 8E:	.	8ccc 8bb-X 8gg 8cc:	.	.
+8g 8c 8B- 8E:)	.	8ddd-X 8bb- 8gg 8dd-X:	.	.
+*Xped	*	*	*	*
+8g 8c 8B- 8E:J	.	8ccc 8bb- 8gg 8cc:J)	.	.
+!!LO:LB:g=original
+=7	=7	=7	=7	=7
+!	!	!LO:TX:a:i:t=P:Łuk zaczyna się wcześniej niż na 8aaa-:problem	!	!
+8a- 8c 8A- 8F:	.	(>8aaa- 8ccc 8aa- 8cc:L	.	.
+*clefG2	*	*	*	*
+8b- 8e- 8B- 8G:L	.	8ggg 8eee- 8bb- 8ee-:	.	.
+8cc 8e- 8A-:	.	8fff 8eee- 8ccc 8ff:	.	.
+8cc-X 8f 8A-:	.	8fff 8eee- 8ccc-X 8ee-:	.	.
+8b- 8f 8B-:	.	8fff 8bb- 8dd:	.	.
+8a- 8f 8B-:J	.	8ggg 8aa- 8dd:J	.	.
+=8	=8	=8	=8	=8
+*	*	*	*	*^
+8g 8e-	.	8eee- 8gg 8ee-:L	.	.	.
+8cc 8g-X 8An:L	.	8eee- 8gg-X 8ee-:	.	.	>
+8b-J 8f 8B-:	.	8ddd 8ff 8dd:)	.	.	]
+*clefF4	*	*	*	*	*
+8gnL 8d-X 8En:	.	(>8ddd-X 8ggn 8b-:	.	.	.
+8f 8c 8F:	.	8ccc 8aa- 8a-:)	.	.	.
+8dn 8A-X 8F 8BB-:J	.	(>8dddn 8ff 8a-J	.	.	.
+*	*	*	*	*v	*v
+=9	=9	=9	=9	=9
+*ped	*	*	*	*
+8EE-'	.	8eee- 8ee- 8gL)	1 2 5	.
+8g 8B- 8E-L	.	(>8bb- 8ee- 8b-	.	<
+8g 8B- 8E-	.	8aan 8ee- 8b-	.	.
+8g 8B- 8E-	.	8bb- 8ee- 8b-	.	[
+8g 8B- 8E-	.	8ccc 8ee- 8b-	.	>
+*Xped	*	*	*	*
+8g 8B- 8E-J	.	8bb- 8ee- 8b-J)	.	]
+!!LO:LB:g=original
+=10	=10	=10	=10	=10
+*ped	*	*	*	*
+8a- 8B- 8D:L	.	8fff 8aa- 8b-:L	.	.
+!	!	!LO:TX:a:i:t=P:Bemol przy 8aa-:problem	!	!
+8a- 8B- 8D:	.	8bb- 8aa- 8b-:	.	.
+8a- 8B- 8D:	.	8aan 8aa- 8b-:	.	.
+8a- 8B- 8D:	.	8bb- 8aa- 8b-:	.	.
+8a- 8B- 8D:	.	8ccc 8aa- 8b-:	.	.
+*Xped	*	*	*	*
+8a- 8B- 8D:J	.	8bb- 8aa- 8b-:J	.	.
+=11	=11	=11	=11	=11
+*ped	*	*	*	*
+8g 8B- 8E-:L	.	8ggg 8bb- 8gg 8b-:L	.	.
+8a- 8d 8B- 8F:	.	(>8ddd 8bb- 8dd:	.	.
+8g 8e- 8B- 8G:	.	8eee- 8bb- 8ee- 8b-:	.	.
+8Bn 8E- 8GG:	.	8ddd 8ee- 8bn:	.	<
+8c 8E- 8AA-:	.	8ccc 8ee- 8cc:	.	.
+8e- 8F 8AAn:J	.	8fff 8ff 8cc:J	.	.
+=12	=12	=12	=12	=12
+8e- 8G 8BB-:L	.	8eee- 8gg 8b-:L	.	.
+8e- 8An 8G-X 8BB-:	.	8eee- 8aan 8gg-X 8cc:	.	>]
+8d 8B- 8F 8BB-:	.	8ddd 8bb- 8ff 8b-:	.	<
+8en 8B- 8Gn 8C:	.	8ddd-X 8ggn 8een 8b-:	.	.
+8f 8A-X 8C:	.	8ccc 8aa-X 8ff 8a-:	.	[<
+*Xped	*	*	*	*
+8g 8c 8G 8C:J	.	8eeen 8bb- 8gg 8cc:J)	.	.
+!!LO:LB:g=original
+=13	=13	=13	=13	=13
+*ped	*	*	*	*
+8FF'	.	8fff' 8aa- 8cc:L	.	.
+8a- 8c 8F:L	.	(>8ccc 8aa- 8cc:	.	<
+8a- 8c 8F:	.	8bbn 8aa- 8bn:	.	[[
+8a- 8c 8F:	.	8ccc 8aa- 8cc:	.	.
+8a- 8c 8F:	.	8ddd-X 8aa- 8dd-X:	.	>
+*Xped	*	*	*	*
+8a- 8c 8F:J	.	8ccc 8aa- 8cc:J)	.	]
+=14	=14	=14	=14	=14
+*ped	*	*	*	*
+!	!	!LO:TX:a:i:t=P:Łuk kończy się kawałek dalej niż na 8ggg:problem	!	!
+8g 8c 8B- 8En:L	.	8ggg' 8bb- 8gg 8cc:L	.	.
+!	!	!LO:TX:a:i:t=P:Bemol przy 8bb-:problem	!	!
+8g 8c 8B- 8E:	.	(>8ccc 8bb- 8gg 8cc:	.	.
+8g 8c 8B- 8E:	.	8bbn 8bb- 8gg 8b-:	.	.
+8g 8c 8B- 8E:	.	8ccc 8bb- 8gg 8cc:	.	.
+8g 8c 8B- 8E:	.	8ddd-X 8bb- 8gg 8dd-X:	.	.
+*Xped	*	*	*	*
+8g 8c 8B- 8E:J	.	8ccc 8bb- 8gg 8cc:J	.	.
+=15	=15	=15	=15	=15
+8a- 8c 8F:	.	8aaa- 8ccc 8aa- 8cc:L	.	.
+*clefG2	*	*	*	*
+8b- 8e- 8B- 8G:L	.	8ggg 8eee- 8bb- 8ee-:	.	.
+8cc 8e- 8A-:	.	8fff 8eee- 8ccc 8ff:	.	.
+8cc-X 8f 8A-:	.	8fff 8eee- 8ccc-X 8ee-:	.	.
+8b- 8f 8B-:	.	8fff 8bb- 8dd	.	.
+8a- 8f 8B-:J	.	8ggg 8aa- 8ddJ)	.	.
+!!LO:PB:g=original
+=16	=16	=16	=16	=16
+8g 8e-	.	8eee-' 8gg 8ee-:L	.	.
+*clefF4	*	*	*	*
+8g-X 8B- 8E-:L	.	(>8eee- 8gg-X 8ee-:	.	.
+8g- 8c-X 8E-:	.	8eee- 8gg- 8cc-X:	.	.
+8f- 8d- 8F-X:	.	8ddd-X 8ff-X 8a-:	.	.
+8e- 8c- 8G-X:	.	8gg- 8ee- 8g-X:	.	.
+8f- 8d- 8G-:J	.	8bb- 8dd-X 8g-:J)	.	.
+=17	=17	=17	=17	=17
+*ped	*	*	*	*
+8e- 8G-X 8C-X:L	.	8ccc-X' 8ee- 8g-X:L	.	.
+8e- 8G- 8C-:	.	(>8gg-X 8ee- 8g-:	.	.
+8e- 8G- 8C-:	.	8ff 8ee- 8f:	.	.
+*Xped	*	*	*	*
+8e- 8G- 8C-:	.	8gg- 8ee- 8g-:	.	.
+*ped	*	*	*	*
+8e- 8G- 8AAn:	.	8aa-X 8ee- 8g-:	.	.
+*Xped	*	*	*	*
+8d-X 8G- 8AA:J	.	8bb-- 8dd-X 8g-:J	.	.
+=18	=18	=18	=18	=18
+!	!	!LO:TX:a:i:t=P:Łuk kończy się kawałek dalej niż na 8eee-:problem	!	!
+*ped	*	*	*	*
+8cn 8G 8AA-X:L	.	8bb-- 8cc 8g-X:L	.	<
+8c 8G 8AA-:	.	8aa- 8cc 8g-:	.	.
+8c 8G 8AA-:	.	8ggn 8cc 8g-X:	.	.
+8c 8G 8AA-:	.	8aa- 8cc 8g-:)	.	.
+8g-X 8A- 8C:	.	(>8ddd-X 8gg-X 8a-:	.	.
+*Xped	*	*	*	*
+8g- 8A- 8C:J	.	8eee- 8gg- 8a-:J)	.	.
+!!LO:LB:g=original
+=19	=19	=19	=19	=19
+*ped	*	*	*	*
+8f-X 8A- 8D-X:L	.	8fff-X' 8ff-X 8a-:L	.	.
+8f- 8A- 8D-:	.	(>8aa- 8ff- 8a-:	.	.
+8f- 8A- 8D-:	.	8ggn 8ff- 8gn:	.	.
+*Xped	*	*	*	*
+8f- 8A- 8D-:	.	8aa- 8ff- 8a-:	.	.
+*ped	*	*	*	*
+8f- 8A- 8C-X:	.	8bb- 8ff- 8a-:	.	<
+*Xped	*	*	*	*
+8e- 8A- 8C-:J	.	8ccc-X 8ee- 8a-:J	.	.
+=20	=20	=20	=20	=20
+*ped	*	*	*	*
+8d 8A- 8BB-:L	.	8ccc-X 8ddn 8a-:L	.	.
+8d 8A- 8BB-:	.	8bb- 8dd 8a-:	.	.
+8d 8A- 8BB-:	.	8aan 8dd 8a-X:	.	.
+*Xped	*	*	*	*
+8d 8A- 8BB-:	.	8bb- 8dd 8a-:)	.	.
+*ped	*	*	*	*
+8f 8B- 8D:	.	(>8eee- 8aa-X 8b-:	.	.
+*Xped	*	*	*	*
+8f 8B- 8D:J	.	8fff 8aa- 8b-:J	.	.
+=21	=21	=21	=21	=21
+8g-X 8B- 8E-:L	.	8ggg-X' 8gg-X 8b-:L)	.	fz
+8g- 8B- 8E-:	.	(>8bb- 8gg- 8b-:	.	.
+8g- 8B- 8E-:	.	8aan 8gg- 8an:	.	<
+8g- 8B- 8E-:	.	8bb- 8gg- 8b-:	.	.
+8f 8B- 8D-X:	.	8ccc-X 8ff 8cc-X:	.	.
+8f 8B- 8D-:J	.	8ddd 8ff 8b-:J)	.	[
+!!LO:LB:g=original
+=22	=22	=22	=22	=22
+8e- 8G-X 8C-X:L	.	8eee-' 8ee- 8g-X:L	.	.
+8e- 8G- 8C-:	.	(>8gg-X 8ee- 8g-:	.	<
+8e- 8G- 8C-:	.	8ff 8ee- 8f:	.	.
+8e- 8G- 8C-:	.	8gg- 8ee- 8g-:	.	.
+8e- 8G- 8BB-:	.	8aa- 8ee- 8g-:	.	.
+8d-X 8G- 8BB-:J	.	8bb- 8dd-X 8g-:J)	.	[
+=23	=23	=23	=23	=23
+8c- 8E- 8AA-:L	.	8ccc-X' 8cc-X 8e-:L\	.	.
+8c- 8E- 8AA-:	.	(>8ee- 8cc- 8e-:	.	.
+8c- 8D 8AA-:	.	8dd 8cc- 8d:	.	.
+8c- 8E- 8AA-:	.	8ee- 8cc- 8e-:	.	.
+8c- 8F-X 8AA-:	.	8ff-X 8cc- 8f-X:	.	<
+8c- 8E- 8AA-:J	.	8ee- 8cc- 8e-:J	.	.
+=24	=24	=24	=24	=24
+!	!	!LO:TX:a:t=Con forza	!	!
+!	!	!LO:TX:a:i:t=P:problem:"con forza" pod łukiem	!	!
+8c-X 8En 8AA-:L	.	8een 8cc-X 8en:L	.	.
+8c- 8F 8AA-:	.	8ff 8cc- 8f:	.	.
+8c- 8E 8AA-:	.	8ee 8cc- 8e:	.	.
+8c- 8F 8AA-:	.	8ff 8cc- 8f:	.	.
+8c- 8G-X 8AAn:	.	8gg-X 8cc- 8g-X:	.	.
+8c- 8E 8AA:J	.	8ee- 8cc- 8e-:J)	.	.
+!!LO:LB:g=original
+=25	=25	=25	=25	=25
+!	!	!LO:TX:a:t=Dolce	!	!
+!LO:TX:b:i:t=P:Końcówka pedału nie ma początku:problem	!	!	!	!
+8BB-' 8BBB-	.	8dd 8b- 8dn	.	.
+8d 8F 8BB-:L	.	(>8bb- 8ff 8a-:L	.	.
+8d 8F 8BB-:	.	8bb- 8een 8a-:	.	.
+8d 8F 8BB-:	.	8bb- 8ff 8a-:	.	.
+8e-X 8F 8BB-:	.	8bb- 8gg 8a-:	.	.
+*Xped	*	*	*	*
+8f 8F 8BB-:J	.	8bb- 8dd 8a-:J)	.	.
+=26	=26	=26	=26	=26
+*ped	*	*	*	*
+8e- 8G 8BB-:L	.	8bb-' 8ee-X 8g:	.	pp
+!	!	!LO:TX:b:t=Poco ritenuto	!	!
+8e- 8G-X 8BB-:	.	(>8ccc 8ee- 8an:L	.	.
+8e- 8G- 8BB-:	.	8bbn 8ee- 8a:	.	.
+8e- 8G- 8BB-:	.	8ccc 8ee- 8a:	.	.
+*Xped	*	*	*	*
+8e- 8F 8BB-:	.	8dddn 8ee- 8a:	.	.
+8e- 8F 8BB-:J	.	8ccc 8ee- 8a:J)	.	.
+*ped	*	*	*	*
+=27	=27	=27	=27	=27
+8BBB-'	.	8fff' 8bb- 8dd:	.	.
+8d 8F 8BB-:L	.	8bb- 8ff 8a-X:L	.	<
+8c#X 8F 8BB-:	.	8bb- 8een 8a-:	.	.
+8d 8F 8BB-:	.	8bb-J 8ff 8a-:	.	[
+!	!	!LO:TX:a:i:t=P:problem:"3" na górze	!	!
+8e-X 8F 8BB-:	.	12bb-L 12gg 12a-:	.	>
+.	.	12bb- 12aa- 12a-:	.	.
+*Xped	*	*	*	*
+8f 8F 8BB-:J	.	.	.	.
+.	.	12bb- 12dd 12a-:J	.	]
+=28	=28	=28	=28	=28
+*ped	*	*	*	*
+8e- 8G 8BB-:L	.	8bb-' 8ee-X 8g:	.	p
+!	!	!LO:TX:b:t=Dolcissimo	!	!
+8e- 8G-X 8BB-:	.	(>8ccc 8ee- 8an:L	.	.
+8e- 8G- 8BB-:	.	8bbn 8ee- 8a:	.	.
+*Xped	*	*	*	*
+8e- 8G- 8BB-:	.	8ccc 8ee- 8a:	.	.
+8e- 8F 8BB-:	.	8ddd 8ee- 8a:	.	.
+8e- 8F 8BB-:J	.	8ccc 8ee- 8a:J)	.	.
+*ped	*	*	*	*
+!!LO:LB:g=original
+=29	=29	=29	=29	=29
+8BBB-'	.	8fff' 8bb- 8dd	.	.
+8d 8F 8BB-:L	.	(>8bb- 8ff 8a-:L	.	p
+8c#X 8F 8BB-:	.	8bb- 8een 8a-:	.	.
+8d 8F 8BB-:	.	8bb- 8ff 8a-:	.	.
+8e- 8F 8BB-:	.	8bb- 8gg 8a-:	.	<
+*Xped	*	*	*	*
+8d 8F 8BB-:J	.	8bb- 8ff 8a-:J)	.	.
+=30	=30	=30	=30	=30
+*ped	*	*	*	*
+8e- 8G-X 8BB-:L	.	8ccc-X' 8gg-X 8an:L	.	.
+8e- 8G- 8BB-:	.	(>8ccc- 8gg- 8a:	.	.
+8d 8G- 8BB-:	.	8ccc- 8ff 8a:	.	.
+8e- 8G- 8BB-:	.	8ccc- 8gg- 8a:	.	.
+8f 8G- 8BB-:	.	8ccc- 8aa-X 8an:	.	.
+*Xped	*	*	*	*
+8e- 8G- 8BB-:J	.	8ccc- 8gg- 8a:J)	.	.
+=31	=31	=31	=31	=31
+*ped	*	*	*	*
+8en 8Gn 8BB-:L	.	8cccn' 8ggn 8b-:L	.	.
+8e 8G 8BB-:	.	(>8ccc 8gg 8b-:	.	.
+8d#X 8G 8BB-:	.	8ccc 8ff#X 8b-:	.	.
+8e 8G 8BB-:	.	8ccc 8gg 8b-:	.	.
+8fn 8G 8BB-:	.	8ccc 8aan 8b-:	.	.
+*Xped	*	*	*	*
+8e 8G 8BB-:J	.	8ccc 8gg 8b-:J)	.	.
+*ped	*	*	*	*
+=32	=32	=32	=32	=32
+!	!	!LO:TX:a:i:t=P:Przy nucie 8ccc jest kasownik i bemol:problem	!	!
+!	!	!LO:TX:b:t=Ritenuto	!	!
+*Xped	*	*	*	*
+8e- 8An 8F 8BB-:L	.	8ccc' 8aan 8ff 8cc:	.	.
+*ped	*	*	*	*
+8d 8A-X 8F 8BB-:	.	(>8fff 8aa-X 8dd:L	.	.
+8d 8A- 8F 8BB-:	.	8eeen 8aa- 8cc#X:	.	.
+8d 8A- 8F 8BB-:	.	8fff 8aa- 8dd:	.	>
+8d 8A- 8F 8BB-:	.	8aaa- 8cccn 8dd:	.	.
+8d 8A- 8F 8BB-:J	.	8ggg 8bb- 8dd:J)	.	]
+!!LO:PB:g=original
+=33	=33	=33	=33	=33
+*ped	*	*	*	*
+8EE-'	.	8eee-' 8gg 8b-:L	.	.
+8g 8B- 8E-:L	.	(>8bb- 8gg 8b-:	.	.
+8g 8B- 8E-:	.	8aan 8gg 8b-:	.	.
+8g 8B- 8E-:	.	8bb- 8gg 8b-:	.	.
+.	.	8qddd/	.	.
+8g 8B- 8E-:	.	8ccc 8gg 8b-:	.	.
+8g 8B- 8E-:J	.	8bb- 8gg 8b-:J)	.	.
+*ped	*	*	*	*
+=34	=34	=34	=34	=34
+8a- 8B- 8D:L	.	8fff' 8aa- 8b-:L	.	.
+!	!	!LO:TX:a:i:t=P:Bemol przy 8aa-:problem	!	!
+8a- 8B- 8D:	.	8bb- 8aa- 8b-:	.	.
+8a- 8B- 8D:	.	8aan 8aa- 8b-:	.	.
+8a- 8B- 8D:	.	8bb- 8aa- 8b-:	.	.
+.	.	8qddd/	.	.
+8a- 8B- 8D:	.	8ccc 8aa- 8b-:	.	.
+8a- 8B- 8D:J	.	8bb- 8aa- 8b-:J	.	.
+=35	=35	=35	=35	=35
+8g 8B- 8E-:L	.	8ggg' 8bb- 8gg 8b-:L	.	.
+8a- 8d 8B- 8F:	.	(>8ddd 8bb- 8dd:	.	.
+8g 8e- 8B- 8G:	.	8eee- 8bb- 8ee-:) 8b-	.	.
+8Bn 8E- 8GG:	.	(>8ddd 8ee- 8bn:	.	.
+8c 8E- 8AA-:	.	8ccc 8ee- 8cc:	.	.
+8e- 8F 8AAn:J	.	8fff 8ff 8cc:J)	.	.
+!!LO:LB:g=original
+=36	=36	=36	=36	=36
+8e- 8G 8BB-:L	.	(>8eee- 8gg 8b-:L	.	.
+8e- 8An 8G-X 8BB-:	.	8eee- 8aan 8gg-X 8cc:	.	.
+8d 8B- 8F 8BB-:	.	8ddd 8bb- 8ff 8b-:	.	.
+8en 8B- 8Gn 8C:	.	8ddd-X 8ggn 8een 8b-:	.	.
+8f 8A-X 8C:	.	8ccc 8aa-X 8ff 8a-:	.	.
+8g 8c 8G 8C:J	.	8eeen 8bb- 8gg 8cc:J)	.	.
+=37	=37	=37	=37	=37
+8FF'	.	8fff 8aa- 8cc:L	.	.
+8a- 8c 8F:L	.	(>8ccc 8aa- 8cc:	.	.
+8a- 8c 8F:	.	8bbn 8aa- 8bn:	.	.
+8a- 8c 8F:	.	8ccc 8aa- 8cc:	.	.
+.	.	8qeee-/	.	.
+8a- 8c 8F:	.	8ddd-X 8aa- 8dd:	.	.
+8a- 8c 8F:J	.	8ccc 8aa- 8ccJ)	.	.
+=38	=38	=38	=38	=38
+8g 8c 8B- 8EnL	.	8ggg 8bb- 8gg 8cc:L	.	.
+!	!	!LO:TX:a:i:t=P:Bemol przy 8bb-:problem	!	!
+8g 8c 8B- 8E	.	(>8ccc 8bb- 8gg 8cc:	.	.
+8g 8c 8B- 8E	.	8bbn 8bb- 8gg 8bn:	.	.
+!	!	!LO:TX:a:i:t=P:Łuk kończy się na kresce taktowej :problem	!	!
+8g 8c 8B- 8E	.	8ccc 8bb- 8gg 8cc:	.	.
+.	.	8qeee-/	.	.
+8g 8c 8B- 8E	.	8ddd 8bb- 8gg 8dd:	.	.
+8g 8c 8B- 8EJ	.	8ccc 8bb- 8gg 8cc:J	.	.
+=39	=39	=39	=39	=39
+8a- 8c 8A- 8F:	.	8aaa- 8ccc 8aa- 8cc:L	.	.
+*clefG2	*	*	*	*
+8b- 8e- 8B- 8G:L	.	8ggg 8eee- 8bb- 8ee-:	.	.
+8cc 8e- 8A-:	.	8fff 8eee- 8ccc 8ff:	.	.
+8cc-X 8f 8A-:	.	8fff 8eee- 8ccc-X 8ee-:	.	.
+8b- 8f 8B-:	.	8fff 8bb- 8dd:	.	.
+8dd 8a- 8f 8B-:J	.	8ggg 8ddd 8ff:J)	.	.
+!!LO:LB:g=original
+=40	=40	=40	=40	=40
+8dd 8g 8en 8B-:L	.	8ggg 8ddd 8een:L	.	.
+8cc#X 8g 8e 8B-:	.	8ggg 8ccc#X 8ee:	.	.
+8cc# 8g 8e 8An:	.	8ggg 8ccc# 8ee:	.	.
+8dd-X 8g-X 8e-X 8A:	.	8ggg-X 8ddd-X 8ee-X:	.	.
+!	!	!LO:TX:a:i:t=P:Bemol pomiędzy nutą 8ggg a 8ccc:problem	!	!
+8dd- 8g- 8e- 8A:	.	8ggg- 8ddd- 8ee-:	.	.
+8ccn 8g- 8e- 8A-X:J	.	8ggg- 8cccn 8ee-:J	.	.
+=41	=41	=41	=41	=41
+8cc 8g 8e- 8A-:L	.	8ggg-X 8ccc 8ee-:L	.	.
+8cc 8f 8d 8A-:	.	8fff 8ccc 8dd:	.	.
+8cc 8f 8d 8A-:	.	8fff 8ccc 8dd:	.	.
+8bn 8f 8d 8Gn:	.	8fff 8bbn 8dd:	.	.
+8b 8f 8d 8G:	.	8fff 8bb 8dd:	.	.
+8b 8en 8c#X 8G:J	.	8eeen 8bb 8cc#X:J	.	.
+=42	=42	=42	=42	=42
+8bn 8en 8c#X 8G:L	.	8eeen 8bbn 8cc#X:L	.	.
+8a#X 8e 8c# 8F#X:	.	8eee 8aa#X 8cc#:	.	.
+8a# 8e 8c# 8F#:	.	8eee 8aa# 8cc#:	.	.
+8b-X 8e-X 8cn 8G-X:	.	8eee-X 8bb-X 8ccn:	.	.
+8b- 8e- 8c 8G-:	.	8eee- 8bb- 8cc:	.	.
+8an 8e- 8c 8Fn:J	.	8eee- 8aan 8cc:J	.	.
+*clefF4	*	*	*	*
+=43	=43	=43	=43	=43
+8an 8e- 8c 8F:L	.	(>8eee- 8aan 8cc:L	.	.
+8f 8c 8F:	.	8ccc 8ee- 8an:)	.	.
+8d 8A-X 8F 8BB-:	.	(>8ccc 8dd 8a-X:	.	.
+8d 8A- 8F 8BB-:	.	8bb- 8dd 8a-:	.	.
+8d 8A- 8F 8BB-:	.	8aa-X 8dd 8a-:	.	.
+8d 8A- 8F 8BB-:J	.	8ff 8dd 8a-:J)	.	.
+!!LO:LB:g=original
+=44	=44	=44	=44	=44
+*^	*	*	*	*
+*ped	*	*	*	*	*
+8EE-	[<2B-/	.	8ee- 8g	.	.
+8g 8E-L\	.	.	(>8eee- 8bb- 8dd-X:L	.	.
+8g 8d-X 8E-	.	.	8eee- 8aan 8dd-:	.	.
+8g 8d- 8E-	.	.	8eee- 8bb- 8dd-:	.	.
+8g 8d- 8E-	4B-]/	.	8eee- 8ccc 8dd-:	.	.
+8g 8d- 8E-J	.	.	8eee- 8gg 8dd-:J)	.	.
+*v	*v	*	*	*	*
+=45	=45	=45	=45	=45
+8a- 8c 8E-:L	.	8eee- 8aa- 8cc:L	.	.
+8a- 8c-X 8E-:	.	8fff 8aa- 8dd:	.	.
+8a- 8c- 8E-:	.	8eeen 8aa- 8dd:	.	.
+8a- 8c- 8E-:	.	8fff 8aa- 8dd:	.	.
+8a- 8B- 8E-:	.	8ggg 8aa- 8dd:	.	.
+*Xped	*	*	*	*
+8a- 8B- 8E-:J	.	8fff 8aa- 8dd:J	.	.
+=46	=46	=46	=46	=46
+!	!	!LO:TX:a:i:t=P:Przy nucie 8dd bemol dopisany ołówkiem:problem	!	!
+*^	*	*	*	*
+*	*	*	*8va	*	*
+*ped	*	*	*	*	*
+8EE-	[<2B-/	.	8bbb- 8eee- 8gg:	.	.
+*	*	*	*X8va	*	*
+!	!	!	!LO:TX:a:t=Loco	!	!
+8g 8E-L\	.	.	(>8eee- 8bb- 8dd-X:L	.	<
+8g 8d-X 8E-	.	.	8eee- 8aan 8dd-:	.	.
+8g 8d- 8E-	.	.	8eee- 8bb- 8dd-:	.	.
+8g 8d- 8E-	4B-]/	.	8eee- 8ccc 8dd-:	.	.
+8g 8d- 8B-] 8E-J	.	.	8eee- 8gg 8dd-:J)	.	[
+*v	*v	*	*	*	*
+!!LO:LB:g=original
+=47	=47	=47	=47	=47
+8a- 8c 8E-:L	.	8eee- 8aa- 8cc:	.	.
+8a- 8c-X 8E-:	.	8fff 8aa- 8dd:L	.	.
+8a- 8c- 8E-:	.	8eeen 8aa- 8dd:	.	.
+8a- 8c- 8E-:	.	8fff 8aa- 8dd:	.	.
+8a- 8B- 8E-:	.	8ggg 8aa- 8dd:	.	.
+8a- 8B- 8E-:J	.	8fff 8aa- 8dd:J	.	.
+=48	=48	=48	=48	=48
+*	*	*8va	*	*
+8g 8B- 8E-:	.	8bbb- 8eee- 8gg:L	.	.
+*clefG2	*	*	*	*
+8cc-X 8e- 8A-:L	.	8cccc-X 8eee- 8aa-:	.	f<
+8bn 8f 8d 8G:	.	8bbbn 8ddd 8gg:	.	.
+!	!	!LO:TX:a:i:t=P:kasowanik przy 8eee dopisany ołówkiem:problem	!	!
+8b-X 8en 8cn:	.	8ccccn 8eeen 8gg:	.	[
+8an 8e-X 8c 8F:	.	8cccc 8eee-X 8aan:	.	>
+8dd 8a-X 8f 8B-X:J	.	8bbb-X 8ddd 8bb-X:J	.	]]
+=49	=49	=49	=49	=49
+8ee-' 8g 8e-:	.	8ggg' 8eee- 8gg:	.	<
+8cc-X 8e- 8A-:L	.	8cccc-X 8eee- 8aa-:L	.	.
+8bn 8f 8d 8G:	.	8bbbn 8ddd 8gg:	.	[[
+8b-X 8en 8cn:	.	8ccccn 8eeen 8gg:	.	>
+8an 8e-X 8c 8F:	.	8cccc 8eee-X 8aan:	.	.
+8dd 8a-X 8f 8B-X:J	.	8bbb-X 8ddd 8bb-X:J	.	]
+!!LO:LB:g=original
+=50	=50	=50	=50	=50
+*	*	*^	*	*
+8ee-' 8g 8e-:\	.	2ryy	2ggg^^ 2eee- 2gg	.	fz
+8ee- 8g 8B-:L	.	.	.	.	p<
+8ee- 8f# 8An:	.	.	.	.	.
+8ee- 8g 8B-:	.	.	.	.	.
+8ee- 8a- 8c-:	.	(>8.ggg^<L	(<4aa-	.	.
+8dd 8a- 8B-:J	.	.	.	.	.
+.	.	16fffJk	.	.	[
+=51	=51	=51	=51	=51	=51
+!	!	!	!LO:TX:b:t=Smorz	!	!
+8ee- 8g 8e-:	.	4eee-)\	4gg)	.	.
+*clefF4	*	*	*	*	*
+8e- 8G 8BB-:L	.	.	.	.	<
+*	*	*X8va	*	*	*
+!	!	!	!LO:TX:a:t=Loco	!	!
+8e- 8F#X 8AAn:	.	4ryy	4r	.	.
+8e- 8G 8BB-:	.	.	.	.	[[
+8e- 8A- 8C-X:	.	[<8gg^L	4a-	.	.
+8d 8A- 8BB-:J	.	24ggL]	.	.	.
+!	!	!	!LO:TX:a:i:t=P:problem:"3" na dole	!	!
+.	.	24ff	.	.	.
+*ped	*	*	*	*	*
+.	.	.	.	.	.
+.	.	24ee-JJ	.	.	.
+*	*	*v	*v	*	*
+=52	=52	=52	=52	=52
+8EE-	.	8ee-' 8g	.	]
+8B- 8E- 8GG:	.	8gg 8b- 8e-:	.	f
+8e- 8G 8BB-:	.	8bb- 8ee- 8g:	.	.
+8g 8B- 8E-:	.	8eee- 8gg 8b-:	.	.
+8b- 8e- 8G:	.	8ggg 8bb- 8ee-:	.	.
+8e- 8G 8BB-:	.	8bb- 8ee- 8g:	.	.
+=53	=53	=53	=53	=53
+4g 4B- 4E-:	.	4eee- 4gg 4b-:	.	.
+4r	.	4r	.	.
+*ped	*	*	*	*
+.	.	.	.	.
+*	*	*8va	*	*
+8qqa- 8qqf 8qqB-/	.	8qqbb- 8qqdd/	.	fz
+4BB-	.	4bbb-	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+=54	=54	=54	=54	=54
+8qqg 8qqB- 8qqE-/	.	8qqeee- 8qqgg/	.	.
+2.EE-;	.	2.eeee-;	.	.
+*	*	*X8va	*	*
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "Cres", fontstyle="italic"
+!!!RDF**dynam: > = "Dim", fontstyle="italic"
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2018-10-08
+!!!EED: Tomasz Sierawski
+!!!EST: revision finished 2018-10-17
+!!!rism-genre: Etude
+!!!rism-key: C minor
+!!!rism-opus: op.  10, no. 12
+!!!rism-title: Etude in C minor op.  10, no. 12
+!!!rism-permalink: https://opac.rism.info/search?id=300605135&View=rism
+!!!rism-773a-OPR: 300605123
+!!!rism-parent-permalink: https://opac.rism.info/search?id=300605123&View=rism

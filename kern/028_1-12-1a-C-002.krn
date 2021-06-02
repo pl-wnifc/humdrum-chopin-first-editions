@@ -1,0 +1,244 @@
+!!!!SEGMENT: 028_1-12-1a-C-002.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Preludium No. 2
+!!!OPS: Op. 28
+!!!PTL: 24 Préludes pour le Piano
+!!!PPR: Catelin
+!!!PPP: Paris
+!!!NIFC-rismID: 1001065066
+!!!NIFC-shelfmark: PL-Wbfc 6583/n
+!!!OMD: Lento.
+!!!system-decoration: {(s1,s2)}
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*	*I"II.	*
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*a:	*a:	*
+*M2/2	*M2/2	*
+*met(c|)	*met(c|)	*
+=1	=1	=1
+!	!	!LO:DY:b=2:rj
+(<8BBL 8EE	1r	p
+8G 8AA#X	.	.
+8BB 8EE	.	.
+8GJ 8GG	.	.
+8BBL 8EE	.	.
+8G 8AA#	.	.
+8BB 8EE	.	.
+8GJ 8GG	.	.
+=2	=2	=2
+8BBL 8EE	1r	.
+8G 8AA#X	.	.
+8BB 8EE	.	.
+8GJ 8GG	.	.
+8BBL 8EE	.	.
+8G 8AA#	.	.
+8BB 8EE	.	.
+8GJ 8GG	.	.
+=3	=3	=3
+8BBL 8EE	(<2..e	.
+8G 8AA#X	.	.
+8BB 8EE	.	.
+8GJ 8GG	.	.
+8BBL 8EE	.	.
+8G 8AA#	.	.
+8BB 8EE	.	.
+8GJ 8GG	8B	.
+=4	=4	=4
+8BBL 8DD	1d)	.
+8G 8AA#X	.	.
+8BB 8DD	.	.
+8GJ 8GG	.	.
+8BBL 8DD	.	.
+8G 8AA#	.	.
+8BB 8DD	.	.
+8GJ 8GG	.	.
+!!LO:LB:g=original
+=5	=5	=5
+!LO:TX:b:t=P:w źródle po łamaniu systemu łuk zmienia położenie i biegnie od góry:problem	!	!
+8AAL 8DD\	(>4.d	.
+8Gn 8GG#X	.	.
+8AA 8DD	.	.
+.	8qqf#X/	.
+8GJ 8GGn	8e	.
+8AAL 8DD\	4.d	.
+8F#X 8GG#X	.	.
+8AA 8DD	.	.
+8F#J 8FF#X	8A	.
+=6	=6	=6
+8GGL 8GGG\	4B	.
+8G 8E	.	.
+8D 8GG	8.BL	.
+8GJ 8E-X	.	.
+.	16BJk	.
+8DL 8GG	[<2B	.
+8G 8En	.	.
+8D 8GG	.	.
+8GJ 8E-X	.	.
+=7	=7	=7
+8DL 8GG	2B])	.
+8G 8E	.	.
+8D 8GG	.	.
+8GJ 8E-X	.	.
+8DL 8GG	2r	.
+8G 8En	.	.
+8D 8GG	.	.
+8GJ 8E)	.	.
+=8	=8	=8
+(>8F#XL 8BB	2r	.
+8d 8E#X	.	.
+8F# 8BB	.	.
+8dJ 8D	.	.
+8F#L 8BB	(>4.b/	.
+8d 8E#	.	.
+8F# 8BB	.	.
+8dJ 8D	8f#X	.
+!!LO:LB:g=original
+=9	=9	=9
+8F#XL 8AA	1a)	.
+8d 8E#X	.	.
+8F# 8AA	.	.
+8dJ 8D	.	.
+8F#L 8AA	.	.
+8d 8E#	.	.
+8F# 8AA	.	.
+8dJ 8D	.	.
+=10	=10	=10
+8EL 8AA	(>4.a	.
+8dn 8D#X	.	.
+8E 8AA	.	.
+.	8qqcc#X/	.
+8dJ 8Dn	8b/	.
+8EL 8AA	4.a	.
+8c#X 8D#X	.	.
+8E 8AA	.	.
+8c#J 8C#X	8e	.
+=11	=11	=11
+!	!	!LO:HP:a
+8D#XL 8AA	4f#X	<
+8c#X 8C##X	.	.
+8D# 8AA	8.f#L	.
+8c#J 8C#X	.	.
+.	16f#Jk	.
+8D#L 8AA	[<2f#	.
+8c#X 8C##X	.	[
+8D# 8AA	.	.
+8c#J 8C#X	.	.
+=12	=12	=12
+8D#XL 8AA	2f#X])	.
+8c#X 8C##X	.	.
+8D# 8AA	.	.
+8c#J 8C#X	.	.
+8D#L 8AA	2r	.
+8cn 8C##X	.	.
+8D# 8AA	.	.
+8cJ 8Cn	.	.
+!!LO:LB:g=original
+=13	=13	=13
+*	*	*^
+!	!LO:TX:b:Bi:t=dim&colon;_:problem:dynamics with extention lines	!	!
+!	!	!LO:HP:b:Bi:t=dim&colon;	!
+8D#XL 8FF#X\	1r	>	.
+8A 8C##X	.	.	.
+8D# 8FF#	.	.	.
+8AJ 8Cn	.	.	.
+8D#L 8FF#\	.	.	.
+8A 8C##X	.	.	.
+8D# 8FF#	.	.	.
+8AJ 8Cn	.	.	.
+=14	=14	=14	=14
+8D#XL 8FF#X\	4r	.	.
+8A 8C##X	.	.	.
+8D# 8FF#	(>[<2.a	.	.
+8AJ 8Cn	.	.	.
+8D#L 8FFn\	.	.	.
+8A 8C##X	.	.	.
+8D# 8FF	.	.	.
+8AJ 8BB	.	.	.
+=15	=15	=15	=15
+8CL 8EE\	2..a]	.	.
+8A 8BB	.	.	.
+8C 8EE	.	.	.
+8AJ 8AA	.	.	.
+8CL 8EE\	.	.	.
+8A 8BB	.	.	.
+8C 8EE	.	.	.
+8AJ 8AA	8e	.	.
+=16	=16	=16	=16
+8CL 8EE\	1f	.	.
+8A 8BB	.	.	<
+8C 8EE	.	.	.
+8AJ 8AA	.	.	.
+8CL 8EE\	.	.	.
+8A 8BB	.	.	.
+8C 8EE	.	.	.
+8AJ 8AA)	.	.	[
+=17	=17	=17	=17
+1r	4.f	.	.
+.	8qqa/	.	.
+.	8g	.	.
+.	4.f	.	.
+.	8c	.	.
+.	.	]	.
+*	*	*v	*v
+!!LO:LB:g=original
+=18	=18	=18
+!	!LO:TX:b:Bi:t=slentando.	!
+2r	4d	.
+.	8.dL	.
+.	16dJk	.
+*ped	*	*
+(<8CL 8EE	[<2d	.
+8F 8BB	.	.
+8C 8EE	.	.
+8FJ 8AA	.	.
+=19	=19	=19
+8CL 8EE	2d])	.
+8F 8BB	.	.
+8C 8EE	.	.
+8FJ) 8AA	.	.
+*Xped	*	*
+2r	2r	.
+=20	=20	=20
+1r	(>4.d	.
+.	8qqf/	.
+.	8e	.
+.	4.d	.
+.	N[<8A	.
+=21	=21	=21
+2A>N]	4B	.
+.	8.BL	.
+.	16BJk	.
+!	!LO:TX:b:B:i:t=sostenuto	!
+4EE	4B< 4G#X< 4E<	.
+4BB 4BBB	4B< 4F#X< 4D#X<	.
+=22	=22	=22
+*	*^	*
+2BB 2EE	2B< 2G#X< 2E<	2ryy	.
+2EE 2EEE	4.B	2G#< 2E< 2D<	.
+.	8c	.	.
+*	*v	*v	*
+=23	=23	=23
+1EE: 1AAA::	1A<::;> 1E<: 1C<:)	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: > = "dim:", fontstyle = "bold-italic"
+!!!ENC: Marta Lawrence
+!!!END: 2019-04-30
+!!!EED: Leszek Kubiak
+!!!EST: 2019-05-13
+!!!EED2: Wojciech Jakubiak-Danek
+!!!EST2: 2020-05-17
+!!!rism-genre: Prelude
+!!!rism-key: A minor
+!!!rism-opus: op. 28, no. 2
+!!!rism-title: Prelude in A minor op. 28, no. 2
+!!!rism-permalink: https://opac.rism.info/search?id=1001065066&View=rism
+!!!rism-773a-OPR: 1001065063
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001065063&View=rism

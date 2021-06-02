@@ -1,0 +1,2318 @@
+!!!!SEGMENT: 021-1a-BH-002.krn
+!!!COM: Chopin, Frederic
+!!!OTL: Koncert f-moll cz. 2
+!!!OPS: Op. 21
+!!!PTL: SECOND CONCERTO | Pour le Piano | Avec Accompagnen! de l'Orchestre
+!!!PPR: Breitkopf & Härtel
+!!!PPP: Leipzig
+!!!NIFC-rismID: 1001005791
+!!!NIFC-shelfmark: PL-Wbfc 3056/n
+!!!OMV: 2
+!!!OMD: LARGHETTO.
+!!!OMD: [quarter]= 56.
+!!!system-decoration: {(s1,s2)}
+**kern	**fing	**kern	**fing	**dynam
+*part1	*part1	*part1	*part1	*part1
+*staff2	*	*staff1	*	*
+*	*	*I"LARGHETTO.	*	*
+*clefF4	*	*clefG2	*	*
+*k[b-e-a-d-]	*	*k[b-e-a-d-]	*	*
+*f:	*	*f:	*	*
+*M4/4	*	*M4/4	*	*
+*met(c)	*	*met(c)	*	*
+*MM56	*	*MM56	*	*
+=1	=1	=1	=1	=1
+*cue	*	*cue	*	*
+2A- (<2AA-	.	(<2a-	.	pp
+4F 4FF	.	4f	.	.
+8E-L 8EE-	.	8e-L	.	.
+8FJ 8FF	.	8fJ	.	.
+=2	=2	=2	=2	=2
+*^	*	*	*	*
+*	*cue	*	*	*	*
+4Dn 4DDn/)	4ryy	.	4dn)	.	.
+*cue	*	*	*cue	*	*
+!	!	!	!LO:TX:t=P:"Ob" przy 4ff:problem	!	!
+!	!	!	!LO:TX:a:t=Ob.	!	!
+!	!	!	!LO:TX:t=P:"Fl" przy 4bb-:problem	!	!
+!	!	!	!LO:TX:a:t=Fl.	!	!
+!LO:TX:a:t=Fag.	!	!	!	!	!
+!LO:TX:t=P:"Clar" przy 4b- 4a-:problem	!	!	!	!	!
+!LO:TX:a:t=Clar.	!	!	!	!	!
+4b-> 4a-> 4dn>\	4ryy	.	(>4bb-/ 4ff	.	.
+4bn> 4a-> 4dny>\	4ryy	.	4bbn/ 4ff	.	.
+4d-X>\	8a->L\	.	4bb- 4ff 4b-/	.	.
+.	8g>J	.	.	.	.
+*v	*v	*	*	*	*
+=3	=3	=3	=3	=3
+4g> 4c>	.	4ccc 4een 4cc)\	.	.
+!	!	!LO:TX:a:t=Viol.	!	!
+4C 4CC	.	4c	.	.
+4BB- 4BBB-	.	(>4B-	.	.
+8CL 8CC	.	8cL	.	.
+8D-J 8DD-	.	8d-J	.	.
+=4	=4	=4	=4	=4
+4E- 4EE-	.	4e-	.	.
+!	!	!LO:TX:t=P:"Ob" przy 8gg 8dd:problem	!	!
+!	!	!LO:TX:a:t=Ob.	!	!
+!	!	!LO:TX:t=P:"Fl" nad "Ob":problem 	!	!
+!	!	!LO:TX:a:t=Fl.	!	!
+!LO:TX:a:t=Fl.	!	!	!	!
+!LO:TX:t=P:"Clar" przy 8b-:problem	!	!	!	!
+!LO:TX:a:t=Clar.	!	!	!	!
+8b->L 8e->\	.	(>8ggL/ 8dd-)	.	.
+8cc> 8a->J 8f>	.	8aa-J 8cc	.	.
+4dd-> 4B->	.	4bb- 4ff 4dd-	.	.
+4g> 4e->	.	8cccL 8ee-	.	.
+.	.	8bb-J 8dd-)	.	.
+=5	=5	=5	=5	=5
+4a-> 4A->	.	4aa- 4cc	.	.
+!LO:TX:a:t=Viol.	!	!	!	!
+4r	.	4r	.	.
+4E- 4AA-	.	(>4a-'> 4c	.	.
+4E- 4AA-	.	4a-'> 4c)	.	.
+!!LO:LB:g=original
+=6	=6	=6	=6	=6
+*Xcue	*	*Xcue	*	*
+*ped	*	*	*	*
+!LO:TUP:a	!	!	!	!
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!
+N(>12AAA-L<	.	6ryy	.	.
+12AA-J	.	.	.	.
+12rGG	.	(<12E-<LN)	.	.
+!	!	!LO:TUP:b	!	!
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+!	!	!LO:TX:t=P:wyświetla się "6" zamiast "3" w tuplecie:problem	!	!
+4rGG	.	12c	.	.
+.	.	12A-<	.	.
+.	.	12cJ)	.	.
+*Xped	*	*	*	*
+!	!	!LO:N:vis=8..	!	!
+2r	.	(<8.e-;LLL	.	.
+.	.	32dn	.	<
+.	.	32e-JJJ	.	.
+.	.	32fLLL	.	.
+.	.	32e-	.	.
+.	.	32dn	.	.
+.	.	32e-	.	.
+.	.	32f	.	.
+.	.	32g	.	.
+.	.	32a-	.	.
+.	.	32b-JJJ)	.	[
+=7	=7	=7	=7	=7
+!	!	!LO:TX:b:t=molto con delicatezza.	!	!
+.	.	16qqcc/L	.	.
+.	.	16qqee-/	.	.
+.	.	16qqaa-/J	.	.
+*ped	*	*	*	*
+(<8AA-L	.	2eee-	.	<
+8E-	.	.	.	.
+8e- 8c 8A-	.	.	.	.
+8E-J	.	.	.	.
+.	.	16qqddd/LL	.	.
+.	.	16qqeee-/JJ	.	.
+!	!	!LO:N:vis=4	!	!
+8a-L 8c 8A-	.	(>4.eee-T	.	.
+8E-	.	.	.	[
+8e- 8c 8A-	.	.	.	.
+.	.	16qqdddny/LL	.	.
+.	.	16qqeee-/JJ	.	.
+!	!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+8E-J)	.	32aaa-'>^<LLL	.	.
+.	.	32fff'>	.	.
+.	.	32eee-'>	.	.
+*Xped	*	*	*	*
+.	.	32ccc'>JJJ	.	.
+=8	=8	=8	=8	=8
+*	*	*ped	*	*
+(>8FF'>L\	.	4bb-)	.	.
+8C	.	.	.	.
+!	!	!LO:N:vis=4..	!	!
+8c 8A- 8F	.	4aa-^^>	.	.
+8CJ	.	.	.	.
+8fL 8A- 8F	.	(>16aa-	.	.
+.	.	16aa-LL	.	.
+8C	.	16bb-	.	.
+.	.	16aa-JJ)	.	.
+8c 8A- 8F	.	(>16gg'>LL	.	<
+.	.	16aa-'>	.	.
+8CJ)	.	16bb-'>	.	.
+*	*	*Xped	*	*
+.	.	16ccc'>JJ)	.	[
+!!LO:LB:g=original
+=9	=9	=9	=9	=9
+*	*	*^	*	*
+*	*	*ped	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!	!
+(</8BBB-L	.	4ddd-: 4ff: 4dd-:	4ryy	.	.
+8F\	.	.	.	.	.
+8f\ 8d-\ 8B-\	.	8.ddd-L	4ff 4b-	.	.
+8F\J)	.	.	.	.	.
+*	*	*Xped	*	*	*
+.	.	16ddd-Jk	.	.	.
+.	.	16qqa/LL	.	.	.
+.	.	16qqee-/	.	.	.
+.	.	16qqgg-/JJ	.	.	.
+*	*	*	*tuplet	*	*
+*	*	*ped	*	*	*
+!	!	!LO:TUP:a	!	!	!
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!
+(>8BB-L	.	(>\20cccLL	4ryy	.	.
+.	.	20ddd-	.	.	.
+.	.	20ccc	.	.	.
+8G-X	.	.	.	.	.
+.	.	20bbn	.	.	.
+.	.	20cccJJ)	.	.	.
+!	!	!LO:TUP:a	!	!	!
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!
+8g-X 8e- 8An	.	(>\12eee-L	4ryy	.	.
+.	.	12ddd-	.	.	.
+8G-J)	.	.	.	.	.
+*	*	*Xped	*	*	*
+.	.	12cccJ)	.	.	.
+*	*	*v	*v	*	*
+=10	=10	=10	=10	=10
+*	*	*ped	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!
+(>/8BBB-L	.	(>4.ccc	.	>
+8F\	.	.	.	]
+8f\ 8d-\ 8B-\	.	.	.	.
+*	*	*Xped	*	*
+8F\J)	.	8bb-	.	.
+.	.	16qqgg/LL	.	.
+.	.	16qqaa-/JJ	.	.
+*	*	*ped	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!
+(</8FF-XL	.	4.aa-T	.	.
+8F-y\	.	.	.	.
+8a-\ 8d-\ 8B-\	.	.	.	.
+.	.	16qqgg/LL	.	.
+.	.	16qqaa-/JJ	.	.
+8F-\J)	.	16.cccLL	.	.
+*	*	*Xped	*	*
+.	.	32bb-JJ)	.	.
+=11	=11	=11	=11	=11
+*	*	*ped	*	*
+!LO:TX:t=P:mixed beam:problem	!LO:TX:t=P:przednutki powodują złe rozmieszczenie zdjęcia pedału:problem	!	!	!
+(>/8EE-'>L	.	(>8.aa-L	.	.
+8E-\	.	.	.	.
+.	.	16ggJ	.	.
+8g\ 8d-\ 8B-\	.	4ggt	.	.
+*	*	*Xped	*	*
+8E-\J)	.	.	.	.
+*	*	*ped	*	*
+.	.	8qqff/L	.	.
+.	.	8qqgg/	.	.
+.	.	8qqbb-/	.	.
+.	.	8qqaa-/J	.	.
+!LO:TX:t=P:mixed beam:problem	!	!	!	!LO:HP:a=1
+(>/8EE-'>L	.	8.ggL	.	>
+8E-\	.	.	.	.
+.	.	16ffJ	.	.
+8f\ 8c\ 8A-\	.	4ffT	.	.
+8E-\J)	.	.	.	.
+.	.	8qqeen/L	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+.	.	8qqff/	.	.
+.	.	8qqaa-/	.	.
+.	.	8qqgg/J)	.	.
+!!LO:LB:g=original
+=12	=12	=12	=12	=12
+*^	*	*	*	*
+*	*Xcue	*	*	*	*
+*ped	*	*	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!	!
+4ryy	(>/8EE-'>L	.	(>8.ffL	.	.
+.	8G\	.	.	.	.
+.	.	.	16ee-XJk	.	.
+4ryy	8e-\ 8B-\	.	4ee-T	.	.
+*Xped	*	*	*	*	*
+.	8G\J)	.	.	.	.
+.	.	.	8qqddn/L	.	.
+.	.	.	8qqee-/	.	.
+.	.	.	8qqgg/	.	.
+.	(<8qFF/	.	8qqff/J)	.	.
+*	*	*	*Xtuplet	*	*
+*ped	*	*	*	*	*
+*Xtuplet	*	*	*Xtuplet	*	*
+4F	(>8FL\)	.	(>24ee-LL	.	.
+.	.	.	24dd-X	.	.
+.	.	.	24ee-	.	.
+*Xped	*	*	*	*	*
+.	8d-J 8A-	.	24dd-	.	.
+.	.	.	24cc	.	.
+.	.	.	24dd-JJ	.	.
+*ped	*	*	*	*	*
+*	*	*	*Xtuplet	*	*
+4ryy	8GGL	.	24ccLL	.	.
+.	.	.	24dd-	.	.
+!	!	!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+.	.	.	[>24ff^<	.	.
+*Xped	*	*	*	*	*
+.	8e-J 8B- 8E-)	.	24ff]	.	.
+.	.	.	24ee-	.	.
+.	.	.	24dd-JJ)	.	.
+*v	*v	*	*	*	*
+=13	=13	=13	=13	=13
+*	*	*ped	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!
+(>8AAA-/L	.	(>4cc	.	.
+8E-\	.	.	.	.
+8A-\	.	8.cc^<L	.	.
+*	*	*Xped	*	*
+8cJ\)	.	.	.	.
+.	.	16ccJ)	.	.
+*	*	*ped	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!
+8DD-/L	.	(>8.ccL	.	.
+8d- 8B- 8F\J	.	.	.	.
+!	!	!LO:TX:a:t=dolciss	!	!
+.	.	16fJ	.	.
+*clefG2	*	*	*	*
+*	*	*Xtuplet	*	*
+8f 8d- 8B-L	.	24b-LL	.	.
+.	.	24dd-	.	.
+.	.	24ff	.	.
+8b-J 8f 8d-	.	24bb-	.	.
+*	*	*Xped	*	*
+.	.	48gggK)	.	.
+.	.	48raa	.	.
+.	.	(>24fffJJ	.	.
+*clefF4	*	*	*	*
+=14	=14	=14	=14	=14
+*	*	*ped	*	*
+*coll8ba	*	*	*	*
+(>8EE- 8EEE-	.	(>2bb-)	.	.
+*Xcoll8ba	*	*	*	*
+*clefG2	*	*	*	*
+!	!	!	!	!LO:HP:b=2
+8e-L 8B- 8G	.	.	.	<
+8g 8e- 8B-	.	.	.	.
+8b-J 8g 8e-	.	.	.	[
+!	!	!	!	!LO:HP:b=2
+.	.	8qqaan/L	.	>
+.	.	8qqbb-	.	.
+.	.	8qqddd-	.	.
+.	.	8qqccc/J	.	.
+8ee-L 8b- 8g	.	4.bb-)	.	.
+8b- 8g 8e-	.	.	.	.
+8g 8e- 8B-	.	.	.	.
+*	*	*Xped	*	*
+8e-J 8d- 8G)	.	(>8bbn 8bn	.	]
+!LO:CL:ed	!	!	!	!
+*clefF4	*	*	*	*
+!!LO:PB:g=original
+=15	=15	=15	=15	=15
+*^	*	*	*	*
+*	*	*	*ped	*	*
+!	!LO:TX:t=P:mixed beam:problem	!	!	!	!
+2ryy	8AAA-L/	.	4ccc 4cc	.	.
+.	8E-\	.	.	.	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!	!	!
+.	8e- 8c (>8A-\	.	8.ddd-L 8.dd-	.	.
+*	*	*	*Xped	*	*
+.	8E-\J	.	.	.	.
+.	.	.	16cccJk 16cc	.	.
+2e- 2d-	(>8A-L)	.	(>4bb- 4b-)	.	.
+!	!LO:TX:b:t=legato.	!	!	!	!
+.	8G	.	.	.	.
+.	8F	.	4eee- 4ee-	.	.
+.	8GJ)	.	.	.	.
+=16	=16	=16	=16	=16	=16
+*	*^	*	*	*	*
+4ryy	8e-L 8c 8A-	4ryy	.	4aa- 4a-	.	.
+.	8E-	.	.	.	.	.
+2e- 2d-	8B-	8.B-\L	.	8.ggL 8.g	.	.
+.	8E-J	.	.	.	.	.
+!	!	!LO:N:vis=8	!	!	!	!
+.	.	16A-\J	.	16ffJ 16f	.	.
+.	8B-L	4ryy	.	2gg 2g)	.	.
+.	8E-	.	.	.	.	.
+4ryy	8e- 8d- 8B-	4ryy	.	.	.	.
+.	8E-J	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=17	=17	=17	=17	=17	=17
+*	*	*	*ped	*	*
+4ryy	(<8AA-'>L	.	(>4aa- 4a-	.	.
+.	8E-	.	.	.	.
+4ryy	8e- 8c 8A-	.	8.ggL 8.g	.	.
+*	*	*	*Xped	*	*
+.	8E-J)	.	.	.	.
+.	.	.	16ffJ 16f	.	.
+*	*	*	*ped	*	*
+8ryy	8EE-'>L\	.	4gg 4g)	.	.
+[<4.E-	8E-	.	.	.	.
+.	.	.	(>8qcc/	.	.
+.	8e-	.	(>8.cccL) 8.cc	.	.
+.	8d-J	.	.	.	.
+*	*	*	*Xped	*	*
+.	.	.	16bb-Jk 16b-	.	.
+=18	=18	=18	=18	=18	=18
+*	*^	*	*	*	*
+8cL	8ryy	1E-]	.	4aa- 4a-	.	.
+8e-	4.e-	.	.	.	.	.
+8B-	.	.	.	8gg'>L 8g	.	.
+8A-J	.	.	.	8ff'>J 8f	.	.
+8B-L	8ryy	.	.	4gg'> 4g)	.	.
+8e-	4.e-	.	.	.	.	.
+8A-	.	.	.	4r	.	.
+8GJ	.	.	.	.	.	.
+*	*v	*v	*	*	*	*
+*v	*v	*	*	*	*
+=19	=19	=19	=19	=19
+*	*	*^	*	*
+*	*	*ped	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!	!
+8DD-/L	.	(>4ff:	2a-: 2f:	.	.
+8A-\	.	.	.	.	.
+8F\	.	8ee-L	.	.	.
+8d-\J	.	8dd-J	.	.	.
+*	*	*Xped	*	*	*
+.	.	.	.	.	.
+*	*	*ped	*	*	*
+!LO:N:vis=2	!	!	!	!	!
+8AA-L	.	4ee-: 4dd-: 4a-: 4e-:)	4ryy	.	.
+8A-	.	.	.	.	.
+*	*	*Xped	*	*	*
+8E-	.	(>4aa-:^> 4ee-: 4cc: 4a-: 4e-:\	4ryy	.	.
+*	*	*ped	*	*	*
+8cJ	.	.	.	.	.
+*	*	*Xped	*	*	*
+.	.	.	.	.	.
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=20	=20	=20	=20	=20
+*^	*	*	*	*
+*	*	*	*^	*	*
+*ped	*	*	*	*	*	*
+4F	8FFL	1	4ee-: 4a-: 4e-:	4ryy	.	<
+*Xped	*	*	*	*	*	*
+.	8A-J	2	.	.	.	.
+*ped	*	*	*	*	*	*
+4G	8GGL	.	4dd-T: 4b-:/	4e-:	.	.
+*Xped	*	*	*	*	*	*
+.	8B-J	.	.	.	.	.
+.	.	.	16qqcc/LL	.	.	.
+.	.	.	16qqee-/	.	.	.
+.	.	.	16qqdd-/	.	.	.
+.	.	.	16qqcc/JJ	.	.	[
+*ped	*	*	*	*	*	*
+4A-	8AA-L	.	8cc 8a- 8e-	2ryy	.	.
+*Xped	*	*	*	*	*	*
+.	8cJ	.	8r	.	.	.
+*ped	*	*	*	*	*	*
+4An	8AAnL	.	4ff#X^< 4ee- 4an 4f#X	.	.	.
+*Xped	*	*	*	*	*	*
+.	8e-J	.	.	.	.	.
+*	*	*	*v	*v	*	*
+*v	*v	*	*	*	*
+=21	=21	=21	=21	=21
+*ped	*	*	*	*
+8BB-'>L	.	8gg'> 8ee- 8b- 8g)	.	.
+*	*	*Xtuplet	*	*
+(>8B-	.	24r	.	.
+.	.	(>24gggLL 24eee-	.	.
+.	.	24fffJJ 24dddn)	.	.
+8e- 8G	.	(>24bb-LL	.	.
+.	.	24eee- 24ccc	.	.
+.	.	24dddJJ 24bb-)	.	.
+*Xped	*	*	*	*
+*	*	*Xtuplet	*	*
+8B-J)	.	(>24ggLL	.	.
+.	.	24ccc 24aa-	.	.
+.	.	24bb-JJ 24gg)	.	.
+*ped	*	*	*	*
+*	*	*Xtuplet	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!
+8BBB-/L	.	(>24ee-LL	.	.
+.	.	24aa- 24ff	.	.
+.	.	24ggJJ 24ee-)	.	.
+(>8B-\	.	(>24ccLL	.	.
+.	.	24ff 24ddn	.	.
+.	.	24ee-JJ 24cc)	.	.
+8f\	.	(>24a-LL	.	.
+.	.	24dd 24b-	.	<
+.	.	24ccJJ 24a-	.	.
+*Xped	*	*	*	*
+8B-\J)	.	24b-'LL 24g\	.	.
+.	.	24cc' 24an 24f#X	.	.
+.	.	24dd'JJ 24a-X 24fn	.	[[
+=22	=22	=22	=22	=22
+*ped	*	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!
+8EE-/L	.	[>4ee- 4g 4e-)	.	.
+*Xped	*	*	*	*
+*	*	*Xtuplet	*	*
+8E-\	.	.	.	.
+*ped	*	*	*	*
+8f-X^<\ 8c-X\ 8A-\	.	(>24ee-LL]	.	<
+.	.	24ff-X^>	.	.
+.	.	24aa-JJ	.	.
+*Xped	*	*	*	*
+*	*	*Xtuplet	*	*
+8E-\J	.	24ccc-XLL	.	.
+.	.	24fff-	.	.
+.	.	24eee-JJ	.	.
+*ped	*	*	*	*
+*	*	*Xtuplet	*	*
+8fnL^< 8c- 8A-	.	24dddnLL	.	.
+*	*	*8va	*	*
+.	.	24ffffn	.	.
+.	.	48r	.	.
+.	.	48ddddnyJJ	.	.
+*	*	*Xtuplet	*	*
+8E-J	.	24cccc-XLL	.	.
+.	.	24aaa-	.	.
+.	.	24fffnyJJ)	.	[
+*clefG2	*	*	*	*
+*	*	*X8va	*	*
+*	*	*Xtuplet	*	*
+8a-L 8dn 8c-X	.	(>24dddnLL	.	>
+.	.	24ccc-	.	.
+.	.	24aa-JJ	.	.
+*clefF4	*	*	*	*
+*	*	*Xtuplet	*	*
+8E-J	.	24ffnyLL	.	.
+.	.	24ddny	.	.
+*Xped	*	*	*	*
+.	.	24ggJJ)	.	]
+!LO:CL:ed	!	!	!	!
+*clefG2	*	*	*	*
+!!LO:LB:g=original
+=23	=23	=23	=23	=23
+*ped	*	*	*	*
+*	*	*8va	*	*
+*	*	*Xtuplet	*	*
+!	!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+8gL 8e- (<8B-	.	(>24ff^<LL\	.	.
+.	.	24ee-	.	.
+.	.	24gg	.	.
+*Xped	*	*	*	*
+*clefF4	*	*	*	*
+8E-J)	.	24bb-	.	.
+.	.	24eee-	.	.
+.	.	24gggJJ)	.	.
+*clefG2	*	*	*	*
+*ped	*	*	*	*
+!	!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+8anL 8e- (<8c	.	(>24gg-X^<LL	.	.
+.	.	24ff\	.	.
+.	.	24aan)	.	<
+*Xped	*	*	*	*
+*clefF4	*	*	*	*
+8E-J)	.	(>24ccc	.	.
+.	.	24fff	.	.
+.	.	24aaanJJ)	.	.
+*clefG2	*	*	*	*
+*ped	*	*	*	*
+!	!	!LO:TUP:a/b	!	!
+8b-L (<8d-	.	(>24gg-^>LL\	.	<
+.	.	24ff	.	.
+.	.	24bb-	.	.
+*Xped	*	*	*	*
+*clefF4	*	*	*	*
+8E-J)	.	24ddd-	.	.
+.	.	24fff	.	.
+.	.	24bbb-JJ)	.	.
+*clefG2	*	*	*	*
+*ped	*	*	*	*
+!	!	!LO:TUP:a/b	!	!
+8b-L (<8dn	.	(>24aaa-XLL\	.	.
+.	.	24fff	.	.
+.	.	24dddn	.	.
+*Xped	*	*	*	*
+*clefF4	*	*	*	*
+8E-J)	.	24bb-	.	[
+.	.	24aany	.	.
+.	.	24ff^<JJ)	.	.
+*	*	*X8va	*	*
+*tuplet	*	*tuplet	*	*
+=24	=24	=24	=24	=24
+*ped	*	*	*	*
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+8g: 8B-: 8E-:	.	(<24ggLL	.	.
+.	.	24b-	.	.
+.	.	24ee-	.	.
+8r	.	24g	.	.
+.	.	24e-	.	.
+.	.	24B-JJ)	.	.
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+8r	.	(<24gLL	.	.
+.	.	24B-	.	.
+.	.	24e-	.	.
+!LO:TUP:a	!	!	!	!
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!
+12rGG	.	24G<	.	.
+!LO:N:vis=12	!	!	!	!
+.	.	24E-<JJ)	.	.
+*Xped	*	*	*	*
+24EE-\	.	24r<	.	.
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+!LO:TUP:a	!	!LO:TUP:a	!	!
+(24BBB-LL\	.	(>12r	.	.
+!	!	!LO:TX:b:t=con forza	!	!
+*	*	*ped	*	*
+24D-JJ)	.	.	.	.
+24rGG	.	24F<LL	.	.
+8r	.	24f	.	.
+.	.	24B-	.	.
+.	.	24d-)JJ	.	.
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+!	!	!LO:TUP:a	!	!
+4r	.	(>24fLL	.	<
+.	.	24ff	.	.
+.	.	24b-	.	.
+.	.	24dd-	.	.
+.	.	24ff	.	.
+*	*	*Xped	*	*
+.	.	24ddd-JJ)	.	[
+!!LO:LB:g=original
+=25	=25	=25	=25	=25
+*ped	*	*	*	*
+4GG 4EE- 4GGG\	.	4e-^^> 4d- 4B-< 4E-<	.	.
+!	!	!	!	!LO:DY:rj
+4G 4E- 4BB- 4GG	.	4ee-^^> 4dd-^^> 4b-^^> 4e-^^>	.	ff
+.	.	16qqd/LL	.	.
+.	.	16qqe-/JJ	.	.
+2r	.	(<4.e-^<T	.	.
+.	.	16qqd/LL	.	.
+.	.	16qqe-/JJ	.	.
+.	.	32f'<LLL	.	.
+.	.	32g'<	.	<
+.	.	32a-'<	.	.
+*Xped	*	*	*	*
+.	.	32b-'JJJ)	.	.
+=26	=26	=26	=26	=26
+*ped	*	*	*	*
+.	.	.	.	.
+.	.	(<8qqcc/L	.	.
+.	.	8qqee-/	.	.
+.	.	8qqaa-/J	.	.
+!LO:TX:t=P:mixed beam:problem	!	!	!	!
+(<8AAA-/L	.	(>2eee-)	.	.
+8E-\	.	.	.	[
+8e- 8c 8A-\	.	.	.	.
+8E-\J	.	.	.	.
+*	*	*8va	*	*
+*	*	*rscale:4	*	*
+*	*	*cue	*	*
+!	!	!LO:TUP:b	!	!
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+8a-L 8c 8A-	.	(<58eee-L/)	.	.
+.	.	58fff	.	.
+!	!	!LO:TX:b:t=delicat.	!	!
+!	!	!LO:TX:b:t=poco ritard.	!	!
+.	.	58eee-	.	.
+.	.	58dddn	.	.
+.	.	58eee-	.	.
+.	.	58fff	.	.
+.	.	58ggg	.	.
+.	.	58aaa-	.	.
+8E-	.	.	.	.
+.	.	58bbb-	.	.
+.	.	58cccc	.	.
+.	.	58ggg	.	.
+.	.	58bbb-	.	.
+.	.	58aaa-	.	.
+.	.	58ggg	.	.
+.	.	58fff	.	.
+8e- 8c 8A-	.	.	.	.
+.	.	58eee-	.	.
+.	.	58ddd-X	.	.
+.	.	58ccc	.	.
+.	.	58ddd-	.	.
+.	.	58ccc	.	.
+.	.	58bb-	.	.
+.	.	58ccc	.	.
+8E-J)	.	.	.	.
+.	.	58ddd-	.	.
+.	.	58eee-	.	.
+.	.	58ggg	.	.
+.	.	58fff	.	.
+.	.	58eee-	.	.
+.	.	58ddd-	.	.
+.	.	58cccJ)	.	.
+*	*	*rscale:1	*	*
+*	*	*Xcue	*	*
+*	*	*tuplet	*	*
+*	*	*X8va	*	*
+!!LO:LB:g=original
+=27	=27	=27	=27	=27
+*ped	*	*	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+8FFFL	.	16bb-	.	.
+.	.	8r	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+(>8C	.	.	.	.
+.	.	4aa-^	.	.
+*ped	*	*	*	*
+8c 8A- 8F	.	.	.	.
+*Xped	*	*	*	*
+8CJ)	.	.	.	.
+.	.	16aa-	.	.
+*ped	*	*	*	*
+(>8fL 8A- 8F\	.	4.aa-T	.	.
+8C)	.	.	.	.
+(>8c 8A- 8F	.	.	.	.
+*Xped	*	*	*	*
+8CJ)	.	(>32gg'>LLL	.	<
+.	.	32aa-'>	.	.
+.	.	32bb-'>	.	.
+.	.	32ccc'JJJ)	.	[
+=28	=28	=28	=28	=28
+*	*	*ped	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!
+8BBB-/L	.	4ddd-: 4ff: 4dd-:	.	.
+(>8F\	.	.	.	.
+.	.	(>16qqf/LL	.	.
+.	.	16qqdd-	.	.
+.	.	16qqffJJ	.	.
+8d- 8B-\	.	8ddd-L	.	.
+8F\J)	.	16.ddd-L)	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+.	.	32ddd-JJk	.	.
+.	.	16qqan/LL	.	.
+.	.	16qqee-	.	.
+.	.	16qqgg-JJ	.	.
+*	*	*ped	*	*
+!	!	!LO:TUP:a	!	!
+!LO:TX:t=P:mixed beam:problem	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!LO:DY:rj
+8BBB-/L	.	(>54cccLLL	.	f
+.	.	54ddd-	.	.
+.	.	54ccc	.	.
+.	.	54bbn	.	.
+.	.	54ccc	.	.
+.	.	54ddd-	.	.
+.	.	54eee-	.	.
+(<8G-X\	.	.	.	.
+.	.	54fff	.	.
+.	.	54aaa-	.	.
+.	.	54ggg-X	.	.
+.	.	54eee-	.	.
+.	.	54ccc	.	.
+.	.	54aan	.	.
+.	.	54gg-y	.	.
+8g-X 8e- 8An\	.	.	.	.
+.	.	54ee-	.	.
+.	.	54cc	.	.
+.	.	54any	.	.
+.	.	54b-X	.	.
+.	.	54a	.	.
+.	.	54g#X	.	.
+.	.	54a	.	.
+8G-\J)	.	.	.	.
+.	.	54b-	.	.
+.	.	54bn	.	.
+.	.	54cc	.	.
+.	.	54ee-	.	.
+.	.	54dd-	.	.
+*	*	*Xped	*	*
+.	.	54ccJJJ)	.	.
+!!LO:LB:g=original
+=29	=29	=29	=29	=29
+*	*	*ped	*	*
+(>8BB-'>L	.	(>4.cc	.	>
+8F	.	.	.	.
+8f 8d- 8B-	.	.	.	.
+8FJ)	.	8b-)	.	]
+.	.	16qqg/LL	.	.
+.	.	16qqa-/JJ	.	.
+*	*	*Xped	*	*
+*	*	*ped	*	*
+(>8FF-X'>L	.	(>4.a-T	.	.
+8F-X	.	.	.	.
+8d- 8A-	.	.	.	.
+.	.	16qqg/LL	.	.
+.	.	16qqa-/JJ	.	.
+!	!	!LO:TUP:b	!	!
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+8F-J)	.	24ccLL/	.	>
+.	.	24b-	.	.
+*	*	*Xped	*	*
+.	.	24a-JJ	.	]
+=30	=30	=30	=30	=30
+*ped	*	*	*	*
+(>8EE-'>L	.	8.a-^<L)	.	.
+8E-	.	.	.	.
+.	.	(>[>16gJk	.	.
+!	!	!LO:TX:a:t=legg.	!	!
+!	!	!LO:TUP:a	!	!
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+8g 8d- 8B-	.	60gLLL]	.	.
+.	.	60a-	.	.
+.	.	60b-	.	.
+.	.	60cc	.	.
+.	.	60dd-	.	.
+.	.	60ee-	.	.
+.	.	60ff	.	.
+*Xped	*	*	*	*
+.	.	60gg	.	.
+8E-J)	.	.	.	.
+.	.	60aa-	.	.
+.	.	60gg	.	.
+.	.	60ff	.	.
+.	.	60gg	.	.
+.	.	60bb-	.	.
+.	.	60aa-	.	.
+.	.	60ggJJJ)	.	.
+!LO:TX:t=P:mixed beam:problem	!	!	!	!
+(>/8EE-'>L	.	(>8.gg^<L	.	.
+8E-\	.	.	.	.
+.	.	16ffJk	.	.
+8f\ 8c\ 8A-\	.	4ffT	.	.
+8E-\J)	.	.	.	.
+.	.	(<8qeenL	.	.
+.	.	8qff	.	.
+.	.	8qaa-	.	.
+.	.	8qgg	.	.
+.	.	8qffJ)	.	.
+=31	=31	=31	=31	=31
+*ped	*	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!
+(>/8EE-'>L	.	8.ff^<L	.	.
+8G\	.	.	.	.
+.	.	(>16ee-J)	.	.
+8e-\ 8B-\	.	4ee-T	.	.
+*Xped	*	*	*	*
+8G\J)	.	.	.	.
+.	.	8qqddn/L	.	.
+.	.	8qqee-/	.	.
+.	.	8qqgg/	.	.
+.	.	8qqff/	.	.
+.	.	8qqee-/J	.	.
+*ped	*	*	*	*
+!	!	!LO:TUP:a	!	!
+!LO:TX:t=P:mixed beam:problem	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+(>/8FF'>L	.	(>24ee-LL	.	.
+.	.	24dd-X	.	.
+.	.	24ee-	.	.
+*Xped	*	*	*	*
+8a-\J 8d-\ 8A-\)	.	24dd-M	.	.
+.	.	24cc	.	.
+.	.	24dd-JJ)	.	.
+.	.	8qdd-/)	.	.
+*ped	*	*	*	*
+!	!	!LO:TX:a:t=dolciss.	!	!
+!	!	!LO:TUP:a	!	!
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+(>/8GG'>L	.	(>56fffLLL	.	.
+.	.	56eee-	.	.
+.	.	56ddd-	.	.
+.	.	56bb-	.	.
+.	.	56gg	1	.
+.	.	56ff	5	.
+.	.	56ee-	.	.
+*Xped	*	*	*	*
+8d-\J 8B-\ 8E-\)	.	56dd-	.	.
+.	.	56b-	.	.
+.	.	56e-	1	.
+.	.	56f	1	.
+.	.	56g	1	.
+.	.	56a-	2	.
+.	.	56b-JJJ)	.	.
+!!LO:PB:g=original
+=32	=32	=32	=32	=32
+*^	*	*	*	*
+*	*	*	*ped	*	*
+!	!	!	!LO:TUP:a	!	!
+!	!	!	!LO:TX:a:t=P:problem:oznaczenie "6"	!	!
+!	!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+8AAA-'<L	4ryy	.	(>12cc'>L	.	.
+.	.	.	12cc'>	.	.
+8A- 8C	.	.	.	.	.
+.	.	.	12cc'>	.	.
+8c 8A-	4E-	.	12cc	.	.
+.	.	.	16qqcc/L	.	.
+.	.	.	16qqee-/J	.	.
+.	.	.	12.dd-	.	.
+8e-J 8A-	.	.	.	.	.
+*	*	*	*Xped	*	*
+.	.	.	24ccJ	.	.
+!LO:TX:t=P:mixed beam:problem	!	!	!	!	!
+*	*	*	*ped	*	*
+(>8DD-'</L	4ryy	.	[8cc^>L)	.	.
+!	!	!	!LO:TUP:a	!	!
+!	!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+8B- 8F\J	.	.	(24ccL]	.	.
+.	.	.	24f	.	.
+.	.	.	24ccJJ)	.	.
+*clefG2	*	*	*	*	*
+!	!	!	!LO:TUP:a	!	!
+!	!	!	!LO:TX:a:t=P:problem:oznaczenie "6"	!	!
+!	!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+8fL 8B- 8A-	4ryy	.	&(>24b-LL	.	.
+.	.	.	24dd-	.	<
+.	.	.	24ff	.	.
+8a-J 8d- 8B-)	.	.	24bb-	.	.
+*	*	*	*Xped	*	*
+.	.	.	48ggg&)	.	.
+.	.	.	48rff	.	.
+.	.	.	(>24fffJJ	.	[[
+*v	*v	*	*	*	*
+*clefF4	*	*	*	*
+=33	=33	=33	=33	=33
+*	*	*ped	*	*
+(<8EE-'L	.	(<2bb-)	.	.
+*clefG2	*	*	*	*
+8e- 8B- 8G	.	.	.	<
+8g 8e- 8B-	.	.	.	.
+8b-J 8g 8e-	.	.	.	.
+.	.	16qqaan/L	.	.
+.	.	16qqbb-/	.	.
+.	.	16qqccc/	.	.
+.	.	16qqbb-/	.	.
+.	.	16qqddd-/	.	.
+.	.	16qqccc/J	.	.
+8ee-L 8b- 8g	.	8bb-)	.	[>
+8b- 8g 8e-	.	8r	.	.
+8g 8e- 8B-	.	(>[4ee-^<	.	.
+8e-J 8d- 8G)	.	.	.	]
+=34	=34	=34	=34	=34
+*	*	*^	*	*
+*clefF4	*	*	*	*	*
+*	*	*ped	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!	!
+8AAA-'</L	.	4ccc 4ee-] 4cc\	4ryy	.	.
+(>8A-\	.	.	.	.	.
+8g- 8c\	.	8.bb-L 8.b-\	8ryy	.	.
+*	*	*Xped	*	*	*
+8A-\J)	.	.	2ee-\	.	.
+.	.	16aa-Jk 16a-	.	.	.
+*	*	*ped	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!	!
+(>8DD-'</L	.	4aa- 4a-\	.	.	.
+8A-\	.	.	.	.	.
+8f 8d- 8F\	.	4ddd- 4dd-)\	.	.	.
+*	*	*Xped	*	*	*
+8A-\J)	.	.	8ryy	.	.
+!!LO:LB:g=original
+=35	=35	=35	=35	=35	=35
+*	*	*	*^	*	*
+*	*	*Xtuplet	*	*	*	*
+*	*	*ped	*	*	*	*
+!	!	!	!LO:TX:a:t=P:note position:problem	!	!	!
+!LO:TX:t=P:mixed beam:problem	!	!	!	!	!	!LO:DY:rj
+8AAA-/L	.	14cccL 14cc\	(>2gg-	2ryy	.	ff
+.	.	14ddd- 14dd-	.	.	.	.
+8A-\	.	.	.	.	.	.
+.	.	14ccc 14cc	.	.	.	.
+.	.	14bb- 14b-	.	.	.	.
+8g-X^< 8c 8E-\	.	.	.	.	.	.
+.	.	14ccc 14cc	.	.	.	.
+*	*	*Xped	*	*	*	*
+.	.	14ddd- 14dd-	.	.	.	.
+8A-\J	.	.	.	.	.	.
+.	.	14eee-J 14ee-)	.	.	.	.
+*	*	*ped	*	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!	!	!
+8DD-/L	.	4.aa-/	4.a-	(>4gg- 4ee-	.	.
+8A-\	.	.	.	.	.	.
+8f^< 8d- 8F\	.	.	.	4ff 4dd-)	.	.
+*	*	*Xped	*	*	*	*
+8A-\J	.	8bb-/	8b-	.	.	.
+*	*	*	*v	*v	*	*
+*	*	*v	*v	*	*
+=36	=36	=36	=36	=36
+*	*	*^	*	*
+*	*	*ped	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!	!
+8AAA-'<L/	.	8.ccc: 8.aa-: 8.ee-:	2cc:\	.	.
+(>8c 8E-\	.	.	.	.	.
+.	.	16ee-T	.	.	.
+!	!	!LO:TX:a:t=stacc.	!	!	!
+8e- 8c 8A-\	.	24ddn'<LL	.	.	.
+.	.	24ee-'<	.	.	<
+.	.	24ff'<	.	.	.
+8a-J 8c 8A-)\	.	24gg'<	.	.	.
+*	*	*Xped	*	*	*
+.	.	24aa-'<	.	.	.
+.	.	24bb-'<JJ	.	.	.
+*	*	*ped	*	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!	!
+8FF-X'>/L	.	(>4ccc-:X	2ddn: 2a-:^	.	[
+!	!	!	!	!	!LO:HP:b=2
+!LO:TX:a:t=radoscendo	!	!	!	!	!
+8dn\ 8A-\L 8F-X\	.	.	.	.	<
+8d\ 8B-\ 8F-\	.	8bb-L	.	.	.
+*	*	*Xped	*	*	*
+8d\J 8c-X\J 8F-\	.	8aa-J	.	.	[
+*	*	*v	*v	*	*
+=37	=37	=37	=37	=37
+*	*	*tuplet	*	*
+*	*	*ped	*	*
+!LO:TX:t=P:mixed beam:problem	!	!	!	!
+8EE-'>/L	.	4gg: 4ee-: 4b-: 4g:)	.	.
+8e-\ 8B-\ 8G\	.	.	.	.
+8e-\ 8B-\ 8G\	.	8.ee-L	.	.
+8e-\J 8B-\ 8G\	.	.	.	.
+!	!	!LO:TX:b:t=string.	!	!
+.	.	16ee-Jk	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+!LO:N:vis=2	!	!	!	!
+8F-XL	.	8.ee-^>L	.	.
+8d- 8A-	.	.	.	.
+*	*	*ped	*	*
+.	.	(>16a-J	.	.
+!	!	!LO:TUP:a	!	!
+!	!	!LO:TX:a:t=P:problem:oznaczenie "6"	!	!
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+8d- 8A-	.	24dd-LL	.	.
+.	.	24ff-X	.	<
+.	.	24aa-	.	.
+8d-J 8A-	.	24ddd-	.	.
+*	*	*Xped	*	*
+.	.	24aaa-)	.	.
+.	.	48raa	.	.
+.	.	48aaa-JJk	.	[
+!!LO:LB:g=original
+=38	=38	=38	=38	=38
+*ped	*	*	*	*
+!LO:N:vis=2	!	!	!	!
+8E-L	.	(>8aaa-^<L	.	.
+8c-X 8A-	.	8ccc-XJ	.	.
+8c- 8A-	.	8cc-XL	.	.
+*Xped	*	*	*	*
+8c-J 8A-	.	16r	.	.
+.	.	(<16cc-J)	.	.
+*ped	*	*	*	*
+!LO:N:vis=2	!	!	!	!
+8D-L	.	8.cc-^>L	.	.
+8B- 8G	.	.	.	.
+.	.	16f-XJ)	.	.
+!	!	!LO:TUP:a	!	!
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+8f-X 8B- 8G	.	(>28gLL	.	.
+.	.	28b-	.	<
+.	.	28dd-	.	.
+.	.	28ff-X	.	.
+*Xped	*	*	*	*
+8f-J 8B- 8G	.	.	.	.
+.	.	28gg	.	.
+.	.	28fff-	.	.
+.	.	56raa	.	.
+.	.	56fff-JJ)	.	[
+=39	=39	=39	=39	=39
+*	*	*^	*	*
+*ped	*	*	*	*	*
+8C-XL	.	(>4.fff-^>X	4r	.	.
+8e- 8A- 8E-	.	.	.	.	f
+8e- 8A- 8E-	.	.	4aa-	.	.
+*Xped	*	*	*	*	*
+8e-J 8A- 8E-	.	8eee-	.	.	.
+*ped	*	*	*	*	*
+8BB-L	.	4ryy	8.eee-L)	.	p
+8dn 8A- 8F	.	.	.	.	<
+.	.	.	&(>16dddnJ	.	.
+.	.	.	16qqbb-/LL	.	.
+.	.	.	16qqccc-/JJ	.	.
+!	!	!	!LO:TX:a:t=P:tryl bez bemola:problem	!	!
+8d 8A- 8F	.	4ryy	8ccc-yT>L	.	[>
+*Xped	*	*	*	*	*
+8dJ 8A- 8F	.	.	16bb-L	.	.
+.	.	.	16aa-JJ&)	.	]
+*	*	*v	*v	*	*
+=40	=40	=40	=40	=40
+*^	*	*	*	*
+*ped	*	*	*	*	*
+!	!	!	!LO:TUP:a	!	!
+!	!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+4F-/	8F-XL\	.	(42ggLLL	.	.
+.	.	.	42aa-	.	>
+.	.	.	42gg	.	.
+.	.	.	42ff#X	.	.
+.	.	.	42gg	.	.
+*Xped	*	*	*	*	*
+.	.	.	42aa-	.	.
+.	8d-J 8A-	.	.	.	.
+.	.	.	42ccc-X	.	.
+.	.	.	42bb-	.	.
+.	.	.	42aa-	.	.
+.	.	.	42gg	.	.
+.	.	.	42ff-X	.	.
+*ped	*	*	*	*	*
+4GGn/	8GGnL\	.	.	.	.
+.	.	.	42ee-	.	.
+.	.	.	42ff-	.	.
+.	.	.	42ee-	.	.
+.	.	.	42ddn	.	]
+*Xped	*	*	*	*	*
+.	.	.	42ee-	.	.
+.	8d-J 8B- 8E-	.	.	.	.
+.	.	.	42ff-	.	.
+.	.	.	42b-	.	.
+.	.	.	42ff-	.	.
+.	.	.	42eeny	.	.
+.	.	.	42dd-yJJJ	.	.
+*ped	*	*	*	*	*
+4AA-/	8AA-L\	.	8.dd-^<L	.	.
+*Xped	*	*	*	*	*
+.	8c-yJ 8A- 8E-	.	.	.	.
+.	.	.	16cc-XJ)	.	.
+*ped	*	*	*	*	*
+!	!	!	!LO:TUP:a	!	!
+!	!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+4D-/	8D-L\	.	(>28b--LL	.	.
+.	.	.	28cc-	.	.
+!	!	!	!LO:TX:b:t=smorz.	!	!
+.	.	.	28b--	.	.
+.	.	.	28a-	.	.
+.	8B--J 8F-X	.	.	.	.
+*Xped	*	*	*	*	*
+.	.	.	28b--	.	.
+.	.	.	28cc-	.	.
+.	.	.	28dd-JJ)	.	.
+*v	*v	*	*	*	*
+!!LO:LB:g=original
+=41	=41	=41	=41	=41
+*ped	*	*	*	*
+(>8EE-'>L	.	(>8.cc-X^<L	.	.
+8E-	.	.	.	.
+.	.	16b--XJ)	.	.
+8e-X	.	2a-	.	.
+*Xped	*	*	*	*
+8E-J)	.	.	.	.
+(>8e-L	.	.	.	.
+8E-)	.	.	.	.
+.	.	(<8qgn	.	.
+!	!	!LO:TUP:b	!	!
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+(>8d- 8B-	.	36gLL	.	.
+.	.	36a-	.	.
+*ped	*	*	*	*
+.	.	36g	.	.
+.	.	36f'<	.	<
+.	.	36g'<	.	.
+8E-J)	.	.	.	.
+.	.	36a-'<	.	.
+.	.	36b-'<	.	.
+.	.	36r	.	.
+*Xped	*	*	*	*
+.	.	36a-'<JJ	.	[
+=42	=42	=42	=42	=42
+*	*	*^	*	*
+8c-X 8A- 8F-X	.	8a-)	4ryy	.	.
+8r	.	8r	.	.	.
+*cue	*	*cue	*cue	*	*
+!	!	!LO:TX:a:t=Viol.	!	!	!
+8.BB--L/ 8.BBB--	.	8.dd-L 8.d-	2f-/	.	.
+16C-XJk 16CC-X	.	16cc-XJk 16c-X	.	.	.
+4D- 4DD-/	.	4b-- 4B--	.	.	.
+*Xcue	*	*Xcue	*	*	*
+32EE-LLL	.	32E-<LLL	4gn/ 4d-	.	.
+32FF-X	.	32F-X<	.	.	.
+*	*	*	*Xcue	*	*
+!	!	!LO:TX:b:t=con forza.	!	!	!
+32GG-X	.	32G-X<	.	.	.
+32FF-	.	32F-<	.	.	.
+32EE-	.	32E-<	.	.	.
+32DD-	.	32D-<	.	.	.
+32CC-X	.	32C-X<	.	.	.
+32BBB--JJJ	.	32BB-<JJJ	.	.	.
+*	*	*v	*v	*	*
+=43	=43	=43	=43	=43
+*^	*	*^	*	*
+*Xtuplet	*Xtuplet	*	*Xtuplet	*	*	*
+*	*	*	*cue	*cue	*	*
+8AA-	8AAA-	.	(>4a- 4c-X	4ryy	.	.
+*cue	*cue	*	*	*	*	*
+8rA	8rGGG	.	.	.	.	.
+!	!	!	!LO:TX:t=P:diminuendolike accent:problem	!	!	!
+8.GGL 8.GGG\	4ryy	.	8.dd-L 8.d-^<	2f-X/	.	.
+16AA- 16AAA-J	.	.	16cc-XJ 16c-	.	.	.
+4D- 4DD-\	4ryy	.	4b-- 4B--	.	.	.
+.	.	.	4qqgn 4qqd-	.	.	ff
+*Xcue	*Xcue	*	*Xcue	*Xcue	*	*
+60EE-LLL\	4ryy	.	60E-<LLL)	4ryy	.	.
+60BB-	.	.	(>60B-y<	.	.	.
+60D-	.	.	60d-	.	.	.
+60F-X	.	.	60f-X	.	.	.
+60E-	.	.	60e-	.	.	.
+60D-	.	.	60d-	.	.	.
+60C-X	.	.	60c-X	.	.	.
+60BB-	.	.	60B-<	.	.	.
+60AA-	.	.	60A-<	.	.	.
+60GG	.	.	60G<	.	.	.
+60FF-X	.	.	60F-<	.	.	.
+60EE-	.	.	60E-<	.	.	.
+60DD-	.	.	60D-<	.	.	.
+60CC-y	.	.	60C-y<	.	.	.
+60BBB-JJJ	.	.	60BB-<JJJ	.	.	.
+*v	*v	*	*	*	*	*
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=44	=44	=44	=44	=44
+*^	*	*	*	*
+*	*	*	*cue	*	*
+!	!	!	!LO:TX:t=P:łuk kończy się w dół:problem	!	!
+8AA-/	8AA-A\	.	4a-)\	.	.
+*cue	*cue	*	*	*	*
+8rG	8rCC	.	.	.	.
+!	!	!	!LO:TX:a:t=Fl	!	!
+8.GGL 8.GGG	4ryy	.	(>8.ddd-L 8ff- 8.dd-\	.	.
+16AA-Jk 16AAA-	.	.	16ccc-XJ 16ff- 16cc-X	.	.
+*ped	*	*	*	*	*
+4D- 4DD-	4ryy	.	4bb-- 4ff- 4b--)	.	fff
+*Xcue	*Xcue	*	*Xcue	*	*
+(<56EE-LLL\	4ryy	.	(>56E-<LLL/	.	.
+56GG	.	.	56G<	.	.
+56BB-	.	.	56B-<	.	.
+56D-	.	.	56d-	.	.
+56E-	.	.	56e-	.	.
+56G	.	.	56g	.	<
+56B-	.	.	56b--	.	.
+56d-	.	.	56dd-	.	.
+*clefG2	*	*	*	*	*
+56e-	.	.	56ee-	.	.
+56g	.	.	56gg	.	.
+*	*	*	*8va	*	*
+56b-	.	.	56bb--	.	.
+56dd-	.	.	56ddd-	.	.
+56ee-	.	.	56eee-	.	.
+56ggJJJ	.	.	56gggJJJ	.	[
+*v	*v	*	*	*	*
+=45	=45	=45	=45	=45
+4aa-)	.	4aaa-/)	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+*	*	*X8va	*	*
+4r	.	4r	.	.
+8r	.	8r	.	.
+16r	.	16r	.	.
+!	!	!LO:TX:b:t=appassionato.	!	!
+(>16ee-	.	(>16eee-	.	>
+[>8b-L	.	[>8bb-L	.	.
+.	.	.	.	.
+32b-LL]	.	32bb-]LL	.	]
+32cc-X]	.	32ccc-X	.	.
+32dd-	.	32ddd-	.	.
+32cc-JJJ)	.	32ccc-JJJ	.	.
+=46	=46	=46	=46	=46
+*tuplet	*	*tuplet	*	*
+(8b-L	.	8bb-L	.	.
+8a-J)	.	8aa-J)	.	.
+16r	.	16r	.	.
+(<16g'<LL	.	(>16gg'>LL	.	<
+16a-'<	.	16aa-'>	.	.
+16b-'<JJ	.	16bb-'>JJ	.	.
+!LO:TX:a:t=P:problem:oznaczenie "14"	!	!LO:TX:a:t=P:problem:oznaczenie "14"	!	!
+!LO:TUP:b	!	!LO:TUP:a	!	!
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+28cc-XLL	.	28ccc-XLL	.	.
+28b-	.	28bb-	.	.
+28a-	.	28aa-	.	[
+28g-X	.	28gg-X	.	.
+28f-X	.	28ff-X	.	.
+28e-	.	28ee-	.	.
+28d-	.	28dd-	.	.
+28c-X	.	28cc-X	.	.
+28d-	.	28dd-	.	.
+28c-	.	28cc-	.	.
+28B-	.	28b-	.	.
+28c-	.	28cc-	.	.
+28d-	.	28dd-	.	.
+56re	.	56r	.	.
+56e-JJ)	.	56ee-JJ)	.	.
+!!LO:PB:g=original
+=47	=47	=47	=47	=47
+(<4e-	.	(>4ee-	.	f
+4A-)	.	4a-)	.	.
+*clefF4	*	*	*	*
+8r	.	(>8r	.	.
+16A-'>LL	.	16a-LL	.	.
+16G'>JJ	.	16gJJ	.	.
+!LO:TUP:a	!	!LO:TUP:a	!	!
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+(>20A-'>LL	.	20a-'>LL	.	.
+20B-'>	.	20b-'>	.	.
+.	.	.	.	.
+20c-X'>	.	20cc-X'>	.	.
+20B-'>	.	20b-'>	.	.
+20c-'>JJ)	.	20cc-'>JJ)	.	.
+=48	=48	=48	=48	=48
+(>4e-^>	.	(>4ee-	.	.
+4d-)	.	4dd-)	.	.
+4r	.	4r	.	.
+*clefG2	*	*	*	*
+!	!	!	!	!LO:DY:rj
+!LO:TUP:b	!	!LO:TUP:a	!	!
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+(<40d-LLL	.	(>40dd-LLL	.	pp
+40e-	.	40ee-	.	<
+40f-X	.	40ff-X	.	.
+40g-X	.	40gg-X	.	.
+40a-	.	40aa-	.	.
+40b-	.	40bb-	.	.
+40cc-X	.	40ccc-X	.	.
+40ee-	.	40eee-	.	.
+40dd-	.	40ddd-	.	.
+40cc-JJJ)	.	40ccc-JJJ)	.	[[
+=49	=49	=49	=49	=49
+*^	*	*	*	*
+*	*	*	*^	*	*
+(>4cc-X	4ryy	.	(>4ccc-X	2ryy	.	>
+4b-)	4ryy	.	4bb-)	.	.	]
+!LO:CL:ed	!	!	!	!	!	!
+*clefF4	*	*	*	*	*	*
+*	*cue	*	*	*cue	*	*
+2rD	4AA-	.	2rdd	4f-X 4d- 4A-<	.	.
+.	4AA-	.	.	4f- 4d- 4A-<	.	.
+=50	=50	=50	=50	=50	=50	=50
+2rD	4.AA-	.	2rff	4.f-X 4.d- 4.A-<	.	.
+.	8ryy	.	.	8ryy	.	.
+8r	8ryy	.	8r	8ryy	.	.
+*	*Xcue	*	*	*Xcue	*	*
+!LO:CL:ed	!	!	!	!	!	!
+*clefG2	*	*	*	*	*	*
+16r	4.rryy	.	16r	4.ryy	.	.
+(>16ff-X\	.	.	(>16fff-X\	.	.	>
+[>8ccnyL\	.	.	[>8cccnyLLL\	.	.	.
+32ccLL]	.	.	32ccc]	.	.	.
+32dd-	.	.	32ddd-	.	.	.
+32ee-	.	.	32eee-	.	.	.
+32dd-JJJ	.	.	32ddd-JJJ	.	.	]
+*	*	*	*v	*v	*	*
+*v	*v	*	*	*	*
+=51	=51	=51	=51	=51
+&(>4dd-	.	4ddd-	.	.
+4g&))	.	4gg)	.	.
+*tuplet	*	*	*	*
+!LO:TUP:b	!	!LO:TUP:a	!	!
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+20r	.	20r	.	.
+(<20gLL	.	(>20ggLL	.	.
+20a-	.	20aa-	.	.
+20an	.	20aan	.	.
+20b-JJ)	.	20bb-JJ)	.	.
+!LO:TUP:b	!	!LO:TUP:a	!	!
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+(<28d-LL	.	(>28dd-LL	.	.
+28e-	.	28ee-	.	.
+28g-X	.	28gg-X	.	.
+28f-X	.	28ff-X	.	.
+28e-	.	28ee-	.	.
+28d-	.	28dd-	.	.
+28c-XJJ)	.	28cc-XJJ)	.	.
+*clefF4	*	*	*	*
+!!LO:LB:g=original
+=52	=52	=52	=52	=52
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+!LO:TUP:a	!	!LO:TUP:b	!	!
+21B-LL	.	(<21b-LL	.	.
+21c-X	.	21cc-X	.	.
+21B-	.	21b-	.	.
+21An	.	21an	.	.
+21B-	.	21b-	.	.
+!LO:TX:a:t=con forza	!	!	!	!
+21c-	.	21cc-	.	.
+21e-	.	21ee-'<	.	.
+21d-	.	21dd-'<	.	.
+21c-	.	21cc-'<	.	.
+21B-	.	21b-'<	.	.
+21A-X	.	21a-X'<	.	<
+21Gn	.	21gn'<	.	.
+21A-	.	21a-'<	.	.
+21B-	.	21b-'<	.	.
+21D-	.	21d-^<	.	.
+21E-	.	21e-^<	.	.
+21F-X	.	21f-X^<	.	.
+21BB-	.	21B-^<)	.	.
+21F-	.	21f-^<	.	.
+21E-	.	21e-^<	.	.
+42r	.	42rg	.	.
+42D-JJ	.	42d-^<JJ	.	.
+=53	=53	=53	=53	=53
+(<4D-^>/	.	(<4d-	.	.
+4C^>)	.	4c)	.	<
+8qqE-\L<	.	8qqe-/L	.	.
+*ped	*	*	*	*
+8qqG-X\	.	8qqg-/	.	.
+8qqB--\	.	8qqb--/	.	.
+8qqc\	.	8qqcc/	.	.
+8qqe-\	.	8qqee-/	.	.
+8qqg-X\J	.	8qqgg-/J	.	[
+*Xped	*	*	*	*
+*clefG2	*	*	*	*
+!	!	!	!	!LO:DY:rj
+(<8b--'<L	.	(>8bb--'>L	.	f
+16a-'<L	.	16aa-'>L	.	.
+16g-X'<JJ	.	16gg-X'>JJ	.	.
+16f-X'<LL	.	16ff-X'>LL	.	.
+16e-'<	.	16ee-'>	.	.
+16d-'<	.	16dd-'>	.	.
+16c'<JJ)	.	16cc'>JJ)	.	.
+=54	=54	=54	=54	=54
+(<4e-	.	(>4ee-^<	.	.
+8d-)	.	8dd-)	.	.
+16rg	.	16r	.	.
+(<16A-	.	(>16a-\	.	.
+4f-X)	.	4ff-X)	.	.
+*Xtuplet	*	*Xtuplet	*	*
+(<36e-'<LLL	.	(>36ee-'>LLL	.	.
+!	!	!LO:TX:b:t=sempre piu.	!	!
+36f-X'<	.	36ff-X'>	.	.
+36e-'<	.	36ee-'>	.	.
+36d-'<	.	36dd-'>	.	.
+36e-'<	.	36ee-'>	.	.
+36f-'<	.	36ff-'>	.	.
+36g-X'<	.	36gg-X'>	.	.
+36a-'<	.	36aa-'>)	.	.
+72r	.	72r	.	.
+72e-JJJ)	.	(>72ee-JJJ	.	.
+!!LO:LB:g=original
+=55	=55	=55	=55	=55
+*	*	*	*	*^
+!	!	!LO:TX:b:t=stretto.	!	!	!
+(<4g-X	.	4gg-X	.	.	.
+4f-X)	.	4ff-X)	.	.	.
+(<32gnLLL/	.	(>32ggnLLL	.	<	.
+32a-	.	32aa-	.	.	.
+32b-	.	32bb-	.	.	.
+32cc-XJJJ	.	32ccc-XJJJ	.	.	.
+32b-LLL	.	32bb-LLL	.	.	.
+32cc-	.	32ccc-	.	.	<
+32dd-	.	32ddd-	.	.	.
+32ee-JJJ	.	32eee-JJJ	.	.	.
+8.ff-XL)	.	8.fff-XL)	.	[	.
+(>16gJk	.	(>16ggJ	.	.	.
+*	*	*	*	*v	*v
+=56	=56	=56	=56	=56
+*	*	*	*	*
+8a-'<)	.	8aa-'>)	.	.
+8r	.	8r	.	.
+*	*	*8va	*	*
+[4ccc-X^^>	.	[4cccc-X^^>	.	ff>
+*tuplet	*	*tuplet	*	*
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+!LO:TUP:a	!	!LO:TUP:a	!	!
+40ccc-LLL]	.	40cccc-LLL]	.	.
+40gg	.	(>40ggg	.	.
+40aa-	.	40aaa-	.	.
+40bb-	.	40bbb-	.	.
+40aa-	.	40aaa-	.	.
+40ff	.	40fff	.	.
+40ddn	.	40dddn	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+40cc-y	.	40ccc-y	.	.
+40g	.	40gg	.	.
+*Xped	*	*	*	*
+40a-	.	40aa-	.	.
+40b-	.	40bb-	.	.
+40a-	.	40aa-	.	.
+40f	.	40ff	.	.
+40dn	.	40ddny	.	.
+*clefF4	*	*	*	*
+40c-X	.	40cc-X	.	]
+40A-	.	40a-	.	.
+40B-	.	40b-	.	.
+40A-	.	40a-	.	.
+40G	.	40g	.	.
+40A-JJJ	.	40a-JJJ)	.	.
+=57	=57	=57	=57	=57
+(>4c-X	.	(>4cc-X^<	.	.
+4B-)	.	4b-)	.	.
+4r	.	4r	.	.
+!	!	!LO:TX:b:t=sotto	!	!
+8.G-XL	.	(>8.g-XL	.	.
+16G-Jk	.	16g-Jk	.	.
+!!LO:LB:g=original
+=58	=58	=58	=58	=58
+!LO:TX:a:t=voce.	!	!	!	!
+[>4G-X	.	[<4g-X	.	.
+*Xtuplet	*	*Xtuplet	*	*
+12G-L]	.	12g-L]	.	.
+12A-	.	12a-	.	.
+12B-J	.	12b-J	.	.
+*	*	*tuplet	*	*
+!	!	!LO:TUP:b	!	!
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+14c-XL	.	(<14cc-XL/	.	.
+14d-	.	14dd-	.	.
+14e-	.	14ee-	.	.
+14d-	.	14dd-	.	.
+14c-	.	14cc-	.	.
+14E-	.	14e-	.	.
+14F-XJ	.	14f-XJ)	.	.
+=59	=59	=59	=59	=59
+*^	*	*	*	*
+*	*	*	*^	*	*
+*	*	*	*	*^	*	*
+*tuplet	*	*	*	*	*	*	*
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!
+!LO:TUP:a	!	!	!LO:TUP:b	!	!	!	!
+(>20G-XLL	2.ryy	.	(<20g-XLL	2.ryy	2.ryy	.	.
+20A--^>	.	.	20a--^<	.	.	.	.
+20F-X	.	.	20f-X	.	.	.	.
+20D-	.	.	20d-	.	.	.	.
+20BB-JJ)	.	.	20B-JJ)	.	.	.	.
+!	!	!	!LO:TX:t=P:decrescendo pod 4A--< i 4G-X<:problem	!	!	!	!
+4AA--\	.	.	4A--</	.	.	.	>
+4GG-X\	.	.	4G-X</	.	.	.	]
+*cue	*cue	*	*cue	*cue	*cue	*	*
+!LO:TX:a:t=Clar.	!	!	!LO:TX:a:t=Fl.	!	!	!	!
+4G-X/	4rGG	.	4bb-/ 4ff-	4ff-X 4dd- 4g-)	4rc	.	.
+*	*	*	*	*v	*v	*	*
+=60	=60	=60	=60	=60	=60	=60
+8rA	8ryy	.	8r	8ryy	.	.
+8ryy	8C-\	.	8ccc-X/ (>8ee-	8cc-y\ 8c-X^<	.	.
+*Xcue	*	*	*Xcue	*	*	*
+4G-	4ryy	.	4g-	4ryy	.	.
+16A-LL	8ryy	.	16a-LL	8ryy	.	.
+16B-JJ	.	.	16b-JJ	.	.	.
+!LO:TUP:a	!	!	!LO:TUP:a	!	!	!
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!
+40c-XLL	4ryy	.	40cc-XLL\	4ryy	.	.
+40d-	.	.	40dd-	.	.	.
+40f-X	.	.	40ff-X	.	.	.
+40e-	.	.	40ee-	.	.	.
+40d-	.	.	40dd-	.	.	.
+40c-	.	.	40cc-	.	.	.
+40B-	.	.	40b-	.	.	.
+40c-	.	.	40cc-	.	.	.
+40E-	.	.	40e-	.	.	.
+40F-XJJ	.	.	40f-XJJ	.	.	.
+*Xcue	*Xcue	*	*Xcue	*Xcue	*	*
+*v	*v	*	*	*	*	*
+=61	=61	=61	=61	=61	=61
+*	*	*	*^	*	*
+*Xtuplet	*	*Xtuplet	*	*	*	*
+24G-XLL	.	24g-X/LL	4ryy	2.ryy	.	.
+24.B--^>	.	24.b--^<	.	.	.	.
+48A-	.	48a-	.	.	.	.
+24G-	.	24g-	.	.	.	.
+24E-	.	24e-	.	.	.	.
+24CJJ	.	24cJJ	.	.	.	.
+4BB--	.	4B--<	4ryy	.	.	.
+4AA-\	.	4A-<	4ryy	.	.	.
+*	*	*cue	*cue	*cue	*	*
+!	!	!LO:TX:t=P:początek łuku 4ccc ale brak zakończenia:problem	!	!	!	!
+!	!	!	!	!LO:TX:a:t=P:"Clar: przy 4a-:problem	!	!
+!	!	!	!LO:TX:b:t=Clar.	!LO:TX:a:t=Fl.	!	!
+4rC	.	4ccc 4aa- 4gg-X/	4ee-\ 4a-	4rG)	.	.
+!!LO:LB:g=original
+=62	=62	=62	=62	=62	=62	=62
+4r	.	4ddd-/ 4ff-X	4dd-\ 4d-	4r	.	.
+*Xcue	*	*Xcue	*Xcue	*Xcue	*	*
+*tuplet	*	*tuplet	*	*	*	*
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!
+!LO:TUP:a	!	!LO:TUP:b	!	!	!	!
+(>36D-LLL	.	(<36d-/LLL	4ryy	4ryy	.	<
+36E-	.	36e-/	.	.	.	.
+36F-X	.	36f-X/	.	.	.	.
+36G-X	.	36g-X/	.	.	.	.
+36A-	.	36a-/	.	.	.	.
+36B-	.	36b-/	.	.	.	.
+36c	.	36cc/	.	.	.	.
+*	*	*	*	*	*	*^
+36d-	.	36dd-/	.	.	.	.	<
+*	*	*	*	*	*	*v	*v
+36e-JJJ)	.	36ee-/JJJ)	.	.	.	[
+4f-X	.	4ff-X\	4ryy	4ryy	.	.
+*clefG2	*	*	*	*	*	*
+!LO:TUP:b	!	!LO:TUP:a	!	!	!	!
+*Xtuplet	*	*Xtuplet	*Xtuplet	*Xtuplet	*	*
+(<24d-LL	.	(>24dd-LL\	4ryy	4ryy	.	<
+24f-y	.	24ff-	.	.	.	.
+24g-y	.	24gg-y	.	.	.	.
+!LO:TUP:b	!	!LO:TUP:a	!	!	!	!
+40a-L	.	40aa-L	.	.	.	.
+40b-	.	40bb-	.	.	.	.
+40cc	.	40ccc	.	.	.	.
+40dd-	.	40ddd-	.	.	.	.
+40ee-JJJ)	.	40eee-JJJ)	.	.	.	[
+*	*	*	*v	*v	*	*
+*	*	*v	*v	*	*
+=63	=63	=63	=63	=63
+!LO:N:vis=8.	!	!LO:N:vis=8.	!	!
+8ff-XL	.	(>8fff-XL	.	f
+(>24dd-'>L	.	24ddd-'>L	.	.
+24b--'>	.	24bb--'>	.	.
+24f-X'>JJ	.	24ff-X'>JJ)	.	.
+*clefF4	*	*	*	*
+24d-LL	.	(>24dd-LL	.	.
+24B--	.	24b--	.	.
+24F-X	.	24f-X	.	.
+24D-	.	24d-	.	.
+24E--	.	24e--	.	.
+24F-JJ)	.	24f-JJ	.	.
+(<4BB--	.	(>4B--<)	.	.
+!LO:TX:t=P:przednutki źle się wyświetlają:problem	!	!	!	!
+16qqGG\LL	.	16qqG</L	.	.
+16qqAA-\JJ	.	16qqA-</J	.	.
+4AA-\	.	4A-<^>t/)	.	.
+!!LO:PB:g=original
+=64	=64	=64	=64	=64
+!LO:TX:t=P:brak zakończenia łuku:problem	!	!	!	!
+[<4GGn)	.	(>[>4Gn<	.	.
+(>48GGLLL]	.	48G<LLL]	.	.
+48AA-	.	48A-<	.	.
+48BB-	.	48B-<	.	.
+48C-X	.	48c-<	.	.
+48D-	.	48d-	.	<
+48E-	.	48e-	.	.
+48F	.	48f	.	.
+48G	.	48g	.	.
+48A-	.	48a-	.	.
+48B-	.	48b-	.	.
+48c-X	.	48cc-X	.	.
+48d-JJJ	.	48dd-JJJ)	.	.
+4e-)	.	4ee-^	.	.
+*clefG2	*	*	*	*
+(<24c-XLL	.	(>24cc-XLL	.	[<
+24e-	.	24ee-	.	.
+24f	.	24ff	.	.
+40g	.	40ggL	.	.
+40a-	.	40aa-	.	.
+40b-	.	40bb-	.	.
+40cc-y	.	40ccc-X	.	.
+40dd-JJ)	.	40ddd-JJJ)	.	[
+=65	=65	=65	=65	=65
+16.ee-LL	.	(>16.eee-LL	.	ff
+32cc-XJJk	.	32ccc-XJJk	.	.
+24a-LL	.	24aa-LL	.	.
+24e-	.	24ee-	.	.
+24cc-JJ	.	24ccc-JJ	.	.
+*	*	*tuplet	*	*
+!	!	!LO:TX:t=P:mixed beam:problem	!	!
+!	!	!LO:TUP:a	!	!
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+28a-LL\	.	28aa-LL<\	.	.
+28e-	.	28ee-\	.	.
+28c-X	.	28cc-X\	.	.
+*clefF4	*	*	*	*
+28A-	.	28a-\	.	.
+28E-	.	28e-\	.	.
+28C-X	.	28c-</	.	.
+28AA-JJ	.	28A-</JJ)	.	.
+*	*	*Xtuplet	*	*
+!	!	!LO:TX:a:t=P:mixed beam:problem	!	!
+24DnLL\	.	(>24dn\LL	.	.
+24AA-	.	24A-<'>/	.	.
+!LO:TX:a:t=con forza.	!	!	!	!
+24AAn	.	24An<'>/	.	.
+24BB-	.	24B-<'>/	.	.
+24C-	.	24c-<'>/	.	.
+24D-y	.	24d-y<'>/	.	.
+28C-	.	28c-<'>/	.	.
+28BB-	.	28B-<'>/	.	.
+28AA-X	.	28A-X<'>/	.	.
+28GG	.	28G<'>/	.	.
+28AA-	.	28A-<'>/	.	.
+28GG-X	.	28G-X<'>/	.	.
+28FF-XJJ	.	28F-X<'>/JJ)	.	.
+!!LO:LB:g=original
+=66	=66	=66	=66	=66
+*tuplet	*	*tuplet	*	*
+4EE-\	.	4E-</	.	.
+4r	.	4r	.	.
+4r	.	4r	.	.
+!LO:TUP:a	!	!LO:TUP:a	!	!
+!LO:TX:t=P:note-head-side tuplet number:problem	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+28r	.	28r	.	.
+!	!	!	!	!LO:DY:rj
+(>28e-LL	.	(>28ee-LL	.	p
+28d-	.	28dd-	.	.
+28e-	.	28ee-	.	.
+28f-X	.	28ff-X	.	.
+28d-	.	28dd-	.	.
+28B-JJ	.	28b-JJ	.	.
+*Xtuplet	*	*Xtuplet	*	*
+=67	=67	=67	=67	=67
+&(>4A-	.	&(<4a-	.	.
+8G&))	.	8g&))	.	.
+16rF	.	16rg	.	.
+16e-	.	(>16ee-	.	<
+20e-LL	.	20ee-LL	.	.
+20f-	.	20ff-	.	.
+20e-	.	20ee-	.	.
+20d-	.	20dd-	.	[
+20e-J	.	20ee-J	.	.
+12g-	.	12gg-	.	.
+12f-	.	12ff-	.	.
+12d-J	.	12dd-J	.	.
+=68	=68	=68	=68	=68
+8c-XL	.	8cc-XL	.	>
+8B-J	.	8b-J)	.	]
+12B-L	.	(>12b-'>L	.	.
+12B-	.	12b-'>	.	.
+12B-J	.	12b-'>J	.	.
+!	!	!LO:TX:b:t=smorz.	!	!
+8B-L	.	8b-L/	.	.
+16A-L	.	16a-L	.	.
+16B-JJ	.	16b-JJ	.	.
+20c-LL	.	20cc-LL/	.	.
+20B-	.	20b-	.	.
+20A-	.	20a-	.	.
+20C-X	.	20c-X	.	.
+20D-JJ	.	20d-JJ)	.	.
+!!LO:LB:g=original
+=69	=69	=69	=69	=69
+*	*	*^	*	*
+*	*	*	*cue	*	*
+[<2E-	.	[>2e-	4ryy	.	.
+!	!	!	!LO:TX:a:t=Cor.	!	!
+.	.	.	8.e-L 8.E-<L	.	.
+.	.	.	16e-J 16E-<J	.	.
+*	*	*	*Xcue	*	*
+!	!	!LO:TX:b:t=legg.	!	!	!
+!LO:TUP:a	!	!LO:TUP:b	!	!	!
+(>42E-LLL\]	.	(<42e-LLL]	2ryy	.	pp
+42Dn	.	42dn	.	.	.
+42E-	.	42e-	.	.	.
+42F	.	42f	.	.	.
+42G	.	42g	.	.	.
+42A-	.	42a-	.	.	.
+42B-	.	42b-	.	.	.
+42c-X	.	42cc-X	.	.	.
+*clefG2	*	*	*	*	*
+42d-	.	42dd-	.	.	.
+42e-	.	42ee-	.	.	.
+42f	.	42ff	.	.	.
+42g	.	&(<42gg	.	.	.
+42a-	.	42aa-	.	.	.
+42cc-X	.	42ccc-X	.	.	.
+42b-	.	42bb-	.	.	.
+42a-	.	42aa-&)	.	.	.
+42c-	.	42cc-	.	.	.
+42d-	.	42dd-	.	.	.
+42e-	.	42ee-	.	.	.
+42g-y	.	42gg-y	.	.	.
+42f-XJJJ)	.	42ff-XJJJ)	.	.	.
+*	*	*v	*v	*	*
+=70	=70	=70	=70	=70
+2e-	.	2ee-	.	<
+*ped	*	*	*	*
+8qqdn/L	.	8qqddn/L	.	.
+8qqe-/J	.	8qqee-J	.	[<
+2e-T	.	2ee-T	.	.
+*Xped	*	*	*	*
+=71	=71	=71	=71	=71
+*	*	*^	*	*
+*ped	*	*	*	*	*
+*	*	*cue	*	*	*
+!	!	!LO:TX:a:t=P:2aa- 2ff before 1ddn:problem	!LO:TX:a:t=Fl.	!	!
+1dnt	.	(>2aa-/ 2ff	1ddnt>	.	.
+.	.	2ryy	.	.	.
+*Xped	*	*	*	*	*
+=72	=72	=72	=72	=72	=72
+*ped	*	*	*	*	*
+!	!	!LO:TX:a:t=P:2bb- 2gg before 2dd-:problem	!	!	!
+2d-XT>;	.	2bb-/ 2gg)	2dd-XT>\;>	.	.
+*cue	*	*Xcue	*	*	*
+!LO:TX:t=delicatiss.	!	!LO:TX:a:t=velociss.	!	!	!
+(>8qqc\L	.	(>8qqccL	.	.	.
+8qqd-\	.	8qqdd-\	.	.	.
+8qqe-\	.	8qqee-\	.	.	.
+8qqf\	.	8qqff\	.	.	.
+8qqg\	.	8qqgg\	.	.	.
+8qqa-\	.	8qqaa-\	.	.	.
+*	*	*8va	*	*	*
+8qqb-\	.	8qqbb-\	.	.	.
+8qqcc\	.	8qqccc\	.	.	.
+8qqdd-\	.	8qqddd-\	.	.	.
+8qqee-\	.	8qqeee-\	.	.	.
+8qqff\	.	8qqfff\	.	.	.
+8qqgg\	.	8qqggg\	.	.	.
+8qqaa-\J)	.	8qqaaa-\J	.	.	.
+*Xcue	*	*	*	*	*
+8bb-'>	.	8bbb-\)	8ryy	.	.
+*	*	*X8va	*	*	*
+4r	.	4r	4ryy	.	.
+*	*	*8va	*	*	*
+8ddd-	.	8bbb-\ 8fff	8ryy	.	.
+*	*	*v	*v	*	*
+!!LO:LB:g=original
+=73	=73	=73	=73	=73
+*cue	*	*cue	*	*
+!	!	!LO:TX:a:t=legato.	!	!
+!	!	!LO:TX:b:t=dolciss.	!	!
+16cccLL\	.	16aaa-\LL 16eee-	.	.
+16bb-	.	16eeee- 16ggg	.	.
+16aa-	.	16cccc 16fff	.	.
+16cccJJ	.	16aaa-JJ 16eee-	.	.
+16bb-LL\	.	16ggg\LL 16ddd-	.	.
+16aa-	.	16ddd-g 16fff	.	.
+16gg	.	16bbb- 16eee-	.	.
+16bb-JJ	.	16gggJJ 16ddd-	.	.
+16aa-LL\	.	16fff\LL 16ccc	.	.
+16gg	.	16cccc 16eee-	.	.
+16ff	.	16aaa- 16ddd-	.	.
+16aa-JJ	.	16fffJJ 16ccc	.	.
+16ggLL\	.	16eee-\LL 16bb-	.	.
+16ff	.	16ddd- 16bb-	.	.
+16ee-	.	16ggg 16ccc	.	.
+16ggJJ	.	16eee-JJ 16bb-	.	.
+=74	=74	=74	=74	=74
+*^	*	*	*	*
+*	*	*	*^	*	*
+*	*	*	*	*^	*	*
+*	*cue	*	*	*	*cue	*	*
+2ryy	16ffLL\	.	16ddd-\ 16aa-LL	2.ryy	2.yy	.	>
+.	16ee-	.	16aaa- 16ccc	.	.	.	.
+.	16dd-	.	16fff 16bb-	.	.	.	.
+.	16ffJJ	.	16ddd- 16aa-JJ	.	.	.	.
+.	16ee-LL\	.	16ccc\ 16ggLL	.	.	.	.
+.	16dd-	.	16ggg 16bb-	.	.	.	.
+.	16cc	.	16eee- 16aa-	.	.	.	.
+.	16ee-JJ	.	16ccc 16ggJJ	.	.	.	.
+4ryy	16dd-LL\	.	16bb-\ 16ffLL	.	.	.	.
+.	16cc	.	16fff 16aa-	.	.	.	.
+.	16b-	.	16ddd- 16gg	.	.	.	.
+.	16dd-JJ	.	16bb- 16ffJJ	.	.	.	.
+!	!	!	!LO:TX:b:t=rallent.	!	!	!	!
+8ryy	16ccLL\	.	8.aa-L	16ryy	16ee-L\	.	.
+.	16cc-	.	.	16ffL/	16ddn	.	.
+!	!	!	!	!	!LO:N:vis=16	!	!
+8b-/	16b-	.	.	16ff-J	8dd-XJ	.	.
+.	16e-JJ	.	16gg 16ee-J	16ryy	.	.	.
+*clefF4	*	*	*	*	*	*	*
+*	*	*	*v	*v	*	*	*
+*	*	*	*v	*v	*	*
+*v	*v	*	*	*	*
+*	*	*X8va	*	*
+!!LO:LB:g=original
+=75	=75	=75	=75	=75
+*	*	*tuplet	*	*
+*	*	*ped	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+!	!	!LO:TX:b:t=sosten.	!	!
+.	.	8qqccL	.	.
+.	.	8qqcc	.	.
+.	.	8qqee-	.	.
+.	.	8qqaa-J	.	.
+*Xcue	*	*Xcue	*	*
+!LO:TX:a:t=P:mixed beam:problem	!	!	!	!
+(>8AAA-'<L/	.	(2eee-	.	.
+8E-\	.	.	.	.
+8e- 8c 8A-\	.	.	.	.
+8E-J\	.	.	.	.
+*	*	*8va	*	*
+!	!	!LO:TUP:a	!	!
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+!	!	!LO:TX:t=P:powinno wyświetlać się "30":problem	!	!
+8a- 8c 8A-L	.	(>58eee-LLL\)	.	.
+.	.	58fffn	.	.
+.	.	58eee-	.	pp
+.	.	58dddn	.	.
+.	.	58eee-	.	.
+.	.	58fff	.	.
+.	.	58ggg	.	.
+.	.	58aaa-	.	.
+8E-	.	.	.	.
+.	.	58bbb-	.	.
+.	.	58cccc	.	.
+.	.	58ggg	.	.
+.	.	58bbb-	.	.
+.	.	58aaa-	.	.
+!	!	!LO:TX:a:t=P:w źródle 30:problem	!	!
+.	.	58ggg	.	.
+.	.	58fff	.	.
+8e- 8c 8A-	.	.	.	.
+.	.	58eee-	.	.
+.	.	58ddd-	.	.
+.	.	58ccc	.	.
+.	.	58ddd-	.	.
+.	.	58ccc	.	.
+.	.	58bb-	.	.
+.	.	58ccc	.	.
+8E-J)	.	.	.	.
+.	.	58ddd-	.	.
+.	.	58eee-	.	.
+.	.	58ggg	.	.
+.	.	58fff	.	.
+.	.	58eee-	.	.
+.	.	58ddd-	.	.
+*	*	*Xped	*	*
+.	.	58cccJJJ)	.	.
+*	*	*X8va	*	*
+=76	=76	=76	=76	=76
+*	*	*Xtuplet	*	*
+*	*	*ped	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+(>8FF'>L\	.	8bb-	.	.
+8C	.	8r	.	.
+8c 8A- 8F	.	[>4aa-^^>	.	.
+8CJ	.	.	.	.
+8f 8A- 8FL	.	(>24aa-'>LL]	.	.
+.	.	24aa-'>	.	.
+.	.	24aa-'>	.	.
+8E-	.	24aa-'>	.	.
+.	.	24aa-'>	.	.
+.	.	24aa-'>JJ)	.	.
+.	.	8qgg	.	.
+8c 8A- 8F	.	4aa-T	.	<
+8CJ)	.	.	.	.
+.	.	8qqgg'<L	.	.
+.	.	8qqaa-'<	.	.
+.	.	8qqbb-'<	.	.
+*	*	*Xped	*	*
+.	.	8qqccc'<J	.	[
+*	*	*tuplet	*	*
+!!LO:PB:g=original
+=77	=77	=77	=77	=77
+*	*	*ped	*	*
+!LO:TX:a:t=P:mixed beam:problem	!	!	!	!
+(8BBB-'<L/	.	4ddd-: 4bb-: 4ff: 4dd-: 4b-:	.	<
+8F\	.	.	.	.
+!LO:TX:t=P:arpeggio tylko na wyznaczonych nutach:problem	!	!	!	!
+8f>: 8d- 8B-\	.	8ddd-L 8ff: 8dd-:/	.	[
+*	*	*Xped	*	*
+8F\J)	.	16.ddd-L	.	.
+.	.	32ddd-JJ	.	.
+*ped	*	*	*	*
+!LO:TX:a:t=P:mixed beam:problem	!	!	!	!
+!	!	!LO:TUP:b	!	!
+8BBB-L	.	(<80An<^>/LLLL	.	.
+.	.	80A</	.	.
+!	!	!LO:TX:a:t=con forza.	!	!
+.	.	80A</	.	.
+.	.	80B-</	.	.
+.	.	80A<	.	.
+.	.	80G#X<	.	.
+.	.	80A<	.	.
+.	.	80c<	.	.
+.	.	80e-	.	.
+.	.	80g-X	.	.
+8G-X 8BB-	.	80an	.	.
+.	.	80cc	.	.
+.	.	80ee-	.	.
+.	.	80gg-X	.	.
+.	.	80aan	.	.
+*	*	*8va	*	*
+.	.	80ccc	.	.
+.	.	80ddd-	.	.
+.	.	80dddn	.	.
+.	.	80eee-	.	.
+.	.	80eeen	.	.
+8g-X 8e- 8An	.	80fff	.	.
+.	.	80aaa-X	.	.
+.	.	80ggg-y	.	.
+.	.	80eee-y	.	.
+.	.	80ccc	.	.
+.	.	80aan	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+.	.	80gg-	.	.
+.	.	80ee-	.	.
+.	.	80cc	.	.
+.	.	80a	.	.
+8G-J	.	80b-	.	.
+.	.	80a	.	.
+.	.	80g#X	.	.
+.	.	80a	.	.
+.	.	80b-	.	.
+.	.	80bn	.	.
+.	.	80cc	.	.
+*Xped	*	*	*	*
+.	.	80ee-	.	.
+.	.	80dd-	.	.
+.	.	80ccJJJJ)	.	.
+!!LO:LB:g=original
+=78	=78	=78	=78	=78
+*	*	*ped	*	*
+!LO:TX:a:t=P:mixed beam:problem	!	!	!	!
+(>8BBB-/L	.	(>4.cc	.	.
+8F\	.	.	.	.
+8d-\ 8B-	.	.	.	.
+*	*	*Xped	*	*
+8F\J)	.	8b-)	.	<
+.	.	16qqg/L	.	.
+.	.	16qqa-/J	.	.
+*	*	*ped	*	*
+(>8FF-X'>L	.	4.a-T	.	.
+8F-X	.	.	.	[
+8d- 8A-	.	.	.	.
+.	.	16qqg/LL	.	.
+.	.	16qqa-/JJ	.	.
+!	!	!LO:TUP:a	!	!
+8F-J)	.	(>24ccLL	.	.
+.	.	24b-	.	.
+*	*	*Xped	*	*
+.	.	24a-JJ)	.	.
+=79	=79	=79	=79	=79
+*	*	*	*^	*
+*	*	*Xtuplet	*	*	*
+*	*	*ped	*	*	*
+8EE-'>L	.	(<24a-^<LL	.	.	.
+.	.	24g)	.	.	.
+.	.	(>24a-JJ	.	.	<
+(>8E-	.	24b-LL	.	.	.
+.	.	24cc	.	.	.
+.	.	24dd-JJ	.	.	.
+8g 8d- 8B-	.	24ee-LL	.	.	.
+.	.	24ff	.	.	.
+.	.	24ggJJ	.	.	.
+.	.	8qgg/	.	.	[
+*	*	*Xped	*	*	*
+8E-J)	.	(>[>8ggg^<)	.	.	.
+*	*	*ped	*	*	*
+8EE-'>L	.	24gggLL]	5	.	.
+.	.	24fff	5	.	.
+.	.	24eee-JJ	4	.	>
+(>8E-	.	24ddd-'>LL	4	.	.
+.	.	24ccc'>	5	.	.
+.	.	24bb-'>JJ	4	.	.
+8f 8c 8A-	.	24aa-'>LL	4	.	]
+.	.	24gg'>	5	.	.
+.	.	48rff	.	.	.
+.	.	&(>48ffJJ	5	.	.
+*	*	*Xped	*	*	*
+8E-J)	.	[<8f^>&))	.	1	.
+*	*	*	*v	*v	*
+!!LO:LB:g=original
+=80	=80	=80	=80	=80
+*	*	*ped	*	*
+!LO:TX:t=P:nie wyświetla się belkowanie w całym takcie w dolnym systemie:problem	!	!	!	!
+8EE-L\	.	(>&(<24fTLL]	.	.
+.	.	24e-&)	.	.
+.	.	24f#XJJ	.	<
+(>8G	.	32gLLL	.	.
+.	.	32a-	.	.
+.	.	32an	.	.
+.	.	32b-JJJ	.	.
+*	*	*tuplet	*	*
+!	!	!LO:TUP:a	!	!
+!	!	!LO:TX:a:t=P:brak wyświetlania cyfry "7"; bo de facto to nie jest septymola; w pierwodruku się pomylili:problem	!	!
+8e- 8B-	.	64bnLLL	.	.
+.	.	64cc	.	.
+.	.	64cc#X	.	.
+.	.	64ddn	.	.
+.	.	64ee-	.	.
+.	.	64gg	.	.
+.	.	64ffn	.	.
+.	.	64ee-JJJ)	.	[
+.	.	8qee-/	.	.
+*	*	*Xtuplet	*	*
+*	*	*Xped	*	*
+8GJ)	.	[>8eee-L	.	.
+*	*	*ped	*	*
+8FL 8FF	.	(>24eee-L]	.	.
+.	.	24dddn	.	.
+.	.	24dddn	.	.
+*	*	*Xped	*	*
+*clefG2	*	*	*	*
+8a-J 8d- 8A-	.	24ddd-	.	.
+.	.	24ccc	.	.
+.	.	24ddd-JJ	.	.
+.	.	8qdd-X/	.	.
+*	*	*8va	*	*
+*clefF4	*	*	*	*
+*ped	*	*	*	*
+8G 8GGL/	.	76ffff^<LLL	.	.
+!LO:TX:a:t=dolciss.	!	!	!	!
+.	.	76eeee-	.	.
+.	.	76dddd-	.	.
+.	.	76bbb-	.	.
+.	.	76ggg	.	.
+.	.	76fff	.	.
+.	.	76eee-	.	.
+.	.	76ddd-y	.	.
+.	.	76bb-y	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+.	.	76gg	.	.
+*clefG2	*	*	*	*
+!LO:TX:t=P:nie wyświetla się zmiana klucza:problem	!	!	!	!
+16dd-J 16e- 16B-	.	.	.	.
+*Xped	*	*	*	*
+.	.	76ff	.	<
+.	.	76ee-	.	.
+.	.	76dd-y	.	.
+.	.	76b-	.	.
+.	.	76e-'>	.	.
+16r	.	.	.	.
+.	.	76fny'>	.	.
+.	.	76g'>	.	.
+.	.	76a'>	.	.
+.	.	76b-y'>JJJ)	.	[
+*clefF4	*	*	*	*
+!!LO:LB:g=original
+=81	=81	=81	=81	=81
+*	*	*tuplet	*	*
+*	*	*ped	*	*
+!	!	!LO:TUP:a	!	!
+!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+8AAA-'<L	.	(>12ccL	.	.
+.	.	12cc	.	.
+(<8A-/ 8C	.	.	.	.
+*	*	*Xtuplet	*	*
+.	.	12ccJ)	.	.
+8c 8A- 8E-	.	(>12ccL	.	.
+.	.	8qee-/	.	.
+!	!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+.	.	12.dd-^<	.	.
+8e-J 8A-)	.	.	.	.
+*	*	*Xped	*	*
+.	.	24ccJ)	.	.
+*	*	*ped	*	*
+!LO:TX:a:t=P:mixedbeam:problem	!	!	!	!
+8DD-'</L	.	8.cc^<L	.	.
+8B-\ (>\8FJ	.	.	.	.
+.	.	(>16enJ	.	.
+*clefG2	*	*	*	*
+8fL 8A-	.	32fLLL	.	.
+.	.	32cc	.	.
+.	.	32b-	.	.
+.	.	32dd-	.	<
+8a-J 8d- 8B-)	.	32ff	.	.
+.	.	32bb-	.	.
+.	.	32ggg)	.	.
+.	.	64rff	.	.
+*	*	*Xped	*	*
+.	.	(>64fffJJJ	.	[
+*clefF4	*	*	*	*
+=82	=82	=82	=82	=82
+8EE-'<	.	2bb-)	.	.
+*clefG2	*	*	*	*
+8e-L 8B- (<8G	.	.	.	.
+8g 8e- 8B-	.	.	.	.
+8b-J 8g 8e-	.	.	.	.
+!	!	!LO:TX:t=P:zapisane 7 jako tuplet:problem	!	!
+.	.	(<8qqbb-/L	.	.
+.	.	8qqaan/	.	.
+.	.	8qqbb-/	.	.
+.	.	8qqccc/	.	.
+.	.	8qqbb-/	.	.
+.	.	8qqddd-/	.	.
+.	.	8qqccc/J)	.	.
+8ee-L 8b- 8g	.	4bb-	.	.
+8b- 8g 8e-	.	.	.	.
+8g 8e- 8B-	.	8r	.	.
+8e-J 8d- 8G)	.	(>8ee-	.	.
+=83	=83	=83	=83	=83
+*^	*	*	*	*
+*clefF4	*	*	*ped	*	*
+*	*Xcue	*	*	*	*
+4ryy	(>8AA-'>L 8AAA-'>	.	4ccc 4cc	.	.
+.	8E-	.	.	.	.
+4ryy	8e- 8c 8A-	.	8ddd-L 8dd-	.	.
+.	8E-J)	.	8cccJ 8cc	.	.
+!	!	!	!	!	!LO:HP:b=2
+2e- 2d-	(>8A-L	.	4bb- 4b-	.	>
+.	8G	.	.	.	]
+*	*	*	*Xped	*	*
+!	!	!	!LO:TX:t=P:łuk kończy się na kresce taktowej:problem	!	!
+.	8F	.	4eee- 4ee-)	.	.
+.	8GJ)	.	.	.	.
+!!LO:LB:g=original
+=84	=84	=84	=84	=84	=84
+8ryy	8e-L 8c 8A-	.	(>4aa- 4a-	.	.
+!LO:N:vis=4.	!	!	!	!	!
+8E-	8E-	.	.	.	.
+2e-	8B-	.	8.ggL 8.g	.	.
+.	8A-J	.	.	.	.
+.	.	.	16ffJk 16f	.	.
+.	8B-L	.	2gg 2g)	.	<
+.	8E-	.	.	.	.
+4ryy	8e- 8d- 8B-	.	.	.	[
+.	8E-J	.	.	.	.
+=85	=85	=85	=85	=85	=85
+*	*	*	*ped	*	*
+2ryy	(>8AA-'>L	.	(>4aa- 4a-	.	.
+.	8E-	.	.	.	.
+.	8e- 8c 8A-	.	8bb-L 8b-	.	.
+*	*	*	*Xped	*	*
+.	8E-J)	.	8aa-J 8a-)	.	.
+*	*	*	*ped	*	*
+8ryy	(>8EE-'>L	.	(>4gg 4g	.	.
+4.E-	8E-	.	.	.	.
+.	.	.	8qqcc/L	.	.
+.	8e-	.	8.cccL 8.cc)	.	.
+.	&(>8d-J)	.	.	.	.
+*	*	*	*Xped	*	*
+.	.	.	16bb-J 16b-	.	.
+=86	=86	=86	=86	=86	=86
+*	*^	*	*	*	*
+!	!	!LO:TX:b:t=P:note position:problem	!	!	!	!
+8ryy	(>8cL&)	1E-	.	(>4aa- 4a-	.	.
+4.e-/	8e-\	.	.	.	.	.
+.	8B-	.	.	8gg'>L 8g	.	.
+.	8A-J	.	.	8ff'>J 8f	.	.
+!	!	!LO:N:vis=1	!	!	!	!
+8ryy	8B-L	.	.	2gg'> 2g)	.	.
+4.e-/	8e-\	.	.	.	.	.
+.	8A-	.	.	.	.	.
+.	8GJ)	.	.	.	.	.
+*	*v	*v	*	*	*	*
+*v	*v	*	*	*	*
+=87	=87	=87	=87	=87
+*	*	*^	*	*
+*	*	*ped	*	*	*
+*	*	*	*Xcue	*	*
+!LO:TX:a:t=P:mixed beam:problem	!	!	!	!	!
+8DD-'</L	.	(>4ff	2a-^< 2f	.	.
+(>8A-\	.	.	.	.	.
+8F\	.	8ee-L	.	.	.
+*	*	*Xped	*	*	*
+8d-\J)	.	8dd-J	.	.	.
+*	*	*ped	*	*	*
+8GG'>L\	.	4ee-: 4dd-: 4b-: 4e-:)	4ryy	.	.
+*	*	*Xped	*	*	*
+8B-J 8E-	.	.	.	.	.
+*	*	*ped	*	*	*
+8AA-'>L\	.	(>4aa-:^< 4cc: 4a- 4e-:\	4ryy	.	.
+*	*	*Xped	*	*	*
+8cJ 8E-	.	.	.	.	.
+*	*	*v	*v	*	*
+=88	=88	=88	=88	=88
+*^	*	*	*	*
+*	*	*	*ped	*	*
+4F	(<8FFL	.	4ee-: 4a-: 4e-:	.	.
+*	*	*	*Xped	*	*
+.	8A-J)	.	.	.	.
+*	*	*	*ped	*	*
+4G	(<8GGL	.	4dd-:T 4b-: 4e-:	.	>
+*	*	*	*Xped	*	*
+.	8B-J)	.	.	.	.
+.	.	.	8qqcc/L	.	.
+.	.	.	8qqee-/	.	.
+.	.	.	8qqdd-/	.	.
+.	.	.	8qqcc/J	.	.
+*	*	*	*ped	*	*
+4A-	8AA-L	.	8cc 8a- 8e-)	.	]
+*	*	*	*Xped	*	*
+.	8cJ	.	8r	.	.
+4Dn	8DDnL	.	(>4ff/ 4bn 4a-X 4f^<	.	f
+.	8BnJ	.	.	.	.
+*v	*v	*	*	*	*
+!!LO:PB:g=original
+=89	=89	=89	=89	=89
+*	*	*ped	*	*
+8EE-'>L	.	16e-'<LL/ 16c	.	.
+.	.	16f'< 16d-	.	.
+(<8E-	.	16g'< 16e-	.	.
+.	.	16a-'<JJ 16f	.	.
+8e- 8c 8A-	.	16b-'<LL/ 16g	.	<
+.	.	16cc'< 16a-	.	.
+8E-J	.	16dd-'< 16b-	.	.
+.	.	16ddn'<JJ 16bn	.	.
+8a-L 8c 8A-	.	16ee-'>LL\ 16cc	.	<
+.	.	16ff'> 16dd-X	.	.
+8E-	.	16gg'> 16ee-	.	.
+.	.	16aa-'>JJ 16ff	.	.
+8e- 8A-	.	16bb-X'>LL\ 16gg	.	.
+.	.	16ccc'> 16aa-	.	.
+8E-J)	.	16ddd-X'> 16bb-	.	.
+*	*	*Xped	*	*
+.	.	16eee-'>JJ 16ccc)	.	[
+=90	=90	=90	=90	=90
+*	*	*ped	*	*
+(8EE-'>L	.	(>16fff-XLL 16ddd-	.	.
+.	.	16fff- 16bb-	.	.
+8E-	.	16ddd- 16bb--	.	.
+.	.	16ddd-JJ 16aa-	.	.
+8g 8d- 8B-	.	16bb-XLL 16ggn	.	.
+.	.	16bb- 16ff-X	.	.
+8E-J)	.	16gg 16ee-	.	.
+*	*	*Xped	*	*
+.	.	.	.	.
+.	.	16ggJJ 16ddn	.	.
+*	*	*ped	*	*
+(>8EE-'>L	.	16ff-XLL 16dd-X	.	.
+.	.	16ff- 16b-	.	.
+!	!	!LO:TX:b:t=riten.	!	!
+8E-	.	16dd- 16b--	.	.
+.	.	16dd-JJ 16a-	.	.
+!	!	!LO:N:n=1:acc=n-	!	!
+8d- 8B-	.	16b-XnXLL 16g	.	.
+.	.	16g^> 16f-X	.	.
+8E-J)	.	16g^> 16e-	.	.
+*	*	*Xped	*	*
+.	.	16g^>JJ) 16d-	.	.
+!!LO:LB:g=original
+=91	=91	=91	=91	=91
+4A-\ 4AA-	.	4a- 4c	.	.
+*cue	*	*cue	*	*
+!	!	!LO:TX:a:t=Viol.	!	!
+(>/4A- 4AA-	.	(<4a-	.	pp
+4F 4FF	.	4f	.	.
+8E-L 8EE-	.	8e-L	.	.
+8FJ) 8FF	.	8fJ)	.	.
+=92	=92	=92	=92	=92
+*	*	*^	*	*
+4Dn 4DDn	.	4dn	4ryy	.	.
+!	!	!	!LO:TX:a:t=P:"Cl" przy 4b- 4a-:problem	!	!
+!	!	!	!LO:TX:a:t=Cl.	!	!
+!	!	!	!LO:TX:a:t=P:"Ob" przy 4ff:problem	!	!
+!	!	!	!LO:TX:a:t=Ob.	!	!
+!	!	!	!LO:TX:a:t=P:"Fl" przy 4bb-:problem	!	!
+!	!	!	!LO:TX:a:t=Fl.	!	!
+!LO:TX:a:t=Fag.	!	!	!	!	!
+4b-> 4a-> 4d->\	.	(>4bb- 4ff/	4ryy	.	.
+4bnX> 4a-> 4d->\	.	4bbn 4ff	4ryy	.	.
+*	*	*	*cue	*	*
+4d-X>\	.	4bbny 4ff 4bny	8a-L\	.	.
+.	.	.	8gJ	.	.
+*	*	*v	*v	*	*
+=93	=93	=93	=93	=93
+4g> 4c>	.	4ccc 4een)	.	.
+(<4C 4CC	.	(<4c	.	.
+4BB- 4BBB-	.	4B-	.	.
+8CL 8CC	.	8cL	.	.
+8D-J) 8DD-	.	8d-J)	.	.
+=94	=94	=94	=94	=94
+4E- 4EE-	.	4e-	.	.
+!	!	!LO:TX:a:t=P:"Cl" przy 8b-:problem	!	!
+!	!	!LO:TX:a:t=Cl.	!	!
+!	!	!LO:TX:a:t=P:"Ob" przy 8gg:problem	!	!
+!	!	!LO:TX:a:t=Ob.	!	!
+!	!	!LO:TX:a:t=P:"Fl" przy 8gg nad "O 	!	!
+!	!	!LO:TX:a:t=Fl&colon;	!	!
+!LO:TX:a:t=Fag.	!	!	!	!
+8b-> 8e->L	.	(>8ggL 8dd-	.	.
+8a-> 8f>J	.	8aa-J 8cc	.	.
+4dd-> 4B->	.	4bb- 4ff 4dd-	.	.
+4g> 4e->	.	8cccL 8ee-	.	.
+.	.	8bb-J 8dd-	.	.
+=95	=95	=95	=95	=95
+*	*	*^	*	*
+4a-> 4A->	.	4aa-/ 4cc/)	2ryy	.	.
+4r	.	4r	.	.	.
+4E- 4AA-	.	(>4a-'>	4c	.	.
+4E- 4AA-	.	4a-'>)	4c	.	.
+*ped	*	*	*	*	*
+.	.	.	.	.	.
+*	*	*v	*v	*	*
+=96	=96	=96	=96	=96
+*Xcue	*	*Xcue	*	*
+!LO:TX:b:t=P:w źródle fermata pod pauzą:problem	!	!	!	!
+8AAA-;>\	.	8rA<	.	f
+8ryy	.	(<8E-<L	.	.
+2ryy	.	8c<	.	.
+.	.	8A-<	.	.
+!	!	!	!	!LO:TX:a:t=P:dwukropek za "dim":problem
+.	.	8c	.	>
+.	.	8e-	.	.
+2ryy	.	8cc	.	.
+.	.	8a-	.	.
+!	!	!LO:TX:b:t=smorz.	!	!
+.	.	8cc	.	.
+.	.	8ee-	.	.
+4ryy	.	8aa-	.	.
+.	.	8cccJ	.	.
+*	*	*tuplet	*	*
+=97	=97	=97	=97	=97
+1ryy	.	1aaa-;)	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cresc.", fontstyle="normal"
+!!!RDF**dynam: > = "dim.", fontstyle="normal"
+!!!ENC: Leszek Kubiak
+!!!END: 2019-04-05
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: 2019-04-27
+!!!EED2: Jędrzej Mróz
+!!!EST: 2020-02-25
+!!!rism-genre: Concerto
+!!!rism-key: F minor
+!!!rism-opus: op.  21
+!!!rism-title: Concerto in F minor op.  21
+!!!rism-permalink: https://opac.rism.info/search?id=1001005791&View=rism

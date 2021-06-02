@@ -1,0 +1,336 @@
+!!!!SEGMENT: 028-1-BH-009.krn
+!!!COM: Chopin, Fryderyk
+!!!OPS: Op. 28
+!!!NIFC-rismID: 1001013114
+!!!NIFC-shelfmark: PL-Wbfc 4372/n
+!!!OMD: Largo
+!!!system-decoration: {(s1,s2)}
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*	*I"Nᵒ. 9.	*
+*clefF4	*clefG2	*
+*k[f#c#g#d#]	*k[f#c#g#d#]	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+=1	=1	=1
+*	*^	*
+*ped	*clefF4	*	*
+*	*	*Xtuplet	*
+!	!	!	!LO:DY:rj
+!	!LO:TX:a:t=P:main clefG2 changes to F4 after met(C):problem	!	!
+!	!LO:TX:t=P:nie wyświetla się "Largo" (OMD):problem	!	!
+4EE	(>4B	12G#L 12E	f
+.	.	12BB	.
+*Xped	*	*	*
+.	.	12G#J 12E	.
+*ped	*	*	*
+4BBB	8.BL	12F#L 12D#	.
+.	.	12BB	.
+.	.	12F#J 12D#	.
+*Xped	*	*	*
+.	16BJk	.	.
+*ped	*	*	*
+4EE	4B	12G#L 12E	.
+.	.	12BB	.
+.	.	12G#J 12E	.
+(>8..AAL	4c#	12AL 12E	.
+.	.	12C#	.
+.	.	12AJ 12E	.
+*Xped	*	*	*
+32GG#Jkk	.	.	.
+=2	=2	=2	=2
+*ped	*	*	*
+2FF#	4c#	12AL 12F#	.
+.	.	12C#	.
+.	.	12AJ 12F#	.
+.	8.d#L	12AL 12F#	.
+.	.	12C#	.
+.	.	12AJ 12F#	.
+*Xped	*	*	*
+.	16d#Jk	.	.
+*ped	*	*	*
+4BBB)	4d#	12BL 12F#	.
+.	.	12D#	.
+.	.	12BJ 12F#	.
+8..BBL	4d#	12BL 12G#	.
+.	.	12D#	.
+.	.	12BJ 12G#	.
+(>32BBJkk	.	.	.
+*Xped	*	*	*
+.	.	.	.
+=3	=3	=3	=3
+*ped	*	*	*
+4CC#)	4e	12BL 12G#	.
+.	.	12E	.
+.	.	12BJ 12G#	.
+*Xped	*	*	*
+.	.	.	.
+8..AAL	8.eL	12c#L 12F#	.
+.	.	12E	.
+.	.	12c#J 12F#	.
+.	16eJk	.	.
+(>32AAJkk	.	.	.
+*ped	*	*	*
+4BBB)	4e	12BL 12F#	.
+*Xped	*	*	*
+.	.	12E	.
+.	.	12BJ 12F#	.
+.	.	.	<
+.	.	.	.
+.	.	.	.
+16qqAAA#X/LL	.	.	.
+16qqBBB/JJ	.	.	.
+*ped	*	*	*
+4BBBT>	8.d#L	12BL 12F#	.
+.	.	12D#	.
+.	.	12BJ 12F#	.
+.	16d#Jk	.	.
+.	.	.	[[
+*Xped	*	*	*
+.	.	.	.
+16qqAAA#/LL	.	.	.
+16qqBBB/JJ	.	.	.
+!!LO:LB:g=original
+=4	=4	=4	=4
+*ped	*	*	*
+4CC#	4d#	12BL 12G#	.
+.	.	12E	.
+*Xped	*	*	*
+.	.	12BJ 12G#	.
+*ped	*	*	*
+8..FF#L	8.d#L	12A#XL 12F#	.
+.	.	12E	.
+.	.	12A#J 12F#	<
+.	16c#Jk	.	.
+*Xped	*	*	*
+(<32FF#Jkk	.	.	.
+*ped	*	*	*
+4DD#)	4c#	12AnL 12F#	.
+.	.	12C#	.
+.	.	12AJ 12F#	.
+16qqCC##X/LL	.	.	.
+16qqDD#/JJ	.	.	.
+4DD#t>	8.c#L	12AL 12F#	.
+*Xped	*	*	*
+.	.	12BB	[
+.	.	12AJ 12F#	.
+.	16BJk	.	.
+16qqCC#X'<LL/	.	.	.
+16qqDD#'<	.	.	.
+16qqEE'<	.	.	.
+16qqFF#'<JJ	.	.	.
+.	.	.	.
+=5	=5	=5	=5
+*ped	*	*	*
+(>4EE	4B	12G#L 12E	.
+.	.	12BB	.
+*Xped	*	*	*
+.	.	12G#J 12E	.
+*ped	*	*	*
+4BBB	8.BL	12F#L 12D#	.
+.	.	12BB	.
+.	.	12F#J 12D#	.
+.	16BJk	.	.
+*Xped	*	*	*
+.	.	.	.
+*ped	*	*	*
+4GGGn	4B	12GnL 12Dn	.
+.	.	12BB	.
+.	.	12GJ 12D	.
+8..GGnL	8.BL	12GL 12D	.
+.	.	12BB	.
+.	.	12GJ 12D	.
+!	!LO:TX:b:Bi:t=cres_:problem:dynamics with extention lines	!	!
+!	!	!	!LO:HP:b:Bi:t=cres:ext=ud
+.	16BJk	.	<
+32FFnJkk	.	.	.
+*Xped	*	*	*
+.	.	.	.
+=6	=6	=6	=6
+*ped	*	*	*
+4EE	4cn	12GnL	.
+.	.	12Cn	.
+*Xped	*	*	*
+.	.	12GJ	.
+*ped	*	*	*
+4DDn	4dn	12B-XL 12G	.
+.	.	12Dn	.
+*Xped	*	*	*
+.	.	12B-J 12G	.
+.	.	.	.
+*ped	*	*	*
+4CCn	4e	12B-L 12G	.
+.	.	12E	.
+.	.	12B-J 12G	.
+8..CnyL 8..CC	8.eL	12cL 12G	.
+.	.	12E	.
+.	.	12cJ 12G	.
+.	16eJk	.	.
+*Xped	*	*	*
+32BB-XJkk 32BBB-X	.	.	.
+!!LO:LB:g=original
+=7	=7	=7	=7
+*ped	*	*	*
+4AA 4AAA	4en	12c#XL 12A	.
+.	.	12E	.
+.	.	12c#J 12A	.
+*Xped	*	*	*
+.	.	.	.
+*ped	*	*	*
+8..GGnL 8..GGGn	8.eL	12c#L 12B-X	.
+.	.	12E	.
+.	.	12c#J 12B-	.
+.	16eJk	.	.
+*Xped	*	*	*
+32GGJkk 32GGG	.	.	.
+*ped	*	*	*
+4FFn 4FFFn	4fn	12d-XL 12B-	.
+.	.	12Fn	.
+.	.	12d-J 12B-	.
+*Xped	*	*	*
+.	.	.	.
+*ped	*	*	*
+4FF-X 4FFF-X	4gn	12d-L 12B-	.
+.	.	12Gn	.
+*Xped	*	*	*
+.	.	12d-J 12B-	[[
+=8	=8	=8	=8
+*	*	*	*^
+*ped	*	*	*	*
+!	!	!	!	!LO:DY:rj
+2EE-X 2EEE-X	8a-XL	12cnL 12A-X	.	ff
+.	.	12E-X	.	.
+!	!LO:TX:t=P:note position:problem	!	!	!
+.	8e-XJ	.	.	.
+.	.	12cJ 12A-	.	.
+.	8.e-L	12cL 12Gn	.	.
+.	.	12E-	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+.	.	12B-J 12G	.	.
+.	16d-XJk	.	.	.
+*ped	*	*	*	*
+4AAA-X	8.cL	12A-L	.	.
+.	.	12E-	.	.
+.	.	12A-J	.	.
+.	.	.	>	>
+.	16c-XJk	.	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+*ped	*	*	*	*
+4BBBn)	8.BnL	12G#XL 12D#X	.	.
+.	.	12BB	.	.
+.	.	12AnJ 12D#	.	.
+*Xped	*	*	*	*
+.	16BJk	.	.	]
+*	*	*	*v	*v
+=9	=9	=9	=9
+*ped	*	*	*
+4EE 4EEE	4B	12G#L 12E	p
+.	.	12BB	<
+*Xped	*	*	*
+.	.	12G#J 12E	.
+*ped	*	*	*
+4BBB	8..BL	12F#L 12D#	.
+.	.	12BB	.
+.	.	12F#J 12D#	.
+*Xped	*	*	*
+.	32BJkk	.	.
+*ped	*	*	*
+4EE	4B	12G#L 12E	.
+.	.	12BB	.
+.	.	12G#J 12E	.
+*Xped	*	*	*
+.	.	.	[
+*ped	*	*	*
+8..AAL 8..AAA	4cn	12AL 12E	.
+.	.	12Cn	.
+.	.	12AJ 12E	.
+*Xped	*	*	*
+32AAJkk 32AAA	.	.	.
+!!LO:LB:g=original
+=10	=10	=10	=10
+*ped	*	*	*
+4FFn 4FFFn	4cn	12AL 12Fn	.
+.	.	12Cny	.
+.	.	.	<
+.	.	12AJ 12F	.
+*Xped	*	*	*
+.	.	.	.
+*ped	*	*	*
+4CCn 4CCCn	8..cL	12GnL 12E	.
+.	.	12Cny	.
+.	.	12GJ 12E	.
+*Xped	*	*	*
+.	32cJkk	.	.
+*ped	*	*	*
+4FF 4FFF	4c	12AL 12F	.
+.	.	12Cny	.
+.	.	12AJ 12F	.
+*Xped	*	*	*
+.	.	.	.
+*ped	*	*	*
+8..BB-XL 8..BBB-X	8.dnL	12B-XL 12F	.
+.	.	12Dn	.
+.	.	.	[
+.	.	12B-J 12F	.
+.	16dJk	.	.
+32BB-Jkk 32BBB-	.	.	.
+*Xped	*	*	*
+.	.	.	.
+=11	=11	=11	=11
+*ped	*	*	*
+4GGn 4GGGn	4dn	12B-XL 12Gn	<
+.	.	12Dn	.
+.	.	12B-J 12G	.
+*Xped	*	*	*
+.	.	.	.
+*ped	*	*	*
+4DDn 4DDDn	8..dL	12AL 12F#X	.
+.	.	12D	.
+.	.	12AJ 12F#	.
+*Xped	*	*	*
+!	!	!LO:TX:b:Bi:t=ritenuto.	!
+.	32dJkk	.	.
+*ped	*	*	*
+4GG 4GGG	4d	12BnL 12G	.
+.	.	12D	.
+.	.	12BJ 12G	.
+*Xped	*	*	*
+.	.	.	.
+*ped	*	*	*
+8..BBL 8..BBB	8..d#XL	12BL 12F#	.
+.	.	12D#y	.
+.	.	12BJ 12F#	.
+32BBJkk 32BBB	32eJkk	.	.
+*Xped	*	*	*
+=12	=12	=12	=12
+*^	*	*	*
+*	*^	*	*	*
+*ped	*	*	*	*	*
+[>2EE:	4ryy	2EEE:	4e	12BL 12G#X	ff
+.	.	.	.	12E	.
+.	.	.	.	12BJ 12G#	.
+.	(<4BBB\	.	8..eL	12BL 12G#	.
+.	.	.	.	12E	.
+.	.	.	.	N[>12BJ 12G#	.
+.	.	.	32eJkk	.	.
+!	!	!LO:TX:t=P:obie kreski kończące utwór są grube:problem	!	!	!
+2EE]	2ryy	2BBB;<) 2EEE	2e;> 2BN] 2G# 2E)\	2ryy	.
+*	*	*	*	*Xtuplet	*
+*	*	*	*v	*v	*
+*	*v	*v	*	*
+*v	*v	*	*
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cres.", fontstyle="bold-italic"
+!!!RDF**dynam: > = "decres.", fontstyle="bold-italic"
+!!!ENC: Emilia Ziętek
+!!!END: 2020-03-05
+!!!EED: Antoni Szymański
+!!!EST: revision finished 2020-03-14

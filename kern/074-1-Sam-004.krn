@@ -1,0 +1,325 @@
+!!!!SEGMENT: 074-1-Sam-004.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Bacchanal
+!!!OPS: Op. 74
+!!!PTL: 16 Polnische Lieder
+!!!PPR: Schlesinger
+!!!PPP: Berlin
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: 6138/n
+!!!OMD: Vivace.
+!!!OMD: M. M. [half-dot] = 63.
+!!!system-decoration: (s1){(s2,s3)}
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff2	*	*staff1	*	*
+*	*I"PIANO.	*	*I"SINGSTIMME.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[]	*k[]	*	*k[]	*	*
+*C:	*C:	*	*C:	*	*
+*M3/4	*M3/4	*	*M3/4	*	*
+*MM189	*MM189	*	*MM189	*	*
+=1	=1	=1	=1	=1	=1
+!	!	!LO:DY:rj	!	!	!
+4GG 4GGG\	4G<	f	2.rdd	.	.
+4GG 4GGG\	4G<	.	.	.	.
+!	!LO:TX:t=P:błędne wyświetlanie przednutek:problem	!	!	!	!
+16FF#qqL\	16F#<qqL	.	.	.	.
+16EEqqJ	16E<qqJ	.	.	.	.
+4DD\	4D<	sf	.	.	.
+=2	=2	=2	=2	=2	=2
+!	!	!LO:DY:rj	!	!	!
+4GG 4GGG\	4G<	f	2.rdd	.	.
+4GG 4GGG\	4G<	.	.	.	.
+!	!LO:TX:t=P:błędne wyświetlanie przednutek:problem	!	!	!	!
+16FF#qqL\	16F#<qqL	.	.	.	.
+16EEqqJ	16E<qqJ	.	.	.	.
+4DD\	4D<	sf	.	.	.
+=3	=3	=3	=3	=3	=3
+!	!	!LO:DY:rj	!	!	!
+4GG 4GGG\	4G<	f	2.rdd	.	.
+4GG 4GGG\	4G<	.	.	.	.
+!	!LO:TX:t=P:błędne wyświetlanie przednutek:problem	!	!	!	!
+16FF#qqL\	16F#<qqL	.	.	.	.
+16EEqqJ	16E<qqJ	.	.	.	.
+4DD\	4D<	sf	.	.	.
+=4	=4	=4	=4	=4	=4
+4GG 4GGG\	4G<	.	2.rdd	.	.
+4GG 4GGG\	4G<	.	.	.	.
+4GG 4GGG\	4fn^> 4B< 4G<	.	.	.	.
+!LO:TX:t=P:nie wyświetla się podwójna kreska taktowa:problem	!	!	!	!	!
+=5|!	=5|!	=5|!	=5|!	=5|!	=5|!
+!	!	!	!LO:TX:a:Bi:t=risoluto.	!	!
+!	!	!LO:DY:rj	!	!	!
+4C 4CC	4e 4c 4G<	mf	8e	1 Hol-	.
+.	.	.	8d	-la,	.
+4C 4CC	4e 4c 4G<	.	4.c	hei-	.
+4C 4CC	4e 4c 4G<	.	.	.	.
+.	.	.	8d	-ter!	.
+!!LO:LB:g=original
+=6	=6	=6	=6	=6	=6
+!	!LO:TX:b:Bi:t=cresc. _ :problem:dynamics with line extensions	!	!LO:TX:a:Bi:t=cresc. _ :problem:dynamics with line extensions	!	!
+!	!	!LO:HP:b:Bi:t=cresc.:ext=ud	!	!	!LO:HP:a:Bi:t=cresc.:ext=ud
+4C 4CC	4e 4c 4G<	<	8e	trin-	<
+.	.	.	8f	-ke	.
+4C 4CC	4e 4c 4G<	.	4.g	wei-	.
+4C 4CC	4e 4c 4G<	.	.	.	.
+.	.	.	8a	-ter	.
+=7	=7	=7	=7	=7	=7
+4C 4CC	4e 4c 4G<	.	8g	bis	.
+.	.	.	8a	in	.
+4C 4CC	4e 4c 4G<	.	4g	E-	.
+4C 4CC	4e 4c 4G<	[	4cc	-wig-	[
+=8	=8	=8	=8	=8	=8
+*ped	*	*	*	*	*
+!LO:TX:b:t=P:znak pedalizacji przed nutą:problem	!	!	!	!	!
+!	!	!LO:DY:rj	!	!	!LO:DY:a:rj
+2.GG 2.GGG;<	2.g 2.d 2.B< 2.G<	ff	2.dd;>	-keit!	sf
+*Xped	*	*	*	*	*
+=9	=9	=9	=9	=9	=9
+!	!	!LO:DY:rj	!	!	!LO:DY:a:rj
+2.GG\	4r	p	8f	Ha,	p
+.	.	.	8a	du	.
+.	4f 4B< 4G</	.	4f	Lo-	.
+.	.	.	(<16qqf/LL	.	.
+.	.	.	16qqe/JJ)	.	.
+.	4f 4B< 4G</	.	4d^>	-se,	.
+=10	=10	=10	=10	=10	=10
+2.C\	4r	.	8e	im	.
+.	.	.	8g	Ge-	.
+.	4e 4c 4G</	.	4e	-ko-	.
+.	.	.	(<16qqe/LL	.	.
+.	.	.	16qqd/JJ)	.	.
+.	4e 4c 4G</	.	4c^>	-se	.
+!!LO:LB:g=original
+=11	=11	=11	=11	=11	=11
+2.GG\	4r	.	8d	giess't	.
+.	.	.	.	.	.
+.	.	.	8e	mir	.
+.	4f 4B< 4G<	.	4f	Wein	.
+.	4f 4B< 4G<	.	4a	auf's	.
+=12	=12	=12	=12	=12	=12
+2C\	4r	.	2.g	Kleid,	.
+.	4e 4c 4G<	.	.	.	.
+4C#X	4e^> 4B-X< 4G<	.	.	.	.
+=13	=13	=13	=13	=13	=13
+4D	4f 4d 4A<	.	8f	ha,	.
+!	!LO:TX:b:Bi:t=legato.	!	!	!	!
+.	.	.	8a	du	.
+4C\	4f 4d 4A-X<	.	4f	Lo-	.
+.	.	.	(<16qqf/LL	.	.
+.	.	.	16qqe/JJ)	.	.
+4BB	4f^> 4d 4G<	.	4d^>	-se,	.
+=14	=14	=14	=14	=14	=14
+4C	4e 4c 4G<	.	8e	im	.
+.	.	.	8g	Ge-	.
+4AA	4e 4c 4A<	.	4e	-ko-	.
+.	.	.	(<16qqe/LL	.	.
+.	.	.	16qqd/JJ)	.	.
+4EE	4e^> 4c 4G<	.	4c^>	-se	.
+=15	=15	=15	=15	=15	=15
+4FF\	4d 4c 4A	.	8d	giess't	.
+.	.	.	8a	mir	.
+4GG	4f 4B< 4G<	.	4.g^>	Wein	.
+4GG	4f 4B< 4G<	.	.	.	.
+.	.	.	8BJ	auf's	.
+=16	=16	=16	=16	=16	=16
+4C 4CC\	4e 4c 4G<	.	2.c	Kleid.	.
+4G 4C\	4r	.	.	.	.
+4G^> 4C	4r	.	.	.	.
+!!LO:LB:g=original
+=17||	=17||	=17||	=17||	=17||	=17||
+*ped	*	*	*	*	*
+!LO:TX:b:t=[segno]:rj	!LO:TX:a:t=[segno]:rj	!LO:DY:rj	!	!	!
+4B 4G 4F 4C	(>8gL]\	f	2.rdd	.	.
+.	8ddJ	.	.	.	.
+4B 4G 4F 4C	4.gg)	.	.	.	.
+4B 4G 4F 4C	.	.	.	.	.
+.	8ee	.	.	.	.
+=18	=18	=18	=18	=18	=18
+4B 4G 4F 4C	(>8ddL	.	2.rdd	.	.
+.	8gJk)	.	.	.	.
+*Xped	*	*	*	*	*
+4B 4G 4F 4C	4.dd	.	.	.	.
+4c 4G 4E 4C	.	.	.	.	.
+.	8ccT>	.	.	.	.
+=19	=19	=19	=19	=19	=19
+*ped	*	*	*	*	*
+4B 4G 4F 4C	8gL	<	2.rdd	.	.
+.	8ddJk	.	.	.	.
+4B 4G 4F 4C	8ggL	[	.	.	.
+.	8ff#X	.	.	.	.
+4B 4G 4F 4C	8gg	.	.	.	.
+.	8eeJ	.	.	.	.
+=20	=20	=20	=20	=20	=20
+4B 4G 4F 4C	(>8ddL	.	2.rdd	.	.
+*Xped	*	*	*	*	*
+.	8gJk)	.	.	.	.
+4c 4G 4E 4C	4cc	.	.	.	.
+4c 4G 4E 4C	(>8eeL	.	.	.	.
+.	8ff#XJ)	.	.	.	.
+=21	=21	=21	=21	=21	=21
+4B 4G 4F 4C	(>8ggL	.	2.rdd	.	.
+.	8gJk)	.	.	.	.
+4c 4G 4E 4C	4cc	.	.	.	.
+4c 4G 4E 4C	(>8eeL	.	.	.	.
+.	8ff#XJ)	.	.	.	.
+=22	=22	=22	=22	=22	=22
+4B 4G 4F 4C	(>8ggL	.	2.rdd	.	.
+.	8gJk)	.	.	.	.
+4c 4G 4E 4C	4cc	.	.	.	.
+4c 4G 4E 4C	(>8eeL	.	.	.	.
+.	8ff#XJ)	.	.	.	.
+=23	=23	=23	=23	=23	=23
+*ped	*	*	*	*	*
+4B 4G 4F 4C	(>8ggL	.	2.rdd	.	.
+.	8aaJk	.	.	.	.
+4B 4G 4F 4C	4gg	.	.	.	.
+4B 4G 4F 4C	8ddL	.	.	.	.
+*Xped	*	*	*	*	*
+.	8eeXJ)	.	.	.	.
+=24	=24	=24	=24	=24	=24
+*ped	*	*	*	*	*
+4c 2G 2E 2C	4cc	.	2.rdd	.	.
+!LO:TX:a:Bi:t=Fine.	!	!	!	!	!
+!	!	!LO:DY:rj	!	!	!
+4C 4CC	4ccc 4gg 4ee 4cc	sf	.	.	.
+*Xped	*	*	*	*	*
+4r	4r	.	.	.	.
+!LO:TX:t=P:nie wyświetla się podwójna kreska taktowa:problem	!	!	!	!	!
+!!LO:PB:g=original
+=25|!	=25|!	=25|!	=25|!	=25|!	=25|!
+!	!	!LO:DY:rj	!	!	!
+4GG 4GGG\	4G<	f	2.rdd	.	.
+4GG 4GGG\	4G<	.	.	.	.
+!	!LO:TX:t=P:błędne wyświetlanie przednutek:problem	!	!	!	!
+16FF#\qqL	16F#<qqL	.	.	.	.
+16EEqqJ	16E<qqJ	.	.	.	.
+4DD\	4D<	sf	.	.	.
+=26	=26	=26	=26	=26	=26
+!	!	!LO:DY:rj	!	!	!
+4GG 4GGG\	4G<	f	2.rdd	.	.
+4GG 4GGG\	4G<	.	.	.	.
+!	!LO:TX:t=P:błędne wyświetlanie przednutek:problem	!	!	!	!
+16FF#\qqL	16F#<qqL	.	.	.	.
+16EEqqJ	16E<qqJ	.	.	.	.
+4DD\	4D<	sf	.	.	.
+=27	=27	=27	=27	=27	=27
+!	!	!LO:DY:rj	!	!	!
+4GG 4GGG\	4G<	f	2.rdd	.	.
+4GG 4GGG\	4G<	.	.	.	.
+!	!LO:TX:t=P:błędne wyświetlanie przednutek:problem	!	!	!	!
+16FF#\qqL	16F#<qqL	.	.	.	.
+16EEqqJ	16E<qqJ	.	.	.	.
+4DD\	4D<	sf	.	.	.
+=28	=28	=28	=28	=28	=28
+4GG 4GGG\	4G<	.	2.rdd	.	.
+4GG 4GGG\	4G<	.	.	.	.
+4GG 4GGG\	4fn^> 4B< 4G<	.	.	.	.
+!LO:TX:t=P:nie wyświetla się podwójna kreska taktowa:problem	!	!	!	!	!
+=29|!	=29|!	=29|!	=29|!	=29|!	=29|!
+*	*	*	*	*^	*
+*	*	*	*	*	*^	*
+*	*	*	*	*	*	*^	*
+!	!	!	!LO:TX:a:Bi:t=risoluto.	!	!	!	!	!
+4C 4CC	4e 4c 4G<	mf	8e	2. Fass'	3. Willst	4. Kannst	5. Lass	.
+.	.	.	8d	ich	du	nicht	sie	.
+4C 4CC	4e 4c 4G<	.	4.c	Täub-	träu-	ste-	flu-	.
+4C 4CC	4e 4c 4G<	.	.	.	.	.	.	.
+.	.	.	8d	-chen	-men?	-hen,	-chen,	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+4C 4CC	4e 4c 4G<	.	8e	dich	willst	kannst	lass	.
+.	.	.	8f	um's	ver-	nicht	sie	.
+!	!LO:TX:b:Bi:t=cresc. _ :problem:dynamics with line extensions	!	!LO:TX:a:Bi:t=cresc. _ :problem:dynamics with line extensions	!	!	!	!	!
+!	!	!LO:HP:b:Bi:t=cresc.:ext=ud	!	!	!	!	!	!LO:HP:a:Bi:t=cresc.:ext=ud
+4C 4CC	4e 4c 4G<	<	4.g	Leib-	-säu-	ge-	su-	<
+4C 4CC	4e 4c 4G<	.	.	.	.	.	.	.
+.	.	.	8a	-chen,	-men	-hen,	-chen,	.
+!!LO:LB:g=original
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+4C 4CC	4e 4c 4G<	.	8g	wie	was	möch-	Lieb-	.
+.	.	.	8a	die	ein	-test	-chen,	.
+4C 4CC	4e 4c 4G<	[	4g	Au-	Gott	gern	schenk	[
+4C 4CC	4e 4c 4G<	.	4cc	-gen	be-	hin-	mir	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32
+*^	*^	*	*	*	*	*	*	*
+*>S/main	*>S/ossia	*>S/main	*>S/ossia	*	*	*	*	*	*	*
+*coll8ba	*coll8ba	*	*	*	*	*	*	*	*	*
+!LO:TX:t=P:w źródle pod tym i kolejnym taktem alternatywna wersja partii fortepianu:problem	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:DY:rj	!	!	!	!	!	!LO:DY:a:rj
+[<2.GG;< 2.GGG/	2.AA;< 2.AAA;<	2.g [>2.d [>2.B<;> [<2.G<	2.d;> 2.c; 2.F#<;	ff	2.dd;>	sprüh'n!	scheert?	aus?	ein!	sf
+*Xcoll8ba	*Xcoll8ba	*	*	*	*	*	*	*	*	*
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+!	!	!	!	!	!	!	!	!	!	!LO:DY:rj
+*	*coll8ba	*	*	*	*	*	*	*	*	*
+2.GG] 2.GGG\	2.GG;< 2.GGG;	4d] 4B<] 4G<]	4d 4B< 4G<	.	8f	Lip-	un-	Wei-	Lass	p
+.	.	.	.	p	8a	-pen	-sre	-ber	uns	.
+.	.	4f 4B< 4G</	4fn 4B< 4G</	.	4f	müs-	Er-	flu-	trin-	.
+.	.	.	.	.	(<16qqf/LL	.	.	.	.	.
+.	.	.	.	.	16qqe/JJ)	.	.	.	.	.
+.	.	4f^> 4B< 4G</	4f 4B< 4G</	.	4d^>	-sen	-de	-chen	-ken	.
+*	*Xcoll8ba	*	*	*	*	*	*	*	*	*
+*>XS/main	*>XS/ossia	*>XS/main	*>XS/ossia	*	*	*	*	*	*	*
+*	*	*v	*v	*	*	*	*	*	*	*
+*v	*v	*	*	*	*	*	*	*	*
+=34	=34	=34	=34	=34	=34	=34	=34	=34
+2.C\	4r	.	8e	feu-	voll	die	bis	.
+.	.	.	8g	-rig	Be-	dich	wir	.
+.	4e 4c 4G</	.	4e	küs-	-schwer-	su-	sin-	.
+.	.	.	(<16qqe/LL	.	.	.	.	.
+.	.	.	16qqd/JJ)	.	.	.	.	.
+.	4e^> 4c 4G</	.	4c^>	-sen,	-de	-chen,	-ken,	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35
+2.GG\	4r	.	8d	wenn	ist	ru-	lass	.
+!	!	!	!	!	!	!	!	!LO:HP:a
+.	.	.	8e	die	den	-fen	uns	<
+.	4f 4B< 4G<	.	4f	Wan-	Teu-	dich	se-	.
+.	4f 4B< 4G<	.	4a	-gen	-fel	nach	-lig	[
+!!LO:LB:g=original
+=36	=36	=36	=36	=36	=36	=36	=36	=36
+2C\	4r	.	2.g^>	glüh'n,	werth,	Haus,	sein,	.
+.	4e 4c 4G<	.	.	.	.	.	.	.
+4C#X	4e 4B-X< 4G<	.	.	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37	=37
+!	!LO:TX:b:Bi:t=legato.	!	!	!	!	!	!	!
+4D	4f 4d 4A<	.	8f	Lip-	un-	Wei-	lass	.
+.	.	.	.	.	.	.	.	.
+.	.	.	8a	-pen	-sre	-ber	uns	.
+4C\	4f 4d 4A-X<	.	4f	müs-	Er-	flu-	trin-	.
+.	.	.	(<16qqf/LL	.	.	.	.	.
+.	.	.	16qqe/JJ)	.	.	.	.	.
+4BB	4f 4d 4G<	.	4d^>	-sen	-de	-chen	-ken	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38
+4C	4e 4c 4G<	.	8e	feu-	voll	die	bis	.
+.	.	.	8g	-rig	Be-	dich	wir	.
+4AA	4e 4c 4A<	.	4e	küs-	-schwer-	su-	sin-	.
+.	.	.	(<16qqe/LL	.	.	.	.	.
+.	.	.	16qqd/JJ)	.	.	.	.	.
+4EE	4e^> 4c 4G<	.	4c^>	-sen,	-de	-chen,	-ken,	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39
+4FF\	4d 4c 4A	.	8d	wenn	ist	ru-	lass	.
+.	.	.	8a	die	den	-fen	uns	.
+4GG	4f 4B< 4G<	.	4.g^>	Wan-	Teu-	dich	se-	.
+4GG	4f 4B< 4G<	.	.	.	.	.	.	.
+.	.	.	8BJ	-gen	-fel	nach	-lig	.
+=40	=40	=40	=40	=40	=40	=40	=40	=40
+4C 4CC\	4e 4c 4G<	.	2.c	glüh'n!	werth!	Haus!	sein!	.
+4C 4CC\	4e 4c 4G<	.	.	.	.	.	.	.
+!LO:TX:b:Bi:t=D.S.	!	!	!	!	!	!	!	!
+4C 4CC\	4e 4c 4G<	.	.	.	.	.	.	.
+!LO:TX:b:t=[segno]	!LO:TX:a:t=[segno]	!	!LO:TX:a:t=[segno]	!	!	!	!	!
+*	*	*	*	*	*	*v	*v	*
+*	*	*	*	*	*v	*v	*
+*	*	*	*	*v	*v	*
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cresc." fontstyle="bold-italic"
+!!!RDF**dynam: > = "dim." fontstyle="bold-italic"
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2020-01-29
+!!!EED: Mateusz Mrugas
+!!!EST: revision finished 2020-02-02

@@ -1,0 +1,1439 @@
+!!!!SEGMENT: 048_1-1a-Sm-001.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: 13e. Nocturne
+!!!OPS: Op: 48
+!!!PTL: 13e. et 14e. Nocturne pour Piano
+!!!PPR: M. Schlesinger
+!!!PPP: Paris
+!!!NIFC-rismID: M/176
+!!!NIFC-shelfmark: PL-Wmfc M/176
+!!!OMD: Lento.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*c:	*c:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+=1-	=1-	=1-
+!LO:TX:a:t=m.v.	!	!
+*ped	*	*
+4C' 4CC	4r	.
+*Xped	*	*
+4g' 4e- 4G	4gg	.
+*ped	*	*
+4C' 4CC	4r	.
+4a-' 4e- 4A-	4aa-	.
+*Xped	*	*
+=2	=2	=2
+*ped	*	*
+4BBn' 4BBBn	8r	.
+.	(>4gg	.
+4g' 4f 4d 4G	.	.
+*Xped	*	*
+.	[8dd	.
+*ped	*	*
+4C' 4CC	16ddLL]	.
+.	16ee-	.
+.	16ff	.
+.	16ee-JJ	.
+4g' 4e- 4c 4G	16ddLL	.
+.	16ee-	.
+*Xped	*	*
+.	16ff	.
+.	16ggJJ	.
+=3	=3	=3
+*ped	*	*
+4AA-' 4AAA-	4cc	.
+4a-' 4e- 4c	8.ccL	.
+*Xped	*	*
+.	16ccJk	.
+*ped	*	*
+4FF' 4FFF	4dd	.
+4d' 4c 4F	8.ccL	.
+*Xped	*	*
+.	16a-Jk	.
+!!LO:LB:g=original
+=4	=4	=4
+*ped	*	*
+4GG' 4GGG	[4g	.
+4Bn' 4F	16gLL]	.
+.	8qb-/	.
+.	16a-	.
+*Xped	*	*
+.	16g	.
+.	16dJJ	.
+*ped	*	*
+4CC' 4CCC	16e-LL	.
+.	16cJJ)	.
+.	8r	.
+4G' 4E-	4r	.
+*Xped	*	*
+.	.	.
+=5	=5	=5
+*ped	*	*
+4EE-' 4EEE-	4r	.
+*Xped	*	*
+4g' 4e- 4B- 4G	4gg	.
+*ped	*	*
+4AA-' 4AAA-	4r	.
+!LO:TX:a:t=2	!	!
+*Xped	*	*
+4e-' 4c 4F	[4aa-	.
+=6	=6	=6
+*ped	*	*
+4BB-' 4BBB-	(>8aa-]	.
+.	4gg	.
+8a- 8d 8B-	.	.
+*Xped	*	*
+16r	[8ff	.
+16BBn' 16BBBn	.	.
+*ped	*	*
+4C' 4CC	16ffLL]	.
+.	16ee-	.
+.	16ff	.
+.	16qee-/LL	.
+.	16qff/JJ	.
+.	16ee-JJ	.
+4g' 4e- 4An	16ddnLL	.
+.	16ee-	.
+*Xped	*	*
+.	16ff	.
+.	16ggJJ	.
+!!LO:LB:g=original
+=7	=7	=7
+*ped	*	*
+4D' 4DD	8dd\L	.
+.	[8dJ	.
+4g' 4B-	16dLL]	.
+*Xped	*	*
+.	16g	.
+.	16cc	.
+*ped	*	*
+.	16ddJJ	.
+4DD' 4DDD	4..ee-	.
+4c' 4An	.	.
+*Xped	*	*
+!LO:TX:a:t=3	!	!
+.	16f#X	.
+=8	=8	=8
+*ped	*	*
+4GG' 4GGG	[4.f#X	.
+8d' 8B- 8D	.	.
+*Xped	*	*
+16r	32f#LLL]	.
+.	32g	.
+(<16DD	32b-	.
+.	32anJJJ	.
+*ped	*	*
+4GG' 4GGG)	4g)	.
+4d' 4B- 4D	4r	.
+*Xped	*	*
+.	.	.
+=9	=9	=9
+*ped	*	*
+4GG-X 4GGG-X	4r	.
+*Xped	*	*
+4e- 4c 4A- 4G-X	(>[4a-\	.
+*ped	*	*
+4FF 4FFF	8a-L]	.
+.	8dd-X	.
+4f 4d-X 4A- 4F	8ff	.
+*Xped	*	*
+.	8bb-J	.
+!!LO:LB:g=original
+=10	=10	=10
+*ped	*	*
+4CC' 4CCC	[4.aa-	.
+4e-' 4A- 4E-	.	.
+.	8qaa-/L]	.
+.	8qg-X/	.
+.	8qa-/	.
+.	8qee-/J	.
+!LO:TX:a:t=P:oznaczenie cyfrowe trioli nad nutami:problem	!	!
+.	24aa-LL	.
+.	24gg-X	.
+*Xped	*	*
+.	24ffJJ	.
+.	(8qf/L	.
+.	8qa-/	.
+.	8qdd-/J	.
+*ped	*	*
+4DD-X' 4DDD-X	4ff))	.
+8d-X' 8A- 8F	4r	.
+*Xped	*	*
+16r	.	.
+16C' 16CC	.	.
+=11	=11	=11
+*ped	*	*
+4BBn' 4BBBn	4r	.
+*Xped	*	*
+4f' 4d 4G	(>4g	.
+*ped	*	*
+.	16qa-/LL	.
+.	16qb-/JJ	.
+4C' 4CC	16a-LL	.
+.	16g	.
+.	16bn	.
+.	16ccJJ	.
+4g' 4c 4G	16ddLL	.
+.	16ee-	.
+.	16ccc	.
+*Xped	*	*
+.	16aa-JJ	.
+=12	=12	=12
+*ped	*	*
+4D' 4DD	[4gg	.
+!LO:TX:a:t=P:oznaczenie cyfrowe sekstoli nad nutami:problem	!	!
+4g' 4f 4Bn 4G	24ggLL]	.
+.	24cc#X	.
+*Xped	*	*
+.	24dd	.
+.	24gg	.
+.	24ff	.
+.	24ee-JJ	.
+*ped	*	*
+4E-' 4EE-	4ee-)	.
+8g 8c 8G	4r	.
+16r	.	.
+*Xped	*	*
+16E- 16EE-	.	.
+!!LO:PB:g=original
+=13	=13	=13
+*ped	*	*
+4F' 4FF	4r	.
+*Xped	*	*
+4a-' 4d 4A-	(>[4bn	.>]
+*ped	*	*
+4E-' 4EE-	8bL]	.
+.	8cc	.
+8g' 8c 8G	8dd	.
+*Xped	*	*
+16r	8ee-J)	.
+16C' 16CC	.	.
+=14	=14	=14
+*ped	*	*
+4BBn' 4BBBn	4r	.
+*Xped	*	*
+4g' 4f 4d 4G	(>[>4dd	>]
+*ped	*	*
+4C' 4CC	8ddL]	.
+.	8ee-	.
+8g' 8e- 8c 8G	8ff	.
+16r	8ggJ	.
+*Xped	*	*
+16CC'	.	.
+=15	=15	=15
+*ped	*	*
+4FF' 4FFF	8ggL	p
+.	8ff	.
+4a-' 4c 4F	8aa-	.
+*Xped	*	*
+.	8ccJ	.
+*ped	*	*
+4AA-' 4AAA-	8ddL	.
+.	8ee-	.
+.	8qee-/L	.
+.	8qff/	.
+.	8qee-/	.
+.	8qdd/	.
+.	8qee-/J	.
+4a-' 4c 4F	8gg	.
+.	8ffJ	.
+!!LO:LB:g=original
+=16	=16	=16
+*ped	*	*
+4BB-' 4BBB-	2dd)	.
+8a-' 8d 8B- 8F	.	.
+*Xped	*	*
+16r	.	.
+(16BB- 16BBB-	.	.
+*ped	*	*
+4BBn 4BBBn)	2r	.
+8g' 8f 8d 8G	.	.
+16r	.	.
+*Xped	*	*
+16GG 16GGG'	.	.
+=17	=17	=17
+*ped	*	*
+4C 4CC	4r	.
+*Xped	*	*
+4b-> 4en> 4c>\	4gg/	.
+*ped	*	*
+4FF 4FFF	4r	.
+*Xped	*	*
+4a-> 4e-X> 4c>\	4aa-/	.
+=18	=18	=18
+*ped	*	*
+4BB-' 4BBB-	8r	.
+.	(>4gg	.
+4a-' 4d 4B- 4F	.	.
+*Xped	*	*
+.	[8ff	.
+*ped	*	*
+4E-' 4EE-	16ffLL]	.
+.	16ee-	.
+.	16ff	.
+.	16qee-/LL	.
+.	16qff/JJ	.
+.	16ee-JJ	.
+4g' 4d 4B- 4G	16ddLL	.
+.	16ee-	.
+*Xped	*	*
+.	16ff	.
+.	16ggJJ	.
+!!LO:LB:g=original
+=19	=19	=19
+!LO:TX:a:t=P:na przednutce gg kończy się łuk, który nie ma początku:problem	!	!
+.	8qgg/	.
+*ped	*	*
+4AA-' 4AAA-	2cc)	.
+*Xped	*	*
+4g' 4c 4A-	.	.
+*ped	*	*
+4Dn' 4DDn	4r	.
+4f' 4c 4A-	(>4ff	.
+*Xped	*	*
+=20	=20	=20
+.	8qbn/	.
+*ped	*	*
+4GG' 4GGG	4.ee-	.
+*Xped	*	*
+4f' 4Bn 4G	.	.
+.	[8dd	.
+*ped	*	*
+4AA-' 4AAA-	16ddLL]	<
+.	16cc	.
+.	16dd	.
+.	16qcc/LL	.
+.	16qdd/JJ	.
+.	16ccJJ	.
+4e-' 4A- 4E-	16bnLL	.
+.	16cc	.
+*Xped	*	*
+.	16dd	.
+.	16ee-JJ	[
+=21	=21	=21
+*ped	*	*
+4EE-' 4EEE-	4g')	.
+*Xped	*	*
+4c' 4G 4E-	(>[>4ccc	>
+*ped	*	*
+4FF' 4FFF	16cccLL]	.
+.	16bbn	.
+.	16bb-X	.
+.	16aanJJ	]
+4d-X' 4A- 4D-X	16aa-XLL	.
+.	16ff	.
+*Xped	*	*
+.	16a-	.
+.	[>16dd-XJJ	.
+!!LO:LB:g=original
+=22	=22	=22
+*ped	*	*
+4GG' 4GGG	16dd-LL] 16en	.
+.	16cc	.
+.	8qee-X/	.
+.	16dd-X	.
+.	16ccJJ	.
+4c' 4B- 4En	16dd#XLL	.
+*Xped	*	*
+.	16een	.
+.	16aa-	.
+.	16ggJJ	.
+*ped	*	*
+!LO:TX:a:t=P:oznaczenie cyfrowe trioli nad nutami:problem	!	!
+4AA-' 4AAA-	16fLL	.
+.	16cc	.
+.	16ff	.
+.	16ggJJ	.
+4c' 4F	16bb-LL	.
+.	16aa-	.
+*Xped	*	*
+.	16cc	.
+.	16ddnJJ	.
+=23	=23	=23
+*ped	*	*
+4GG' 4GGG	4ee-X)	.
+4c' 4G 4E-	8r	f
+*Xped	*	*
+.	(>24ccLL	.
+.	24dd	.
+.	24ccJJ	.
+!	!LO:TX:a:t=ten	!
+*ped	*	*
+4GG' 4GGG	4g^)	.
+4Bn' 4G 4D	8r	.
+*Xped	*	*
+.	(<24gLL	.
+.	24a-	.
+.	24gJJ	.
+!	!LO:TX:a:t=ten	!
+=24	=24	=24
+*^	*	*
+4rF	1CC 1CCC	1c^)	.
+(4B- 4G	.	.	.
+4An 4F#X	.	.	.
+!LO:TX:b:B:t=V.S.	!	!	!
+4A-X 4Fn)	.	.	.
+*v	*v	*	*
+!!LO:PB:g=original
+=25||	=25||	=25||
+*k[]	*k[]	*
+!	!LO:TX:a:t=Poco piu lento.	!
+*ped	*	*
+!	!LO:TX:b:t=sotto voce.	!
+2C\ 2CC\	(>2e 2c 2G< 2E<	.
+*Xped	*	*
+.	.	.
+*ped	*	*
+4GG\ 4GGG\	4d 4B< 4G< 4F<	.
+8.GG\L	8.e 8.B< 8.G< 8.F<L	.
+*Xped	*	*
+16GGJk	16f 16B< 16G< 16F<J	.
+=26	=26	=26
+*ped	*	*
+4C\ 4CC\	4e 4c 4E<)	.
+4C\ 4CC\	(4G< 4E</	.
+4C\ 4CC\	4c< 4E</	.
+4C\ 4CC\	4e 4c 4G<	.
+=27	=27	=27
+2E\ 2GG\ 2CC\	2g 2c 2G<	.
+*Xped	*	*
+.	.	.
+*ped	*	*
+4E\ 4C 4AA\	4e 4c 4A<	.
+.	(<8qe</	.
+8.AA\L 8.AAA\	8.d<L 8.A< 8.E<)	<
+*Xped	*	*
+[16AAJk 16AAA	[16c<Jk [>16A< 16E<	[
+=28	=28	=28
+*ped	*	*
+2AA\] 2DD\	2d< 2c<] 2A<] 2F#<X 2D<	>
+*Xped	*	*
+*ped	*	*
+4GG\ 4GGG\	4d< 4B< 4G< 4D<	]
+4Fn\ 4GG\	4g 4fn 4d#X 4B< 4G<	.
+*Xped	*	*
+!!LO:LB:g=original
+=29	=29	=29
+!LO:TX:a:t=sempre piano.	!	!
+*ped	*	*
+2G 2C 2GG 2CC:	2ee\ 2g\ 2e\	.
+*Xped	*	*
+*ped	*	*
+4G 4F 4GG 4CC	4dd\ 4g\ 4d\	.
+*Xped	*	*
+*ped	*	*
+8GL 8C 8GG 8CC	8eeL 8g 8e	.
+*Xped	*	*
+*ped	*	*
+8GJ 8D 8GG 8CC	8ffJ 8b 8g 8f	.
+*Xped	*	*
+=30	=30	=30
+*ped	*	*
+4G 4C 4GG 4CC:	4ee\ 4cc\ 4g\ 4e:\	.
+4E 4GG 4CC	4g 4e 4c 4G	.
+*Xped	*	*
+4A/ 4E/ 4AA/	4cc 4e 4c	.
+*ped	*	*
+4B 4E 4EE:	4ee 4b 4g 4e:	.
+*Xped	*	*
+=31	=31	=31
+*ped	*	*
+2c 2G 2E 2C 2GG 2CC:	2gg 2ee 2cc 2g 2e:	.
+*Xped	*	*
+*ped	*	*
+4G#X 4BB 4EE	4ee\ 4b\ 4g#X\ 4e\	.
+8A\L 8D\ 8FF\	8ddL 8a 8d 8c)	.
+16r	16r	.
+16GnJk 16D 16GG	(>16gnJk 16f 16B	.
+=32	=32	=32
+.	(>8qB/	>
+4G 4D [>4GG	2dd 2g 2f 2B)	.
+*Xped	*	*
+4GG] 4GGG	.	.
+*ped	*	*
+2G 2C 2GG 2CC:	2cc 2e 2c:	]
+*Xped	*	*
+!!LO:LB:g=original
+=33	=33	=33
+*ped	*	*
+2c/ 2F/ 2C/ 2FF/	2aa 2cc 2a	.
+*Xped	*	*
+*ped	*	*
+4G 4C 4EE	4gg 4cc 4g	.
+*Xped	*	*
+*ped	*	*
+4A 4C 4EE-X	4aa 4cc 4a 4g	.
+*Xped	*	*
+=34	=34	=34
+*ped	*	*
+4A 4D 4AA 4DD	4ff#X 4dd 4a 4f#X	.
+8.AL 8.D 8.FF#X	8.ddL 8.a 8.d 8.c	.
+*Xped	*	*
+16A#XJk 16D 16FF#	16ddJk 16a#X 16d	.
+*ped	*	*
+4B/ 4D/ 4GG/	4dd 4b 4d	.
+*Xped	*	*
+*ped	*	*
+4c/ 4D/ 4AA/	4dd 4f# 4d	.
+*Xped	*	*
+=35	=35	=35
+*ped	*	*
+2d/ 2G/ 2D/ 2GG:/	2bb 2dd 2b	.
+*Xped	*	*
+4A 4D 4FF#X	4aa 4dd 4a	.
+4B/ 4D#X/ 4BB/ 4FFn/	4bb 4dd#X 4b 4a	.
+=36	=36	=36
+*	*^	*
+*ped	*	*	*
+!LO:TX:a:t=P:oznaczenie cyfrowe trioli nad nutami:problem	!	!	!
+2B 2E 2BB 2EE:	2gg#X 2ee 2b 2g#X:	2.rcyy	.
+*Xped	*	*	*
+*ped	*	*	*
+4B 4E 4BB 4EE	4gg 4ee 4g 4b	.	.
+*Xped	*	*	*
+*ped	*	*	*
+4B/ 4D/ 4GG/	12dd\L	4gg 4g 4f	.
+*Xped	*	*	*
+.	12.ff	.	.
+.	24eeJk	.	.
+*	*v	*v	*
+!!LO:LB:g=original
+=37	=37	=37
+*ped	*	*
+2G 2C 2GG 2CC:	2gg 2ee 2cc 2e:	pp
+*Xped	*	*
+*ped	*	*
+4G 4GG 4CC:	4gg 4dd 4b 4g 4f	.
+8GL 8GG 8CC:	8ggL 8ee 8b 8g 8f	.
+8GJ 8GG 8CC:	8ggJ 8ff 8b 8g 8f	.
+*Xped	*	*
+=38	=38	=38
+*ped	*	*
+4G\ 4C\ 4GG\ 4CC\	4gg 4ee 4cc 4e)	.
+4GG\ 4CC\	(>4g/ 4e/ 4c/ 4G</ 4E</	<
+*Xped	*	*
+!LO:TX:a:t=cres.	!	!
+*ped	*	*
+4A 4E 4AA	4cc 4a 4e 4c	.
+*Xped	*	*
+*ped	*	*
+4c 4E 4GG	4ee 4cc 4g 4e	[
+*Xped	*	*
+=39	=39	=39
+*ped	*	*
+8GG 8GGG	8gg 8ee 8cc 8g)	.
+*Xped	*	*
+*Xtuplet	*Xtuplet	*
+24FF#X\LL 24FFF#X\	(>24f#XLL^> 24F#<X	<
+24GG 24GGG	24g 24G<	.
+24GGJJ 24GGG	24gJJ 24G<	.
+24GG\LL 24GGG\	24gLL 24G<	.
+24AA-X 24AAA	24a-X 24A-X<	.
+24AA-JJ 24AAA	24a-JJ 24A-<	[
+24AA-\LL 24AAA\	24a-LL 24A-<	>
+24GG 24GGG	24g 24G<	.
+*ped	*	*
+24GGJJ 24GGG	24gJJ 24G<)	.
+4c 4Fn 4D 4GG:	(<4ee 4g 4e	]>
+*Xped	*	*
+8BL 8F 8D 8GG	8ddL 8g 8d	.
+*ped	*	*
+8GG\J 8GGG\	8gJ 8f# 8B 8G)	]
+!!LO:PB:g=original
+=40	=40	=40
+8B 8F 8D 8GG	(>8dd^ 8g 8f 8d	]
+*Xped	*	*
+!LO:TX:a:t=cres_	!	!
+!LO:TX:a:t=P:problem:przerywana kreska od 'cres' do pocz. taktu 41.	!	!
+24FF#X\LL 24FFF#X\	24f#XLL 24F#X<	.
+24GG 24GGG	24g 24G<	.
+24GGJJ 24GGG	24gJJ 24G<	.
+24GG#X\LL 24GGG#X\	24g#XLL 24G#X<	.
+24AA 24AAA	24a 24A<	.
+24AAJJ 24AAA	24aJJ 24A<	.
+24AA#X\LL 24AAA#X\	24a#XLL 24A#X<	.
+24BB 24BBB	24b 24B<	.
+24BBJJ 24BBB	24bJJ 24B<	.
+*tuplet	*tuplet	*
+2C\ 2CC\	2cc^ 2e 2c	.
+=41	=41	=41
+*ped	*	*
+8c 8F 8C 8FF	8aa 8cc 8a)	f
+*Xped	*	*
+!LO:TX:a:t=cres_	!	!
+16BBLL 16BBB	(>\16bLL 16B\	.
+16C 16CC	16cc 16c	.
+16CJJ 16CC	16ccJJ 16c	.
+16CLL 16CC	16ccLL 16c	.
+16C#X 16CC#X	16cc#X\ 16c#X\	.
+16C#JJ 16CC#	16cc#JJ 16c#	.
+16C#LL 16CC#	16cc#\LL 16c#\	.
+16D 16DD	16dd 16d	.
+16E-XJJ 16EE-X	16ee-XJJ 16e-X	.
+=42-	=42-	=42-
+*ped	*	*
+8e 8cn 8G 8E-	8gg^< 8ee-X 8ccn 8g)	.
+!LO:TX:a:t=cres_	!	!
+16CnLL 16CCn	(>16ccLL 16c#	.
+16C#X 16CC#X	16cc#X 16c#X	.
+16C#JJ 16CC#	16cc#\JJ 16c#\	.
+16C#LL 16CC#	16cc#\LL 16c#\	.
+16D 16DD	16dd 16d	.
+16DJJ 16DD	16ddJJ 16d	.
+16D\LL 16DD\	16dd\LL 16d\	.
+16E-X 16EE-X	16ee-X 16e-X	.
+16eJJ 16A 16G 16E-	16aaJJ 16ccn 16a 16g^<	.
+!!LO:LB:g=original
+=43	=43	=43
+*ped	*	*
+8d 8A 8D	8ff#X^<) 8dd 8a 8f#X	.
+*Xped	*	*
+*Xtuplet	*Xtuplet	*
+24C#X\LL 24CC#X\	(>24cc#XLL 24c#X\	.
+24D 24DD	24dd 24d	.
+24DJJ 24DD	24ddJJ 24d	.
+!LO:TX:a:t=cres_	!	!
+24D\LL 24DD\	24dd\LL 24d\	.
+24D#X 24DD#X	24dd#X 24d#X	.
+24D#JJ 24DD#	24dd#JJ 24d#	.
+24D#\LL 24DD#\	24dd#\LL 24d#\	.
+24E 24EE	24ee 24e	.
+24EJJ 24EE	24eeJJ 24e	.
+24E\LL 24EE\	24eeLL 24e	.
+24F 24FF	24ff# 24f#	.
+24FJJ 24FF	24ff#JJ 24f#	.
+24F\LL 24FF\	24ff#LL 24f#	.
+24F#X 24FF#X	24ff#X 24f#X	.
+24F#JJ 24FF#	24ff#JJ 24f#	.
+24F#\LL 24FF#\	24ff#LL 24f#	.
+24G 24GG	24gg 24g	.
+24G#XJJ 24GG#X	24gg#XJJ 24g#X	.
+24G#\LL 24GG#\	24gg#LL 24g#	.
+24A 24AA	24aa 24a	.
+24A#XJJ 24AA#X	24aa#XJJ 24a#X	.
+!!LO:LB:g=original
+=44	=44	=44
+*ped	*	*
+8B 8D 8GG	8bb^<) 8dd 8b	.
+*Xped	*	*
+!LO:TX:a:t=cres_	!	!
+24C#XLL 24CC#X	(>24cc#X\LL 24c#X\	.
+24D 24DD	24dd 24d	.
+24DJJ 24DD	24ddJJ 24d	.
+24DLL 24DD	24dd\LL 24d\	.
+24D#X 24DD#X	24dd#X 24d#X	.
+24D#JJ 24DD#	24dd#JJ 24d#	.
+24D#LL 24DD#	24dd#\LL 24d#\	.
+24E 24EE	24ee 24e	.
+24FJJ 24FF	24ffJJ 24f	.
+*ped	*	*
+8f 8dn 8B 8A 8F	8aa^< 8ddn 8b 8a)	.
+24DnLL 24DDn	(>\24ddnLL 24dn\	.
+!LO:TX:a:t=cres_	!	!
+24D#X 24DD#X	24dd#X 24d#X	.
+24D#JJ 24DD#	24dd#JJ 24d#	.
+24D#LL 24DD#	24dd#\LL 24d#\	.
+24E 24EE	24ee 24e	.
+24EJJ 24EE	24eeJJ 24e	.
+24ELL 24EE	24eeLL 24e	.
+*ped	*	*
+24F 24FF	24ff 24f	.
+24fJJ 24d 24B 24A 24F	24bbJJ 24dd# 24b 24a^<	.
+*tuplet	*tuplet	*
+*Xped	*	*
+!!LO:LB:g=original
+=45	=45	=45
+*ped	*	*
+8e 8B 8E	8gg#X^<') 8ee 8b 8g#X	.
+16D#X\LL 16DD#X\	(>\16dd#XLL 16d#X\	.
+16E 16EE	16ee 16e	.
+16EJJ 16EE	16eeJJ 16e	.
+!LO:TX:a:t=cres_	!	!
+16E\LL 16EE\	16eeLL 16e	.
+16F 16FF	16ff 16f	.
+16FJJ 16FF	16ffJJ 16f	.
+16F\LL 16FF\	16ffLL 16f	.
+16F#X 16FF#X	16ff#X 16f#X	.
+16F#JJ 16FF#	16ff#JJ 16f#	.
+=46-	=46-	=46-
+16F#\LL 16FF#\	16ff#LL 16f#	.
+16Gn 16GGn	16ggn 16gn	.
+16GJJ 16GG	16ggJJ 16g	.
+16GLL 16GG	16ggLL 16g	.
+16A-X 16AA-X	16gg 16ffn 16g	.
+16AnJJ 16AAn	16ggJJ 16ff 16g	.
+16A#XLL 16AA#X	16ggLL 16ff 16g	.
+16B 16BB	16gg 16ff 16g	.
+16cJJ 16C	16ggJJ 16ff 16g	.
+16c#XLL 16C#X	16ggLL 16ff 16b 16g	.
+16dn 16Dn	16gg 16ff 16b 16g	.
+16d#XJJ 16D#X	16ggJJ) 16ff 16b 16g	.
+=47	=47	=47
+*ped	*	*
+8e 8c 8G 8C:	8eee 8gg 8ee	ff
+16qFF#X\LL	16qF#X</LL	.
+16qGG\JJ	16qG</JJ	.
+4.GG\	4.G<T^>/	.
+*Xped	*	*
+.	.	.
+16qFF#\LL	16qF#</LL	<
+(>16qGG\JJ	16qG</JJ	.
+*ped	*	*
+!LO:TX:a:t=ritenuto	!	!
+8GG) 8GGG	(>8eeeL 8gg 8ee	.
+*clefG2	*	*
+*Xped	*	*
+8bL 8f 8d 8G:	8ddd 8gg 8dd	.
+*ped	*	*
+8cc 8e 8G:	8eee 8gg 8ee	.
+8ddJ 8g 8d 8G:	8fffJ 8bb 8gg 8ff)	[
+*Xped	*	*
+.	.	.
+*clefF4	*	*
+!!LO:PB:g=original
+=48	=48	=48
+*Xtuplet	*Xtuplet	*
+*ped	*	*
+24g 24c 24G 24C:	24eee 24ccc 24gg 24ee^<	.
+*clefG2	*	*
+*Xped	*	*
+*	*8va	*
+24cc\LL 24c\	24ccccLL 24ccc	.
+24ddJJ 24d	24ddddJJ 24ddd	.
+24cc\LL 24c\	24ccccLL 24ccc^<	.
+24g 24G	24ggg 24gg	.
+24aJJ 24A	24aaaJJ 24aa	.
+*clefF4	*	*
+24gLL 24G	24gggLL^< 24gg	.
+24e 24E	24ee 24eee	.
+24fJJ 24F	24fffJJ 24ff	.
+*	*X8va	*
+!	!LO:TX:a:i:t=loco	!
+24eLL 24E	24eeeLL^< 24ee	.
+24c 24C	24ccc 24cc	.
+24dJJ 24D	24dddJJ 24dd	.
+24cLL 24C	24cccLL 24cc^<	.
+24G 24GG	24gg 24g	.
+24AJJ 24AA	24aaJJ 24a	.
+24G\LL 24GG\	24ggLL 24g^<	.
+24E 24EE	24ee 24e	.
+24FJJ 24FF	24ffJJ 24f	.
+24E\LL 24EE\	24eeLL 24e^<	.
+24C 24CC	24cc 24c	.
+24DJJ 24DD	24ddJJ 24d	.
+24C\LL 24CC\	24ccLL 24c^<	.
+24AA 24AAA	24a 24A<^<	.
+24EEJJ 24EEE	24eJJ 24E<^<	.
+!!LO:LB:g=original
+=49	=49	=49
+*ped	*	*
+24GG\ 24GGG^\	24g^ 24e 24c 24G<	.
+!LO:TX:a:t=sempre.	!	!
+24e-XLL 24E-X	24eee-XLL 24ee-X	.
+*Xped	*	*
+24dJJ 24D	24dddJJ 24dd	.
+24c#XLL 24C#X	24ccc#XLL 24cc#X	ff
+24cn 24Cn	24cccn 24ccn	.
+24BJJ 24BB	24bbJJ 24b	.
+24B-XLL 24BB-X	24bb-XLL 24b-X	.
+24A 24AA	24aa 24a	.
+24G#XJJ 24GG#X	24gg#XJJ 24g#X	.
+24Gn\LL 24GGn\	24ggnLL 24gn	.
+24F#X 24FF#X	24ff#X 24f#X	.
+24FnJJ 24FFn	24ffnJJ 24fn	.
+*ped	*	*
+24E-LL 24EE	(>4eee- 4gg#X 4ee-	.
+24D#X 24DD#X	.	.
+24DnJJ 24DDn	.	.
+24C#XLL 24CC#X	.	.
+24Cn 24CCn	.	.
+*Xped	*	*
+24BB-JJ 24BBB	.	.
+*ped	*	*
+24BB-XLL 24BBB-X	8dddL) 8ff 8dd	.
+24AA 24AAA	.	.
+*Xped	*	*
+24AA-XJJ 24AAA-X	.	.
+*ped	*	*
+24GGLL 24GGG	(>8gg#J 8dd 8g 8f	.
+24FF#X 24FFF#X	.	.
+*Xped	*	*
+24AAnJJ 24AAAn	.	.
+!!LO:LB:g=original
+=50	=50	=50
+8B^ 8F 8D 8GG:	8ddd 8bb 8gg 8ff 8dd	.
+*clefG2	*	*
+*	*8va	*
+24ee\LL 24e\	24eeeeLL 24eee	.
+24dd 24d	24dddd 24ddd	.
+!LO:TX:a:t=P:brak początku łuku w t.49.:problem	!	!
+24aJJ 24A	24aaa\JJ 24aa\)	.
+*clefF4	*	*
+24g\LL 24G\	24ggg\LL 24gg\	.
+24e 24E	24eee 24ee	.
+24dJJ 24D	24dddJJ 24dd	.
+*	*X8va	*
+!	!LO:TX:a:t=loco	!
+24A\LL 24AA\	24aa\LL 24a\	.
+24G 24GG	24gg 24g	.
+24GGJJ 24GGG	24gJJ 24f 24B 24G	.
+*ped	*	*
+(>24CC\LL 24CCC\	4cc^> 4e 4c	fz
+24GG 24GGG	.	.
+24GGJJ 24GGG	.	.
+!LO:TX:a:t=accel:	!	!
+24GG\LL 24GGG\	.	.
+24C 24CC	.	.
+24CJJ 24CC	.	.
+24C\LL 24CC\	4r	[
+24G 24GG	.	.
+24GJJ 24GG	.	.
+24G\LL 24GG\	.	.
+24c 24C	.	.
+24cJJ 24C)	.	.
+*tuplet	*tuplet	*
+=51||	=51||	=51||
+*k[b-e-a-]	*k[b-e-a-]	*
+!	!	!LO:DY:a
+*	*^	*
+!	!LO:TX:a:t=agitato	!	!
+!	!LO:TX:a:B:t=doppio movimento.	!	!
+*ped	*	*	*
+(>12cL 12C	4ryy	12r	.
+12c 12E-	.	(>12ee-L 12cc 12g	.
+12e-J 12G	.	12ee-J 12cc 12g	.
+!LO:TX:a:t=P:oznaczenia cyfrowe trioli nad nutami:problem	!	!	!
+12cL 12E-	4gg	12ee-L 12cc 12g	.
+12e- 12G	.	12ee- 12cc 12g	.
+*Xped	*	*	*
+12cJ) 12E-	.	12ee-J 12cc 12g	.
+*Xtuplet	*	*Xtuplet	*
+*ped	*	*	*
+(>12FL 12FF	4rccc	12ee-L 12cc 12a-	.
+12c 12F	.	12ee- 12cc 12a-	.
+12e-J 12A-	.	12ee-J 12cc 12a-	.
+12cL 12F	4aa-	12ee-L 12cc 12a-	.
+12e- 12A-	.	12ee- 12cc 12a-	.
+*Xped	*	*	*
+12cJ) 12F	.	12ee-J 12cc 12a-	.
+!!LO:LB:g=original
+=52	=52	=52	=52
+*ped	*	*	*
+12BBn\L 12BBBn\	6rbbyy	12ddL 12g 12f	.
+12G 12BB	.	12dd 12g 12f	.
+12dJ 12D	6gg	12ddJ 12g 12f	.
+12GL 12BB	.	12ddL 12g 12f	.
+12d 12D	12raayy	12dd 12g 12f	.
+*Xped	*	*	*
+12GJ 12BB	[>12dd	12gJ 12f	.
+*ped	*	*	*
+12CL 12CC	16dd/LL] 16g/ 16e-/	2ryy	.
+.	16ee-'> 16cc 16g	.	.
+12G 12C	.	.	.
+.	16ff'> 16cc 16g	.	.
+12e-J 12E-	.	.	.
+.	16ee-'>JJ 16cc 16g	.	.
+12GL 12C	16dd'>/LL 16cc/ 16g/	.	.
+.	16ee-'> 16cc 16g	.	.
+12e- 12E-	.	.	.
+.	16ff'> 16cc 16g	.	.
+*Xped	*	*	*
+12GJ 12C	.	.	.
+.	16gg'>JJ 16cc 16g)	.	.
+=53	=53	=53	=53
+*ped	*	*	*
+12AA-\L 12AAA-\	(>4cc	12a-L	.
+12A- 12C	.	12a- 12e-	.
+12cJ 12E-	.	12a-J 12e-	.
+12A-L 12C	8.ccL	12a-L 12e-	.
+12c 12E-	.	12a- 12e-	.
+*Xped	*	*	*
+12A-J 12C	.	12a-J 12e-	.
+.	16ccJk 16a- 16e-	.	.
+*ped	*	*	*
+12FF\L 12FFF\	(>4dd	12a-L 12d	.
+12A- 12F 12D	.	12a- 12d	.
+12cJ 12A- 12F	.	12a-J 12d	.
+12A-L 12F 12D	[>8ccL)	12a-L 12d	.
+12c 12A- 12F	.	12a- 12d	.
+.	16cc/]	.	.
+12A-J 12F 12D	.	12a-J 12d	.
+*Xped	*	*	*
+.	16a-Jk 16d 16c	.	.
+!!LO:PB:g=original
+=54	=54	=54	=54
+*ped	*	*	*
+!LO:TX:a:t=P:4g przed 12f 12d 12c:problem	!	!	!
+12GG\L 12GGG\	12f\L 12d\ 12c\	4g/	<
+12D 12GG	12f 12d 12c	.	.
+*Xped	*	*	*
+12GJ 12D	12fJ 12d 12c	.	.
+*ped	*	*	*
+12D\L 12GG\	2.reeeyy	16gLL 16f 16d 16Bn	.
+.	.	8qb-/	.
+.	.	16a- 16f 16d 16B	.
+12G 12D	.	.	.
+.	.	16g 16f 16d 16B	.
+12DJ 12GG	.	.	.
+*Xped	*	*	*
+.	.	16d 16Bn< 16G< 16F<JJ	.
+*ped	*	*	*
+12CC\L	.	24e-LL 24G< 24E-< 24C<	.
+.	.	24c 12G< 12E-<JJ)	[
+12C 12GG	.	12E-<L	.
+12GJ 12C	.	12E-<J	.
+12C\L 12GG\	.	12E-<L	>
+12G 12C	.	12E-<	.
+*Xped	*	*	*
+12CJ 12GG	.	12E-<J	]
+=55	=55	=55	=55
+*ped	*	*	*
+!LO:TX:t=P:łamana belka:problem	!	!	!
+12EE-\L 12EEE-\	4rbbyy	12B-< 12G< 12E-</	.
+12B- 12E-	.	(>12ee-L 12b- 12g	.
+12e-J 12G	.	12ee-J 12b- 12g	.
+12B-L 12E-	4gg	12ee-L 12b- 12g	.
+12e- 12G	.	12ee- 12b- 12g	.
+*Xped	*	*	*
+12B-J 12E-	.	12ee-J 12b- 12g	.
+*ped	*	*	*
+!LO:TX:t=P:łamana belka:problem	!	!	!
+12AA-L 12AAA-	4rddd	12ee-L 12cc 12a-	.
+12c 12F	.	12ee- 12cc 12a-	.
+12e-J 12A-	.	12ee-J 12cc 12a-	.
+12cL 12F	[>4aa-	12ee-L 12cc 12a-	.
+12e- 12A-	.	12ee- 12cc 12a-	.
+*Xped	*	*	*
+12cJ 12F	.	12ee-J 12cc 12a-	.
+!!LO:LB:g=original
+=56	=56	=56	=56
+!LO:TX:a:t=P:brak początku ligatury:problem	!	!	!
+*ped	*	*	*
+12BB-L 12BBB-	12aa-]	12ddL 12b- 12a-	.
+12A- 12BB-	12raayy	12dd 12b- 12a-	.
+12dJ 12F	6gg	12ddJ 12b- 12a-	.
+12A-L 12BB-	.	12ddL 12a-	.
+12d 12F	12rbbyy	12dd 12a-	.
+*Xped	*	*	*
+12BBnJ 12BBBn	[>12ff	12ddJ 12a-	.
+*ped	*	*	*
+12CL 12CC	4rggggyy	16ff/LL] 16cc/ 16g'>/	.
+.	.	16ee-'> 16cc 16g	.
+12G 12C	.	.	.
+.	.	16ff'> 16cc 16g	.
+12e-J 12E-	.	.	.
+.	.	16ee-'>JJ 16cc 16g	.
+12GL 12C	4rffffyy	16dd'>/LL 16cc/ 16g/	.
+.	.	16ee-'> 16cc 16g	.
+12e- 12E-	.	.	.
+.	.	16ff'> 16cc 16an 16g	.
+*Xped	*	*	*
+12GJ 12C	.	.	.
+.	.	16gg'>JJ 16ee- 16cc 16a 16g)	.
+=57	=57	=57	=57
+*ped	*	*	*
+12D\L 12DD\	12ddL	12b-L 12g 12d	.
+12G 12BB-	12rcccyy	12g 12d	.
+12B-J 12D	12d^J	12dJ	.
+12G\L 12BB-\	4rcccyy	(>16dLL	<
+.	.	16g 16d	.
+12B- 12D	.	.	.
+.	.	16cc 16g 16d	.
+*Xped	*	*	*
+12DJ 12DD	.	.	.
+.	.	16ddJJ 16g 16d	.
+!LO:TX:t=P:łamana belka:problem	!	!	!
+*ped	*	*	*
+12DD\L 12DDD\	[4ee-	12gL 12e-	.
+12An 12D	.	12g 12e-	[
+12cJ 12A	.	12gJ 12e-	.
+12AL 12D	12ee-L]	12f#XL 12e-	.
+12c 12A	12rdddyy	12f# 12e-	.
+*Xped	*	*	*
+12AJ 12D	12f#J	12e- 12cJ	.
+!!LO:LB:g=original
+=58	=58	=58	=58
+*ped	*	*	*
+12GG\L 12GGG\	6f#X	12dL 12B-	>
+12D 12GG	.	12d 12B-	.
+12GJ 12D	[12g	12dJ 12B-	]
+12D\L 12GG\	2g_)	12dL 12B-	.
+12G 12D	.	12d 12B-	.
+!LO:TX:a:t=cres_	!	!	!
+!LO:TX:a:t=P:crescendo do taktu 60:problem	!.	!	!
+*Xped	*	*	*
+12DDJ	.	12dJ 12B-	.
+*ped	*	*	*
+12GG\L 12GGG\	.	12dL 12B-	.
+12D 12GG	.	12d 12Bn	.
+12GJ 12D	.	12dJ 12B	.
+!	!	!	!LO:HP:a
+12D\L 12GG\	(>4g_	12d\L 12B\	>
+12G 12D	.	12d 12B	.
+*Xped	*	*	*
+12GGJ 12GGG	.	12dJ 12B	]
+=59	=59	=59	=59
+*ped	*	*	*
+12GG-X\L 12GGG-X\	4gnX]	12dL 12Bn	.
+12E- 12GG-	.	12e- 12c	.
+12A-J 12C	.	12e-J 12c	.
+12E-\L 12GG-\	[>4a-	12e-L 12c	.
+12A- 12C	.	12e- 12c	.
+*Xped	*	*	*
+12GG-J 12GGG-	.	12e-J 12c	.
+=-	=-	=-	=-
+*ped	*	*	*
+12FF\L 12FFF\	12a-L]	12d-L 12A-	.
+12D-X 12FF	12rggyy	12d- 12A-	.
+12A-J 12D-	12dd-X	12a-J 12d-	.
+12D-\L 12FF\	12ff	12dd-L 12a- 12f	.
+12A- 12D-	12rbbyy	12dd- 12a- 12f	.
+*Xped	*	*	*
+12FFJ 12FFF	12bb-J	12dd-J 12b-	.
+!!LO:LB:g=original
+=60	=60	=60	=60
+*ped	*	*	*
+12CL 12CC	[>4aa-	12ee-L 12a- 12g-X	>
+12A- 12C	.	12ee- 12a- 12g-	.
+12e-J 12E-	.	12ee-J 12a- 12g-	.
+12A-L 12C	8aa-L]	12ee-L 12a- 12g-	.
+12e- 12E-	.	12ee- 12a- 12g-	.
+.	16gg-XL 16ee-	.	.
+*Xped	*	*	*
+12CJ 12CC	.	12a- 12g-J	.
+.	16ffJJ 16a- 16g-	.	]
+*ped	*	*	*
+12D-XL 12DD-X	[>2ff)	12dd-XL 12a- 12f	.
+12A- 12D-	.	12dd- 12a- 12f	.
+12dJ 12F	.	12dd-J 12a- 12f	.
+12A-L 12D-	.	12dd-L 12a- 12f	.
+12d 12F	.	12dd- 12a- 12f	.
+*Xped	*	*	*
+12CJ 12CC	.	12dd-J 12a- 12f	.
+=61	=61	=61	=61
+*ped	*	*	*
+12BBn\L 12BBBn\	4ff]	12ddnL 12g 12f	.
+12G 12BB	.	12dd 12g 12f	.
+12dJ 12D	.	12ddJ 12g 12f	.
+12G\L 12BB\	4g^	12fL 12d	.
+12G 12D	.	12f 12d	.
+*Xped	*	*	*
+12BBJ 12BBB	.	12fJ 12d	.
+*ped	*	*	*
+12CL 12CC	(>16a-'LL 16e-\	2rFyy	<
+.	16g' 16e-	.	.
+12G 12C	.	.	.
+.	16bn' 16g 16e-	.	.
+12cJ 12E-	.	.	.
+.	16cc'JJ 16g 16e-	.	.
+12GL 12C	16dd'\LL 16cc\ 16g\ 16e-\	.	.
+.	16ee-' 16cc 16g	.	.
+12e- 12E-	.	.	.
+.	16ccc' 16ee- 16cc	.	.
+*Xped	*	*	*
+12CJ 12CC	.	.	.
+.	16aa-'JJ 16ee- 16cc	.	[
+*	*v	*v	*
+!!LO:PB:g=original
+=62	=62	=62
+*	*^	*
+*ped	*	*	*
+12DL 12DD	[>4gg^	12bnL 12g 12f	.
+12G 12D	.	12b 12g 12f	.
+12dJ 12G	.	12bJ 12g 12f	.
+12GL 12D	24gg/LL] 24b/ 24g/ 24f/	4rcyy	.
+.	24cc#X'> 24b 24g 24f	.	.
+12d 12G	24dd'> 24b 24g 24f	.	.
+.	24gg'> 24b 24g 24f	.	.
+12DJ 12DD	24ff'> 24b 24g 24f	.	.
+*Xped	*	*	*
+.	24ee-'>JJ 24b 24g	.	.
+*ped	*	*	*
+12E-L 12EE-	4ee-^)	12cc#L 12g	>
+12c 12E-	.	12cc# 12g	.
+12e-J 12G	.	12cc#J 12g	.
+12cL 12E-	4rcccyy	12cc#\L 12g\	.
+12e- 12G	.	12cc# 12g	.
+*Xped	*	*	*
+12E-J 12EE-	.	12cc#J 12g	]
+=63	=63	=63	=63
+*ped	*	*	*
+12FL 12FF	(>4rff	12a-L 12d	.
+12Bn 12F	.	12a- 12d	.
+12fJ 12B	.	12a-J 12d	.
+12BL 12F	[4bn^	12a-L 12d	.
+12f 12B	.	12a- 12d	.
+*Xped	*	*	*
+12FJ 12FF	.	12a-J 12d	.
+*ped	*	*	*
+12E-L 12EE-	8bL]	12gL 12e-	<
+12G 12C	.	12g 12e-	.
+.	8cc	.	.
+12cJ 12G	.	12gJ 12e-	.
+12GL 12C	8dd	12gL 12e-	.
+12c 12G	.	12g 12e-	.
+.	8ee-J	.	.
+*Xped	*	*	*
+12CJ 12CC	.	12gJ 12e-	[
+!!LO:LB:g=original
+=64	=64	=64	=64
+*ped	*	*	*
+12BBn\L 12BBBn\	4rff	12gL 12f	.
+12G 12BB	.	12g 12f	.
+12dJ 12D	.	12gJ 12f	.
+12G\L 12BB\	[>4dd^	12gL 12f	.
+12d 12D	.	12g 12f	.
+*Xped	*	*	*
+12BBJ 12BBB	.	12gJ 12f	.
+=-	=-	=-	=-
+*ped	*	*	*
+12CL 12CC	12ddL]	12gL 12e-	.
+12G 12C	12rbbyy	12g 12e-	.
+12cJ 12E-	12ee-	12gJ 12e-	.
+12GL 12C	12ff	12ccL 12g	.
+12e- 12G 12E-	12rcccyy	12ee- 12cc 12g	.
+*Xped	*	*	*
+12CJ 12CC	12ggJ	12ee-J 12cc 12g	.
+=65	=65	=65	=65
+!LO:TX:t=P:łamana belka w 1, 2, 3 i 4 grupie.:problem	!	!	!
+*ped	*	*	*
+*Xtuplet	*Xtuplet	*Xtuplet	*
+12FFL 12FFF	12ggL	12ee-L 12cc 12a-	.
+12c 12A- 12F	12rdddyy	12ee- 12cc 12a-	.
+12e-J 12c 12A-	12ff	12ee-J 12cc 12a-	.
+12cL 12A- 12F	12aa-	12ee-L 12cc 12a-	.
+12e- 12c 12A-	12rcccyy	12ee- 12cc 12a-	.
+*Xped	*	*	*
+12FFJ 12FFF	12ccJ	12a-J 12f	.
+*ped	*	*	*
+12AA-L 12AAA-	12ddL	12ccL 12a- 12f	.
+12c 12A- 12F	12rggyy	12cc 12a- 12f	.
+12e-J 12c 12A-	12ee-J	12ccJ 12a- 12f	.
+*	*tuplet	*	*
+12cL 12A- 12F	28ee-'>/LL 28cc/ 28a-/	4rdyy	.
+.	28ff'> 28cc 28a-	.	.
+.	28ee-'> 28cc 28a-	.	.
+12e- 12c 12A-	.	.	.
+.	28dd'> 28cc 28a-	.	.
+.	28ee-'> 28cc 28a-	.	.
+12AA-J 12AAA-	.	.	.
+.	28gg'> 28ee- 28cc 28a-	.	.
+*Xped	*	*	*
+.	28ff'>JJ 28ee- 28cc 28a-	.	.
+!!LO:LB:g=original
+=66	=66	=66	=66
+*ped	*	*	*
+12BB-L 12BBB-	1dd^	12b-L 12a- 12f	.
+!LO:TX:a:t=cres_	!	!	!
+!LO:TX:a:t=P:crescendo do taktu 68.:problem	!	!	!
+12A- 12BB-	.	12b- 12a- 12f	.
+12dJ 12F	.	12b-J 12a- 12f	.
+12A-L 12BB-	.	12b-L 12a- 12f	.
+12d 12F	.	12b- 12f	.
+*Xped	*	*	*
+12BB-J 12BBB-	.	12a-J 12f	.
+*ped	*	*	*
+12BBn\L 12BBBn\	.	12gL 12f	.
+12G 12BB	.	12g 12f	.
+12dJ 12D	.	12gJ 12f	.
+12G\L 12BB\	.	12gL 12f	.
+.	.	8qb-/	.
+12d 12D	.	12a- 12f	.
+*Xped	*	*	*
+12BBJ 12BBB	.	12gJ 12f)	.
+=67	=67	=67	=67
+*ped	*	*	*
+12CL 12CC	4rdddyy	12eenL 12cc 12b- 12g 12en	.
+12c 12B- 12G	.	12ee 12cc 12b- 12g	.
+12enJ 12c 12B-	.	12eeJ 12cc 12b- 12g	.
+12cL 12B- 12G	4gg	12eeL 12cc 12b-	.
+12e 12c 12B-	.	12ee 12cc 12b-	.
+*Xped	*	*	*
+12CJ 12CC	.	12eeJ 12cc 12b-	.
+*ped	*	*	*
+12FL 12FF	4rddd	12eeL 12cc 12a-	.
+12c 12A- 12F	.	12ee 12cc 12a-	.
+12eJ 12c 12A-	.	12eeJ 12cc 12a-	.
+12cL 12A- 12F	(>4aa-	12ffL 12cc 12a-	.
+12f 12c 12A-	.	12ff 12cc 12a-	.
+*Xped	*	*	*
+12FJ 12FF	.	12ffJ 12cc 12a-	.
+!!LO:LB:g=original
+=68	=68	=68	=68
+*ped	*	*	*
+12BB-L 12BBB-	12ee-X\L 12cc\ 12a-\	6rbbyy	>
+12c 12A- 12F	12ee- 12cc 12a-	.	.
+12e-J 12c 12A-	12ee-J 12cc 12a-	6gg/	.
+12cL 12A- 12F	12ee-\L 12cc\ 12a-\	.	.
+12d 12B- 12A-	12dd 12b- 12a-	12rbbyy	.
+*Xped	*	*	*
+12BB-J 12BBB-	12ddJ 12b- 12a-	[>12ff/	]
+*ped	*	*	*
+12E-L 12EE-	2rgggyy	16ff/LL] 16dd/ 16b-/ 16g/	<
+.	.	16ee- 16b- 16g	.
+12B- 12G 12E-	.	.	.
+.	.	16ff 16b- 16g	.
+12dJ 12B- 12G	.	.	.
+.	.	16ee-JJ 16b- 16g	.
+12B-L 12G 12E-	.	16dd/LL 16b-/ 16g/	.
+.	.	16ee- 16b- 16g	.
+12d 12B- 12G	.	.	.
+.	.	16ff 16b- 16g	.
+*Xped	*	*	*
+12E-J 12EE-	.	.	.
+.	.	16ggJJ 16b- 16g	[
+=69	=69	=69	=69
+.	8qg 8qcc 8qgg/	.	.
+*ped	*	*	*
+12AA-\L 12AAA-\	4cc	12a-L 12g	.
+12A- 12C	.	12a- 12g	.
+12cJ 12A- 12E-	.	12a-J 12g)	.
+12A-\L 12E-\ 12C\	(8ccL	12a-L 12g	<
+12c 12A- 12E-	.	12a- 12g	.
+.	8ccJ	.	.
+*Xped	*	*	*
+12AA-J 12AAA-	.	12a-J 12g	.
+*ped	*	*	*
+12DL 12DD	4cc	12a-L 12f	.
+12A- 12F 12D	.	12a- 12f	.
+12cJ 12A- 12F	.	12a-J 12f	.
+12A-L 12F 12D	8ffL	12ccL 12a- 12f	.
+12c 12A- 12F	.	12cc 12a- 12f	.
+.	8ee-J)	.	.
+*Xped	*	*	*
+12DJ 12DD	.	12ccJ 12a- 12f	.
+.	.	.	[
+!!LO:PB:g=original
+=70	=70	=70	=70
+*ped	*	*	*
+12GG\L 12GGG\	[4ee-	12ccL 12a- 12f	.
+12A- 12F 12D	.	12cc 12a- 12f	.
+12cJ 12A- 12F	.	12ccJ 12a- 12f	.
+12G\L 12D\	12ee-L]	12bnL 12g 12f	>
+12Bn 12G	12raayy	12b 12g 12f	.
+*Xped	*	*	*
+12GGJ 12GGG	[>12ddJ	12bJ 12g 12f	]
+*ped	*	*	*
+12AA-\L 12AAA-\	16ddLL] 16a- 16e-	2rAyy	<
+.	16cc'> 16a- 16e-	.	.
+12A- 12C	.	.	.
+.	16dd'> 16a- 16e-	.	.
+12cJ 12A- 12E-	.	.	.
+.	16cc'>JJ 16a- 16e-	.	.
+12A-\L 12C\	16bn'>LL 16a- 16e-	.	.
+.	16cc'> 16a- 16e-	.	.
+12c 12A- 12E-	.	.	.
+.	16dd'> 16a- 16e-	.	.
+*Xped	*	*	*
+12AA-J 12AAA-	.	.	.
+.	16ee-'>JJ 16a- 16e-	.	.
+.	.	.	[
+=71	=71	=71	=71
+!LO:TX:t=P:łamana belka w 1, 2, 3 i 4 grupie.:problem	!	!	!
+*ped	*	*	*
+12EE-\L 12EEE-\	4g	12cL 12G	.
+12E-	.	12c 12G	.
+12e-J 12G	.	12cJ	.
+12cL 12G 12E-	4ccc^	12ggL 12cc	.
+12g 12c 12G	.	12gg 12cc	.
+*Xped	*	*	*
+12EE-J 12EEE-	.	12ggJ 12cc	.
+*ped	*	*	*
+12FFL 12FFF	(>16cccLL 16dd 16cc	2rcyy	.
+.	16bbn 16dd 16cc	.	.
+12d 12c 12F	.	.	.
+.	16bb-X 16dd 16cc	.	.
+12fJ 12d 12c 12F	.	.	.
+.	16aanJJ 16dd 16cc	.	.
+12dL 12c	16aa-XLL 16dd 16cc	.	.
+.	16ff 16cc 16a-	.	.
+12a- 12d 12c	.	.	.
+.	16cc 16f	.	.
+*Xped	*	*	*
+12FFJ 12FFF	.	.	.
+.	16ddJJ 16cc 16a- 16f	.	.
+*	*v	*v	*
+!!LO:LB:g=original
+=72	=72	=72
+!LO:TX:t=P:łamana belka w 1, 2, 3 i 4 grupie.:problem	!	!
+*ped	*	*
+12GGL 12GGG	16een\LL 16cc\ 16b-\ 16en\	.
+.	16ff 16cc 16b- 16f	.
+12c 12B- 12G	.	.
+.	16ee 16cc 16b- 16e	.
+12gJ 12c 12B-	.	.
+.	16ddJJ 16cc 16b- 16d	.
+12cL 12B- 12G	16eeLL 16cc 16b- 16e	.
+.	16ff 16cc 16b-	.
+12g 12c 12B-	.	.
+.	16aa- 16ee 16cc 16b-	.
+*Xped	*	*
+12GGJ 12GGG	.	.
+.	16ggJJ 16ee 16cc 16b-	.
+*ped	*	*
+12AA-L 12AAA-	16ccLL 16f	.
+.	16ee 16cc 16f	.
+12c 12F	.	.
+.	16ff 16cc 16f	.
+12fJ 12c	.	.
+.	16ggJJ 16cc	.
+12dL 12c 12F	16bb-LL 16dd 16cc	.
+.	16aa- 16dd 16cc	.
+12a- 12d 12c	.	.
+.	16cc 16f	.
+*Xped	*	*
+12AA-J 12AAA-	.	.
+.	16ddJJ 16cc 16f	.
+=73	=73	=73
+*	*^	*
+*	*	*	*
+*ped	*	*	*
+12GGG\L 12GG\	4ee-)	12e-L 12g 12cc	>
+12C 12G	.	12e- 12g 12cc	.
+12GJ 12c	.	12e-J 12g 12cc	]
+12CL 12G	6ryy	12e-L 12g 12cc	<
+.	.	.	.
+.	.	.	.
+12G 12c	.	12e- 12g 12cc	.
+.	.	.	.
+.	.	.	.
+*Xped	*	*	*
+*	*rscale:2	*	*
+12CJ 12G	(36cc'LL	12e-J 12g	.
+!	!	!LO:TX:b:t=P: grupa 3 szesnastek z oznaczeniem trioli :problem	!
+.	36dd'	.	.
+.	36cc'JJ	.	[
+*	*	*	*
+!	!	!LO:TX:a:t=ten	!
+*ped	*rscale:1	*	*
+12GGG\L 12GG\	4g	12cL 12d	>
+12GG 12D	.	12c 12d	.
+12DJ 12G	.	12cJ 12d)	]
+!	!	!LO:TX:a:t=P:nie wyświetla się łuk:problem	!
+12GG\L 12D\	6ryy	(12BnL 12d	<
+.	.	.	.
+.	.	.	.
+12D 12G	.	12B 12d	.
+.	.	.	.
+.	.	.	.
+*	*rscale:2	*	*
+12GGGJ 12GG	36g'LL	12BJ 12d	.
+.	36B 36d 36a-'	.	.
+*Xped	*	*	*
+.	36BJJ 36d 36g')	.	[
+*ped	*rscale:1	*	*
+!!LO:LB:g=original
+=74	=74	=74	=74
+*Xtuplet	*Xtuplet	*Xtuplet	*
+!	!	!LO:TX:a:t=ten	!
+*ped	*	*	*
+12E-\ 12GG-X\L 12GGG-X\	8A-<	[<2c^>/	ff
+12E- 12GG-	.	.	.
+.	8reyy	.	.
+!LO:TX:a:t=ritenuto.	!	!	!
+12A-J 12E-	.	.	.
+12E-L 12GG-	2.reyy	.	.
+12A- 12E-	.	.	.
+*Xped	*	*	*
+12GG-J 12GGG-	.	.	.
+*ped	*	*	*
+12FFL 12FFF	.	(>16cLL]/	<
+.	.	16d-X	.
+12D-X 12FF	.	.	.
+.	.	16f	.
+12A-J 12D-	.	.	.
+.	.	16a-JJ	.
+12D-L 12FF	.	16ddLL	.
+.	.	16een	.
+12A- 12D-	.	.	.
+.	.	16ff	.
+*Xped	*	*	*
+12FFJ 12FFF	.	.	.
+.	.	16aa-JJ	[
+*	*v	*v	*
+=75	=75	=75
+*ped	*	*
+(12GGL 12GGG	[<2Bn^>)	.
+12D 12GG	.	.
+12FJ 12D	.	.
+12A-L 12F	.	.
+12A- 12F	.	.
+12A-J) 12F	.	.
+(12GGL 12GGG	(<16BLL]	.
+.	16a-X	.
+12D 12GG	.	.
+.	16g	.
+12FJ 12D	.	.
+.	16f#XJJ	.
+12BnL 12F	16fnLL	.
+.	16G	.
+12B 12F	.	.
+.	16f	.
+12BJ 12F)	.	.
+.	16e-JJ	.
+!!LO:LB:g=original
+=76	=76	=76
+!	!LO:TX:t=P:problem:diminuendo oraz rallentando do 'pp'	!
+(>12CCCL	[<1c^<)	.
+12GG	.	.
+!LO:TX:a:t=dim_	!	!
+12E-J 12GG	.	.
+!LO:TX:t=P:łamana belka w 2. i 4. grupie.:problem	!	!
+12GL 12E-	.	.
+12G 12E-	.	.
+12GGGJ)	.	.
+!	!LO:TX:t=rall_	!
+(>\12CCL	.	.
+12GG	.	.
+12E-J 12GG	.	.
+12G\L 12E-\	.	.
+12G 12E-	.	.
+12GGGJ)	.	.
+=77	=77	=77
+4CCC	(>16cLL]	.
+.	16G	.
+.	16c	.
+.	16dJJ	.
+4rBB	16e-LL	.
+.	16f#X	.
+.	16a-X	.
+.	16gJJ	.
+2rBB	16bnLL	.
+.	16dd	.
+.	16cc	.
+.	16ee-JJ	.
+.	16ff#XLL	.
+.	16gg	.
+.	8qbb-X/	.
+.	16aa-	.
+.	16ggJJ	.
+=78	=78	=78
+2rBB	4ccc)	.
+.	4r	.
+4C\ 4CC\	(4e- 4c 4G< 4E-<	pp
+4C\ 4CC\	4e- 4c 4G< 4E-<	.
+=79	=79	=79
+1G;< 1E- 1C 1GG 1CC	1e-;) 1c	.
+*Xped	*	*
+==	==	==
+*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!ENC: Mateusz Mrugas
+!!!END: data edycji 2018-07-01
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: revision finished 2018-08-01
+!!!rism-genre: Nocturne
+!!!rism-key: C minor
+!!!rism-opus: op.  48, no 1
+!!!rism-title: Nocturne in C minor op.  48, no 1
+!!!rism-permalink:
+!!!rism-773a-OPR: 
+!!!rism-parent-permalink: 

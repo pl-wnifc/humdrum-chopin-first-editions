@@ -1,0 +1,350 @@
+!!!!SEGMENT: 068-1-Sam-004.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Mazurka N.º 8.
+!!!OPS: Op. 68
+!!!NIFC-rismID: 
+!!!NIFC-shelfmark: PL-Wbfc 1106/n
+!!!OMD: Andantino. 
+!!!OMD: [quarter] = 126.
+**kern	**kern	**fing	**dynam
+*part1	*part1	*	*part1
+*staff2	*staff1	*	*
+*	*I" N.º 8.	*	*
+*clefF4	*clefG2	*	*
+*k[b-e-a-d-]	*k[b-e-a-d-]	*	*
+*M3/4	*M3/4	*	*
+=1	=1	=1	=1
+!	!LO:TX:t=P:w źródle [quarter] = 126. znajduje się z lewej strony akolady, na wysokości dolnej pięciolinii:problem	!	!
+!	!LO:TX:b:i:t=sotto\ voce.:dur=2qe:ext=s:problem:text with extention	!	!
+!	!LO:TX:t=P:nie wyświetla się "Andantino." (OMD):problem	!	!
+4r	[>4cc	.	.
+4f 4c 4A-	8ccL]	.	.
+.	8dd-J	.	.
+4f 4c 4A-	8dd-L	.	.
+.	8ccJ	.	.
+!!LO:TX:t=[segno]
+=2||	=2||	=2||	=2||
+!	!LO:TX:a:i:t=legatis.	!	!
+4r	8bntL>	.	.
+.	8a#XJ	.	.
+4f 4dn 4G	4b/	.	<
+4f 4d-X 4G	4gg	.	.
+.	.	.	[
+=3	=3	=3	=3
+4r	[>4b-X	.	.
+4f-X 4d- 4G-X	8b-L]	.	.
+.	8ccJ	.	.
+4e- 4c 4G-	8ccL	.	.
+.	8b-J	.	.
+=4	=4	=4	=4
+4r	8antL	.	.
+.	8g#XJ	.	.
+4e- 4c 4F	4a	.	<
+4e- 4c-X 4F	4ff	.	.
+.	.	.	.[
+=5	=5	=5	=5
+4r	[<4a-X	.	.
+4dn 4Bn 4F	8a-L]	.	.
+.	8b-XJ	.	.
+4d 4B 4En	8b-L	.	.
+.	8a-J	.	.
+!!LO:LB:g=original
+=6	=6	=6	=6
+4r	8gtL	.	.
+.	8f#XJ	.	.
+4d-X 4B-X 4En	4g	.	<
+4fn 4B- 4Fn	4dd-	.	.
+.	.	.	[
+=7	=7	=7	=7
+*	*^	*	*
+4r	[>4cc	4re	.	.
+4d- 4B- 4G	(>8cc]L	4en	.	.
+.	8b-	.	.	.
+4B- 4C	8a-	4e	.	.
+.	8gJ)	.	.	.
+*	*v	*v	*	*
+=8	=8	=8	=8
+4r	(<8b-L	.	.
+.	8a-	.	.
+.	.	.	<
+*ped	*	*	*
+4FF	8f	.	.
+.	8g	.	.
+4d- 4A- 4F	8a-	.	.
+*Xped	*	*	*
+.	8bnJ)	.	[
+=9	=9	=9	=9
+4r	[>4cc	.	.
+*ped	*	*	*
+4c 4A- 4F	8ccL]	.	.
+.	(>8dd-	.	.
+4f 4c 4A-	8bn	.	.
+*Xped	*	*	*
+.	8dd-J)	.	.
+=10	=10	=10	=10
+4r	(>8ccL	.	.
+.	8a#X	.	.
+4f 4dn 4G	8bn	.	.
+.	8aa-X	.	.
+4f 4d-X 4G	8gg	.	.
+.	8bJ)	.	.
+!!LO:LB:g=original
+=11	=11	=11	=11
+!	!LO:TX:b:i:t=sempre\ legatis.:dur=2qe:ext=s:problem:text with extention lines	!	!
+4r	[>4b-X	.	.
+4f-X 4d- 4G	8b-L]	.	.
+.	(>8cc	.	.
+4f- 4d- 4G-X	8cc	.	.
+.	8b-J)	.	.
+=12	=12	=12	=12
+4r	(>8b-L	.	.
+.	8g#XJ	.	.
+4e- 4c 4F	8anL	.	.
+.	8gg-X	.	.
+4e- 4c-X 4F	8ff	.	.
+.	8aJ)	.	.
+=13	=13	=13	=13
+4r	[>4a-X/	.	.
+4e- 4c-X 4F	(>8a-L<]	.	.
+.	8cc-X	.	.
+4e-- 4c- 4F-X	8b-	.	.
+.	8a-J)	.	.
+=14	=14	=14	=14
+4r	4g	.	.
+4dn 4B- 4F-	(<8g#XL	.	<
+.	8an	.	.
+4d 4G#X 4En	8a#X	.	.
+.	8bnJ)	.	.
+=15	=15	=15	=15
+*ped	*	*	*
+4AAn	(>8cc#XL	.	.
+.	8ddn	.	.
+4c#X 4En	8dd#X	.	.
+.	8een	1	.
+4r	8aany	5	.
+*Xped	*	*	*
+.	8gg#XJ)	.	.
+!!LO:LB:g=original
+=16	=16	=16	=16
+*ped	*	*	*
+4AAn	(>8ff#XL	.	.
+.	8een	.	.
+.	.	.	>
+4dn 4F#X	8ddn	1	.
+*Xped	*	*	*
+!	!LO:TX:b:t=P:w źródle "2" znajduje się pod łukiem:problem	!	!
+.	8g#X	2	.
+4d 4En	8an	.	]
+.	8bnJ)	.	.
+=17	=17	=17	=17
+*ped	*	*	*
+4AAn	(>8cc#XL	.	<
+.	8ddn	.	.
+4c#X 4En	8dd#X	.	.
+.	8een	.	.
+4c# 4E	8aan	.	.
+*Xped	*	*	*
+.	8gg#XJ	.	[
+=18	=18	=18	=18
+*ped	*	*	*
+4AAn	8ff#XL	.	>
+.	8een	.	.
+4dn 4F#X	8ddn	.	.
+*Xped	*	*	*
+.	8g#X	.	.
+4d 4En	8an	.	.
+.	8bnJ)	.	]
+=19	=19	=19	=19
+4AAn	4cc#X	.	.
+4r	(>8bnL	.	<
+.	8ccn	.	.
+4e-X 4c 4F	8ff	.	.
+.	8eenJ)	.	[
+=20	=20	=20	=20
+*ped	*	*	*
+4BB-	(>8ee-XL<	.	.
+.	.	.	>
+.	8ddn	1	.
+!	!LO:TX:b:t=P:w źródle "4" znajduje się pod łukiem:problem	!	!
+4d- 4F	8dd-X	4	.
+*Xped	*	*	*
+.	8en	.	.
+4B- 4En 4C	8f	.	.
+.	.	.	]
+.	8gJ)	.	.
+!!LO:PB:g=original
+=21	=21	=21	=21
+*ped	*	*	*
+4FF	(>8a-L	.	.
+.	8b-	.	<
+4A- 4C	8bn	.	.
+*Xped	*	*	*
+.	8cc	.	.
+4r	8ff	.	.
+.	8eenJ)	.	[
+=22	=22	=22	=22
+4r	(>8ee-XL<	.	>
+.	8ddn	.	.
+4A- 4D-	8dd-X	.	.
+.	8en	.	.
+4B- 4C	8f	.	]
+.	8qa-	.	.
+.	8gJ)	.	.
+=23	=23	=23	=23
+*ped	*	*	*
+4FF	8fTL	.	.
+.	8enJ	.	.
+4A- 4C	2f^<	.	.
+*Xped	*	*	*
+.	.	.	.
+4A- 4C-X	.	.	.
+=24	=24	=24	=24
+*ped	*	*	*
+4EE-	2b-/	.	mf
+4d- 4G 4E-	.	.	.
+4d- 4G 4E-	(<8ccL	.	.
+*Xped	*	*	*
+.	8gJ)	.	.
+=25	=25	=25	=25
+*ped	*	*	*
+4AA-	(<8a-L	.	.
+.	8c	.	.
+4c 4A- 4E-	8e-	.	.
+.	8a-	.	.
+*Xped	*	*	*
+.	.	.	.
+4c 4F 4Dn	8bn	.	.
+.	8ccJ)	.	.
+!!LO:LB:g=original
+=26	=26	=26	=26
+*ped	*	*	*
+4GG	4ddn	.	.
+4f 4G	(>8ee-L	.	.
+*Xped	*	*	*
+.	8gg	.	.
+4f 4dn 4G	8ff	.	.
+.	8bnJ)	.	.
+=27	=27	=27	=27
+*ped	*	*	*
+4C	2cc	.	.
+4e- 4c 4G	.	.	.
+4e- 4c 4G	4g	.	.
+*Xped	*	*	*
+.	.	.	.
+=28	=28	=28	=28
+*ped	*	*	*
+4GG	2ddn^<	.	.
+4f 4Bn 4G	.	.	.
+4f 4G	(>8ee-L	.	.
+*Xped	*	*	*
+.	8bnJ)	.	.
+=29	=29	=29	=29
+*ped	*	*	*
+4C	4ccT	.	.
+4e- 4c 4G	(>8bnL	.	<
+.	8cc	.	.
+4e- 4c 4G	8ddn	.	.
+*Xped	*	*	*
+.	8ee-J)	.	[
+=30	=30	=30	=30
+*	*^	*	*
+*ped	*	*	*	*
+4AA-	4ff	4reyy	.	<
+4f 4c 4A-	(>8eenL	4rgyy	.	[
+*Xped	*	*	*	*
+.	8ffJ	.	.	.
+4DDn	8ggL	[<4cc	4	.
+.	8aa-J)	.	5	.
+!!LO:LB:g=original
+=31	=31	=31	=31	=31
+*	*	*	*^	*
+4GG	[>2.gg	(>8ccL]	5	.	.
+.	.	8bn	.	1	.
+4r	.	8een	.	4	.
+.	.	8dd#X	.	3	.
+4r	.	8ddnL	.	1	.
+.	.	8cc#XJJ)	.	2	.
+*clefG2	*	*	*	*	*
+*	*	*	*v	*v	*
+=32	=32	=32	=32	=32
+4r	4gg]	4ccn	.	pp
+(>4an 4dn	(>8ff#XL	4cc	.	.
+!	!LO:TX:b:i:t=sempre\ leg.:dur=2qe:ext=s:problem:text with extention lines	!	!	!
+.	8gg	.	.	.
+4f#X 4d)	8bbn	[<4cc	.	.
+.	8aanJ)	.	.	.
+=33	=33	=33	=33	=33
+*^	*	*	*	*
+4r	4rFyy	4ddn	4cc]	.	.
+8dnL	4G	[>2ff	8bnL	.	.
+8en	.	.	8cc	.	.
+8g	4G	.	8een	.	.
+8fJ	.	.	8ddJ	.	.
+*v	*v	*	*	*	*
+=34	=34	=34	=34	=34
+4d-X	4ff]	4b-X	.	.
+4f 4c	(>8eenL	4b-	.	.
+.	8ff	.	.	.
+4en	8aan	[<4b-	.	.
+.	8ggJ)	.	.	.
+=35	=35	=35	=35	=35
+*^	*	*	*	*
+4e-X	4rDyy	4cc	4b-]	.	.
+8cL	4F	[>2ee-	(<8anL	.	.
+8dn	.	.	8b-	.	.
+8f	4F	.	8ddn	.	.
+8e-J	.	.	8ccJ)	.	.
+*v	*v	*	*	*	*
+!!LO:LB:g=original
+=36	=36	=36	=36	=36
+4c-X	4ee-]	4a-X	.	.
+4e- 4B-	(>8ddnL	4a-	.	.
+.	8ee-	.	.	.
+4dn 4B-	8gg	[<4a-	.	.
+.	8ffJ)	.	.	.
+*clefF4	*	*	*	*
+=37	=37	=37	=37	=37
+*^	*	*	*	*
+4ryy	4r	4b-	4a-]	.	.
+4B-/	8F-X\L	2dd-	8gL	.	>
+.	8E-J	.	8f#XJ	.	]
+4B-/	4E-	.	[<4g	.	.
+*v	*v	*	*	*	*
+=38	=38	=38	=38	=38
+*^	*	*	*	*
+4c	4E-	4an	4g]	.	.
+4An	8E-L	2cc	8f#XL	.	>
+.	8DnJ	.	8e#XJ	.	]
+4A	4D	.	[<4f#	.	.
+=39	=39	=39	=39	=39	=39
+4Bn	4Dn	4g#X	4f#]	.	.
+4A-X	4D	2bn	8fnL	.	>
+.	.	.	8enJ	.	]
+4A-	4D-X	.	[<4f	.	.
+*v	*v	*	*	*	*
+=40	=40	=40	=40	=40
+*ped	*	*	*	*
+4C	[>4cc	4f]	.	.
+4f 4c 4A-	8ccL>]	4ryy	.	.
+.	8dd-	.	.	.
+4f 4c 4A-	8dd-	4ryy	.	.
+*Xped	*	*	*	*
+!	!LO:TX:t=P:"D.C. al segno | senza fine." is located after the last barline, between staves:problem	!	!	!
+!	!LO:TX:b:t=D. C. al segno | senza fine.	!	!	!
+.	8ccJ	.	.	.
+*	*v	*v	*	*
+!!LO:TX:t=[segno]
+=||	=||	=||	=||
+*-	*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: > = "dim.",fontstyle="italic"
+!!!RDF**dynam: < = "cres.",fontstyle="italic"
+!!!RDF**kern: i = editorial accidental
+!!!ENC: Emilia Ziętek
+!!!END: 2020-02-28
+!!!EED: Antoni Szymański
+!!!EST: revision finished 2020-03-14

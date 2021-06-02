@@ -1,0 +1,767 @@
+!!!!SEGMENT: 030-1-Sm-003.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Mazourka No. 3
+!!!OPS: Op. 30
+!!!PTL: Quatre Mazurkas pour le piano
+!!!PPR: M. Schlesinger
+!!!PPP: Paris
+!!!NIFC-rismID: 300605154
+!!!NIFC-shelfmark: PL-Wbfc 1664/n
+!!!OMD: All.o non troppo.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*
+*D-:	*D-:	*
+*M3/4	*M3/4	*
+*	*	*
+=1-	=1-	=1-
+!	!	!LO:DY:b
+2.rGG	2.A-<^>/	f
+=2	=2	=2
+2.rGG	2.A-<^>/	.
+=3	=3	=3
+2.rGG	4A-</	.
+.	2A-<^>/	.
+=4	=4	=4
+2.rGG	4A-</	.
+.	2A-<^>/	.
+=5	=5	=5
+2.rGG	(>4A-</	.
+.	8F<L	.
+.	8G-<	.
+.	8A-<	.
+.	8B-<J)	.
+=6	=6	=6
+2.rGG	(>4A-<M/	.
+.	8F<L	.
+.	8G-<	.
+.	8A-<	.
+.	8B-y<J	.
+=7	=7	=7
+!	!LO:TX:a:t=P:oznaczenie trioli pod nutami:problem	!
+2.rGG	12A-<L	.
+.	12B-<	.
+.	12A-<J	.
+.	8F<L	.
+.	8G-<	.
+.	8A-<	.
+.	8B-<J	.
+!!LO:LB:g=original
+=8	=8	=8
+2.rGG	8A-<L>/	<
+.	8d->	.
+.	8e->	.
+.	8g->	.
+.	8f>	.
+.	8e->J)	[
+=9!|:	=9!|:	=9!|:
+!	!LO:TX:a:B:t=Risoluto.	!
+*	*ped	*
+!!mixed beam:problem
+8DD-/L 8DDD-/	8f/L 8d-'/	f
+16r	16r	<
+(>16d-\Jk	(</16g-Jk 16e->/	.
+4F	4gn 4en	.
+*	*Xped	*
+4AA-)	4a- 4f	.
+=10	=10	=10
+*	*ped	*
+!!mixed beam:problem
+8DD-'</L	8b-L/ 8g-X)	.
+16r	16r	.
+(>16d-\Jk	(>16a-Jk 16f	.
+4F	2ff 2dd-)	[
+*	*Xped	*
+4AA-)	.	.
+=11	=11	=11
+*	*ped	*
+!!mixed beam:problem
+8GGG-'</L	8ee- 8cc'L	[
+16r	16r	.
+(>16B-\Jk	(>16dd- 16b-Jk	.
+4D-	4b- 4g-	.
+*	*Xped	*
+4GG-)	4g- 4B-)	.
+=12	=12	=12
+*	*ped	*
+!!mixed beam:problem
+8DD-'</L	8f 8A-`<L	.
+16r	16r	.
+(>16d-\Jk	(>16b- 16g-Jk	.
+4F	2a- 2f^	.
+*	*Xped	*
+4AA-)	.	.
+=13	=13	=13
+*	*ped	*
+!!mixed beam:problem
+8GGG-'</pL	8ee- 8ccL)	pp
+16r	16r	.
+(>16B--\Jk	(>16dd- 16b--Jk	.
+4D-	4b-- 4g-	.
+*	*Xped	*
+4GG-)	4g- 4B--	.
+!!LO:LB:g=original
+=14	=14	=14
+*	*ped	*
+!!mixed beam:problem
+8DD-'</L	8f/ 8A-'L)	.
+16r	16r	.
+(>16d-\Jk	(<16b--Jk 16g-	.
+4F	2a- 2f)	.
+*	*Xped	*
+4AA-)	.	.
+=15	=15	=15
+*	*ped	*
+!!mixed beam:problem
+8DD-/ 8DDD-/L	8f/ 8A-'L	ff
+16r	16r	.
+(>16d-\Jk	(<16b-X 16g-Jk	.
+4F	2a-/ 2f^/)	.
+*	*Xped	*
+4AA-)	.	.
+=16	=16	=16
+*	*ped	*
+!!mixed beam:problem
+8DD-'</L	8f/ 8A-'L	pp
+16r	16r	.
+(>16d-\Jk	(<16b--Jk 16g-	.
+4F	2a- 2f^)	.
+*	*Xped	*
+4AA-)	.	.
+=17	=17	=17
+*	*ped	*
+!!mixed beam:problem
+8AAA-'</L	8b-XL/ 8g-'	f
+16r	16r	<
+(>16c\Jk	(>16ccJk 16a-	.
+4G-	4dd- 4b-	.
+*ped	*Xped	*
+4AA-)	4ee- 4cc)	.
+=18	=18	=18
+*	*ped	*
+!!mixed beam:problem
+8DD-'</L	8ff'L 8dd-	.
+16r	16r	.
+(>16d-\Jk	(>16gg-Jk 16ee-	.
+4F	4ggn 4een	.
+*	*Xped	*
+4AA-)	4aa- 4ff	.
+=19	=19	=19
+*	*ped	*
+!!mixed beam:problem
+8AAA-'</L	8ccc'L 8aa-)	[
+16r	16r	.
+(>16c\Jk	(>16bb-MJk 16gg-	.
+4G-	4aa-y 4ff	.
+*	*Xped	*
+4AA-)	4gg- 4ee-	.
+!!LO:LB:g=original
+=20	=20	=20
+*	*ped	*
+!!mixed beam:problem
+8DD-'</L	8ff'L 8dd-)	.
+16r	16r	.
+(>16d-\Jk	(>16ee-Jk 16a-	.
+4F	2dd-^\ 2f	.
+*	*Xped	*
+4AA-)	.	.
+=21	=21	=21
+*	*ped	*
+!!mixed beam:problem
+8AAA-'/L	8b--L\ 8g-	pp
+(>8c\J	8ccJ 8a-	.
+4G-	4dd- 4b--	.
+*	*Xped	*
+4AA-)	4ee- 4cc	.
+=22	=22	=22
+*	*ped	*
+!!mixed beam:problem
+8DD-/L	8ff-XL 8dd-	.
+(>8d-\J	8ggnJ 8ee-	.
+4F-X	4aa- 4ff-	.
+*	*Xped	*
+4AA-)	4bb--X 4gg-	.
+=23	=23	=23
+*	*ped	*
+!!mixed beam:problem
+8AAA-'</L	8ccc'L 8aa-')	.
+16r	16r	.
+(>16c\Jk	(>16bb--XJkM 16gg-	.
+4G-	4aa- 4ff-X	.
+*	*Xped	*
+4AA-)	4gg- 4ee-	.
+=24	=24	=24
+*	*ped	*
+!!mixed beam:problem
+8DD-'</L	8.ff-XL 8.dd-	.
+16r	.	.
+(>16d-\Jk	16ee- 16a-Jk	.
+4F-X	2dd-^\ 2f-X)	.
+*	*Xped	*
+4AA-)	.	.
+=25:|!	=25:|!	=25:|!
+*	*ped	*
+!	!LO:TX:a:B:t=Con anima.	!
+4GG-' 4GGG-'	(>2.ff-X^	f
+4f-X 4B- 4G-	.	.
+4f- 4B- 4G-	.	.
+!!LO:LB:g=original
+=26	=26	=26
+*	*Xped	*
+4e- 4c-X 4G-	8.ff-XL	.
+.	16ee-m	.
+4e- 4c- 4G-	8ddn	.
+.	8ee-	.
+4e- 4c- 4G-	8ccc-X	.
+.	8ee-J	.
+=27	=27	=27
+*	*ped	*
+4GG-	4.aa-	.
+4f-X 4B- 4G-	.	.
+.	8gg-XL	.
+4f- 4B- 4G-	8ff-X	.
+*	*Xped	*
+.	8dd-J	.
+=28	=28	=28
+*	*ped	*
+4C-X	8dd-L	.
+.	8ee-J	.
+4e-X 4c 4G-	2cc-X)	.
+*	*Xped	*
+4e- 4c 4G-	.	.
+=29	=29	=29
+*	*ped	*
+!	!LO:TX:b:i:t=dolce	!
+4FF	(>[>2.ee-	.
+4e- 4An 4F	.	.
+*	*Xped	*
+4e- 4A 4F	.	.
+=30	=30	=30
+4dn 4B- 4F	8ee-L]	.
+.	8ddnm	.
+4d 4B- 4F	8cc#X	.
+.	8dd	.
+4d 4B- 4F	8.bb-	.
+.	16ddJk	.
+=31	=31	=31
+*	*ped	*
+4FF	4.ggn	>
+4e- 4An 4F	.	.
+.	8ffL	.
+4e- 4A 4F	8ee-	.
+*	*Xped	*
+.	8ccJ	.
+=32	=32	=32
+*	*ped	*
+4BB-'	8ccL	]
+.	8ddnJ	.
+4dn 4B- 4F	2b-)	.
+*	*Xped	*
+4d 4B- 4F	.	.
+!!LO:PB:g=original
+=33	=33	=33
+4e- 4dn 4B- 4Gn	4r	.
+4f-X 4d 4B- 4G	(>[>2ff-X^	.
+4f- 4B- 4G-X	.	.
+=34	=34	=34
+4e- 4c-X 4G-	8ff-L]	.
+.	8ee-m	.
+4e- 4c- 4G-	8ddn	]
+.	8ee-	.
+4e- 4c- 4G-	8.ccc-X	.
+.	16ee-Jk	.
+=35	=35	=35
+*ped	*	*
+4GG-	4.aa-	.
+4f-X 4B- 4G-	.	.
+.	8gg-XL	.
+4f- 4B- 4G-	8ff-X	.
+*Xped	*	*
+.	8dd-J	.
+=36	=36	=36
+*ped	*	*
+4C	8dd-L	.
+.	16r	.
+.	16ee-Jk	.
+4e- 4c 4G-	2cc-X)	.
+4e- 4c 4G-	.	.
+*Xped	*	*
+=37	=37	=37
+4e- 4An 4F	(>[>2.ee-	.
+4e- 4A 4F	.	.
+4e- 4A 4F	.	.
+=38	=38	=38
+4d- 4B- 4F	8ee-L]	.
+*ped	*	*
+.	8ddnm	.
+4d- 4B- 4F	8cc#X	.
+.	8dd	.
+4d- 4B- 4F	8.bb-	.
+*Xped	*	*
+.	16ddJk	.
+=39	=39	=39
+*ped	*	*
+4FF	4.gg-	>
+4e- 4An 4F	.	.
+.	8ffL	.
+4e- 4A 4F	8ee-	.
+*Xped	*	*
+.	8ccJ	]
+!!LO:LB:g=original
+=40	=40	=40
+4dn 4A-X 4F	4cc-X	.
+2d-X 2Gn [>2En	2b-t	.
+.	8qan/L	.
+.	8qb-/	.
+.	8qggn/	.
+.	8qeen/	.
+.	8qdd-/	.
+.	8qb-/	.
+.	8qgn/J	.
+=41	=41	=41
+!LO:TX:b:B:t=ben legato.	!	!
+!	!LO:TX:b:Bi:t=sotto voce	!
+(>4B- 4EnX] 4D-	8en`L)/	.
+.	16r	.
+.	(<16gnJk	.
+4B- 4E 4D-	4b-/	.
+4B- 4E 4D-	4a-	.
+=42	=42	=42
+4B- 4En 4D-	4gn	.
+4B- 4F 4D-	4f)	.
+4B- 4F 4D-	4r	.
+=43	=43	=43
+4B- 4En 4D-	(<8gnL	.
+.	8b-J	.
+4B- 4E 4D-	4dd-/	.
+4B- 4E 4D-	4cc/	.
+=44	=44	=44
+4B- 4F 4D-	4b-/	<
+4Bn 4F 4D-	4a-)	.
+4c 4F 4C	4r	.
+=45	=45	=45
+4dn 4F 4C	(>8bnL	[
+.	8ddnJ	.
+4A- 4F 4C	4ff	.
+4Gn 4F 4C	4een	.
+=46	=46	=46
+4Gn 4F 4C	4ddn	.
+4G 4En 4C	4cc)	.
+4G 4Dn 4C)	4r	.
+!!LO:LB:g=original
+=47	=47	=47
+*	*ped	*
+4C	(>8eenL	.
+.	8ggnJ	.
+4en 4B- 4Gn	4.bb-	.
+4e 4B- 4G	.	.
+*	*Xped	*
+.	8aa-	.
+=48	=48	=48
+*	*ped	*
+4FF	2ggn	.
+4f 4c 4A-	.	.
+*	*Xped	*
+4f 4c 4A-	4ff)	.
+=49	=49	=49
+*	*^	*
+*	*ped	*	*
+!	!LO:N:vis=2.	!	!
+4CC'	(>8.enL	[>2.en^	f
+.	16gnJk	.	.
+4B- 4En 4C	4.b- 4.d-	.	.
+4B- 4E 4C	.	.	.
+*	*Xped	*	*
+.	8a- 8c	.	.
+=50	=50	=50	=50
+4FF	4g- 4B-	(>4enX]	.
+4F 4C	4f) 4A-)	2ryy	.
+4F 4C	4r	.	.
+=51	=51	=51	=51
+*	*ped	*	*
+!	!LO:N:vis=2.	!	!
+!	!	!LO:TX:t=Cres _:problem:dynamics with extention lines	!
+!	!	!	!LO:HP:[a/b]:[i/B/Bi]:t=Cres::ext=ud
+4EE-'	(>8.gnL	[>2.gn^	<
+.	16b-Jk	.	.
+4d- 4G- 4E-	4.dd- 4.f	.	.
+4d- 4G- 4E-	.	.	.
+*	*Xped	*	*
+.	8cc 8e-	.	.
+=52	=52	=52	=52
+4AA-	4b- 4d-	4gnX]	.
+4A- 4E-	4a- 4c)	2ryy	.
+4A- 4E-	4r	.	.
+=53	=53	=53	=53
+*	*ped	*	*
+!	!LO:N:vis=2.	!	!
+4GGn'	(>8.bnL	[>2.bn	.
+.	16ddnJk	.	.
+4f 4Bn 4Gn	4.ff 4.a-	.	.
+4f 4B 4G	.	.	.
+*	*Xped	*	*
+.	8een 8g-	.	[
+!!LO:LB:g=original
+=54	=54	=54	=54
+4C\	4ddn 4f	4bnX]	.
+4c 4G-	4cc 4en)	4ryy	.
+4r	4ryy	[4eeny^	.
+=55	=55	=55	=55
+*	*ped	*	*
+!	!LO:N:vis=2.	!	!
+4CC'	8(>.eenL	2.eenX_>	.
+.	16gg-J	.	.
+4en 4B- 4Gn	4.bb- 4.dd-	.	.
+4e 4B- 4G	.	.	.
+*	*Xped	*	*
+.	8aa- 8cc)	.	.
+*	*v	*v	*
+=56	=56	=56
+*^	*	*
+*	*	*ped	*
+4FF'	4ryy	(>2ggn) 2eenX] 2b-\	>
+(>4en 4d-	2F	.	]
+*	*	*Xped	*
+4f 4c)	.	[>4ff [>4a-))	.
+*v	*v	*	*
+=57	=57	=57
+*	*ped	*
+4GG-yX'	(>8ff]L 8a-]	.
+.	8ee- 8g-M	<
+4e- 4B- 4G-	8ddn 8f	.
+.	8ee- 8g-	.
+4e- 4B- 4G-	8ff 8a-	.
+*	*Xped	*
+.	8gg-J 8b-	[
+=58	=58	=58
+*	*ped	*
+4AA-'	8gg-L 8b-')	.
+.	16r	.
+.	(>16gg-Jk 16b-	.
+4d- 4A- 4F	4.dd- 4.f^<\	.
+4d- 4A- 4F	.	.
+*	*Xped	*
+.	8ff 8a-	.
+=59	=59	=59
+*	*^	*
+*	*ped	*	*
+4AA-'	4ryy	8ffL 8a-')	.
+.	.	16r	.
+.	.	(>16ffJk 16a-	.
+4c 4G- 4E-	4..cc	2e-^	.
+4AAn'	.	.	.
+*	*Xped	*	*
+!	!LO:N:vis=8	!	!
+.	16ee-	.	.
+!!LO:LB:g=original
+=60	=60	=60	=60
+*^	*	*	*
+*	*	*ped	*	*
+4ryy	(>2BB-/	8ee-L)	4g-	.
+.	.	16r	.	.
+.	.	(>16dd-J	.	.
+4d-\ 4F)	.	4.dd-	[2f^	.
+4r	4ryy	.	.	.
+*	*	*Xped	*	*
+.	.	[>8dd-	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=61	=61	=61
+*	*ped	*
+4EE-'	8dd-]L 8f]	.
+.	8cc 8e-M	<
+4c 4G- 4E-	8bn 8dn	.
+.	8cc 8e-	.
+4c 4G- 4E-	8dd- 8f	.
+*	*Xped	*
+.	8ee-J 8g-	[
+=62	=62	=62
+*	*ped	*
+4FF'	8ee-L 8g-/)	.
+.	16r	.
+.	(>16ee-Jk 16g-	.
+4B- 4D-	4.b- 4.d-	.
+4B- 4D-	.	.
+*	*Xped	*
+.	8dd- 8f	.
+=63	=63	=63
+*^	*^	*
+4ryy	2.FF	8dd-L 8f/)	4ryy	.
+.	.	16r	.	.
+.	.	(>16dd-J 16f	.	.
+4An 4C	.	4..an	2c^	.
+4A 4C	.	.	.	.
+.	.	16cc	.	.
+*v	*v	*	*	*
+=64	=64	=64	=64
+*	*ped	*	*
+4BBB-'	8ccL)	4e-	.
+.	16r	.	.
+.	16b-J	.	fz
+4B- 4F 4BB-	4b-	4d-	.
+4r	8r	4ryy	.
+*	*Xped	*	*
+.	8dd- 8f	.	.
+!!LO:PB:g=original
+=65	=65	=65	=65
+*	*ped	*	*
+4AA- 4AAA-'	8r	4g-	f
+.	(>8ee-ML	.	.
+4c 4A- 4G- 4E-	8ddn 8f	2ryy	.
+.	8ee- 8g-	.	.
+4c 4A- 4G- 4E-	8ff 8a-	.	.
+*	*Xped	*	*
+.	8gg-J 8b-	.	.
+*	*v	*v	*
+=66	=66	=66
+*	*ped	*
+!	!LO:TX:a:t=P:oznaczenie trioli nad nutami (t. 66-67):problem	!
+4D- 4DD-'	12gg-L 12b-	.
+.	12gg- 12b-	.
+.	12gg-J 12b-	.
+4d- 4A- 4F	4dd- 4f'\)	.
+4d- 4A- 4F	8r	.
+*	*Xped	*
+.	(>8ff 8a-'	.
+=67	=67	=67
+*	*ped	*
+4AA-'	12ffL 12a-	.
+.	12ff 12a-	.
+.	12ffJ 12a-	.
+*	*Xped	*
+4c 4G- 4E-	4cc 4e-')	.
+4AAn'	8r	.
+.	16r	.
+.	[>16ee-	.
+=68	=68	=68
+*^	*^	*
+4ryy	(>2BB-/	8ee-L]	4g-	.
+.	.	16r	.	.
+.	.	16dd-Jk	.	.
+4d-\ 4F)	.	4.dd-	2f^	.
+4r	4ryy	.	.	.
+.	.	[>8dd-	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=69	=69	=69
+*	*ped	*
+4EE-'	8dd-]L 8f	.
+.	(<8cc 8e-M	.
+4c 4G- 4E-	8bn 8dn	.
+.	8cc 8e-	.
+4c 4G- 4E-	8dd- 8fny	.
+*	*Xped	*
+.	8ee-J 8g-	.
+=70	=70	=70
+*^	*	*
+!	!	!LO:TX:a:t=P:oznaczenie trioli pod nutami:problem	!
+4ryy	(>2FF/	12ee-L 12g-/	.
+.	.	12ee- 12g-	.
+.	.	12ee-J 12g-	.
+4B-\ 4D-)	.	4b- 4d-)	.
+4r	4ryy	8r	.
+.	.	8dd- 8f	.
+*v	*v	*	*
+!!LO:LB:g=original
+=71	=71	=71
+*	*ped	*
+*	*Xtuplet	*
+(<4FFF'	(>12dd-L 12f	.
+.	12dd- 12f	.
+.	12dd-J 12f	.
+4An 4C 4FF)	4an 4c)	.
+4r	8r	.
+*	*Xped	*
+.	(>8cc 8e-	.
+*	*tuplet	*
+=72	=72	=72
+2.r	8dd-L 8f	>
+.	8dd-J 8f	.
+.	4an 4c	.
+.	4cc 4e-)	.
+=73	=73	=73
+*^	*	*
+[>2.F^	4FF'>	2.r	.
+.	4FF'>	.	.
+.	4r	.	.
+=74	=74	=74	=74
+2.F_>	4EEn'>	2.r	.
+.	4EE'>	.	.
+.	4r	.	.
+*v	*v	*	*
+=75	=75	=75
+!	!LO:TX:b:Bi:t=slentando	!
+2.F_>	(>8dd-L 8f	.
+.	8dd-J 8f	.
+.	4an 4c	.
+.	4cc 4e-	.
+=76	=76	=76
+2.F_>	8dd-L 8f	.
+.	8dd-J 8f	.
+.	4an 4c	.
+.	4cc 4e-)	.
+=77	=77	=77
+*^	*	*
+!	!	!	!LO:HP:b=2
+2.F_>	4EE-X'>	2.r	<
+.	4EE-'>	.	.
+.	4r	.	.
+!!LO:LB:g=original
+=78	=78	=78	=78
+2.F]	4EE--'>	2.r	.
+.	4EE--'>	.	.
+.	4r	.	[
+*v	*v	*	*
+=79	=79	=79
+!	!LO:TX:b:Bi:t=risoluto	!
+!!mixed beam:problem
+8DD-'</L	8fL 8d-/	f
+16r	16r	.
+(16d-\Jk	(>16g-Jk 16e-	<
+4F	4gn 4en	.
+4AA-)	4a- 4f	.
+=80	=80	=80
+!!mixed beam:problem
+8DD-'</L	8b-L 8g-XM/)	.
+16r	16r	[
+(>16d-\Jk	(>16a-Jk 16f	.
+4F	2ff 2dd-	.
+4AA-)	.	.
+=81	=81	=81
+!!mixed beam:problem
+8GGG-'</L	8ee-L 8cc)	[
+16r	16r	.
+(>16B-\Jk	(>16dd-Jk 16b-	.
+4D-	4b- 4g-	.
+4GG-)	4g- 4B-	.
+=82	=82	=82
+!!mixed beam:problem
+8DD-'</L	8fL 8A-'/)	.
+16r	16r	.
+(>16d-\Jk	(>16b-Jk 16g-	>
+4F	2a- 2f	.
+4AA-)	.	]
+=83	=83	=83
+!!mixed beam:problem
+8GGG-'</L	8ee-L 8cc')	pp
+16r	16r	.
+(>16B--\Jk	(>16dd-Jk 16b--	.
+4D-	4b-- 4g-	.
+4GG-)	4g- 4B--	.
+!!LO:LB:g=original
+=84	=84	=84
+8DD-'</L	8fL 8A-/)	.
+16r	16r	.
+(>16d-\Jk	(>16b--Jk 16g-	.
+4F	2a- 2f)	.
+4AA-)	.	.
+=85	=85	=85
+8DD-/L 8DDD-'</	8fL 8A-/	ff
+16r	16r	.
+(>16d-\Jk	(>16b-Jk 16g-	.
+4F	2a- 2f)	.
+4AA-)	.	.
+=86	=86	=86
+8DD-'</L	8fL 8A-/	pp
+16r	16r	.
+(>16d-\Jk	(>16b--Jk 16g-X	.
+4F	2a- 2f)	.
+4AA-)	.	.
+=87	=87	=87
+*	*ped	*
+!!mixed beam:problem
+8AAA-'</L	8b-\L 8g-'\	f
+16r	16r	<
+(>16c\Jk	(>16ccJk 16a-	.
+4G-	4dd- 4b-	.
+*	*Xped	*
+4AA-)	4ee- 4cc	.
+=88	=88	=88
+*	*ped	*
+!!mixed beam:problem
+8DD-'</L	8ffL 8dd-')	.
+16r	16r	.
+(>16d-\Jk	(>16gg-Jk 16ee-	.
+4F	4ggn 4een	[
+*	*Xped	*
+4AA-)	4aa- 4ff	.
+=89	=89	=89
+*	*ped	*
+!!mixed beam:problem
+8AAA-'</L	8cccL 8aa-')	.
+16r	16r	.
+(>16c\Jk	(>16bb-Jk 16gg-XM	>
+4G-	4aa- 4ff	.
+*	*Xped	*
+4AA-)	4gg- 4ee-	]
+!!LO:LB:g=original
+=90	=90	=90
+*	*ped	*
+!!mixed beam:problem
+8DD-'</L	8ffL 8dd-')	.
+16r	16r	.
+(>16d-\Jk	(>16ee-Jk 16a-	.
+4F	2dd- 2f^\	.
+*	*Xped	*
+4AA-)	.	.
+=91	=91	=91
+*	*ped	*
+!!mixed beam:problem
+8AAA-'</L	8b--L 8g-\	.
+(>8c\J	8ccJ 8a-	.
+4G-	4dd- 4b--	.
+*	*Xped	*
+4AA-)	4ee- 4cc	.
+=92	=92	=92
+*	*ped	*
+!!mixed beam:problem
+8DD-'</L	8ff-XL 8dd-	.
+(>8d-\J	8ggnJ 8ee-	.
+4F-X	4aa- 4ff-	.
+*	*Xped	*
+4AA-)	4bb-- 4gg-X	.
+=93	=93	=93
+*	*ped	*
+!!mixed beam:problem
+8AAA-/L	8cccL 8aa-')	.
+16r	16r	.
+(>16c\Jk	(>16bb--Jk 16gg-M	.
+4G-	4aa- 4ff-X	.
+*	*Xped	*
+4AA-)	4gg- 4ee-	.
+=94	=94	=94
+*	*ped	*
+!!mixed beam:problem
+8DD-'</L	8ff-XL 8dd-	.
+(>8d-\J	8ee-J 8a-	.
+4F-X	2dd- 2f-X\	.
+*	*Xped	*
+4AA-)	.	.
+=95	=95	=95
+!	!LO:TX:a:B:t=FINE	!
+*	*ped	*
+2.A- 2.D-;<	2.fn^;)	f
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cres.",fontstyle="normal"
+!!!RDF**dynam: > = "dim",fontstyle="italic"
+!!!ENC: Marta Lawrence
+!!!END: 2018-06-05
+!!!EED:Leszek Kubiak
+!!!EST:2018-06-08
+!!!EED2:Jacek Iwaszko
+!!!EST2:revision finished 2018-10-18
+!!!EED3:Mateusz Mrugas
+!!!EST3:revision finished 2018-12-04
+!!!rism-genre: Mazurka
+!!!rism-key: D-flat major
+!!!rism-opus: op.  30, no. 3
+!!!rism-title: Mazurka in D-flat major op.  30, no. 3
+!!!rism-permalink: https://opac.rism.info/search?id=300605154&View=rism
+!!!rism-773a-OPR: 300605151
+!!!rism-parent-permalink: https://opac.rism.info/search?id=300605151&View=rism

@@ -1,0 +1,136 @@
+!!!!SEGMENT: 028_13-24-1a-C-020.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Prelude XX
+!!!OPS: Op. 28
+!!!PTL: 24 Preludes pour le Piano
+!!!PPR: Catelin
+!!!PPP: Paris
+!!!NIFC-rismID: 1001065087
+!!!NIFC-shelfmark: PL-Wbfc 6584/n
+!!!OMD: Largo.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*S
+*clefF4	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*
+*c:	*c:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+*MM44	*MM44	*
+=1	=1	=1
+*^	*	*
+2ryy	4C 4CC	(>4g 4e- 4c 4G<	ff
+.	4FF 4FFF	4a- 4e- 4c 4A-<	.
+4Bn 4G	4GG 4GGG	8.gL 8.e-	.
+.	.	16fJk 16d	.
+4ryy	4C 4GG 4CC	4e- 4c 4G< 4E-<)	.
+=2	=2	=2	=2
+2ryy	4AA- 4AAA-	(>4e- 4c 4A-< 4E-<	.
+.	4DD-X 4DDD-X	4f 4d-X 4A-< 4F<	.
+4G 4E- 4D-X	4EE- 4EEE-	8.e-L 8.c	.
+.	.	16d-Jk 16B-	.
+4ryy	4AA- 4AAA-	4c< 4A-< 4E-< 4C<)	.
+=3	=3	=3	=3
+!	!	!	!LO:HP:a
+2ryy	4GG 4GGG	(>4d 4Bn< 4F< 4D<	<
+.	4CC 4CCC	4en 4c< 4B-X< 4G< 4En<	.
+4c 4A-	4FF 4FFF	8.gL	.
+.	.	16fJk	.
+4ryy	4C 4CC	4e 4c< 4G<	.
+*v	*v	*	*
+!!LO:LB:g=original
+=4	=4	=4
+*	*^	*
+4D 4AAn 4DD	4d 4c< 4F#X<	2ryy	.
+4GG 4GGG	4g 4d 4Bn< 4G<	.	[
+4DD 4DDD\	8.bnL	4f#X 4d 4c	.
+.	16anJk	.	.
+4GG 4GGG\	4g 4d 4Bn	4ryy	.
+=5	=5	=5	=5
+(>4C 4CC	4ee- 4g 4e-	2ryy	p
+4c 4C	4ee- 4a- 4e-	.	.
+4Bn 4BBn	4dd 4d	8.a-L	.
+.	.	16f#XJk	.
+4B-X 4BB-X	4dd 4g 4d	4ryy	.
+*	*v	*v	*
+=6	=6	=6
+4An 4AAn	4cc 4g 4c	.
+4A-X 4AA-X	4dd 4f#X 4d 4c	.
+4G 4GG\	8.bnL 8.g 8.d	.
+.	16anJk 16c	.
+4F 4FF\	4g 4d 4Bn	.
+!!LO:LB:g=original
+=7	=7	=7
+*	*^	*
+!LO:TX:b:t=P:problem:łuk od nowego systemu przechodzi pod nutami	!	!	!
+4E- 4EE-	4cc 4g 4c	2ryy	.
+4F 4FF	4a- 4c 4A-	.	.
+4BBn 4BBBn	8.gL	4d 4G	.
+.	16fJk	.	.
+!	!LO:TX:a:Bi:t=ritenuto.	!	!
+4C 4CC	4e- 4c 4G	4ryy	.
+*	*v	*v	*
+=8	=8	=8
+*^	*	*
+2ryy	4AA- 4AAA-	4e- 4c 4A-< 4E-<	.
+.	4DD-X 4DDD-X	4f 4d-X 4A-< 4F<	.
+4Bn 4G 4F	4GG 4GGG	8.e-L	.
+.	.	16d-Jk	.
+4ryy	4CC 4CCC)	4c 4G< 4E-<)	.
+*v	*v	*	*
+=9	=9	=9
+*	*^	*
+!LO:TX:b:t=P:problem:łuk przed łamaniem systemu przechodzi nad nutami	!	!	!
+(<4C 4CC	(>4ee- 4g 4e-	2ryy	pp
+4c 4C	4ee- 4a- 4e-	.	.
+!	!LO:TX:t=P:4dd i 4d przed ósemkami:problem	!	!
+4Bn 4BBn	4dd 4d	8.a-L	.
+.	.	16f#XJk	.
+4B-X 4BB-X	4dd 4g 4d	4ryy	.
+*	*v	*v	*
+!!LO:LB:g=original
+=10	=10	=10
+4An 4AAn	4cc 4g 4c	.
+4A-X 4AA-X	4dd 4f#X 4d 4c	.
+4G 4GG\	8.bnL 8.g 8.d	.
+.	16anJk 16c	.
+4F 4FF	4g 4d 4Bn	.
+=11	=11	=11
+*	*^	*
+4E- 4EE-	4cc 4g 4c	2ryy	.
+4F 4FF	4a- 4c 4A-	.	.
+!	!	!LO:TX:b:Bi:t=cres _:problem:dynamics with extention lines	!
+!	!	!	!LO:HP:b:Bi:t=cres:ext=ud.
+4BBn 4BBBn	8.gL	4d 4G	<
+.	16fJk	.	.
+4C 4CC	4e- 4c 4G	4ryy	.
+*	*v	*v	*
+=12	=12	=12
+*^	*	*
+2ryy	4AA- 4AAA-	4e- 4c 4A-< 4E-<	.
+.	4DD-X 4DDD-X	4f 4d-X 4A-< 4F<	.
+4Bn 4G 4F	4GG 4GGG	8.e-L	.
+*ped	*	*	*
+.	.	16d-Jk	.
+4ryy	4CC 4CCC)	4c 4G< 4E-<)	[
+*v	*v	*	*
+=13	=13	=13
+!	!LO:TX:b:t=P:diminuendolike accent:problem	!
+1G; 1C	1cc; 1g 1e- 1c^<	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2019-05-11
+!!!EED: Leszek Kubiak
+!!!EST: 2019-05-16
+!!!rism-genre: Prelude
+!!!rism-key: C minor
+!!!rism-opus: op. 28, no. 20
+!!!rism-title: Prelude in C minor op. 28, no. 20
+!!!rism-permalink: https://opac.rism.info/search?id=1001065087&View=rism
+!!!rism-773a-OPR: 1001065100
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001065100&View=rism

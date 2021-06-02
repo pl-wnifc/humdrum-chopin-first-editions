@@ -1,0 +1,535 @@
+!!!!SEGMENT: 028_13-24-1a-C-023.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Preludium No. 23
+!!!OPS: Op. 28
+!!!PTL: 24 PRELUDES POUR le Piano.
+!!!PPR: Catelin
+!!!PPP: Paris
+!!!NIFC-rismID: 1001065090
+!!!NIFC-shelfmark: PL-Wbfc 6584/n
+!!!OMD: XXIII.
+!!!OMD: Moderato.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*S
+*clefF4	*clefG2	*
+*I"XXIII.	*	*
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+*MM104	*MM104	*
+=1	=1	=1
+*ped	*	*
+!LO:TX:b:t=P:pedalizacja przed nutą:problem	!LO:TX:b:i:t= delicatis.	!LO:DY:rj
+2A:\ 2C: 2FF:	(>16ccLL	p
+.	16a	.
+.	16f	.
+.	16dJJ	.
+.	16cLL	.
+.	16f	.
+.	16ff	.
+.	16ddJJ	.
+2r	16ccLL	.
+.	16a	.
+.	16f	.
+.	16dJJ	.
+.	16cLL	.
+.	16f	.
+.	16ff	.
+.	16ddJJ	.
+*Xped	*	*
+.	.	.
+=2	=2	=2
+*^	*	*
+*	*	*ped	*
+4CC	2ryy	16ccLL	.
+.	.	16a	.
+.	.	16f	.
+.	.	16dJJ	.
+16qqBBn/LL	.	.	.
+16qqC/JJ	.	.	.
+(>4CT<	.	16cLL	.
+.	.	16f	.
+.	.	16ff	.
+.	.	16ddJJ	.
+.	16qqBB/LL	.	.
+.	[>16qqC/JJ	.	.
+4A	2C]	16ccLL	.
+.	.	16a	.
+*Xped	*	*	*
+.	.	16f	.
+.	.	16dJJ	.
+4G)	.	16cLL	.
+.	.	16e	.
+.	.	16b-	.
+.	.	16gJJ	.
+*v	*v	*	*
+=3	=3	=3
+*ped	*	*
+!LO:TX:b:t=P:pedalizacja przed nutą:problem	!	!
+(>8FFL\	(>16aLL)	.
+.	16f	.
+16CL	16c	.
+16FJJ	16AJJ	.
+8AL	16cLL	.
+.	16f	.
+*Xped	*	*
+8GJ 8C	16b- 16e	.
+.	16gJJ	.
+*ped	*	*
+8FFL\	16aLL	.
+.	16f	.
+16CL	16c	.
+16FJJ	16AJJ	.
+8AL	16cLL	.
+.	16f	.
+*Xped	*	*
+8GJ) 8C	16b- 16e	.
+.	16gJJ	.
+!!LO:LB:g=original
+=4	=4	=4
+*ped	*	*
+!LO:TX:b:t=P:pedalizacja przed nutą:problem	!	!
+(>8FFL\	16aLL	.
+.	16f	.
+16CL	16c	.
+16FJJ	16AJJ	.
+16ALL	16cLL	.
+*Xped	*	*
+16F	16f	.
+16d	16b-	.
+16BnJJ	16g#XJJ	.
+8cL	16aLL/	.
+.	16b-	.
+16b-XL	16dd	.
+16g#XJJ	16bnJJ	.
+8a)	16ccLL	.
+.	16ee	.
+8rA	16ff	.
+.	16aaJJ)	.
+=5	=5	=5
+*ped	*	*
+2e: 2G: 2C:	(>16ggLL	.
+.	16ee	.
+.	16cc	.
+.	16aJJ	.
+.	16gLL	.
+.	16cc	.
+.	16ccc	.
+.	16aaJJ	.
+2r	16ggLL	.
+.	16ee	.
+.	16cc	.
+.	16aJJ	.
+.	16gLL	.
+.	16cc	.
+.	16ccc	.
+*Xped	*	*
+.	16aaJJ	.
+=6	=6	=6
+*^	*	*
+*	*	*ped	*
+4GG'	2ryy	16ggLL	.
+.	.	16ee	.
+.	.	16cc	.
+.	.	16aJJ	.
+16qqF#X/LL	.	.	.
+16qqG/JJ	.	.	.
+(>4GT	.	16gLL	.
+.	.	16cc	.
+.	.	16ccc	.
+.	.	16aaJJ	.
+.	16qqF#/LL	.	.
+.	[>16qqG/JJ	.	.
+4e	2G]	16ggLL	.
+.	.	16ee	.
+*Xped	*	*	*
+.	.	16cc	.
+.	.	16aJJ	.
+4d)	.	16gLL	.
+.	.	16bn	.
+.	.	16ff	.
+.	.	16ddJJ)	.
+*v	*v	*	*
+=7	=7	=7
+*ped	*	*
+(>8CL	(>16eeLL\	.
+.	16cc	.
+16GL	16g	.
+16cJJ	16eJJ	.
+8eL	16gLL	.
+.	16cc	.
+*Xped	*	*
+8dJ 8G	16ff 16bn	.
+.	16ddJJ	.
+*ped	*	*
+8CL	16eeLL\	.
+.	16cc	.
+16GL	16g	.
+16cJJ	16eJJ	.
+8eL	16gLL	.
+.	16cc	.
+8dJ 8G	16ff 16b	.
+*Xped	*	*
+.	16ddJJ	.
+!!LO:LB:g=original
+=8	=8	=8
+*ped	*	*
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+!LO:TUP:a	!	!
+12CL	16eeLL\	.
+.	16cc	.
+12G	.	.
+.	16g	.
+12cJ	.	.
+.	16eJJ	.
+*clefG2	*	*
+!LO:TUP:b	!	!
+!LO:TX:b:t=P:all tuplets without brace:problem	!	!
+12eL	16gLL	.
+.	16cc	.
+12b-XJ	.	.
+.	16ee	.
+12r)	.	.
+.	16ggJJ	.
+2r	16cccLL	.
+.	16eee	.
+.	16ddd	.
+.	16ggJJ	.
+.	16ddLL	.
+.	16gg	.
+*Xped	*	*
+.	16dd	.
+.	16eeJJ)	.
+*clefF4	*	*
+=9	=9	=9
+*ped	*	*
+2a: 2c: 2F:	(>16cccLL	.
+.	16aa	.
+.	16ff	.
+.	16ddJJ	.
+.	16ccLL	.
+.	16ff	.
+.	16fff	.
+.	16dddJJ	.
+2r	16cccLL	.
+.	16aa	.
+.	16ff	.
+.	16ddJJ	.
+.	16ccLL	.
+.	16ff	.
+.	16fff	.
+*Xped	*	*
+.	16dddJJ	.
+=10	=10	=10
+*^	*	*
+*ped	*	*	*
+4C'<	4ryy	16cccLL	.
+.	.	16aa	.
+.	.	16ff	.
+.	.	16ddJJ	.
+*clefG2	*	*	*
+16qqB/LL	.	.	.
+16qqc/JJ	.	.	.
+(>4cT>/	4ryy	16ccLL	.
+.	.	16ff	.
+.	.	16fff	.
+.	.	16dddJJ	.
+.	16qqB/LL	.	.
+.	[<16qqc/JJ	.	.
+4a	2c]	16cccLL	.
+.	.	16aa	.
+.	.	16ff	.
+.	.	16ddJJ	.
+*Xped	*	*	*
+4g)	.	16ccLL	.
+.	.	16ee	.
+.	.	16bb-	.
+.	.	16ggJJ	.
+*v	*v	*	*
+=11	=11	=11
+*ped	*	*
+(>8FL	16aaLL	.
+.	16ff	.
+16cL	16cc	.
+16fJJ	16aJJ	.
+8aL	16ccLL	.
+.	16ff	.
+*Xped	*	*
+8gJ 8c	16bb- 16ee	.
+.	16ggJJ	.
+*ped	*	*
+8FL	16aaLL	.
+.	16ff	.
+16cL	16cc	.
+16fJJ	16aJJ	.
+8aL	16ccLL	.
+.	16ff	.
+8gJ 8c	16bb- 16ee	.
+*Xped	*	*
+.	16ggJJ	.
+!!LO:LB:g=original
+=12	=12	=12
+*ped	*	*
+12FL	16aaLL	.
+.	16ff	.
+12c	.	.
+.	16cc	.
+12fJ	.	.
+.	16aJJ	.
+!LO:TUP:a	!	!
+12aL	16ccLL	.
+.	16ff	.
+12ee-X^J)	.	.
+.	16aa	.
+12r	.	.
+.	16cccJJ	.
+*	*8va	*
+!	!LO:TX:b:i:t=poco riten:dur=2q:ext=s:problem:text with extention lines	!
+2r	16fffLL	.
+.	16aaa	.
+.	16ggg	.
+.	16cccJJ	.
+.	16ggLL\	.
+.	16ccc	.
+.	16gg	.
+*Xped	*	*
+.	16aaJJ	.
+=13	=13	=13
+*ped	*	*
+*Xtuplet	*	*
+!	!LO:TX:b:i:t=in Tempo.	!
+(<12B-L	16fffLL	.
+.	16ddd	.
+12f	.	.
+.	16bb-	.
+12ddJ)	.	.
+.	16ggJJ	.
+4r	16ffLL	.
+.	16bb-	.
+.	16bbb-	.
+.	16gggJJ	.
+2r	16fffLL	.
+.	16ddd	.
+.	16bb-	.
+.	16ggJJ	.
+.	16ffLL	.
+.	16bb-	.
+.	16bbb-	.
+*Xped	*	*
+.	16gggJJ	.
+=14	=14	=14
+*ped	*	*
+!LO:TX:b:t=P:oznaczenie ped skrócone do "P" i przed nutą:problem	!	!
+(<12GL	16fffLL	.
+.	16ddd	.
+12f	.	.
+.	16bbn	.
+12ddJ)	.	.
+.	16ggJJ	.
+4r	16ffLL	.
+.	16gg	.
+.	16bbbny	.
+.	16gggJJ	.
+2r	16fffLL	.
+.	16ddd	.
+.	16bb	.
+.	16ggJJ	.
+.	16ffLL	.
+.	16gg	.
+.	16bgb	.
+*Xped	*	*
+.	16gggJJ	.
+=15	=15	=15
+*ped	*	*
+*tuplet	*	*
+!LO:TUP:b	!	!
+(>12cL	16fffLL	.
+.	16ddd	.
+!LO:N:vis=3	!	!
+12g	.	.
+.	16ccc	.
+12ccJ	.	.
+.	16aaJJ	.
+2.ff)	16ggLL	.
+.	16ccc	.
+.	16cccc	.
+.	16aaaJJ	.
+.	16fffLL	.
+.	16ddd	.
+.	16ccc	.
+.	16aaJJ	.
+.	16ggLL	.
+.	16ccc	.
+.	16cccc	.
+*Xped	*	*
+.	16aaaJJ	.
+!!LO:LB:g=original
+=16	=16	=16
+*^	*	*
+*^	*	*	*
+*ped	*	*	*	*
+2g: 2b-:\	4ryy	(>4ff:\ 4A:	16fffLL	.
+.	.	.	16ddd	.
+*Xped	*	*	*	*
+.	.	.	16ccc	.
+.	.	.	16aaJJ	.
+*ped	*	*	*	*
+.	2.ee	4ryy	16ggLL	.
+.	.	.	16ccc	.
+.	.	.	16cccc	.
+.	.	.	16aaaJJ	.
+8ryy	.	8aa)	16gggLL	.
+.	.	.	16eee	.
+8ryy	.	8ra	16ccc	.
+.	.	.	16aaJJ	.
+4ryy	.	4ra	16gaLL	.
+.	.	.	16ccc	.
+.	.	.	16cccc	.
+*Xped	*	*	*	*
+.	.	.	16gggJJ	.
+*v	*v	*	*	*
+*v	*v	*	*
+*clefF4	*	*
+=17	=17	=17
+*ped	*	*
+2a: 2c: 2F:	16ccccLL	.
+.	16aaa	.
+.	16fff	.
+.	16dddJJ	.
+.	16ccdLL	.
+.	16fff	.
+.	16ffff	.
+.	16ddddJJ	.
+2r	16ccccLL	.
+.	16aaa	.
+.	16fff	.
+.	16ddfJJ	.
+.	16cccLL	.
+.	16fff	.
+.	16ffff	.
+*Xped	*	*
+.	16ddddJJ	.
+=18	=18	=18
+*^	*	*
+*ped	*	*	*
+4C'<	4ryy	16ccccLL	.
+.	.	16aaa	.
+.	.	16fff	.
+.	.	16dddJJ	.
+*clefG2	*	*	*
+16qqBn/LL	.	.	.
+16qqc/JJ	.	.	.
+(>4cT	4ryy	16cccLL	.
+.	.	16fff	.
+.	.	16fcff	.
+.	.	16ddddJJ	.
+.	16qqB/LL	.	.
+.	[<16qqc/JJ	.	.
+4a	2c]	16ccccLL	.
+.	.	16aaa	.
+.	.	16fff	.
+.	.	16dddJJ	.
+*Xped	*	*	*
+4g)	.	16cccLL	.
+.	.	16eee	.
+.	.	16bbb-	.
+.	.	16gggJJ	.
+*v	*v	*	*
+*clefF4	*	*
+!!LO:LB:g=original
+=19	=19	=19
+*ped	*	*
+(>8FL	16aaaLL	.
+.	16fff	.
+16cL	16ccc	.
+16fJJ	16aaJJ	.
+*	*X8va	*
+!	!LO:TX:a:t=loco.	!
+8aL	16ffLL	.
+.	16cc	.
+*Xped	*	*
+8gJ) 8c	16bb- 16ee	.
+.	16ggJJ	.
+*ped	*	*
+!	!LO:TX:b:i:t=dim_:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:t=dim
+8FFL\	16aaLL	>
+.	16ff	.
+16CL	16cc	.
+16FJJ	16aJJ	.
+8AL	16fLL	.
+.	16c	.
+8GJ 8C	16b- 16e	.
+*Xped	*	*
+.	.	.
+.	16gJJ	.
+=20	=20	=20
+*ped	*	*
+8FFL\	16aLL	.
+.	16f	.
+16CL	16c	.
+16FJJ	16AJJ	.
+8AL	16cLL	.
+.	16f	.
+*Xped	*	*
+8GJ 8C	16b- 16e	.
+.	16gJJ	.
+*ped	*	*
+8FFL\	16aLL	.
+.	16f	.
+16CL	16c	]
+16FJJ	16AJJ	.
+!	!LO:TX:b:i:t=smorz:dur=6q:ext=ud:problem:text with extention lines	!
+8AL	16cLL	.
+.	16f	.
+8GJ 8C	16b- 16e	.
+*Xped	*	*
+.	16gJJ	.
+=21	=21	=21
+*ped	*	*
+8.FFL	16aLL	.
+.	16f	.
+.	16c	.
+16CJk	16AJJ	.
+16FLL	16cLL	.
+16A	16f	.
+16c	16a	.
+16fJJ	16ccJJ	.
+*clefG2	*	*
+16aLL\	16ffLL	.
+16ee-X^	16aa	.
+16a	16ccc	.
+16fJJ	16fffJJ	.
+*clefF4	*	*
+*	*8va	*
+16cLL	16aaaLL	.
+16A	16ccc	.
+16F	16fff	.
+16CJJ	16aaJJ	.
+=22	=22	=22
+4FF;	4ffff;<)	.
+4r	4r	.
+*	*X8va	*
+2r	2r	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: > = "dim", fontstyle="italic"
+!!!RDF**kern: > = above
+!!!ENC: Leszek Kubiak
+!!!END: 2019-05-09
+!!!EED: Marta Lawrence
+!!!EST: revision finished 2019-05-12
+!!!EED2: Emilia Ziętek
+!!!EST2: 2020-05-04
+!!!rism-genre: Prelude
+!!!rism-key: F major
+!!!rism-opus: op. 28, no. 23
+!!!rism-title: Prelude in F major op. 28, no. 23
+!!!rism-permalink: https://opac.rism.info/search?id=1001065090&View=rism
+!!!rism-773a-OPR: 1001065100
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001065100&View=rism

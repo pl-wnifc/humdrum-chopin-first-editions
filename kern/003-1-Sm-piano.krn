@@ -1,0 +1,3991 @@
+!!!!SEGMENT: 003-1-Sm-piano.krn
+!!!COM: Chopin, Fryderyk
+!!!OPS: Op. 3
+!!!OTL: Polonaise brillante
+!!!PTL: POLONAISE BRILLANTE | PRECÉDÉE | D'UNE INTRODUCTION | pour | Piano et Violoncelle
+!!!PPR: M. Schlesinger
+!!!PPP: Paris
+!!!NIFC-rismID:  300605284
+!!!NIFC-shelfmark: PL-Wbfc 1647/n
+!!!OMD: Lento. M: M: [quarter] = 89.
+**kern	**kern	**fing	**dynam
+*part2	*part2	*	*part2
+*staff3	*staff2	*	*
+*clefF4	*clefG2	*	*
+*k[]	*k[]	*	*
+*C:	*C:	*	*
+*M4/4	*M4/4	*	*
+*met(c)	*met(c)	*	*
+*I"Introduzione.	*	*	*
+=1	=1	=1	=1
+8CC\	8C<	.	.
+!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+8rGG	(>32E<^>LLL	.	.
+.	32F<	.	.
+.	32E<	.	.
+.	32F#X<JJJ	.	.
+!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+4rGG	32G<^>LLL	.	.
+.	32A<	.	.
+.	32G<	.	.
+.	32B<JJJ	.	.
+!	!LO:TX:t=P:accent not visible:problem	!	!
+!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+.	32c^>LLL	.	.
+.	32d	.	.
+.	32c	.	.
+!	!LO:TX:t=leggierissimo.	!	!
+.	32d#XJJJ	.	.
+!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+2rGG	32e^>LLL	.	.
+.	32f	.	.
+.	32e	.	.
+.	32f#XJJJ	.	.
+.	32gLLL	.	.
+.	32a	.	.
+.	32g	.	.
+.	32bJJJ	.	.
+.	32ccLLL	.	.
+.	32dd	.	.
+.	32cc	.	.
+.	32dd#XJJJ	.	.
+.	32eeLLL	.	.
+.	32ff	.	.
+.	32ee	.	.
+.	32ff#XJJJ	.	.
+=2	=2	=2	=2
+*	*8va	*	*
+8e' 8G 8C	32gg\LLL	.	.
+.	32aa	.	.
+.	32gg	.	.
+.	32bbJJJ	.	.
+8r	32cccLLL	.	.
+.	32ddd	.	.
+.	32ccc	.	.
+.	32ddd#XJJJ	.	>
+*clefG2	*	*	*
+8ee' 8g 8c	32eeeLLL	.	.
+.	32fff	.	.
+.	32eee	.	.
+.	32fff#XJJJ	.	.
+8r	32gggLLL	.	.
+.	32aaa	.	.
+.	32ggg	.	.
+.	32bbbJJJ)	.	.
+8eee' 8gg 8cc	8cccc'>	.	.
+8r	8r	.	.
+4r	4r	.	.
+*clefF4	*X8va	*	*
+!!LO:LB:g=original
+=3	=3	=3	=3
+*	*^	*	*
+!	!	!	!	!LO:DY:rj
+8G' 8C	(>4cc'>	8e	.	p
+8r	.	8re	.	.
+.	.	.	.	.
+.	.	.	.	.
+.	.	.	.	.
+8G'/ 8GG/	4b'>	8g 8d	.	.
+8r	.	8re	.	.
+8A'/ 8AA/	4cc'>	8e 8c	.	.
+8r	.	8re	.	.
+.	.	.	.	.
+.	.	.	.	.
+.	.	.	.	.
+8E' 8EE	4g#X'>	8d 8B	.	.
+8r	.	8re)	.	.
+=4	=4	=4	=4	=4
+8F/ 8FF/	2.a	8c 8A	.	.
+8r	.	8re	.	.
+8E/ 8EE/	.	8g 8c#X 8A	.	.
+.	.	.	.	.
+.	.	.	.	.
+8r	.	8re	.	.
+.	.	.	.	.
+8D/ 8DD/	.	8f 8d 8A	.	.
+8r	.	8re	.	.
+4r	4re	4rByy	.	.
+*	*v	*v	*	*
+=5	=5	=5	=5
+8DD\	8D<	.	fz
+!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+8rGG	(>32F<^>LLL	.	.
+.	32G<	.	.
+.	32F<	.	.
+.	32G#X<JJJ	.	.
+!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+4rGG	32A<^>LLL	.	.
+.	32B-X<	.	.
+.	32A<	.	.
+.	32c#X<JJJ	.	.
+!	!LO:TX:t=leggierissimo.	!	!
+.	32dLLL	.	.
+.	32e	.	.
+.	32d	.	.
+.	32eJJJ	.	.
+2rGG	32fLLL	.	.
+.	32g	.	.
+.	32f	.	.
+.	32g#XJJJ	.	.
+.	32a\LLL	.	.
+.	32b-X	.	.
+.	32a	.	.
+.	32cc#XJJJ	.	.
+.	32ddLLL	.	.
+.	32ee	.	.
+.	32dd	.	.
+.	32eeJJJ	.	.
+.	32ffLLL	.	.
+.	32gg	.	.
+.	32ff	.	.
+.	32gg#XJJJ	.	.
+!!LO:LB:g=original
+=6	=6	=6	=6
+8f' 8A 8D	32aaLLL	.	.
+.	32bb-X	.	.
+.	32aa	.	.
+.	32ccc#XJJJ	.	.
+*	*8va	*	*
+8r	32dddLLL	.	.
+.	32eee	.	.
+.	32ddd	.	.
+.	32eeeJJJ	.	.
+*clefG2	*	*	*
+8ff' 8a 8d	32fffLLL	.	.
+.	32ggg	.	.
+.	32fff	.	.
+.	32ggg#XJJJ	.	.
+8r	32aaaLLL	.	.
+.	32bbb-	.	.
+.	32aaa	.	.
+.	32cccc#yJJJ)	.	.
+8fff' 8aa 8dd	8dddd'	.	.
+*	*X8va	*	*
+8r	8r	.	.
+4r	4r	.	.
+*clefF4	*	*	*
+=7	=7	=7	=7
+*^	*	*	*
+!	!	!	!	!LO:HP:a
+8A	8D	(<4f	.	<
+8rF	8rGG	.	.	.
+8c#X 8G	8AA	4e	.	.
+!	!	!	!	!LO:HP:a
+8rF	8rGG	.	.	[>
+8d< 8F	8DD	4a	.	.
+8rF	8rGG	.	.	.
+8B 8F	8GG	4d)	.	]
+8rF	8rGG	.	.	.
+=8	=8	=8	=8	=8
+!	!	!	!	!LO:HP:a
+4B 4G 4F	4GG 4CC	8dL	.	<
+.	.	8d#XJ	.	.
+.	.	.	.	[
+4reeyy	4C: 4GG: 4CC:	4e: 4c<: 4G<: 4E<:	.	.
+!	!	!LO:TX:a:t=rall a Tempo.	!	!
+2r	2rcyy	2r	.	.
+*v	*v	*	*	*
+=9	=9	=9	=9
+*ped	*	*	*
+!	!	!	!LO:DY:rj
+2C\ 2CC\	16rB<	.	p
+.	(>16G<LL	.	<
+.	16c	.	.
+.	16gJJ	.	.
+.	16ccLL	.	[>
+.	16c	.	.
+*Xped	*	*	*
+.	16g	.	.
+.	16G<JJ)	.	]
+2C\ 2CC\	16rB<	.	.
+*ped	*	*	*
+.	(>16F#<XLL	.	<
+.	16c	.	.
+.	16aJJ	.	.
+.	16ccLL	.	[>
+.	16c	.	.
+.	16a	.	.
+*Xped	*	*	*
+.	16F#<JJ)	.	]
+!!LO:LB:g=original
+=10	=10	=10	=10
+*ped	*	*	*
+2C\ 2CC\	16rB<	.	.
+.	(>16F<LL	.	<
+.	16B<	.	.
+.	16fJJ	.	.
+.	16aLL	.	[>
+.	16B	.	.
+.	16f	.	.
+*Xped	*	*	*
+.	16F<JJ)	.	]
+4C\ 4CC\	16rB<	.	.
+!	!	!	!LO:HP:a
+.	(>16E<LL	.	<
+.	16G<	.	.
+.	16c<JJ	.	.
+.	.	.	.
+.	.	.	.
+.	.	.	.
+.	.	.	.
+!	!	!	!LO:HP:a
+4rBB	16gLL	.	[>
+.	16G<	.	.
+.	16c<	.	.
+.	16E<JJ)	.	]
+=11	=11	=11	=11
+*	*	*	*^
+!	!	!	!LO:HP:b=2	!
+2BB\ 2BBB\	16rB<	.	>	.
+!	!	!	!	!LO:HP:a
+.	(>16D<LL	.	.	<
+.	16G<	.	.	.
+.	16d<JJ	.	.	.
+.	.	.	.	[
+!	!	!	!	!LO:HP:a
+.	16g/LL	.	.	>
+.	16G</	.	.	.
+.	16d/	.	.	.
+.	16D</JJ)	.	.	]
+2C\ 2CC\	16rB<	.	]	.
+!	!	!	!	!LO:HP:a
+.	(>16E<LL	.	.	<
+.	16G<	.	.	.
+.	16c<JJ	.	.	.
+.	.	.	.	[
+!	!	!	!	!LO:HP:a
+.	16g\LL	.	.	>
+.	16G</	.	.	.
+.	16c</	.	.	.
+.	16E</JJ)	.	.	]
+*ped	*	*	*	*
+*	*	*	*v	*v
+=12	=12	=12	=12
+2GG\ 2GGG\	16rB<	.	]
+.	(>16D<LL	.	.
+.	16G<	.	.
+.	16c<JJ	.	.
+!	!	!	!LO:HP:a
+.	16g\LL	.	<
+.	16G</	.	.
+.	16c</	.	.
+*Xped	*	*	*
+.	16D</JJ)	.	.
+4GG\	16rB<	.	.
+.	(>16D<LL	.	.
+.	16G<	.	.
+.	16B<JJ	.	.
+4FF\	16g\LL	.	.
+.	16G</	.	.
+.	16B</	.	.
+.	16D</JJ)	.	[[
+!!LO:LB:g=original
+=13	=13	=13	=13
+!	!	!	!LO:DY:rj
+2E\ 2EE\	16rB<	.	p
+.	(>16G<LL	.	.
+.	16c<	.	.
+.	16gJJ	.	.
+.	16ccLL	.	.
+.	16c	.	.
+.	16g	.	.
+.	16G<JJ)	.	.
+2BB\ 2BBB\	16rB<	.	.
+.	(>16G<LL	.	.
+.	16d	.	.
+.	16gJJ	.	.
+.	16ddLL	.	.
+.	16d	.	.
+.	16g	.	.
+.	16G<JJ)	.	.
+=14	=14	=14	=14
+8C\L (<8CC\	16rB<	.	.
+.	(>16G<LL	.	.
+!	!LO:TX:t=cre-scen-do.:dur=3q:ext=ud:problem:text with extention lines	!	!
+8BBJ 8BBB	16e	.	.
+.	16gJJ	.	.
+4AA\ 4AAA\	16ccLL	.	.
+.	16e	.	.
+.	16f	.	.
+.	16F<JJ)	.	.
+4BB\ 4BBB\	16rB<	.	.
+.	(>16F<LL	.	.
+.	16d	.	.
+.	.	.	.
+.	16fJJ	.	.
+.	.	.	.
+4GG#X\ 4GGG#X\	16bLL	.	.
+.	16d	.	.
+.	16e	.	.
+.	16E<JJ)	.	.
+=15	=15	=15	=15
+!	!	!	!LO:DY:rj
+2AA\ 2AAA\)	16rB<	.	p
+.	(>16E<LL	.	.
+.	16c<	.	.
+.	16eJJ	.	.
+.	16aLL	.	.
+.	16c	.	.
+.	16e	.	.
+*ped	*	*	*
+.	16E<JJ)	.	.
+16DD\	16rB<	.	.
+!	!	!	!LO:HP:a
+16rEE	(<16D<LL	.	<
+8rEE	16c<	.	.
+.	16eJJ)	.	[
+(>16BLL	4r	.	.
+16d	.	.	.
+16A	.	.	.
+*Xped	*	*	*
+.	.	.	.
+16cJJ)	.	.	.
+!!LO:PB:g=original
+=16	=16	=16	=16
+*ped	*	*	*
+(>16GG`LL	4g^>	.	.
+16G	.	.	.
+16B	.	.	.
+16dJJ	.	.	.
+*Xped	*	*	*
+.	.	.	.
+16c#XLL	(>32gLLL	.	.
+.	32a	.	.
+16e	32cc#X	.	.
+.	32eeJJJ	.	.
+*	*8va	*	*
+16a	32aaLLL	.	.
+.	32eee	.	.
+16GJJ)	32aaa	.	.
+.	32ggg#XJJJ	.	.
+(>16dLL	32gggnLLL	.	<
+.	32fff#X	.	.
+16f	32fffn	.	.
+.	32eeeJJJ	.	.
+16a	32dddLLL	.	.
+.	32ccc#	.	.
+16GJJ	32bb	.	.
+.	32aaJJJ	.	.
+*	*X8va	*	*
+!	!LO:TX:i:a:t=loco.	!	!
+16BLL	32ggLLL	.	>
+.	32gg#X	.	.
+16f	32bb	.	.
+.	32aaJJJ	.	.
+16g	32ffLLL	.	.
+.	32dd	.	.
+16GJJ)	32b	.	.
+.	32aJJJ	.	.
+=17	=17	=17	=17
+*ped	*	*	*
+(>16C`LL	[8g^L)	.	.
+16G	.	.	.
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+16c	(>40gLL]	.	<
+.	40cc	.	.
+.	40ee	.	.
+16eJJ	.	.	.
+.	40gg	.	.
+.	40cccJJJ)	.	.
+16gLL	8ggg`	.	[
+16c	.	.	.
+16e	8r	.	.
+*Xped	*	*	*
+16GJJ)	.	.	.
+*ped	*	*	*
+16C`LL	[8a^L	.	.
+(>16F#X	.	.	.
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+16c	(>48aLL]	.	.
+.	48cc	.	<
+.	48ee-X	.	.
+16e-XJJ	48ff#X	.	.
+.	48aa	.	.
+.	48cccJJJ)	.	[
+16aLL	8aaa`	.	.
+16c	.	.	.
+16e-	8r	.	.
+*Xped	*	*	*
+16F#JJ)	.	.	.
+!!LO:LB:g=original
+=18	=18	=18	=18
+*	*	*^	*
+*ped	*	*	*	*
+16C`LL	[8b^L	.	.	.
+(>16F	.	.	.	.
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!
+16B	(>48bLL]	.	.	<
+.	48dd	.	.	.
+.	48ff	.	.	.
+16dJJ	48aa-X	.	.	.
+.	48bb	.	.	.
+.	48dddJJJ)	.	.	.
+.	.	.	.	[
+*	*8va	*	*	*
+16a-XLL	8bbb`	.	.	.
+16B	.	.	.	.
+16d	8r	.	.	.
+*Xped	*	*	*	*
+16FJJ)	.	.	.	.
+*	*Xtuplet	*	*	*
+!	!LO:TX:t=P:fingering at left next to 24eee :problem	!	!	!
+16C`LL	(>24ccccLL 24eee	2	.	.
+.	24ddd	1	.	.
+(>16G	.	.	.	.
+.	24cccJJ	2	.	.
+!	!LO:TX:a:t=legato.	!	!	!
+16c	24bbLL	.	1	>
+.	24aa	.	2	.
+16eJJ	.	.	.	.
+.	24ggJJ	.	1	.
+*	*X8va	*	*	*
+!	!LO:TX:a:t=loco.	!	!	!
+16gLL	24ffLL	.	.	>
+.	24ee	.	.	.
+16c	.	.	.	.
+.	24ddJJ	.	.	.
+16e	24cc\LL	.	.	.
+.	24b	.	.	.
+16GJJ)	.	.	.	.
+.	24aJJ)	.	.	]
+*	*	*v	*v	*
+=19	=19	=19	=19
+*ped	*	*	*
+16BB`LL	8g	.	.
+(>16G	.	.	.
+16d	8r	.	.
+16fJJ	.	.	.
+*	*Xtuplet	*	*
+16gLL	24r	.	.
+.	(>24gg'LL 24g	.	<
+16d	.	.	.
+.	24gg'JJ 24a	.	.
+16f	24gg'LL 24b	.	.
+.	24gg' 24cc	.	.
+*Xped	*	*	*
+16GJJ)	.	.	.
+.	24gg'JJ) 24dd	.	.
+*ped	*	*	*
+16C`LL	4gg 4ee	.	[
+(>16G	.	.	.
+16c	.	.	.
+16eJJ	.	.	.
+16gLL	24r	.	.
+.	(>24gg'LL 24g	.	<
+16c	.	.	.
+.	24gg'JJ 24a	.	.
+16e	24gg'LL 24b	.	.
+.	24gg' 24cc	.	.
+*Xped	*	*	*
+16GJJ)	.	.	.
+.	24gg'JJ) 24dd	.	[
+!!LO:LB:g=original
+=20	=20	=20	=20
+*ped	*	*	*
+16GGLL	24gg'LL 24ee	.	.
+.	24aa' 24ff	.	.
+(>16G	.	.	.
+.	24gg'JJ 24ee	.	.
+.	.	.	<
+16c	24ff#X'LL 24dd#X	.	.
+.	24gg' 24ee	.	.
+16eJJ	.	.	.
+.	24aa'JJ 24ffn	.	.
+16gLL	24bb'LL 24dd#	.	.
+.	24ccc' 24ee	.	.
+16c	.	.	.
+.	24ddd'JJ 24gg	.	.
+16e	24eee'LL 24ccc	.	.
+.	24ddd' 24gg	.	.
+16GJJ)	.	.	.
+*Xped	*	*	*
+.	.	.	.
+.	24ccc'JJ 24ee	.	[
+16GG`LL	8ggg': 8ddd: 8bb: 8gg: 8dd#:	.	fz
+(>16G	.	.	.
+16BJJ)	16r	.	.
+16r	(>16d	.	.
+4FF\	16gLL	.	.
+.	16B	.	.
+.	16d	.	.
+.	16G<JJ)	.	.
+*ped	*	*	*
+=21	=21	=21	=21
+2E\ 2EE\	16rg	.	.
+.	(>16G<LL	.	.
+.	16c	.	.
+.	16eJJ	.	.
+.	16gLL	.	.
+.	16c	.	.
+*Xped	*	*	*
+.	16e	.	.
+.	16G<JJ)	.	.
+*ped	*	*	*
+2D\ 2DD\	16rg	.	.
+.	(>16G<LL	.	.
+.	16B<	.	.
+.	16fJJ	.	.
+.	16gLL	.	.
+.	16B	.	.
+.	16f	.	.
+*Xped	*	*	*
+.	16G<JJ)	.	.
+=22	=22	=22	=22
+*ped	*	*	*
+2C#X\ 2CC#X\	16r	.	.
+.	(>16G<LL	.	.
+.	16B-X<	.	.
+.	16eJJ	.	.
+.	16gLL	.	.
+.	16B-<	.	.
+.	16e	.	.
+*Xped	*	*	*
+.	16G<JJ)	.	.
+4Cn\ 4CCn\	(>16rB<	.	.
+.	16F#X<LL	.	.
+.	16A<	.	.
+.	16d<JJ)	.	.
+4BB\ 4BBB\	(>16rB<	.	.
+.	16Fn<LL	.	.
+.	16G<	.	.
+.	16d<JJ)	.	.
+!!LO:LB:g=original
+=23	=23	=23	=23
+*ped	*	*	*
+2C\ 2CC\	16rB<	.	.
+.	(>16E<LL	.	.
+.	16G<	.	.
+.	16c<JJ	.	.
+.	16e\LL	.	.
+.	16G</	.	.
+.	16c</	.	.
+*Xped	*	*	*
+.	16E</JJ)	.	.
+!	!LO:TX:t=poco rall a Tempo:dur=2qs:ext=s:problem:text with extention lines	!	!
+4GG\	16rB<	.	.
+.	16D<LL	.	.
+.	16G<	.	.
+.	16B<JJ	.	.
+4C\ 4CC\	16rB<	.	.
+.	16E<LL	.	.
+.	16G<	.	.
+.	16c<JJ	.	.
+=24	=24	=24	=24
+*ped	*	*	*
+!	!LO:TX:a:t=Poco più mosso.	!	!
+8GG\L	(>32B<LLL 32D<	.	.
+.	32F#<X	.	.
+.	32G<	.	.
+.	32A#X<JJJ	.	.
+8G	32dLLL 32B	.	.
+.	32A#X<	.	.
+.	32B	.	.
+.	32c#XJJJ	.	.
+!	!LO:TX:t=cre-scen-do.:dur=3q:ext=ud:problem:text with extention lines	!	!
+8B 8G	32gLLL 32d	.	.
+.	32c#	.	.
+.	32d	.	.
+.	32f#XJJJ	.	.
+8GGJ 8GGG	32bLLL 32g	.	.
+.	32f#	.	.
+.	32g	.	.
+.	32a#XJJJ	.	.
+8GG\L 8GGG\	32dd\LLL 32b\	.	.
+.	32a#	.	.
+.	32b	.	.
+.	32cc#XJJJ	.	.
+8g\ 8d\ 8B\ 8G\	32ggLLL 32dd	.	.
+.	32cc#	.	.
+.	32dd	.	.
+.	32ff#XJJJ	.	.
+8G\ 8GG\	32bbLLL 32gg	.	.
+.	32ff#	.	.
+.	32gg	.	.
+.	32aa#XJJJ	.	.
+8F\J 8FF\	32dddLLL 32bb	.	.
+.	32aa#	.	.
+.	32bb	.	.
+.	32dddJJJ)	.	.
+!!LO:LB:g=original
+=25	=25	=25	=25
+*ped	*	*	*
+!	!	!	!LO:DY:rj
+8E-X 8EE-X	8ggg 8ccc 8gg	.	f p
+(>8e-X'L 8c 8G 8E-	(>8gg'L 8cc 8g	.	.
+8e-'J 8c 8G 8E-)	8gg'J 8cc 8g)	.	.
+!	!	!	!LO:DY:rj
+8E- 8EE-	8ggg 8ccc 8gg	.	f
+8E- 8EE-	8ggg 8ccc 8gg	.	.
+!	!	!	!LO:DY:rj
+(>8e-'L 8c 8G 8E-	(>8gg'L 8cc 8g	.	p
+*Xped	*	*	*
+8e-'J 8c 8G 8E-)	8gg'J 8cc 8g)	.	.
+*ped	*	*	*
+8E- 8EE-	8ggg 8ccc 8gg	.	.
+=26	=26	=26	=26
+!	!LO:N:vis=8	!	!
+8E-XL 8EE-X	16ggg 16gg	.	f
+.	(>16aa-XLL 16a-X	.	.
+8e-X 8c 8G 8E-	16gg 16g	.	.
+.	16ff#XJJ 16f#X	.	.
+8e- 8c 8G 8E-	16ggLL 16g	.	.
+.	16bb 16b	.	<
+8E-J 8EE-	16ccc 16cc	.	.
+.	16dddJJ 16dd	.	.
+*	*8va	*	*
+8E-L 8EE-	16eee-XLL 16ee-X	.	.
+.	16fff#X 16ff#X	.	.
+8g 8e- 8c 8G	16ggg 16gg	.	.
+.	16bbbJJ 16bb	.	.
+8g 8e- 8c 8G	16ccccLL 16ccc	.	.
+.	16cccc#X 16ccc#X	.	.
+8E-J 8EE-	16dddd 16ddd	.	.
+*Xped	*	*	*
+.	.	.	.
+.	16eeee-yJJ) 16eee-	.	.
+*ped	*	*	*
+=27	=27	=27	=27
+!	!	!	!LO:DY:rj
+8F 8FF	8dddd 8ddd	.	fz
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!LO:DY:rj
+8fL 8d 8c 8F	(8aa-y'L 8dd 8cc 8a-X	.	p
+8fJ 8d 8c 8F	8aa-'J 8dd 8cc 8a-)	.	.
+*	*8va	*	*
+!	!	!	!LO:DY:rj
+8F' 8FF	8aaa-' 8ddd 8ccc 8aa-	.	f
+8F' 8FF	8aaa-' 8ddd 8ccc 8aa-	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!LO:DY:rj
+8fL 8d 8c 8F	(>8aa-'L 8dd 8cc 8a-	.	p
+8fJ 8d 8c 8F	8aa-'J 8dd 8cc 8a-)	.	.
+*Xped	*8va	*	*
+!	!	!	!LO:DY:rj
+8F 8FF	8aaa- 8ddd 8ccc 8aa-	.	f
+!!LO:PB:g=original
+=28	=28	=28	=28
+*ped	*	*	*
+8FL 8FF	16aaa 16aa	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+.	(>16bb-X 16b-XLL	.	.
+8f 8d 8c 8F	16aa-X 16a-X	.	.
+.	16ggJJ 16g	.	.
+8f 8d 8c 8F	16aa-LL 16a-	.	.
+.	16ccc#X 16cc#X	.	.
+8FJ 8FF	16ddd 16dd	.	.
+.	16eeeJJ 16ee	.	.
+*	*8va	*	*
+8FL 8FF	16fffLL 16ff	.	<
+.	16ggg 16gg	.	.
+8a-X 8d 8c 8F	16aaa-X 16aa-X	.	.
+.	16cccc#JJ 16ccc#	.	.
+8a- 8d 8c 8F	16ddddLL 16ddd	.	.
+.	16eeee-X 16eee-X	.	.
+8FJ 8FF	16eeeen 16eeen	.	.
+*Xped	*	*	*
+.	16ffffJJ 16fff)	.	.
+=29	=29	=29	=29
+*ped	*	*	*
+!	!	!	!LO:DY:rj
+8G 8GG	8eeeen 8eeen	.	f
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+8d-XL 8B-y 8G	(>8ee'\L 8dd-X\ 8b-X\ 8e\	.	.
+8d-J 8B- 8G	8ee'J 8dd- 8b- 8e)	.	.
+8GL 8GG	8eee'L 8ddd-X 8bb-X 8ee	.	<
+8GJ 8GG	8eee'J 8ddd- 8bb- 8ee	.	.
+8d-L 8B- 8G	(>8ee'\L 8dd-\ 8b-\ 8e\	.	.
+8d-J 8B- 8G	8ee'J 8dd- 8b- 8e)	.	.
+8G 8GG	(>8eee 8ddd- 8bb- 8ee	.	.
+=30	=30	=30	=30
+!	!	!	!LO:DY:rj
+8GL 8GG	8eeeL 8ddd-X 8bb-X 8ee	.	ff
+8g 8e 8d-X 8B-X 8G	8ddd- 8bb- 8ee 8dd-X	.	.
+8g 8e 8d- 8B- 8G	8ddd- 8bb- 8ee 8dd-	.	.
+8GJ 8GG	8bb-J 8ee 8dd- 8b-X	.	.
+8G\L 8GG\	8bb-L 8ee 8dd- 8b-	.	>
+8G	8ee 8dd- 8b- 8e)	.	.
+8G	8ee' 8dd- 8b- 8e	.	.
+!LO:S:s=1:note:problem:note-level slur	!	!	!
+(<8GGJ (<8GGG	(>8dd- 8b-J 8e	.	.
+*Xped	*	*	*
+!!LO:LB:g=original
+=31	=31	=31	=31
+*ped	*	*	*
+!LO:S:s=1:note:problem:note-level slur	!	!	!LO:DY:rj
+8AA-X\L) 8AAA-X\)	16ff 16dd- 16a-X 16f)	.	p
+*	*8va	*	*
+.	(>16bbb-XLL 16ddd-X	.	.
+8f 8d-X 8A-X 8F	16aaa-X 16fff	.	.
+.	16gggJJ 16aa-	.	.
+!	!LO:TX:a:t=legatiss.	!	!
+8f 8d- 8A- 8F	16ggg-XLL 16ddd-	.	.
+.	16fff 16ff	.	.
+8AA-J 8AAA-	16eee-X 16aa-	.	.
+.	16ddd-JJ 16dd-y	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+8AA-\L 8AAA-\	16cccLL 16ff	.	.
+.	16bb- 16dd-	.	.
+8d- 8A- 8F	16aa- 16ff	.	.
+.	16ggnJJ 16a-	.	.
+8d- 8A- 8F	16gg-XLL 16dd-	.	.
+.	16ff 16f	.	.
+8AA-J 8AAA-	16ee- 16a-	.	.
+*Xped	*	*	*
+.	16dd-JJ 16d-)	.	.
+=32	=32	=32	=32
+*ped	*	*	*
+!	!	!	!LO:DY:rj
+8AA-X\L 8AAA-X\	16cc`> 16f#X 16c	.	fz
+.	(>32C<LLL	.	.
+.	32D<JJJ	.	.
+8A-y 8AA-	32dLLL 32c	.	.
+.	32F#X<	.	.
+.	32d 32c	.	.
+.	32dJJJ	.	.
+8A- 8AA-	32ddLLL 32cc	.	.
+.	32f#X	.	.
+.	32dd 32cc	.	.
+.	32ddJJJ	.	.
+*	*8va	*	*
+8AA-J 8AAA-	32dddLLL 32ccc	.	.
+.	32ff#X	.	.
+.	32ddd 32ccc	.	.
+.	32dddJJJ	.	.
+8AA- 8AAA-	32ddddLLL 32cccc	.	.
+.	32fff#X	.	.
+.	32ddd	.	.
+.	32ff#XJJJ	.	.
+*clefG2	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!LO:DY:b=2:rj
+8a-X 8d 8c 8A-X	32dddLLL 32ccc	.	<fz
+.	32ff#	.	.
+.	32dd	.	.
+.	32f#JJJ	.	.
+8r	32ddLLL 32cc	.	.
+.	32f#	.	.
+.	32d	.	.
+*clefF4	*	*	*
+!	!LO:TX:t=P:incorrect display, clefF4 before 32F#X<:problem	!	!
+.	32F#X<JJJ	.	.
+8AA-\ 8AAA-\	32d<LLL 32c<	.	.
+.	32F#<	.	.
+*Xped	*	*	*
+.	32D<	.	.
+.	32F#<JJJ)	.	.
+!!LO:LB:g=original
+=33	=33	=33	=33
+*ped	*	*	*
+8GG 8GGG	8d< 8B< 8G< 8D<	.	.
+8BL 8D	(>8ddL'< 8g 8d	.	p
+8BJ 8D	8ddJ'< 8g 8d)	.	.
+*Xped	*	*	*
+.	.	.	.
+8GG\L 8GGG\	8d<L 8B< 8G< 8D<	.	.
+8GGJ 8GGG	8d<J 8c< 8F#X< 8D<	.	.
+*ped	*	*	*
+8dL 8A 8D	(>8ddL 8cc 8f#X	.	.
+8dJ 8A 8D	8dddJ 8ccc 8ff#y)	.	.
+8GG\ 8GGG\	[8dd 8cc 8f# 8d	.	.
+*Xped	*	*	*
+.	.	.	.
+=34	=34	=34	=34
+*ped	*	*	*
+!	!LO:TX:t=leggier.	!	!
+8GG\L 8GGG\	8dd/] 8b/ 8g/ 8d/	.	.
+*	*8va	*	*
+.	16qqdddd/LL	.	.
+.	[<16qqddd/JJ	.	.
+8d 8B 8G 8D	8ddddL 8ddd]	.	.
+.	16qqdddd/LL	.	.
+.	[<16qqddd/JJ	.	.
+8d 8B 8G 8D	8dddd 8ddd]	.	.
+*Xped	*	*	*
+.	16qqddd/LL	.	.
+.	[<16qqdd/JJ	.	.
+8GGJ 8GGG	8dddJ 8dd]	.	.
+.	16qqddd/LL	.	.
+.	[<16qqdd/JJ	.	.
+*ped	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+8GG\L 8GGG\	8ddL] 8d	.	.
+.	16qqddd/LL	.	.
+.	[<16qqdd/JJ	.	.
+8c 8A 8D	8ddd 8dd]	.	.
+*	*8va	*	*
+.	16qqdddd/LL	.	.
+.	[<16qqddd/JJ	.	.
+8c 8A 8D	8dddd 8ddd]	.	.
+*Xped	*	*	*
+.	16qqddd/LL	.	.
+.	[<16qqdd/JJ	.	.
+8GGJ 8GGG	8dddJ 8dd]	.	.
+!	!LO:TX:t=sempre.	!	!
+.	.	.	.
+*	*X8va	*	*
+=35	=35	=35	=35
+*ped	*	*	*
+!	!LO:TX:a:t=loco.	!	!
+8GG\L 8GGG\	(>8ddL 8d	.	.
+8B 8G 8D	16eeL 16e)	.	.
+.	(>48ff#XL	.	.
+.	48f#X	.	.
+.	48ff#JJJ	.	p
+8d 8B 8G 8D	16ggLL 16g)	.	.
+.	(>48aaL	.	.
+.	48a	.	.
+.	48aaJJ)	.	.
+*Xped	*	*	*
+!	!LO:TX:a:t=P:diminuendolike accent:problem	!	!
+8GGJ 8GGG	[>8bb^>J 8b	.	.
+*ped	*	*	*
+8GG\L 8GGG\	8bbL] 8b	.	.
+8d 8c 8A 8D	(>16aaL 16a	.	.
+.	48ggL	.	.
+.	48g	.	.
+.	48ggJJJ	.	.
+8d 8c 8A 8D	16ff#LL 16f#)	.	.
+.	(>48ggL	.	.
+.	48g	.	.
+.	48ggJJ	.	.
+*Xped	*	*	*
+8GGJ 8GGG	8aaJ) 8a	.	.
+!!LO:LB:g=original
+=36	=36	=36	=36
+*ped	*	*	*
+!	!	!	!LO:DY:rj
+8GG\L 8GGG\	8dd`>L 8d	.	pp
+8B 8G 8D	(>16eeL 16e	.	.
+.	48ff#XL	.	.
+.	48f#X	.	.
+.	48ff#JJJ	.	.
+8B 8G 8D	16ggLL 16g)	.	.
+.	(>48aaL	.	.
+.	48a	.	.
+.	48aaJJ	.	.
+*Xped	*	*	*
+!	!LO:TX:a:t=P:diminuendolike accent:problem	!	!
+8GGJ 8GGG	[8bb^>J 8b)	.	.
+*ped	*	*	*
+!	!LO:TX:t=rall.	!	!
+8GG\L 8GGG\	8bbL] 8b	.	.
+8c 8F#X 8D	(>16aaL 16a	.	.
+.	48bbL	.	.
+.	48b	.	.
+.	48bbJJJ	.	.
+8c 8F# 8D	16cccLL 16cc)	.	.
+.	(>48dddL	.	.
+.	48dd	.	.
+.	48dddJ	.	.
+8GGJ 8GGG	16eee 16ee	.	.
+*Xped	*	*	*
+.	16fff#XJJ 16ff#)	.	.
+=37	=37	=37	=37
+*^	*	*	*
+*	*	*^	*	*
+*	*	*	*	*	*^
+4B: 4D: 4GG:>	4ryy	4ggg 4gg;>	4ryy	.	.	.
+2r;>	2ryy	2r;>	2ryy	.	.	.
+*ped	*	*	*	*	*	*
+.	.	.	.	.	.	.
+8ryy	8ryy	8GGG<L	8ryy	.	.	.
+4.GG<\	8ryy	8GG<	8ryy	.	.	.
+.	8ryy	8D<J	8ryy	.	.	.
+*Xped	*	*	*	*	*	*
+*cue	*	*cue	*	*	*	*
+.	8ryy	16d< 16A#X<^>LL	8ryy	.	.	.
+.	.	16B<	.	.	.	.
+4ryy	4ryy	16g^> 16c#X	4ryy	.	.	.
+.	.	16d	.	.	.	.
+.	.	16b 16f#X^>	.	.	.	.
+.	.	16g	.	.	<	.
+8ryy	8ryy	16dd 16a#X	8ryy	.	.	.
+.	.	16b	.	.	.	.
+4ryy	4ryy	16gg 16cc#X	4ryy	.	.	.
+.	.	16dd	.	.	.	.
+.	.	16bb 16ff#X	.	.	.	.
+.	.	16gg	.	.	.	.
+*8va	*	*8va	*	*	*	*
+4ryy	4ryy	16ddd 16aa#	4ryy	.	.	.
+.	.	16bb	.	.	.	.
+.	.	16ggg 16ccc#	.	.	.	.
+.	.	16ddd	.	.	.	.
+8ryy	8ryy	16bbb 16fff#	8ryy	.	.	.
+.	.	16gggJJ	.	.	.	.
+*Xcue	*	*Xcue	*	*	*	*
+4ryy	4ryy	(>[>/4dddd 4bbb/	4ryy	.	fz	.
+(<16rbb>	8.ryy	16ddddLL]	8.ryy	.	.	.
+16ccc#X>LL	.	16aaa#X	.	.	.	.
+16ddd>JJ	.	16bbbJJ	.	.	.	.
+*Xtuplet	*	*Xtuplet	*	*	*	*
+24fff>LL	1ryy	24ddddLL	1ryy	.	.	.
+!	!	!LO:TX:t=legatiss.	!	!	!	!
+24bb>X	.	24ggg#X	.	.	.	.
+24cccn>JJ	.	24aaannJJ	.	.	.	.
+24eee>LL	.	24ccccLL	.	.	.	.
+24aa#>X	.	24fff#X	.	.	.	.
+24bb>JJ	.	24gggnJJ	.	.	.	.
+!!LO:LB:g=original
+=38-	=38-	=38-	=38-	=38-	=38-	=38-
+24ddd>LL	.	24bbbLL	.	.	.	.
+24gg#>	.	24eeeX	.	.	.	.
+24aany>JJ	.	24fffnJJ	.	.	.	.
+24ccc>LL	.	24aaaLL	.	.	.	.
+24ff#>X	.	24ddd#X	.	.	.	.
+24gg#>JJ	.	24eeeJJ	.	.	.	.
+24bb>LL	.	24gggLL	.	.	.	.
+24ee>X	.	24ccc#X	.	.	.	.
+24ffn>JJ	.	24dddnJJ	.	.	.	.
+24aa>LL	.	24fffLL	.	.	.	.
+24dd#>	.	24bb	.	.	.	.
+24ee>JJ	.	24cccnJJ	.	.	.	.
+24gg#>LL	.	24eeeLL	.	.	.	.
+24cc#X>	.	24aa#X	.	.	.	.
+24ddn>JJ	.	24bbJJ	.	.	.	.
+24ff>LL	.	24dddLL	.	.	.	.
+24b>X	.	24gg#X	.	.	.	.
+24ccn>JJ	.	24aannJJ	.	.	.	.
+*X8va	*	*	*	*	*	*
+*clefG2	*	*X8va	*	*	*	*
+!LO:TX:a:t=loco.	!	!LO:TX:a:t=loco.	!	!	!	!
+24ee\LL	2.ryy	24ccc/LL	2.ryy	.	.	.
+24a#X	.	24ff#X	.	.	.	.
+24bJJ	.	24ggJJ	.	.	.	.
+24dd\LL	.	24bb/LL	.	.	>	.
+24g#X	.	24ee	.	.	.	.
+24anJJ	.	24ffnJJ	.	.	.	.
+24cc\LL	.	24aa/LL	.	.	.	.
+24f#X	.	24ddn	.	.	.	.
+24gnJJ	.	24eeJJ	.	.	.	.
+24b\LL	.	24gg/LL	.	.	.	.
+24e	.	24cc#X	.	.	.	.
+24fnJJ	.	24ddnJJ	.	.	.	.
+24a\LL	.	24ff/LL	.	.	.	.
+24d#X	.	24b	.	.	.	.
+24eJJ	.	24ccnJJ	.	.	.	.
+24g\LL	.	24ee/LL	.	.	.	.
+24c#X	.	24a#	.	.	.	.
+24d#JJ)	.	24bJJ	.	.	.	.
+*clefF4	*	*	*	*	*	*
+4f/	8fL	8ddL)	4dd\	.	.	.
+.	8c#\J	8a-XyJ	.	.	.	.
+*cue	*	*cue	*	*	*	*
+!	!	!	!	!	!	!LO:HP:b=2
+16LLB	8ryy	16gnyLL	8ryy	.	<	<
+16c#JJ	.	16a-JJ	.	.	.	.
+!	!	!LO:TX:a:t=P:trill without "b":problem	!	!	!	!
+*ped	*	*	*	*	*	*
+!	!	!	!	!	!	!LO:HP:b=2
+1c#T>	1ryy	1a-XT>	1ryy	.	[>	[>
+16BLL	4ryy	16gLL	4ryy	.	.	.
+16c#	.	16a-	.	.	.	.
+16d	.	16b-X	.	.	.	.
+16c#	.	16a-	.	.	.	.
+*Xped	*	*	*	*	*	*
+.	.	.	.	.	.	.
+16BJJ	16ryy	16gJJ	16ryy	.	]	]
+*Xcue	*Xcue	*Xcue	*Xcue	*	*	*
+*ped	*	*	*	*	*	*
+[>4B;>	2ryy	(<4g;>	2ryy	.	.	.
+8B] 8GG	.	8gg/ 8dd/ 8g/ 8f#/)	.	.	fz	.
+*Xped	*	*	*	*	*	*
+8r;>	.	8r;>	.	.	.	.
+*v	*v	*	*	*	*	*
+*	*v	*v	*	*	*
+*	*	*	*v	*v
+!!LO:PB:g=original
+=39|!	=39|!	=39|!	=39|!
+*M3/4	*M3/4	*	*
+*I"Alla Polacca.	*	*	*
+!!!OMD: M.M. [quarter] = 96.
+8C\L	8c<L	.	f
+(>24GGL	(>24G<L	.	.
+24AA	24A<	.	.
+24BBJJ	24B<JJ	.	.
+8C\L)	8c<L`>)	.	.
+(>24GGL	(>24G<L	.	.
+24AA	24A<	.	.
+24BBJJ)	24B<JJ	.	.
+8C\L	8c<L)	.	.
+!	!LO:TX:t=P:crescendo below 8d<J 8B< 8G<:problem	!	!
+8GGJ^> 8GGG	8d<J 8B< 8G<	.	<[
+=40	=40	=40	=40
+8C\ 8CC\	8e`> 8c 8G<	.	.
+!	!	!	!LO:HP:a
+8GG^\L	24g/LL 24d/ 24B/	.	>
+.	(<24G</	.	.
+.	24g/JJ	.	]
+8CJ 8CC	8e`> 8c)	.	.
+!	!	!	!LO:HP:a
+8GG^\L	24g/LL 24d/ 24B/	.	>
+.	(<24G<	.	.
+.	24gJJ	.	]
+8CJ 8CC	8e`> 8c)	.	.
+!LO:TX:t=P:cross-measure beam:problem	!	!	!LO:HP:a
+8GG^\	24gLL 24d 24B	.	>
+.	(<24G<	.	.
+.	24gJJ	.	]
+=41	=41	=41	=41
+*	*	*	*^
+!	!LO:S:s=1:note:problem:note-level slur	!	!LO:DY:rj	!
+8C\ 8CC\	8e<L 8c<) 8G<	.	fz	p
+16C\LL	(>16e<'>L 16c< 16G<	.	.	.
+16CJJ	16e<'>JJ 16c< 16G<	.	.	.
+8C\L	8e<'>L 8c< 8G<	.	.	.
+8C	8e<'> 8c< 8G<	.	.	.
+8C	8e<'>) 8c< 8G<	.	.	.
+8CJ	(>8d#X<J 8c< 8A<	.	.	.
+*	*	*	*v	*v
+!!LO:LB:g=original
+=42	=42	=42	=42
+8C\L 8CC\	8e<L 8c< 8G<)	.	.
+16CL	16e<'>L 16c< 16G<	.	.
+16CJJ	16e<'>JJ 16c< 16G<	.	.
+8CL	8e<'>L 8c< 8G<	.	.
+8C	8e<'> 8c< 8G<	.	.
+8CJ	8e<'> 8c< 8G<	.	.
+(>16EE\LL	8e<'>J 8c< 8G<	.	.
+16FFJJ)	.	.	.
+=43	=43	=43	=43
+8GG\L	8fL 8B< 8G<	.	.
+(>16GGL	16fL 16B< 16G<	.	.
+16AAJJ)	16fJJ 16c< 16G<	.	.
+8BB'\L	8fL 8d 8G<	.	.
+8GG'	8f 8B< 8G<	.	.
+8C'	8e 8c 8G<	.	.
+8CC'J	8eJ 8c 8G<	.	.
+=44	=44	=44	=44
+8GG\L	8d<L 8B< 8G<	.	.
+16GGL	16gL 16A#<X 16G<	.	.
+16GGJJ	16gJJ 16A#< 16G<	.	.
+8GG\L	8gL 8B< 8G<	.	.
+8GG	8g 8A#< 8G<	.	.
+8GG	8g 8B< 8G<	.	.
+!	!	!	!LO:DY:b=2
+8GGJ	8fJ 8d 8G<	.	fz
+=45	=45	=45	=45
+!	!	!	!LO:DY:b=2:rj
+8C\L 8CC\	8e<L 8c< 8G<	.	p
+16CL	(>16e<L'> 16c< 16G<	.	.
+16CJJ	16e<JJ'> 16c< 16G<	.	.
+8C\L	8e<L'> 8c< 8G<	.	.
+8C	8e<'> 8c< 8G<	.	.
+8C	8e<'> 8c< 8G<	.	.
+8CJ	8d#<XJ'>) 8c< 8A<	.	.
+=46	=46	=46	=46
+8C\L	8e<L 8c< 8G<	.	.
+16CL	16e<L 16c< 16G<	.	.
+16CJJ	16e<JJ 16c< 16G<	.	.
+8C\L	(>8e<L'> 8c< 8G<	.	.
+8BB	8e<'> 8d< 8G#<X	.	.
+8AA	8e<'> 8c< 8A<	.	.
+8GGJ	8c#<XJ'>) 8B-X<	.	.
+!!LO:LB:g=original
+=47	=47	=47	=47
+8FF\`>	8d<L 8A<	.	.
+4FF\^<	16f<L 16d< 16A<	.	.
+.	16f<JJ 16d< 16A<	.	.
+.	(>8f<'>L 8d< 8A<	.	.
+8FF\L	8f<'> 8d< 8A<	.	.
+8FF	8f<'> 8d< 8A<	.	.
+8FFJ	8f<'>J 8d< 8A<)	.	.
+=48	=48	=48	=48
+8GG\	8f<L 8d< 8B<	.	.
+4GG\^<	16f<L 16d< 16B<	.	.
+.	16f<JJ 16d< 16B<	.	.
+.	8f<L 8d< 8B<	.	.
+8GG\L	(>8f<J 8B< [<8G<	.	.
+8CJ 8CC	8e<) 8c< 8G<]	.	.
+!	!LO:TX:a:t=élégantamente.	!	!
+8r	16eeLL	.	.
+.	16ffJJ	.	.
+=49	=49	=49	=49
+*ped	*	*	*
+8CL	4.gg	.	.
+16eL 16c 16G	.	.	.
+16eJJ 16c 16G	.	.	.
+8eL 8c 8G	.	.	.
+*Xped	*	*	*
+8eJ 8c 8G	(>16eeLL	.	.
+.	16ffJJ	.	.
+8eL 8c 8G	16ggLL	.	.
+.	16aa	.	.
+8d#XJ 8c 8A	16ggT	.	.
+.	16ff#XJJ)	.	.
+=50	=50	=50	=50
+*ped	*	*	*
+8CL	8ggL	.	.
+16eL 16c 16G	(>16ccL	.	.
+16eJJ 16c 16G	16ddJJ	.	.
+*Xped	*	*	*
+.	.	.	.
+8eL 8c 8G	4.ee)	.	.
+8e 8c 8G	.	.	.
+8e 8c 8G	.	.	.
+8eJ 8c 8G	(>16ffLL	.	>
+.	16eeJJ)	.	]
+=51	=51	=51	=51
+*ped	*	*	*
+8GGL	8dd`	.	.
+16GL	4g^^/	.	.
+16GJJ	.	.	.
+8fL 8B	.	.	.
+8G	(>\16aLL	.	<
+*Xped	*	*	*
+.	16bJJ)	.	.
+8e 8c	(>16ccLL	.	.
+.	16dd	.	.
+8gJ 8G	16ee	.	.
+.	16ffJJ)	.	[
+!!LO:LB:g=original
+=52	=52	=52	=52
+8dL 8B 8G	16eeLL	.	.
+.	16dd	.	.
+16gL 16A#X 16G	16ddM	.	.
+16gJJ 16A# 16G	16cc#XJJ	.	.
+8gL 8B 8G	16eemLL	.	.
+.	16dd	.	.
+8gJ 8A# 8G	16ddM	.	.
+.	16cc#JJ	.	.
+8gL 8B 8G	8dd`	.	.
+8fJ 8d 8G	(>16eeLL	.	<
+.	16ffJJ)	.	[
+=53	=53	=53	=53
+*ped	*	*	*
+8C`L	(>4.gg	.	.
+16eL 16c 16G	.	.	.
+16eJJ 16c 16G	.	.	.
+8eL 8c 8G	.	.	.
+8eJ 8c 8G	16eeLL	.	.
+.	16ffJJ	.	.
+*Xped	*	*	*
+8eL 8c 8G	16ggLL	.	.
+.	16aa	.	.
+8d#XJ 8c 8A	16ggT	.	.
+.	16ff#XJJ	.	.
+=54	=54	=54	=54
+*ped	*	*	*
+8C`L	16aaLL	.	>
+.	16gg)	.	]
+16eL 16c 16G	(>16cc	.	.
+16eJJ 16c 16G	16ddJJ	.	.
+*Xped	*	*	*
+8eL 8c 8G	4.ee^)	.	.
+8eJ 8c 8G	.	.	.
+*ped	*	*	*
+8AAL	.	.	.
+8eJ 8c 8A	(>16ffLL	.	.
+*Xped	*	*	*
+.	16eeJJ)	.	.
+=55	=55	=55	=55
+*ped	*	*	*
+8FF`>	16dd`LL	.	<
+.	(>16a	.	.
+4d 4A 4F	16ccc)	.	.
+.	(>16aaJJ	.	.
+*	*8va	*	*
+.	16ccccLL)	.	.
+.	32rddd	.	.
+.	(>32aaak	.	[>
+8dL 8A 8F	16fff	.	.
+.	16dddJJ	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+8d 8A 8F	16cccLL	.	.
+.	16aa	.	.
+8dJ 8A 8F	16ff	.	.
+*Xped	*	*	*
+.	16ddJJ)	.	]
+!!LO:LB:g=original
+=56	=56	=56	=56
+*ped	*	*	*
+8GGL	(>16cc\LL	.	.
+.	16b	.	.
+16GL	16a	.	.
+16GJJ	16bJJ	.	.
+8fL 8B	4dd	.	.
+*Xped	*	*	*
+8GJ	.	.	.
+8e	8cc)	.	.
+!	!LO:TX:a:t=P:cross-measure beam:problem	!	!LO:HP:a
+8r	(<8g	.	<
+=57	=57	=57	=57
+4GG\	8g)	.	[p
+.	16d<LL 16B< 16G<	.	.
+.	16d<JJ 16B< 16G<	.	.
+4rGG	8d<L 8B-X< 8G<	.	.
+.	8d<J 8B-< 8G<	.	.
+(<4AA\	8c#X<L 8A< 8G<	.	.
+.	8c#<J 8A< 8G<	.	.
+=58	=58	=58	=58
+!LO:N:n=1:vis=4	!	!	!
+4.D\ 4.DD\)	8d<L 8A< 8F<	.	.
+.	16d<L 16A< 16F<	.	.
+.	16d<JJ 16A< 16F<	.	.
+.	8d<L 8A< 8F<	.	.
+16C\LL	8d<J 8A< 8F<	.	.
+16BB-XJJ	.	.	.
+4AA\	8c#X<L 8A< 8G<	.	.
+.	8c#<J 8A< 8G<	.	.
+=59	=59	=59	=59
+8DD\L	8d<L 8A< 8F<	.	<
+8DJ	16f<L 16A< 16F<	.	.
+.	16f<JJ 16A< 16F<	.	.
+8D-X\L	8f<L 8B-<X 8F<	.	.
+8DD-XJ	8f<J 8Bn< 8F<	.	.
+8CC\L	8e<L 8c< 8G<	.	.
+8CJ	8e<J 8c< 8B-<X	.	.
+.	.	.	[
+=60	=60	=60	=60
+8FF\L	8f<L 8c< 8A<	.	.
+!	!	!	!LO:HP:b=2
+(<16FL	16f<L 16c< 16A<	.	>
+16EJJ	16f<JJ 16c< 16A<	.	.
+4D)	(>8f<LL'> 8d< 8A<	.	]
+.	8f< 8d<'> 8A<	.	.
+4BB\	8f< 8d<'> 8A<	.	.
+.	8f<JJ 8d<'> 8A<)	.	.
+!!LO:PB:g=original
+=61	=61	=61	=61
+(<4E\ 4EE\	8rB<	.	.
+.	8e< 8d< 8B<	.	.
+4AA\)	8rB<	.	.
+.	8e< 8c< 8A<	.	.
+(<4DD\	8rB<	.	.
+.	8f< 8d< 8A<	.	.
+=62	=62	=62	=62
+4EE\)	8r	.	.
+.	8e 8d 8G#X<	.	.
+8AA\L	(>8eL 8c 8A<	.	.
+(>16BBL	16B<L	.	.
+16AAJJ	16A<JJ	.	.
+8GG#\L)	8G#<L)	.	.
+(>16AAL	(>16A<L	.	.
+16GG#JJ)	16G#<JJ)	.	.
+=63	=63	=63	=63
+*	*	*	*^
+!	!	!	!LO:HP:b=2	!
+4.F\ 4.FF\	8r	.	<	.
+!	!	!	!	!LO:HP:a
+.	16aLL 16c< 16A<	.	.	<
+.	16aJJ 16c#X< 16A<	.	.	.
+.	8aL 8d 8A<	.	.	.
+8F\L 8FF\	8a 8d 8A<	.	.	.
+8F 8FF	8a 8d 8A<	.	.	.
+8FJ 8FF	8aJ 8d 8A<	.	[	[
+*	*	*	*v	*v
+=64	=64	=64	=64
+!	!LO:TX:a:t=Brillante.	!	!
+8E 8EE	8g#X 8e 8B	.	.
+*ped	*	*	*
+16BLL 16BB	(>24bLL	.	.
+.	24cc#X	.	.
+16BJ 16BB	.	.	.
+.	24dd#XJJ	.	.
+.	.	.	<
+8G#X 8E	24eeLL	.	.
+.	24ff#X	.	.
+.	24gg#XJJ	.	.
+8B 8BB	24aaLL	.	.
+.	24aa#X	.	.
+.	24bbJJ	.	.
+*Xped	*	*	*
+.	.	.	.
+*	*8va	*	*
+8A 8F#X	24ccc#LL	.	.
+.	24ddd#	.	.
+.	24eeeJJ	.	.
+8BJ 8BB	24fff#LL	.	.
+.	24ggg#	.	.
+.	24aaanJJ	.	.
+.	.	.	[
+!!LO:LB:g=original
+=65	=65	=65	=65
+*ped	*	*	*
+8G#XL 8E	8bbb	.	>
+16BL 16BB	24ggg#XLL	.	.
+.	24ffd#X	.	.
+16BJ 16BB	.	.	.
+.	24eeeJJ	.	.
+8G# 8E	24ddd#XLL	.	.
+.	24ccc#X	.	.
+.	24bbJJ	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=P:here should end 8va:problem	!	!
+8B 8BB	24aaLL	.	.
+.	24gg#	.	.
+.	24ff#JJ	.	.
+8A 8F#X	24eeLL	.	.
+*Xped	*	*	*
+.	.	.	.
+.	24dd#	.	.
+.	24cc#JJ	.	.
+8BJ 8BB	24b\LL	.	.
+.	24a#X	.	.
+.	24anJJ)	.	]
+=66	=66	=66	=66
+*ped	*	*	*
+8EE/L	(>\24g#XLL	.	.
+.	24a	.	.
+.	24a#XJJ	.	.
+16BBL	24bLL	.	<
+.	24cc#X	.	.
+16BBJ	.	.	.
+.	24dd#XJJ	.	.
+8G#X 8E	24eeLL	.	.
+.	24ff#X	.	.
+.	24gg#XJJ	.	.
+*	*8va	*	*
+8B 8BB	24aa\LL	.	.
+.	24aa#X	.	.
+.	24bbJJ	.	.
+*Xped	*	*	*
+.	.	.	.
+8B 8A 8F#X	24ccc#LL	.	.
+.	24ddd#	.	.
+.	24eeeJJ	.	.
+8BJ 8A 8BB	24fff#LL	.	.
+.	24ggg#	.	.
+.	24aaanJJ	.	[[
+=67	=67	=67	=67
+*ped	*	*	*
+8BL 8G#X 8E	24bbbLL	.	>
+.	24bbb	.	.
+.	24bbbJJ	.	.
+16BL 16BB	24ggg#XLL	.	.
+.	24fff#X	.	.
+16BJ 16BB	.	.	.
+.	24eeeJJ	.	.
+8B 8G# 8E	24ddd#XLL	.	.
+.	24ccc#X	.	.
+.	24bbJJ	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+8B 8G# 8BB	24aaLL	.	.
+.	24gg#	.	.
+.	24ff#JJ	.	.
+*Xped	*	*	*
+.	.	.	.
+8B 8A 8F#X	24eeLL	.	.
+.	24dd#	.	.
+.	24cc#JJ	.	.
+8BJ 8A 8BB	24b\LL	.	]
+.	24a	.	.
+.	24f#yJJ	.	.
+!!LO:LB:g=original
+=68	=68	=68	=68
+8B 8G#X 8E	(>8e`<)	.	.
+8cc>L 8a>	24ffLL	.	.
+.	24gg	.	.
+.	24ffJJ	.	.
+8b> 8g#X>	24eeLL	.	>
+.	24ff	.	.
+.	24eeJJ	.	.
+8b-X> 8gn>	24ee-XLL	.	.
+.	24ff-X	.	.
+.	24ee-JJ	.	.
+8a> 8f#X>	24ddLL	.	.
+.	24ee-	.	.
+.	24ddJJ	.	.
+8a-X>J 8fn>	24dd-X/LL	.	.
+.	24ee--	.	.
+.	24dd-JJ	.	.
+=69	=69	=69	=69
+8g>\L 8e>\	24cc/LL	.	.
+.	24dd-X	.	.
+.	24ccJJ	.	.
+8g-X>\ 8e-X>\	24cc-X/LL	.	.
+.	24dd--	.	.
+.	24cc-JJ	.	.
+8f>\ 8d>\	24b-X/LL	.	.
+.	24cc-	.	.
+.	24b-JJ	.	.
+8e->\ 8c#X>\	24aLL	.	]
+.	24b-	.	.
+.	24aJJ	.	.
+8d#X>\ 8cn>\	24g#XLL	.	.
+.	24a	.	.
+.	24bnJJ	.	.
+8c<\J 8A<\	24aLL	.	.
+.	24gn	.	.
+.	24fJJ	.	.
+=70	=70	=70	=70
+8B 8G#X	8e`<	.	.
+*	*8va	*	*
+8cc> 8a>L	24fffLL	.	.
+.	24ggg	.	.
+.	24fffJJ	.	>
+8b> 8g#X>	24eeeLL	.	.
+.	24fff	.	.
+.	24eeeJJ	.	.
+8b-X> 8gn>	24eee-XLL	.	.
+.	24fff-X	.	.
+.	24eee-JJ	.	.
+8a> 8f#X>	24dddLL	.	.
+.	24eee-	.	.
+.	24dddJJ	.	.
+8a-X>J 8fn>	24ddd-XLL	.	.
+.	24eee--	.	.
+.	24ddd-JJ	.	.
+!!LO:LB:g=original
+=71	=71	=71	=71
+*	*^	*	*
+8g>\L 8e>\	24cccLL	8ryy	.	.
+.	24ddd-X	.	.	.
+.	24cccJJ	.	.	.
+8g-X>\ 8e-X>\	24ccc-XLL	8ryy	.	.
+.	24ddd--	.	.	.
+.	24ccc-JJ	.	.	.
+8f>\ 8d>\	24bb-XLL	8ryy	.	.
+.	24cccn	.	.	]
+.	24bb-JJ	.	.	.
+8e->\ 8c>\	24gg#XLL	8ryy	.	.
+.	24aa	.	.	.
+.	24cccJJ	.	.	.
+8c>\	24aaaLL	4dd#X/	.	.
+.	24ddd#X	.	.	.
+.	24cccJJ	.	.	.
+8F\J	24bbnLL	.	.	.
+.	24ccc	.	.	.
+.	24aaJJ)	.	.	.
+*clefG2	*	*	*	*
+*	*v	*v	*	*
+=72	=72	=72	=72
+8ee 8e	8eee 8gg#X	.	.
+*8va	*	*	*
+!	!LO:TX:t=legatiss.	!	!
+8ddddL	24ggg#XLL	.	.
+.	24ffff	.	.
+.	24bbbJJ	.	.
+!	!	!	!LO:DY:b=2:rj
+8cccc#X	24gggnLL	.	p
+.	24eeee	.	.
+.	24bbb-XJJ	.	.
+8ccccn	24fff#XLL	.	.
+.	24eeee-X	.	.
+.	24aaaJJ	.	.
+8bbb	24fffnLL	.	.
+.	24dddd	.	.
+.	24aaa-XJJ	.	.
+8aaa#XJ	24eeeLL	.	.
+.	24cccc#X	.	.
+.	24gggJJ	.	.
+=73	=73	=73	=73
+!LO:TX:t=P:missing beaming:problem	!	!	!
+8bbbL\	24fffLL	.	.
+!LO:TX:t=Poco a Poco:dur=3es:ext=ud:problem:text with extention lines	!	!	!
+.	24dddd	.	.
+.	24ggg#XJJ	.	.
+8cccc	24fff#XLL	.	.
+.	24eeee-X	.	.
+.	24aaaJJ	.	.
+8bbb	24fffnLL	.	.
+.	24dddd	.	.
+.	24aaa-XJJ	.	.
+8bbb-X	24eeeLL	.	.
+.	24cccc#X	.	.
+.	24gggnJJ	.	.
+8aaa	24ddd#XLL	.	.
+.	24ccccn	.	.
+.	24fff#XJJ	.	.
+8ggg#XJ	24dddnLL	.	.
+!	!	!	!LO:HP:t=dim:b=2
+.	24bbb	.	>
+.	24fffnJJ	.	.
+!!LO:LB:g=original
+=74	=74	=74	=74
+8aaa\L	24ddd#XLL	.	.
+.	24cccc	.	.
+.	24fff#XJJ	.	.
+8bbb-X	24eeeLL	.	.
+.	24cccc#X	.	.
+.	24gggJJ	.	.
+8aaa	24eee-XLL	.	.
+.	24ccccn	.	.
+.	24fff#JJ	.	.
+8aaa-X	24dddnLL	.	.
+!	!	!	!LO:HP:b=2
+.	24bbb	.	<
+.	24fffnJJ	.	.
+8ggg	24ccc#XLL	.	.
+.	24bbb-X	.	.
+.	24eeenJJ	.	.
+8fff#XJ	24cccnLL	.	.
+.	24aaa	.	.
+.	24eee-XJJ	.	.
+=75	=75	=75	=75
+8fffn^\L	24bbLL	.	.
+.	24aaa	.	.
+.	24dddJJ	.	.
+8eee	24bbLL	.	.
+.	24ggg#X	.	.
+.	24dddJJ	.	.
+8fff^	24bbLL	.	.
+.	24ggg#	.	.
+.	24dddJJ	.	.
+8eee	24bbLL	.	.
+.	24ggg#	.	.
+.	24dddJJ	.	.
+8fff^	24bbLL	.	.
+.	24ggg#	.	.
+.	24dddJJ	.	.
+(>8eeeJ	24bbLL	.	.
+.	24ggg#	.	.
+.	24dddJJ	.	.
+=76	=76	=76	=76
+8gg#X`<)	8bbb`>	.	.
+*X8va	*X8va	*	*
+!LO:TX:a:t=loco.	!	!	!
+8r	8r	.	.
+!	!LO:TX:a:t=loco.	!	!
+4r	4r	.	.
+4r	4r	.	.
+=77	=77	=77	=77
+!LO:TX:a:t=1	!LO:TX:a:t=1	!	!
+1rcc	1rcc	.	.
+!LO:CL:ed	!	!	!
+*clefF4	*	*	*
+!LO:TX:t=P:clef visible in next measure:problem	!	!	!
+!!LO:PB:g=original
+=78	=78	=78	=78
+*ped	*8va	*	*
+4GG 4GGG	(>24ffffLL 24dddd	.	fff
+.	24cccc	.	.
+.	24ddddJJ 24bbb	.	.
+.	24aaaLL	.	.
+.	24bbb 24ggg	.	.
+.	24fffJJ	.	.
+4g 4f 4d 4G	24gggLL 24eee	.	.
+.	24ddd	.	.
+*Xped	*	*	*
+.	24eeeJJ 24ccc	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+.	24bbLL	.	.
+.	24ccc 24aa	.	.
+.	24ggJJ	.	.
+4r	24aaLL 24ff	.	.
+.	24ee	.	.
+.	24ffJJ 24dd	.	.
+.	24ccLL	.	.
+.	24dd 24b	.	.
+.	24aJJ)	.	.
+=79	=79	=79	=79
+2.rBB	(>24bLL 24g	.	.
+.	24f	.	.
+.	24gJJ 24e	.	.
+.	24dLL	.	.
+.	24e 24c	.	.
+.	24BJJ	.	.
+.	24c<LL 24A<	.	.
+.	24G<	.	.
+.	24A<JJ 24F<	.	.
+.	24E<LL	.	.
+.	24F< 24D<	.	.
+.	24C<JJ	.	.
+.	24D<LL 24BB<	.	.
+.	24AA<	.	.
+.	24BB<JJ 24GG<	.	.
+.	24FF<LL	.	.
+.	24GG< 24EE<	.	.
+.	24DD<JJ)	.	.
+=80	=80	=80	=80
+!	!	!	!LO:DY:rj:b=2
+8CC\L	8r	.	fz
+16CL	(>16eLL'> 16c 16G<	.	.
+!	!	!	!LO:DY:rj:b=2
+16CJJ	16eJJ'> 16c 16G<	.	p
+8C\L	8eL'> 8c 8G<	.	.
+8C	8e'> 8c 8G<	.	.
+8C	8e'> 8c 8G<	.	.
+8CJ	8d#XJ'>) 8c 8A<	.	.
+!!LO:LB:g=original
+=81	=81	=81	=81
+8C\L 8CC\	8eL 8c 8G<	.	.
+16CL	16eL 16c 16G<	.	.
+16CJJ	16eJJ 16c 16G<	.	.
+8C\L	8eL 8c 8G<	.	.
+8C	8e 8c 8G<	.	.
+8CJ	8e 8c 8G<	.	.
+(>16EE\LL	8eJ 8c 8G<	.	.
+16FFJJ	.	.	.
+=82	=82	=82	=82
+8GG\L)`>	8fL 8B< 8G<	.	.
+(>16GGL	16fL 16B< 16G<	.	.
+16AAJJ	16fJJ 16c< 16G<	.	.
+8BB\L)	8fL 8d 8G<	.	.
+8GG	8f 8B< 8G<	.	.
+8C	8e 8c 8G<	.	.
+8CCJ	8eJ 8c 8G<	.	.
+=83	=83	=83	=83
+8GG\L	8d<L 8B< 8G<	.	.
+16GGL	16gL 16A#X< 16G<	.	.
+16GGJJ	16gJJ 16A#< 16G<	.	.
+8GG\L	8gL 8B< 8G<	.	.
+8GG	8g 8A#< 8G<	.	.
+8GG	8g 8B< 8G<	.	.
+8GGJ	8fJ 8d 8G<	.	.
+=84	=84	=84	=84
+!	!	!	!LO:DY:rj
+8C\L 8CC\	8e<L 8c< 8G<	.	fz
+16CL	16e<L 16c< 16G<	.	.
+16CJJ	16e<JJ 16c< 16G<	.	.
+8C\L	8e<L 8c< 8G<	.	.
+8C	8e< 8c< 8G<	.	.
+8C	8e< 8c< 8G<	.	.
+8CJ	8d#X<J 8c< 8A<	.	.
+=85	=85	=85	=85
+8C\L	(>8e<L 8c< 8G<	.	.
+16CL	16e<'>L 16c< 16G<	.	.
+16CJJ	16e<'>JJ 16c< 16G<	.	.
+8C\L	8e<'>L 8c< 8G<	.	.
+8BB	8e<'> 8d< 8G#X<	.	.
+8AA	8e<'> 8c< 8A<	.	.
+8GGJ	8e<'>J 8c#X< 8B-X<)	.	.
+!!LO:LB:g=original
+=86	=86	=86	=86
+8FF\	8d< 8A<	.	.
+4FF\	4d<^> 4A<	.	.
+8FF\L	16fLL 16d< 16A<	.	.
+.	16fJJ 16d< 16A<	.	.
+8FF	8fLL 8d< 8A<	.	.
+8FFJ	8fJJ 8d< 8A<	.	.
+=87	=87	=87	=87
+8GG	8fL 8d 8B	.	.
+.	.	.	.
+4GG	16fL 16d 16B	.	>
+.	16fJJ 16d 16B	.	.
+.	8fL 8d 8B	.	]
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+!	!LO:S:s=2:note:problem:note-level slur	!	!
+8GG\L	(>8fJ (>8B< [8G<	.	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+!	!LO:S:s=2:note:problem:note-level slur	!	!
+8CJ 8CC	8e) 8c<) 8G<]	.	.
+!	!LO:TX:t=m.v.	!	!
+!	!LO:TX:a:t=élégantamente.	!	!
+8r	(>16eeLL	.	.
+.	16ffJJ	.	.
+=88	=88	=88	=88
+8CL	4.gg)	.	.
+16eL 16c 16G	.	.	.
+16eJJ 16c 16G	.	.	.
+8eL 8c 8G	.	.	.
+8e 8c 8G	(>16eeLL	.	.
+.	16ffJJ	.	.
+8e 8c 8G	16ggLL	.	.
+.	16aa	.	.
+8d#XJ 8c 8A	16ggT	.	.
+.	32rff	.	.
+.	32ff#XJJk)	.	.
+=89	=89	=89	=89
+8CL	8ggL	.	.
+16cL 16E	(>16ccL	.	.
+16cJJ 16E	16ddJJ	.	.
+8eL 8G	4.ee)	.	.
+8c 8E	.	.	.
+8e 8G	.	.	.
+8cJ 8E	(16ffLL	.	.
+.	16eeJJ)	.	.
+=90	=90	=90	=90
+8GGL	8dd`	.	.
+16GL	4g^^	.	.
+16GJJ	.	.	.
+8fL 8B	.	.	.
+8G	(>\16aLL	.	.
+.	16bJJ	.	.
+8e 8c	16ccLL	.	.
+.	16dd	.	.
+8gJ [>8G	16ee	.	.
+.	16ffJJ)	.	.
+!!LO:LB:g=original
+=91	=91	=91	=91
+8dL 8B 8G]	16eeLL	.	.
+.	16dd	.	.
+16gL 16A#X 16G	16ddM	.	.
+16gJJ 16A# 16G	16cc#XJJ	.	.
+8gL 8B 8G	16eeLL	.	.
+.	16dd	.	.
+8gJ 8A# 8G	16ddM	.	.
+.	16cc#JJ	.	.
+8gL 8B 8G	8dd`	.	.
+8fJ 8d 8G	(>16eeLL	.	<
+.	16ffJJ	.	.
+=92	=92	=92	=92
+8C`L	4.gg)	.	[
+16eL 16c 16G	.	.	.
+16eJJ 16c 16G	.	.	.
+8eL 8c 8G	.	.	.
+8eJ 8c 8G	(>16eeLL	.	.
+.	16ffJJ	.	.
+8eL 8c 8G	16ggLL	.	.
+.	16aa	.	.
+8d#XJ 8c 8A	16ggT)	.	.
+.	32rdd	.	.
+.	(>32ff#XJJk	.	.
+=93	=93	=93	=93
+8C`L	16aaLL)	.	.
+.	(>16gg	.	.
+8e 8c 8G	16cc)	.	.
+.	32rb	.	.
+.	(>32ddJJk	.	.
+8e 8c 8G	4.ee)	.	.
+8eJ 8c 8G	.	.	.
+8AAL	.	.	.
+.	16qqff/LL	.	.
+.	16qqgg/JJ	.	.
+8eJ 8c 8A	16ffLL	.	.
+.	16eeJJ	.	.
+=94	=94	=94	=94
+8FF	16ddLL	.	.
+.	32rb	.	.
+.	(>32ak	.	.
+4d 4A 4F	16ccc)	.	.
+.	32rdd	.	.
+.	(>32aaJJk	.	.
+*	*8va	*	*
+.	16ccccLL)	.	>
+.	32reee	.	.
+.	(>32aaak	.	.
+8dL 8A 8F	16fff	.	.
+.	16dddJJ	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+8d 8A 8F	16cccLL	.	.
+.	16aa	.	.
+8dJ 8A 8F	16ff	.	.
+.	16ddJJ)	.	]
+!!LO:LB:g=original
+=95	=95	=95	=95
+8GGL`>	(>16.ccLL	.	.
+.	32bk	.	.
+(>8G	16a	.	.
+.	16bJJ)	.	.
+8f 8B	(>4dd	.	.
+8GJ	.	.	.
+8e 8c)	8ccL	.	.
+8r	8b-XJ)	.	.
+=96	=96	=96	=96
+!LO:TX:t=ben tenuto.	!	!	!
+4F	8aL	.	p
+.	8fJ 8c 8A	.	.
+4C\	8r	.	.
+.	8e 8c 8G<	.	.
+4BB-X\	8r	.	.
+.	8e 8c 8G<	.	.
+=97	=97	=97	=97
+2AA\	8r	.	.
+.	8fL 8c 8F<	.	.
+.	8f 8c 8F<	.	.
+.	8fJ 8c 8F<	.	.
+4GG/	8r	.	.
+.	8e 8c< 8B-X<	.	.
+=98	=98	=98	=98
+4FF	8r	.	.
+!	!LO:TX:t=P:crescendo below the notes:problem	!	!
+.	8f 8c< 8A<	.	<
+4DD	8r	.	.
+.	8f 8d 8A<	.	.
+4BBB-X	8r	.	[[
+.	8g 8d 8G<	.	.
+=99	=99	=99	=99
+4CC	8r	.	[
+.	8f 8c< 8A<	.	.
+4C\	8r	.	.
+.	8e 8c< 8G<	.	.
+(<4FF#X\	8r	.	.
+.	8d< 8c< 8A<	.	.
+=100	=100	=100	=100
+4GG\	8rB<	.	.
+.	8d< 8B-X< 8G<	.	.
+4D	8rB<	.	.
+.	8d< 8A< 8F#X<	.	.
+4C\)	8rB<	.	.
+.	8d< 8A< 8F#<	.	.
+!!LO:LB:g=original
+=101	=101	=101	=101
+2BB-X\	8rB<	.	.
+!	!	!	!LO:HP:b=2
+.	.	.	>
+.	8d<L 8G< 8D<	.	.
+.	8d< 8G< 8D<	.	.
+.	8d<J 8G< 8D<	.	.
+4AA\	8rB<	.	]
+.	8d< 8c< 8F#X<	.	.
+=102	=102	=102	=102
+(<2GG\	8rB<	.	]
+.	8d<L 8B-X< 8G<	.	.
+.	8d< 8B-< 8G<	.	.
+.	8d<J 8B-< 8G<	.	.
+4FF\	8rB<	.	.
+.	8d-X< 8B-< 8G<	.	.
+=103	=103	=103	=103
+2.EE/)	8rB<	.	.
+.	8c< 8B-X< 8G<	.	.
+.	8c</L 8B-</ 8G</	.	.
+!	!	!	!LO:HP:a
+.	16cc/L 16c/	.	<
+.	16cc/J 16c/	.	.
+.	8cc/ 8c/	.	.
+.	8cc/J 8c/	.	[
+=104	=104	=104	=104
+*ped	*	*	*
+8FF\L	(>16A<LL	.	.
+!	!LO:TX:a:t=legatiss.	!	!
+.	16c	.	.
+16CL	16cc	.	.
+16CJJ	16fJJ	.	p
+8cL 8A 8F	16aLL	.	<
+.	16cc	.	.
+8CJ	16ccc	.	.
+.	16ffJJ	.	.
+*	*8va	*	*
+8cL 8A 8F	16aaLL	.	.
+.	16ccc	.	.
+8CJ	16cccc	.	.
+*Xped	*	*	*
+.	16fffJJ	.	[
+=105	=105	=105	=105
+*ped	*	*	*
+8CCL	16eeeLL	.	>
+.	16cccc	.	.
+16CL	16ggg	.	.
+16CJJ	16cccJJ	.	]
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+8cL 8B-X 8G	16eeLL	.	.
+.	16ccc	.	.
+8CJ	16gg	.	.
+.	16ccJJ	.	.
+8cL 8B- 8G	16eLL	.	.
+.	16cc	.	.
+8CJ	16g	.	.
+*Xped	*	*	*
+.	16cJJ)	.	.
+!!LO:PB:g=original
+=106	=106	=106	=106
+*ped	*	*	*
+(>8FF\L	(>16ALL	.	.
+.	16c	.	.
+16CL	16cc	.	.
+16CJ	16fJJ	.	.
+8c 8A 8F	16aLL	.	<
+.	16cc	.	.
+8C	16ccc	.	.
+.	16ffJJ	.	.
+*	*8va	*	*
+8c 8A 8F	16aaLL	.	.
+*Xped	*	*	*
+.	.	.	.
+.	16ccc	.	.
+8CJ)	16cccc	.	.
+.	16fffJJ	.	[[
+*ped	*	*	*
+=107	=107	=107	=107
+(<8CC/L	16eeeLL	.	>
+.	16cccc	.	.
+8C	16ggg	.	.
+.	16cccJJ	.	]
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+8c 8B-X 8G	16eeLL	.	.
+.	16ccc	.	.
+8C	16gg	.	.
+.	16ccJJ	.	.
+8cJ) 8B- 8G	16e/LL	.	<
+.	16cc	.	.
+*Xped	*	*	*
+8r	16g	.	.
+.	16ccJJ)	.	[
+=108	=108	=108	=108
+*ped	*	*	*
+8FFL	2ffT	.	.
+8F	.	.	.
+8e-X	.	.	.
+*Xped	*	*	*
+8FJ	.	.	.
+.	16qqee/LL	.	.
+.	16qqff/JJ	.	.
+*ped	*	*	*
+8BB-XL	(>16dddLL	.	>
+.	16bb-X	.	.
+8dJ 8F	16fff	.	.
+*Xped	*	*	*
+.	16ffJJ)	.	]
+=109	=109	=109	=109
+*ped	*	*	*
+8EEn/L	2eent	.	.
+8E	.	.	.
+8d 8Bn	.	.	.
+*Xped	*	*	*
+8EJ	.	.	.
+.	16qqdd#X/LL	.	>
+.	16qqee/JJ	.	.
+*ped	*	*	*
+8AAL	(>16cccLL	.	.
+.	16aa	.	.
+8cJ 8E	16eee	.	.
+*Xped	*	*	*
+.	16eeJJ)	.	]
+=110	=110	=110	=110
+*ped	*	*	*
+8DD/L	2ddT	.	.
+8D	.	.	.
+8c 8A	.	.	.
+*Xped	*	*	*
+8DJ	.	.	.
+.	16qqcc#/LL	.	<
+.	16qqdd/JJ	.	.
+*ped	*	*	*
+8GG/L	(>16ggLL	.	.
+.	16bb-X	.	.
+8B-XJ 8D	16ddd	.	.
+*Xped	*	*	*
+.	16gggJJ)	.	[
+!!LO:LB:g=original
+=111	=111	=111	=111
+*ped	*	*	*
+8CC	8r	.	.
+4g 4c	4ee 4b-X	.	.
+8gL 8c	(>8eeL 8b-	.	.
+*Xped	*	*	*
+8fJ 8F	8ffJ 8a)	.	.
+!	!	!	!LO:DY:rj
+8r	8c	.	f
+=112	=112	=112	=112
+8C	8cc	.	f
+*	*Xtuplet	*	*
+!	!LO:TX:t=con forza.	!	!
+(>8cL	(<24gLL 24e	.	.
+.	24cc	.	.
+.	24gJ 24e	.	.
+8C`J)	8ccJ)	.	.
+(>8c-XL	(<24a/LL 24f/	.	.
+.	24dd-X	.	.
+.	24aJ 24f	.	.
+8C-X`J)	8dd-J)	.	.
+!	!LO:TX:t=cre-scen-do:dur=2qs:ext=ud:problem:text with extention lines	!	!
+(>8B-X	(<24aLL 24f	.	.
+.	24ddn	.	.
+.	24aJJ) 24f	.	.
+=113	=113	=113	=113
+8BB`<)	8dd	.	.
+(>\8AL	24an/LL 24f/	.	.
+.	24dd	.	.
+.	24aJ 24f	.	.
+8AA`J)	8ddJ	.	.
+(>8A-X\L`>	24b-X/LL 24f/	.	.
+.	24dd	.	.
+.	24b-J 24f	.	.
+8AA-X`J)	8ddJ	.	.
+8G 8GG	8dd 8bn 8f	.	fz
+=114	=114	=114	=114
+.	16qqe/LL	.	fz
+*ped	*	*	*
+.	16qqb-X/	.	.
+.	16qqcc/JJ	.	.
+!	!	!	!LO:DY:rj
+8CL 8CC	4.gg	.	p
+16eL 16c 16B-X 16G	.	.	.
+16eJJ 16c 16B- 16G	.	.	.
+8eL 8c 8B- 8G	.	.	.
+!	!LO:TX:a:t=dol.	!	!
+8e 8c 8B- 8G	(>16aaLL	.	>
+.	16ggJJ	.	.
+8e 8c 8B- 8G	16ffLL	.	.
+.	16ee	.	.
+.	8qee/	.	.
+8eJ 8c 8B- 8G	16dd	.	.
+*Xped	*	*	*
+.	16ccJJ)	.	]
+!!LO:LB:g=original
+=115	=115	=115	=115
+*ped	*	*	*
+8FL	[4aa	.	.
+16fL 16c 16A	.	.	.
+16fJJ 16c 16A	.	.	.
+8fL 8c 8A	(>16aaLL]	.	.
+.	16gg#X	.	.
+8fJ 8c 8A	16aa	.	<
+*Xped	*	*	*
+.	.	.	.
+.	16bbJJ	.	.
+.	8qddd/	.	.
+8F#XL 8FF#X	16cccLL	.	.
+.	16bb	.	.
+8e-XJ 8c	16ccc	.	.
+.	16dddJJ)	.	[[
+=116	=116	=116	=116
+*^	*	*	*
+.	8qGG/	.	.	.
+!	!LO:N:vis=2	!	!	!
+2G\	8GL	8ddd#X`	.	.
+.	8e\ 8c\	4eee^^>	.	.
+.	8e 8c	.	.	.
+.	8eJ 8c	(>16fffLL	.	>
+.	.	16eeeJJ	.	.
+4G#X/	8G#XL	16dddnMLL	.	.
+.	.	16ccc#X	.	.
+.	8f\J 8B\	16ddd	.	.
+.	.	16bbJJ)	.	]
+=117	=117	=117	=117	=117
+!	!LO:N:vis=2	!	!	!
+2A/	8A\L	8ddd`	.	.
+.	8e 8c	4ccc^>	.	.
+.	8e 8c	.	.	>
+.	8eJ 8c	(>16dddLL	.	.
+.	.	16cccJJ	.	.
+4rdyy	8EL	16bb-yMLL	.	.
+.	.	16aa	.	.
+.	8gJ 8c 8B-X	16bb-	.	.
+.	.	16gg#XJJ)	.	]
+=118	=118	=118	=118	=118
+!	!LO:N:vis=2	!	!	!
+2F/	8FL	8gg#X`	.	.
+.	16f\L 16d\ 16A\	4aa^^	.	.
+.	16fJJ 16d 16A	.	.	.
+.	8f\L 8d\ 8A\	.	.	.
+.	8fJ 8d 8A	(>16bbLL	.	>
+.	.	16aaJJ	.	.
+4G/	8GL	16ggnLL	.	.
+.	.	16ee	.	.
+.	8f\J 8B\	16ff	.	.
+.	.	16ddJJ)	.	]
+*v	*v	*	*	*
+!!LO:LB:g=original
+=119	=119	=119	=119
+!	!	!	!LO:DY:rj
+8CL	8cc	.	p
+*	*8va	*	*
+!	!LO:TX:t=leggieriss.	!	!
+8eJ 8c	24ccccLL	.	.
+.	24eeee	.	.
+.	24aaaJJ	.	.
+8GL	24gggLL	.	.
+.	24cccc	.	.
+.	24fffJJ	.	.
+8eJ 8c	24eeeLL	.	.
+.	24ggg	.	.
+.	24dddJJ	.	.
+8CL	(>16cccLL	.	.
+.	16ddd	.	.
+8eJ 8c	16ddd#X	.	.
+.	16eeeJJ)	.	.
+=120	=120	=120	=120
+*^	*	*	*
+4rByy	8GG'>\L	(>16aaaLL^< 16fff	.	[
+.	.	16eeeJJ)	.	.
+.	8f\J 8B\	(>16fffLL 16ddd^<	.	.
+.	.	16cccJJ)	.	.
+4D	8DL	(16ddd^</LL 16bb/	.	.
+.	.	16aaJJ)	.	.
+.	8fJ 8B	(<16bb^<LL 16gg	.	.
+.	.	16ffJJ)	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+4rgyy	8G'L	(>16gg^<LL 16ee	.	.
+.	.	16ddJJ)	.	.
+.	8fJ 8B	(>16eeLL 16cc	.	.
+.	.	16ddJJ 16g)	.	.
+*v	*v	*	*	*
+=121	=121	=121	=121
+8C'\L	8cc 8e	.	.
+*	*8va	*	*
+!	!LO:TX:t=legatiss.	!	!
+8e 8c 8G	(>24ccccLL	.	.
+.	24eeee	.	.
+.	24aaaJJ	.	.
+8e 8c 8G	24gggLL	.	.
+.	24cccc	.	.
+.	24fffJJ	.	.
+8e 8c 8G	24eeeLL	.	.
+.	24ggg	.	.
+.	24dddJJ	.	.
+8C'	16cccLL)	.	<
+.	(>16ccc#XJJ	.	.
+8eJ 8c 8G	24dddLL	.	.
+.	24ddd#X	.	.
+.	24eeeJJ)	.	[
+!!LO:LB:g=original
+=122	=122	=122	=122
+8GG\L	(>24fffLL	.	.
+.	24aaa	.	.
+.	24eeeJJ	.	.
+8G\	24dddLL	.	.
+.	24fff	.	.
+.	24cccJJ	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+8f\ 8B\	24bbLL	.	.
+.	24ddd	.	.
+.	24aaJJ	.	.
+8G\	24ggLL	.	.
+.	24bb	.	.
+.	24ffJJ	.	.
+8f\ 8B\	24eeLL^<	.	.
+.	24gg	.	.
+.	24ddJJ	.	.
+8G\J	24eeLL^<	.	.
+.	24gg	.	.
+.	24ddJJ)	.	.
+=123	=123	=123	=123
+8e 8c	8cc	.	.
+8r	(>16bLL	.	.
+.	16ccJJ)	.	.
+!	!	!	!LO:DY:rj
+8FFL 8FFF	16dd-XLL	.	f
+.	16d-X	.	.
+!LO:S:s=1:note:problem:note-level slur	!	!	!
+(>8FJ 8FF	16a-X	.	.
+.	16dd-JJ	.	.
+!LO:S:s=1:note:problem:note-level slur	!	!	!
+8GL) 8GG	16ee-X/LL	.	.
+.	16e-X	.	.
+(<8GGJ 8GGG	16b-X	.	.
+.	16dd-JJ	.	.
+=124	=124	=124	=124
+!	!LO:TX:t=cres.-cen-do.:dur=8q:ext=ud:problem:text with extention lines	!	!
+8AA-XL 8AAA-X)	16ccLL	.	.
+.	16e-X	.	.
+!LO:S:s=1:note:problem:note-level slur	!	!	!
+(>8A-yJ 8AA-	16a-X	.	.
+.	16ccJJ	.	.
+!LO:S:s=1:note:problem:note-level slur	!	!	!
+8GL) 8GG	16ee-X/LL	.	.
+.	16e-X	.	.
+(<8GGJ 8GGG	16b-X	.	.
+.	16ee-JJ	.	.
+8GG#XL 8GGG#X)	16een/LL	.	.
+.	16en	.	.
+8G#yJ 8GG#	16bn	.	.
+.	16ddJJ	.	.
+!!LO:LB:g=original
+=125	=125	=125	=125
+8AL 8AA	16cc#XLL	.	.
+.	16e	.	.
+(<8AAJ 8AAA	16a	.	.
+.	16cc#JJ	.	.
+8GG#XL 8GGG#X)	16ee/LL	.	.
+.	16e	.	.
+!LO:S:s=1:note:problem:note-level slur	!	!	!
+(>8G#yJ 8GG#	16b	.	.
+.	16eeJJ	.	.
+!LO:S:s=1:note:problem:note-level slur	!	!	!
+8AL) 8AA	16ff/LL	.	.
+.	16f	.	.
+(<8AAJ 8AAA	16cc#	.	.
+.	16ee-XJJ	.	.
+=126	=126	=126	=126
+*	*^	*	*
+8BB-XL 8BBB-X)	16dd/LL	4raayy	.	.
+.	(<16f	.	.	.
+!LO:S:s=1:note:problem:note-level slur	!	!	!	!
+(>8B-yJ 8BB-	16b-X	.	.	.
+.	16ddJJ	.	.	.
+!LO:S:s=1:note:problem:note-level slur	!	!	!	!
+8AL) 8AA	16ff/LL)	4rbbyy	.	.
+.	(<16f	.	.	.
+(<8AAJ 8AAA	16cc	.	.	.
+.	16ffJJ	.	.	.
+8BBnL 8BBBn)	8.gg^L	16ggLL)	.	.
+.	.	16g	.	.
+8B-J 8BB-y	.	16dd	.	.
+.	16ffJk	16ffJJ	.	.
+*	*v	*v	*	*
+=127	=127	=127	=127
+8c 8C	8ee 8cc 8g	.	.
+8r	8r	.	.
+!LO:S:s=2:note:problem:note-level slur	!	!	!LO:DY:b=2:rj
+!LO:S:s=3:note:problem:note-level slur	!	!	!
+2e^< (>2d-X (>2B-X	(>16gLL	.	fz>
+.	16b-X	.	.
+.	16dd-X	.	.
+.	16eeJJ	.	]
+.	16ggLL	.	<
+.	16bb-y	.	.
+.	16ddd-y	.	.
+.	16eeeJJ)	.	[
+=128	=128	=128	=128
+8G'>))	8ggg'>	.	.
+8r	8r	.	.
+!LO:S:s=2:note:problem:note-level slur	!	!	!
+!LO:S:s=3:note:problem:note-level slur	!	!	!
+!LO:TX:t=P:second slur has no ending:problem	!	!	!LO:DY:b=2:rj
+2e^< (>2d-X (>2B-X	(>16gLL	.	fz>
+.	16b-X	.	.
+.	16dd-X	.	.
+.	16eeJJ	.	]
+.	16ggLL	.	<
+.	16bb-y	.	.
+.	16ddd-y	.	.
+.	16eeeJJ)	.	[
+!!LO:PB:g=original
+=129	=129	=129	=129
+*	*8va	*	*
+8E'))	8bbb-X'	.	.
+8r	8r	.	.
+*	*X8va	*	*
+!LO:S:s=3:note:problem:note-level slur	!LO:TX:a:t=loco.	!	!
+!!LO:S:s=2:note:problem:note-level slur	!	!	!
+!	!	!	!LO:DY:b=2:rj
+2e (>2d-X (>2B-X	(>16g\LL	.	fz<
+.	16b-X	.	.
+.	16dd-X	.	.
+.	16eeJJ	.	.
+.	16ggLL	.	.
+.	16bb-y	.	.
+.	16ddd-y	.	.
+.	16eeeJJ)	.	[
+=130	=130	=130	=130
+*	*8va	*	*
+8D-X))	8dddd-X`>	.	.
+8r	8r	.	.
+*	*X8va	*	*
+!!LO:S:s=2:note:problem:note-level slur	!	!	!
+!LO:S:s=3:note:problem:note-level slur	!LO:TX:a:t=loco.	!	!LO:DY:b=2:rj
+2e (>2d-X (>2B-X	(>16g\LL	.	<fz
+.	16b-X	.	.
+.	16dd-X	.	.
+.	16eeJJ	.	.
+.	16ggLL	.	.
+.	16bb-y	.	.
+.	16ddd-y	.	.
+.	16eeeJJ)	.	[
+=131	=131	=131	=131
+*	*8va	*	*
+8C`<))	8eeee`>	.	[
+8r	8r	.	.
+8r	8r	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!LO:DY:rj
+!	!	!	!LO:HP:a
+(>16ELL	(<16cLL	.	p<
+16FJ	16dJ	.	.
+8G`J)	8ccJ 8e)`<	.	[
+!	!	!	!LO:HP:a
+(>16FLL	(<16dLL	.	<
+16GJJ	16eJJ	.	.
+=132	=132	=132	=132
+4A-X`)	4cc` 4f)	.	[
+8C 8CC	8r	.	.
+!	!	!	!LO:HP:a
+(>16FLL	(<16d-XLL	.	<
+16GJ	16e-XJ	.	.
+8A-X`J)	8f`<J)	.	[
+!	!	!	!LO:HP:a
+(>16F#XLL	(<16dnLL	.	<
+16GJJ	16enJJ	.	.
+!!LO:LB:g=original
+=133	=133	=133	=133
+4An)`>	4cc` 4f#X)	.	[
+8C 8CC	8r	.	.
+!	!	!	!LO:HP:a
+(>16F#XLL	(<16d#XLL	.	<
+16G#XJ	16e#XJ	.	.
+8A`J)	8cc`J 8f#)	.	[
+!	!	!	!LO:HP:a
+(>16GnLL	(<16enLL	.	<
+16AJJ)	16fnJJ)	.	[
+=134	=134	=134	=134
+!	!LO:TX:t=rall&colon;	!	!
+2.B-X 2.C	2.cc 2.g 2.e	.	.
+=135	=135	=135	=135
+!	!LO:TX:a:t=a Tempo.	!	!
+(<4F	8rc<	.	.
+.	8c< 8A<	.	.
+4C\	8rc<	.	.
+.	8e< 8c< 8G<	.	.
+4BB-X\)	8rc<	.	.
+.	8e< 8c< 8G<	.	.
+=136	=136	=136	=136
+2AA/	8rc<	.	.
+.	8f<L 8c< 8F<	.	.
+.	8f< 8c< 8F<	.	.
+.	8f<J 8c< 8F<	.	.
+4GG/	8rc<	.	.
+.	8e< 8c< 8B-<X	.	.
+=137	=137	=137	=137
+(<4FF	8rc<	.	.
+.	8f< 8c< 8A<	.	.
+4DD	8rc<	.	.
+.	8f< 8d< 8A<	.	.
+4BBB-X	8rc<	.	.
+.	8g< 8d< 8G<	.	.
+=138	=138	=138	=138
+4CC	8rc<	.	.
+.	8f< 8c< 8A<	.	.
+4C\)	8rc<	.	.
+.	8e< 8c< 8G<	.	.
+(<4FF#X\	8rc<	.	.
+.	8d< 8c< 8A<	.	.
+=139	=139	=139	=139
+4GG\)	8rc<	.	.
+.	8d< 8B-X< 8G<	.	.
+!	!	!	!LO:HP:b=2
+4D	8rc<	.	>
+.	8d< 8A< 8F#X<	.	.
+4C\	8rc<	.	]
+.	8d< 8A< 8F#<	.	.
+!!LO:LB:g=original
+=140	=140	=140	=140
+!	!	!	!LO:HP:b=2
+2BB-X\	8rc<	.	>
+.	8d<L 8G< 8D<	.	.
+.	8d< 8G< 8D<	.	.
+.	8d<J 8G< 8D<	.	.
+4AA\	8rc<	.	.
+.	8d< 8c< 8F#X<	.	]
+=141	=141	=141	=141
+2GG\	8rc<	.	.
+.	8d<L 8B-X< 8G<	.	.
+.	8d< 8B-< 8G<	.	.
+.	8d<J 8B-< 8G<	.	.
+.	.	.	.
+4FF\	8rc<	.	.
+.	8d-X< 8B-< 8G<	.	.
+=142	=142	=142	=142
+2.EE\	8rc<	.	.
+.	8c< 8B-X< 8G<	.	.
+.	8c</L 8B-</ 8G</	.	.
+.	16cc/L 16c/	.	<
+.	16cc/J 16c/	.	.
+.	8cc/ 8c/	.	.
+.	8cc/J 8c/	.	[
+=143	=143	=143	=143
+8FF\L	(>16A<LL	.	.
+!	!LO:TX:t=legatiss. e leggier.:dur=2q3s:ext=s:problem:text with extention lines	!	!
+.	16c	.	.
+16CL	16cc	.	.
+16CJ	16fJJ	.	.
+(>8A	16aLL	.	<
+.	16cc	.	.
+8C	16ccc	.	.
+.	16ffJJ	.	.
+*	*8va	*	*
+8A	16aaLL	.	.
+.	16ccc	.	.
+8CJ)	16cccc	.	.
+.	16fffJJ	.	.
+=144	=144	=144	=144
+8CC\L	16eeeLL	.	.
+.	16cccc	.	.
+16CL	16ggg	.	[>
+16CJ	16cccJJ	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+(>8B-X	16eeLL	.	.
+.	16ccc	.	.
+8C	16gg	.	.
+.	16ccJJ	.	.
+8B-	16eLL	.	.
+.	16cc	.	.
+8CJ)	16g	.	.
+*	*	*	*
+.	16cJJ)	.	]
+!!LO:LB:g=original
+=145	=145	=145	=145
+8FF\L	(>16ALL	.	<
+.	16c	.	.
+(>16CL	16cc	.	.
+16CJ	16fJJ	.	.
+8A	16aLL	.	.
+.	16cc	.	.
+8C	16ccc	.	.
+.	16ffJJ	.	.
+*	*8va	*	*
+8A	16aaLL	.	.
+.	16ccc	.	.
+8CJ)	16cccc	.	.
+.	16fffJJ	.	[
+=146	=146	=146	=146
+8CC\L	16eeeLL	.	>
+.	16cccc	.	.
+(>16CL	16ggg	.	.
+16CJ	16cccJJ	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+8B-X	16eeLL	.	.
+.	16ccc	.	.
+8C	16gg	.	.
+.	16ccJJ	.	]
+8B-	16e/LL	.	<
+.	16cc	.	.
+8CJ)	16g	.	.
+.	16ccJJ)	.	.
+.	.	.	[
+=147	=147	=147	=147
+8FF`L	2ffT	.	.
+(>8F	.	.	.
+8e-X	.	.	.
+8FJ	.	.	.
+.	.	.	.
+.	(<16qqee/LL	.	>
+.	16qqff/JJ)	.	.
+8BB-yL	(>16dddLL	.	.
+.	16bb-X	.	.
+8dJ 8F)	16fff	.	.
+.	16ffJJ)	.	]
+=148	=148	=148	=148
+8EEn`>L	2eet	.	.
+(>8E	.	.	.
+8d 8Bn	.	.	.
+8EJ	.	.	.
+.	(<16qqdd#X/LL	.	>
+.	16qqee/JJ)	.	.
+8cL 8A	(>16cccLL	.	.
+.	16aa	.	.
+8eJ) 8E	16eee	.	.
+.	16eeJJ)	.	]
+!!LO:LB:g=original
+=149	=149	=149	=149
+8dL 8B	(>16bbLL	.	.
+.	16gg#X	.	.
+!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+8eJ 8E	16eee^<	.	.
+.	16eeJJ)	.	.
+8cL 8A	(>16cccLL	.	.
+.	16aa	.	.
+!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+8eJ 8E	16eee^<	.	.
+.	16aaJJ)	.	.
+8cL 8A	(>16cccLL	.	.
+.	16aa	.	.
+!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+8eJ 8E	16eee^<	.	.
+.	16eeJJ)	.	.
+=150	=150	=150	=150
+*^	*	*	*
+4rgyy	8dL 8B	16bbLL	.	.
+.	.	16gg#X	.	.
+.	8eJ 8E	16eee	.	.
+!	!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+.	.	16eeJJ^<	.	.
+4rfyy	8cL 8A	16cccLL	.	.
+.	.	16aa	.	.
+.	8eJ 8E	16eee	.	.
+!	!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+.	.	16eeJJ^<	.	.
+4F	8FL	(>16bbLL	.	<
+.	.	16aa	.	.
+.	[>8BJ 8A	16ddd#X	.	.
+.	.	16dd#XJJ)	.	[
+*v	*v	*	*	*
+=151	=151	=151	=151
+!	!	!	!LO:DY:rj
+8BL] 8G#X 8E	8eee`> 8ee	.	fz
+!	!	!	!LO:DY:rj
+!	!LO:TX:a:t=Brillante.	!	!
+8BJ 8BB	(>24bLL	.	p<
+.	24cc#X	.	.
+.	24dd#XJJ	.	.
+8G#L 8E	24eeLL	.	.
+.	24ff#X	.	.
+.	24gg#XJJ	.	.
+8BJ 8BB	24aaLL	.	.
+.	24aa#X	.	.
+.	24bbJJ	.	.
+*	*8va	*	*
+8AL 8F#X	24ccc#XLL	.	.
+.	24ddd#	.	.
+.	24eeeJJ	.	.
+8BJ 8BB	24fff#LL	.	.
+.	24ggg#	.	.
+.	24aaanyJJ)	.	.
+.	.	.	[
+!!LO:PB:g=original
+=152	=152	=152	=152
+8EE`L	8bbb`	.	.
+.	.	.	>
+8B 8BB	(>24ggg#XLL	.	.
+.	24fff#X	.	.
+.	24eeeJJ	.	.
+8G#X 8E	24ddd#XLL	.	.
+.	24ccc#X	.	.
+.	24bbJJ	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+8B 8BB	24aaLL	.	.
+.	24gg#	.	.
+.	24ff#JJ	.	.
+8A 8F#X	24eeLL	.	.
+.	24dd#X	.	.
+.	24cc#XJJ	.	.
+8BJ 8BB	24b\LL	.	.
+.	24a#X	.	.
+.	24anJJ)	.	]
+=153	=153	=153	=153
+8EE`>\L	(>\24g#XLL	.	.
+.	24a	.	.
+.	24a#XJJ	.	.
+(>16BB	24bLL	.	<
+.	24cc#X	.	.
+16BB	.	.	.
+.	24dd#XJJ	.	.
+8G#XJ 8E	24eeLL	.	.
+.	24ff#X	.	.
+.	24gg#XJJ	.	.
+8BL 8BB	24aaLL	.	.
+.	24aa#X	.	.
+.	24bbJJ	.	.
+*	*8va	*	*
+8B 8A 8F#X	24ccc#XLL	.	.
+.	24ddd#X	.	.
+.	24eeeJJ	.	.
+8BJ) 8A 8BB	24fff#XLL	.	.
+.	24ggg#X	.	.
+.	24aaanyJJ	.	.
+.	.	.	[
+=154	=154	=154	=154
+8BL 8G#X 8E	24bbbLL	.	>
+.	24bbb	.	.
+.	24bbbJJ	.	.
+16BL 16BB	24ggg#XLL	.	.
+.	24fff#X	.	.
+16BJ 16BB	.	.	.
+.	24eeeJJ	.	.
+8B 8G# 8E	24ddd#XLL	.	.
+.	24ccc	.	.
+.	24bbJJ	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+8B 8G# 8BB	24aaLL	.	.
+.	24gg#	.	.
+.	24ff#JJ	.	.
+8B 8A 8F#X	24eeLL	.	.
+.	24dd#	.	.
+.	24ccJJ	.	.
+8BJ 8A 8BB	24b\LL	.	.
+.	24a	.	.
+.	24f#yJJ)	.	]
+!!LO:LB:g=original
+=155	=155	=155	=155
+*	*Xtuplet	*	*
+8B` 8G#y 8E	8e`>	.	.
+!	!LO:TX:a:t=legatiss.	!	!
+8cc>L 8a>	(>24ffLL	.	.
+.	24gg	.	>
+.	24ffJJ	.	.
+8b> 8g#X>	24eeLL	.	.
+.	24ff	.	.
+.	24eeJJ	.	.
+8b-X> 8gn>	24ee-XLL	.	.
+.	24ff-X	.	.
+.	24ee-JJ	.	.
+8a> 8f#X>	24ddLL	.	.
+.	24ee-	.	.
+.	24ddJJ	.	.
+8a-X>J 8fn>	24dd-XLL	.	.
+.	24ee--	.	.
+.	24dd-JJ	.	.
+=156	=156	=156	=156
+!LO:TX:t=P:mixed beam:problem	!	!	!
+8g>\L 8e>\	24cc/LL	.	.
+.	24dd-X	.	.
+.	24ccJJ	.	.
+8g-X>\ 8e-X>\	24cc-X/LL	.	.
+.	24dd--	.	.
+.	24cc-JJ	.	.
+8f>\ 8B>\	24b-X/LL	.	.
+.	24cc-	.	.
+.	24b-JJ	.	.
+8e->\ 8c>\	24aLL	.	.
+.	24b-	.	.
+.	24aJJ	.	.
+8d#X>\ 8c>\	24g#XLL	.	.
+.	24a	.	]
+.	24bnJJ	.	.
+8c-y/J 8A/	24aLL	.	.
+.	24gn	.	.
+.	24fJJ)	.	.
+!!LO:LB:g=original
+=157	=157	=157	=157
+8B` 8G#X	8e`>	.	.
+*	*8va	*	*
+8cc>L 8a>	(>24fff/LL	.	.
+.	24ggg	.	>
+.	24fffJJ	.	.
+8b> 8g#X>	24eee/LL	.	.
+.	24fff	.	.
+.	24eeeJJ	.	.
+8b-X> 8gn>	24eee-X/LL	.	.
+.	24fff-X	.	.
+.	24eee-JJ	.	.
+8a> 8f#X>	24ddd/LL	.	.
+.	24eee-	.	.
+.	24dddJJ	.	.
+8a-X>J 8fn>	24ddd-X/LL	.	]
+.	24eee--	.	.
+.	24ddd-JJ	.	.
+=158	=158	=158	=158
+*^	*	*	*
+8rccyy	8g>\L 8e>\	24ccc/LL	.	>
+.	.	24ddd-X	.	.
+.	.	24cccJJ	.	.
+8rbyy	8g-X>\ 8e-X>\	24ccc-X/LL	.	.
+.	.	24ddd--	.	.
+.	.	24ccc-JJ	.	.
+8rbyy	8f>\J 8d>\	24bb-X/LL	.	.
+.	.	24cccn	.	.
+.	.	24bb-JJ	.	.
+!	!LO:TX:t=P:mixed beam:problem	!	!	!
+8rayy	8e->\L 8c>\	24gg#XLL	.	.
+.	.	24aa	.	.
+.	.	24cccJJ	.	.
+4d#X>	8c>\	24aaa/LL	.	.
+.	.	24ddd#X	.	.
+.	.	24cccJJ	.	.
+.	8F/J	24bbn/LL	.	]
+.	.	24ccc	.	.
+.	.	24aaJJ)	.	.
+*clefG2	*	*	*	*
+*v	*v	*	*	*
+!!LO:LB:g=original
+=159	=159	=159	=159
+8ee` 8e	8eee` 8gg#X	.	.
+*8va	*	*	*
+!	!	!	!LO:DY:b=2
+8ddddL	24ggg#XLL	.	p
+.	24ffff	.	.
+.	24bbbJJ	.	.
+8cccc#X	24ggg#LL	.	.
+.	24eeee	.	.
+.	24bbb-XJJ	.	.
+8ccccn	24fff#XLL	.	.
+.	24eeee-X	.	.
+.	24aaaJJ	.	.
+!LO:TX:t=poco-a-poco-di.-mi-nu-en-do:dur=10q:ext=ud:problem:text with extention lines	!	!	!
+8bbb	24fffnLL	.	.
+.	24dddd	.	.
+.	24aaa-XJJ	.	.
+8aaa#XJ	24eeeLL	.	.
+.	24cccc#X	.	.
+.	24ggg#JJ	.	.
+=160	=160	=160	=160
+8bbbL	24fffLL	.	.
+.	24dddd	.	.
+.	24ggg#XJJ	.	.
+8cccc	24fff#XLL	.	.
+.	24eeee-X	.	.
+.	24aaaJJ	.	.
+8bbb	24fffnLL	.	.
+.	24dddd	.	.
+.	24aaa-XJJ	.	.
+8bbb-X	24eeeLL	.	.
+.	24cccc#X	.	.
+.	24ggg#JJ	.	.
+8aaa	24ddd#XLL	.	.
+.	24cccc#	.	.
+.	24fff#XJJ	.	.
+8ggg#XJ	24dddnLL	.	.
+.	24bbb	.	.
+.	24fffnJJ	.	.
+!!LO:LB:g=original
+=161	=161	=161	=161
+8aaaL	24ddd#XLL	.	.
+.	24cccc	.	.
+.	24fff#XJJ	.	.
+8bbb-X	24eeeLL	.	.
+.	24cccc#X	.	.
+.	24gggJJ	.	.
+8aaa	24eee-XLL	.	.
+.	24cccc#	.	.
+.	24fff#JJ	.	.
+8aaa-X	24ddd#LL	.	.
+.	24bbb	.	.
+.	24fffnJJ	.	.
+8ggg	24ccc#XLL	.	.
+.	24bbb-X	.	.
+.	24eee-JJ	.	.
+8ffd#XJ	24cccnLL	.	.
+.	24aaa	.	.
+.	24eee-XJJ	.	.
+=162	=162	=162	=162
+8fffn^L	24bbLL	.	.
+.	24aaa	.	.
+.	24dddJJ	.	.
+8eee	24bbLL	.	.
+.	24ggg#X	.	.
+.	24dddJJ	.	.
+8fff^	24bbLL	.	.
+.	24ggg#	.	.
+.	24dddJJ	.	.
+8eee	24bbLL	.	.
+.	24ggg#	.	.
+.	24dddJJ	.	.
+8fff^	24bbLL	.	.
+.	24ggg#	.	.
+.	24dddJJ	.	.
+8eeeJ	24bbLL	.	.
+.	24ggg#	.	.
+.	24dddJJ	.	.
+=163	=163	=163	=163
+8gg#X`<	8bbb`>	.	.
+*X8va	*X8va	*	*
+!LO:TX:a:t=loco	!LO:TX:a:t=loco	!	!
+8r	8r	.	.
+4r	4r	.	.
+4r	4r	.	.
+=164	=164	=164	=164
+!LO:TX:a:t=1	!LO:TX:a:t=1	!	!
+2.rdd	2.rdd	.	.
+*clefF4	*	*	*
+!!LO:PB:g=original
+=165	=165	=165	=165
+*ped	*8va	*	*
+!	!LO:TX:t=con forza.	!	!
+4GG 4GGG	(>24ffffLL 24dddd	.	fff
+.	24cccc	.	.
+.	24ddddJJ 24bbb	.	.
+.	24aaaLL	.	.
+.	24bbb 24ggg	.	.
+.	24fffJJ	.	.
+*Xped	*	*	*
+4g 4f 4d 4G	24gggLL 24eee	.	.
+.	24ddd	.	.
+.	24eeeJJ 24ccc	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+.	24bbLL	.	.
+.	24ccc 24aa	.	.
+.	24ggJJ	.	.
+4r	24aaLL 24ff	.	.
+.	24ee	.	.
+.	24ffJJ 24dd	.	.
+.	24ccLL	.	.
+.	24dd 24b	.	.
+.	24aJJ	.	.
+=166	=166	=166	=166
+2.rBB	24bLL 24g	.	.
+.	24f	.	.
+.	24gJJ 24e	.	.
+.	24dLL	.	.
+.	24e 24c	.	.
+.	24BJJ	.	.
+*	*	*	*
+.	24c<LL 24A<	.	.
+.	24G<	.	.
+.	24A<JJ 24F<	.	.
+.	24E<LL	.	.
+.	24F< 24D<	.	.
+.	24C<JJ	.	.
+.	24D<LL 24BB<	.	.
+.	24AA<	.	.
+.	24BB<JJ 24GG<	.	.
+.	24FF<LL	.	.
+.	24GG< 24EE<	.	.
+.	24DD<JJ)	.	.
+!!LO:LB:g=original
+=167	=167	=167	=167
+8CC\L	8r	.	pp
+16CL	(>16e'>LL 16c< 16A<	.	.
+16CJJ	16e'>JJ 16c< 16A<	.	.
+8C\L	8e'>L 8c< 8A<	.	.
+8C	8e'> 8c< 8A<	.	.
+8C	8e'> 8c< 8A<	.	.
+8CJ	8d#X<'>J 8c< 8A<)	.	.
+=168	=168	=168	=168
+8C\L 8CC\	8eL 8c< 8G<	.	.
+16CL	16eL 16c< 16G<	.	.
+16CJJ	16eJJ 16c< 16G<	.	.
+8C\L	8eL 8c< 8G<	.	.
+8C	8e 8c< 8G<	.	.
+8CJ	8e 8c< 8G<	.	.
+(>16EE\LL	8eJ 8c< 8G<	.	.
+16FFJJ	.	.	.
+=169	=169	=169	=169
+8GG\L)	8fL 8B< 8G<	.	.
+(>16GGL	16fL 16B< 16G<	.	.
+16AAJJ)	16fJJ 16c< 16G<	.	.
+8BB'<\L	8fL 8d 8G<	.	.
+8GG'<	8f 8B< 8G<	.	.
+8C'<	8e 8c 8G<	.	.
+8CC'<J	8eJ 8c 8G<	.	.
+=170	=170	=170	=170
+8GG\L	8d<L 8B< 8G<	.	.
+16GGL	16gL 16A#X< 16G<	.	<
+16GGJJ	16gJJ 16A#< 16G<	.	.
+8GG\L	8gL 8B< 8G<	.	.
+8GG	8g 8A#< 8G<	.	[>
+8GG	8g 8B< 8G<	.	.
+8GGJ	8fJ 8d 8G<	.	]
+!	!	!	!LO:DY:b=2
+.	.	.	fz
+=171	=171	=171	=171
+!	!	!	!LO:DY:rj:b=2
+8C\L 8CC\	8eL 8c 8G<	.	p
+16CL	16eL 16c 16G<	.	.
+16CJJ	16eJJ 16c 16G<	.	.
+8C\L	8eL 8c 8G<	.	.
+8C	8e 8c 8G<	.	.
+8C	8e 8c 8G<	.	.
+8CJ	8d#X<J 8c< 8A<	.	.
+!!LO:LB:g=original
+=172	=172	=172	=172
+*	*	*	*^
+8C\L	8eL 8c< 8G<	.	.	.
+16CL	16eL 16c< 16G<	.	.	.
+16CJJ	16eJJ 16c< 16G<	.	.	.
+8C\L	(>8eL'> 8c< 8G<	.	.	.
+!	!LO:TX:t=P:crescendo on the lower staff:problem	!	!LO:HP:b=2	!
+8BB	8e'> 8d 8G#X<	.	<	<
+8AA	8e'> 8c 8A<	.	.	.
+8GGnyJ	8e'>J 8c#X 8B-X<)	.	[	.
+.	.	.	.	[
+*	*	*	*v	*v
+=173	=173	=173	=173
+8FF\	8d< 8A<	.	.
+4FF\	4d<^> 4A<	.	.
+8FF\L	16fLL 16d 16A<	.	.
+.	16fJJ 16d 16A<	.	.
+8FF	8fL 8d 8A<	.	.
+8FFJ	8fJ 8d 8A<	.	.
+=174	=174	=174	=174
+8GG\	8fL 8d 8B	.	.
+.	.	.	.
+4GG\	16fL 16d 16B	.	.
+.	16fJJ 16d 16B	.	.
+.	8fL 8d 8B	.	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+!	!LO:S:s=2:note:problem:note-level slur	!	!
+8GG\L	(>8fJ (>8B< [8G<	.	>
+!	!LO:S:s=1:note:problem:note-level slur	!	!
+!	!LO:S:s=2:note:problem:note-level slur	!	!
+8CJ 8CC	8e) 8c<) 8G<]	.	]
+8r	(>16eeLL	.	.
+*ped	*	*	*
+.	16ffJJ)	.	.
+=175	=175	=175	=175
+!	!	!	!LO:DY:rj:b=2
+8CL 8CC	4.gg	.	f
+16eL 16G	.	.	.
+16eJJ 16G	.	.	.
+8cL 8E	.	.	.
+8eJ 8G	(>16eeLL	.	.
+.	16ffJJ	.	.
+8cL 8E	16ggLL	.	.
+.	16aa)	.	.
+8eJ 8G	16ggM>	.	.
+.	32rb	.	.
+*Xped	*	*	*
+.	32ff#XJJk	.	.
+!!LO:LB:g=original
+=176	=176	=176	=176
+*ped	*	*	*
+8CL 8CC	8ggL	.	.
+16eL 16G	(>16ccL	.	.
+16eJJ 16G	16ddJJ)	.	.
+!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+8cL 8E	(>4.ee^<	.	.
+8eJ 8G	.	.	.
+8cL 8E	.	.	.
+8eJ 8G	16ffLL	.	.
+*Xped	*	*	*
+.	16eeJJ)	.	.
+=177	=177	=177	=177
+*ped	*	*	*
+8GGL	8dd`	.	.
+16GL	4g^^	.	.
+16GJJ	.	.	.
+8fL 8B	.	.	.
+8GJ	(>16aLL	.	<
+*Xped	*	*	*
+.	16bJJ	.	.
+8eL 8c	16ccLL	.	.
+.	16dd	.	.
+[8GJ	16ee	.	.
+.	16ffJJ)	.	[
+=178	=178	=178	=178
+8dL 8B 8G]	16eeLL	.	.
+.	16dd	.	.
+16gL 16A#X 16G	16ddM	.	.
+16gJJ 16A# 16G	16cc#XJJ	.	.
+8gL 8B 8G	16eeLL	.	.
+.	16dd	.	.
+8g 8A# 8G	16ddM	.	.
+.	16cc#JJ	.	.
+.	.	.	.
+8g 8B 8G	(>16ddLL	.	<
+.	16ee	.	.
+8fJ 8d 8G	16ff	.	.
+*ped	*	*	*
+.	16ff#XJJ)	.	[
+=179	=179	=179	=179
+8CL 8CC	4.gg	.	.
+16eL 16G	.	.	.
+16eJJ 16G	.	.	.
+8cL 8E	.	.	.
+8eJ 8G	(>16eeLL	.	<
+.	.	.	.
+.	16ffJJ	.	.
+8cL 8E	16ggLL	.	.
+.	16aa)	.	.
+8eJ 8G	16ggM	.	.
+.	32rdd	.	.
+*Xped	*	*	*
+.	32ff#XJJk	.	[
+!!LO:LB:g=original
+=180	=180	=180	=180
+*ped	*tuplet	*	*
+!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!
+8CL	(>24ggLL	.	>
+.	24aa	.	.
+.	24gg	.	.
+16eL 16G	24cc	.	.
+.	24g	.	.
+16eJJ 16G	.	.	.
+.	24ddJJ)	.	]
+*Xped	*	*	*
+8cL 8E	(>4.ee	.	.
+8eJ 8G	.	.	.
+*ped	*	*	*
+8AA`L	.	.	.
+8eJ 8c 8A	16ffLL	.	.
+*Xped	*	*	*
+.	.	.	.
+.	16eeJJ	.	.
+=181	=181	=181	=181
+*ped	*	*	*
+8FF`<	16ddLL)	.	.
+.	32rb	.	.
+!	!	!	!LO:DY:rj
+.	(>32ak	.	f
+4d^< 4c 4A	16ccc)	.	.
+.	32ree	.	.
+.	(>32aaJJk	.	.
+*	*8va	*	*
+.	(>16ccccLL)	.	.
+.	16aaa	.	.
+8dL 8c 8A	16fff	.	.
+.	16dddJJ	.	.
+8a 8d	16cccLL	.	.
+.	16aa	.	.
+8dJ 8c 8A	16ff	.	.
+.	16ddJJ)	.	.
+*	*X8va	*	*
+=182	=182	=182	=182
+!	!LO:TX:a:t=loco.	!	!
+*ped	*	*	*
+8GG`>	16ee`>LL	.	.
+.	32rcc	.	.
+.	(>32cck	.	.
+4e 4c 4G^<	16ccc)	.	.
+.	32rcc	.	.
+.	(>32bb-XJJk	.	.
+*	*8va	*	*
+.	(>16ccccLL)	.	.
+.	16bbb-	.	.
+8eL 8c 8G	16ggg	.	.
+.	16eeeJJ	.	.
+8b-X 8e 8c	16cccLL	.	.
+.	16bb	.	.
+8eJ 8c 8G	16gg	.	.
+.	16eeJJ)	.	.
+*	*X8va	*	*
+!!LO:LB:g=original
+=183	=183	=183	=183
+!	!LO:TX:a:t=loco.	!	!
+*ped	*	*	*
+8AA`<	16ffLL	.	.
+.	32rdd	.	.
+.	(>32cck	.	.
+4f 4c 4F^<	16ccc)	.	.
+.	(>16ffJJ	.	.
+!	!LO:TX:t=cres-cen-do:dur=3qe:ext=ud:problem:text with extention lines	!	!
+.	16fffLL)	.	.
+*	*8va	*	*
+.	(>16aa	.	.
+8fL 8c 8F	16aaa)	.	.
+.	(>16bbnJJ	.	.
+8f 8c 8F	16bbbLL)	.	.
+.	(>16ccc	.	.
+8fJ 8c 8F	16cccc)	.	.
+*Xped	*	*	*
+.	.	.	.
+.	(>16dddJJ	.	.
+=184	=184	=184	=184
+*ped	*	*	*
+8AA-X`<	16ddddLL)	.	.
+.	(>16eee-X	.	.
+4f#X^< 4c 4A-X 4E-X	16eeee-y)	.	.
+.	(>16bbnJJ	.	.
+.	16bbbLL)	.	.
+.	(>16ccc	.	.
+8f#L 8c 8A- 8E-	16cccc)	.	.
+.	(>16dddJJ	.	.
+8f# 8c 8A-	16ddddLL)	.	.
+.	(>16ddd#X	.	.
+8f#J 8c 8A-	16dddd#y)	.	.
+*Xped	*	*	*
+.	.	.	.
+.	(>16eeenJJ	.	.
+=185	=185	=185	=185
+*	*Xtuplet	*	*
+!	!	!	!LO:DY:rj
+4g 4e 4c 4G	24eeeeLL)	.	ff
+.	(>24eeee	.	.
+.	24aaaJJ)^<	.	.
+.	24ggg`LL	.	.
+.	(>24cccc 24ggg	.	.
+.	24fffJJ)^<	.	.
+4r	24eee`LL	.	.
+.	(>24ggg 24eee	.	.
+.	24dddJJ)^<	.	.
+.	24ccc`LL	.	.
+.	(>24eee 24ccc	.	.
+.	24aaJJ)^<	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+4r	24gg`LL	.	.
+.	(>24ccc 24gg	.	.
+.	24ffJJ^<	.	.
+.	24eeLL)	.	.
+!	!LO:TX:a:t=P:the slur has no ending:problem	!	!
+.	(>24gg 24ee	.	.
+.	24ddJJ^<	.	.
+!!LO:PB:g=original
+=186	=186	=186	=186
+4r	24cc/LL)	.	]
+.	(<24ee 24cc	.	.
+.	24aJJ	.	.
+.	24gLL)	.	.
+.	(<24cc 24g	.	.
+.	24fJJ	.	.
+4r	24eLL)	.	.
+.	(<24g 24e	.	.
+.	24dJJ	.	.
+.	24cLL)	.	.
+.	24e N(<24c	.	.
+.	24A<JJ	.	.
+8rBBN)	8G<`>	.	.
+8G\ 8GG\	8b 8g 8f 8d	.	fz
+=187	=187	=187	=187
+*ped	*	*	*
+8C 8CC	8cc 8g 8e 8c	.	fz
+!	!	!	!LO:DY:rj
+8cL`>	(>24eLL	.	p<
+.	24f	.	.
+.	24f#XJJ	.	.
+8G`>	24gLL	.	.
+.	24a	.	.
+.	24bJJ	.	.
+8e 8c`>	24ccLL	.	.
+.	24dd	.	.
+.	24dd#XJJ	.	.
+8E`>	24eeLL	.	.
+.	24ffn	.	.
+.	24ff#XJJ	.	.
+8eJ 8c`>	24ggLL	.	.
+*Xped	*	*	*
+.	24aa	.	.
+.	24bbJJ)	.	[[
+=188	=188	=188	=188
+*ped	*	*	*
+8C`L	8ccc	.	.
+8eJ 8c	24eeLL	.	.
+.	24ff	.	.
+.	24ff#XJJ	.	.
+8G`L	24ggLL	.	.
+.	24aa	.	.
+.	24bbJJ	.	.
+*	*8va	*	*
+8eJ 8c	24cccLL	.	.
+.	24ddd	.	.
+.	24ddd#XJJ	.	.
+8C`L	24eeeLL	.	.
+.	24fffn	.	.
+.	24fff#XJJ	.	.
+8eJ 8c	24gggLL	.	.
+*Xped	*	*	*
+.	24aaa	.	.
+.	24gggJJ	.	.
+!!LO:LB:g=original
+=189	=189	=189	=189
+*^	*	*	*
+*ped	*	*	*	*
+8GG\L`>	4reyy	8fff	.	.
+8f\J 8d\	.	(>24ffffLL	.	.
+.	.	24dddd	.	.
+.	.	24bbbJJ	.	.
+4G	8GL	24gggLL	.	.
+.	.	24fff	.	.
+.	.	24dddJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+.	8fJ 8d	24bbLL	.	.
+.	.	24gg	.	.
+*Xped	*	*	*	*
+.	.	24ffJJ	.	.
+4c	8cL	24ddLL	.	.
+.	.	24dd#X	.	.
+.	.	24eeJJ	.	.
+.	8fJ 8d	24ffLL	.	.
+.	.	24gg	.	.
+.	.	24ffJJ)	.	.
+*ped	*	*	*	*
+=190	=190	=190	=190	=190
+2c	8cL	8a-X`<	.	fz
+*	*	*8va	*	*
+.	8f 8d	(>24aaa-XLL	.	.
+.	.	24fff	.	.
+.	.	24dddJJ	.	.
+.	8f 8d	24ccc\LL	.	.
+.	.	24aa-	.	.
+.	.	24ffJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+.	8fJ 8d	24ddLL	.	.
+.	.	24cc	.	.
+*Xped	*	*	*	*
+.	.	24a-JJ	.	.
+!LO:TX:t=P:incorrect display:problem	!	!	!	!
+8B\L	8reyy	24g\LL	.	<
+.	.	24an	.	.
+.	.	24bJJ	.	.
+8fJ 8d	8ryy	24ccLL	.	.
+.	.	24dd	.	.
+.	.	24dd#XJJ)	.	.
+.	.	.	.	[
+*v	*v	*	*	*
+=191	=191	=191	=191
+*ped	*	*	*
+!	!	!	!LO:DY:rj
+8C`L	8ee`>	.	fz
+!	!	!	!LO:DY:rj
+*	*8va	*	*
+8cJ	(>24eeLL	.	p
+.	24ff	.	.
+.	.	.	<
+.	24ff#XJJ	.	.
+8G`L	24ggLL	.	.
+.	24aa	.	.
+.	24bbJJ	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+8eJ 8c	24ccLL	.	.
+*Xped	*	*	*
+.	24dd	.	.
+.	24dd#XJJ	.	.
+8E`L	24eeLL	.	.
+.	24ffn	.	.
+.	24ff#XJJ	.	.
+8eJ 8c	24ggLL	.	.
+.	24aa	.	.
+.	24bbJJ)	.	.
+.	.	.	[
+!!LO:LB:g=original
+=192	=192	=192	=192
+*ped	*Xtuplet	*	*
+8C`L	8ccc	.	.
+8eJ 8c	(>24eeLL	.	.
+.	24ff	.	.
+.	24ff#XJJ	.	.
+8G`L	24ggLL	.	.
+.	24aa	.	.
+.	24bbJJ	.	.
+*	*8va	*	*
+8eJ 8c	24cccLL	.	.
+.	24ddd	.	.
+*Xped	*	*	*
+.	24ddd#XJJ	.	.
+8C`L	24eeeLL	.	.
+.	24fffn	.	.
+.	24fff#XJJ	.	.
+8eJ 8c	24gggLL	.	.
+.	24aaa	.	.
+.	24gggJJ)	.	.
+*ped	*	*	*
+=193	=193	=193	=193
+*^	*	*	*
+8GG\`>L	4reyy	8fff	.	.
+8f\J 8d\	.	(>24ffffLL	.	.
+.	.	24dddd	.	.
+.	.	24bbbJJ	.	.
+4G	8GL	24gggLL	.	.
+.	.	24fff	.	.
+.	.	24dddJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+.	8fJ 8d	24bbLL	.	.
+.	.	24gg	.	.
+*Xped	*	*	*	*
+.	.	24ffJJ	.	.
+4c	8cL	24ddLL	.	.
+.	.	24dd#X	.	.
+.	.	24eeJJ	.	.
+.	8fJ 8d	24ffLL	.	.
+.	.	24gg	.	.
+.	.	24ffJJ)	.	.
+=194	=194	=194	=194	=194
+*ped	*	*	*	*
+!	!	!	!	!LO:DY:rj
+2c	8c\L	8a-X`<	.	fz
+*	*	*8va	*	*
+.	8f 8d	(>24aaa-XLL	.	.
+.	.	24fff	.	.
+.	.	24dddJJ	.	.
+.	8f 8d	24ccc\LL	.	.
+.	.	24aa-	.	.
+.	.	24ffJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+.	8fJ 8d	24ddLL	.	.
+.	.	24cc	.	.
+*Xped	*	*	*	*
+.	.	24a-JJ	.	.
+!	!	!LO:TX:t=P:incorrect display:problem	!	!
+8B\L	4rfyy	24g\LL	.	.
+.	.	24an	.	.
+.	.	24bJJ	.	.
+8fJ 8d	.	24ccLL	.	.
+.	.	24dd	.	.
+.	.	24dd#XJJ)	.	.
+.	.	.	.	.
+*v	*v	*	*	*
+!!LO:LB:g=original
+=195	=195	=195	=195
+8eL 8c	8ee	.	.
+8gJ 8G	(>24eeLL	.	.
+.	24ccc	.	.
+.	24eeJJ	.	.
+8fL 8d	24ddLL	.	.
+.	24bb	.	.
+.	24ddJJ	.	.
+8gJ 8G	24ccLL	.	.
+.	24aa	.	.
+.	24ccJJ	.	.
+8fL 8d	24bLL	.	.
+.	24gg	.	.
+.	24bJJ	.	.
+8gJ 8G	24ddLL	.	.
+.	24ff	.	.
+.	24ddJJ)	.	.
+=196	=196	=196	=196
+8eL 8c	(>24ccLL	.	.
+.	24ee	.	.
+.	24ccJJ	.	.
+8gJ^> 8G	24cccLL 24ee	.	.
+.	24gg	.	.
+.	24eeJJ	.	.
+8gL^> 8f 8d	24bbLL 24dd	.	.
+.	24ff	.	.
+.	24ddJJ	.	.
+8g^J 8G	24aaLL 24cc	.	.
+.	24ee	.	.
+.	24ccJJ	.	.
+8g^L 8f 8d	24ggLL 24b	.	.
+.	24dd	.	.
+.	24bJJ	.	.
+8gJ 8G	24ddLL	.	.
+.	24ff	.	.
+.	24ddJJ)	.	.
+=197	=197	=197	=197
+8e	(>24ccLL	.	.
+.	24ee	.	.
+.	24ccJJ	.	.
+*clefG2	*	*	*
+(<8g^>L 8e 8A	24cc#XLL	.	.
+.	24ee	.	.
+.	24cc#JJ	.	.
+8f 8d)	24ddLL	.	.
+.	24ff	.	.
+!	!LO:TX:t=cres.-cen-do.:dur=4q:ext=ud:problem:text with extention lines	!	!
+.	24ddJJ	.	.
+(<8b-X^> 8g 8c	24eeLL	.	.
+.	24gg	.	.
+.	24eeJJ	.	.
+8a 8f)	24ffLL	.	.
+.	24aa	.	.
+.	24ffJJ	.	.
+(<8b-J 8g 8c	24eeLL	.	.
+.	24gg	.	.
+.	24eeJJ	.	.
+!!LO:LB:g=original
+=198	=198	=198	=198
+8aL 8f)	24ffLL	.	.
+.	24aa	.	.
+.	24ffJJ	.	.
+(<8cc^>J 8a 8d	24ff#XLL	.	.
+.	24aa	.	.
+.	24ff#JJ	.	.
+8bL 8g)	24ggLL	.	.
+.	24bb	.	.
+.	24ggJJ	.	.
+(<8dd^>J 8b 8e	24gg#XLL	.	.
+.	24bb	.	.
+.	24gg#JJ	.	.
+8cc/L 8a/)	24aaLL	.	.
+.	24ccc	.	.
+.	24aaJJ	.	.
+!LO:S:s=1:note:problem:note-level slur	!	!	!
+(>8ff^>J 8dd (<8gn	24bbLL	.	.
+.	24ddd	.	.
+.	24bbJJ)	.	.
+=199	=199	=199	=199
+8ee-XL) 8cc 8a-X)	8eee-X 8ccc	.	fz
+!	!	!	!LO:DY:rj
+*	*8va	*	*
+(>8ee- 8e-y	24ccc`>LL	.	p
+!	!LO:TX:t=délicatiss.	!	!
+.	24eee-X	.	.
+.	24eee-JJ	.	.
+8ee- 8cc 8a-	24bb-X`>LL	.	.
+.	24eee-	.	.
+.	24eee-JJ	.	.
+8ee- 8e-	24aa-X`>LL	.	.
+.	24eee-	.	.
+.	24eee-JJ	.	.
+8ee- 8dd-X 8b-X	24gg`>LL	.	.
+.	24eee-	.	.
+.	24eee-JJ	.	.
+8ee-J 8e-)	24ddd-X`LL	.	.
+.	24eee-	.	.
+.	24eee-JJ	.	.
+=200	=200	=200	=200
+8ee-XL 8cc 8a-X	24ccc`>LL	.	.
+.	24eee-X	.	.
+.	24eee-JJ	.	.
+8ee- 8e-y	24ccc`>LL	.	.
+.	24eee-	.	.
+.	24eee-JJ	.	.
+8ee- 8cc 8a-	24bb`>LL	.	.
+.	24eee-	.	.
+.	24eee-JJ	.	.
+8ee- 8e-	24aa-X`>LL	.	.
+.	24eee-	.	.
+.	24eee-JJ	.	.
+8ee- 8dd-X 8b	24gg`>LL	.	.
+.	24eee-	.	.
+.	24eee-JJ	.	.
+8ee-J 8e-	24ddd-X`>LL	.	.
+.	24eee-	.	.
+.	24eee-JJ	.	.
+!!LO:LB:g=original
+=201	=201	=201	=201
+!	!LO:TX:t=poco-a-poco-cres-cen-do.:dur=5qe:ext=ud:problem:text with extention lines	!	!
+8ee-XL 8cc 8a-X	24ccc`>LL	.	.
+.	24eee-X	.	.
+.	24eee-JJ	.	.
+8een 8cc 8a-	24ccc`>LL	.	.
+.	24eeen	.	.
+.	24eeeJJ	.	.
+8ff 8cc 8a-	24ccc`>LL	.	.
+.	24fff	.	.
+.	24fffJJ	.	.
+8ee 8cc 8a-	24ccc`>LL	.	.
+.	24eee	.	.
+.	24eeeJJ	.	.
+8ff 8cc 8a-	24ccc`>LL	.	.
+.	24fff	.	.
+.	24fffJJ	.	.
+8ee-XJ 8cc 8a-	24ccc`>LL	.	.
+.	24fff#X	.	.
+.	24fff#JJ	.	.
+=202	=202	=202	=202
+8ee-XL 8cc 8g	24ccc`>LL	.	.
+.	24ggg	.	.
+.	24gggJJ	.	.
+8ee- 8cc 8f#X	24ccc`>LL	.	.
+.	24aaa-X	.	.
+.	24aaa-JJ	.	.
+8ee- 8cc 8g	24ccc`>LL	.	.
+.	24ggg	.	.
+.	24gggJJ	.	.
+8ee- 8cc 8a-X	24ccc`>LL	.	.
+.	24fff#X	.	.
+.	24fff#JJ	.	.
+8ee- 8cc 8g	24ccc`>LL	.	.
+.	24ggg	.	.
+.	24gggJJ	.	.
+8ee-J 8cc 8f#	24ccc`>LL	.	.
+.	24aaan	.	.
+.	24aaaJJ	.	.
+=203	=203	=203	=203
+*ped	*	*	*
+8een 8cc 8g	8ggg`>	.	.
+8r	(>24ccccLL 24ggg	.	ff
+!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+.	24eeee^<	.	.
+.	24eeeJJ)	.	.
+4r	(>24gggLL 24eee	.	.
+!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+.	24cccc^<	.	.
+.	24cccJJ)	.	.
+.	(>24eeeLL 24ccc	.	.
+!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+.	24ggg^<	.	.
+.	24ggJJ)	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+4r	(>24cccLL 24gg	.	.
+!	!LO:TX:t=P:diminuendolike accent:problem	!	!
+.	24eee^<	.	.
+.	24eeJJ)	.	.
+.	(>24ggLL 24ee	.	.
+.	24ccc	.	.
+.	24ccJJ)	.	.
+*clefF4	*	*	*
+!!LO:PB:g=original
+=204	=204	=204	=204
+!	!	!	!LO:DY:b=2:rj
+(<2GG 2GGG	(>24eeLL 24cc	.	f
+.	24gg	.	.
+.	24gJJ)	.	.
+.	(>24cc\LL> 24g\	.	.
+.	24ee	.	.
+.	24eJJ)	.	.
+.	(<24gLL 24e	.	.
+.	24cc	.	.
+.	24cJJ)	.	.
+.	24eLL 24c	.	.
+.	24g	.	.
+.	24G<JJ	.	.
+4G\ 4GG\)	8r	.	fz
+*Xped	*	*	*
+!	!LO:S:s=1:note:problem:note-level slur	!	!LO:DY:rj
+.	(>8b 8g 8f 8d	.	fz
+=205	=205	=205	=205
+*ped	*	*	*
+8C 8CC	8cc) 8g 8e 8c	.	fz
+!	!	!	!LO:DY:rj
+8cL`>	(>24eLL	.	p<
+.	24f	.	.
+.	24f#XJJ	.	.
+8G`>	24gLL	.	.
+.	24a	.	.
+.	24bJJ	.	.
+8e 8c	24ccLL	.	.
+.	24dd	.	.
+.	24dd#XJJ	.	.
+8E`>	24eeLL	.	.
+.	24ff	.	.
+.	24ff#XJJ	.	.
+8eJ 8c	24ggLL	.	.
+*Xped	*	*	*
+.	24aa	.	.
+.	24bbJJ)	.	[[
+=206	=206	=206	=206
+*ped	*	*	*
+8C`L	8ccc	.	.
+.	.	.	<
+8eJ 8c	(>24eeLL	.	.
+.	24ff	.	.
+.	24ff#XJJ	.	.
+8G`L	24ggLL	.	.
+.	24aa	.	.
+.	24bbJJ	.	.
+*	*8va	*	*
+8eJ 8c	24cccLL	.	.
+.	24ddd	.	.
+.	24ddd#XJJ	.	.
+8C`L	24eeeLL	.	.
+.	24fffny	.	.
+.	24fff#XJJ	.	.
+8eJ 8c	24gggLL	.	.
+*Xped	*	*	*
+.	24aaa	.	.
+.	24gggJJ)	.	[
+!!LO:LB:g=original
+=207	=207	=207	=207
+*^	*	*	*
+*ped	*	*	*	*
+8GG/L`>	4ryy	8fff`>	.	.
+8f\J 8d\	.	(>24ffffLL	.	>
+.	.	24dddd	.	.
+.	.	24bbbJJ	.	.
+8G`L	4ryy	24gggLL	.	.
+.	.	24fff	.	.
+.	.	24dddJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+8fJ 8d	.	24bbLL	.	.
+.	.	24gg	.	.
+.	.	24ffJJ	.	.
+*Xped	*	*	*	*
+.	.	.	.	.
+4c	8cL	24ddLL	.	.
+.	.	.	.	]
+.	.	24dd#X	.	.
+.	.	24eeJJ	.	.
+.	8fJ 8d	24ffLL	.	.
+.	.	24gg	.	.
+.	.	24ffJJ)	.	.
+=208	=208	=208	=208	=208
+*ped	*	*	*	*
+2c	8cL	8a-X	.	fz
+*	*	*8va	*	*
+.	8f 8d	(>24aaa-yLL	.	>
+.	.	24fff	.	.
+.	.	24dddJJ	.	]
+.	8f 8d	24ccc\LL	.	.
+.	.	24aa-	.	.
+.	.	24ffJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+.	8fJ 8d	24ddLL	.	.
+*Xped	*	*	*	*
+.	.	24cc	.	.
+.	.	24a-JJ	.	.
+!LO:TX:t=P:incorrect display:problem	!	!	!	!
+8B\L	4rfyy	24g\LL	.	<
+.	.	24an	.	.
+.	.	24bJJ	.	.
+8fJ 8d	.	24ccLL	.	.
+.	.	24dd	.	.
+.	.	24dd#XJJ)	.	[[
+*v	*v	*	*	*
+=209	=209	=209	=209
+*ped	*	*	*
+8C`L	8ee	.	fz
+8cJ	(>24eLL	.	.
+.	24f	.	.
+.	.	.	.
+.	24f#XJJ	.	<
+8G`L	24gLL	.	.
+.	24a	.	.
+.	24bJJ	.	.
+8eJ 8c	24ccLL	.	.
+.	24dd	.	.
+.	24dd#XJJ	.	.
+8E`L	24eeLL	.	.
+.	24ffn	.	.
+.	24ff#XJJ	.	.
+8eJ 8c	24ggLL	.	.
+*Xped	*	*	*
+.	24aa	.	.
+.	24bbJJ)	.	[
+!!LO:LB:g=original
+=210	=210	=210	=210
+*ped	*	*	*
+8C`L	8ccc	.	.
+8eJ 8c	(>24eeLL	.	.
+.	24ff	.	<
+.	24ff#XJJ	.	.
+8G`L	24ggLL	.	.
+.	24aa	.	.
+.	24bbJJ	.	.
+*	*8va	*	*
+8eJ 8c	24cccLL	.	.
+.	24ddd	.	.
+*Xped	*	*	*
+.	24ddd#XJJ	.	.
+8C`L	24eeeLL	.	.
+.	24fffn	.	.
+.	24fff#XJJ	.	.
+8eJ 8c	24gggLL	.	.
+.	24aaa	.	.
+*ped	*	*	*
+.	24gggJJ)	.	.
+.	.	.	[
+=211	=211	=211	=211
+*^	*	*	*
+8GGL`>	4reyy	8fff`>	.	.
+.	.	.	.	>
+8fJ 8d	.	(>24ffffLL	.	.
+.	.	.	.	.
+.	.	24dddd	.	.
+.	.	24bbbJJ	.	.
+4G	8GL	24gggLL	.	.
+.	.	24fff	.	.
+.	.	24dddJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+.	8fJ 8d	24bbLL	.	.
+.	.	24gg	.	.
+.	.	24ffJJ	.	.
+*Xped	*	*	*	*
+4c	8cL	24ddLL	.	.
+.	.	.	.	]
+.	.	24dd#X	.	.
+.	.	24eeJJ	.	.
+.	8fJ 8d	24ffLL	.	.
+.	.	24gg	.	.
+.	.	24ffJJ)	.	.
+=212	=212	=212	=212	=212
+*ped	*	*	*	*
+2c	8cL	8a-X	.	fz
+*	*	*8va	*	*
+.	8f 8d	(>24aaa-XLL	.	.
+.	.	24fff	.	.
+.	.	24dddJJ	.	.
+.	8f 8d	24ccc\LL	.	.
+.	.	24aa-	.	.
+.	.	24ffJJ	.	.
+*	*	*X8va	*	*
+!	!	!LO:TX:a:t=loco.	!	!
+.	8fJ 8d	24ddLL	.	.
+.	.	24cc	.	.
+.	.	24a-JJ	.	.
+8B\L	4ryy	24g\LL	.	.
+.	.	24an	.	.
+.	.	24bJJ	.	.
+8fJ 8d	.	24ccLL	.	.
+*Xped	*	*	*	*
+.	.	24dd	.	.
+.	.	24dd#XJJ)	.	.
+*v	*v	*	*	*
+!!LO:LB:g=original
+=213	=213	=213	=213
+8eL 8c	8ee	.	fz
+8gJ 8G	(>24eeLL	.	p
+.	24ccc	.	.
+.	24eeJJ	.	.
+8fL 8d	24ddLL	.	.
+.	24bb	.	.
+.	24ddJJ	.	.
+8gJ 8G	24ccLL	.	.
+.	24aa	.	.
+.	24ccJJ	.	.
+8fL 8d	24bLL	.	.
+.	24gg	.	.
+.	24bJJ	.	.
+8gJ 8G	24ddLL	.	.
+.	24ff	.	.
+.	24ddJJ)	.	.
+=214	=214	=214	=214
+!	!LO:TX:t=cre-scen-do-poco-a-poco.:dur=7q:ext=ud:problem:text with extention lines	!	!
+8eL 8c	(>24ccLL	.	.
+.	24ee	.	.
+.	24ccJJ	.	.
+8gJ 8G	24cccLL 24ee	.	.
+.	24gg	.	.
+.	24eeJJ	.	.
+8gL 8f 8d	24bbLL 24dd	.	.
+.	24ff	.	.
+.	24ddJJ	.	.
+8gJ 8G	24aaLL 24cc	.	.
+.	24ee	.	.
+.	24ccJJ	.	.
+8gL 8f 8d	24ggLL 24b	.	.
+.	24dd	.	.
+.	24bJJ	.	.
+8gJ 8G	24ddLL	.	.
+.	24ff	.	.
+.	24ddJJ)	.	.
+*clefG2	*	*	*
+=215	=215	=215	=215
+8e 8c	(>24ccLL	.	.
+.	24ee	.	.
+.	24ccJJ	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!	!
+8g^<L 8e 8A	24aaLL 24cc#X	.	.
+.	24ee	.	.
+.	24cc#JJ	.	.
+8fJ 8d	24ddLL	.	.
+.	24ff	.	.
+.	24ddJJ	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!	!
+8b-X^<L 8g 8c	24cccnLL 24ee	.	.
+.	24gg	.	.
+.	24eeJJ	.	.
+8aJ 8f	24ffLL	.	.
+.	24aa	.	.
+.	24ffJJ	.	.
+8b-^< 8g 8c	24cccLL 24ee	.	.
+.	24gg	.	.
+.	24eeJJ)	.	.
+!!LO:LB:g=original
+=216	=216	=216	=216
+8a 8f	(>24ffLL	.	.
+.	24aa	.	.
+.	24ffJJ	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!	!
+8cc^<L 8a 8d	24dddLL 24ff#X	.	.
+.	24aa	.	.
+.	24ff#JJ	.	.
+8bJ 8g	24ggLL	.	.
+.	24bb	.	.
+.	24ggJJ	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!	!
+8dd^<L 8b 8e	24eeeLL 24gg#X	.	.
+.	24bb	.	.
+.	24gg#JJ	.	.
+8ccJ 8a	24aaLL	.	.
+.	24ccc	.	.
+.	24aaJJ	.	.
+8ff^</ 8dd/ 8gn/	24gggnLL 24bb	.	.
+.	24ddd	.	.
+.	24bbJJ)	.	.
+=217	=217	=217	=217
+*	*	*	*^
+!	!	!	!	!LO:DY:rj
+*	*8va	*	*	*
+!	!LO:TX:t=P:should be only one "fz":problem	!	!	!
+[4ee 4dd 4b 4g#X	(>24eeeLL	.	fz	.
+.	24fff	.	.	p
+.	24eee	.	.	.
+.	24ddd#X	.	.	.
+.	24eee	.	.	.
+.	24bbJJ)	.	.	.
+4ee] 4cc 4a	(>24cccLL	.	<	.
+.	24ddd#	.	.	.
+.	24ccc	.	.	.
+.	24bb	.	.	.
+.	24ccc	.	.	.
+.	24bbbJJ	.	[	.
+.	.	.	>	.
+!	!	!	!	!LO:DY:rj:b=2
+4dd#X\ 4cc\ 4a\ 4f#X\	24aaaLL	.	.	fz
+.	24fff#X	.	.	.
+.	24ddd#X	.	.	.
+.	24ccc	.	.	.
+.	24bb	.	.	.
+.	24aaJJ)	.	]	.
+*	*X8va	*	*	*
+!!LO:PB:g=original
+=218	=218	=218	=218	=218
+4ee 4cc 4g	(>24ggLL	.	.	.
+.	24aa	.	.	.
+.	24gg	.	.	.
+.	24ff#X	.	.	.
+.	24gg	.	.	.
+.	24aaJJ)	.	.	.
+.	.	.	<	.
+4r	(>24bbLL	.	.	.
+.	24ccc	.	.	.
+.	24bb	.	.	.
+.	24aa	.	.	.
+.	24bb	.	.	.
+.	24cccJJ	.	.	.
+*	*8va	*	*	*
+!	!	!	!	!LO:DY:rj:b=2
+4b: 4f: 4d: (<4G:	24dddLL	.	.	fz
+.	24eee	.	.	.
+.	24fff#	.	.	.
+.	24ggg	.	.	.
+.	24aaa	.	.	.
+.	24bbbJJ)	.	.	.
+.	.	.	[	.
+*	*	*	*v	*v
+=219	=219	=219	=219
+8cc 8e 8c)	8cccc	.	.
+8r	(>24ccccLL 24aa	.	.
+.	24eeee	.	.
+.	24gggJJ^<	.	.
+*clefF4	*	*	*
+8FF\`>L	24aaaLL 24fff	.	.
+.	24cccc	.	.
+.	24eeeJJ^<	.	.
+8d\J 8A\ 8F\	24fffLL 24ddd	.	.
+.	24aaa	.	.
+.	24cccJJ^<	.	.
+8GG`>\L	24dddLL 24bb	.	.
+.	24fff	.	.
+.	24aaJJ^<	.	.
+8f\J 8d\ 8G\	24bbLL 24gg	.	.
+.	24ddd	.	.
+.	24ff\JJ)^<	.	.
+!!LO:LB:g=original
+=220	=220	=220	=220
+8AA`L	8ccc` 8ee	.	.
+8eJ 8c 8A	(>24ccccLL 24aaa	.	.
+.	24eeee	.	.
+.	24gggJJ	.	.
+8FF\`L	24aaaLL 24fff	.	.
+.	24cccc	.	.
+.	24eeeJJ	.	.
+8dJ 8A 8F	24fffLL 24ddd	.	.
+.	24aaa	.	.
+.	24cccJJ	.	.
+8GGL`>	24dddLL 24bb	.	.
+.	24fff	.	.
+.	24aaJJ	.	.
+8fJ 8d 8G	24bb\LL 24gg\	.	.
+.	24ddd	.	.
+.	24ffJJ)	.	.
+=221	=221	=221	=221
+8C`L	8ccc 8ee	.	.
+*	*X8va	*	*
+!	!LO:TX:a:t=loco.	!	!
+8eJ 8c 8G	(>24cccLL 24aa	.	.
+.	24eee	.	.
+.	24ggJJ	.	.
+8FF\`>L	24aaLL 24ff	.	.
+.	24ccc	.	.
+.	24eeJJ	.	.
+8dJ 8A 8F	24ffLL 24dd	.	.
+.	24aa	.	.
+.	24ccJJ	.	.
+8GGL`>	24ddLL 24b	.	.
+.	24ff	.	.
+.	24aJJ	.	.
+8dJ 8G	24b\LL 24g\	.	.
+.	24dd	.	.
+.	24fJJ)	.	.
+=222	=222	=222	=222
+8AA`L	8cc 8e	.	.
+8eJ 8c 8A	(>24cccLL 24aa	.	.
+.	24eee	.	.
+.	24ggJJ	.	.
+8FF\`L	24aaLL 24ff	.	.
+.	24ccc	.	.
+.	24eeJJ	.	.
+8dJ 8A 8F	24ffLL 24dd	.	.
+.	24aa	.	.
+.	24ccJJ	.	.
+8GGL`>	24ddLL 24b	.	.
+.	24ff	.	.
+.	24aJJ	.	.
+8dJ 8G	24b\LL 24g\	.	.
+.	24dd	.	.
+.	24fJJ)	.	.
+!!LO:LB:g=original
+=223	=223	=223	=223
+*	*^	*	*
+!	!	!	!	!LO:DY:rj
+8c 8C	8cc 8e	8ryy	.	f
+*clefG2	*	*	*	*
+(<8f^>L 8d 8G	8ddL^>	(<24bLL	.	.
+.	.	24a	.	.
+.	.	24bJJ)	.	.
+8e`>J 8c)	8eeJ`>	8cc	.	.
+(<8f^>L 8d 8G	8ddL^>	(<24bLL	.	.
+.	.	24a	.	.
+.	.	24bJJ)	.	.
+8e`>J 8c)	8eeJ`>	8cc	.	.
+(<8f^> 8d 8G	8dd	(<24bLL	.	.
+.	.	24a^>	.	.
+.	.	24bJJ)	.	.
+=224	=224	=224	=224	=224
+8e`> 8c)	8ee	8cc	.	.
+*	*8va	*	*	*
+(>8ff^L 8dd 8g	8dddL^>	24bbLL	.	.
+.	.	24aa	.	.
+.	.	24bbJJ	.	.
+8eeJ`> 8cc)	8eee`J	8ccc	.	.
+(>8ff^L 8dd 8g	8dddL^>	24bbLL	.	.
+.	.	24aa	.	.
+.	.	24bbJJ	.	.
+8eeJ`> 8cc)	8eee`J	8ccc	.	.
+!LO:TX:t=P:cross-measure beam:problem	!LO:TX:t=P:cross-measure beam:problem	!	!	!
+(>8ff^> 8dd 8g	(<8ddd^>/ 8bb/	8ryy	.	.
+*	*v	*v	*	*
+=225	=225	=225	=225
+8ee`> 8cc)	8eee/`> 8ccc/)	.	.
+*Xtuplet	*	*	*
+(>24eeLL	(>24eeeLL	.	.
+24ff	24fff	.	.
+24ff#XJJ	24fff#XJJ	.	.
+8gg`>L)	24gggLL	.	.
+.	24aaa	.	.
+.	24gggJJ)	.	.
+(>24ccL	(>24cccLL	.	.
+24dd	24ddd	.	.
+24dd#XJJ	24ddd#XJJ	.	.
+8ee\`>L)	24eeeLL	.	.
+.	24fffn	.	.
+.	24eeeJJ)	.	.
+(>24g\L	(>\24ggLL	.	.
+24a\	24aa	.	.
+24b\JJ	24bbJJ	.	.
+*	*X8va	*	*
+!!LO:LB:g=original
+=226	=226	=226	=226
+!	!LO:TX:a:t=loco.	!	!
+8cc`L)	24cccLL	.	.
+.	24ddd	.	.
+.	24cccJJ)	.	.
+(<24eL	(>24eeLL	.	.
+24f	24ff	.	.
+24f#XJJ	24ff#XJJ	.	.
+8gL)`<	24ggLL	.	.
+.	24aa	.	.
+.	24ggJJ)	.	.
+(>24cL	(>24ccLL	.	.
+24d	24dd	.	.
+24d#XJJ	24dd#XJJ	.	.
+*clefF4	*	*	*
+8e`L)	24eeLL	.	.
+.	24ffn	.	.
+.	24eeJJ)	.	.
+(>24GL	(>\24gLL	.	.
+24A	24a	.	.
+24BJJ	24bJJ	.	.
+=227	=227	=227	=227
+8c`>L)	24ccLL	.	.
+.	24dd	.	.
+.	24ccJJ)	.	.
+(>24EL	(<24eLL	.	.
+24F	24f	.	.
+24F#XJJ	24f#XJJ	.	.
+8G`L)	24gLL	.	.
+.	24a	.	.
+.	24gJJ)	.	.
+!	!LO:TX:a:t=sempre.	!	!
+(>24CL	(<24cLL	.	.
+24D	24d	.	.
+24D#XJJ	24d#XJJ	.	.
+!	!	!	!LO:DY:a:rj
+8E\`L)	24eLL	.	ff
+.	24fn	.	.
+.	24eJJ)	.	.
+!LO:TX:t=P:the slur has no ending:problem	!	!	!
+(>24GGL	(>24G<LL	.	.
+24AA	24A<	.	.
+24BBJJ	24B<JJ	.	.
+!!LO:LB:g=original
+=228	=228	=228	=228
+8C\L)	24cLL	.	.
+.	24d	.	.
+.	24cJJ)	.	.
+(<24EEL	(>24E<LL	.	.
+24FF	24F<	.	.
+24FF#XJJ	24F#X<JJ	.	.
+8GG\L)`<	24G<LL	.	.
+.	24A<	.	.
+.	24G<JJ)	.	.
+(<24CCL	(>24C<LL	.	.
+24DD	24D<	.	.
+24DD#XJJ	24D#X<JJ	.	.
+8EE\L)	24E<LL	.	.
+.	24Fn<	.	.
+.	24E<JJ)	.	.
+24GGGL	(>24GG<LL	.	.
+24AAA	24AA<	.	.
+24BBBJJ	24BB<JJ	.	.
+=229	=229	=229	=229
+8CC\	8C<)	.	.
+16CC\LL	(>16E<LL	.	.
+16EEJJ	16G<JJ	.	.
+16GG\LL	16cLL	.	.
+16C	16e	.	.
+16E	16g	.	.
+16GJJ	16ccJJ	.	.
+*clefG2	*	*	*
+16cLL	16eeLL	.	.
+16e	16gg	.	.
+16g	16ccc	.	.
+16bJJ	16eeeJJ)	.	.
+=230	=230	=230	=230
+*	*8va	*	*
+8ccc	8eeee	.	.
+8r	8r	.	.
+*	*X8va	*	*
+*clefF4	*	*	*
+!	!LO:TX:a:t=loco.	!	!
+4c 4G 4C	4ee\ 4cc\ 4g\ 4e\	.	.
+*clefG2	*	*	*
+!	!	!	!LO:DY:rj
+4cc 4g 4c	4eee 4ccc 4gg 4ee	.	fff
+*clefF4	*	*	*
+=231	=231	=231	=231
+.	8qc/	.	.
+2.C/; 2.CC/	2.c;>	.	.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!RDF**kern: N = linked
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cresc." fontstyle="normal"
+!!!RDF**dynam: > = "dim." fontstyle="normal"
+!!!ENC: Jędrzej Mróz
+!!!END: 2019-10-22
+!!!EED: Emilia Ziętek
+!!!EST: 2019-10-30
+!!!rism-genre: Polonaise
+!!!rism-key: C major
+!!!rism-opus: op.  3
+!!!rism-title: Polonaise in C major op.  3
+!!!rism-permalink: https://opac.rism.info/search?id=300605284&View=rism

@@ -1,0 +1,1043 @@
+!!!!SEGMENT: MEG-1a-CH.krn
+!!!COM: Chopin, Fryderyk
+!!!NIFC-rismID: 1001034819
+!!!NIFC-shelfmark: PL-Wbfc 498/n
+!!!OMD: Allegretto
+**kern	**kern	**dynam
+*	*I"PIANO.	*
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*M3/4	*M3/4	*
+*	*	*
+!	!LO:TX:t=P:nie wyświetla się "Allegretto" (OMD):problem	!
+4r	4e^>	p
+=1	=1	=1
+4r	(>2.e 2.c	.
+(>8FL	.	.
+8E	.	.
+8A	.	.
+8BJ	.	.
+=2	=2	=2
+!LO:TUP:a	!	!
+12cL	2.a 2.f#X 2.d#X	.
+12dn	.	.
+12cJ	.	.
+8BL	.	.
+8dJ	.	.
+4c)	.	.
+=3	=3	=3
+!	!LO:TX:a:t=P:note position:problem	!
+(>4B	2.b^> 2.a 2.f#X 2.d#X	.
+8A#XL	.	.
+8B	.	.
+8c	.	.
+8BJ	.	.
+=4	=4	=4
+4F#X)	4r	.
+!	!LO:TX:a:t=P:note position:problem	!
+4BB	4f#y 4d#X 4B< 4Any<	.
+!	!LO:TX:a:t=P:note position:problem	!
+4EE\	4g#X 4e 4dn 4G#X<	.
+!!LO:LB:g=original
+=5	=5	=5
+*^	*	*
+4rA	2.AA\	2.e 2.c 2.A)	.
+(>8F\L	.	.	.
+8E	.	.	.
+8A	.	.	.
+8BJ	.	.	.
+*v	*v	*	*
+=6	=6	=6
+!LO:TUP:a	!	!
+12cL	2.a 2.f#X 2.d#X	.
+12dn	.	.
+12cJ	.	.
+8BL	.	.
+8dJ	.	.
+4c)	.	.
+=7	=7	=7
+!	!LO:TX:a:t=P:note position:problem	!
+4B	2.b 2.a 2.f#X 2.d#X	.
+8A#XL	.	.
+8B	.	.
+8c	.	.
+8BJ	.	.
+=8	=8	=8
+4F#X	4r	.
+!	!LO:TX:a:t=P:note position:problem	!
+4BB\	4f#y 4d#X 4B< 4Any<	.
+!	!LO:TX:a:t=P:note position:problem	!
+4EE\	4g#X 4e 4dn 4G#y<	.
+=9	=9	=9
+*	*^	*
+*	*	*^	*
+4c 4E 4AA	(>2ee	4a 4e	4ryy	.
+4r	.	8eL/	N[<4e\	.
+.	.	[<8aJ	.	.
+4c 4E 4AA	12eeL	4aN] 4e\N]	4ryy	.
+.	12ff	.	.	.
+.	12eeJ	.	.	.
+=10	=10	=10	=10	=10
+*	*	*	*^	*
+2B 2F#X 2BB	4.dd#X	8rf	8ryy	4ryy	.
+.	.	8d#X/L	4.d#\	.	.
+.	.	8aJ	.	4a\	.
+.	8dd#	8reyy	.	.	.
+4B 4E	4ddn	4g#X 4e	4ryy	4ryy	.
+*	*	*	*v	*v	*
+!!LO:LB:g=original
+=11	=11	=11	=11	=11
+4A	4cc 4a 4e)	4rcyy	4.ryy	fz
+4r	(>8eL	4e	.	.
+.	8aJ	.	4.a\	.
+[>4A 4C	12ccL	[<4e	.	.
+.	12dd	.	.	.
+.	12ccJ	.	.	.
+=12	=12	=12	=12	=12
+*	*	*	*^	*
+2A] 2D	4.b	8e]	8ryy	4ryy	.
+.	.	8fL/	4.f\	.	.
+.	.	8aJ	.	4a\	.
+.	8cc	4.rGyy	.	.	.
+4E\	4b^< 4g#X 4d	.	4ryy	4ryy	.
+*	*	*	*v	*v	*
+*	*	*v	*v	*
+=13	=13	=13	=13
+*	*	*^	*
+4c 4E 4AA	4ee 4a 4e)	4rcyy	4.ryy	.
+!	!LO:N:vis=2	!	!	!
+4r	(>8eL	2e	.	.
+.	8aJ	.	4.a\	.
+!	!LO:TUP:b	!	!	!
+!	!LO:TX:t=P:"3" (jako oznaczenie trioli) w źródle zlokalizowane jest na pięciolinii:problem	!	!	!
+4c 4E 4AA	12eeL	.	.	.
+.	12ff	.	.	.
+.	12eeJ	.	.	.
+*	*	*v	*v	*
+=14	=14	=14	=14
+*	*	*^	*
+*	*	*	*^	*
+2B 2F#X 2BB	4.dd#X	8re	8ryy	4ryy	.
+.	.	8d#X/L	4.d#\	.	.
+.	.	8aJ	.	4a\	.
+.	8dd#	8reyy	.	.	.
+4B 4E	4ddn	4g#X 4e	4ryy	4ryy	.
+*	*	*	*v	*v	*
+=15	=15	=15	=15	=15
+4A	4cc 4a 4e)	4rcyy	4.ryy	.
+4r	(>8eL	4e	.	.
+.	8aJ	.	4.a\	.
+!	!LO:TX:t=P:stem-side tuplet number:problem	!	!	!
+[>4A 4C	12ccL	[<4e	.	.
+.	12dd	.	.	.
+.	12ccJ	.	.	.
+=16	=16	=16	=16	=16
+*	*	*	*^	*
+2A] 2D	4.b	8e]	8ryy	4ryy	.
+.	.	8f/L	4.f\	.	.
+.	.	8aJ	.	4a\	.
+.	8cc	8ryy	.	.	.
+[>4G^<	4b	4d	4ryy	4ryy	.
+*	*	*	*v	*v	*
+*	*	*v	*v	*
+*	*v	*v	*
+!!LO:LB:g=original
+=17	=17	=17
+*^	*	*
+(>4G]	4C	2.g 2.e)	.
+8A/L	2ryy	.	.
+8G	.	.	.
+8c	.	.	.
+8dJ	.	.	.
+*v	*v	*	*
+=18	=18	=18
+!LO:TUP:a	!	!
+12e-XL	(>/2.cc 2.a/ 2.f#X/	.
+12fny	.	.
+12e-J	.	.
+8dL	.	.
+8fJ	.	.
+4e-	.	.
+=19	=19	=19
+!	!LO:TX:a:t=P:note position:problem	!
+4d)	2.dd/ 2.cc/ 2.a/ 2.f#X/)	.
+(>8c#XL	.	.
+8d	.	.
+8en	.	.
+8dJ	.	.
+=20	=20	=20
+4A	4r	.
+4D	(>4a 4f#X 4d 4c	.
+!	!LO:TX:a:t=P:note position:problem	!
+4GG\	4b 4g 4fn 4B	.
+=21	=21	=21
+4C\)	2.g 2.e 2.c	.
+(>8AL	.	.
+8G	.	.
+8c	.	.
+8dJ	.	.
+=22	=22	=22
+!LO:TUP:a	!	!
+12e-XL	2.cc 2.a 2.f#X)	.
+12fny	.	.
+12e-J	.	.
+8dL	.	.
+8fJ	.	.
+4e-)	.	.
+!!LO:LB:g=original
+=23	=23	=23
+!	!LO:TX:t=P:zakończenie łuku bez początku:problem	!
+!	!LO:TX:a:t=P:note position:problem	!
+4d	2.dd 2.cc 2.a 2.f#X	.
+8c#XL	.	.
+8d	.	.
+8en	.	.
+8dJ	.	.
+=24	=24	=24
+4A\	4r	.
+4D\	(>4a 4f#X 4d 4c	.
+!	!LO:TX:a:t=P:note position:problem	!
+4GG\	4b 4g 4fn 4B	.
+=25	=25	=25
+*	*^	*
+*	*	*^	*
+*	*	*	*^	*
+4e 4G 4C	2gg	4cc 4g	4ryy	4.ryy	.
+!	!	!LO:N:vis=2	!	!	!
+4r	.	8g/L	2g\	.	.
+.	.	8ccJ	.	4.cc\	.
+!	!LO:TUP:b	!	!	!	!
+!	!LO:TX:t=P:"3" (jako oznaczenie trioli) w źródle zlokalizowane jest na pięciolinii:problem	!	!	!	!
+4e 4G 4C	12ggL/	4ryy	.	.	.
+.	12aa	.	.	.	.
+.	12ggJ	.	.	.	.
+=26	=26	=26	=26	=26	=26
+2d\ 2D\	4.ff#X	8rg	8ryy	4ryy	.
+.	.	8aL/	4.a\	.	.
+.	.	8ccJ	.	4cc\	.
+.	8ff#	8ryy	.	.	.
+4d\ 4G\	4ffn	4b	4ryy	4ryy	.
+=27	=27	=27	=27	=27	=27
+4e\ 4G\ 4C\	4ee\ 4cc\ 4g\)	2rcyy	4ryy	4.ryy	.
+4r	(>8gL	.	4g\	.	.
+.	8ccJ	.	.	4cc\	.
+!	!LO:TUP:b	!	!	!	!
+!	!LO:TX:t=P:"3" (jako oznaczenie trioli) w źródle zlokalizowane jest na pięciolinii:problem	!	!	!	!
+4G\ 4GG\	12eeL	[<4g	4ryy	.	.
+.	12ff	.	.	.	.
+.	.	.	.	8ryy	.
+.	12eeJ	.	.	.	.
+=28	=28	=28	=28	=28	=28
+2A\ 2GG\	4.dd#X	8g]	8ryy	4ryy	.
+.	.	8f#XL/	4.f#\	.	.
+.	.	8ccJ	.	4cc\	.
+.	8dd#	8ryy	.	.	.
+4B\ 4GG\	4ddn	4fn	4ryy	4ryy	.
+!!LO:LB:g=original
+=29	=29	=29	=29	=29	=29
+4G\ 4C\	4ryy	4gg\ 4cc\ 4e\)	4.ryy	2.ryy	.
+!	!LO:N:vis=2	!	!	!	!
+4r	(>8gL	2g	.	.	.
+.	8ccJ	.	4.cc\	.	.
+!	!LO:TUP:b	!	!	!	!
+!	!LO:TX:t=P:"3" (jako oznaczenie trioli) w źródle zlokalizowane jest na pięciolinii:problem	!	!	!	!
+4c\ 4G\ 4C\	12ggL	.	.	.	.
+.	12aa	.	.	.	.
+.	12ggJ	.	.	.	.
+=30	=30	=30	=30	=30	=30
+2d\ 2D\	4.ff#X	8rg	8ryy	4ryy	.
+.	.	8aL/	4.a\	.	.
+.	.	8ccJ	.	4cc\	.
+.	8ff#	8rgyy	.	.	.
+4d\ 4G\	4ffn	4b	4ryy	4ryy	.
+=31	=31	=31	=31	=31	=31
+4e 4G 4C	4ryy	4ee\ 4cc\ 4g\)	4.ryy	2.ryy	.
+!	!LO:N:vis=2	!	!	!	!
+4r	(>8gL	2g	.	.	.
+.	8ccJ	.	4.cc\	.	.
+!	!LO:TUP:b	!	!	!	!
+!	!LO:TX:t=P:"3" (jako oznaczenie trioli) w źródle zlokalizowane jest na pięciolinii:problem	!	!	!	!
+(>4C 4CC	12eeL	.	.	.	.
+.	12ff	.	.	.	.
+.	12eeJ	.	.	.	.
+=32	=32	=32	=32	=32	=32
+2D 2DD	4.dd	8rf	8ryy	4ryy	.
+.	.	8fL/	4.f\	.	.
+.	.	8bJ	.	4b\	.
+.	8dd	4.rByy	.	.	.
+4D#X 4DD#X	4cc 4a 4f#X	.	4ryy	4ryy	.
+*	*	*	*v	*v	*
+*	*	*v	*v	*
+*	*v	*v	*
+=33	=33	=33
+4E 4EE	2.b/ 2.g#X/ 2.e/ 2.dny/	.
+8FL	.	.
+8E	.	.
+8A	.	.
+8BJ	.	.
+=34	=34	=34
+*Xtuplet	*	*
+12cL	2.a/ 2.f#X/ 2.d#X/	.
+12dn	.	.
+12cJ	.	.
+*tuplet	*	*
+8BL	.	.
+8dJ	.	.
+4c	.	.
+!!LO:PB:g=original
+=35	=35	=35
+!	!LO:TX:a:t=P:note position:problem	!
+4B	2.b/ 2.a/ 2.f#X/ 2.d#X/)	.
+8A#XL	.	.
+8B	.	.
+8c	.	.
+8BJ	.	.
+=36	=36	=36
+4F#X\	4r	.
+!	!LO:TX:a:t=P:note position:problem	!
+4BB\	4f#y 4d#X 4B< 4Any<	.
+!	!LO:TX:a:t=P:note position:problem	!
+4EE\)	4g#X 4e 4dn 4G#X<	.
+=37	=37	=37
+*^	*	*
+4E	2.AA	(>/2.e 2.c/ 2.A/	.
+(>8F\L	.	.	.
+8E	.	.	.
+8A	.	.	.
+8BJ	.	.	.
+*v	*v	*	*
+=38	=38	=38
+!LO:TUP:a	!	!
+12cL	2.a/ 2.f/ 2.d#X/	.
+12dn	.	.
+12cJ	.	.
+8BL	.	.
+8dJ	.	.
+4c	.	.
+=39	=39	=39
+!	!LO:TX:a:t=P:note position:problem	!
+4B	2.b/ 2.a/ 2.f/ 2.d#X/)	.
+8A#XL	.	.
+8B	.	.
+8c	.	.
+8BJ	.	.
+=40	=40	=40
+4F#X\	4r	.
+!	!LO:TX:a:t=P:note position:problem	!
+4BB\	4f#y 4d#X 4B< 4A<	.
+4EE\)	4g#X 4e 4G#y<	.
+!!LO:LB:g=original
+=41	=41	=41
+*k[f#c#g#]	*k[f#c#g#]	*
+*^	*	*
+4rF	2FF#	N(>8ddL 8d	.
+.	.	8cc#J 8c#	.
+2D	.	4b 4B	.
+.	4GG#\	8cc#L 8c#	.
+.	.	8bJ 8B	.
+*v	*v	*	*
+=42	=42	=42
+4AA\	8aL 8A	.
+.	8g#J 8G#	.
+4D\	4f# 4F#<	.
+4AAA/	8g#L 8G#<	.
+.	8f#J 8F#<	.
+=43	=43	=43
+4GGG#/	8eL 8E<	.
+.	8f#J 8F#<	.
+4D	4g# 4G#<	.
+4EEE/	8aL 8A<	.
+.	8bJ 8B<	.
+=44	=44	=44
+4AAA	8cc#\L 8c#\	.
+.	8ddJ 8d	.
+4c# 4E	4dd#X\ 4d#X\	.
+4AA\	8ee\L 8e\	.
+.	8ee#XJ 8e#X	.
+=45	=45	=45
+*^	*	*
+4rcyy	2Dny	8gg#\L 8g#\	.
+.	.	8ff#J 8f#	.
+[>2A	.	4aa 4a	.
+.	4D	8ff#L 8f#	.
+.	.	8gg#J 8g#	.
+=46	=46	=46	=46
+4A]	2C#	8ff#L 8f#	.
+.	.	8eeJ 8e	.
+[>2A	.	4aa 4a	.
+.	4C#	8eeL 8e	.
+.	.	8ff#J 8f#	.
+!!LO:LB:g=original
+=47	=47	=47	=47
+4A]	2BB	8eeL 8e	.
+.	.	8ddJ 8d	.
+4G#	.	4ff#/ 4f#/	.
+4rByy	4EE\	8ddL 8d	.
+.	.	8eeJ 8e	.
+=48	=48	=48	=48
+4rGyy	2AA	8ddL 8d	.
+.	.	8cc#J 8c#	.
+4A 4E	.	4ff#/ 4f#/	.
+4rAyy	[>4EE\	8cc#L 8c#	.
+.	.	8eeJ 8e	.
+*v	*v	*	*
+=49	=49	=49
+4BB 4EE]	8ddL 8d	.
+.	8cc#J 8c#	.
+4G# 4D	4b 4B	.
+4EE#X/	8cc#L 8c#	.
+.	8bJ 8B	.
+=50	=50	=50
+4FF#	8aL 8A	.
+.	8g#J 8G#	.
+4D	4f# 4F#<	.
+4AAA/	8g#L 8G#<	.
+.	8f#J 8F#<	.
+=51	=51	=51
+4GGG#X/	8eL 8E<	.
+.	8f#J 8F#<	.
+4D\	4g# 4G#<	.
+4EEE/	8aL 8A<	.
+.	8bJ 8B<	.
+=52	=52	=52
+4AAA	8cc#L 8c#	.
+.	8ddJ 8d	.
+4c# 4E	4dd#X 4d#X	.
+4AA	8eeL 8e	.
+.	8ee#XJ 8e#X	.
+!!LO:LB:g=original
+=53	=53	=53
+!	!LO:TX:b:t=cres_:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:t=cres_
+4GG#X	8ff#L 8f#	<
+.	8ff##XJ 8f##X	.
+4c# 4E#X	4gg# 4g#	.
+4GG#	8aa#XL 8a#X	.
+.	8bb#XJ 8b#X	.
+=54	=54	=54
+4GGG#	8ccc#L 8cc#	.
+.	8ddd#XJ 8dd#X	.
+*clefG2	*	*
+4cc#\ 4e#X\ 4c#\	4eee#X 4ee#X	.
+4G#	8fff#L 8ff#	.
+.	8fff##XJ 8ff##X	.
+*clefF4	*	*
+=55	=55	=55
+*	*8va	*
+4GG#	8aaa#XL 8aa#X	.
+.	8ggg#J 8gg#	.
+*clefG2	*	*
+4b#X 4f# 4d#X	4fff#y 4ff#y	.
+4G#	8eee#XL< 8ee#X	.
+.	8ddd#yJ 8dd#y	[[
+*clefF4	*	*
+=56	=56	=56
+4C#\	8fff#L 8ff#	>
+.	8eee#XJ 8ee#X	.
+4e#X 4G#	4ccc# 4cc#	.
+4C#\	8bb#XL 8b#X	.
+.	8ccc#J 8cc#	.
+*	*X8va	*
+.	.	]
+=57	=57	=57
+!	!LO:TX:a:t=loco	!
+4BBny\	8dddnyL 8ddny	p
+.	8ccc#J 8cc#	.
+4f# 4B 4A	4bb 4b	.
+[>4e 4G# 4E	8ccc#L 8cc#	.
+.	8bbJ 8b	.
+!!LO:LB:g=original
+=58	=58	=58
+*^	*	*
+4e]	2F#	8aaL 8a	.
+.	.	8gg#J 8g#	.
+4d 4A	.	4ff# 4f#	.
+4rcyy	4AA\	8gg#L 8g#	.
+.	.	8ff#J 8f#	.
+*v	*v	*	*
+=59	=59	=59
+4GG#/	8eeL 8e	.
+.	8ff#J 8f#	.
+4d 4B 4E	4gg# 4g#	.
+4EE/	8aaL 8a	.
+.	8bbJ 8b	.
+=60	=60	=60
+*	*8va	*
+4AA	8ccc#L< 8cc#	.
+.	8dddJ 8dd	.
+4c# 4E	4ddd#X\ 4dd#X\	.
+4AA	8eeeL< 8ee	.
+.	8eee#XJ 8ee#X	.
+=61	=61	=61
+4D	8ggg#L 8gg#	.
+.	8fff#J 8ff#	.
+4f# 4A	4aaa 4aa	.
+4D	8fff#L 8ff#	.
+.	8ggg#J 8gg#	.
+=62	=62	=62
+4C#\	8fff#L 8ff#	.
+.	8eeeJ 8ee	.
+4e 4A	4aaa 4aa	.
+4C#\	8eeeL 8ee	.
+.	8fff#J 8ff#	.
+=63	=63	=63
+4BB\	8eeeL< 8ee	.
+.	8dddJ 8dd	.
+4d 4G# 4E	4fff# 4ff#	.
+4EE	8dddL< 8dd	.
+.	8eeeJ 8ee	.
+!!LO:LB:g=original
+=64	=64	=64
+4AA	8dddL< 8dd	.
+.	8ccc#J 8cc#	.
+4c# 4E	4fff# 4ff#	.
+4AA	8ccc#L< 8cc#	.
+.	8eeeJ 8ee	.
+=65	=65	=65
+4EE	8dddL< 8dd	.
+.	8ccc#J 8cc#	.
+4G# 4D	4bb\ 4b\	.
+4EE#X	8ccc#L< 8cc#	.
+.	8bbJ 8b	.
+*	*X8va	*
+=66	=66	=66
+!	!LO:TX:a:t=loco	!
+4FF#	8aaL 8a	.
+.	8gg#J 8g#	.
+4A 4D	4ff# 4f#	.
+4FF#	8gg#L 8g#	.
+.	8ff#J 8f#	.
+=67	=67	=67
+4GG#	8eeL 8e	.
+.	8ff#J 8f#	.
+4d 4B 4E	4gg# 4g#	.
+4EE	8aaL 8a	.
+.	8bbJ 8b	.
+=68	=68	=68
+*	*8va	*
+4AA	8ccc#\L 8cc#\	.
+.	8dddJ 8dd	.
+4c# 4E	4ddd#X\ 4dd#X\	.
+4AA	8eee\L 8ee\	.
+.	8eee#XJ 8ee#X	.
+=69	=69	=69
+*ped	*	*
+4D\	8ggg#L 8gg#	.
+.	8fff#J 8ff#	.
+.	8qddd/	.
+*clefG2	*	*
+!LO:TX:a:t=P:note position:problem	!	!
+4b\ 4a\ 4f#\ 4B\	4dddd 4ddd	.
+4r	8cccc#L 8ccc#	.
+*Xped	*	*
+.	8bbbJ 8bb	.
+*clefF4	*	*
+!!LO:PB:g=original
+=70	=70	=70
+*ped	*	*
+(>4E	8cccc#L 8ccc#	.
+.	8bbbJ 8bb	.
+*clefG2	*	*
+4a\ 4e\ 4c#\	4aaa 4aa	.
+*clefF4	*	*
+4E)	8ggg#L 8gg#	.
+*Xped	*	*
+.	8fff#J 8ff#	.
+=71	=71	=71
+*ped	*	*
+4EE	8eee\L 8ee\	.
+.	8dddJ 8dd	.
+.	8qbb/	.
+*clefG2	*	*
+4g#X 4d 4B	4bbb 4bb	.
+*clefF4	*	*
+4E	8aaaL 8aa	.
+*Xped	*	*
+.	8ggg#J 8gg#	.
+=72	=72	=72
+*ped	*	*
+4EE	8aaaL 8aa	.
+.	8ggg#J 8gg#	.
+4f# 4c# 4A	4fff# 4ff#	.
+4E	8eee\L 8ee\	.
+*Xped	*	*
+.	8dddJ 8dd	.
+=73	=73	=73
+*ped	*	*
+4EE	8ccc#L< 8cc#	.
+.	8bbJ 8b	.
+.	8qgg#/	.
+4d 4G# 4E	4ggg# 4gg#	.
+*clefG2	*	*
+8ff#L	8fff#L>	.
+8ffnJ	8fffnJ	.
+*Xped	*	*
+.	.	.
+=74	=74	=74
+8eeL	8eeeL>	.
+8dd#XJ	8ddd#XJ	.
+4ddn	4dddn/	.
+8b\L	8bb\L>	.
+8g#J	8gg#J	.
+*	*X8va	*
+!!LO:LB:g=original
+=75	=75	=75
+!	!LO:TX:a:t=loco	!
+8fnyL	8ffnL>	.
+8eJ	8eeJ	.
+4d#X	4dd#X/	.
+8dnL	8ddnL>	.
+8BJ	8bJ	.
+*clefF4	*	*
+=76	=76	=76
+8G#XL	8g#XL	.
+8FnJ	8fnJ	.
+4E	4e	.
+8D#XL	8d#XL	.
+8FJ	8fJ	.
+=77	=77	=77
+*k[]	*k[]	*
+4F\ 4AA\	2.e 2.c	.
+(>8FL	.	.
+8E	.	.
+8A	.	.
+8BJ	.	.
+=78	=78	=78
+!LO:TUP:a	!	!
+12cL	2.a 2.f#X 2.d#X	.
+12dn	.	.
+12cJ	.	.
+8BL	.	.
+8dJ	.	.
+4c)	.	.
+=79	=79	=79
+!	!LO:TX:a:t=P:note position:problem	!
+(>4B	2.b^> 2.a 2.f#X 2.d#X	.
+8A#XL	.	.
+8B	.	.
+8c	.	.
+8BJ	.	.
+!!LO:LB:g=original
+=80	=80	=80
+4F#X)	4r	.
+!	!LO:TX:a:t=P:note position:problem	!
+4BB\	4f#y 4d#X 4B< 4Any<	.
+!	!LO:TX:a:t=P:note position:problem	!
+4EE\	4g#X 4e 4dn 4G#X<	.
+=81	=81	=81
+*^	*	*
+4rA	2AA	2.e 2.c 2.AN)	.
+(>8F\L	.	.	.
+8E	.	.	.
+8A	4ryy	.	.
+8BJ	.	.	.
+*v	*v	*	*
+=82	=82	=82
+!LO:TUP:a	!	!
+12cL	2.a 2.f#X 2.d#X	.
+12dn	.	.
+12cJ	.	.
+8BL	.	.
+8dJ	.	.
+4c)	.	.
+=83	=83	=83
+!	!LO:TX:a:t=P:note position:problem	!
+4B	2.b 2.a 2.f#X 2.d#X	.
+8A#XL	.	.
+8B	.	.
+8c	.	.
+8BJ	.	.
+=84	=84	=84
+4F#X	4r	.
+!	!LO:TX:a:t=P:note position:problem	!
+4BB	(>4f#y 4d#X 4B< 4Any<	.
+!	!LO:TX:a:t=P:note position:problem	!
+4EE\	4g#X 4e 4dn 4G#X<	.
+!!LO:LB:g=original
+=85	=85	=85
+*	*^	*
+*	*	*^	*
+4c 4E 4AA	2ee	4a 4e	4ryy	.
+4r	.	8eL/	N[<4e\	.
+!	!	!	!	!LO:N:vis=4
+.	.	[>8aJ	.	.
+4c 4E 4AA	12eeL	4aN] 4e\N]	4ryy	.
+.	12ff	.	.	.
+.	12eeJ	.	.	.
+=86	=86	=86	=86	=86
+*	*	*	*^	*
+2B 2F#X 2BB	4.dd#X	8rf	8ryy	4ryy	.
+.	.	8d#X/L	4.d#\	.	.
+.	.	8aJ	.	4a\	.
+.	8dd#	8reyy	.	.	.
+4B 4E	4ddn	4g#X 4e	4ryy	4ryy	.
+*	*	*	*v	*v	*
+=87	=87	=87	=87	=87
+4A	4cc 4a 4e)	4rcyy	4.ryy	fz
+4r	(>8eL	4e	.	.
+.	8aJ	.	4.a\	.
+[>4A 4C	12ccL	[<4e	.	.
+.	12dd	.	.	.
+.	12ccJ	.	.	.
+=88	=88	=88	=88	=88
+*	*	*	*^	*
+2A] 2D	4.b	8e]	8ryy	4ryy	.
+.	.	8fL/	4.f\	.	.
+.	.	8aJ	.	4a\	.
+.	8cc	4.rGyy	.	.	.
+4E\	4b^< 4g#X 4d	.	4ryy	4ryy	.
+*	*	*	*v	*v	*
+*	*	*v	*v	*
+=89	=89	=89	=89
+*	*	*^	*
+4c 4E 4AA	4ee 4a 4e)	4rcyy	4ryy	.
+!	!LO:N:vis=2	!	!	!
+4r	(>8eL	2e	8ryy	.
+.	8aJ	.	4.a\	.
+!	!LO:TUP:b	!	!	!
+!	!LO:TX:t=P:w źródle "3" (jako oznaczenie trioli) zlokalizowane jest na pięciolinii:problem	!	!	!
+4c 4E 4AA	12eeL	.	.	.
+.	12ff	.	.	.
+.	12eeJ	.	.	.
+*	*	*v	*v	*
+!!LO:LB:g=original
+=90	=90	=90	=90
+*	*	*^	*
+*	*	*	*^	*
+2B 2F#X 2BB	4.dd	8rf	8ryy	4ryy	.
+.	.	8d#X/L	4.d#\	.	.
+.	.	8aJ	.	4a\	.
+.	8dd#y	8reyy	.	.	.
+4B 4E	4ddn	4g#X 4e	4ryy	4ryy	.
+*	*	*	*v	*v	*
+=91	=91	=91	=91	=91
+4A	4cc 4a 4e)	4rcyy	4.ryy	.
+4r	(>8eL	4e	.	.
+.	8aJ	.	4.a\	.
+[>4A 4C	12ccL	[<4e	.	.
+.	12dd	.	.	.
+.	12ccJ	.	.	.
+=92	=92	=92	=92	=92
+*	*	*	*^	*
+2A] 2D	4.b	8e]	8ryy	4ryy	.
+.	.	8f/L	4.f\	.	.
+.	.	8aJ	.	4a\	.
+.	8cc	8ryy	.	.	.
+[>4G^<	4b 4d	4ryy	4ryy	4ryy	.
+*	*	*	*v	*v	*
+*	*	*v	*v	*
+*	*v	*v	*
+=93	=93	=93
+*^	*	*
+(>4G]	4C	2.g 2.e)	.
+8A/L	2reyy	.	.
+8G	.	.	.
+8c	.	.	.
+8dJ	.	.	.
+*v	*v	*	*
+=94	=94	=94
+*tuplet	*	*
+!LO:TUP:a	!	!
+!	!LO:S:s=1:note:problem:note-level slur	!
+12e-XL	(>/2.cc 2.a/ 2.f#X/	.
+12fny	.	.
+12e-J	.	.
+8dL	.	.
+8fJ	.	.
+!LO:TX:t=P:łuk kończy się za kreską taktową:problem	!	!
+4e-)	.	.
+!!LO:LB:g=original
+=95	=95	=95
+!	!LO:TX:t=P:w źródle brak zakończenia łuku:problem	!
+!	!LO:TX:a:t=P:note position:problem	!
+4d	2.dd/ 2.cc/ 2.a/ 2.f#X/)	.
+(>8c#XL	.	.
+8d	.	.
+8en	.	.
+8dJ	.	.
+=96	=96	=96
+4A	4r	.
+!	!LO:TX:a:t=P:note position:problem	!
+4D	(>4a 4f#X 4d 4c	.
+!	!LO:TX:a:t=P:note position:problem	!
+4GG\)	4b 4g 4fn 4B	.
+=97	=97	=97
+(>\4C	2.g 2.e 2.c	.
+8AL	.	.
+8G	.	.
+8c	.	.
+8dJ	.	.
+=98	=98	=98
+12e-XL	2.cc 2.a 2.f#X	.
+12fny	.	.
+12e-J	.	.
+8dL	.	.
+8fJ	.	.
+4e-)	.	.
+=99	=99	=99
+!	!LO:TX:a:t=P:note position:problem	!
+4d	2.dd 2.cc 2.a 2.f#X)	.
+8c#XL	.	.
+8d	.	.
+8en	.	.
+8dJ	.	.
+!!LO:PB:g=original
+=100	=100	=100
+4A\	4r	.
+!	!LO:TX:a:t=P:note position:problem	!
+4D\	(>4a 4f#X 4d 4c	.
+!	!LO:TX:a:t=P:note position:problem	!
+4GG\	4b 4g 4fn 4B	.
+=101	=101	=101
+*	*^	*
+*	*	*^	*
+*	*	*	*^	*
+4e 4G 4C	2gg	4cc 4g	4ryy	4.ryy	.
+!	!	!LO:N:vis=2	!	!	!
+4r	.	8g/L	2g\	.	.
+.	.	8ccJ	.	4.cc\	.
+!	!LO:TUP:b	!	!	!	!
+!	!LO:TX:t=P:w źródle "3" (jako oznaczenie trioli) zlokalizowane jest na pięciolinii:problem	!	!	!	!
+4e 4G 4C	12ggL/	4ryy	.	.	.
+.	12aa	.	.	.	.
+.	12ggJ	.	.	.	.
+*	*	*	*v	*v	*
+=102	=102	=102	=102	=102
+2d# 2A\ 2C\	4.ff#X	8rg	8ryy	.
+.	.	8f#yL/	4.f#y\	.
+.	.	8ccJ	.	.
+.	8ff#	8ryy	.	.
+4d\ 4A- 4C\	4ffn	4b 4fny	4ryy	.
+=103	=103	=103	=103	=103
+*	*	*	*^	*
+4c\ 4G\ 4C\	4ee/ 4cc/ 4e/	2rcyy	4ryy	4.ryy	.
+4r	8gL	.	4g\	.	.
+.	8ccJ	.	.	4.cc\	.
+!	!LO:TUP:b	!	!	!	!
+!	!LO:TX:t=P:w źródle "3" (jako oznaczenie trioli) zlokalizowane jest na pięciolinii:problem	!	!	!	!
+4G\ 4C\	12eeL	4g	4ryy	.	.
+.	12ff	.	.	.	.
+.	.	.	.	.	.
+.	12eeJ	.	.	.	.
+=104	=104	=104	=104	=104	=104
+2A\ 2C\	4.ee-X	8rg	8ryy	4ryy	.
+.	.	8f#XL/	4.f#\	.	.
+.	.	8ccJ	.	4cc\	.
+.	8ee-	8ryy	.	.	.
+4B\ 4C\	4ddny	4fn	4ryy	4ryy	.
+!!LO:LB:g=original
+=105	=105	=105	=105	=105	=105
+4c 4G\ 4C\	4ryy	4gg\ 4cc\ 4e\)	4.ryy	2.ryy	.
+!	!LO:N:vis=2	!	!	!	!
+4r	(>8gL	2g	.	.	.
+.	8ccJ	.	4.cc\	.	.
+!	!LO:TUP:b	!	!	!	!
+!	!LO:TX:t=P:w źródle "3" (jako oznaczenie trioli) zlokalizowane jest na pięciolinii:problem	!	!	!	!
+4e\ 4C\	12ggL	.	.	.	.
+.	12aa	.	.	.	.
+.	12ggJ	.	.	.	.
+=106	=106	=106	=106	=106	=106
+2d\ 2A 2D\	4.ff#X	8rg	8ryy	4ryy	.
+.	.	8f#XL/	4f#X\	.	.
+.	.	8ccJ	.	4cc\	.
+.	8ff#	8rgyy	8ryy	.	.
+4d\ 4G\	4ffn	4b 4fny	4ryy	4ryy	.
+*	*	*	*	*	*
+*	*	*	*v	*v	*
+*	*	*v	*v	*
+=107	=107	=107	=107
+4G 4C	4ee\ 4cc\ 4e\)	4ryy	.
+4r	(>8gL	4g	.
+!	!LO:N:vis=8.	!	!
+.	8ccJ	.	.
+!	!LO:TUP:b	!	!
+!	!LO:TX:t=P:w źródle "3" (jako oznaczenie trioli) zlokalizowane jest na pięciolinii:problem	!	!
+(>4c 4C	12eeL	4g\	.
+.	12ff	.	.
+.	12eeJ	.	.
+=108	=108	=108	=108
+*	*	*^	*
+2B 2D	4.dd	8rf	8ryy	.
+.	.	8fL/	4f\	.
+.	.	8bJ	.	.
+.	8dd/	4.rByy	4.ryy	.
+4A 4D#X	4cc 4f#X	.	.	.
+*	*	*v	*v	*
+=109	=109	=109	=109
+!	!LO:TX:a:t=P:note position:problem	!	!
+4E	4b 4g#X 4e 4dny	4rGyy	.
+!	!LO:N:vis=2	!	!
+4r	8dL	2d	.
+.	8eJ	.	.
+!	!LO:TUP:b	!	!
+!	!LO:TX:t=P:w źródle "3" (jako oznaczenie trioli) zlokalizowane jest na pięciolinii:problem	!	!
+4E\ 4EE\	12bL	.	.
+.	12cc	.	.
+.	12bJ	.	.
+!!LO:LB:g=original
+=110	=110	=110	=110
+*	*	*^	*
+4E\ 4AA\	4.a	8rB	8ryy	.
+.	.	8c/L	4.c\	.
+4r	.	8eJ	.	.
+.	8a	8rdyy	.	.
+4E\ 4EE\	4cc	4e 4c	4ryy	.
+*	*	*v	*v	*
+=111	=111	=111	=111
+!	!LO:TX:a:t=P:note position:problem	!	!
+4E\ 4GG#X\	4b\ 4e\ 4d\)	4rGyy	.
+!	!LO:N:vis=2	!	!
+4r	(>8dL	2d	.
+.	8eJ	.	.
+!	!LO:TUP:b	!	!
+!	!LO:TX:t=P:w źródle "3" (jako oznaczenie trioli) zlokalizowane jest na pięciolinii:problem	!	!
+4E\ 4EE\	12bL	.	.
+.	12cc	.	.
+.	12bJ	.	.
+=112	=112	=112	=112
+4E\ 4AA\	4a	4rc	.
+4r	8gnyL	4c	.
+.	8fJ	.	.
+4E\ 4EE\	4e	4c	.
+=113	=113	=113	=113
+4E\ 4EE\	4b 4g#X 4d)	4rFyy	.
+!	!LO:N:vis=2	!	!
+4r	(>8dL	2d	.
+.	8g#J	.	.
+!	!LO:TUP:b	!	!
+!	!LO:TX:t=P:w źródle "3" (jako oznaczenie trioli) zlokalizowane jest na pięciolinii:problem	!	!
+(>\4E 4EE\	12bL	.	.
+.	12cc	.	.
+.	12bJ	.	.
+=114	=114	=114	=114
+*	*	*^	*
+4AA\)	4.a	8rc	8ryy	.
+.	.	8c/L	4.c\	.
+4r	.	8eJ	.	.
+.	8a	8rdyy	.	.
+4A 4D	4cc	4f	4ryy	.
+!!LO:LB:g=original
+=115	=115	=115	=115	=115
+4E	4ryy	4b\ 4g#X\ 4d\)	4rGyy	.
+!	!LO:N:vis=2	!	!	!
+4r	(>8dL	8ryy	N[<2d\	.
+.	8g#J	4g#	.	.
+!	!LO:TUP:b	!	!	!
+!	!LO:TX:t=P:w źródle "3" (jako oznaczenie trioli) zlokalizowane jest na pięciolinii:problem	!	!	!
+[>\4E 4EE\	12bL	.	.	.
+.	12cc	.	.	.
+.	.	8ryy	.	.
+.	12bJ	.	.	.
+*	*	*v	*v	*
+=116	=116	=116	=116
+4E\] 4AA\	4a	8dNL]	.
+.	.	8cJ	.
+[>4A 4D	8gnL	4d	.
+.	8fJ	.	.
+4A] 4E 4AA	4e 4c	4rGyy	.
+=117	=117	=117	=117
+4E	4b 4g#X 4d)	4rAyy	.
+4r	(>8dL/	4d	.
+.	8g#J	.	.
+!	!LO:TUP:b	!	!
+!	!LO:TX:t=P:w źródle "3" (jako oznaczenie trioli) zlokalizowane jest na pięciolinii:problem	!	!
+[>\4E 4EE\	12bL	4d	.
+.	12cc	.	.
+.	12bJ	.	.
+=118	=118	=118	=118
+*	*	*^	*
+4E\] 4AA\	4.a	8rc	8ryy	.
+.	.	8c/L	4.c\	.
+4r	.	8eJ	.	.
+.	8a	8rcyy	.	.
+[>4A 4D	4cc 4f 4d	4rAyy	4ryy	.
+=119	=119	=119	=119	=119
+*	*	*	*^	*
+4A] 4E 4AA	4.a	8rc	8ryy	4ryy	.
+.	.	8c/L	4.c\	.	.
+4r	.	8eJ	.	4e\	.
+.	8a	8rdyy	.	.	.
+4A 4D	4cc 4f 4d	4rAyy	4ryy	4ryy	.
+!!LO:LB:g=original
+=120	=120	=120	=120	=120	=120
+4A 4E 4AA	4.a	8rc	8ryy	4ryy	.
+.	.	8cL/	4.c\	.	.
+4r	.	8eJ	.	4e\	.
+.	8a	8rdyy	.	.	.
+4A 4D	4cc 4f 4d	4rAyy	4ryy	4ryy	.
+*	*	*	*v	*v	*
+*	*	*v	*v	*
+*	*v	*v	*
+=121	=121	=121
+4E\ 4AA\	2.aTT	.
+*clefG2	*	*
+(>4.e 4.c	.	.
+8d#X 8B	.	.
+=122	=122	=122
+4f 4dn	2.aTTT	.
+4.e 4.c	.	.
+8d#X 8B	.	.
+=123	=123	=123
+8.fL 8.dny	2.aTTT	.
+16eJk 16c	.	.
+4.e 4.c	.	.
+8d#X 8B	.	.
+=124	=124	=124
+8.d#XL 8.B	2.aTTT	.
+16eJk 16c	.	.
+4e 4c	.	.
+4r	.	.
+*clefF4	*	*
+*ped	*	*
+=125	=125	=125
+4AAA)	2.aTTT	.
+(>4.c 4.E	.	.
+8A 8D#X	.	.
+!!LO:LB:g=original
+=126	=126	=126
+4dny 4F	2.aTTT	.
+4.c 4.E	.	.
+8B 8D#X	.	.
+=127	=127	=127
+8.dnyL 8.F	[<2.aTTT	.
+16cJk 16E	.	.
+4.c 4.E	.	.
+8B 8D#X	.	.
+=128	=128	=128
+8.BL 8.D#X	2.aTTT]	.
+16cJk 16E	.	.
+4A 4C)	.	.
+4r	.	.
+=129	=129	=129
+4AAA	2.aTTT	.
+4e 4E	.	.
+4r	.	.
+=130	=130	=130
+(>8.BL 8.D#X	2.a	.
+16cJk 16E	.	.
+2A 2C)	.	.
+.	16qqg#X\LL	.
+.	16qqa/	.
+.	16qqa/	.
+.	16qqaa/	.
+.	16qqaa/JJ	.
+=131	=131	=131
+2.c:;> 2.E: 2.AA:	4aaa)	.
+.	4r	.
+!	!LO:TX:a:B:t=Fin	!
+.	4r	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cres.", fontstyle = "bold"
+!!!RDF**kern: i = editorial accidental, bracked
+!!!ENC: Emilia Ziętek
+!!!END: 2020-03-05
+!!!EED: Antoni Szymański
+!!!EST: revision finished 2020-03-14

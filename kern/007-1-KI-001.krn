@@ -1,0 +1,563 @@
+!!!!SEGMENT: 007-1-KI-001.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Mazourka No. 1.
+!!!OPS: Op. 7
+!!!PTL: Cinq Mazurkas 
+!!!PPR: Kistner
+!!!PPP: Leipzig
+!!!NIFC-rismID: 300605323
+!!!NIFC-shelfmark: PL-Wbfc 2436/n
+!!!OMD: M.M. [half-dot] = 50.
+!!!OMD: VIVACE.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*>[A,B,B,C,C1,C,C2]	*>[A,B,B,C,C1,C,C2]	*>[A,B,B,C,C1,C,C2]
+*staff2	*staff1	*
+*>A	*>A	*>A
+*clefF4	*clefG2	*
+*k[b-e-]	*k[b-e-]	*
+*B-:	*B-:	*
+*M3/4	*M3/4	*
+*MM150	*MM150	*
+*B-:	*B-:	*
+=1-	=1-	=1-
+*ped	*	*
+4FF'<	(>8fL	f
+.	16r	.
+.	16fJk	.
+4e- 4c 4F	4g	.
+*Xped	*	*
+4e- 4c 4F	4a	.
+=2	=2	=2
+*ped	*	*
+4BB-'<	8b-\L	<
+.	16r	.
+.	16ccJk	.
+4d 4B- 4F	4dd	.
+4BB-'<	8ee-L	.
+*Xped	*	*
+.	8ffJ	.
+=3	=3	=3
+*ped	*	*
+4E- 4EE-	8ggL	ff
+.	16r	.
+.	16aaJk)	.
+!	!	!LO:DY:b=2
+4g: 4e-: 4B-: 4G:	4bb-T	fz
+*Xped	*	*
+4r	8aaL	>
+.	8ggJ	]
+=4	=4	=4
+.	8qff/	p
+!	!LO:TX:b:i:t=scherz.	!
+4BB-'<	8bb-`>L	.
+.	16r	.
+.	(16bb-J	>
+4d 4B- 4F	2dd)	]
+4d 4B- 4F	.	.
+!!LO:LB:g=original
+=5	=5	=5
+.	8qee-/	.
+*ped	*	*
+4FF'<	8gg`>L	.
+.	16r	.
+.	(>16ggJ^<k	.
+4e- 4c 4F	2a\)	.
+*Xped	*	*
+4e- 4c 4F	.	.
+=6	=6	=6
+.	8qb-/	.
+*ped	*	*
+4BB-'<	8dd`>L	.
+.	16r	.
+.	(>16ddJ^<k	.
+4d 4B- 4F	2en)	.
+*Xped	*	*
+4d 4B- 4F	.	.
+=7	=7	=7
+*ped	*	*
+4FF'<	8fL	.
+.	16r	.
+.	(<16ak	<
+4e- 4F	8cc	.
+.	8ee-X/	.
+4e- 4A 4F	8.gg)	[
+*Xped	*	*
+.	16ffJk	.
+=8	=8	=8
+.	8qff/	.
+*ped	*	*
+4BB-'<	8dddL	.
+.	16r	>
+.	16ccck	.
+4d 4B- 4F	8bb-M	]
+.	(>8ggJ	.
+*Xped	*	*
+4d 4B- 4F	4ff)	.
+=9	=9	=9
+.	8qgg/	.
+*ped	*	*
+4BB-'<	8bb-`>L	.
+.	16r	.
+.	(16bb-J	>
+4e- 4c 4F	2a\)	]
+*Xped	*	*
+4e- 4c 4F	.	.
+!!LO:LB:g=original
+=10	=10	=10
+.	16qb-/LL	.
+.	16qdd/JJ	.
+4BB-'<	8ff`>L	.
+.	16r	.
+.	(16ffJ	>
+4d 4B- 4F	2en)	]
+4d 4B- 4F	.	.
+=11	=11	=11
+*ped	*	*
+4FF'<	8fL	.
+.	16r	.
+.	(>16ak	.
+4e- 4F	8cc	.
+.	8ee-X	.
+4e- 4A 4F	8ddm	.
+*Xped	*	*
+.	8ccJ)	.
+=12	=12	=12
+*ped	*	*
+4BB-'<	8dd`>L	.
+.	16r	.
+.	(>\16fJk	.
+*Xped	*	*
+4d 4B- 4F	4b-	.
+4r	8a\L	.
+.	8gJ)	.
+=13	=13	=13
+4FF	8fL	.
+.	16r	.
+!	!LO:TX:t=cres _:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:i:t=cres
+.	(<16fJk	<
+4e- 4c 4F	4g	.
+4e- 4c 4F	4a)	.
+=14	=14	=14
+4BB-	\8b-L	.
+.	16r	.
+.	(>16ccJk	.
+4d 4B- 4F	4dd	.
+4BB-	8ee-L	.
+.	8ffJ	[[
+!!LO:LB:g=original
+=15	=15	=15
+4E- 4EE-	8ggL)	.
+.	16r	.
+.	16aaJk	f
+4g: 4e-: 4B-: 4G:	4bb-T	.
+4r	8aaL	.
+.	8ggJ	.
+=16	=16	=16
+.	8qff/)	.
+4BB-	8bb-`>L	.
+.	16r	.
+.	(16bb-J	>
+4d 4B- 4F	2dd)	]
+4d 4B- 4F	.	.
+=17	=17	=17
+.	8qee-/	.
+4FF	8gg`>L	.
+.	16r	.
+.	(16ggJ	>
+4e- 4c 4F	2a\)	]
+4e- 4c 4F	.	.
+=18	=18	=18
+.	8qb-/	.
+4BB-	8dd`>L	.
+.	16r	.
+.	(16ddJ	>
+4d 4B- 4F	2en)	]
+4d 4B- 4F	.	.
+=19	=19	=19
+4FF	8f/L	.
+.	16r	.
+.	(<16ak	<
+4e- 4F	8cc	.
+.	8ee-X	.
+4e- 4A 4F	8.gg)	[
+.	16ffJk	.
+!!LO:LB:g=original
+=20	=20	=20
+.	8qff/	.
+4BB-	8dddL	.
+.	16r	.
+.	16ccck	.
+4d 4B- 4F	8bb-M	>
+.	8ggJ	]
+4d 4B- 4F	4ff	.
+=21	=21	=21
+.	8qgg/	.
+4BB-	8bb-`>L	.
+.	16r	.
+.	(16bb-J	>
+4e- 4c 4F	2a\)	]
+4e- 4c 4F	.	.
+=22	=22	=22
+.	16qb-/LL	.
+.	16qdd/JJ	.
+4BB-	8ff`>L	.
+.	16r	.
+.	(16ffJk	>
+4d 4B- 4F	2en)	]
+4d 4B- 4F	.	.
+=23	=23	=23
+4FF	8f`<L	<
+.	16r	.
+.	16ak	.
+4e- 4F	8cc/	[
+.	8ee-X	.
+4e- 4A 4F	8ddm<	>
+.	8ccJ	]
+=24	=24	=24
+4BB-	8ddL	.
+.	16r	.
+.	(<16fJk	.
+4d 4B- 4F	4b-/)	.
+=!|:	=!|:	=!|:
+*>B	*>B	*>B
+4r	(8aL	.
+.	8b-J)	.
+!!LO:LB:g=original
+=25	=25	=25
+!LO:TX:b:i:t=legato.	!	!
+4FF	(8.ccL	p
+.	16ddJk	.
+4A 4C	4cc)	.
+4A 4C	(8eenL	<
+.	8ffJ	.
+=26	=26	=26
+4FF	8.ggL	.
+.	16aaJk	[
+4B- 4D	4gg)	.
+4B- 4D	(>8ffL	.
+.	8ddJ	.
+=27	=27	=27
+4FF	8ccL	.
+.	8ddJ	.
+4A 4C	4cc	.
+4A 4C	8eenL)	<
+.	16r	.
+.	(>16ffJk	[
+=28	=28	=28
+4FF	(12ggL	.
+.	12aa	.
+.	12ggJ)	.
+4B- 4D	4.ff	>
+4FF	.	]
+.	8dd)	.
+=29	=29	=29
+!	!LO:TX:a:i:t=stretto.	!
+4A'> 4C'>	8ccL	.
+.	8ddJ	.
+4FF'<	4cc	.
+4A'> 4C'>	8eenL	.
+.	8ffJ	.
+!!LO:PB:g=original
+=30	=30	=30
+4FF'<	8ggL	.
+.	8aaJ	.
+4B-'> 4D'>	4ggT	.
+4FF'<	8ffL	.
+.	8ddJ	.
+=31	=31	=31
+4A'> 4C'>	8ccL	.
+.	8ddJ	.
+4FF'<	4cc	<
+4A'> [4C'>	8eenL	.
+.	8ffJ	[[
+=32	=32	=32
+!	!LO:TX:b:i:t=poco rall.	!
+(>4B- 4En 4C]	(>12ggL	>
+.	12aa	.
+.	12ggJ)	]
+4A) 4F	8.ff^^>L	.
+!	!LO:TX:b:iB:t=a Tempo.	!
+.	(>16gJk	.
+4r	)(12ffL	.
+.	(12g-X	.
+.	12ffJ))	.
+=33	=33	=33
+.	8qff/	f
+4FF	8fL	.
+.	16r	.
+.	(<16fJk	.
+4e- 4c 4F	4g	.
+4e- 4c 4F	4a	.
+=34	=34	=34
+4BB-	8b-\L)	.
+.	16r	.
+.	(16ccJk	.
+4d 4B- 4F	4dd	.
+4BB-	8ee-L	.
+.	8ffJ	.
+=35	=35	=35
+4E- 4EE-	8ggL)	.
+.	16r	.
+.	16aaJk	.
+4g: 4e-: 4B-: 4G:	4bb-T	.
+4r	8aaL	.
+.	8ggJ	.
+!!LO:LB:g=original
+=36	=36	=36
+.	8qgg/	.
+4BB-	8bb-`>L	.
+.	16r	.
+.	(16bb-Jk	>
+4d 4B- 4F	2dd)	]
+4d 4B- 4F	.	.
+=37	=37	=37
+.	8qee-/	.
+4FF	8gg`>L	.
+.	16r	.
+.	(>16ggJk	>
+4e- 4c 4F	2a\)	]
+4e- 4c 4F	.	.
+=38	=38	=38
+.	8qb-/	.
+4BB-	8dd`>L	.
+.	16r	.
+.	(>16ddJk	>
+4d 4B- 4F	2en)	]
+4d 4B- 4F	.	.
+=39	=39	=39
+4FF	8f`>L	<
+.	16r	.
+.	(>16ak	.
+4e- 4F	8cc	.
+.	8ee-X	[
+4e- 4A 4F	8.gg	>
+.	16ffJk)	]
+=40	=40	=40
+.	8qff/	.
+4BB-	8dddL	.
+.	16r	.
+.	(>16ccck	>
+.	8qccc/	.
+4d 4B- 4F	8bb-M	.
+.	8ggJ	.
+4d 4B- 4F	4ff)	]
+=41	=41	=41
+.	8qgg/	.
+4BB-	8bb-L	.
+.	16r	.
+.	(>16bb-Jk	>
+4e- 4c 4F	2a\)	]
+4e- 4c 4F	.	.
+!!LO:LB:g=original
+=42	=42	=42
+.	(<16qb-/LL	.
+.	16qdd/JJ)	.
+4BB-	8ffL	.
+.	16r	.
+.	(>16ffJk	>
+4d 4B- 4F	2en)	]
+4d 4B- 4F	.	.
+=43	=43	=43
+4FF	8f/L	.
+.	16r	<
+.	16ak	.
+4e- 4F	8cc	.
+.	8ee-X	.
+4e- 4A 4F	8ddm<	.
+.	8ccJ	[
+=44	=44	=44
+4BB-	8dd`</L	.
+.	16r	.
+.	(<16fJk	.
+4d 4B- 4F	4b-\)	.
+=:|!|:	=:|!|:	=:|!|:
+*>C	*>C	*>C
+4BB-'<	4r	.
+=45	=45	=45
+*ped	*	*
+!	!LO:TX:b:i:t=sotto voce.	!
+4D-X'< (<4GG-X'<	8ff`>L	pp
+.	16r	.
+.	(>16ffJk	.
+4D-'< 4GG-'<	4een	.
+4D-'< 4GG-'<)	8dd-XL	.
+.	8ccJ	.
+=46	=46	=46
+4D-X 4GG-X	8b-L)	.
+.	16r	.
+.	(16dd-XJk	.
+4D- 4GG-	4ccm	.
+4D- 4GG-	8b-L<))	.
+.	16r	.
+.	(>16enJk	<
+=47	=47	=47
+4D-X 4GG-X	>8ffL)	[
+.	16r	.
+.	(16ffJk	.
+4D- 4GG-	4een	.
+4D- 4GG-	8dd-XL	.
+.	8ccJ)	.
+!!LO:LB:g=original
+=48	=48	=48
+4D-X 4GG-X	(>12b-L	.
+.	12cc	.
+.	12b-J)	.
+4D- 4GG-	2en^<	.
+4D- 4GG-	.	.
+=49	=49	=49
+4D-X 4GG-X	8ff`>L	.
+.	16r	.
+!	!LO:TX:b:i:t=rubato.	!
+.	(>16ffJk	.
+4D- 4GG-	4een	.
+4D- 4GG-	8dd-XL	.
+.	8ccJ	.
+=50	=50	=50
+4D-X 4GG-X	8b-L)	.
+.	16r	.
+.	16dd-XJk	.
+.	8qcc/	.
+4D- 4GG-	4cct	.
+4D- 4GG-	8b-L<	.
+.	16r	.
+.	(>16enJk	.
+=51	=51	=51
+4D-X 4GG-X	8ffL)	.
+.	16r	.
+.	16ffJk	.
+4D-^> 4GG-^>	4een	.
+4D- 4GG-	8.dd-XL	.
+*Xped	*	*
+.	>16ccJk	.
+=52	=52	=52
+*^	*	*
+!	!	!LO:TX:b:i:t=poco rall.	!
+4D-X	2.FF)	(12b-L	.
+.	.	12cc	.
+.	.	12b-J)	.
+2C^>	.	4.a^<	.
+!	!	!LO:TX:b:iB:t=a Tempo.	!
+.	.	8g	.
+*v	*v	*	*
+=53	=53	=53
+*ped	*	*
+4FF	8fL	f
+.	16r	.
+.	(>16fJk	.
+4e- 4c 4F	4g	.
+*Xped	*	*
+4e- 4c 4F	4a	.
+!!LO:LB:g=original
+=54	=54	=54
+*ped	*	*
+4BB-	8b-L)	.
+.	16r	.
+.	(>\16ccJk	.
+*Xped	*	*
+4d 4B- 4F	4dd	<
+4BB-	8ee-L	.
+.	8ffJ	.
+=55	=55	=55
+*ped	*	*
+4E- 4EE-	>8ggL)	.
+.	16r	.
+.	(16aaJk	f
+4g: 4e-: 4B-: 4G:	4bb-T	.
+*Xped	*	*
+4r	8aaL	.
+.	8ggJ)	.
+=56	=56	=56
+.	8qff/	.
+4BB-'<	8bb-`>L	.
+.	16r	.
+.	(>16bb-J	>
+4d 4B- 4F	2dd)	]
+4d 4B- 4F	.	.
+=57	=57	=57
+.	8qee-/	.
+4FF'<	8gg`>L	.
+.	16r	.
+.	(>16ggJk	>
+4e- 4c 4F	2a\)	]
+4e- 4c 4F	.	.
+=58	=58	=58
+.	8qb-/	.
+4BB-'<	8dd`>L	.
+.	16r	.
+.	(>16ddJk	>
+4d 4B- 4F	2en)	]
+4d 4B- 4F	.	.
+=59	=59	=59
+4FF	8f/L	.
+.	16r	.
+.	(<16ak	<
+4e- 4F	8cc	.
+.	8ee-X	.
+4e- 4A 4F	8.gg)	[
+.	16ffJk	.
+!!LO:LB:g=original
+=60	=60	=60
+.	8qff/	.
+4BB-	8dddL	.
+.	16r	.
+.	(>16ccck	>
+4d 4B- 4F	8bb-M	.
+.	8ggJ	]
+4d 4B- 4F	4ff)	.
+=61	=61	=61
+.	8qgg/	.
+4BB-	8bb-L	.
+.	16r	.
+.	(>16bb-Jk	>
+4e- 4c 4F	2a\)	]
+4e- 4c 4F	.	.
+=62	=62	=62
+.	16qb-/LL	.
+.	16qdd/JJ	.
+4BB-	8ffL	.
+.	16r	.
+.	(>16ffJk	>
+4d 4B- 4F	2en)	]
+4d 4B- 4F	.	.
+=63	=63	=63
+4FF	8f/L	.
+.	16r	.
+.	(<16ak	<
+4e- 4F	8cc	.
+.	8ee-X	.
+4e- 4A 4F	8.ddm<)	[
+.	16ccJk	.
+=64	=64	=64
+!!!LO:TX:a:B:t=1o.
+*>C1	*>C1	*>C1
+4BB-	8dd\L	f
+.	16r	.
+.	(>16fJk	.
+4d 4B- 4F	4b-\)	.
+=65:|!	=65:|!	=65:|!
+!!LO:TX:a:B:t=2o.
+*>C2	*>C2	*>C2
+4BB-	(>8ddL	.
+.	8f\J)	.
+4d; 4F; 4BB-;	4bb-; 4b-;	fz
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cres."
+!!!ENC:Jacek Iwaszko
+!!!END:2017-08-10
+!!!EED: Marcin Konik
+!!!EST: revision finished 2017-08-24
+!!!EED2: Emilia Ziętek
+!!!EST2: revision finished 2018-12-09
+!!!rism-genre: Mazurka
+!!!rism-key: B-flat major
+!!!rism-opus: op.  7, no. 1
+!!!rism-title: Mazurka in B-flat major op.  7, no. 1
+!!!rism-permalink: https://opac.rism.info/search?id=300605323&View=rism
+!!!rism-773a-OPR: 300605322
+!!!rism-parent-permalink: https://opac.rism.info/search?id=300605322&View=rism

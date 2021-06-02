@@ -1,0 +1,418 @@
+!!!!SEGMENT: 028_1-12-1a-C-005.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Prelude V
+!!!OPS: Op. 28
+!!!PTL: 24 Preludes pour le Piano
+!!!PPR: Catelin
+!!!PPP: Paris
+!!!NIFC-rismID: 1001065069
+!!!NIFC-shelfmark: PL-Wbfc 6583/n
+!!!OMD: All. molto.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*S
+*I"V.	*	*
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*D:	*D:	*
+*M3/8	*M3/8	*
+*MM105	*MM105	*
+=1	=1	=1
+*	*^	*
+*ped	*	*	*
+8r	(>16bLL	8.ryy	<
+.	16a	.	.
+16GLL	16c#	.	.
+16AA	16b	8bL	.
+16G	16ee	.	.
+16eJJ	16aJJ	8aJ	.
+*Xped	*	*	*
+.	.	.	.
+=2	=2	=2	=2
+16GLL	16c#LL	.	.
+*ped	*	*	*
+!	!	!LO:TX:t=P:beam between 8b-XL and 8aJ:problem	!
+16AA	16b-X	8b-XL	.
+16G	16ee	.	.
+16e	16a	8aJ	.
+*Xped	*	*	*
+16G	16c#	.	.
+*ped	*	*	*
+!	!	!LO:TX:b:t=P:cross-measure beam:problem	!
+16AAJJ	16bnJJ	8bnL	.
+=3	=3	=3	=3
+16GLL	16eeLL	.	.
+16e	16a	8aJ	[[
+*Xped	*	*	*
+16G	16c#	.	>
+*ped	*	*	*
+!	!	!LO:TX:t=P:beam between 8b-XL and 8aJ:problem	!
+16AA	16b-X	8b-XL	.
+16G	16ee	.	.
+16eJJ	16aJJ	8aJ	.
+=4	=4	=4	=4
+*Xped	*	*	*
+16GLL	16c#LL	.	.
+*ped	*	*	*
+16AA	16bn	8bnL	.
+16G	16ee	.	.
+16e	16a	8aJ	.
+*Xped	*	*	*
+16G	16c#	.	.
+16AJJ	16f#JJ	16ryy	]
+*	*v	*v	*
+=5	=5	=5
+*ped	*	*
+!LO:TX:b:t=P:problem:znak pedalizacji przed nutą	!	!
+16DDLL\	16dLL	.
+16F#	16A	.
+*Xped	*	*
+16G	16A#X	.
+16GG	16B	.
+16AA	16f# 16c#	.
+16GJJ	16eJJ	.
+!!LO:LB:g=original
+=6	=6	=6
+!	!LO:TX:b:Bi:t=cres _:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:Bi:t=cres:ext=ud
+*ped	*	*
+16F#LL	16dLL	<
+16BB	16dd	.
+16d	16f#	.
+*Xped	*	*
+16F#	16a	.
+16E	16cc# 16g#X	.
+16dJJ	16bJJ	.
+=7	=7	=7
+16c#LL	16eLL	.
+16A	16a	.
+16d	16e#X	.
+16D	16f#	.
+16E	16cc# 16g#X	.
+16dJJ	16bJJ	.
+=8	=8	=8
+16c#LL	16aLL	.
+*ped	*	*
+16cn	16ee	.
+16F#	16e	.
+16AA	16a	.
+*Xped	*	*
+.	.	.
+16BB	16ccn 16d#X	.
+16AJJ	16bJJ	.
+=9	=9	=9
+*ped	*	*
+!LO:TX:b:t=P:problem:znak pedalizacji przed nutą	!	!
+16GLL<	16BLL	.
+16EE	16e	.
+*Xped	*	*
+.	.	.
+16AA	16cn	.
+16A	16e	.
+16BB	16g 16d#X	.
+16AJJ	16f#JJ	.
+=10	=10	=10
+*ped	*	*
+16GLL	16eLL	.
+16E	16ee	.
+16e	16g	.
+*Xped	*	*
+16G	16b	.
+16F#	16dd 16a#X	.
+16eJJ	16cc#JJ	.
+=11	=11	=11
+*ped	*	*
+!LO:TX:b:t=P:problem:znak pedalizacji przed nutą	!	!
+16dLL	16bLL	.
+16BB	16f#	.
+*Xped	*	*
+16E	16g	.
+16e	16b	.
+16F#	16dd 16a#X	.
+16eJJ	16cc#JJ	[[
+!!LO:LB:g=original
+=12	=12	=12
+*ped	*	*
+16dLL	16bLL	.
+16E#X	16bb	.
+16B	16gg#X	.
+16g#X	16dd	.
+*Xped	*	*
+16c#	16cc#	.
+16dJJ	16bJJ	.
+=13	=13	=13
+16c#LL	16a#XLL	.
+16F#	16ff#	.
+*ped	*	*
+16d	16b	.
+16BB	16gg#X	.
+*Xped	*	*
+16c#	16e#X	.
+16C#JJ	16aa#XJJ	.
+=14	=14	=14
+*ped	*	*
+!LO:TX:b:t=P:problem:znak pedalizacji przed nutą	!	!
+16FF#LL	16a#XLL	.
+16c#	16ff#	.
+16d	16b	.
+*Xped	*	*
+16BB	16gg#X	.
+*ped	*	*
+16c#	16e#X	.
+*Xped	*	*
+16C#JJ	16aa#XJJ	.
+=15	=15	=15
+*ped	*	*
+!LO:TX:b:t=P:problem:znak pedalizacji przed nutą	!	!
+16FF#LL	16a#XLL	>
+16c#	16ff#	.
+16d	16b	.
+*Xped	*	*
+16BB	16gg#X	.
+*ped	*	*
+16c#	16e#X	.
+*Xped	*	*
+16C#JJ	16aa#XJJ	.
+=16	=16	=16
+*ped	*	*
+!LO:TX:b:t=P:problem:znak pedalizacji przed nutą	!	!
+16FF#LL	16a#XLL	.
+16c#	16ff#	.
+*Xped	*	*
+16d	16b	.
+*ped	*	*
+16BB	16gg#X	.
+16c#	16e#X	.
+*Xped	*	*
+16C#JJ	16aanJJ	.
+=17	=17	=17
+*	*^	*
+*ped	*	*	*
+!LO:TX:b:t=P:problem:znak pedalizacji przed nutą	!	!	!
+16FF#LL	16ff#LL	8.ryy	<
+16A	16f#	.	.
+*Xped	*	*	*
+16G	16c#	.	.
+*ped	*	*	*
+16AA	16b	8bL	.
+16G	16ee	.	.
+16eJJ	16aJJ	8aJ	.
+!!LO:LB:g=original
+=18	=18	=18	=18
+16GLL	16c#LL	.	.
+*Xped	*	*	*
+!	!	!LO:TX:t=P:beam between 8b-XL and 8aJ:problem	!
+16AA	16b-X	8b-XL	.
+*ped	*	*	*
+16G	16ee	.	.
+16e	16a	8aJ	.
+16G	16c#	.	.
+*Xped	*	*	*
+!	!	!LO:TX:b:t=P:cross-measure beam:problem	!
+16AAJJ	16bnJJ	8bnL	.
+=19	=19	=19	=19
+*ped	*	*	*
+16GLL	16eeLL	.	.
+16e	16a	8aJ	.
+*Xped	*	*	*
+16G	16c#	.	[>
+*ped	*	*	*
+!	!	!LO:TX:t=P:beam between 8b-XL and 8aJ:problem	!
+16AA	16b-X	8b-XL	.
+16G	16ee	.	.
+16eJJ	16aJJ	8aJ	.
+=20	=20	=20	=20
+*Xped	*	*	*
+16GLL	16c#LL	.	.
+*ped	*	*	*
+16AA	16bn	8bnL	.
+16G	16ee	.	.
+16e	16a	8aJ	.
+16G	16c#	.	.
+*Xped	*	*	*
+16AJJ	16f#JJ	16ryy	]]
+*	*v	*v	*
+=21	=21	=21
+16DDLL\	16dLL	.
+16F#	16A	.
+16G	16A#X	.
+16GG	16B	.
+16AA	16g 16c#	.
+16AJJ	16f#JJ	.
+=22	=22	=22
+!	!LO:TX:b:Bi:t=cres _:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:Bi:t=cres:ext=ud
+16F#LL	16dLL	<
+16BB	16dd	.
+16d	16f#	.
+16Fn	16a	.
+16E	16ccn 16g#X	.
+16dJJ	16bJJ	.
+=23	=23	=23
+16cnLL	16eLL	.
+16A	16a	.
+16d	16fn	.
+16D	16a	.
+16E	16ccn 16g#X	.
+16dJJ	16bJJ	.
+=24	=24	=24
+16c#LL	16aLL	.
+16cn	16ee	.
+16F#	16e	.
+16AA	16a	.
+16BB	16ccn 16d#X	.
+16AJJ	16bJJ	.
+!!LO:LB:g=original
+=25	=25	=25
+16GLL/	16BLL	.
+16EE	16e	.
+16AA	16cn	.
+16A	16e	.
+16BB	16g 16d#X	.
+16AJJ	16f#JJ	.
+=26	=26	=26
+16GLL	16eLL	.
+16E	16ee	.
+16e	16g	.
+16G	16b	.
+16F#	16dd 16a#X	.
+16eJJ	16cc#JJ	.
+=27	=27	=27
+16dLL	16bLL	.
+16BB	16f#	.
+16E	16g	.
+16e	16b	.
+16F#	16dd 16a#X	.
+16eJJ	16cc#JJ	.
+=28	=28	=28
+16dLL	16bLL	[
+16E#X	16bb	.
+16B	16gg#X	.
+16g#X	16dd	.
+16c#	16cc#	.
+16dJJ	16bJJ	.
+=29	=29	=29
+*	*ped	*
+16F#LL	16aLL/	.
+*	*Xped	*
+16d	16dd	.
+*	*ped	*
+16B-X	16g	.
+16GG	16ee	.
+*	*Xped	*
+16A	16c#	.
+*	*ped	*
+16AAJJ	16ff#JJ	.
+=30	=30	=30
+16DDLL\	16f#LL	.
+*	*Xped	*
+16A	16dd	.
+*	*ped	*
+16B-X	16g	.
+16GG	16ee	.
+*	*Xped	*
+16A	16c#	.
+*ped	*	*
+16AAJJ	16ff#JJ	.
+=31	=31	=31
+!	!LO:TX:b:Bi:t=dim _:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:Bi:t=dim:ext=ud
+16DDLL\	16f#LL	>
+*Xped	*	*
+16A	16dd	.
+*ped	*	*
+16B-X	16g	.
+16GG	16ee	.
+*Xped	*	*
+16A	16c#	.
+*ped	*	*
+16AAJJ	16ff#JJ	]]
+!!LO:LB:g=original
+=32	=32	=32
+16DDLL\	16f#LL	.
+*Xped	*	*
+16A	16dd	.
+*ped	*	*
+16B-X	16g	.
+*Xped	*	*
+16GG	16ee	.
+*ped	*	*
+16A	16c#	.
+16AAJJ	16ff#JJ	.
+*Xped	*	*
+.	.	.
+=33	=33	=33
+*	*^	*
+*ped	*	*	*
+16DDLL\	16f#LL	8.ryy	<
+16AA	16dd	.	.
+16A	16d	.	.
+16AA	16b-X	8b-XL	.
+16DD	16dd	.	.
+16AAJJ	16aJJ	8aJ	.
+*Xped	*	*	*
+.	.	.	.
+=34	=34	=34	=34
+*ped	*	*	*
+16ALL\	16dLL	.	.
+!	!	!LO:TX:t=P:beam between 8gL and 8f#J:problem	!
+16AA	16g	8gL	.
+16DD	16dd	.	.
+16AA	16f#	8f#J	.
+16A	16d	.	.
+!	!	!LO:TX:t=P:cross-measure beam:problem	!
+16AAJJ	16b-XJJ	8b-XL	.
+=35	=35	=35	=35
+16DDLL\	16ddLL	.	.
+16AA	16a	8aJ	.
+16A	16d	.	.
+!	!	!LO:TX:t=P:beam beatween 8gL and 8f#J:problem	!
+16AA	16g	8gL	.
+16DD	16dd	.	.
+16AAJJ	16f#JJ	8f#J	.
+=36	=36	=36	=36
+16ALL\	16dLL	.	.
+16AA	16b-X	4ryy	.
+16DD	16dd	.	.
+16AA	16a	.	.
+16A	16d	.	.
+16AAJJ	16ddJJ	16ryy	.
+*	*v	*v	*
+=37	=37	=37
+8DD	8fff#)	.
+.	.	[
+*Xped	*	*
+4r	4r	.
+=38	=38	=38
+*ped	*	*
+!	!	!LO:DY:rj
+8c#: 8E: 8AA:	8aa: 8ee: 8g:	f
+*Xped	*	*
+4r	4r	.
+=39	=39	=39
+8qqDD/	.	.
+*ped	*	*
+8d 8A 8D	8ff# 8dd 8f#	.
+*Xped	*	*
+4r;	4r;	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: > = "dim:", fontstyle= "bold-italic"
+!!!RDF**dynam: < = "cres", fontstyle= "bold-italic"
+!!!RDF**kern: N = linked
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2019-05-11
+!!!EED: Leszek Kubiak
+!!!EST: 2019-05-16
+!!!EED2: Emilia Ziętek
+!!!EST2: 2020-05-03
+!!!rism-genre: Prelude
+!!!rism-key: D major
+!!!rism-opus: op. 28, no. 5
+!!!rism-title: Prelude in D major op. 28, no. 5
+!!!rism-permalink: https://opac.rism.info/search?id=1001065069&View=rism
+!!!rism-773a-OPR: 1001065063
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001065063&View=rism

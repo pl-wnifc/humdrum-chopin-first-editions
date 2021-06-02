@@ -1,0 +1,289 @@
+!!!!SEGMENT: 074-1-Sam-008.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: MEIN GELIEBTER
+!!!OPS: Op. 74
+!!!PTL: 16 | Polnische Lieder | von Witwicki, Zaleski Mickiewicz etc. | für eine Singstimme | mit Begleitung des Pianoforte
+!!!PPR: Schlesinger
+!!!PPP: Berlin
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: PL-Wbfc 6138/n
+!!!OMD: Allegro moderato. M. M. [quarter] = 96.
+!!!system-decoration: (s1){(s2,s3)}
+**kern	**kern	**fing	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff2	*	*	*staff1	*	*
+*	*I"PIANO.	*	*	*I"SINGSTIMME.	*	*
+*clefF4	*clefG2	*	*	*clefG2	*	*
+*k[f#c#]	*k[f#c#]	*	*	*k[f#c#]	*	*
+*D:	*D:	*	*D:	*	*	*
+*M3/4	*M3/4	*	*	*M3/4	*	*
+*MM96	*MM96	*	*	*MM96	*	*
+!	!	!	!	!LO:TX:t=P:"Allegro moderato." nad "M. M....":problem	!	!
+4r	4a	.	.	4r	.	.
+!LO:TX:b:t=[segno]	!LO:TX:a:t=[segno]	!	!	!LO:TX:a:t=[segno]	!	!
+=1||	=1||	=1||	=1||	=1||	=1||	=1||
+4AA	(>8bbL	5	f	2.r	.	.
+.	8aa	4	.	.	.	.
+4g 4e 4A	8gg	5	.	.	.	.
+.	8cc#	.	.	.	.	.
+4AA#X	8ff# 8g	.	.	.	.	.
+.	8eeJ)	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+4BB	(<8ddL	.	.	2.r	.	.
+.	8f#	.	.	.	.	.
+4d 4B	8cc#	.	.	.	.	.
+.	8b	.	.	.	.	.
+4r	8a 8fn	.	.	.	.	.
+.	8g#XJ)	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3
+4AA	8bL 8f#X	.	.	2.r	.	.
+.	8aT<	.	.	.	.	.
+4f# 4d 4A	8g#X	.	.	.	.	.
+.	8a	.	.	.	.	.
+4c# 4A	8ee 8gn	.	.	.	.	.
+.	8ff#J 8a	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+*^	*	*	*	*	*	*
+4rd	2.D	4dd 4f#	.	.	2.r	.	.
+4A	.	4r	.	.	.	.	.
+4A	.	4f#	.	.	.	.	.
+*v	*v	*	*	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5
+*	*	*	*	*	*^	*
+*	*	*	*	*	*	*^	*
+*ped	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:t=P:w miejscu spacji za "1.", "2." i "3." wyświetla się kreska / łuczek:problem	!	!	!	!
+2.D	4r	.	mf	8.f#	1. Jung	2. Und	3. Und	.
+.	.	.	.	16e#X	und	im	beim	.
+!	!	!	!	!	!	!	!	!LO:HP:a
+.	4f# 4d 4A<	.	.	4f#	feu-	In-	Tan-	<
+.	4f# 4d 4A<	.	.	4g	-rig	-nern	-ze	[[
+!!LO:LB:g=original
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+*ped	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:t=P:w miejscu spacji za "1.", "2." i "3." wyświetla się kreska / łuczek:problem	!	!	!	!
+2.C#\	4r	.	.	4a	1. voll	2. wellch’	3. dies	.
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby w "Schmiegen":problem	!	!	!	!
+.	4e 4A<	.	.	4.b/^>	Le-	Re-	Schmie-	.
+.	4a 4e 4A<	.	.	.	.	.	.	.
+*Xped	*	*	*	*	*	*	*	*
+.	.	.	.	8a	-ben,	-gen,	-gen,	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+8CnL<	8A<L	.	.	8a	mir	blickt	ihm	.
+8AAJ	8cn<J	.	.	8ccn	auf	sein	am	.
+2BB\	4r	.	.	4.b	im-	Aug’	Her-	.
+.	4b 4d#X 4A<	.	.	.	.	.	.	.
+.	.	.	.	8f#	-mer	mir	-zen	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+!	!	!	!	!LO:TX:t=P:note-head-side tuplet number:problem	!	!	!	!
+4EE	4r	.	.	(<12aL	er-	ent-	zu	.
+.	.	.	.	12b	.	.	.	.
+.	.	.	.	12aJ)	.	.	.	.
+4E	4g 4e 4B	.	.	4.g	-ge-	-ge-	lie-	.
+4E	4g 4d 4B-X^<	.	.	.	.	.	.	.
+.	.	.	.	8f#	-ben.	-gen.	-gen.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+*^	*	*	*	*	*	*	*	*
+!	!	!	!	!	!	!	!	!	!LO:HP:a
+!	!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!	!	!
+4rA	2.AA	4r	.	.	8.e	.	Schwar-	.	<
+.	.	.	.	.	16a	.	-zes	.	.
+.	.	.	.	.	(<8qcc#/	.	.	.	.
+4E\	.	4g 4c#yX 4A	.	.	4b/)	.	Bärt-	.	[
+4E\	.	4g 4c# 4A	.	.	4a	.	-chen,	.	.
+*v	*v	*	*	*	*	*	*	*	*
+=10	=10	=10	=10	=10	=10	=10	=10	=10
+!	!	!	!	!	!	!	!	!LO:HP:a
+*ped	*	*	*	*	*	*	*	*
+2.D	4r	.	.	8g#X	.	schön’	.	<
+.	.	.	.	8a	.	Ge-	.	[
+!	!	!	!	!	!	!	!	!LO:DY:a:rj
+!	!	!	!LO:DY:rj	!	!	!	!	!
+.	2f# 2d 2A<	.	sf	2dd	.	-sicht,	.	sf
+*Xped	*	*	*	*	*	*	*	*
+!!LO:LB:g=original
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+!	!	!	!	!LO:TX:t=P:w miejscu spacji za "1.", "2." i "3." wyświetla się kreska / łuczek:problem	!	!	!	!
+2AA\	4r	.	.	8.f#	.	1. 2. 3. schlank	.	.
+.	.	.	.	16g	.	und	.	.
+.	(>4f# 4d 4A<	.	.	4a	.	keck,	.	.
+4AA\	4fn 4d 4G#X<	.	.	4b/	.	mehr	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12
+4AA	4e 4c# 4Gn<	.	.	8a	.	will	.	.
+.	.	.	.	8e	.	ich	.	.
+4DD	4d) 4F#<	.	.	4f#	.	nicht;	.	.
+4rGG	4a 4A<	.	.	4r	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!	!	!
+2.C# 2.CC#	4r	.	.	8a	.	schwar-	.	.
+.	.	.	.	8a	.	-zes	.	.
+!	!	!	!LO:HP:a:i:t=cres-cendo.:ext=ud	!	!	!	!	!
+!	!LO:TX:a:i:t=cres_cendo.:problem:dynamics with line extensions	!	!	!	!	!	!	!
+.	4g 4e 4A<	.	<	4b/	.	Bärt-	.	.
+.	4a 4g 4e 4A<	.	.	4a	.	-chen,	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+!	!	!	!	!	!	!	!	!LO:HP:a
+*ped	*	*	*	*	*	*	*	*
+2D 2DD	4r	.	.	8g#X	.	schön’	.	<
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!	!	!
+!	!	!	!	!LO:TX:t=P:w źródle przecinek za linią podkreślnikową:problem	!	!	!	!
+.	.	.	[	8a	.	Ge-	.	[
+!	!	!	!	!	!	!	!	!LO:DY:rj
+!	!	!	!	!	!	!	!	!LO:DY:a
+!	!	!	!LO:DY:rj	!	!	!	!	!
+.	4a 4f# 4d 4A<;>	.	sf	[>2ff#;	.	sicht,_	.	sf
+*Xped	*	*	*	*	*	*	*	*
+4r	4r	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+2.AA\	4r	.	.	8ff#L]	.	.	.	.
+.	.	.	.	8eeJ	.	.	.	.
+.	4f# 4d 4A<	.	.	8dd	.	schlank	.	.
+.	.	.	.	8f#	.	und	.	.
+!	!	!	!LO:HP:a:i:t=dimi_nuen_do.:ext=ud	!	!	!	!	!
+!	!LO:TX:a:i:t=dimi_nuen_do.:problem:dynamics with line extensions	!	!	!	!	!	!	!
+.	4f# 4d 4A<	.	>	8cc#	.	keck,	.	.
+.	.	.	.	8b	.	mehr	.	.
+!!LO:PB:g=original
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+!	!	!	!	!LO:TX:t=P:w miejscu spacji za "2." wyświetla się kreska / łuczek:problem	!	!	!	!
+4AA	4g 4c# 4A	.	.	8a	1.	2. will	3.	.
+.	.	.	.	8c#	.	ich	.	.
+4D	4f# 4d 4A<	.	.	4d	.	nicht.	.	.
+4BB	4r	.	]]	4r	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+!	!	!	!	!LO:TX:t=P:nie powinno być widać kwadratowej klamry:problem	!	!	!	!
+!	!	!	!LO:DY:a:rj	!	!	!	!	!
+2.E	4r	.	p	(>12bL	Will	Sei-	Welch’	.
+.	.	.	.	12cc#J	.	.	.	.
+.	.	.	.	12b)	er	-ne	ein	.
+.	4e 4d	.	.	4a	kom-	Wor-	Glück	.
+.	4e 4d	.	.	4b\	-men,	-te,	erst	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+*^	*	*	*	*	*	*	*	*
+4rA	2.AA	4r	.	.	4cc#	bleibt	sein	auf	.
+2E	.	4e 4c#	.	.	4.a	lan-	Sin-	Er-	.
+.	.	4e 4c#	.	.	.	.	.	.	.
+.	.	.	.	.	8e	-ge,	-gen,	-den,	.
+*v	*v	*	*	*	*	*	*	*	*
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+2.EE	4r	.	.	8b	wird	tief	wenn	.
+.	.	.	.	8b	mir	hin-	wir	.
+.	4e 4d 4F#<	.	.	4.a	ach	-ein	Mann	.
+.	4e 4d 4G#X<	.	.	.	.	.	.	.
+.	.	.	.	8b	so	ins	und	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+*^	*	*	*	*	*	*	*	*
+*ped	*	*	*	*	*	*	*	*	*
+4ryy	2.AA 2.AAA/	4r	.	.	4cc#	sehr	Herz	Frau	.
+2E	.	2a 2e 2c# 2A	.	.	(<8aL	ban-	klin-	wer-	.
+!	!	!LO:TX:a:i:t=riten_:dur=1q1e:ext=ud:problem:text with line extensions	!	!	!	!	!	!	!
+.	.	.	.	.	8g#X	.	.	.	.
+.	.	.	.	.	8gnJ)	.	.	.	.
+*Xped	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	8f#	-ge,	gen,	-den,	.
+*v	*v	*	*	*	*	*	*	*	*
+!!LO:LB:g=original
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+!	!LO:TX:a:B:t=tempo.	!	!	!	!	!	!	!
+*ped	*	*	*	*	*	*	*	*
+2.C#\	4r	.	.	8.e	.	Schwart-	.	.
+!	!	!	!	!	!	!	!	!LO:DY:a
+.	.	.	.	16a	.	-zes	.	.
+.	.	.	.	(<8qcc#/	.	.	.	.
+.	4g 4e 4A<	.	.	4b/)	.	Bärt-	.	.
+.	4g 4e 4A<	.	.	4a	.	-chen,	.	.
+*Xped	*	*	*	*	*	*	*	*
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+*ped	*	*	*	*	*	*	*	*
+2D	4r	.	.	8g#X	.	schön’	.	.
+.	.	.	.	8a	.	Ge-	.	.
+!	!	!	!	!	!	!	!	!LO:DY:rj
+!	!	!	!	!	!	!	!	!LO:DY:a
+!	!	!	!LO:DY:rj	!	!	!	!	!
+.	4f# 4d 4A<	.	sf	2dd	.	sicht,	.	sf
+4r	4r	.	.	.	.	.	.	.
+*Xped	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23
+2AA	4r	.	.	8.f#	.	schlank	.	.
+.	.	.	.	16gn	.	und	.	.
+.	(>4f# 4d 4A<	.	.	4a	.	keck,	.	.
+4AA\	4fn 4d 4G#X<	.	.	4b/	.	mehr	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24
+4AA	4e 4c# 4Gn<	.	.	8a	.	will	.	.
+.	.	.	.	8e	.	ich	.	.
+4AA#X	4e 4c# 4F#<	.	.	4f#	.	nicht,	.	.
+4BB	4d 4B 4F#<)	.	.	4r	.	.	.	.
+!!LO:LB:g=original
+=25	=25	=25	=25	=25	=25	=25	=25	=25
+*ped	*	*	*	*	*	*	*	*
+!	!	!	!	!LO:TX:t=P:w źródle brak myślnika rozdzielającego sylaby:problem	!	!	!	!
+2.C# 2.CC#	4r	.	.	8a	.	schwar-	.	.
+.	.	.	.	8a	.	-zes	.	.
+.	4a 4g 4e 4A<	.	.	4b/	.	Bärt-	.	.
+.	4a 4g 4e 4A<	.	.	4a	.	-chen,	.	.
+*Xped	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26
+2Cn 2CCn	4r	.	.	8g#X	.	schön’	.	.
+.	.	.	.	8a	.	Ge-	.	.
+!LO:TX:a:i:t=rit.	!	!	!	!LO:TX:a:i:t=ten.	!	!	!	!
+!	!	!	!	!LO:TX:t=P:w źródle przecinek za linią podkreślnikową:problem	!	!	!	!
+!	!LO:TX:t=P:w źródle "rit." przesunięte bardziej w lewą stronę:problem	!	!	!	!	!	!	!
+.	4a 4f# 4e 4A<	.	.	[>2ff#	.	sicht,_	.	.
+4BB 4BBB	4b 4f# 4d#X 4B< 4A<^<	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27
+4EE\	4g#X 4dn 4B	.	.	8ff#L]	.	.	.	.
+.	.	.	.	8eeJ	.	.	.	.
+4FF#	4a 4d 4A<	.	.	8dd	.	schlank	.	.
+.	.	.	.	8f#	.	und	.	.
+4GG\	4gn 4e 4B	.	.	8cc#	.	keck,	.	.
+.	.	.	.	8b	.	mehr	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28
+4AA	4g 4c# 4A	.	.	8a	.	will	.	.
+.	.	.	.	8c#	.	ich	.	.
+.	.	.	.	.	.	.	.	.
+!LO:TX:b:B:i:t=Dal Segno.	!	!	!	!	!	!	!	!
+4D 4DD	4f# 4d 4A	.	.	4d	.	nicht!	.	.
+4r	4a	.	.	4r	.	.	.	.
+!LO:TX:b:t=[segno]	!LO:TX:a:t=[segno]	!	!	!LO:TX:a:t=[segno]	!	!	!	!
+*	*	*	*	*	*	*v	*v	*
+*	*	*	*	*	*v	*v	*
+!!LO:LB:g=original
+=29||	=29||	=29||	=29||	=29||	=29||	=29||
+!	!LO:TX:t=P:w źródle brak pięciolinii z pustymi czterema ostatnimi taktami partii wokalnej:problem	!	!	!	!	!
+4AA	(>8bbL	5	f	2.r	.	.
+.	8aa	4	.	.	.	.
+4g 4e 4A	8gg	5	.	.	.	.
+.	8cc#	.	.	.	.	.
+4AA#X	8ff# 8g	.	.	.	.	.
+.	8eeJ)	.	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30
+4BB	(>8ddL\	.	.	2.r	.	.
+.	8f#	.	.	.	.	.
+4d 4B	8cc#	.	.	.	.	.
+.	8b	.	.	.	.	.
+4r	8a 8fn	.	.	.	.	.
+.	8g#XJ)	.	.	.	.	.
+=31	=31	=31	=31	=31	=31	=31
+4AA	8bL 8f#X	.	.	2.r	.	.
+.	(<8aT	.	.	.	.	.
+4f# 4d 4A	8g#X	.	.	.	.	.
+.	8a	.	.	.	.	.
+4c# 4A	8ee 8gn	.	.	.	.	.
+.	8ff#J 8a)	.	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32
+*^	*	*	*	*	*	*
+4rB	2D	4dd 4f#	.	.	2.r	.	.
+4A	.	4r	.	.	.	.	.
+4rB	4rBB	4r	.	.	.	.	.
+*v	*v	*	*	*	*	*	*
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!ENC: Antoni Szymański
+!!!END: 2020-02-07
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: 2020-02-23

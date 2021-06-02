@@ -1,0 +1,503 @@
+!!!!SEGMENT: 008-1b-W-003-violino.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Trio
+!!!OPS: Op. 8
+!!!PTL: First Grand Trio for Pianoforte, Violin et Violoncello. Concertant.
+!!!PPR: Wessel
+!!!NIFC-rismID: PL-Wbfc F.7151 a, b.
+!!!NIFC-shelfmark: PL-Wbfc F.7151 a, b.
+!!!OMD: sostenuto.
+!!!OMD: [quarter] = 63.
+!!!system-decoration: s1,s2{(s3,s4)}
+**kern	**fing	**dynam
+*part1	*	*part1
+*2\right	*	*
+*I" ADAGIO.	*	*
+*staff1	*	*
+*clefG2	*	*
+*k[b-e-a-]	*	*
+*M3/4	*	*
+=1	=1	=1
+!LO:TX:t=P:dwa takty pauzy, znak poziomy w takcie:problem	!	!
+!LO:TX:a:B:t=2	!	!
+2.r	.	.
+=2	=2	=2
+2.r	.	.
+=3	=3	=3
+!	!	!LO:DY:rj
+4.g-X^<	.	f
+8g-	.	.
+!LO:TX:a:t=P:stem-side tuplet number:problem	!	!
+(>&(<12g-L	.	.
+12.d&)	.	.
+(<24e-Jk)	.	.
+=4	=4	=4
+4.f^>)	.	.
+8r	.	.
+4r	.	.
+=5	=5	=5
+!	!	!LO:DY:rj
+(<4g	.	p
+4a-	.	.
+4d	.	.
+=6	=6	=6
+4e-	.	.
+8c)	.	.
+8r	.	.
+8r	.	.
+(<8e-	.	.
+=7	=7	=7
+4en)	.	.
+4f	.	.
+8.gL	.	<
+!LO:TX:a:Bi:t=espress	!	!
+(<16a-Jk	.	[
+=8	=8	=8
+4g^>	.	.
+4.f)	.	.
+8B-	.	.
+=9	=9	=9
+2e-	.	p
+4f	.	.
+!!LO:LB:g=original
+=10	=10	=10
+4g	.	.
+2e-^>	.	pp
+=11	=11	=11
+8d	.	.
+8r	.	.
+8r	.	.
+!	!	!LO:HP:a
+8d'<L	.	<
+8d'<	.	.
+8c'<J	.	.
+=12	=12	=12
+4.Bn	.	[
+8r	.	.
+4r	.	.
+=13	=13	=13
+!LO:TX:Bi:t=espress.	!	!
+4ee-	.	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+(>20ddLL	.	.
+20ee-	.	.
+20dd	.	.
+20cc#X	.	.
+20ddJJ)	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+8.gg^<L	4	.
+16ffJk	.	.
+=14	=14	=14
+(>8.b-L	1	.
+16bnJk	.	.
+4cc)	.	.
+8r	.	.
+8cc	.	.
+=15	=15	=15
+(>24b-XLL	.	.
+24cc	.	.
+24b-	.	.
+24an	.	.
+24b-	.	.
+24ccJJ)	.	.
+(<8b-L/	.	.
+8a-X	.	.
+8g	.	.
+8a-J)	.	.
+!!LO:LB:g=original
+=16	=16	=16
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+(<4g^<	.	.
+4f)	.	.
+(<24enLL	.	.
+24f	.	.
+24g	.	.
+24f	.	.
+24a-	.	.
+24gJJ)	.	.
+=17	=17	=17
+2e-X	.	.
+!	!	!LO:HP:a
+(<24dLL	.	<
+24e-	.	.
+24f	.	.
+24g	.	.
+24a-	.	.
+24b-JJ)	.	[[
+=18	=18	=18
+8dd-X^>L	.	.
+8ccJ	.	.
+(>24gLL	.	.
+24b-	.	<
+24g	.	.
+24b-	.	.
+24ff	.	.
+24ee-JJ)	.	[[
+8dd-XL	.	.
+8ccJ	.	.
+=19	=19	=19
+(>16bnLL	.	.
+16cc	.	.
+16dd	.	.
+16ccJJ)	.	.
+(<14g^>L	.	>
+14a-^>	.	.
+14b-Xy^>	.	.
+14a-	.	.
+14f	.	.
+14c	.	.
+14dJ)	.	.
+=20	=20	=20
+!	!	!LO:DY:rj
+(<4f	4	p
+8e-)	.	.
+8r	.	.
+4r	.	.
+=21	=21	=21
+!LO:TX:t=P:P:znak pionowy i poziomy w takcie:problem	!	!
+2.rdd	.	.
+=22	=22	=22
+2.rdd	.	.
+=23	=23	=23
+2.rdd	.	.
+=24	=24	=24
+4r	.	.
+4r	.	.
+(<4b-/	.	.
+!!LO:LB:g=original
+=25	=25	=25
+!LO:TX:Bi:t=appassionato.	!	!
+8.enL)	.	.
+16gJk	.	.
+!	!	!LO:HP:a
+(<20b-LL/	.	<
+20cc	.	.
+20b-	.	.
+20an	.	.
+20b-JJ)	.	[
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+8.ee-X^<L	.	.
+16dd-XJk	.	.
+=26	=26	=26
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+(>4dd-X^<	.	.
+4cc)	.	.
+(>8.eenL	2	.
+16ffJk)	.	.
+=27	=27	=27
+8.gg^<L	4	.
+16eenJk	4	.
+(>16ccLL	.	.
+16dd-X	.	.
+16ee-y	.	.
+16dd-JJ	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+8.cc^<L	.	.
+16b-Jk)	.	.
+=28	=28	=28
+4b-/	.	.
+2a-	.	.
+=29	=29	=29
+!	!	!LO:HP:a
+2a-	.	<
+.	.	[
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+8.g^>L	.	<
+16ccJk	.	.
+=30	=30	=30
+2b-/	.	<
+.	.	[
+8.anL/	.	.
+16ddJk	.	.
+=31	=31	=31
+!	!	!LO:DY:rj
+(>4dd	.	f
+!	!	!LO:HP:a
+8ccL<	.	>
+8b-	.	]
+!	!	!LO:DY:a
+8an	.	p
+8gJ)	.	.
+!!LO:LB:g=original
+=32	=32	=32
+2an	.	.
+(<12b-L/	.	.
+12.cc	.	.
+24b-Jk)	.	.
+=33	=33	=33
+(<2b-/	.	fz
+4d	.	.
+=34	=34	=34
+4e-	.	.
+8c)	.	.
+8r	.	.
+4r	.	.
+=35	=35	=35
+!	!	!LO:DY:rj
+[<2.c	.	p
+=36	=36	=36
+4.c]	.	.
+!LO:TX:a:Bi:t=con forza.	!	!
+(<8Bn	.	.
+16B-XLL	.	.
+16c	.	.
+16A-X	.	.
+16B-JJ	.	.
+=37	=37	=37
+2G	.	.
+8.e-L)	.	.
+16GJk	.	.
+=38	=38	=38
+!	!	!LO:DY:a
+(<4A-	.	p
+4B-	.	.
+4c	.	.
+=39	=39	=39
+4f)	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+(<8.a-^<L	.	.
+16gJk	.	.
+16gLL	.	.
+16f	.	.
+16e-	.	.
+16fJJ	.	.
+=40	=40	=40
+4d^>	.	.
+8e-)	.	.
+8r	.	.
+4r	.	.
+!!LO:LB:g=original
+=41	=41	=41
+(<4a-^<	.	.
+8g)	.	.
+16r	.	.
+(<16e-	.	.
+!LO:TX:a:t=P:stem-side tuplet number:problem	!	!
+&(>12e-L	.	.
+12.Bn	.	.
+24cJk&))	.	.
+=42	=42	=42
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+!	!	!LO:DY:rj
+(<4g-X^<	.	f
+8f)	.	.
+8r	.	.
+4r	.	.
+=43	=43	=43
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+(<4G^>	.	.
+8A-)	.	.
+8r	.	.
+4r	.	.
+=44	=44	=44
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+!	!	!LO:DY:rj
+4.cc-X^<	.	p
+8cc-	.	.
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+(>12cc-L<	.	.
+12g	.	.
+12a-J)	.	.
+=45	=45	=45
+2g^<$	.	.
+(<8.gL	.	<
+16a-Jk	.	.
+=46	=46	=46
+*Xtuplet	*	*
+4.b-/)	.	[[
+8b-/	.	.
+(<12b-L	.	.
+12f#X	.	.
+12gJ)	.	.
+=47	=47	=47
+[<2<.b-/	.	.
+=48	=48	=48
+*tuplet	*	*
+4.b-]/	.	.
+8a-	.	.
+(<12a-L	.	.
+12en	.	.
+24rf	.	.
+24fJk)	.	.
+!!LO:LB:g=original
+=49	=49	=49
+[<2.d	.	.
+=50	=50	=50
+4d]	.	.
+4r	.	.
+4r	.	.
+=51	=51	=51
+!LO:TX:a:B:t=1	!	!
+2.r	.	.
+=52	=52	=52
+4r	.	.
+(<4a-	.	>
+24b-LL	.	.
+24a-	.	.
+24g-X	.	.
+24f	.	.
+24e-	.	]
+24d-XJJ)	.	.
+=53	=53	=53
+2d-X	.	p
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+[<4a-^<	.	.
+=54	=54	=54
+(<8a-L]	.	.
+8g-XJ	.	.
+4f)	.	.
+8.B-L	.	.
+16fJk	.	.
+=55	=55	=55
+(<8.e-L	.	.
+16fJk	.	.
+4g-X	.	<
+8.a-L	.	.
+16anJk)	.	[[
+=56	=56	=56
+!LO:TX:b:Bi:t=dolce.	!	!
+!	!	!LO:DY:rj
+(>2b-	.	p
+4dd	.	.
+=57	=57	=57
+2cc	.	.
+4f)	.	.
+=58	=58	=58
+(>2ff	.	>
+8ee-L	.	.
+8ddJ	.	]
+=59	=59	=59
+!	!	!LO:HP:Bi:t=dimin.
+2cc	.	>
+8ddL	.	.
+8ccJ	.	.
+!!LO:LB:g=original
+=60	=60	=60
+!LO:TX:a:t=P:po zmianie systemu łuk obraca się:problem	!	!
+[<2.b-)/	.	.
+=61	=61	=61
+4b-]/	.	.
+4r	.	.
+4r	.	.
+=62	=62	=62
+!LO:TX:t=P:pionowy znak w takcie:problem	!	!
+2.r	.	.
+=63	=63	=63
+2.r	.	.
+=64	=64	=64
+2.r	.	.
+=65	=65	=65
+2.r	.	.
+=66	=66	=66
+4r	.	.
+!	!	!LO:DY:a
+(<4An	.	pp
+4A	.	.
+=67	=67	=67
+4.An)	.	.
+8r	.	.
+4r	.	.
+=68	=68	=68
+4.c#X^<	.	.
+8r	.	.
+4r	.	.
+=69	=69	=69
+4.d^<	.	.
+8r	.	.
+4r	.	.
+=70	=70	=70
+!LO:TX:B:t=1	!	!
+!LO:TX:Bi:t=ritard.	!	!
+!LO:TX:t=P:w źródle napis niewidoczny (wytarty) najprawdopodobniej 'ritard':problem	!	!
+2.rdd	.	.
+=71	=71	=71
+!LO:TX:Bi:t=1 tempo.	!	!
+(<4g	.	.
+4..a-)	.	.
+(<16f	.	.
+=72	=72	=72
+8.b-L)	.	.
+16e-Jk	.	.
+(<16qqe-/	.	.
+4cc)	.	f
+4r	.	.
+=73	=73	=73
+(12dd$L	.	f
+12.ff	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+24ee-^<Jk)	.	.
+8ee-	.	.
+8r	.	.
+4r	.	.
+=74	=74	=74
+!LO:TX:a:B:t=1	!	!
+2.rdd	.	.
+!!LO:LB:g=original
+=75	=75	=75
+!	!	!LO:DY:rj
+[<2.g	.	p
+=76	=76	=76
+4.g]	.	.
+(<16a-LL	.	.
+16gJJ	.	.
+16f#XL)	.	<
+(<16g	.	[
+16.cc	.	>
+32b-Jk	.	]
+=77	=77	=77
+2e-)	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+8.a-^<L	.	.
+(<16gJk	.	.
+=78	=78	=78
+4f	.	.
+4c	.	.
+4d)	.	.
+=79	=79	=79
+4e-	.	.
+!	!	!LO:DY:rj
+(<20dLL	2	p
+20e-	.	.
+20d	.	.
+20c#X	.	.
+20dJJ)	.	.
+(<8.g^<L	.	.
+16fJk	.	.
+=80	=80	=80
+4e-)	.	.
+(<20dLL	2	.
+20e-	.	.
+20d	.	.
+20c#X	.	.
+20dJJ)	.	.
+!LO:TX:t=P:diminuendolike accent:problem	!	!
+8.g^<L	.	.
+(<16fJk	.	.
+=81	=81	=81
+!LO:TX:Bi:t=Rall&colon;	!	!
+8e-)	.	.
+8r	.	.
+!	!	!LO:DY:rj:a
+8e-^> 8G	.	p
+8r	.	.
+!	!	!LO:DY:rj:a
+8e-^< 8G	.	pp
+8r	.	.
+=82	=82	=82
+!	!	!LO:DY:a
+4e- 4G;>	.	ppp
+4r	.	.
+4r	.	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: > = "Dim.", fontstyle="bold-italic"
+!!!RDF**dynam: < = "Cres.", fontstyle="bold-italic"
+!!!RDF**kern: N = linked
+!!!RDF**kern: i = editorial accidental
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2019-11-12
+!!!EED:
+!!!EST: 

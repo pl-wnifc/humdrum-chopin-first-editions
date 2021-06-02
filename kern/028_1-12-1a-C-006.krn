@@ -1,0 +1,296 @@
+!!!!SEGMENT: 028_1-12-1a-C-006.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Preludium No. 6
+!!!OPS: Op. 28
+!!!PTL: 24 PRÉLUDES POUR le Piano
+!!!PPR: Catelin
+!!!PPP: Paris
+!!!NIFC-rismID: 1001065070
+!!!NIFC-shelfmark: PL-Wbfc 6583/n
+!!!OMD: Lento assai.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*S
+*	*I"VI.	*
+*clefF4	*clefG2	*
+*k[f#c#]	*k[f#c#]	*
+*b:	*b:	*
+*M3/4	*M3/4	*
+*MM48	*MM48	*
+=1	=1	=1
+*	*^	*
+!	!LO:TX:Bi:b:t=sotto voce.	!	!
+!	!LO:TX:t=P:'Lento assai.' isn't displayed:problem	!	!
+(>16BBLL	(>8b^L	4f# 4d	.
+!	!	!	!LO:HP:b=2
+.	.	.	<
+16D	.	.	.
+16F#	8bJ)	.	.
+16BJJ	.	.	.
+4d	(>8b^L	4f#	.
+.	8bJ)	.	.
+8.c#L	(>8b^L	4f#	.
+.	8bJ)	.	.
+16dJk	.	.	.
+.	.	.	[
+=2	=2	=2	=2
+!	!	!	!LO:HP:b=2
+4.B	8bL	4f# 4d	>
+.	8bJ	.	.
+.	8bL	4f# 4d	.
+8F#L	8bJ	.	.
+8D	8bL	4f# 4d	.
+8C#J)	8bJ	.	]
+=3	=3	=3	=3
+!	!	!	!LO:HP:b=2
+(>16BBLL	8bL	4f# 4d	<
+16F#	.	.	.
+16B	8bJ	.	.
+16dJJ	.	.	.
+4f#	8ddL	4b	.
+.	8ddJ	.	.
+8.eL	8ddL	4b	.
+.	8ddJ	.	.
+16f#Jk	.	.	.
+.	.	.	[
+=4	=4	=4	=4
+!	!	!	!LO:HP:b=2
+4.d	8ddL	4b 4f#	>
+.	8ddJ	.	.
+.	8ddL	4b 4f#	.
+8BL	8ddJ	.	.
+8F#	8ddL	4b 4f#	.
+8DJ)	8ddJ	.	]
+!!LO:LB:g=original
+=5	=5	=5	=5
+!	!	!	!LO:HP:b=2
+(>16GGLL	8ddL	4b 4g	<
+16D	.	.	.
+16B	8ddJ	.	.
+16dJJ	.	.	.
+4g	8ddL	4b	.
+.	8ddJ	.	.
+4f#	8ddL	4b	.
+.	8ddJ	.	.
+.	.	.	[
+=6	=6	=6	=6
+4f#	8ddL	4b 4g#X	.
+.	8ddJ	.	.
+4e#X	8cc#L	4b 4g#	.
+.	8cc#J	.	.
+8enL	(>8cc#L 8a#X	4gn	.
+8dJ	8ddJ 8b	.	.
+=7	=7	=7	=7
+8c#L	4.ee	8a#XL 8gn	.
+8qe/	.	.	.
+8d	.	8bJ 8g	.
+8c#	.	8a#L 8g	.
+8A#X	8ff#	8cc#J 8f#	.
+8B	16eeLL	8bL 8f#	.
+.	16dd	.	.
+.	8qdd/	.	.
+8DJ	16cc#	8f#J	.
+.	16bJJ	.	.
+*	*v	*v	*
+=8	=8	=8
+8EL	8a#XL 8f##X 8c#	<
+8E#XJ	8b 8g#X 8d	.
+.	.	[>
+4F#)	8dd 8b 8d	.
+.	8cc#J 8a# 8c#	.
+.	.	]
+(>8DL\	4r)	.
+8C#J	.	.
+=9	=9	=9
+*	*^	*
+!	!	!	!LO:HP:b=2
+16BBLL	8bL	4f# 4d	<
+16D	.	.	.
+16F#	8bJ	.	.
+16BJJ	.	.	.
+4d	8bL	4f#	.
+.	8bJ	.	.
+8.c#L	8bL	4f#	[
+.	8bJ	.	.
+16dJk	.	.	.
+!!LO:LB:g=original
+=10	=10	=10	=10
+!	!	!	!LO:HP:b=2
+4.B	8bL	4f# 4d	>
+.	8bJ	.	.
+.	8bL	4f# 4d	.
+8F#L	8bJ	.	.
+8D	8bL	4f# 4d	.
+8BBJ)	8bJ	.	]
+=11	=11	=11	=11
+(>16GGLL	8bL	4g 4d	.
+!	!	!	!LO:HP:b=2
+.	.	.	<
+16D	.	.	.
+16G	8bJ	.	.
+16BJJ	.	.	.
+4d	8bL	4g	.
+.	8bJ	.	.
+8eL	8bL	4g	.
+8fnJ	8bJ	.	.
+.	.	.	[
+=12	=12	=12	=12
+4.e	8ccnL	4g	.
+.	8ccJ	.	.
+.	8ccL	4g 4e	.
+8cnL	8ccJ	.	.
+8G	8ccL	4g 4e	.
+8CnJ)	8ccJ	.	.
+=13	=13	=13	=13
+*ped	*	*	*
+!	!	!	!LO:HP:b=2
+!LO:TX:t=P:pedal mark should be before the note:problem	!	!	!
+(>16CCnLL\	8ccnL	4g 4e	<
+16GG	.	.	.
+16E	8ccJ	.	.
+16GJJ	.	.	.
+4e)	8ccL	4g	[
+*Xped	*	*	*
+.	.	.	.
+.	8ccJ	.	.
+*ped	*	*	*
+!LO:TX:t=P:pedal mark should be before the note:problem	!	!	!
+(>16CCLL\	8ccL	4g 4e	.
+!	!	!	!LO:HP:b=2
+.	.	.	<
+16GG	.	.	.
+16E	8ccJ	.	.
+16GJJ	.	.	.
+.	.	.	[[
+=14	=14	=14	=14
+2e)	8ccnL	4g	.
+.	8ccJ	.	.
+.	8ccL	4g	.
+.	8ccJ	.	.
+*Xped	*	*	*
+4r	8bL	4g	.
+.	8bJ	.	.
+!!LO:LB:g=original
+=15	=15	=15	=15
+(>4.E	8a#XL	4g 4c#	.
+.	8a#J	.	.
+.	8a#L	4f# 4c#	.
+8F#	8a#J	.	.
+16ELL\	8bL	4f# 4d	.
+16D	.	.	.
+16C#	8bJ	.	.
+16BBJJ)	.	.	.
+=16	=16	=16	=16
+(>4.E	8bL	4g 4c#	.
+.	8bJ	.	.
+.	8a#XL	4g 4c#	.
+8F#	8a#J	.	.
+16ELL\	8bL	4g 4d	.
+16D	.	.	.
+16C#	8bJ	.	.
+16BBJJ	.	.	.
+=17	=17	=17	=17
+!	!LO:TX:Bi:b:t=sostenuto.	!	!
+16AALL	8bL	4g 4d	.
+16GG	.	.	.
+16DD	8bJ	.	.
+16EEJJ	.	.	.
+2FF#	8bL	4f# 4c#	.
+.	8bJ	.	.
+.	8a#XL	4e 4c#	.
+.	8a#J	.	.
+=18	=18	=18	=18
+2GG)	8a#XL	4e 4c#	.
+.	8a#J	.	.
+.	8bL	4d 4B	.
+.	8bJ	.	.
+(>4G	8bL	4g 4d	.
+.	8bJ	.	.
+=19	=19	=19	=19
+4.E	8bL	4g 4c#	.
+.	8bJ	.	.
+.	8a#XL	4g 4c#	.
+8F#	8a#J	.	.
+16ELL\	8bL	4f# 4d	.
+16D	.	.	.
+16C#	8bJ	.	.
+16BBJJ	.	.	.
+=20	=20	=20	=20
+4.E	8bL	4g 4c#	.
+.	8bJ	.	.
+.	8a#XL	4g 4c#	.
+8F#	8a#J	.	.
+16ELL\	8bL	4g 4d	.
+16D	.	.	.
+16C#	8bJ	.	.
+16BBJJ	.	.	.
+!!LO:LB:g=original
+=21	=21	=21	=21
+16AALL	8bL	4g 4d	.
+16GG	.	.	.
+16DD	8bJ	.	.
+16EEJJ	.	.	.
+2FF#	8bL	4f# 4c#	.
+.	8bJ	.	.
+.	8a#XL	4f# 4c#	.
+.	8a#J	.	.
+=22	=22	=22	=22
+[2.BBB)	8bL	4f# 4d	.
+.	8bJ	.	.
+.	8bL	4f# 4d	.
+.	8bJ	.	.
+.	(>8an^L	4f# 4d	.
+.	8aJ)	.	.
+=23	=23	=23	=23
+*ped	*	*	*
+!LO:TX:t=P:pedal mark should be before the note:problem	!	!	!
+(>16BBBLL]\	8f#L	4d	.
+!	!	!	!LO:HP:b=2
+.	.	.	<
+16BB	.	.	.
+16F#	8f#J	.	.
+16BJJ	.	.	.
+4d	8f#L	2ryy	.
+.	8f#J	.	.
+8.c#L	8f#L	.	.
+.	8f#J	.	.
+16dJk	.	.	.
+.	.	.	[[
+=24	=24	=24	=24
+!	!	!	!LO:HP:b=2
+4.B	8f#L	4d	>
+.	8f#J	.	.
+.	8f#L	4d	.
+8F#L	8f#J	.	.
+8D	8f#L	4d	.
+8C#J	8f#J	.	]
+=25	=25	=25	=25
+[2.BB)	8f#L	4d	.
+.	8f#J	.	.
+.	4r	4ryy	.
+.	(>8f#L	4d	pp
+.	8f#J	.	.
+=26	=26	=26	=26
+4BB]	8f#L	4d	.
+.	8f#J)	.	.
+4r	4r	4ryy	.
+4r	4r	4ryy	.
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!ENC: Marta Lawrence
+!!!END: 2019-04-30
+!!!EED: Leszek Kubiak
+!!!EST: revision finished 2019-05-13
+!!!EED2: Zofia Niedbalska
+!!!EST: 2020-04-25
+!!!rism-genre: Prelude
+!!!rism-key: B minor
+!!!rism-opus: op. 28, no. 6
+!!!rism-title: Prelude in B minor op. 28, no. 6
+!!!rism-permalink: https://opac.rism.info/search?id=1001065070&View=rism
+!!!rism-773a-OPR: 1001065063
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001065063&View=rism

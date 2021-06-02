@@ -1,0 +1,185 @@
+!!!!SEGMENT: 007-1-KI-005.krn
+!!!COM: Chopin, Fryderyk
+!!!NIFC-ComViaf:71319254
+!!!OTL:Mazurka No. 5.
+!!!AFR:mazurka
+!!!OPS:Op. 7
+!!!PTL:Cinq Mazurkas
+!!!PPR: Kistner
+!!!PPP: Leipzig
+!!!NIFC-rismID: 300605327
+!!!NIFC-shelfmark: PL-Wbfc 2436/n
+!!!OMD: VIVO.
+!!!OMD: M.M. [half-dot] = 60.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M3/4	*M3/4	*
+*MM180	*MM180	*
+=1-	=1-	=1-
+!LO:TX:a:i:t=semplice.	!	!
+(>\4G' 4GG\	2.r	f
+4G'\ 4GG\	.	.
+4G'\ 4GG\	.	.
+=2	=2	=2
+!	!	!LO:DY:b
+4G'\ 4GG\	2.r	>
+4G'\ 4GG\	.	.
+4G'\ 4GG\	.	>
+=3	=3	=3
+4G'\ 4GG\	2.r	.
+4G'\ 4GG\	.	.
+4G'\ 4GG\	.	.
+=4	=4	=4
+4G'\ 4GG\	2.r	]
+4G'\ 4GG\	.	.
+4G'\) 4GG\	.	.
+!!LO:LB:g=original
+=5||	=5||	=5||
+!	!LO:TX:a:i:t=mezza voce.	!
+4f 4B 4G	(>12ddL	.
+.	12ee	.
+.	12ddJ	.
+4e 4c 4G	4g^>)	.
+(>4e^< 4c 4G	(>8.ccL	.
+.	16eeJk)	.
+=6	=6	=6
+4f') 4B' 4G'	(12ddL	.
+.	12ee	.
+.	12ddJ)	.
+4e' 4c 4G	4g^)	.
+(>4e^< 4c 4G	(>8.ccL	<
+.	16eeJk	[
+=7	=7	=7
+4f) 4B 4G	4aa	fz
+.	.	>
+4f 4B 4G	8.ggL	]
+.	16eek	.
+4f 4B 4G	8.ff	.
+.	16ddJk)	.
+=8	=8	=8
+*ped	*	*
+4C	(>8.ccL	<
+.	16eek	.
+4e 4c 4G	8.gg	[
+.	16bbk	fz
+(>4e 4c 4G	8.ddd	>
+*Xped	*	*
+.	16cccJk)	]
+!!LO:LB:g=original
+=9	=9	=9
+4f) 4B 4G	(12ddL	.
+.	12ee	.
+.	12ddJ)	.
+4e' 4c 4G	4g^>	.
+(>4e^< 4c 4G	(>8.ccL	.
+.	16eeJk)	.
+=10	=10	=10
+4f) 4B 4G	(12ddL	.
+.	12ee	.
+.	12ddJ)	.
+4e' 4c 4G	4g^>	.
+(>4e^< 4c 4G	(>8.ccL	<
+.	16eeJk	[
+=11	=11	=11
+4f) 4B 4G	4aa	fz
+4f' 4B 4G	8.ggL	>
+.	16eek	]
+4f' 4B 4G	8.ff	.
+.	16ddJk)	.
+=12	=12	=12
+*ped	*	*
+4C'	(8.ccL	<
+.	16ddk	[
+!	!	!LO:HP:b
+.	.	<
+4e 4c 4G	8.ee	.
+*Xped	*	*
+.	16bk	.
+(>4e 4c 4A	8.dd	[ >
+.	16ccJk)	]
+!!LO:LB:g=original
+=13	=13	=13
+!	!LO:TX:a:i:t=sotto voce.	!
+4c) 4F#X 4D	(<12aL	]
+.	12b	.
+.	12aJ)	.
+4B' 4G 4D	(<4d^>	.
+(4B^< 4G 4D	8.gL	.
+.	16bJk)	.
+=14	=14	=14
+4c 4F#X 4D)	(<12aL	.
+.	12b	.
+.	12aJ)	.
+4B' 4G 4D	(<4d^>	.
+(>4B^< 4G 4D	8.gL	<
+.	16bJk)	[
+=15	=15	=15
+4c) 4F#X 4D	(>4ee	fz
+4c' 4F# 4D	8.ddL	>
+.	16bk	]
+4c' 4F# 4D	8.cc	.
+.	16aJk)	.
+=16	=16	=16
+*ped	*	*
+4GG'	(>8.gL	<
+.	16bk	.
+4B 4G 4D	8.dd	.
+.	16ff#Xk	[
+(>4B 4G 4D	8.aa	fz >
+*Xped	*	*
+.	16ggJk)	]
+!!LO:LB:g=original
+=17	=17	=17
+4c) 4F#X 4D	(<12aL	[
+.	12b	.
+.	12aJ)	.
+4B' 4G 4D	(4d^>	.
+(>4B^< 4G 4D	8.gL	.
+.	16bJk)	.
+=18	=18	=18
+4c) 4F#X 4D	(<12aL	.
+.	12b	.
+.	12aJ)	.
+4B 4G 4D	(4d^>	.
+(>4B^< 4G 4D	8.gL	<
+.	16bJk)	[
+=19	=19	=19
+4c) 4F#X 4D	(>4ff#X	fz
+4c 4F# 4D	8.eeL	>
+.	16bk	]
+4c 4F# 4D	8.cc	.
+.	16aJk)	.
+=20	=20	=20
+*ped	*	*
+!LO:TX:b:iB:t=Dal Segno senza Fine.	!	!
+*	*	*^
+4GG'	(>8.gL	<	.
+.	16bk	.	.
+4B 4G 4D	8.dd	.	.
+.	16ff#Xk	[	<
+*	*	*v	*v
+4B 4G 4D	8.aa	>
+*Xped	*	*
+.	16ggJk)	]
+=||	=||	=||
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cres.",fontstyle="italic"
+!!!RDF**dynam: > = "diminuendo",fontstyle="italic"
+!!!ENC: Jacek Iwaszko
+!!!END: 2017-08-10
+!!!EED: Tomasz Sierawski
+!!!EST: revision finished 2019-03-01
+!!!rism-genre: Mazurka
+!!!rism-key: C major
+!!!rism-opus: op.  7, no. 5
+!!!rism-title: Mazurka in C major op.  7, no. 5
+!!!rism-permalink: https://opac.rism.info/search?id=300605327&View=rism
+!!!rism-773a-OPR: 300605322
+!!!rism-parent-permalink: https://opac.rism.info/search?id=300605322&View=rism

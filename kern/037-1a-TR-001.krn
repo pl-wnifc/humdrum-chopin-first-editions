@@ -1,0 +1,1080 @@
+!!!!SEGMENT: 037-1a-TR-001.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: 1. Nocturne.
+!!!OPS: Op. 37.
+!!!PTL: Deux Nocturnes Pour Le Piano
+!!!PPR: Troupenas
+!!!PPP: Paris
+!!!NIFC-rismID: 1001007195
+!!!NIFC-shelfmark: PL-Wbfc 3942/n
+!!!OMD: LENTO.
+!!!system-decoration: {(s1,s2)}
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[b-e-]	*k[b-e-]	*
+*g:	*g:	*
+*M4/4	*M4/4	*
+*met(c)	*met(c)	*
+!	!LO:TX:i:t=sostenuto	!
+4r	[>4dd	.
+=1	=1	=1
+*ped	*	*
+(>4GG	(>4dd]	.
+4d 4D	8ccL	.
+.	8b-J	[
+.	8qa/L	.
+.	8qb-/	.
+.	8qcc/J	.
+*Xped	*	*
+4e- 4c 4F#X	8b-L\	.
+.	8aJ)	.
+4d 4D	4r	.
+=2	=2	=2
+4e- 4B- 4G	8r	.
+.	(>8b-/	.
+!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!
+4d 4D	12b-L	.
+.	12a	.
+.	12gJ	.
+4e- 4c 4A	2f#X)	.
+4d 4D)	.	.
+=3	=3	=3
+*ped	*	*
+(>4GG	(>4g	.
+4d 4B- 4G	8aL	.
+*Xped	*	*
+.	8b-J	.
+*ped	*	*
+4CC	4cc	.
+4g 4e- 4c 4G)	8ddL	.
+*Xped	*	*
+.	8ee-J)	.
+=4	=4	=4
+*ped	*	*
+(>4FF	[<2a	.
+4g 4e-	.	.
+*Xped	*	*
+4f 4d	>8.aL]	.
+.	16ggJk	.
+*	*Xtuplet	*
+4e- 4c)	(12ggL	.
+.	12ff	.
+.	12ee-J)	.
+*	*tuplet	*
+!!LO:LB:g=original
+=5	=5	=5
+*	*^	*
+*ped	*	*	*
+4BB- 4BBB-	4dd	2ryy	.
+.	(<8qd/	.	.
+.	8qd/L	.	.
+.	8qf/	.	.
+.	8qb-/J	.	.
+*	*Xtuplet	*	*
+4F	12ddL/	.	.
+*Xped	*	*	*
+.	12cc	.	.
+.	12b-J)	.	.
+*	*tuplet	*	*
+.	.	[<8qc/L	.
+.	.	[<8qd/	.
+.	.	[<8qf#X/J	.
+*ped	*	*	*
+4DD	8b-L	4f#] 4d] 4c]	.
+.	8aJ	.	.
+[>4D	4r	4ryy	.
+*Xped	*	*	*
+*	*v	*v	*
+=6	=6	=6
+.	(<8qB-/L	.
+.	8qd/	.
+.	8qg/J	.
+*ped	*	*
+4D]\ 4GG	(8b-L)/	.
+.	16r	.
+.	16b-Jk	.
+.	8qb-L/	.
+.	8qccJ/	.
+4d 4D	12b-L	.
+.	12a^>	.
+.	12g^>J	.
+*Xped	*	*
+4e- 4c 4A	4f#X^>)	.
+4d 4D	4r	.
+=7	=7	=7
+*^	*^	*
+2ryy	4B- 4E-	(>4g 4e-	4ryy	.
+.	4G 4BB-	8.aL	4d	.
+.	.	16b-Jk	.	.
+2A	4E- 4AA	4cc 4g	2c	.
+.	[>4D	4dd 4f#X)	.	.
+*v	*v	*	*	*
+=8	=8	=8	=8
+*ped	*	*	*
+4D]\ 4GG	(4.g	4rA	.
+4d 4G	.	4B-	.
+*Xped	*	*	*
+.	8g	.	<
+.	16qg/LL	.	.
+.	16qa/JJ	.	.
+*ped	*	*	*
+4FF	2att	2ryy	.
+4f 4c 4F	.	.	[
+*Xped	*	*	*
+*	*v	*v	*
+.	16qg/LL	.
+.	16qa/JJ)	.
+=9	=9	=9
+(>4d 4B-	(>4b-	.
+!LO:N:n=2:vis=2	!	!
+4f\ 4F	4bn)	.
+4e-\ 4A	8r	.
+.	(>4cc^<	.
+4f\ [>4F	.	.
+.	8cc#X	.
+!!LO:LB:g=original
+=10	=10	=10
+4d\ 4B- 4F]	4dd	.
+.	8qdd/L	.
+.	8qee-/	.
+.	8qdd/	.
+.	8qcc#X/	.
+.	8qdd/J	.
+.	8qdd/	.
+!LO:N:n=2:vis=2	!	!
+4f 4F	8.ggL	.
+.	16ffJk	.
+4e-\ 4A	8ff	.
+.	4ccny	.
+4f 4F)	.	.
+.	8cc#X)	.
+*clefG2	*	*
+=11	=11	=11
+*^	*	*
+(>4f	2d 2B-	(4dd	.
+2g	.	4ee-)	.
+.	2c#X [2A	4r	.
+4g	.	(>4een	.
+=12	=12	=12	=12
+4f	4d 4A]	4ff	.
+.	.	8qff/L	.
+.	.	8qgg/	.
+.	.	8qff/	.
+.	.	8qeen/	.
+.	.	8qff/J	.
+.	.	8qff/	.
+4a	2A	8.bb-L	.
+.	.	16aaJk	.
+4g 4c#X	.	8aa	.
+.	.	4dd#X	.
+4a 4A)	4ryy	.	.
+.	.	8een)	.
+*v	*v	*	*
+*clefF4	*	*
+=13	=13	=13
+*ped	*	*
+4D	(>4ff	.
+4f 4d 4A	8.ggL	.
+*Xped	*	*
+.	16ffJk	.
+*ped	*	*
+4E-	4ee-	.
+4g 4e- 4B- 4G	8.b-L	.
+*Xped	*	*
+.	16ccJk	.
+=14	=14	=14
+*ped	*	*
+4BB-	4dd	.
+.	8qdd/	.
+.	8qdd/L	.
+.	8qff/J	.
+4d 4B- 4F	8ee-L	.
+*Xped	*	*
+.	16r	.
+.	16ddJk	.
+*ped	*	*
+4C	4cc	.
+4e- 4G 4E-	8.gL	.
+*Xped	*	*
+.	16aJk)	.
+!!LO:LB:g=original
+=15	=15	=15
+*ped	*	*
+!LO:TX:b:t=P:znak pedalizacji przed nutą:problem	!	!
+4GG	(>4b-/	.
+4d 4B- 4G	8.aL	.
+*Xped	*	*
+.	16b-Jk	.
+*ped	*	*
+4EE-	4cc	.
+.	8qcc/L	.
+.	8qdd/	.
+.	8qcc/J	.
+4g 4c 4G	16bnLL	.
+.	16cc	.
+.	16dd	.
+*Xped	*	*
+.	8qqff/	.
+.	16ee-JJ)	.
+=16	=16	=16
+*	*^	*
+*ped	*	*	*
+4DD	4dd\	8rc	.
+.	.	2.d	.
+*clefG2	*	*	*
+(>4f#X 4A	(>4.dd\	.	.
+4g 4B-	.	.	.
+.	8dd\	.	.
+8g#XL 8Bn	12ddL\	.	.
+.	12dd)	.	.
+8aJ 8c)	.	8ryy	.
+.	12ddJ	.	.
+*	*v	*v	*
+*clefF4	*	*
+=17	=17	=17
+*ped	*	*
+!LO:N:n=2:vis=2	!	!
+4GGG	(>4dd	.
+4d 4D	8.ccL	.
+.	16b-Jk	.
+.	8qa/L	.
+.	8qb-/	.
+.	8qcc/J	.
+4e- 4c 4F#X	8b-L\	.
+*Xped	*	*
+.	8aJ)	.
+4d 4D	4r	.
+=18	=18	=18
+4e- 4B- 4G	8r	.
+.	(>8b-	.
+.	8qb-/LL	.
+.	8qcc/JJ	.
+*	*Xtuplet	*
+4d 4D	12b-L	.
+.	12a	.
+.	12gJ	.
+*	*tuplet	*
+4e- 4c 4A	4f#X)	.
+4d 4D	4r	.
+=19	=19	=19
+*ped	*	*
+4GG	(>4g	.
+4d 4B- 4G	8aL	.
+*Xped	*	*
+.	8b-J	.
+*ped	*	*
+4CC	4cc	.
+.	8qcc/L	.
+.	8qcc/	.
+.	8qdd/	.
+.	8qcc/	.
+.	8qbn/	.
+.	8qcc/J	.
+4g 4e- 4c 4G	&(>8.ddL	.
+*Xped	*	*
+.	16ee-Jk	.
+!!LO:LB:g=original
+=20	=20	=20
+*	*^	*
+*ped	*	*	*
+4FF	4a&)	1a)	.
+(>4g 4e-	(>4.aa^>\	.	.
+4f 4d	.	.	.
+*Xped	*	*	*
+.	8gg\	.	.
+4e- 4c)	12ggL\	.	.
+.	12ff	.	.
+.	12ee-J)	.	.
+=21	=21	=21	=21
+*ped	*	*	*
+4BB- 4BBB-	(>4dd	2ryy	ff
+.	8qd/L	.	.
+.	8qf/	.	.
+.	8qb-/J	.	.
+4F	12ddL	.	.
+.	12cc	.	.
+*Xped	*	*	*
+.	12b-J	.	.
+.	[<8qc/L	.	.
+.	[<8qd/	.	.
+.	[<8qf#X/J	.	.
+*ped	*	*	*
+4DD	8b-L	4f#] 4d] 4c]	.
+.	8aJ)	.	.
+[>4D	4r	4ryy	.
+*Xped	*	*	*
+*	*v	*v	*
+=22	=22	=22
+.	(<8qB-/L	.
+.	8qd/	.
+.	8qg/J	.
+*ped	*	*
+4D]\ 4GG	(8b-L)	.
+.	16r	.
+.	16b-Jk	.
+.	8qb-/LL	.
+.	8qcc/JJ	.
+*	*Xtuplet	*
+(4d 4D	12b-^>L	.
+.	12a^>	.
+.	12g^>J	.
+*	*tuplet	*
+*Xped	*	*
+4e- 4c 4A	4f#X^>)	.
+4d 4D)	4r	.
+=23	=23	=23
+*^	*^	*
+2ryy	4B- 4E-	(4g	4e-/	p<
+.	4G 4BB-	8aL	4d	.
+.	.	8b-Jk	.	.
+2A	4E- 4AA	4cc 4g	2c	.
+.	[>4D	4dd 4f#X)	.	.
+.	.	.	.	[
+*v	*v	*	*	*
+=24	=24	=24	=24
+4D]\ 4GG	(4.g	4rA	.
+4d 4G	.	4B-	.
+.	8g	.	<
+.	16qg/LL	.	.
+.	16qa/JJ	.	.
+4FF	2att	2ryy	.
+4f 4e- 4c 4F	.	.	[
+*	*v	*v	*
+.	16qg/LL	.
+.	16qa/JJ)	.
+!!LO:LB:g=original
+=25	=25	=25
+(>4d 4B-	(>4b-	.
+!LO:N:n=2:vis=2	!	!
+4f 4F	4bn)	.
+4e-\ 4A	8r	.
+.	(>4cc^<	.
+4f [>4F	.	.
+.	8cc#X)	.
+=26	=26	=26
+4d\ 4B- 4F]	(4dd	.
+.	8qdd/L	.
+.	8qee-/	.
+.	8qdd/	.
+.	8qcc#X/	.
+.	8qdd/J	.
+.	8qdd/	.
+!LO:N:n=2:vis=2	!	!
+4f 4F	8.ggL	.
+.	16ffJk	.
+4e-\ 4A	8ff	.
+.	4ccny	.
+4f 4F	.	.
+.	8cc#X)	.
+*clefG2	*	*
+=27	=27	=27
+*^	*	*
+4f	2d 2B-	(>4dd	.
+2g	.	4ee-)	.
+.	2c#X [2A	4r	.
+4g	.	(>4een	.
+=28	=28	=28	=28
+4f	4d 4A]	4ff	.
+.	.	8qff/L	.
+.	.	8qgg/	.
+.	.	8qff/	.
+.	.	8qeen/	.
+.	.	8qff/J	.
+.	.	8qff/	.
+4a	2A	8.bb-L	.
+.	.	16aaJk	.
+4g 4c#X	.	8aa	.
+.	.	4dd#X	.
+4a 4A)	4ryy	.	.
+.	.	8een)	.
+*v	*v	*	*
+*clefF4	*	*
+=29	=29	=29
+*ped	*	*
+4D	(>4ff	.
+4f 4d 4A	8.ggL	.
+*Xped	*	*
+.	16ffJk	.
+*ped	*	*
+4E-	4ee-	.
+4g 4e- 4B- 4G	8.b-L	.
+*Xped	*	*
+.	16ccJk)	.
+!!LO:PB:g=original
+=30	=30	=30
+*ped	*	*
+4BB-	(>4dd	.
+*Xped	*	*
+.	8qdd/	.
+.	8qdd/L	.
+.	8qff/J	.
+4d 4B- 4F	8ee-L	.
+.	16r	.
+.	16ddJk	.
+*ped	*	*
+4C	4cc	.
+4e- 4G 4E-	8.gL	.
+*Xped	*	*
+.	16aJk)	.
+=31	=31	=31
+*ped	*	*
+4GG	(>4b-	.
+4d 4B- 4G	8.aL\	.
+*Xped	*	*
+.	16b-Jk	.
+*ped	*	*
+4EE-	4cc	.
+.	8qcc/L	.
+.	8qcc/	.
+.	8qdd/	.
+.	8qcc/J	.
+*	*Xtuplet	*
+4g 4c 4G	24bnLL	.
+.	24cc	.
+.	24cc#X	.
+.	24dd	.
+.	24ff	.
+*Xped	*	*
+.	24ee-JJ)	.
+*	*tuplet	*
+=32	=32	=32
+*	*^	*
+*ped	*	*	*
+4DD	(>4dd\	8rc	.
+.	.	2.d	.
+*clefG2	*	*	*
+(>4f#X 4A	4.dd\	.	.
+4g 4B-	.	.	.
+*Xped	*	*	*
+.	8dd\	.	.
+*	*Xtuplet	*	*
+8g#XL 8Bn	12ddL\	.	.
+.	12dd	.	.
+8aJ 8c)	.	8ryy	.
+.	12ddJ)	.	.
+*	*tuplet	*	*
+*	*v	*v	*
+*clefF4	*	*
+=33	=33	=33
+*ped	*	*
+4GGG	(4dd	.
+(4d 4D	8.ccL	.
+*Xped	*	*
+.	16b-Jk	.
+.	8qa/L	.
+.	8qb-/	.
+.	8qcc/J	.
+4e- 4c 4F#X	8b-L	.
+.	8aJ)	.
+4d 4D	4r	.
+=34	=34	=34
+4e- 4B- 4G	8r	.
+.	(>8b-/	.
+.	16qb-/LL	.
+.	16qcc/JJ	.
+*	*Xtuplet	*
+4d 4D	12b-L	.
+.	12a	.
+.	12gJ	.
+*	*tuplet	*
+4e- 4c 4A	4f#X)	.
+4d 4D)	4r	.
+!!LO:LB:g=original
+=35	=35	=35
+*ped	*	*
+4GG	(>4g	.
+4d 4B- 4G	8.aL	.
+*Xped	*	*
+.	16b-Jk	.
+*ped	*	*
+4CC	4cc	.
+4g 4e- 4c 4G	8.ddL	.
+*Xped	*	*
+.	16ee-Jk	.
+=36	=36	=36
+*ped	*	*
+(>4FF	8ee-L	.
+.	8aJ)	.
+4g 4e-	8r	.
+.	[>8aa^<	.
+*Xped	*	*
+*	*cue	*
+*	*rscale:4	*
+4f 4d	(>32aaLL]\	.
+.	32gg#X	.
+.	32ggn	.
+.	32ff#X	.
+.	32ffn	.
+.	32een	.
+.	32ee-X	.
+.	32cc	.
+4e- 4c	32a	.
+.	32g-X	.
+.	32en	.
+.	32f	.
+.	32gn	.
+.	32a	.
+.	32b-	.
+.	32ccJJ)	.
+*	*Xcue	*
+*	*rscale:1	*
+=37	=37	=37
+*ped	*	*
+4BB- 4BBB-)	(4dd	.
+.	8qc#X/L	.
+.	8qd/	.
+.	8qf/J	.
+*	*Xtuplet	*
+4F	12ddL	.
+*Xped	*	*
+.	12cc	.
+.	12b-J	.
+*	*tuplet	*
+.	8qcn/L	.
+.	8qd/	.
+.	8qf#X/J	.
+*ped	*	*
+4DD	8b-L	.
+.	8aJ)	.
+[4D^<	4r	.
+=38	=38	=38
+.	(>8qB-/L	.
+*Xped	*	*
+.	8qd/	.
+.	8qg/J	.
+*ped	*	*
+4D]\ 4GG	4b-/	.
+4d 4D	8.aL	.
+.	16gJk	.
+4e- 4c 4A	2f#X)	.
+4d 4D	.	.
+!!LO:LB:g=original
+=39	=39	=39
+*^	*^	*
+2ryy	4B- 4E-	(4g	4e-	.
+.	4G 4BB-	8.aL	4d	.
+.	.	16b-Jk	.	.
+2A	4E- 4AA	4cc\ 4g	2c	.
+.	[>4D	4dd\ 4f#X	.	.
+=40	=40	=40	=40	=40
+4D]	2.GG	2g)	4r<	.
+4D\	.	.	(>4B-</	.
+4D\	.	2r	4B-</	.
+4D\	4FF	.	4B-</ 4A<	.
+*v	*v	*	*	*
+*	*v	*v	*
+=41|!	=41|!	=41|!
+*k[b-e-a-]	*k[b-e-a-]	*
+4EE-\	4B-< 4G< 4E-<	p
+4AA-\	4c< 4A-< 4E-<	.
+4AA-\	4c< 4A-< 4E-<	.
+4EE-\	4B-< 4G< 4E-<	.
+=42	=42	=42
+4AA-\	4c< 4A-< 4E-<	.
+4EE-\	4e- 4B-< 4G<	.
+4BB-\	4d< 4B-< 4F<	.
+4EE-\	4e- 4B-< 4G<	.
+=43	=43	=43
+4BB-\	4f 4d 4B-	.
+4E-\	4g 4e- 4B-	.
+4AA-\	4a- 4e- 4c	.
+4E-\	4g 4e- 4B-	.
+=44	=44	=44
+4BB-\	4f 4d 4B-	.
+4C\	4e- 4c 4G<	.
+.	&(8qg/	.
+4BB-\	4f 4d 4A-<&)	.
+[<4EE-\	4e- 4G<	.
+=45	=45	=45
+4E-\ 4EE-]	4B-< 4G<	.
+4AA-\	4c< 4A-< 4E-<	.
+4AA-\	4c< 4A-< 4E-<	.
+4EE-\	4B-< 4G< 4E-<	.
+!!LO:LB:g=original
+=46	=46	=46
+4AA-\	4c< 4A-< 4E-<	.
+4EE-\	4e- 4B-< 4G<	.
+4BB-\	4d 4B-< 4F<	.
+4EE-\	4e- 4B-< 4G<	.
+=47	=47	=47
+4BB-\	4f 4d 4B-	.
+4E-\	4g 4e- 4B-	.
+4AA-\	4a- 4e- 4c	.
+4E-\	4g 4e- 4B-	.
+=48	=48	=48
+4BB-\	4f 4d 4B-	.
+4C\	4e- 4c 4G<	.
+.	&(8qg/	.
+4BB-\	4f 4d 4A-<&)	.
+[<4EE-\	(>4e- 4G<)	.
+=49	=49	=49
+!	!LO:TX:b:Bi:t=cres _:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:Bi:t=cres:ext=ud
+4E-\ 4EE-]	4g 4e- 4B-	<
+4BB-\ 4BBB-	4g 4d 4G<	.
+4C\ 4CC	4g 4e- 4c	.
+4D\ 4DD	4f#X 4d 4A-<	.
+=50	=50	=50
+4AAn\ 4AAAn	4fn 4c	.
+4BB-\ 4BBB-	4f 4d	.
+4GG\ 4GGG	4b- 4d 4B-	.
+4C\ 4CC	4g 4en 4c	.
+=51	=51	=51
+4FF\ 4FFF	4a- 4f 4c	.
+4BB-\ 4BBB-	4b- 4f 4d	[
+4C\ 4CC	4g 4en 4B-	>
+4F\ 4FF	4f 4A-	.
+=52	=52	=52
+4FF 4FFF	4a- 4f 4c	.
+.	8qcc/	.
+4BB- 4BBB-	4b- 4f 4d	.
+4C 4CC	4g 4en 4B-	.
+4FF	4f [<4A-	]
+!!LO:LB:g=original
+=53	=53	=53
+4AA-\ 4AAA-	4e- 4c 4A-<]	.
+!	!LO:TX:b:Bi:t=cres _:problem:dynamics with extention lines	!
+!	!	!LO:HP:b:Bi:t=cres:ext=ud
+4EE-\ 4EEE-	4e- 4c 4G<	<
+4GG\ 4GGG	4e- 4B-< 4G<	.
+4BB-\ 4BBB-	4d 4B-< 4F<	.
+=54	=54	=54
+4FF\ 4FFF	4d 4An<	.
+4GG\ 4GGG	4d 4B-<	.
+4EEn\ 4EEEn	4g 4d 4B-< 4G<	.
+4AAn\ 4AAAn	4c#X 4A< 4E-<	.
+=55	=55	=55
+!LO:TX:B:b:t=P:Con 8-- w źródle zapis dolnej częsci akordu w nastepnych dwóch taktach za pomocą 8--:problem	!	!
+4DD 4DDD\	4d 4An< 4F#X<	.
+4CC 4CCC\	4e- 4c 4G<	[
+4CC 4CCC\	4e- 4c 4G<	.
+4DD 4DDD\	4d 4A< 4F#<)	>
+=56	=56	=56
+4DD 4DDD\	(>4d 4An< 4F#X<	.
+4CC 4CCC\	4e- 4c 4G<	.
+4FF 4FFF\	4c< 4A-X< 4Fn<	.
+4BB- 4BBB-\	4B-< 4F< 4D<	]
+=57	=57	=57
+4EE-\	4B-< 4G< 4E-<	p
+4AA-\ 4AAA-	4c< 4A-< 4E-<	.
+4AA-\ 4AAA-	4c< 4A-< 4E-<	.
+4EE-\	4B-< 4G< 4E-<	.
+=58	=58	=58
+4AA-\	4c< 4A-< [>4E-<	.
+4EE-\	4e- 4B-< 4G< 4E-<]	.
+4BB-\ 4BBB-	4d 4B-< 4F<	.
+4EE-\	4e- 4B-< 4G<	.
+=59	=59	=59
+4BB-\	4f 4d 4B-	.
+4E-\	4g 4e- 4B-	.
+4AA-\	4a- 4e- 4c	.
+4E-\	4g 4e- 4B-	.
+!!LO:LB:g=original
+=60	=60	=60
+4BB-\	4f 4d 4B-	.
+4C\	4e- 4c 4G<	.
+.	&(8qg/	.
+4BB-\	4f 4d 4A-<&)	.
+[<4EE-\	4e- 4G<	.
+=61	=61	=61
+4E-\ 4EE-]	4B-< 4G<	.
+4AA-\ 4AAA-	4c< 4A-< 4E-<	.
+4AA-\ 4AAA-	4c< 4A-< 4E-<	.
+4EE-\	4B-<; 4G< 4E-<)	.
+=62	=62	=62
+4AA-\	(>4c< 4A-< 4E-<	.
+4EE-\	4e- 4B-< 4G<	.
+[4BB-\	4d 4B-< 4F<	.
+4BB-]\ 4EE-	4e-; 4B-< 4G<)	.
+=63	=63	=63
+4BB-\	(>4f 4d 4B-	.
+4B- 4E-	4g 4e- 4d-X	.
+.	&(8qb-/	.
+4AA-\	4a- 4e- 4c&)	.
+4C\	4g; 4en 4B-)	.
+=64	=64	=64
+4C\ 4FF	(>4f 4c< 4A-<	.
+4C\ 4CC	4e- 4c< 4G<	.
+.	&(8qg/	.
+4C\ 4FF	4f 4c< 4A-<&)	.
+4C\ 4CC	4e-; 4c< 4G<)	<
+*ped	*	*
+=65	=65	=65
+1FF#X: 1FFF#X	[<1d: 1A-<: 1D<	.
+.	.	[
+=66	=66	=66
+*	*^	*
+1rF	4r	1d]	.
+.	(>4dd	.	.
+.	4dd	.	.
+.	8ddL	.	.
+*Xped	*	*	*
+.	8ddJ	.	.
+*	*v	*v	*
+*kcancel	*kcancel	*
+!!LO:PB:g=original
+=67|!	=67|!	=67|!
+*k[b-e-]	*k[b-e-]	*
+*ped	*	*
+!LO:TX:b:t=P:znak pedalizacji przed nutą:problem	!	!
+(>4GG 4GGG	4dd	[
+4d 4D	8ccL	.
+.	8b-J	.
+*Xped	*	*
+.	8qa/L	.
+.	8qb-/	.
+.	8qcc/J	.
+4e- 4c 4F#X	8b-L\	.
+.	8aJ)	.
+4d 4D	4r	.
+=68	=68	=68
+4e- 4B- 4G	8r	.
+.	(>8b-/	.
+*	*Xtuplet	*
+4d 4D	12b-L	.
+.	12a	.
+.	12gJ	.
+*	*tuplet	*
+4e- 4c 4A	2f#X)	.
+4d 4D)	.	.
+=69	=69	=69
+*ped	*	*
+4GG	(>4g	.
+4d 4B- 4G	8aL	.
+*Xped	*	*
+.	8b-J	.
+*ped	*	*
+4CC	4cc	.
+4g 4e- 4c 4G	8ddL	.
+*Xped	*	*
+.	8ee-J)	.
+=70	=70	=70
+*ped	*	*
+4FF	([2a	.
+(4g 4e-	.	.
+4f 4d	8.aL]	.
+.	16ggJk	.
+*	*Xtuplet	*
+4e- 4c)	12ggL	.
+.	12ff	.
+.	12ee-J)	.
+*	*tuplet	*
+!!LO:LB:g=original
+=71	=71	=71
+*	*^	*
+*ped	*	*	*
+4BB- 4BBB-	(>4dd	2ryy	.
+.	(<8qd/	.	.
+.	8qd/L	.	.
+.	8qf/	.	.
+.	8qb-/J	.	.
+*	*Xtuplet	*	*
+4F	12ddL/	.	.
+*Xped	*	*	*
+.	12cc	.	.
+.	12b-J)	.	.
+*	*tuplet	*	*
+.	.	[<8qc/L	.
+.	.	[<8qd/	.
+.	.	[<8qf#X/J	.
+*ped	*	*	*
+4DD	8b-L	4f#] 4d] 4c]	.
+.	8aJ)	.	.
+*Xped	*	*	*
+[4D	4r	4ryy	.
+*	*v	*v	*
+=72	=72	=72
+.	8qB-/L	.
+.	8qd/	.
+.	8qg/J	.
+*ped	*	*
+4D]\ 4GG	(>8b-L	.
+.	16r	.
+.	16b-Jk	.
+.	8qb-/LL	.
+.	8qcc/JJ	.
+(4d 4D	12b-L	.
+*Xped	*	*
+.	12a^>	.
+.	12g^>J	.
+4e- 4c 4A	4f#X^>)	.
+4d 4D	4r	.
+=73	=73	=73
+*^	*^	*
+2ryy	4B- 4E-	(>4g 4e-	4ryy	.
+.	4G 4BB-)	8.aL	4d	.
+.	.	16b-Jk	.	.
+2A	4E- 4AA	4cc 4g	2c	.
+.	[>4D	4dd 4f#X)	.	.
+*v	*v	*	*	*
+=74	=74	=74	=74
+4D]\ 4GG	(>4.g	4rA	.
+4d 4G	.	4B-	.
+.	8g	.	<
+.	16qg/LL	.	.
+.	16qa/JJ	.	.
+*ped	*	*	*
+4FF	2att)	2ryy	.
+4f 4e- 4c 4F	.	.	[
+*Xped	*	*	*
+*	*v	*v	*
+.	16qg/LL	.
+.	16qa/JJ	.
+!!LO:LB:g=original
+=75	=75	=75
+(4d 4B-	(>4b-	.
+!LO:N:n=2:vis=2	!	!
+4f\ 4F	4bn)	.
+4e-\ 4A	8r	.
+.	(>4cc^<	.
+4f [>4F	.	.
+.	8cc#X)	.
+=76	=76	=76
+4d\ 4B- 4F]	(4dd	.
+.	8qdd/L	.
+.	8qee-/	.
+.	8qdd/	.
+.	8qcc#X/	.
+.	8qdd/J	.
+.	8qdd/	.
+!LO:N:n=2:vis=2	!	!
+4f\ 4F	8.ggL	.
+.	16ffJk	.
+4e-\ 4A	8ff	.
+.	4ccny	.
+4f 4F	.	.
+*clefG2	*	*
+.	8cc#X	.
+=77	=77	=77
+*^	*	*
+4f	2d 2B-	4dd	.
+2g	.	4ee-)	.
+.	2c#X [2A	4r	.
+4g	.	(4een	.
+=78	=78	=78	=78
+4f	4d 4A]	4ff	.
+.	.	8qff/L	.
+.	.	8qgg/	.
+.	.	8qff/	.
+.	.	8qeen/	.
+.	.	8qff/J	.
+.	.	8qff/	.
+4a	2A	8.bb-L	.
+.	.	16aaJk	.
+4g 4c#X	.	8aa	.
+.	.	4dd#X	.
+4a 4A	4ryy	.	.
+.	.	8een	.
+*clefF4	*	*	*
+*v	*v	*	*
+=79	=79	=79
+*ped	*	*
+4D)	4ff	.
+4f 4d 4A	8.ggL	.
+*Xped	*	*
+.	16ffJk	.
+*ped	*	*
+4E-	4ee-	.
+4g 4e- 4B- 4G	8.b-L	.
+*Xped	*	*
+.	16ccJk)	.
+!!LO:LB:g=original
+=80	=80	=80
+*ped	*	*
+4BB-	(>4dd	.
+.	8qdd/	.
+.	8qdd/L	.
+.	8qff/J	.
+4d 4B- 4F	8ee-L	.
+*Xped	*	*
+.	16r	.
+.	16ddJk	.
+*ped	*	*
+4C	4cc	.
+4e- 4G 4E-	8.gL	.
+*Xped	*	*
+.	16aJk)	.
+=81	=81	=81
+*ped	*	*
+4GG	(>4b-	.
+4d 4B- 4G	8.aL	.
+*Xped	*	*
+.	16b-Jk	.
+*ped	*	*
+4EE-	4cc	.
+.	8qcc/L	.
+.	8qdd/	.
+.	8qcc/J	.
+4g 4c 4G	16bnLL	.
+.	16cc	.
+*Xped	*	*
+.	16dd	.
+.	8qqff/	.
+.	16ee-JJ)	.
+=82	=82	=82
+*	*^	*
+*ped	*	*	*
+4DD	(>4dd\	4r	.
+*clefG2	*	*	*
+(>4f#X 4A	4.dd\	2.d^<	.
+*Xped	*	*	*
+4g 4B-	.	.	.
+.	8dd\	.	.
+*	*Xtuplet	*	*
+8g#XL 8Bn	12ddL\	.	.
+.	12dd	.	.
+8aJ 8c)	.	.	.
+.	12ddJ)	.	.
+*	*tuplet	*	*
+*	*v	*v	*
+*clefF4yy	*	*
+=83	=83	=83
+*ped	*	*
+!LO:TX:b:t=P:znak pedalizacji przed nutą:problem	!	!
+4GGG	(>4dd	.
+(>4d 4D	8.ccL	.
+*Xped	*	*
+.	16b-Jk	.
+.	8qa/L	.
+.	8qb-/	.
+.	8qcc/J	.
+4e- 4c 4F#X	8b-L	.
+.	8aJ)	.
+4d 4D	4r	.
+!!LO:LB:g=original
+=84	=84	=84
+4e- 4B- 4G	8r	.
+.	(>8b-/	.
+.	16qb-/LL	.
+.	16qcc/JJ	.
+*	*Xtuplet	*
+4d 4D	12b-L	.
+.	12a	.
+.	12gJ	.
+*	*tuplet	*
+4e- 4c 4A	4f#X)	.
+4d 4D	4r	.
+=85	=85	=85
+*ped	*	*
+4GG)	(>4g	.
+4d 4B- 4G	8.aL	.
+*Xped	*	*
+.	16b-Jk	.
+*ped	*	*
+4CC	4cc	.
+4g 4e- 4c 4G	8.ddL	.
+*Xped	*	*
+.	16ee-Jk	.
+=86	=86	=86
+*ped	*	*
+(>4FF	8ee-L	.
+.	8aJ)	.
+4g 4e-	8r	.
+.	[>8aa^<	.
+*	*cue	*
+*	*rscale:4	*
+4f 4d	(>32aaLL]\	.
+.	32gg#X	.
+.	32ggn	.
+.	32ff#X	.
+.	32ffn	.
+.	32een	.
+.	32ee-X	.
+.	32cc	.
+4e- 4c	32a	.
+.	32g-X	.
+.	32en	.
+.	32f	.
+.	32gn	.
+.	32a	.
+.	32b-	.
+.	32ccJJ)	.
+*	*Xcue	*
+*	*rscale:1	*
+=87	=87	=87
+*ped	*	*
+4BB- 4BBB-)	(>4dd	.
+.	8qc#X/L	.
+.	8qd/	.
+.	8qf/J	.
+*	*Xtuplet	*
+4F	12ddL	.
+*Xped	*	*
+.	12cc	.
+.	12b-J	.
+*	*tuplet	*
+.	8qc#/L	.
+.	8qd/	.
+.	8qf#X/J	.
+*ped	*	*
+4DD	8b-L	.
+.	8aJ)	.
+[>4D^<	4r	.
+*Xped	*	*
+!!LO:LB:g=original
+=88	=88	=88
+.	8qB-/L	.
+.	8qd/	.
+.	8qg/J	.
+*ped	*	*
+4D]\ 4GG	(>4b-/	.
+(4d 4D	8.aL	.
+.	16gJk	.
+*Xped	*	*
+4e- 4c 4A	2f#X)	.
+4d 4D	.	.
+=89	=89	=89
+*^	*^	*
+2ryy	4B- 4E-)	(>4g	4e-	.
+.	4G 4BB-	8.aL	4d	.
+.	.	16b-Jk	.	.
+2A	4E- 4AA	4cc 4g	2c	.
+.	4D	4dd 4f#X)	.	.
+=90	=90	=90	=90	=90
+!	!	!LO:TX:b:Bi:t=ritenuto	!	!
+4rA	2GG	(>2.g	4rA	.
+4G\	.	.	4fny 4Bn	.
+4G 4C	2ryy	.	4en 4c	.
+4G 4C	.	8.ccL	4g 4e-X	.
+*ped	*	*	*	*
+.	.	16bnJk)	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+=91	=91	=91
+N(>[4qqGG/	.	.
+[4qqD/	.	.
+!	!LO:TX:b:t=P:złe wyświetlanie przednutek:problem	!
+1D;<] 1GG]	1b; 1g 1d	.
+.	4qqG<	.
+.	4qqBn</	.
+=-	=-	=-
+.	4qqd/	.
+.	4qqb	.
+.	4qqb\	.
+.	4qqdd\	.
+.	4qqbb-\	.
+!	!LO:TX:B:t=FIN.	!
+1ryy	1bb-;N)	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**dynam: < = "cres", fontstyle= "italic"
+!!!RDF**dynam: > = "dim.", fontstyle= "italic"
+!!!RDF**kern: N = linked
+!!!ENC: Marta Lawrence
+!!!END: 2018-07-01
+!!!EED: Emilia Ziętek
+!!!EST: 2018-07-06
+!!!EED2: Wojciech Jakubiak-Danek
+!!!EST2: 2019-09-28
+!!!rism-genre: Nocturne
+!!!rism-key: G minor
+!!!rism-opus: op.  37, no. 1
+!!!rism-title: Nocturne in G minor op.  37, no. 1
+!!!rism-permalink: https://opac.rism.info/search?id=1001007195&View=rism
+!!!rism-773a-OPR: 1001007191
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001007191&View=rism

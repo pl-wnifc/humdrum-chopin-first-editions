@@ -1,0 +1,512 @@
+!!!!SEGMENT: 074-1-Sam-016.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: No. 16. Lithauisches Lied
+!!!OPS: Op. 74
+!!!PTL: 16 Polnische Lieder
+!!!PPR: Schlesinger
+!!!PPP: Berlin
+!!!NIFC-rismID: BRAK
+!!!NIFC-shelfmark: 6138/n
+!!!OMD: Allegro moderato.
+!!!OMD: M. M. [quarter] = 88.
+!!!system-decoration: (s1){(s2,s3)}
+**kern	**kern	**dynam	**kern	**text	**dynam
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff3	*staff2	*	*staff1	*	*
+*	*I"PIANO.	*	*I"SINGSTIMME.	*	*
+*clefF4	*clefG2	*	*clefG2	*	*
+*k[b-]	*k[b-]	*	*k[b-]	*	*
+*F:	*F:	*	*F:	*	*
+*M4/4	*M4/4	*	*M4/4	*	*
+*met(c)	*met(c)	*	*met(c)	*	*
+=1	=1	=1	=1	=1	=1
+*	*^	*	*	*	*
+*ped	*	*	*	*	*	*
+!LO:TX:b:t=P:znak pedalizacji przed nutą:problem	!	!	!	!	!	!
+2A 2C 2FF\	(<8ccL	2c\	.	1rdd	.	.
+.	8bn	.	mf	.	.	.
+.	8b-X	.	.	.	.	.
+.	8aJ)	.	.	.	.	.
+*Xped	*	*	*	*	*	*
+2B- 2F\	(<16gLL	4c^<	.	.	.	.
+.	16f	.	.	.	.	.
+.	16e	.	.	.	.	.
+.	16dJJ)	.	.	.	.	.
+.	4c/	4c\	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+*ped	*	*	*	*	*	*
+!LO:TX:b:t=P:znak pedalizacji przed nutą:problem	!	!	!	!	!	!
+2A 2C 2FF\	(<8ccL	2c\	.	1rdd	.	.
+.	8bn	.	.	.	.	.
+.	8b-X	.	.	.	.	.
+.	8aJ)	.	.	.	.	.
+*Xped	*	*	*	*	*	*
+2B- 2F\	(<16gLL	4c^<	.	.	.	.
+.	16f	.	.	.	.	.
+.	16e	.	.	.	.	.
+.	16dJJ)	.	.	.	.	.
+.	4c\	4ryy\	.	.	.	.
+*	*v	*v	*	*	*	*
+=3	=3	=3	=3	=3	=3
+4A 4F	4f 4c/	.	1rdd	.	.
+4A 4D	4f 4d/	.	.	.	.
+2G 2D 2GG	2g 2d 2B-<	.	.	.	.
+=4	=4	=4	=4	=4	=4
+2G 2C\	2g 2e 2c/	.	1rdd	.	.
+2G 2D 2GG\	2g 2d 2B/	.	.	.	.
+=5	=5	=5	=5	=5	=5
+*	*^	*	*	*	*
+[>1e [>1G [<1C	(>8gL	1c	.	1rdd	.	.
+.	16gL	.	pp	.	.	.
+.	16bnJJ	.	.	.	.	.
+.	8ccL	.	.	.	.	.
+.	16gL	.	.	.	.	.
+.	16bJJ	.	.	.	.	.
+.	8ccL	.	.	.	.	.
+.	16gL	.	.	.	.	.
+.	16bJJ	.	.	.	.	.
+.	16ccLL	.	.	.	.	.
+.	16g	.	.	.	.	.
+.	16a	.	.	.	.	.
+.	16gJJ)	.	.	.	.	.
+*	*v	*v	*	*	*	*
+!!LO:LB:g=original
+=6	=6	=6	=6	=6	=6
+!	!	!	!LO:TX:a:t=P:w źródle od taktu 6 rozpoczyna się pięciolinia partii wokalnej podpisana SINGSTIMME:problem	!	!
+1e;<] 1G] 1C]	[<4c	.	1rdd	.	.
+.	16cLL/]	.	.	.	.
+.	16g	.	.	.	.
+.	16a	.	.	.	.
+.	16gJJ	.	.	.	.
+.	2c;>/	.	.	.	.
+=7||	=7||	=7||	=7||	=7||	=7||
+!!!OMD: M. M. [quarter] = 72.
+2F 2FF	8aL 8f	p	4a	Schön	.
+!	!LO:TX:b:Bi:t=legatiss.	!	!	!	!
+.	8cJ	.	.	.	.
+.	8aL 8f	.	8.a	war	.
+.	8cJ	.	.	.	.
+.	.	.	16a	der	.
+4C	8gL 8e	.	4g	Mor-	.
+.	8cJ	.	.	.	.
+4F\	8aL 8f	.	8a	-gen	.
+.	8cJ	.	8a	und	.
+=8	=8	=8	=8	=8	=8
+2E	8b-L 8g	.	4b-	hell	.
+.	8cJ	.	.	.	.
+!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!	!
+.	12ccL (<12a	.	8cc	schien	.
+.	12c	.	.	.	.
+.	.	.	8b-	die	.
+.	12b-J 12g)	.	.	.	.
+2F	8aL 8f	.	4a	Son-	.
+.	8cJ	.	.	.	.
+.	8aL 8f	.	8cc	-ne,	.
+.	8cJ	.	8r	.	.
+=9	=9	=9	=9	=9	=9
+2C\	8eL 8c	.	4g	fröh-	.
+.	8G<J	.	.	.	.
+.	8eL 8c	.	8a	-lich	.
+.	8G<J	.	8g	war	.
+*ped	*	*	*	*	*
+!	!	!	!LO:TX:a:t=P:triole bez ramek:problem	!	!
+!LO:TX:b:t=P:znak pedalizacji przed nutą:problem	!	!	!	!	!
+[<2CC\	8fL 8d 8Bn<	.	(>12f	ich	.
+.	.	.	12e	auf	.
+.	8G<J	.	.	.	.
+.	.	.	12f)	die	.
+.	8fL 8d 8B<	.	(>12a	Wie-	.
+.	.	.	12g	-se	.
+.	8G<J	.	.	.	.
+.	.	.	12f)	ge-	.
+!!LO:LB:g=original
+=10	=10	=10	=10	=10	=10
+2C 2CC\]	8fL 8d- 8B-	.	2g	-gan-	.
+.	8G<	.	.	.	.
+.	8e 8c	.	.	.	.
+.	8B-J	.	.	.	.
+[<2FF	8fL 8A<	.	4f	-gen;	.
+.	8c<	.	.	.	.
+.	8A<	.	4r	.	.
+.	8c<J	.	.	.	.
+=11	=11	=11	=11	=11	=11
+!	!	!LO:DY:rj	!	!	!
+2F 2FF]	8aL 8f	p	4a	Müt-	.
+!	!LO:TX:b:Bi:t=sempre legato.:dur=4e:ext=s:problem:text with extention lines	!	!	!	!
+.	8cJ	.	.	.	.
+.	8aL 8f	.	8a	-ter-	.
+.	8cJ	.	8a	-lein	.
+4C	8gL 8e	.	4g	sass	.
+.	8cJ	.	.	.	.
+4F\	8aL 8f	.	8a	shon	.
+.	8cJ	.	8a	am	.
+=12	=12	=12	=12	=12	=12
+2E\	8b-L 8g	.	4b-	Fen-	.
+.	8cJ	.	.	.	.
+!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!	!
+.	(<12ccL 12a	.	8cc	-ster	.
+.	12c	.	.	.	.
+.	.	.	8b-	und	.
+.	12b-J 12g)	.	.	.	.
+2F\	8aL 8f	.	4a	frag-	.
+.	8cJ	.	.	.	.
+.	8aL 8f	.	8cc	-te:	.
+.	8cJ	.	8r	.	.
+!!LO:LB:g=original
+=13	=13	=13	=13	=13	=13
+2C\	8gL 8e	.	4g	"Dein	.
+.	8G<	.	.	.	.
+.	8e 8c	.	8a	Haar	.
+.	8G<J	.	8g	ist	.
+!	!	!	!LO:TX:a:t=P:triole bez ramek:problem	!	!
+2CC\	8fL 8dn 8B-	.	(>12f	feucht,	.
+.	.	.	12e	was	.
+.	8G<J	.	.	.	.
+.	.	.	12f)	hast	.
+.	8fL 8d 8B-	.	(>12a	du	.
+.	.	.	12g	an-	.
+.	8G<J	.	.	.	.
+.	.	.	12f)	-ge-	.
+=14	=14	=14	=14	=14	=14
+2C 2CC\	8fL 8d- 8B-X	.	2g	-fan-	.
+.	8G<	.	.	.	.
+.	8e 8c	.	.	.	.
+.	8B-J	.	.	.	.
+4FF\	8fL/ 8A<	.	4f	-gen”?	.
+.	8a 8A<	.	.	.	.
+4rFF	8a 8A<	.	4r	.	.
+.	8aJ 8A<	.	.	.	.
+=15	=15	=15	=15	=15	=15
+1rF	8a'<L/ 8f 8dn	pp	4r	.	.
+!	!LO:TX:b:Bi:t=poco più animato.:dur=5es:ext=s:problem:text with extention lines	!	!	!	!
+.	8a'< 8f 8d	.	.	.	.
+!	!	!	!LO:TX:a:Bi:t=poco più animato.:dur=5es:ext=s:problem:text with extention lines	!	!
+.	8a'< 8f 8d	.	8a	Ich	.
+.	8a'<J 8f 8d	.	8a	ward	.
+.	8a'<L/ 8f 8d	.	8a	ängst-	.
+.	8a'< 8f 8d	.	8a	-lich	.
+.	8a'< 8f 8d	.	8a	ach	.
+.	8a'<J 8f 8d	.	8a	so	.
+!!LO:PB:g=original
+=16	=16	=16	=16	=16	=16
+8cL 8A	8aL 8e	.	2.cc\	ängst-	.
+8c 8A	8a 8e	.	.	.	.
+8c 8A	8a 8e	.	.	.	.
+8cJ 8A	8aJ 8e	.	.	.	.
+8cL	8gL 8e	.	.	.	.
+8c	8g 8e	.	.	.	.
+8c	8g 8e	.	4g/	-lich,	.
+8cJ	8gJ 8e	.	.	.	.
+=17	=17	=17	=17	=17	=17
+8cL	8gL 8e-X	.	4.g	wuss-	.
+8c	8g 8e-	.	.	.	.
+8c	8g 8e-	.	.	.	.
+8cJ	8gJ 8e-	.	8g	-te,	.
+8FL	8gL 8e- 8c	.	8b-/	wuss-	.
+8F	8g 8e- 8c	.	8a	-te	.
+8F	8g 8e- 8c	.	8g	nichts	.
+8FJ	8gJ 8e- 8c	.	8a	zu	.
+=18	=18	=18	=18	=18	=18
+8B-L	8b-L 8d	.	2b-	sa-	.
+8B-	8b- 8d	.	.	.	.
+8B-	8b- 8d	.	.	.	.
+8B-J	8b-J 8d	.	.	.	.
+8B-L	8fL 8d	.	4f/	-gen,	.
+8B-J	8f 8d	.	.	.	.
+8AL	8f 8d	.	4r	.	.
+8AJ	8fJ 8d	.	.	.	.
+=19	=19	=19	=19	=19	=19
+8GL	8enL 8d	.	4g	"feucht	.
+8G	8e 8d	.	.	.	.
+8G	8e 8d	.	8a	ward	.
+8GJ	8eJ 8d	.	8b-/	mein	.
+8GL	8eL 8c#X 8A	.	4a	Haar	.
+8GJ	8eJ 8c# 8A	.	.	.	.
+8FL	8fL 8d 8A	.	4dd	da	.
+8FJ	8fJ 8d 8A	.	.	.	.
+!!LO:LB:g=original
+=20	=20	=20	=20	=20	=20
+!	!LO:TX:b:Bi:t=riten.	!	!LO:TX:a:Bi:t=riten.	!	!
+8E\L	8gL 8d 8B-/	.	8a	Was-	.
+8EJ	8gJ 8d 8B-	.	8g	-ser	.
+8AA/L	8gL 8c#X 8A/	.	8f	ich	.
+8AAJ	8gJ 8c# 8A	.	8e	ge-	.
+4D\	4f 4d/	.	4f	-tra-	.
+4r	4r	.	8d	-gen”.	.
+.	.	.	8r	.	.
+=21	=21	=21	=21	=21	=21
+*	*ped	*	*	*	*
+!	!LO:TX:a:B:t=tempo.	!	!	!	!
+4.BB- 4.BBB-\	8r	.	8r	.	.
+!	!	!	!	!	!LO:DY:a:rj
+!	!	!	!LO:TX:a:B:t=tempo.	!	!
+!	!	!LO:DY:rj	!	!	!
+.	8e 8d 8G#X< 8E<	ff	8e	„Das	f
+.	4e 4d 4G#< 4E<	.	8e	ich	.
+8BB- 8BBB-\	.	.	8e	nicht	.
+*	*Xped	*	*	*	*
+.	.	.	.	.	.
+*	*ped	*	*	*	*
+4.AA 4.AAA\	8r	.	4.e	Wahr-	.
+.	8c#X< 8A< 8E</	.	.	.	.
+.	4c#< 4A< 4E</	.	.	.	.
+8AA 8AAA\	.	.	8e	-heit,	.
+*	*Xped	*	*	*	*
+.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22
+*	*ped	*	*	*	*
+4.BB- 4.BBB-\	8r	.	8r	.	.
+!	!	!LO:DY:rj	!	!	!LO:DY:a:rj
+.	8e 8d 8G#X< 8E<	pp	8e	das	pp
+.	4e 4d 4G#< 4E<	.	8e	ist	.
+8BB- 8BBB-\	.	.	8e	nicht	.
+*	*Xped	*	*	*	*
+.	.	.	.	.	.
+*	*ped	*	*	*	*
+4.AA 4.AAA\	8r	.	4.e	Wahr-	.
+.	8c#X< 8A< 8E</	.	.	.	.
+.	4c#< 4A< 4E</	.	.	.	.
+8AA 8AAA\	.	.	8e	-heit,	.
+*	*Xped	*	*	*	*
+.	.	.	.	.	.
+!!LO:LB:g=original
+=23	=23	=23	=23	=23	=23
+*	*	*^	*	*	*^
+!	!	!LO:DY:rj	!	!	!	!	!
+!	!LO:TX:b:Bi:t=cresc. _ :problem:dynamics with line extensions	!	!	!	!	!	!
+!	!	!LO:HP:b:Bi:t=cresc.:ext=ud	!	!	!	!	!
+!	!LO:TX:b:t=P:problem:nie potrzebnie wyświetla się drugie "p"	!	!	!	!	!	!
+8AAL/	8f 8e-X 8cL	p<	.	4r	.	.	.
+8AA	8f 8e- 8c	.	.	.	.	.	.
+8AA	8f 8e- 8c	.	.	8.f	bist	.	.
+8AAJ	8f 8e- 8cJ	.	.	.	.	.	.
+.	.	.	.	16f	ge-	.	.
+8BB-L\	8f 8d 8F<L	.	.	4.f	-gan-	.	.
+8BB-	8f 8d 8F<	.	.	.	.	.	.
+8BB-	8f 8d 8F<	.	.	.	.	.	.
+8BB-J	8f#X 8d 8F#X<J	.	.	8f#X	-gen	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+8BBnL\	8g 8fn 8d 8G<L	.	.	4r	.	.	.
+8BB	8g 8f 8d 8G<	.	.	.	.	.	.
+!	!	!	!	!LO:TX:a:Bi:t=cresc _ :problem:dynamics with line extensions	!	!	!
+!	!	!	!	!	!	!LO:HP:a:Bi:t=cresc:ext=ud	!
+8BB	8g 8f 8d 8G<	.	.	8g	in	<	.
+8BBJ	8g 8f 8d 8G<J	.	.	8g	des	.	.
+8CL\	8g 8e 8G<L	.	.	4.g	Früh-	.	.
+8C	8g 8e 8G<	.	.	.	.	.	.
+8C	8g 8e 8G<	.	.	.	.	.	.
+8CJ	8g#X 8e 8G#X<J	.	.	8g#X	-roth's	.	.
+=25	=25	=25	=25	=25	=25	=25	=25
+8C#XL\ 8CC#X	8aL 8gn 8e 8A<	.	.	8a	Stun-	.	.
+!	!	!	!LO:DY:rj	!	!	!	!
+8C# 8CC#	8a 8g 8e 8A<	.	f	8a	-den,	.	.
+!	!	!	!	!	!	!	!LO:DY:a:rj
+8C# 8CC#	8a 8g 8e 8A<	.	.	4a	hast	.	f
+8C#J 8CC#	8aJ 8g 8e 8A<	.	.	.	.	.	.
+8DL\ 8DD	8aL 8f 8d 8A<	[	.	4.a	dort	.	.
+8D 8DD	8a 8f 8d 8A<	.	.	.	.	.	.
+8D#X 8DD#X	8a 8f#X 8c 8A<	.	.	.	.	[	.
+8EJ 8EE	8aJ 8e 8c 8A<	.	.	8a	im	.	.
+*	*	*v	*v	*	*	*	*
+*	*	*	*	*	*v	*v
+!!LO:LB:g=original
+=26	=26	=26	=26	=26	=26
+!	!	!	!	!	!LO:DY:a:rj
+8FL 8FF	8aL 8d#X 8c< 8A<	.	2cc	Feld	ff
+8F 8FF	8a 8d# 8c< 8A<	.	.	.	.
+8F 8FF	8a 8d# 8c< 8A<	.	.	.	.
+8FJ 8FF	8aJ 8d# 8c< 8A<	.	.	.	.
+8FL\ 8FF	8aL 8d# 8c	ff	4a	den	.
+8F 8FF	8a 8d# 8c	.	.	.	.
+8F 8FF	8a 8d# 8Bn	.	4a	Ge-	.
+8FJ 8FF	8aJ 8d# 8B	.	.	.	.
+=27	=27	=27	=27	=27	=27
+!	!LO:TX:b:Bi:t=dim. _ :problem:dynamics with line extensions	!	!LO:TX:a:Bi:t=dim. _ :problem:dynamics with line extensions	!	!
+!	!	!LO:HP:b:Bi:t=dim.:ext=ud	!	!	!LO:HP:a:Bi:t=dim.:ext=ud
+8EL/ 8EE	8aL 8e 8Bn	>	(<4e	-lieb-	>
+8E 8EE	8a 8e 8B	.	.	.	.
+8E 8EE	8a 8e 8B	.	4a)	.	.
+8EJ 8EE	8aJ 8e 8B	.	.	.	.
+8EL/ 8EE	8g#XL 8e 8B	.	4g#X	-ten	.
+8E 8EE	8g# 8e 8B	.	.	.	.
+8E 8EE	8g# 8e 8B	.	4cc\	ge-	.
+8EJ 8EE	8g#J 8e 8B	]	.	.	]]
+=28||	=28||	=28||	=28||	=28||	=28||
+*M3/4	*M3/4	*	*M3/4	*	*
+!	!	!LO:DY:rj	!	!	!
+4E 4AA\	4a 4c	pp	4bn/	-fun-	.
+4c 4E 4AA\	8r	.	4a	-den”.	.
+.	(>8eeL	.	.	.	.
+4c 4E 4AA\	8ff	.	4r	.	.
+.	8eeJ)	.	.	.	.
+=29	=29	=29	=29	=29	=29
+4Bn 4E 4AA\	(>8dd#XL	.	2.rdd	.	.
+.	8bnJ)	.	.	.	.
+4B 4E 4AA\	4ddn^>	.	.	.	.
+4c 4E 4AA\	(>8cc\L	.	.	.	.
+.	8eJ)	.	.	.	.
+=30	=30	=30	=30	=30	=30
+4c 4E 4AA	4.a^>	.	2.rdd	.	.
+4c 4E 4AA	.	.	.	.	.
+.	(>8ee\L	.	.	.	.
+4c 4E 4AA	8ff	.	.	.	.
+.	8eeJ)	.	.	.	.
+=31	=31	=31	=31	=31	=31
+4Bn 4E 4AA	(>8dd#XL	.	2.rdd	.	.
+.	8bnJ)	.	.	.	.
+4B 4E 4AA	4ddn^>\	.	.	.	.
+4c 4E 4AA	(>8cc\L	.	.	.	.
+.	8eJ)	.	.	.	.
+!!LO:PB:g=original
+=32||	=32||	=32||	=32||	=32||	=32||
+*M4/4	*M4/4	*	*M4/4	*	*
+*met(c)	*met(c)	*	*met(c)	*	*
+!	!	!	!	!	!LO:DY:a:rj
+4c 4E 4AA\	4a	.	(>2cc	„Ach	f
+!	!	!LO:DY:rj	!	!	!
+2.C 2.CC\	2.e 2.c 2.B-X</ 2.G</;>	ff	.	.	.
+.	.	.	4bn)	ja,	.
+.	.	.	4b-X\;>	ach	.
+=33	=33	=33	=33	=33	=33
+!	!	!LO:DY:rj	!	!	!LO:DY:a:rj
+!	!LO:TX:a:B:t=tempo Io.	!	!LO:TX:a:B:t=tempo Io.	!	!
+2F 2FF/	8aL 8f	p	4a	ja	p
+.	8cJ	.	.	.	.
+.	8aL 8f	.	8a	lie-	.
+.	8cJ	.	8a	-be	.
+4C	8gL 8e	.	4.g	Mut-	.
+.	8c	.	.	.	.
+4F	8a 8f	.	.	.	.
+.	8cJ	.	8a	-ter,	.
+=34	=34	=34	=34	=34	=34
+2E	8b-L 8g	.	8b-	will	.
+.	8cJ	.	8b-	dir's	.
+.	8b-L 8g	.	8.cc	ein-	.
+.	8cJ	.	.	.	.
+.	.	.	16b-	-ges-	.
+2F	8aL 8f	.	4a	-te-	.
+.	8cJ	.	.	.	.
+.	8ccL 8a	.	8cc	-hen,	.
+.	8cJ	.	8a	er	.
+!!LO:LB:g=original
+=35	=35	=35	=35	=35	=35
+2C\	8gL 8e	.	8g	wollt'	.
+.	8cJ	.	8g	bei	.
+.	8gL 8e	.	8a	Ta-	.
+.	8cJ	.	8g	-ges	.
+2C 2CC\	8fL 8d 8Bn	.	8f	An-	.
+.	8G<J	.	8a	-bruch	.
+.	8fL 8d 8B	.	8g	gern	.
+.	8G<J	.	8f	mich	.
+=36	=36	=36	=36	=36	=36
+2C 2CC\	8f^<L 8d-	.	2g	se-	.
+.	8G<	.	.	.	.
+.	8e 8c	.	.	.	.
+.	8B-XJ	.	.	.	.
+4F 4FF\	8fL 8A<	.	4f	-hen;	.
+.	8c<	.	.	.	.
+4rBB	8A<	.	4r	.	.
+.	8c<J	.	.	.	.
+=37	=37	=37	=37	=37	=37
+2D 2DD/	8f#XL 8c	.	8a	hielt	.
+.	8dJ	.	8a	mich	.
+!	!LO:TX:b:Bi:t=poco:dur=3e:ext=s:problem:text with line extensions	!	!	!	!
+.	8f#L 8c	.	8b-/	auf	.
+.	8dJ	.	8a	so	.
+2G 2GG/	8gL 8B-	.	4.a	lan-	.
+!	!LO:TX:b:Bi:t=cresc _ :problem:dynamics with line extensions	!	!	!	!
+!	!LO:HP:b:Bi:t=cresc:ext=ud	!	!	!	!
+.	8dJ	<	.	.	.
+!	!	!	!LO:TX:a:Bi:t=cresc _ :problem:dynamics with line extensions	!	!
+!	!	!	!	!	!LO:HP:a:Bi:t=cresc:ext=ud
+.	8gL 8B-	.	.	.	<
+.	.	.	.	.	.
+.	8dJ	.	8g	-ge,	.
+!!LO:LB:g=original
+=38	=38	=38	=38	=38	=38
+2F 2FF	8aL 8e-X	.	8f	sprach	.
+.	8fJ	.	8cc	von	.
+!	!	!	!LO:TX:a:Bi:t=e-accele-ran-do.:dur=14e:ext=ud:problem:text with line extensions	!	!
+!	!LO:TX:b:Bi:t=e-accele-ran-do.:dur=14e:ext=ud:problem:text with line extentions	!	!	!	!
+.	8aL 8e-	.	8dd	Lieb	.
+.	8fJ	.	8cc	und	.
+2B- 2F 2BB-	2b- 2f 2d	.	4cc	Seh-	.
+.	.	.	8b-	-nen,	.
+.	.	.	8a	und	.
+=39	=39	=39	=39	=39	=39
+4r	4r	.	4a	da-	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!	!	!
+4D-X	(>4f'> 4B-< 4G<	.	4g	-bei,	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!	!	!
+4D-	4f'>) 4B-< 4G<	.	4r	.	.
+4r	4r	.	8r	.	.
+.	.	[	8a	und	[
+=40	=40	=40	=40	=40	=40
+4r	4r	.	4a	da-	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!	!	!
+4Dn	(>4f'> 4Bn< 4G<	.	4g	-bei	.
+!	!LO:S:s=1:note:problem:note-level slur	!	!	!	!
+4D	4f'>) 4B< 4G<	.	2r	.	.
+4r	4r	.	.	.	.
+=41	=41	=41	=41	=41	=41
+!	!	!LO:DY:rj	!	!	!LO:DY:a:rj
+1Bn 1G 1D 1GG	1f	ff	2dd	wur-	ff
+.	.	.	2g	-den	.
+=42	=42	=42	=42	=42	=42
+!	!LO:TX:a:B:t=a tempo.	!	!LO:TX:a:B:t=a tempo.	!	!
+4C\	8r	.	8.b-X/	feucht	.
+.	8e 8B-X	.	.	.	.
+.	.	.	16a	mir	.
+4C#X\	8r	.	8g	Haar	.
+.	8e 8B-	.	8a	und	.
+4D\	8r	.	4f	Wan-	.
+.	8f 8A<	.	.	.	.
+4AA\	8r	.	4a	-gen,	.
+.	8f 8cn 8F<	.	.	.	.
+!!LO:LB:g=original
+=43	=43	=43	=43	=43	=43
+*	*^	*	*	*	*
+4GG/	8r	2ryy	.	8b-/	feucht	.
+.	8f 8d-X 8B-/	.	.	8a/	von	.
+4C/	8r	.	.	8g/	sei-	.
+.	8e 8c 8B-/	.	.	8a/	-nen	.
+2A 2C 2FF\	(<8ccL/	2c\	>	4.g	Thrä-	.
+.	8bn	.	.	.	.	.
+.	8b-X	.	.	.	.	.
+.	8aJ)	.	]	8f	-nen".	.
+=44	=44	=44	=44	=44	=44	=44
+2B- 2F\	(<16gLL	2c\	.	1rdd	.	.
+.	16f	.	.	.	.	.
+.	16e	.	.	.	.	.
+.	16dJJ)	.	.	.	.	.
+.	4c	.	.	.	.	.
+2A 2C 2FF\	(<8ccL	2c\	>	.	.	.
+.	8bn	.	.	.	.	.
+.	8b-X	.	.	.	.	.
+.	8aJ)	.	]	.	.	.
+=45	=45	=45	=45	=45	=45	=45
+2B- 2F\	(<16gLL	4c	.	1rdd	.	.
+.	16f	.	.	.	.	.
+.	16e	.	.	.	.	.
+.	16dJJ)	.	.	.	.	.
+.	4c	2.ryy	.	.	.	.
+4A 4F\	4f 4c	.	.	.	.	.
+4A 4D\	4f 4d	.	.	.	.	.
+*	*v	*v	*	*	*	*
+=46	=46	=46	=46	=46	=46
+2G 2GG\	2g 2d 2B-<	.	1rdd	.	.
+2C\	2g 2e 2c 2B-	.	.	.	.
+=47	=47	=47	=47	=47	=47
+1F;< 1FF	1f;> 1c 1A<	.	1rdd	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: < = "cresc." fontstyle="bold-italic"
+!!!RDF**dynam: > = "dim." fontstyle="bold-italic"
+!!!ENC: Wojciech Jakubiak-Danek
+!!!END: 2020-01-29
+!!!EED: Mateusz Mrugas
+!!!EST: revision finished 2020-02-03

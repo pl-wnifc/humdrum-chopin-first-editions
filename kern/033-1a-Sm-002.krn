@@ -1,0 +1,305 @@
+!!!!SEGMENT: 033-1a-Sm-002.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: Mazurka No. 2.
+!!!OPS: Op. 33
+!!!PTL: Quatre Mazurkas
+!!!PPR: M. Schlesinger
+!!!PPP: Paris
+!!!NIFC-rismID: 1001017928
+!!!NIFC-shelfmark: PL-Wbfc 1116/n
+!!!OMD: Semplice.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*>[A,B,B,C]	*>[A,B,B]	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*M3/4	*M3/4	*
+*>A	*>A	*
+4r	4g^>	p
+*clefG2	*	*
+=1	=1	=1
+*^	*^	*
+4r	2G	4ryy	(>4dd 4b 4f\	.
+[>2g^	.	4.ee/	2b 2f\	.
+.	4G	.	.	.
+.	.	8dd/	.	.
+=2|!	=2|!	=2|!	=2|!	=2|!
+*>B	*>B	*>B	*>B	*
+!	!	!LO:TX:a:t=P:problem:znak Segno nad grubą kreską taktową	!	!
+.	.	8qdd/	.	.
+4g]	2c	8.ccL/	4e\	.
+.	.	16bJk/	.	.
+[>2g	.	4.cc/	2e\	.
+.	4G	.	.	.
+.	.	8cc#X/	.	.
+=3	=3	=3	=3	=3
+4g]	4B	8.ddL/	4f\	.
+.	.	16dd#XJk/	.	.
+[>2g	4r	4.ee/	2b 2f\	.
+.	4G	.	.	.
+.	.	8dd#/	.	.
+=4	=4	=4	=4	=4
+.	.	8qdd/	.	.
+4g]	2c	8.ccL/	4e\	.
+.	.	16bJk/	.	.
+2g	.	2cc/)	2e\	.
+.	4c	.	.	.
+*clefF4	*	*	*	*
+=5	=5	=5	=5	=5
+4ryy	2E	(>4b/	4g#X 4d\	.
+[>2e	.	4.cc/	2g#^< 2d\	.
+.	4E	.	.	.
+.	.	8b/	.	.
+!!LO:LB:g=original
+=6	=6	=6	=6	=6
+.	.	8qb/	.	.
+4e]	2A	8.aL/	4g 4c#X\	.
+.	.	16g#XJk/	.	.
+2e	.	4.a/	2gn 2c#\	.
+.	4A	.	.	.
+.	.	8b/	.	.
+=7	=7	=7	=7	=7
+4ryy	4D	8.ccL/	4f#X\	.
+.	.	16cc#XJk/	.	.
+*clefG2	*	*	*	*
+2a	4ryy	4.ee/	2ccn^< 2f#\	.
+.	4d/	.	.	.
+.	.	16qdd/L	.	.
+.	.	16qee/J	.	.
+.	.	8dd/)	.	.
+*v	*v	*	*	*
+*clefF4	*	*	*
+=8	=8	=8	=8
+4G	8cc#XL/	4b 4f\	.
+.	16r/	.	.
+.	(>16ddJk/	.	.
+4r	2ryy	2gg 2b 2g 2f^< \)	.
+4G	.	.	.
+=9	=9	=9	=9
+*^	*	*	*
+4GG	2ryy	4ryy	(>4dd 4b 4f\	.
+*clefG2	*	*	*	*
+[>2g	.	4.ee/	2b^< 2f\	.
+.	4G	.	.	.
+.	.	8dd/	.	.
+=10	=10	=10	=10	=10
+.	.	16qcc/L	.	.
+.	.	16qdd/J	.	.
+4g]	2c	8.ccL/	4e\	.
+.	.	16bJk/	.	.
+[2g	.	4.cc/	2e^<\	.
+.	4G	.	.	.
+.	.	8cc#X/	.	.
+!!LO:LB:g=original
+=11	=11	=11	=11	=11
+4g]	4B	8.ddL/	4f\	.
+.	.	16dd#XJk/	.	.
+[>2g	4r	4.ee/	2b^< 2f\	.
+.	4G	.	.	.
+.	.	8dd#/	.	.
+=12	=12	=12	=12	=12
+.	.	16qcc/L	.	.
+.	.	16qdd/J	.	.
+4g]	2c	8.ccL/	4e\	.
+.	.	16bJk/	.	.
+2g	.	2cc/	2e\	.
+.	4c	.	.	.
+*clefF4	*	*	*	*
+=13	=13	=13	=13	=13
+4ryy	2D	4ryy	4a 4f 4c/	.
+[>2d	.	4.b/	2f 2c\	.
+.	4D	.	.	.
+.	.	8a/	.	.
+=14	=14	=14	=14	=14
+.	.	16qg/L	.	.
+.	.	16qa/J	.	.
+4d]	2G	8.gL/	4f 4B\	.
+.	.	16f#XJk/	.	.
+2d^<	.	4.g/	2fn 2B\	.
+.	4G	.	.	.
+.	.	8a/)	.	.
+=15	=15	=15	=15	=15
+4GG	2ryy	8bL/	4g 4f\	.
+.	.	16r/	.	.
+.	.	16ccJk/	.	.
+*clefG2	*	*	*	*
+2g	.	(>4.ee/	2b 2f\	.
+.	4G	.	.	.
+.	.	8dd/)	.	.
+*v	*v	*	*	*
+*	*v	*v	*
+*	*	*
+*clefF4	*	*
+=16	=16	=16
+2C\	8bL/	.
+.	16r/	.
+.	16ccJk/	.
+.	4ryy	.
+!	!LO:TX:a:t=Fine	!
+.	8qcc/	.
+!	!LO:TX:a:t=2=:problem:łuk od 4G 4e nie ma końca	!
+4G 4e	4ccc	.
+!!LO:LB:g=original
+=17:|!	=17:|!	=17:|!
+*>C	*>C	*
+*clefF4	*clefG2	*
+4r	[>4cc^>/	.
+=18	=18	=18
+*k[b-e-a-d-]	*k[b-e-a-d-]	*
+4DD-	(<8ccL]/	.
+.	8b-J	.
+4d- 4A- 4F-X	4a-	.
+4d- 4A- 4F-	4f-X	.
+=19	=19	=19
+4EE-	8dnL	.
+.	8e-J	.
+4c 4A- 4E-	4g	.
+4c 4A- 4E-	4a-	.
+=20	=20	=20
+*ped	*	*
+4EE-	8anL	.
+.	8b-J	.
+*clefG2	*	*
+4g 4e- 4d-	4cc/	.
+*Xped	*	*
+4g 4e- 4d-	4dd-/)	.
+=21	=21	=21
+*^	*	*
+4r	2.A-	(>2ddn^	.
+(<4a- 4f 4Bn	.	.	.
+4a- 4e- 4c)	.	[>4ee-)	.
+*v	*v	*	*
+*clefF4	*	*
+=22	=22	=22
+4E-	(8ee-L]	.
+.	8eenJ	.
+4g 4e- 4d-	4.ff	.
+4g 4e- 4d-	.	.
+.	8ee-X	.
+=23	=23	=23
+*^	*	*
+4ryy	2A-	8dd-L	.
+.	.	8ccJ	.
+.	.	16qcc/L	.
+.	.	16qee-/J	.
+4a- 4e- 4c\	.	4.dd-	.
+4ryy	4E-	.	.
+.	.	8cc)	.
+*v	*v	*	*
+!!LO:LB:g=original
+=24	=24	=24
+*ped	*	*
+4EE-	(<8bnL 8dn	.
+.	8ccJ 8e-	.
+4d- 4G 4E-	4.dd-X 4.f	.
+*Xped	*	*
+4d- 4G 4E-	.	.
+.	8cc 8e-	.
+=25	=25	=25
+4AA-	8b-L 8d-	.
+.	8a-J 8c	.
+.	8qcc/	.
+4A- 4E-	4b- 4d-	.
+4A- 4E-	4a- 4c)	.
+=26	=26	=26
+*ped	*	*
+4EE-	(<8ccL 8e-	.
+.	8dd-J 8f	.
+4B- 4E-	4f 4d-	.
+*Xped	*	*
+4E-	4g 4B-	.
+=27	=27	=27
+4AA-	8dnL 8Bn	.
+.	8e-J 8c	.
+4B- 4E-	4g 4d	.
+4A- 4E-	4a- 4c)	.
+=28	=28	=28
+*ped	*	*
+4EE-	(>8anL 8f#X	.
+.	8b-J 8g	.
+*clefG2	*	*
+4g 4e- 4d-	4cc 4a-X/	.
+*Xped	*	*
+4g 4e- 4d-	4dd- 4b-/	.
+=29	=29	=29
+*^	*	*
+4r	2A-	2ddn^ 2bn	.
+4a- 4f 4Bn	.	.	.
+4a- 4e- 4c	4ryy	4ee- 4cc)	.
+*v	*v	*	*
+*clefF4	*	*
+!!LO:LB:g=original
+=30	=30	=30
+*	*^	*
+4E-	N(>8ee-L	4cc	.
+.	8eenJ	.	.
+.	.	8qgg/	.
+4g 4d-	2ryy	4.ff 4.dd-	.
+4g 4d-	.	.	.
+.	.	>8ee 8ccN)	.
+*	*v	*v	*
+=31	=31	=31
+*^	*	*
+4ryy	2A-	(>8dd-L 8b-	.
+.	.	8ccJ 8a-	.
+.	.	8qee-/	.
+4e- 4c\	.	4dd- 4b-	.
+4E-\	4ryy	4cc 4a-)	.
+*v	*v	*	*
+=32	=32	=32
+*ped	*	*
+4EE-	(>8bnL 8dn	.
+.	8ccJ 8e-	.
+4d- 4G 4E-	4.dd-X 4.f	.
+*Xped	*	*
+4d- 4G 4E-	.	.
+.	8cc 8e-	.
+=33	=33	=33
+4AA-	8b-XL 8d-X	.
+.	8a-J 8c	.
+.	16qa-/L	.
+.	16qcc/J	.
+4A- 4E-	4.b- 4.d-	.
+4A- 4E-	.	.
+.	8a- 8c	.
+=34	=34	=34
+*k[]	*k[]	*
+*^	*^	*
+.	.	8qB/L	.	.
+.	.	<8qf/	.	.
+.	.	<8qb/J	.	.
+*ped	*	*	*	*
+4GG	2ryy	4dd	4b 4f	.
+*clefG2	*	*	*	*
+2g	.	4.ee	2b^ 2f	.
+.	4G	.	.	.
+!LO:TX:b:t=D.C.	!	!	!	!
+.	.	8dd)	.	.
+!	!	!LO:TX:a:t=3=:problem: na końcu utworu znak Segno i łuk biegnaćy do tego znaku	!	!
+*v	*v	*	*	*
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!ENC: Tomasz Sierawski
+!!!EMD: 2018-06-06
+!!!EED: Wojciech Jakubiak-Danek
+!!!EST: revision finished 2018-06-12
+!!!EED2: Jacek Iwaszko
+!!!EST2: revision finished 2018-10-19
+!!!EED3: Wojciech Jakubiak-Danek
+!!!EST3: revision finished 2018-31-12
+!!!EED4: Tomasz Sierawski
+!!!EST4: revision finished 2019-01-03
+!!!rism-genre: Mazurka
+!!!rism-key: C major
+!!!rism-opus: op. 33, no. 2
+!!!rism-title: Mazurka in C major op. 33, no. 2
+!!!rism-permalink: https://opac.rism.info/search?id=1001017928&View=rism
+!!!rism-773a-OPR: 1001017926
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001017926&View=rism

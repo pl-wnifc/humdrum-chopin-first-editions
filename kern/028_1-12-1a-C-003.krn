@@ -1,0 +1,603 @@
+!!!!SEGMENT: 028_1-12-1a-C-003.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: III.
+!!!OPS: Op. 28
+!!!PTL: 24 | PRÉLUDES | POUR | le Piano
+!!!PPR: Catelin
+!!!PPP: Paris
+!!!NIFC-rismID: 1001065067
+!!!NIFC-shelfmark: PL-Wbfc 6583/n
+!!!OMD: Vivace.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*S
+*	*I"III.	*
+*clefF4	*clefG2	*
+*k[f#]	*k[f#]	*
+*G:	*G:	*
+*M2/2	*M2/2	*
+*met(c|)	*met(c|)	*s
+*MM148	*MM148	*
+=1	=1	=1
+!	!	!LO:DY:b=2
+!	!	!LO:DY:rj
+!	!LO:TX:t=P:'Vivace.' isn't displayed:problem	!
+!LO:TX:a:i:B::t=Leggieramente.	!	!
+(>16GGLL	1rdd	p
+16D	.	.
+16G	.	.
+16AJJ	.	.
+16BLL	.	.
+16A	.	.
+16G	.	.
+16eJJ	.	.
+16dLL	.	.
+16c	.	.
+16B	.	.
+16AJJ	.	.
+16GLL	.	.
+16A	.	.
+16B	.	.
+16DJJ)	.	.
+=2	=2	=2
+(>16GGLL	1rdd	.
+16D	.	.
+16G	.	.
+16AJJ	.	.
+16BLL	.	.
+16A	.	.
+16G	.	.
+16eJJ	.	.
+16dLL	.	.
+16c	.	.
+16B	.	.
+16AJJ	.	.
+16GLL	.	.
+16A	.	.
+16B	.	.
+16DJJ)	.	.
+=3	=3	=3
+(>16GGLL	4.d^	.
+16D	.	.
+16G	.	.
+16AJJ	.	.
+16BLL	.	.
+16A	.	.
+16G	8r	.
+16eJJ	.	.
+16dLL	4.b 4.g	.
+16c	.	.
+16B	.	.
+16AJJ	.	.
+16GLL	.	.
+16A	.	.
+16B	16r	.
+16DJJ)	(>16ee 16cc	.
+!!LO:LB:g=original
+=4	=4	=4
+(>16GGLL	2.dd 2.b)	.
+16D	.	.
+16G	.	.
+16AJJ	.	.
+16BLL	.	.
+16A	.	.
+16G	.	.
+16eJJ	.	.
+16dLL	.	.
+16c	.	.
+16B	.	.
+16AJJ	.	.
+16GLL	8r	.
+16A	.	.
+16B	16r	.
+16DJJ)	(>16ccc 16ee	.
+=5	=5	=5
+(>16GGLL	1bb 1dd	>
+16D	.	.
+16G	.	.
+16AJJ	.	.
+16BLL	.	.
+16A	.	.
+16G	.	.
+16eJJ	.	.
+16dLL	.	.
+16c	.	.
+16B	.	.
+16AJJ	.	.
+16GLL	.	.
+16A	.	.
+16B	.	.
+16DJJ)	.	]
+=6	=6	=6
+(>16GGLL	2gg 2b)	.
+16D	.	.
+16G	.	.
+16AJJ	.	.
+16BLL	.	.
+16A	.	.
+16G	.	.
+16eJJ	.	.
+16dLL	2r	.
+16c	.	.
+16B	.	.
+16AJJ	.	.
+16GLL	.	.
+16A	.	.
+16B	.	.
+16DJJ)	.	.
+!!LO:LB:g=original
+=7	=7	=7
+*	*^	*
+(>16AALL	(>2...ff#	1cc#X 1a 1g	.
+16E	.	.	.
+16A	.	.	.
+16BJJ	.	.	.
+16c#XLL	.	.	.
+16B	.	.	.
+16A	.	.	.
+16f#JJ	.	.	.
+16eLL	.	.	.
+16d	.	.	.
+16c#	.	.	.
+16BJJ	.	.	.
+16ALL	.	.	.
+16B	.	.	.
+16c#	.	.	.
+16EJJ)	16ee	.	.
+=8	=8	=8	=8
+(>16DDLL	2aa:	4dd: 4f#:	.
+16AA	.	.	.
+16D	.	.	.
+16EJJ	.	.	.
+16F#LL	.	4rb	.
+16E	.	.	.
+16D	.	.	.
+16BJJ	.	.	.
+16ALL	2ryy	2r	.
+16G	.	.	.
+16F#	.	.	.
+16EJJ	.	.	.
+16DLL	.	.	.
+16E	.	.	.
+16F#	.	.	.
+16BBJJ)	.	.	.
+=9	=9	=9	=9
+(>16AALL	2...ff#	1cc#X 1a 1g	.
+16E	.	.	.
+16A	.	.	.
+16BJJ	.	.	.
+16c#XLL	.	.	.
+16B	.	.	.
+16A	.	.	.
+16f#JJ	.	.	.
+16eLL	.	.	.
+16d	.	.	.
+16c#	.	.	.
+16BJJ	.	.	.
+16ALL	.	.	.
+16B	.	.	.
+16c#	.	.	.
+16EJJ)	16ee	.	.
+!!LO:LB:g=original
+=10	=10	=10	=10
+(>16DDLL	2aa:)	4ccn: 4f#:	.
+16AA	.	.	.
+16D	.	.	.
+16EJJ	.	.	.
+16F#LL	.	4rb	.
+16E	.	.	.
+16D	.	.	.
+16BJJ	.	.	.
+16ALL	2ryy	2r	.
+16G	.	.	.
+16F#	.	.	.
+16EJJ	.	.	.
+16DLL	.	.	.
+16E	.	.	.
+16F#	.	.	.
+16AAJJ)	.	.	.
+*	*v	*v	*
+=11	=11	=11
+(>16DDLL	4r	.
+16AA	.	.
+16D	.	.
+16EJJ	.	.
+16F#LL	8r	.
+16E	.	.
+16D	16r	.
+16BJJ	(>16ccc 16aa	.
+16ALL	4.ee 4.cc)	.
+16G	.	.
+16F#	.	.
+16EJJ	.	.
+16DLL	.	.
+16E	.	.
+16F#	16r	.
+16AAJJ)	(>16dd\ 16cc\	.
+=12	=12	=12
+(>16GGLL	4.d)	.
+16D	.	.
+16G	.	.
+16AJJ	.	.
+16BLL	.	.
+16A	.	.
+16G	8r	.
+16eJJ	.	.
+16dLL	4.b 4.g	.
+16c	.	.
+16B	.	.
+16AJJ	.	.
+16GLL	.	.
+16A	.	.
+16B	16r	.
+16DJJ)	(>16ee 16cc	.
+!!LO:LB:g=original
+=13	=13	=13
+(>16GGLL	2.dd 2.b)	.
+16D	.	.
+16G	.	.
+16AJJ	.	.
+16BLL	.	.
+16A	.	.
+16G	.	.
+16eJJ	.	.
+16dLL	.	.
+16c	.	.
+16B	.	.
+16AJJ	.	.
+16GLL	8r	.
+16A	.	.
+16B	16r	.
+16DJJ)	(>16ccc 16ee	.
+=14	=14	=14
+(>16GGLL	1bb 1dd	.
+16D	.	.
+16G	.	.
+16AJJ	.	.
+16BLL	.	.
+16A	.	.
+16G	.	.
+16eJJ	.	.
+16dLL	.	.
+16c	.	.
+16B	.	.
+16AJJ	.	.
+16GLL	.	.
+16A	.	.
+16B	.	.
+16DJJ)	.	.
+=15	=15	=15
+(>16GGLL	2gg 2b)	.
+16D	.	.
+16G	.	.
+16AJJ	.	.
+16BLL	.	.
+16A	.	.
+16G	.	.
+16eJJ	.	.
+16dLL	2r	.
+16c	.	.
+16B	.	.
+16AJJ	.	.
+16GLL	.	.
+16A	.	.
+16B	.	.
+16DJJ)	.	.
+!!LO:PB:g=original
+=16	=16	=16
+*	*^	*
+(>16GGLL	(>2ffn	1b	.
+16D	.	.	.
+16G	.	.	.
+16AJJ	.	.	.
+16BLL	.	.	.
+16A	.	.	.
+16G	.	.	.
+16eJJ	.	.	.
+16dLL	4..ff	.	.
+16c	.	.	.
+16B	.	.	.
+16AJJ	.	.	.
+16GLL	.	.	.
+16A	.	.	.
+16B	.	.	.
+16DJJ)	16ff	.	.
+=17	=17	=17	=17
+(>16GGLL	4..ffn	1b	.
+16D	.	.	.
+16G	.	.	.
+16AJJ	.	.	.
+16BLL	.	.	.
+16A	.	.	.
+16G	.	.	.
+.	16qqff/LL	.	.
+.	16qqgg/JJ	.	.
+16eJJ	16ff	.	.
+16dLL	4.ee	.	.
+16c	.	.	.
+16B	.	.	.
+16AJJ	.	.	.
+16GLL	.	.	.
+16A	.	.	.
+16B	8dd#X	.	.
+16GGJJ)	.	.	.
+*	*v	*v	*
+=18	=18	=18
+(>16CCLL	[<1ee: [<1cc: [<1g: [<1e:	.
+16GG	.	.
+16C	.	.
+16DJJ	.	.
+16ELL	.	.
+16D	.	.
+16C	.	.
+16AJJ	.	.
+16GLL	.	.
+16Fn	.	.
+16E	.	.
+16DJJ	.	.
+16CLL	.	.
+16D	.	.
+16E	.	.
+16GGJJ)	.	.
+!!LO:LB:g=original
+=19	=19	=19
+(>16CCLL	1ee] 1cc] 1g] 1e])	.
+16GG	.	.
+16C	.	.
+16DJJ	.	.
+16ELL	.	.
+16D	.	.
+16C	.	.
+16AJJ	.	.
+16GLL	.	.
+16Fn	.	.
+16E	.	.
+16DJJ	.	.
+16CLL	.	.
+16D	.	.
+16E	.	.
+16GGJJ)	.	.
+=20	=20	=20
+*	*^	*
+(>16CCLL	(>2cc	1g 1e	.
+16GG	.	.	.
+16C	.	.	.
+16DJJ	.	.	.
+16ELL	.	.	.
+16D	.	.	.
+16C	.	.	.
+16AJJ	.	.	.
+16GLL	4..cc	.	.
+16Fn	.	.	.
+16E	.	.	.
+16DJJ	.	.	.
+16CLL	.	.	.
+16D	.	.	.
+16E	.	.	.
+16GGJJ)	16cc	.	.
+=21	=21	=21	=21
+(>16CCLL	2...cc	1g 1e	.
+16GG	.	.	.
+16C	.	.	.
+16DJJ	.	.	.
+16ELL	.	.	.
+16D	.	.	.
+16C	.	.	.
+16AJJ	.	.	.
+16GLL	.	.	.
+16Fn	.	.	.
+16E	.	.	.
+16DJJ	.	.	.
+16CLL	.	.	.
+16D	.	.	.
+16E	.	.	.
+16GGJJ)	16b	.	.
+*	*v	*v	*
+!!LO:LB:g=original
+=22	=22	=22
+(>16CCLL	1b 1g 1e	.
+16GG	.	.
+16C	.	.
+16DJJ	.	.
+16ELL	.	.
+16D	.	.
+16C	.	.
+16AJJ	.	.
+16GLL	.	.
+16F#X	.	.
+16E	.	.
+16DJJ	.	.
+16CLL	.	.
+16D	.	.
+16E	.	.
+16GGJJ)	.	.
+=23	=23	=23
+*	*^	*
+(>16CCLL	2...a	1g 1e	.
+16GG	.	.	.
+16C	.	.	.
+16DJJ	.	.	.
+16ELL	.	.	.
+16D	.	.	.
+16C	.	.	.
+16AJJ	.	.	.
+16GLL	.	.	.
+16F#	.	.	.
+16E	.	.	.
+16DJJ	.	.	.
+16CLL	.	.	.
+16D	.	.	.
+16E	.	.	.
+16GGJJ)	16b	.	.
+=24	=24	=24	=24
+(>16DDLL	1g: 1d:)	4A:	.
+16AA	.	.	.
+16C	.	.	.
+16DJJ	.	.	.
+16ELL	.	4rc	.
+16D	.	.	.
+16C	.	.	.
+16BJJ	.	.	.
+16ALL	.	2rf	.
+16G	.	.	.
+16E	.	.	.
+16DJJ	.	.	.
+16CLL	.	.	.
+16D	.	.	.
+16E	.	.	.
+16AAJJ)	.	.	.
+!!LO:LB:g=original
+=25	=25	=25	=25
+(>16DDLL	(>2...f#	1d 1c	.
+16AA	.	.	.
+16D	.	.	.
+16EJJ	.	.	.
+16F#LL	.	.	.
+16E	.	.	.
+16D	.	.	.
+16BJJ	.	.	.
+16ALL	.	.	.
+16G	.	.	.
+16F#	.	.	.
+16EJJ	.	.	.
+16D/LL	.	.	.
+16E/	.	.	.
+16F#	.	.	.
+16AAJJ)	16g	.	.
+*	*v	*v	*
+=26	=26	=26
+(>16GGLL	1g 1d 1B)	.
+16D	.	.
+16G	.	.
+16AJJ	.	.
+16BLL	.	.
+16A	.	.
+16G	.	.
+16eJJ	.	.
+16dLL	.	.
+16c	.	.
+16B	.	.
+16AJJ	.	.
+16GLL	.	.
+16A	.	.
+16B	.	.
+16DJJ)	.	.
+=27	=27	=27
+(>16GGLL	1rdd	.
+16D	.	.
+16G	.	.
+16AJJ	.	.
+16BLL	.	.
+16A	.	.
+16G	.	.
+16eJJ	.	.
+16dLL	.	.
+16c	.	.
+16B	.	.
+16AJJ	.	.
+16GLL	.	.
+16A	.	.
+16B	.	.
+16DJJ)	.	.
+=28	=28	=28
+!	!LO:TX:a:i:B:t=Leggiero.	!
+16GGLL	(>16BLL	p
+16D	16d	.
+16G	16g	.
+16AJJ	16aJJ	.
+16BLL	16bLL	.
+16A	16a	.
+16G	16g	.
+16eJJ	16eeJJ	.
+16dLL	16ddLL	.
+16c	16cc	.
+16B	16b	.
+16AJJ	16aJJ	.
+16GLL	16gLL	.
+16A	16a	.
+16B	16b	.
+16DJJ	16dJJ	.
+!!LO:LB:g=original
+=29	=29	=29
+16GGLL	16BLL	.
+16D	16d	.
+16G	16g	.
+16AJJ	16aJJ	.
+16BLL	16b/LL	.
+16A	16a	.
+16G	16g	.
+16eJJ	16eeJJ	.
+16dLL	16dd/LL	.
+16c	16cc	.
+16B	16b	.
+16AJJ	16aJJ	.
+16GLL	16gLL	.
+16A	16a	.
+16B	16b	.
+16DJJ	16dJJ	.
+=30	=30	=30
+16GGLL	16BLL	.
+16D	16d	.
+16G	16g	.
+16AJJ	16aJJ	.
+16GLL	16gLL	.
+16A	16a	.
+16B	16b	.
+16DJJ	16dJJ	.
+16GGLL	16BLL	.
+16D	16d	.
+16G	16g	.
+16AJJ	16aJJ	.
+16GLL	16gLL	.
+16A	16a	.
+16B	16b	.
+16DJJ	16dJJ	.
+=31	=31	=31
+16GGLL	16BLL	.
+!	!LO:TX:t=dim _:problem:dynamics with extention lines	!
+!	!	!LO:HP:i:t=dim
+16D	16d	>
+16G	16g	.
+16AJJ	16aJJ	.
+16GLL	16gLL	.
+16A	16a	.
+16B	16b	.
+16dJJ	16ddJJ	.
+*clefG2	*	*
+16g\LL	16ggLL	.
+16a\	16aa	.
+16b	16bb	.
+16ddJJ	16dddJJ	.
+*	*8va	*
+16ggLL	16gggLL	.
+16aa	16aaa	.
+16bb	16bbb	.
+16dddJJ	16ddddJJ	.
+=32	=32	=32
+4bb	4bbb)	.
+*	*X8va	*
+4r	4r	]
+*clefF4	*	*
+!	!LO:TX:a:B:t=loco.	!
+2G: 2D: 2GG:	2b: 2g: 2d: 2B:	.
+=33	=33	=33
+1G:;> 1D: 1GG:	1b:;> 1g: 1d: 1B:	.
+==	==	==
+*-	*-	*-
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!ENC: Mateusz Mrugas
+!!!END: data edycji 2019-04-25
+!!!EED:Jędrzej Mróz
+!!!EST: 2019-05-06
+!!!EED2: Zofia Niedbalska
+!!!EST: 2020-04-25
+!!!rism-genre: Prelude
+!!!rism-key: G major
+!!!rism-opus: op. 28, no. 3
+!!!rism-title: Prelude in G major op. 28, no. 3
+!!!rism-permalink: https://opac.rism.info/search?id=1001065067&View=rism
+!!!rism-773a-OPR: 1001065063
+!!!rism-parent-permalink: https://opac.rism.info/search?id=1001065063&View=rism

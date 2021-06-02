@@ -1,0 +1,417 @@
+!!!!SEGMENT: 028_1-12-1a-C-001.krn
+!!!COM: Chopin, Fryderyk
+!!!OTL: I.
+!!!OPS: Op. 28
+!!!PTL: 24 PRÉLUDES POUR le Piano
+!!!PPR: Catelin
+!!!PPP: Paris
+!!!NIFC-rismID: 1001065064
+!!!NIFC-shelfmark: PL-Wbfc 6583/n
+!!!OMD: Agitato.
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*	*I"I.	*
+*staff2	*staff1	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*M2/8	*M2/8	*
+*	*	*
+=1	=1	=1
+*^	*^	*
+*Xtuplet	*Xtuplet	*	*	*
+*ped	*	*	*	*
+!	!	!LO:TX:t=P:problem:nie wyświetla się "Agitato" na początku utworu.	!	!
+!	!	!LO:TX:t=P:stem-side tuplet number:problem	!	!LO:DY:rj
+24ryy	(>24CCLL	(>24r	8rFyy	mf
+12.GL<	24GG	24G<LL	.	.
+.	24EJJ)	24cJJ)	.	.
+*	*	*	*Xtuplet	*
+!	!	!LO:TX:t=P:stem-side tuplet number:problem	!LO:TX:b:t=P:mixed beam:problem	!
+.	8rGG	(>12gL	24e\LL<	.
+24rGyy	.	.	24c\	.
+*Xped	*	*	*	*
+24AJk	.	24aJk)	24A</JJ	.
+=2	=2	=2	=2	=2
+*Xtuplet	*Xtuplet	*Xtuplet	*	*
+*ped	*	*	*	*
+24ryy	(>24BBBLL	(>24r	8rGyy	.
+12.GL<	24GG	24G<LL	.	.
+.	24FJJ)	24dJJ	.	.
+!	!	!	!LO:TX:b:t=P:mixed beam:problem	!
+.	8rGG	12gL	24f\LL<	.
+24rGyy	.	.	24d\	.
+*Xped	*	*	*	*
+24AJk	.	24aJk)	24A</JJ	.
+=3	=3	=3	=3	=3
+*ped	*	*	*	*
+24ryy	(>24CCLL	(>24r	8rGyy	.
+12.GL<	24GG	24G<LL	.	.
+.	24EJJ)	24cJJ	.	.
+!	!	!	!LO:TX:b:t=P:mixed beam:problem	!
+.	8rGG	12gL	24e\LL<	.
+24rAyy	.	.	24c\	.
+*Xped	*	*	*	*
+24AJk	.	24aJk)	24A</JJ	.
+=4	=4	=4	=4	=4
+*ped	*	*	*	*
+24ryy	(>24EELL	(>24r	8rGyy	.
+12.BL<	24C	24B<LL	.	.
+.	24GJJ)	24eJJ	.	.
+!	!	!	!LO:TX:b:t=P:mixed beam:problem	!
+.	8rGG	12bL	24g\LL<	.
+24ryy	.	.	24e\	.
+*Xped	*	*	*	*
+24cJk	.	24ccJk)	24c</JJ	.
+=5	=5	=5	=5	=5
+*ped	*	*	*	*
+*Xtuplet	*tuplet	*Xtuplet	*Xtuplet	*
+!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!
+24rAyy	(>24FFLL<	(>24r	8rcyy	.
+12e>L<	24C	24eLL	.	.
+.	24AJJ)	24aJJ	.	.
+!	!	!	!LO:TX:b:t=P:mixed beam:problem	!
+12ryy	8r	12eeL	24cc\LL<	.
+.	.	.	24a\	.
+*Xped	*	*	*	*
+24d>Jk	.	24ddJk)	24d/JJ	.
+=6	=6	=6	=6	=6
+*ped	*	*	*	*
+*Xtuplet	*Xtuplet	*Xtuplet	*Xtuplet	*
+24rAyy	(>24FF#XLL	(>24r	8rcyy	.
+12e>L<	24D	24eLL	.	.
+.	24cJJ)	24aJJ	.	.
+!	!	!	!LO:TX:b:t=P:mixed beam:problem	!
+12ryy	8r	12eeL	24cc\LL<	.
+.	.	.	24a\	.
+*Xped	*	*	*	*
+24d>Jk	.	24ddJk)	24d/JJ	.
+!!LO:LB:g=original
+=7	=7	=7	=7	=7
+*ped	*	*	*	*
+24ryy	(>24GGLL	(>24r	8ryy	.
+12.e>L<	24Fn	24eLL	.	.
+.	24BJJ)	24gJJ	.	.
+!	!	!	!LO:TX:b:t=P:mixed beam:problem	!
+.	8r	12eeL	24b\LL<	.
+24rdyy	.	.	24g\	.
+*Xped	*	*	*	*
+24d>Jk	.	24ddJk)	24d/JJ	.
+=8	=8	=8	=8	=8
+*ped	*	*	*	*
+!LO:TX:b:t=P:pedalizacja przed nutą:problem	!	!	!	!
+24ryy	(>24GGGLL	(>24r	8ryy	.
+12.BL<	24GG	24B<LL	.	.
+.	24FJJ)	24dJJ	.	.
+!	!	!	!LO:TX:b:t=P:mixed beam:problem	!
+.	8rGG	12bL	24f\LL<	.
+24ryy	.	.	24d\	.
+*Xped	*	*	*	*
+24AJk	.	24aJk)	24A</JJ	.
+=9	=9	=9	=9	=9
+*ped	*	*	*	*
+24ryy	(>24CCLL	(>24r	8ryy	.
+12.GL<	24GG	24G<LL	.	.
+.	24EJJ)	24cJJ	.	.
+!	!	!	!LO:TX:b:t=P:mixed beam:problem	!
+.	8rGG	12gL	24e\LL<	.
+24ryy	.	.	24c\	.
+*Xped	*	*	*	*
+24AJk	.	24aJk)	24A</JJ	.
+=10	=10	=10	=10	=10
+*ped	*	*	*	*
+24ryy	(>24BBBLL	(>24r	8ryy	.
+12.GL<	24GG	24G<LL	.	.
+.	24FJJ)	24dJJ	.	.
+!	!	!	!LO:TX:b:t=P:mixed beam:problem	!
+.	8rGG	12gL	24f\LL<	.
+24ryy	.	.	24d\	.
+*Xped	*	*	*	*
+24AJk	.	24aJk)	24A</JJ	.
+=11	=11	=11	=11	=11
+*ped	*	*	*	*
+24ryy	(>24CCLL	(>24r	8ryy	.
+12.GL<	24GG	24G<LL	.	.
+.	24EJJ)	24cJJ	.	.
+!	!	!	!LO:TX:b:t=P:mixed beam:problem	!
+.	8rGG	12gL	24e\LL<	.
+24ryy	.	.	24c\	.
+*Xped	*	*	*	*
+24AJk	.	24aJk)	24A</JJ	.
+=12	=12	=12	=12	=12
+*ped	*	*	*	*
+24ryy	(>24EELL	(>24r	8ryy	.
+12.BL<	24C	24B<LL	.	.
+.	24GJJ)	24eJJ	.	.
+!	!	!	!LO:TX:b:t=P:mixed beam:problem	!
+.	8rGG	12bL	24g\LL<	.
+24ryy	.	.	24e\	.
+*Xped	*	*	*	*
+24cJk	.	24ccJk)	24c</JJ	.
+=13	=13	=13	=13	=13
+*ped	*	*	*	*
+24ryy	(>24FFLL<	(>24r	8ryy	.
+12.c#>L<	24Cn	24c#XLL	.	.
+.	24AJJ)	24fJJ	.	.
+!	!	!	!LO:TX:b:t=P:mixed beam:problem	!
+!	!	!LO:TX:b:t=cres _:problem:dynamics with extention lines 	!	!
+!	!	!	!	!LO:HP:b::i:t=cres:ext=ud
+.	8r	12cc#XL	24a\LL<	<
+24ryy	.	.	24f\	.
+*Xped	*	*	*	*
+24d>Jk	.	24ddJk)	24d/JJ	.
+*v	*v	*	*	*
+!!LO:LB:g=original
+=14	=14	=14	=14
+*	*	*^	*
+*ped	*	*	*	*
+(>24GGLL	(>24r	8ryy	24ryy	.
+24C	24d#XLL	.	12.d#X\L	.
+24B-XJJ)	24gJJ	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+8r	12dd#XL	24cc\LL<	.	.
+.	.	24g\	24ryy	.
+*Xped	*	*	*	*
+.	24eeJk)	24e/JJ	24e\Jk	.
+=15	=15	=15	=15	=15
+*ped	*	*	*	*
+(>24AALL	(>24r	8ryy	24ryy	.
+24F	24gLL	.	12.g\L	.
+24cJJ)	24aJJ	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+8r	12ggL	24cc\LL<	.	.
+.	.	24a\	24ryy	.
+*Xped	*	*	*	*
+.	24ffJk)	24f/JJ	24f\Jk	.
+=16	=16	=16	=16	=16
+*ped	*	*	*	*
+(>24GGLL	(>24r	8ryy	24ryy	.
+24C	24d#XLL	.	12.d#X\L	.
+24cJJ)	24gJJ	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+8r	12dd#XL	24cc\LL<	.	.
+.	.	24g\	24ryy	.
+*Xped	*	*	*	*
+.	24eeJk)	24e/JJ	24e\Jk	.
+=17	=17	=17	=17	=17
+*ped	*	*	*	*
+(>24AALL	(>24r	8ryy	24ryy	.
+24F	24eLL	.	12.e\L	.
+!	!LO:TX:b:i:t=stretto._:dur=9es:ext=ud:problem:text with extention lines	!	!	!
+24cJJ)	24aJJ	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+8r	12eeL	24cc\LL<	.	.
+.	.	24a\	24ryy	.
+*Xped	*	*	*	*
+.	24ffJk)	24f/JJ	24f\Jk	.
+=18	=18	=18	=18	=18
+*tuplet	*tuplet	*Xtuplet	*Xtuplet	*
+*ped	*	*	*	*
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!LO:TX:t=P:stem-side tuplet number:problem	!	!	!
+(>24BBLL	(>20f#XLL	20ryy	10.f#X\L	.
+24G	.	.	.	.
+.	20bJJ	20ryy	.	.
+24dJJ)	.	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+.	10ff#XL	20dd\LL<	.	.
+8r	.	.	.	.
+.	.	20b\	20	.
+*Xped	*	*	*	*
+.	20ggJk)	20g/JJ	20g\Jk	.
+=19	=19	=19	=19	=19
+*ped	*	*	*	*
+*	*tuplet	*	*	*
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!LO:TX:t=P:stem-side tuplet number:problem	!	!	!
+(>24CLL	(>20g#XLL	20ryy	10.g#X\L	.
+24Gn	.	.	.	.
+.	20ccJJ	20ryy	.	.
+24eJJ)	.	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+.	10gg#XL	20ee\LL<	.	.
+*	*Xtuplet	*	*tuplet	*
+8r	.	.	.	.
+.	.	20cc\	20	.
+*Xped	*	*	*	*
+.	20aaJk)	20a/JJ	20a\Jk	.
+=20	=20	=20	=20	=20
+*tuplet	*tuplet	*Xtuplet	*Xtuplet	*
+*ped	*	*	*	*
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!LO:TX:t=P:stem-side tuplet number:problem	!	!	!
+(>24DLL	(>20a#XLL	20ryy	10.a#XL	.
+24G	.	.	.	.
+.	20ddJJ	20ryy	.	.
+24fJJ)	.	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+.	10aa#XL	20gg\LL<	.	.
+8r	.	.	.	.
+.	.	20dd\	20	.
+*Xped	*	*	*	*
+.	20bbJk)	20b/JJ	20bJk	.
+!!LO:LB:g=original
+=21	=21	=21	=21	=21
+*ped	*	*	*	*
+*Xtuplet	*Xtuplet	*Xtuplet	*Xtuplet	*
+(>24ELL<	(>24r	8ryy	24ryy	.
+24c	24ddLL>	.	12.dd\L	.
+24gJJ)	24eeJJ	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+8r	12dddL	24gg\LL<	.	.
+.	.	24ee\	24ryy\	.
+*Xped	*	*	*	*
+.	24cccJk)	24cc/JJ	24ccJ	[
+=22	=22	=22	=22	=22
+*ped	*	*	*	*
+(>24FF#XLL<	(>24r	8ryy	24ryy	.
+24D#X	24bLL>	.	12.b\L	.
+24cJJ)	24ccJJ	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+8r	12bbL	24dd#X\LL<	.	.
+.	.	24cc\	24ryy	.
+*Xped	*	*	*	*
+.	24aaJk)	24a/JJ	24a\Jk	.
+=23	=23	=23	=23	=23
+*ped	*	*	*	*
+*tuplet	*tuplet	*Xtuplet	*Xtuplet	*
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!LO:TX:t=P:stem-side tuplet number:problem	!	!	!
+(>24GGLL<	(>20aLL	20ryy	10.aL	.
+24E	.	.	.	.
+.	20ccJJ	20ryy	.	.
+24cJJ)	.	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+.	10aaL	20ee\LL<	.	.
+8r	.	.	.	.
+.	.	20cc\	20	.
+.	.	.	.	.
+*Xped	*	*	*	*
+.	20ggJk)	20g/JJ	20gJk	.
+=24	=24	=24	=24	=24
+*ped	*	*	*	*
+*	*Xtuplet	*Xtuplet	*Xtuplet	*
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!	!	!
+(>24GGLL<	(>24r	8ryy	24ryy	.
+24F	24eLL	.	12.e\L	.
+24BJJ)	24gJJ	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+8r	12eeL	24b\LL<	.	.
+.	.	24g\	24ryy	.
+*Xped	*	*	*	*
+.	24ddJk)	24d/JJ	24d\Jk	.
+=25	=25	=25	=25	=25
+*ped	*	*	*	*
+*Xtuplet	*tuplet	*Xtuplet	*Xtuplet	*
+!	!LO:TX:t=P:stem-side tuplet number:problem	!	!	!LO:DY:rj
+(>24CCLL	(>20G<LL	20ryy	10.G<L<	p
+24GG	.	.	.	.
+.	20cJJ	20ryy	.	.
+24EJJ)	.	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+.	10gL	20e\LL<	.	.
+8rGG	.	.	.	.
+.	.	20c\	20	.
+*Xped	*	*	*	*
+.	20aJk)	20A</JJ	20A<Jk	.
+=26	=26	=26	=26	=26
+*tuplet	*tuplet	*Xtuplet	*	*
+*ped	*	*	*	*
+!LO:TX:a:t=P:note-head-side tuplet number:problem	!LO:TX:t=P:stem-side tuplet number:problem	!	!	!
+(>24CCLL<	(>20eLL	20ryy	10.eL<	.
+24GG	.	.	.	.
+.	20gJJ	20ryy	.	.
+24FJJ)	.	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+.	10eeL	20b\LL<	.	.
+8r	.	.	.	.
+.	.	20g\	20	.
+*Xped	*	*	*	*
+.	20ddJk)	20d/JJ	20dJ	.
+=27	=27	=27	=27	=27
+*ped	*	*	*	*
+*Xtuplet	*Xtuplet	*Xtuplet	*Xtuplet	*
+(>24CCLL	(>24r	8ryy	24ryy	.
+24GG	24G<LL	.	12.G<L<	.
+24EJJ)	24cJJ	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+8rEE	12gL	24e\LL<	.	.
+.	.	24c\	24ryy	.
+*Xped	*	*	*	*
+.	24aJk)	24A</JJ	24A<Jk	.
+*	*	*v	*v	*
+!!LO:LB:g=original
+=28	=28	=28	=28
+*	*	*^	*
+*Xtuplet	*Xtuplet	*Xtuplet	*Xtuplet	*
+*ped	*	*	*	*
+(>24CCLL<	(>24r	8rcyy	24rAyy	.
+24GG	24eLL	.	12.e>L<	.
+24FJJ)	24gJJ	.	.	.
+!	!	!LO:TX:b:t=P:mixed beam:problem	!	!
+8r	12eeL	24b\LL<	.	.
+.	.	24g\	24ryy	.
+*Xped	*	*	*	*
+.	24ddJk)	24d/JJ	24d>Jk	.
+*	*	*v	*v	*
+=29	=29	=29	=29
+*ped	*	*	*
+(>24CCLL<	24ryy	(>24r	.
+24GG	24cLL	12c	.
+24GJJ)	24fJJ	.	.
+!	!LO:TX:a:t=P:cross-measure beam:problem	!	!
+8r	[<8cc/	24aLL	.
+.	.	24f	.
+*Xped	*	*	*
+.	.	24gJJ 24e)	.
+=30	=30	=30	=30
+*	*	*^	*
+*ped	*	*	*	*
+(>24CCLL<	(>8cc/]	24rd	24ryy	.
+24GG	.	24cLL>	12c\	.
+24GJJ)	.	24fJJ	.	.
+!	!LO:TX:a:t=P:cross-measure beam:problem	!	!	!
+8r	[<8ccLL	24aLL	8ryy	.
+.	.	24f	.	.
+*Xped	*	*	*	*
+.	.	24gJJ 24e)	.	.
+=31	=31	=31	=31	=31
+*ped	*	*	*	*
+(>24CCLL<	(>8cc/]	24rd	24ryy	.
+24GG	.	24cLL>	12c\	.
+24GJJ)	.	24fJJ	.	.
+!	!LO:TX:a:t=P:cross-measure beam:problem	!	!	!
+8r	[<8ccLL	24aLL	8ryy	.
+.	.	24f	.	.
+*Xped	*	*	*	*
+.	.	24gJJ 24e)	.	.
+=32	=32	=32	=32	=32
+*ped	*	*	*	*
+(>24CCLL<	(>8cc/]	24rd	24ryy	.
+24GG	.	24cLL>	12c\	.
+24GJJ)	.	24fJJ	.	.
+8r	8ccLL	24aLL	8ryy	.
+.	.	24f	.	.
+*Xped	*	*	*	*
+.	.	24gJJ 24e)	.	.
+*	*v	*v	*v	*
+=33	=33	=33
+*ped	*	*
+N[<N(>24CCLL>	8ryy	.
+N[<24GG	.	.
+N[<24CJJ	.	.
+8ryy	N[</24E<LL>	.
+.	N[>/24G<	.
+.	N[</24cJJ	.
+=34	=34	=34
+!	!LO:S:s=1:note:problem:note-level slur	!
+4C;<\N] 4GG\N] 4EE 4CC\N]	4e;>N) 4cN] 4G<N] 4E<N]	.
+.	.	.
+.	.	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!title: @{OTL}; @{OPS} @{ONM} publisher: @{PPR}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
+!!!RDF**kern: N = linked
+!!!RDF**dynam: > = "dim", fontstyle = "bold-italic"
+!!!ENC: Mateusz Mrugas
+!!!END: 2020-02-28
+!!!EED: Jędrzej Mróz
+!!!EST: revision finished 2020-03-01
