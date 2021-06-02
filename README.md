@@ -4,7 +4,7 @@ Chopin First Editions as Humdrum digital scores
 This repository contains Humdrum digital scores for first editions
 of Fryderyk Chopin's compositions that were encoded at the Narodowy
 Instytut Fryderyka Chopina (NIFC), or Fryderyk Chopin Institute in
-English, as part of the "<i><a target="_blank" href="https://nifc.pl/en/home/aktualnosci/news/33>Dziedzictwo Chopinowskie w otwartym dostępie</a></i>" (Chopin Heritate in Open Access) project.
+English, as part of the "<i><a target="_blank" href="https://nifc.pl/en/home/aktualnosci/news/33">Dziedzictwo Chopinowskie w otwartym dostępie</a></i>" (Chopin Heritate in Open Access) project.
 
 The front-end interface for these digital scores is https://humdrum.nifc.pl .
 
