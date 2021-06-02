@@ -1,4 +1,4 @@
-Chopin First Editions as Humdrum digital scores
+Humdrum digital scores of Chopin first editions
 ===============================================
 
 This repository contains Humdrum digital scores for first editions
