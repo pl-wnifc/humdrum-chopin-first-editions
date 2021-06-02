@@ -49,7 +49,7 @@ Here are the siglum abbreviations for each publisher, sorted by the number of fi
 represented by each publisher in the repository:
 
 
-| count | siglum | full name | location |
+| Count | Siglum | Full name | Location |
 | ----- | ------ | --------- | -------- | 
 | 129 | BH	| Breitkopf & Härtel				| Leipzig	|
 | 107 | Sm	| Maurice Schlesinger				| Paris		|
