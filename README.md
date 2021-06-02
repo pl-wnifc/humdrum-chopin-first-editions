@@ -14,7 +14,7 @@ The front-end interface for these digital scores is https://humdrum.nifc.pl .
 
 Digital encoders and editors
 
-| Scores | Digital editor/encoder	|
+| Files  | Digital editor/encoder	|
 | ------ | ---------------------------- |
 | 201	 | Emilia Ziętek		|
 | 194	 | Jędrzej Mróz			|
