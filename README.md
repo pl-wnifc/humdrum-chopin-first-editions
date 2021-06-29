@@ -43,7 +43,7 @@ Filenames are based on the Rink-Grabowski system.  For example `007-1-KI-001.krn
 | `007`     | Op. 7				|
 | `1`       | first edition by given publisher	|
 | `KI`      | publisher: Kistner		|
-| `001`     | work no. 1 in edition (usually, but not always, this number matches to works between different publishers. |
+| `001`     | work no. 1 in edition (usually, but not always, this number matches to works between different publishers). |
 
 Here are the siglum abbreviations for each publisher, sorted by the number of files
 represented by each publisher in the repository:
