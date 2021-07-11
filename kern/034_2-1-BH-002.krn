@@ -144,6 +144,7 @@
 4f 4A 4G	.	.	.
 .	8gg	.	.
 !	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+!	!LO:TUP:a	!	!
 4f 4A 4G	12ggL	.	.
 .	12ff	.	.
 .	12eeJ	.	.
@@ -167,6 +168,7 @@
 2d]	4A]	2E	8aM>L\	.	.
 .	.	.	(>8g#XJ	.	.
 !	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+!	!	!	!LO:TUP:a	!	!
 .	4G#X	.	14bL	.	.
 .	.	.	14cc	.	.
 .	.	.	14dd	.	.
@@ -179,14 +181,21 @@
 *v	*v	*	*	*
 !!LO:PB:g=original
 =25	=25	=25	=25
+!	!LO:N:vis=14%3	!	!
 4AA/	28%3dd#XL\	.	.
+!	!LO:N:vis=14%3	!	!
 .	28%3ee	.	.
+!	!LO:N:vis=14%3	!	!
 .	28%3d#X	1	.
 4c 4E	.	.	.
+!	!LO:N:vis=14%3	!	!
 .	28%3e	1	.
+!	!LO:N:vis=14%3	!	!
 .	28%3cc	.	.
 4c 4E	.	.	.
+!	!LO:N:vis=14%3	!	!
 .	28%3b	.	.
+!	!LO:N:vis=14%3	!	!
 .	28%3aJ	.	.
 =26	=26	=26	=26
 .	8qb/	.	.
@@ -198,9 +207,11 @@
 .	8ff	.	.
 !	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
 !	!LO:TX:a:t=P:w źródle dwie grupy po 3 triole oznaczone dwoma '3' nad nutami:problem	!	!
+!	!LO:TUP:a	!	!
 4d 4G#X 4F	12a#X	.	.
 .	12b	.	.
 .	12cc	.	.
+*	*tupbreak	*	*
 4d 4G# 4F	12b	.	.
 .	12dd	.	.
 .	12ccJ)	.	.
@@ -232,6 +243,7 @@
 =32	=32	=32	=32	=32	=32
 4re	2F	2.aa	8eeL	.	.
 !	!	!	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+!	!	!	!LO:TUP:a	!	!
 .	.	.	24ddL	.	.
 .	.	.	24ee	.	.
 .	.	.	24ddJ	.	.
@@ -591,6 +603,7 @@
 4f 4A 4G	.	.	.
 .	8gg	.	.
 !	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
+!	!LO:TUP:a	!	!
 4e 4A 4G	12ggL	.	.
 .	12ff	.	.
 .	12eeJ	.	.
@@ -625,14 +638,21 @@
 *v	*v	*	*	*
 !!LO:LB:g=original
 =93	=93	=93	=93
+!	!LO:N:vis=14%3	!	!
 4AA	28%3dd#XL\	.	.
+!	!LO:N:vis=14%3	!	!
 .	28%3ee	.	.
+!	!LO:N:vis=14%3	!	!
 .	28%3d#X	1	.
 4c 4E	.	.	.
+!	!LO:N:vis=14%3	!	!
 .	28%3e	1	.
+!	!LO:N:vis=14%3	!	!
 .	28%3cc	.	.
 4c 4E	.	.	.
+!	!LO:N:vis=14%3	!	!
 .	28%3b	.	.
+!	!LO:N:vis=14%3	!	!
 .	28%3aJ	.	.
 =94	=94	=94	=94
 .	8qb/	.	.
@@ -644,9 +664,11 @@
 .	8ff	.	.
 !	!LO:TX:a:t=P:note-head-side tuplet number:problem	!	!
 !	!LO:TX:a:t=P:w źródle dwie grupy po 3 triole oznaczone dwoma '3' nad nutami:problem	!	!
+!	!LO:TUP:a	!	!
 4d 4G#X 4F	12a#X	.	.
 .	12b	.	.
 .	12cc	.	.
+*	*tupbreak	*	*
 4d 4G# 4F	12b	.	.
 .	12dd	.	.
 .	12ccJ)	.	.
@@ -1404,6 +1426,8 @@
 !!!EST: 2018-10-29
 !!!EED2: Wojciech Jakubiak-Danek
 !!!EST2: 2019-12-22
+!!!EED3: Jacek Iwaszko
+!!!EST3: 2021-06-16
 !!!rism-genre: Waltz
 !!!rism-key: A minor
 !!!rism-opus: op. 34, no 2

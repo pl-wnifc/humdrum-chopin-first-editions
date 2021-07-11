@@ -17,7 +17,6 @@
 *M3/4	*M3/4	*
 *	*	*
 =1	=1	=1
-!!ignore
 !LO:TX:a:i:t=sotto voce.	!	!
 2BB-	(>2B-<	.
 !LO:TX:a:t=P:note-head-side tuplet number:problem	!LO:TX:a:t=P:stem-side tuplet number:problem	!
@@ -3599,7 +3598,6 @@ N[<4F#\	.	2rcccyy	(>\8a#XL	.
 .	4r	.
 *Xped	*	*
 =520	=520	=520
-!!Xignore
 *ped	*	*
 4BB 4BBB	(>8dd#XL	.
 .	8ee	.
