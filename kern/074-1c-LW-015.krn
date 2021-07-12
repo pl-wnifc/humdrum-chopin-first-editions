@@ -18,7 +18,7 @@
 *M2/4	*M2/4	*	*M2/4	*	*
 *	*	*	*	*	*
 =1	=1	=1	=1	=1	=1
-*	*clefF-4	*	*	*	*
+*	*clefF4	*	*	*	*
 !	!	!LO:DY:rj	!	!	!
 !	!	!	!LO:TX:t=P:nie wyświetla się "PRESTISSIMO." (!!!OMD):problem	!	!
 !	!	!	!LO:TX:t=P:w źródle brak pustych 8 taktów partii wokalnej; system zawiera tylko pierwsze 8 taktów partii fotepianu:problem	!	!
@@ -50,7 +50,7 @@
 16BB	16B	.	.	.	.
 16C	16c	.	.	.	.
 16C#JJ	16c#JJ	.	.	.	.
-*	*clefG-2	*	*	*	*
+*	*clefG2	*	*	*	*
 =4	=4	=4	=4	=4	=4
 16DLL	16dLL	.	2rff	.	.
 16D#	16d#	.	.	.	.
@@ -223,7 +223,7 @@
 16AA	.	.	.	.	.
 16GG#	.	.	.	.	.
 16GGXJJ	.	.	.	.	.
-*	*clefF-4	*	*	*	*
+*	*clefF4	*	*	*	*
 !!LO:LB:g=original
 =24	=24	=24	=24	=24	=24
 !	!	!LO:DY:b	!	!	!
@@ -255,7 +255,7 @@
 16BB	16B	.	.	.	.
 16C	16c	.	.	.	.
 16C#JJ	16c#JJ	.	.	.	.
-*	*clefG-2	*	*	*	*
+*	*clefG2	*	*	*	*
 =27	=27	=27	=27	=27	=27
 16DLL	16dLL	.	2r	.	.
 16D#	16d#	.	.	.	.
@@ -428,7 +428,7 @@
 16AA	.	.	.	.	.
 16GG#	.	.	.	.	.
 16GGXJJ	.	.	.	.	.
-*	*clefF-4	*	*	*	*
+*	*clefF4	*	*	*	*
 =47	=47	=47	=47	=47	=47
 !	!	!LO:DY:b	!	!	!
 16FF#LL	16F#LL	.	2rff	.	.
@@ -460,7 +460,7 @@
 16BB	16B	.	.	.	.
 16C	16c	.	.	.	.
 16C#JJ	16c#JJ	.	.	.	.
-*	*clefG-2	*	*	*	*
+*	*clefG2	*	*	*	*
 =50	=50	=50	=50	=50	=50
 16DLL	16dLL	.	2rff	.	.
 16D#	16d#	.	.	.	.

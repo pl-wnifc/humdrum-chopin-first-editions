@@ -1676,7 +1676,7 @@
 =110	=110	=110	=110	=110	=110	=110
 *	*^	*	*	*	*	*
 *	*	*	*	*	*	*	*^
-*	*	*	*	*	*clefG-2	*	*	*
+*	*	*	*	*	*clefG2	*	*	*
 16DLL<	16ddLL 16f 16d	2rcccyy	.	>	16dLL	.	.	.
 16C	16cc 16c	.	.	.	16en	.	.	.
 16BBn	16bn 16Bn	.	.	]	16f	.	.	.
@@ -2597,7 +2597,7 @@ N[>1D	(<2DD	[>1d	.	fz	2D	.	.
 4F#	4cc 4a 4d#X	4rAyy	.	.	(<8d#L	.	.
 .	.	.	.	.	8aJ)	.	.
 4BB	8bnL	4d#	.	.	(>\8aL	.	.
-*	*	*	*	*	*clefF-4	*	*
+*	*	*	*	*	*clefF4	*	*
 .	8aJ) 8f#	.	.	.	8BnJ)	.	.
 =165	=165	=165	=165	=165	=165	=165	=165
 *ped	*	*	*	*	*	*	*
@@ -3044,7 +3044,7 @@ N[>1D	(<2DD	[>1d	.	fz	2D	.	.
 8e\ 8c\ 8G\ >\8E	8cccL 8bb- 8gg 8cc	.	]	2r	[	.
 (>16CLL	(>16bbnL	.	.	.	.	.
 16GJJ	16bb-XJJ	.	.	.	.	.
-*clefG-2	*	*	*	*	*	*
+*clefG2	*	*	*	*	*	*
 16B-XLL	16ggLL	.	.	.	.	.
 16c	16ee	.	.	.	.	.
 16e	16cc	.	.	.	.	.
@@ -3442,7 +3442,7 @@ N[>1D	(<2DD	[>1d	.	fz	2D	.	.
 16d	.	16b	.	.	.	.	.
 !LO:TX:a:t=P:klucz na kresce taktowej:problem	!	!	!	!	!	!	!
 16dJJ	.	16bJJ	.	[	.	.	.
-*clefF-4	*	*	*	*	*	*	*
+*clefF4	*	*	*	*	*	*	*
 =222	=222	=222	=222	=222	=222	=222	=222
 *^	*	*	*	*	*	*	*
 !	!	!	!	!	!LO:HP:b:i:t=cresc:ext=ud	!	!	!
@@ -3456,7 +3456,7 @@ N[>1D	(<2DD	[>1d	.	fz	2D	.	.
 .	16c	.	16aa-X) 16a-X	.	.	.	.	.
 16e-L]	16c	.	16aa- 16a-	.	.	.	.	.
 16e-JJ	16cJJ	.	16aa-JJ 16a-	.	.	.	.	.
-*clefG-2	*	*	*	*	*	*	*	*
+*clefG2	*	*	*	*	*	*	*	*
 (<16e-LL	8cL	(>16aa-LL< 16a-	8ee-	.	.	.	.	.
 16f#X)	.	16aa) 16a	.	.	.	.	.	.
 16f#	16cL	16aa 16ee- 16a	8ryy	.	.	.	.	.
